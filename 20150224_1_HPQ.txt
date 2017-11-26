@@ -1,0 +1,873 @@
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 1 of 16
+Q1 2015 Earnings Call
+Company Participants
+• Jim Bergkamp
+• Meg Whitman
+• Catherine A. Lesjak
+• Dion Weisler
+Other Participants
+• Sherri A. Scribner
+• Maynard J. Um
+• Antonio M. Sacconaghi
+• Kathryn Huberty
+• Rod B. Hall
+• Steven M. Milunovich
+• James Suva
+• Ben A. Reitzes
+• Wamsi Mohan
+• Aaron C. Rakers
+• Shannon S. Cross
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day and welcome to the first quarter 2015 Hewlett-Packard earnings conference call. My name is Denise, and I
+will be your conference moderator for today's call. We will be facilitating a question-and-answer session towards the
+end of the conference. [Operator instructions] As a reminder, this conference is being recorded for replay purposes.
+I would now like to turn the presentation over to your host for today's call, Mr. Jim Bergkamp, Vice President of
+Investor Relations. Please proceed.
+Jim Bergkamp
+Good afternoon, welcome to our fiscal 2015 first quarter earnings conference call with Meg Whitman, HP's chairman,
+President and Chief Executive Officer; and Cathie Lesjak, HP's Executive Vice President and Chief Executive Officer
+(sic) [Chief Financial Officer].
+Before handing the call over to Meg, let me remind you that this call is being webcast. A replay of the webcast will be
+made available shortly after the call for approximately one year. Some information provided during this call may
+include forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever
+materialize or the assumptions prove incorrect, the results of HP may differ materially from those expressed or implied
+by such forward-looking statements.
+All statements other than statements of historical fact are statements that could be deemed forward-looking statements,
+including but not limited to the execution of restructuring plans and any resulting cost savings or revenue or
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 2 of 16
+profitability improvements; any projections of revenue, margin, expenses, earnings, earnings per share, HP's effective
+tax rate, cash flow, share repurchases, currency exchange rates or other financial items; any statements of plans,
+strategies and objectives of management for future operations, including the separation transaction, and any statements
+concerning the expected development, performance, market share or competitive performance relating to products or
+services. A discussion of some of these risks, uncertainties and assumptions is set forth in more detail in HP's SEC
+reports, including the most recent form 10-K. HP assumes no obligation and does not intend to update any such
+forward-looking statements.
+The financial information discussed in connection with this call, including any tax related items, reflect estimates based
+on information available at this time and could differ materially from the amounts ultimately reported in HP's quarterly
+report on form 10-Q for fiscal quarter ended January 31, 2015.
+Revenue, operating profit, operating margin, net earnings, diluted net earnings per share, income tax rate, cash and cash
+equivalents, operating cash flows, total company debt, capital expenditures and similar items at the company level are
+sometimes expressed on a non-GAAP basis, and have been adjusted to exclude certain items including, amongst other
+things, amortization of intangible assets, restructuring charges, separation costs and acquisition-related charges. The
+comparable GAAP financial information and a reconciliation of non-GAAP amounts to GAAP are included in the
+tables and slide presentation accompanying today's earnings release, both of which are available on HP's Investor
+Relations web page at www.hp.com.
+I'll now turn the call over to Meg.
+Meg Whitman
+Thank you, Jim, and thanks to all of you for joining us today.
+With the first quarter of fiscal 2015 now behind us, I would say that overall we're on track with our turnaround and
+executing well on our separation. In Q1, we delivered solid performance in our business operations. We achieved
+non-GAAP diluted net earnings per share of $0.92, which was at the high end of our outlook range. We continued to
+improve profitability, growing operating profit margins across all our major business segments. We increased
+investments in innovation to drive the future of both Hewlett-Packard Enterprise and HP Inc., and we executed well
+across key areas of our portfolio, including Industry Standard Servers, converged storage, private and managed cloud,
+personal systems and graphics. While we have more work to do to improve performance in other parts of the business,
+we're about where we expected to be at this point in our turnaround journey.
+Now, there are a couple of factors that had an impact on our first quarter financial results and how we think about the
+rest of the year, and I want to address these. Let me talk for a moment about the global environment with a particular
+focus on unfavorable currency movements, and I also want to address cash flow.
+We're all aware that the global environment and currency movements have been a challenge for U.S.-based companies.
+For HP, the challenge is particularly acute, with 65% of our revenue coming from outside the United States, and over
+half of that from EMEA. This all impacts HP in multiple ways. The strength of the U.S. dollar negatively impacted our
+reported revenue. Our revenue declined approximately 5% year-over-year as reported, but only 2% in constant
+currency. In addition, the recent currency movements have disrupted the competitive pricing landscape and impacted
+customer demand. Aggressive pricing from our Japanese competitors in the printing business, given the weakness of
+the yen, was a continued challenge.
+We were able to manage these impacts in the quarter and deliver earnings as expected but given the specific hedges we
+had in place and the significant currency movement that took place in January, we anticipate the impact on the
+remainder of FY15 will be greater than what we saw in Q1. We're working hard to offset these impacts through
+repricing and productivity, but let me be very clear: fully mitigating currency movements of this size would require
+reducing investments in areas like innovation, key systems and tools and placement of printer units. That simply would
+not be the right thing to do.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 3 of 16
+When we discussed the impact of currency on revenue in November, we estimated our headwind for fiscal 2015 to be
+approximately two points year-over-year. We now expect that headwind to be approximately six points, assuming
+today's rates. That difference equates to approximately $3.3 billion in revenue, $1.5 billion in operating profit or $0.60
+in earnings per share. We believe we will be able to manage half of that through repricing and cost actions but estimate
+a negative earnings impact of approximately $0.30 per share entirely due to currency. While we have taken down our
+full year earnings outlook, we remain on track to deliver flat revenue year-over-year in constant currency. Cathie will
+share more details on how we manage currency movements across the portfolio.
+Now turning to cash flow. Q1 results were below our expectations, impacted primarily by an increase in our cash
+conversion cycle and by timing issues. The cash conversion cycle was higher than expected as a result of higher days
+sales outstanding. Also we made restructuring payments earlier in the year than we expected and outperformed on HP
+Financial Services volume, which negatively impacts cash year-on-year. However, except for the currency impact and
+separation payments, we would have expected cash flow for the full year to be in line with our original outlook of $6.5
+billion to $7 billion. Cathie will have more to say about this in a moment.
+Now let's talk about business performance and innovation. And as I said at the beginning of the call, we continue to
+make progress in our operating performance. In Personal Systems, the team is executing well. We outgrew the market
+and gained share across all regions. We saw particular strength in notebooks, where we regained our number one share
+position worldwide. Commercial remains a key focus for us, and at Discover in December we announced the industry's
+thinnest and lightest business-class notebook, enabling our customers to be more productive in more places.
+In Printing, profitability remained strong, but we continue to face top line challenges. Hardware & Supplies revenue
+declined and going forward, we are going to be more aggressive in placing units to support long-term Supplies growth.
+I'm looking forward to some of the exciting new products Dion and his team are planning to launch in the coming
+months.
+The Enterprise Group performed well, with 9% growth in constant currency in Industry Standard Servers, led by strong
+Gen9 adoption and improved sales execution. HP's end-to-end compute strategy led by the Gen9 portfolio has
+redefined the broader server industry, and improvements in sales execution are paying off.
+We also saw improved performance in Business Critical Systems and our new products are gaining traction with
+customers. During the quarter, we expanded our server portfolio with HP Integrity Superdome X and HP Integrity
+NonStop X. These platforms run our customers' most demanding mission critical workloads on x86 architectures, with
+higher levels of performance, scalability, availability and efficiency.
+In Storage, we returned to growth in constant currency and we anticipate a fourth quarter of external disk market share
+expansion based on calendar Q4 results. We continue to see an industry shift to the mid-range, which is our sweet spot,
+and at Discover we announced a refreshed portfolio of mid-range and flash optimized HP 3PAR StoreServ systems.
+And it's becoming clear around the industry that our HP converged storage portfolio is the best in the market. Just this
+month, HP 3PAR won the 2014 Search Storage Product of the Year Gold award.
+However, in Networking, results were disappointing after many quarters of growth. We had execution issues in the
+U.S. and in China, which we are working to address. We made leadership changes in China in the quarter, which we
+believe will strengthen our ability to compete effectively in what remains a tough market. And in the U.S. we are
+realigning sales incentives to increase focus.
+We continue to bring new networking solutions to market. Just last week we announced a new line of open network
+switches providing web scale customers choice, agility and scalability in their data center networks. We're focused on
+winning in this business, and you will continue to see us make aggressive moves over the coming quarters.
+Technology Services was consistent with recent quarters, with strong and predictable profitability. The team continued
+to execute well, improving efficiency across the organization while driving order growth in constant currency. We were
+pleased with the continued momentum in newer portfolio offerings like Proactive Care and Datacenter Care.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 4 of 16
+In cloud, our HP Helion portfolio continues to gain traction worldwide, capturing market share in open hybrid cloud.
+During the quarter, we announced HP Helion wins with Alcatel-Lucent, Halford, Telecom Italia, and Symantec, and
+we've seen strong-pull through of HP products and services by new customers of HP Helion. Last month, HP Helion
+was recognized as a leader by Forrester Research in their inaugural Forrester Wave for private cloud in China, earning
+the highest ranking for strategy. And earlier in the quarter, IDC recognized HP as a leader in U.S. government private
+cloud.
+In Enterprise Services, revenue continued to be impacted by key account runoff, softness in EMEA and currency
+headwinds. However, profitability improved year-over-year in line with our expectations, and sales metrics are
+reflecting the go-to-market transformation underway in this business. Among recent new logo wins, HP Enterprise
+Services was selected by TNT, one of the largest excess delivery companies to help future-proof the business by
+consolidating and virtualizing its IT infrastructure and moving some functions to an HP Helion managed virtual private
+cloud environment. And just today, we announced a major multi-billion dollar customer win with Deutsche Bank. With
+this partnership, HP will help Deutsche Bank meet its long-term business objectives through a transformation of its IT
+infrastructure, including a customized HP Helion solution, that will enable them to focus on creating and delivering
+new services for their clients. This was a hard fought win for HP, and I'm very pleased with the outcome.
+In software, we continue to shift our portfolio and operating model to SaaS and subscription-based offerings. Customer
+consumption behavior and the need to adjust sales motions accordingly created a near-term revenue headwind. Total
+revenue was down. However, we saw growth in security. And our recent acquisition of Voltage Security strengthens
+our portfolio in data encryption. During the quarter, we also unveiled HP HAVEn on-demand, an important milestone
+in our big data strategy that gives organizations cloud-based access to key components of our HAVEn analytics
+platform.
+Overall, we continue to see strength across many of our businesses, while other areas still need more work.
+Operationally, we get stronger with each passing month. And, just as important, our innovation engine continues to
+hum. And I expect that the pace of innovation will accelerate through the rest of the year.
+With that, let me turn it over to Cathie to provide a deeper look at the financial performance and our outlook.
+Catherine A. Lesjak
+Thanks, Meg.
+Overall, we delivered revenue of $26.8 billion, down 5% year-over-year, or down 2% in constant currency. Despite
+currency headwinds and even as we continue to increase our R&D investments, we improved profitability
+year-over-year. Gross margin was 23.4%, up 0.6 points year-over-year, and quarter-over-quarter gross margin was
+down 1.2 points, in line with normal seasonality. Non-GAAP operating profit was 8.8%, up 0.3 points year-over-year.
+We are nearing the completion of our 2012 restructuring plan. In Q1, about 2800 people exited the company, making
+the total reduction to date approximately 44,000. We are on track to complete this existing program, with a total of
+55,000 people expected to exit by the end of fiscal 2015. However, we do anticipate incremental opportunities for
+operational improvements identified through the separation process.
+Our non-GAAP diluted net earnings per share of $0.92 primarily excludes pre-tax charges of $222 million for
+amortization of intangible assets, $146 million for restructuring, and $80 million associated with the separation.
+Including these charges, GAAP diluted net earnings per share for Q1 was $0.73, in line with our previously provided
+outlook of $0.72 to $0.76 per share.
+Turning to the business performance. In Personal Systems revenue grew 3% in constant currency or flat as reported.
+We outgrew the market and gained share across all regions while increasing profitability year-over-year to 3.7%. We
+saw particular strength in Notebooks and continued to roll out exciting products. While commercial revenue was up
+only 1% in constant currency following the XP migration, we saw an increase in consumer momentum with 4%
+revenue growth in constant currency.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 5 of 16
+In Printing, revenue declined 4% year-over-year in constant currency, or 5% as reported, with some challenges in both
+hardware and supplies, and particular weakness in Russia. Profitability remained strong at 19.2%. Declines in low end
+home and single function mono laser hardware units drove overall units down 4% year-over-year. While it will take
+some time to turn the corner, we continue to make progress in our strategy of improving the quality of our installed
+base. Our unit mix improved with solid growth in key high-usage products like Officejet Pro X and value
+multi-function printers.
+Graphics Performance remains strong with our sixth consecutive quarter of year-over-year growth. The increasing scale
+has contributed to a year-over-year increase in operating profit. Also, in Managed Print Services, we saw a double-digit
+total contract value growth year-over-year. Although we still saw declines in overall supplies revenue, we continued to
+improve the revenue trajectory in ink, while managing ink and toner channel inventory within desired ranges. Overall
+supplies revenue mix was 65% of total print revenue.
+The Enterprise Group performed well, with revenue up 3% in constant currency, or flat as reported with strong
+profitability of 15.6%. ISS revenue grew 9% in constant currency, or 7% as reported with growth across all regions and
+strength in core rack and blades categories. We also saw some recovery in Business Critical Systems with revenue
+down only 7% in constant currency, or 9% as reported.
+In Storage, performance improved in Q1 with revenue up 3% year-over-year in constant currency, or flat as reported.
+Converged storage was up 21%, now making up 50% of total storage revenue. 3PAR plus XP plus EVA was up 12%
+year-over-year. All flash 3PAR revenue accelerated, now making up 20% of total 3PAR mid-range portfolio. Also, we
+expect to be the only scaled vendor to gain external disk share year-over-year for the last four quarters.
+In Networking revenue was down 9% year-over-year in constant currency, or down 11% as reported. However, we
+continue to see positive momentum in our date center switching business, which grew for the fifth consecutive quarter.
+And while we had execution issues in the U.S. and China, we delivered solid revenue growth in the rest of the world.
+Technology Services revenue was down 2% year-over-year in constant currency, or down 5% as reported. Orders grew
+in constant currency, driven by support in EMEA and strong renewals. Enterprise Services revenue was down 8%
+year-over-year in constant currency, or down 11% as reported. Application and Business Services and IT Outsourcing
+were each down 11% as key account runoff and weakness in EMEA offset the momentum we're seeing in Strategic
+Enterprise Services, or Services for the new style of IT.
+Profitability improved year-over-year to 3%, up 1.9 points driven primarily by productivity actions and improved
+margins in underperforming accounts. Also, the sales team increased efficiency with improved win rates and reduced
+field selling costs. Total contract value was up, with double digit growth in renewals, in new logos, and in SES signings
+with particular strength in key areas, including cloud and big data. Software revenue was down 3% year-over-year in
+constant currency, or down 5% as reported as we faced execution challenges and headwinds from our shift to SaaS.
+Profitability was 18%, up 2.2 points year-over-year, as we effectively managed costs while increasing R&D investment
+in strategic areas such as big data and security.
+Finally, in HP Financial Services, revenue declined 4% year-over-year in constant currency, or down 8% as reported
+due to an early contract termination in the prior year period, making for a tough compare for revenue and operating
+profit. However, we experienced double digit new volume growth and record high attach rate to HP's products and
+services. ROE was just over 17%, and HP Financial Services continues to be a key differentiator for HP.
+Before we get to the outlook, I want to spend a bit more time helping you understand how currency impacts our
+business. With two thirds of our revenue coming from outside of the U.S., the impact from currency movements is
+significant. As Meg said, we have taken down our full year non-GAAP earnings outlook, and this is entirely due to the
+currency challenges she described. We continue to offset currency movements as much as possible through hedging
+strategies. We have rolling hedging programs which are designed to minimize the volatility of results by dampening
+large fluctuations. However, significant and sustained currency moves cannot be managed by hedges alone. We also
+use repricing as a lever when possible, considering competitive market dynamics. The hedging programs vary by
+business depending upon these factors.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 6 of 16
+As an example, Personal Systems and our EG hardware businesses have very little in natural hedges as our component
+contracts are typically in U.S. dollars. As a result, these businesses are disproportionately impacted by currency
+movements. However, we do have some ability to increase pricing in response to currency movements, while being
+mindful of competition and potential negative impacts to customer demand.
+In Printing, we have a lot of moving parts with currency impacting our business both directly and indirectly. Like the
+other segments, the Printing business is negatively impacted by the strength of the dollar on the top and bottom line.
+The weaker yen helps the cost side of our business, but it also allows our Japanese competitors to price much more
+aggressively. In addition, Printing, specifically the laser business, is overweight in Russia, which adds yet another
+dimension to currency impacts.
+Services have more natural hedges, since revenue and expenses are more closely matched in the same currency. But
+due to the nature of our contracts, repricing in response to currency movements is less of a lever. Across all of our
+businesses, we will continue to manage the currency challenge while also making the right tradeoffs to support our
+strategy for long-term success.
+We discussed the currency impacts to the P&L, but now let me talk about the balance sheet. As we discussed last
+quarter, we hedge our balance sheet based on anticipated net monetary assets and liabilities. Any hedge gains or losses
+are reported within the other assets and liabilities section and not the specific cash flow line item.
+Across the specific line items in Q1, we saw the largest impact from currency on working capital and financing
+receivables. The change to our cash conversion cycle would suggest a working capital headwind year-over-year of
+approximately $750 million. But the actual headwind is approximately $1.1 billion when including the hedge gain that
+is reported in other assets and liabilities. Similarly, the cash headwind from reported financing receivables appears in
+the statements of cash flow to be approximately $100 million, but is actually closer to $250 million when including this
+adjustment. The offset means that the headwind of approximately $1.3 billion in other assets and liabilities is actually a
+lower headwind of about $800 million. Making this distinction is important so we can focus on the true drivers of cash
+flow.
+Next, I want to discuss cash flow and capital allocation. In Q1, cash flow from operations was $744 million, and free
+cash flow was -$73 million. We had several factors impacting our operating and free cash flow in Q1. Remember, Q1
+is typically the lowest cash flow quarter for HP. And we did expect this to be true again in fiscal 2015. Having said
+that, the cash flow results were down year-over-year and somewhat below our expectations, and I want to take a minute
+to explain.
+First, we had a working capital impact; the cash conversion cycle increased sequentially in Q1 2015 but declined
+sequentially in Q1 2014, which created a headwind of about $1.1 billion net of hedging. While we anticipated a lot of
+this, days sales outstanding was higher than expected, largely due to non-recurring operational issues in the quarter,
+intra-month linearity in January and other smaller factors. Some of these smaller factors may continue and are captured
+in our outlook.
+We still expect the cash conversion cycle to be 10 to 12 days by year-end, as we continue to make the right tradeoffs
+between the use of cash and P&L optimization. As an example, we may decide to ship finished goods by boat versus by
+plane, which increases inventory but reduces cost of sales. Similarly, taking advantage of early pay discounts from
+suppliers reduces costs but decreases accounts payable. We do a full cost benefit analysis to make sure these decisions
+drive economic value.
+Next, we had a tough compare. Q1 2014 included proceeds from a large real estate sale, which drove an increase in net
+CapEx year-over-year in Q1 2015. Finally, there were several other unfavorable movements in Q1 2015. We had
+double-digit capital lease volume growth, which obviously is great for our business, but this was a greater use of cash
+this year than last. We also ended the quarter with higher receivables from vendor rebates and contract manufacturers
+as well as lower litigation reserves, and we made restructuring payments earlier in the year than expected.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 7 of 16
+I want to reemphasize that while Q1 cash flow was down year-over-year, we remain confident in our ability to generate
+cash as we've demonstrated over many quarters. We are providing an updated outlook today to our free cash flow, but
+the reduction from our $6.5 billion to $7 billion outlook last quarter is only due to currency and separation impacts
+we've announced today.
+Turning to capital allocation, in Q1 we repurchased 41.1 million shares and paid $304 million in dividends for a total
+capital return to shareholders of $1.9 billion. This makes up for the $750 million shortfall from our fiscal 2014
+commitment to return at least 50% of free cash flow to shareholders.
+Turning to the separation. As we discussed on the last earnings call, we will incur incremental separation costs and
+foreign tax expenses in both fiscal 2015 and 2016 associated with separating into two companies. The scale of this
+separation is unprecedented in its size and complexity.
+Over the past few months, we defined and quantified the expected charges related to the separation. These charges
+include finance, IT, consulting and legal fees, real estate and other items that are incremental and one time in nature
+and not reflective of our operational performance. In addition, we've estimated our incremental foreign tax expenses
+related to the separation of foreign legal entities. The charges and taxes associated with the separation are excluded
+from our non-GAAP earnings.
+The Q1 GAAP charge associated with the separation was $80 million, and we expect the Q2 GAAP charge to be
+approximately $250 million. Full year fiscal 2015 charges are expected to be $1.3 billion and the FY16 estimate is
+$500 million. While these are large numbers, they represent less than 2% of our annual operating costs and are
+necessary to realize the potential of the separation into two world-class companies.
+Separation-related capital spend this year is expected to be approximately $300 million. The incremental growth
+foreign tax expenses are estimated to be about $950 million in fiscal 2015. We do expect more than half of the tax
+expenses to be offset by foreign tax credits. In fiscal 2015, we anticipate a credit of about $200 million and the rest over
+the next few years. We will continue to provide updates on our separation on our quarterly calls.
+Turning to the outlook for Q2 and the remainder of fiscal 2015, from a macro perspective we've already talked about
+the impact associated with currency shifts. Additionally, we see continued challenges across certain geographies
+including China, where we anticipate increasing competitiveness from local vendors and Russia, where political and
+economic concerns are ongoing. These challenges are being offset to some degree by strengthening of the U.S.
+economy.
+By business, in Personal Systems, while the PC market is expected to continue to contract, we plan to leverage our
+brand, channel, scale and strong product lineup to continue to gain share profitably. We will take advantage of the
+momentum in consumer and continue our strategic focus on commercial, including commercial mobility.
+In Printing, we're planning to be more aggressive in placing hardware units with continued focus on high value units.
+We will manage supplies channel inventory closely while driving further stability in supplies revenue in fiscal 2015. In
+Enterprise Group we expect server momentum to continue with the Gen9 lineup and server refresh cycle. We expect
+storage, particularly 3PAR, to outperform key competitors, especially in the mid-range.
+In Networking we expect continued challenges in the near term, but are making adjustments to improve execution. In
+Enterprise Services we expect continued improvement in profitability, making progress towards our long-term goal of
+7% to 9% operating profit, and remain confident in our full year operating margin outlook of 4% to 6%.
+Given the current revenue trajectory and the expectation that currency will continue to be a headwind, we are providing
+a new Enterprise Services full year revenue outlook. Because of the currency volatility, going forward we will provide
+this on a constant currency basis. We now expect full year revenue to decline 4% to 6%. We expect year-over-year
+revenue performance improvement in the second half of fiscal 2015.
+In software, we plan to continue to shift our go-to-market focus and further align our product portfolio to best capture
+the growing SaaS opportunity. We also have much more work to do to drive consistent sales execution across the
+organization.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 8 of 16
+Overall, for fiscal 2015, we remain optimistic about the market opportunity and our competitive positioning. However,
+the currency headwind at current rates cannot be fully absorbed. We've done detailed modeling using current exchange
+rates and assumptions for repricing and productivity. With all of that in mind, we are updating fiscal 2015 non-GAAP
+diluted net earnings per share outlook to be $3.53 to $3.73, which is lower by $0.30 due to currency headwinds.
+Fiscal 2015 GAAP diluted net earnings per share outlook is in the range of $2.03 to $2.23. Q2 fiscal 2015 non-GAAP
+diluted net earnings per share outlook is expected to be in the range of $0.84 to $0.88, which includes $0.09 of currency
+pressure. Q2 fiscal 2015 GAAP diluted net earnings per share outlook is in the range of $0.57 to $0.61. Given the
+updated earnings outlook for currency, and the introduction of cash related separation activities we're updating our
+fiscal 2015 free cash flow outlook to be approximately $3.5 billion to $4 billion.
+With that, let's open it up for questions.
+Q&A
+Operator
+[Operator Instructions] And our first question will come from Sherri Scribner of Deutsche Bank, please go ahead.
+<Q - Sherri A. Scribner>: Hi, thanks. Meg, you're now a couple of months into the separation, and I assume that
+you've gotten more detail on where you can find some additional savings. I was hoping you could talk through some of
+the additional savings you expect and also how you feel about the separation at this point three months in? Thanks.
+<A - Meg Whitman>: Yeah, great, Sherri. So we are making real progress on the separation. Recall that we are
+separating into two Fortune 50 companies. I mean, it's sort of hard to imagine that there are two Fortune 50 companies
+embedded in HP. And that has included an entire organizational design and selection process, the IT strategy, carve out
+financials, and many other activities. And I think actually that we are executing on all cylinders.
+There has not been distraction to the core business. We've got a dedicated team focusing on the separation. And the rest
+of the company is focused on delivering for customers. And I feel very good about that and also the feedback from
+partners and customers has been terrific. So lots and lots of work ahead but I feel good about where we are.
+It has surfaced lots of opportunities for continued cost savings and the ability to operate more efficiently. And when
+you tear apart a company that's been built up over many years through acquisition, through different systems being
+merged together, it's remarkable what you find. And whether it is single owners for end to end cost structure, the ability
+to benchmark versus our competitors on how many spans and layers we have, the ability to make small changes in the
+portfolio that we want to go forward with, lots and lots of opportunities. That's going to make us much stronger as we
+go forward as two independent companies.
+So we're pretty excited about it. It is a huge amount of work. But I have to say, it's exhilarating because we see the
+future where these two companies will be far more cost competitive than even we are today as HPQ.
+<A - Jim Bergkamp>: Thanks, Sherri. Next question please.
+Operator
+The next question will come from Maynard Um of Wells Fargo. Please go ahead.
+<Q - Maynard J. Um>: Hi, thanks. Can you just talk a little bit about the Deutsche Bank deal? My impression of the
+scope of the deal was much deeper than maybe some would think you have the capability to provide. Maybe if you can
+just give us more specifics around that, in detail around the deal. What was the primary driver to the win? Were there
+particular products or solutions that were central to it? And then maybe just related to that, more generally talk about
+where you are in Services bookings and where you expect that to be? Thanks.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 9 of 16
+<A - Meg Whitman>: So we're very proud of the Deutsche Bank win. And it was a full on One HP effort including
+our Enterprise Group, our Software business, our Cloud business as well as our Services business. And it was a
+Services-led win. And I believe the reason that we won is we had the best technical solution for what Deutsche Bank
+needed, which was to reduce cost, reduce costs significantly by the way, increase agility, and migrate to a new world
+order of CICD DevOps and in a cloud based environment.
+So I think we showed up with the best team, with the best technical solution and a competitive price. As you know, this
+is a long sales cycle business. I think we first engaged with Deutsche Bank over 18 months ago, maybe even closer to
+two years. So these are long-standing deals, but we're very excited because everyone in the industry wanted this
+business. It was a hallmark or a lighthouse account. And we did it on our terms, so we feel pretty good about it.
+I would say Helion was a big part of the differentiated solution. I think our ability to provide global support on an
+unprecedented scale was an important part of the win, and our ability to advise and transform. The key risk in these
+deal is: how do you get from where are you to where you need to be? And I think we were judged to the safest pair of
+hands.
+<A - Jim Bergkamp>: Thanks Maynard. Next question.
+Operator
+The next question will come from Toni Sacconaghi of Sanford Bernstein. Please go ahead.
+<Q - Antonio M. Sacconaghi>: Yes, thank you. I was wondering – I was wondering if you could comment on your
+revenue expectation for this year. You were down about 2.5% in constant currency this quarter. I think the goal was to
+be about flat at constant currency for this year. Do you still believe you can achieve that? And I guess, given some of
+the commentary around geographies, et cetera, it would seem not, and so perhaps I go back to you, Meg, and say you're
+on track, but it actually feels like you're a little bit behind track in terms of where you thought revenues may have been
+for this year.
+<A - Meg Whitman>: So, we still believe we can be flat in constant currency in FY 2015, and as you can imagine
+we've put a lot of thought into this, because the macroeconomic environment, particularly in places like Russia, where
+we are overexposed, and China is pretty challenging. But listen, we did well in PSG, very well in Industry Standard
+Servers, and this is perhaps the biggest turnaround over the last couple of years. This was a very troubled business two
+years ago, and the team has done a remarkable job. Graphics and print is doing incredibly well. And ES, and this will
+be the key to a flat constant currency, is we expect better revenue performance in the second half from ES. Profitability
+was good in Q1, but we expect to have a much slower rate of decline by the end of the year. And Deutsche, TNT, other
+wins are important to that.
+So I'm optimistic that we will be flat in constant currency. Listen, if there's another major geopolitical disruption, that
+could be off the table, but as we sit here today we think flat in constant currency.
+Cathie, do you want to add anything to that?
+<A - Catherine A. Lesjak>: I don't think I can add anything to that. I agree. I think that we will ultimately be roughly
+flat in constant currency, and the key is going to be Enterprise Services. And we announced Deutsche Bank, we've
+already won in Q2 a couple of big deals, the other one's not public yet but that is going to give us some help in the
+second half, as is the fact that the key account runoff that we've been talking about really abates in the second half of
+the year, as we're getting largely through it. And so that also helps from a year-on-year compare perspective.
+<A - Meg Whitman>: I think you think about it, Toni, as the bathtub and the water is now going to stop draining out
+of the bathtub as fast as it has, so the water that we pour in ought to lead to a rising level in the tub. And I would say
+new logos, SES very strong, but we've got to continue to execute.
+<A - Jim Bergkamp>: Thanks, Toni.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 10 of 16
+Operator
+The next question will come from Katy Huberty of Morgan Stanley. Please go ahead.
+<Q - Kathryn Huberty>: Yes, thank you. Cathie, in your cash flow discussion, you mentioned inter-month linearity in
+January as a factor impacting DSOs and therefore for cash flow, and I wonder if you can expand on that, in part
+because other enterprise hardware companies have said in the month of January they started to see delays in spending
+as global customers have to deal with the currency impact on their own business and therefore are delaying spending
+and revisiting their budget, and I just wonder whether you and Meg think that could be a risk that plays out this year?
+Thank you.
+<A - Catherine A. Lesjak>: So Katy, that's really not what we're hearing in terms of – when we think about the
+quarter. It wasn't so much that we were seeing kind of enterprise customers delaying as a result of the currency. That's
+really not what we're hearing.
+We did see some softness in January overall in the PC business, and so it was the quarter was a bit more front-end
+loaded than what would be kind of our historical norm. But when you look at overall HP in January and then you look
+at what we had expected – and I think this is really important because when I was talking about the cash flow
+implication, it was really relative to our expectations and what around cash flow. We had expected a January that was
+better balanced first half to second half, and what we saw was actually a bit more that got shifted from the first half to
+the second half, and that impacted, obviously, DSO.
+<A - Meg Whitman>: And I'll just chime into that, Katy. We have a great channel from our sales force to us, and I'm
+out in the field all the time with customers. I'm not actually hearing that. That doesn't mean that won't turn up, but we're
+not hearing that people are delaying purchases because budgets are tightening and things like that.
+<Q - Kathryn Huberty>: Thank you very much.
+Operator
+The next question will come from Rod Hall of JPMorgan. Please go ahead.
+<Q - Rod B. Hall>: Hi guys, thanks. I just wanted to drill into the networking commentary a little bit. You guys had
+said that you were a little bit disappointed in the performance in the quarter. You made some interesting
+announcements last week with regards to "brite box" switches, but you seem to be doing a lot of things in networking. I
+just wonder if, Meg, you could maybe talk a little bit about the strategy there. Do you guys intend to consolidate the
+strategy around brite box? Do you intend to have a broad spectrum of product offerings? Just help us understand how
+the strategy might be evolving there.
+<A - Meg Whitman>: Sure. Networking is a very important business to HP. You will recall from a financial
+architecture perspective, Networking and Storage are margin accretive. So these are important businesses to us and we
+will continue to invest in these businesses. You're right, we had two execution challenges, one in China and one in the
+U.S., and I think we touched on those.
+The strategy here is exactly the same strategy, in many ways, that we've deployed with servers, which is a market
+segmentation strategy. What kind of customers want to buy what kind of gear, and then we need to have that for them.
+So, for example, in servers we have high-performance compute, and we have terrific data center switches and wired
+and wireless LAN products. But we also have benefited by having a hyperscale offering through our joint venture with
+Foxconn in the server business, which led to the thesis that we should have a white box strategy for our networking
+business, because there's a lot of people for whom that is the solution that they prefer. And better for us to offer it and
+surround with other HP products and services than walk away from that market segment entirely. We're very clear that
+we only play in businesses in which we can grow profitably.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 11 of 16
+We have no interest in losing money in any business, and we believe in this new opportunity that we announced that we
+will make money there. So it is a market segmentation-based strategy where we have to have the right product with the
+right services attached that allows us to make money and gain share. So, a rougher than anticipated quarter in
+Networking. It doesn't deter us. We just know we've got to make a couple of changes to execute better.
+<Q - Rod B. Hall>: Okay, thank you.
+Operator
+The next question will come from Steve Milunovich of UBS. Please go ahead.
+<Q - Steven M. Milunovich>: Thank you. Meg, I wonder if you could talk about your playing to win framework.
+That's not something you've spoken about much, and from what I've heard about it, it sounds like it's fairly important
+and particularly to the discipline and execution of HP. Is that true?
+<A - Meg Whitman>: It is true, actually. The entire company has organized around "Playing to Win", which is a book
+written by A.G. Lafley and a colleague of his. And listen, there's many ways to deploy strategy in companies – this is
+one that I have found to be particularly helpful, because organizations have a lot of trouble making choices, particularly
+at our scale. So this notion of where to play, what countries, what market segments, what products, and where not to
+play because we can't do it profitably has been a very good discipline – and actually Dion Weisler has led the way in
+Printing and Personal Systems. And then once you determine where you're going to play, how to win and that is
+through a combination of where you're going to excel versus competitors. And it's actually been a really good common
+framework that we can apply across HP, it's easily understandable, and actually forces the tough tradeoffs.
+So listen, as I said, there's lots of ways to deploy strategy, but this has been particularly, I think, effective at HP because
+everyone speaks the same language now.
+<Q - Steven M. Milunovich>: Thanks.
+<A - Jim Bergkamp>: Thanks, Steve.
+Operator
+The next question will come from Jim Suva of Citigroup. Please go ahead.
+<Q - James Suva>: Great, thanks very much. Cathie, can you just help us bridge the difference of the current free cash
+flow guidance of $3.5 billion to $4 billion versus the prior of $6.5 billion to $7 billion? Just help us quantify or
+understand the bridge of where the $3 billion go to, because a lot of these timing things over a long-term, whether it's
+inventory, cables, whatever, should kind of wash out. So if you can help us understand on a yearly basis where the $3
+billion went.
+<A - Catherine A. Lesjak>: Sure. And Jim, you're absolutely right. The softness that we saw in free cash flow in Q1
+was largely the result of timing, and so we don't believe has an impact to the total year. So if we go – if we start with
+the $6.5 billion to $7 billion that was the outlook back in November, you then take into consideration the separation
+costs for fiscal 2015, which are $1.3 billion. You've got incremental foreign taxes, net of credits in the year that are
+about $750 million of cash outflow. And then you've got the separation CapEx, which is about $300 million. And
+finally you've got $0.30 a share for currency. And that takes you to the $3.5 billion to $4 billion of free cash flow for
+fiscal 2015.
+<Q - James Suva>: Gotcha. So the original separation costs of $1.3 billion was not in the $6.5 billion to $7 billion?
+<A - Catherine A. Lesjak>: That's right. And if you actually go back to this, we were pretty clear on the fact that we
+had not quantified to the point where we were comfortable giving explicit guidance about what the separation costs
+were going to be three months ago. We actually have spent a tremendous amount of time kind of identifying and
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 12 of 16
+quantifying what that was going to be.
+<A - Meg Whitman>: The other thing I would...
+<Q - James Suva>: Sure prefect. Thank you for the...
+<A - Meg Whitman>: Oh, sorry, Jim; go ahead.
+<Q - James Suva>: I was going to say that's perfect clarification. So it's really the add-on of separation costs and
+currency?
+<A - Catherine A. Lesjak>: That's right. That's the only change that we've got to our outlook for free cash flow for the
+year. The base to start with is the $6.5 billion to $7 billion that we provided last quarter.
+Operator
+The next question will come from Ben Reitzes of Barclays. Please go ahead.
+<Q - Ben A. Reitzes>: Hey. Good afternoon, thanks. I wanted to ask about your pricing commentary. The 19.2%
+margin in Printing doesn't seem indicative of a nasty pricing environment. It actually seems like the opposite. I know
+you've got the yen flowing through there, but I wanted to understand the pricing comment better. Does that mean that
+Printing margins are really going to fall a lot due to pricing in upcoming quarters? And what does it really mean when
+you're balancing the fact that margins are at these historical highs and you're saying there's pricing pressure? Thanks a
+lot.
+<A - Meg Whitman>: Yeah, so we do think that the 19.2% profitability, and really the profitability over the last
+quarter or two, has been unsustainably high. And remember the business model is: we price printers at a loss in
+exchange for a long-term annuity. But I've actually asked Dion Weisler to join us on the call today. And so Dion you
+might comment a little bit about that.
+<A - Dion Weisler>: Yeah, I think you're quite right, Meg. We don't believe that 19% OP is good for the business
+long-term, and therefore it is not sustainable. And over the last several quarters, we've made real operational
+improvements. We've also had some cost benefit from the weakness of the yen, which is, of course, a double-edged
+sword. On the one hand it helps us lower cost, yet on the other, our fierce Japanese competitors have leveraged the yen
+to be more aggressive on unit placement, which we need to respond to.
+So in order for us to maintain competitiveness, we need to invest some of these savings. And we'll do that, really, in
+three ways. Firstly, we'll be more aggressive in placing more units, with a keen focus on placing high-value units that
+will drive future supplies growth. Secondly, we'll continue to expand our print sales specialist team to continue to drive
+growth in our managed print services business. And then finally, we'll invest in new technologies, like page wide array
+that fuels everything from the Officejet Pro X, all the way through being the underpinning and underlying technology
+behind multi-jet Fusion, which is of course the engine behind our 3D printers.
+Of course, we'll continue to strike the right balance between growth and profitability, but we believe 19% operating
+profit is not good for the business long-term.
+<Q - Ben A. Reitzes>: I appreciate the answer...
+<A - Catherine A. Lesjak>: And I'd like to also add – Sorry, Ben. I'd like to also add that when you look at the benefit
+that we're get explicitly from the weakness of the yen, in the back half of the year, that on a year-over-year basis is
+significantly reduced, even at the current levels of exchange rates there. So we do expect some of that benefit kind of
+moves away from us. The other thing, this is the only segment in Q1 where overall, on a direct basis, they had a
+positive impact from currency. So again IPG is a little bit different than the other businesses. It's got the same top line
+and bottom line pressures from the strength of the dollar. It does have a benefit from the weakness of the yen and then
+it does have to deal with Russia. But in Q1, the net currency impact was actually positive. We don't expect that that
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 13 of 16
+continues in the rest of the year as the yen benefit basically moves away from us. And, over time, we also hedge longer
+term, especially in the supplies area in IPG and those hedges start to roll off as well.
+<Q - Ben A. Reitzes>: Yeah, and the pricing hits are on the come, it sounds like. Okay.
+<A - Catherine A. Lesjak>: Yes. Yes.
+<Q - Ben A. Reitzes>: Okay, thank you.
+<A - Jim Bergkamp>: Thanks for the question, Ben.
+Operator
+The next question will come from Wamsi Mohan of Bank of America Merrill Lynch. Please go ahead.
+<Q - Wamsi Mohan>: Yes, thank you. Could you help us think through the dynamics of PC unit sales this year. For
+the quarter, obviously, the metrics look pretty strong, but I know you commented about January starting off weak. How
+are you expecting this to progress through the course of the year and any geographical color would be helpful. Thank
+you.
+<A - Meg Whitman>: I'm sorry, I couldn't exactly hear you. The dynamics of the...?
+<A - Catherine A. Lesjak>: The PC business.
+<A - Meg Whitman>: Are you looking for the – what happened to PCs in January?
+<A - Dion Weisler>: The long-term view I think was his question.
+<A - Catherine A. Lesjak>: All right, why don't you take that then?
+<A - Meg Whitman>: Was it...? Okay, yeah, Dion, you can talk about the long-term view that you have.
+<A - Dion Weisler>: Yeah, so look, I think in general we're pretty aligned with the industry projections of the Personal
+Systems market, which suggests sort of low single digit growth. We believe that PC units will be in small decline, but
+there are pockets of growth across the segment and some segments including Mobility Accessories and Services.
+We have seen and expected the slowdown in the commercial segment following the XP refresh that fueled high growth
+last year. However, we've seen, to counterbalance that, momentum in the consumer side of the business as consumers
+refresh their older PCs.
+So looking forward, the market remains competitive. We believe we can continue to gain share in the areas where we
+choose to play as the market consolidates. Specifically, we're sort of focused on profitable growth in three areas.
+Firstly, we're investing in key growth areas of convertibles, commercial mobility, accessories and services where the
+heat is in the market. Secondly, we remain focused on extending our leadership in the Commercial Enterprise and SMB
+segments, including education. And then finally, we just continue to do the hard work of detailed customer
+segmentation and ensuring that we have the right price value and cost equation set for each market.
+<A - Catherine A. Lesjak>: And I would say that while we are maniacally focused on the commercial space, in Q1
+and what we're seeing is a little bit of refresh in the consumer space.
+<A - Dion Weisler>: Right.
+<A - Catherine A. Lesjak>: And this is where being focused on profitable growth is really important. There's a lot of
+bad growth in consumer but there's also good growth. And one of the things that I just want to make sure that people
+are clear on is that we don't get hung up on the margin rate. If we can go after good units in the consumer space across
+HP Stream, Bing, Chromebook, and we can deliver incremental margin dollars, then we'll go after that. And we
+definitely saw some real opportunities in Q1. It helped us gain pretty significant share on the consumer side, while also
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 14 of 16
+driving some incremental profit dollars, obviously at a much lower rate.
+<Q - Wamsi Mohan>: Thank you.
+Operator
+The next question will come from Aaron Rakers of Stifel Nicolaus, please go ahead.
+<Q - Aaron C. Rakers>: Yeah, thanks for taking the question. I wanted to ask about the Industry Standard Server
+segment and where we stand on the Grantley or the Gen9 server cycle. So what have you seen so far? Where are you at
+in that cycle? And what's your expectations for that product cycle relative to, not just the Grantley cycle, but also the
+Windows Server expiration through the course of this year?
+<A - Catherine A. Lesjak>: So specifically with respect to the Gen9, the ramp in Gen9 is off to a terrific start. It is
+actually one of the fastest ramps that we've seen. It's certainly ramping faster and better than Gen8. What we see in the
+product lineup in Gen9, which is different than Gen8, is that basically we've got a great entry product all the way up to
+the high end. So we're very pleased with the progress. You saw that help drive a lot of growth in Industry Standard
+Servers, 9% year-over-year in constant currency and we expect that that will continue to ramp basically through the
+year.
+In terms of the kind of Windows 2003 refresh, it's starting, but it is not a material impact at this point. It's really just
+beginning. We do expect that that will ramp as we go through fiscal 2015, but it was not a major factor at all in the
+performance that we delivered in Industry Standard Servers this quarter. The combination of Gen9 and the refresh cycle
+makes us fairly bullish on Industry Standard Servers kind of throughout the rest of 2015.
+<A - Meg Whitman>: And you might talk a little bit about the margin work we've done that business.
+<A - Catherine A. Lesjak>: True. Good point. We have done – the margins have improved very significantly, the
+gross margins in Industry Standard Servers this quarter. We've done a great job of driving product costs down, taking
+advantage of some favorable commodity pricing as well. But it's really been hard work at driving the right cost
+structure combined with the opportunity to drive attach. So in ASPs, we've got double digit increases in ASPs in
+Industry Standard Server, and that's because the Gen9 ProLiant server basically drives a lot of memory and storage
+attach, which is obviously great for margins.
+<A - Meg Whitman>: The last thing I'd say is I think we're really well positioned to take advantage of the Windows
+2003 refresh, just as we were from the XP migration in the PC business. We actually modeled the program after the XP
+program. And that has been helped by our adjustment to our coverage models in the United States and APJ and Europe.
+So, I'm with Cathie, I think we feel really pretty good about that business for the remainder of the year, and I think
+we're very well positioned, and the Gen9 server was dead on from a market perspective.
+<A - Jim Bergkamp>: Thanks, I think we have time for one more question.
+Operator
+And the final question will be from Shannon Cross of Cross Research. Please go ahead.
+<Q - Shannon S. Cross>: Thank you very much for taking my question. Cathie, can you talk a bit about how we
+should think about free cash flow for 2016? And what I'm trying to figure out is, you say $750 million for foreign tax, I
+think the total was $900 million. So, would sort of the offset of the credits and the costs in 2016 kind of balance
+themselves out, and then theoretically restructuring somewhat through, so maybe we get back sort of to that normal
+cadence of – I'm sure you probably don't want to put a number on it – but just to the extent that you can, give us some
+idea of puts and takes that we should think about as we look to 2016, since obviously we're going to cut our 2015 cash
+flow estimate pretty significantly.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 15 of 16
+<A - Catherine A. Lesjak>: Sure. The biggest headwind to free cash flow this year over last year is the cash
+conversion cycle, basically, going back to 10-12 days. And I think it's important to understand that the reason why it
+goes back to 10-12 days is because we are taking what is now our strong balance sheet and leveraging that balance
+sheet to drive shareholder value by making tradeoffs across the P&L and the balance sheet. That's what is driving the
+10-12 days. But once we get to that 10-12 days, the year-on-year compare for 2016 and that headwind is significantly
+reduced. So that's one of the big kind of tailwinds to cash flow.
+You're absolutely right, the separation costs are going to come down. And the separation costs, it's anticipated to be
+$1.3 billion in fiscal 2015 and about $500 million in fiscal 2016. We don't think there's separation CapEx. The foreign
+taxes will turn to credits. I don't know how much we're going to get in credits in fiscal 2016, but certainly you don't
+have the headwind of basically $750 million. So I think those are – and then currency, we'll have to see what happens
+from a currency perspective, exactly what will happen. But obviously you wouldn't have another step down unless the
+currency moves against us again.
+<Q - Shannon S. Cross>: And is there any change – sorry, go ahead.
+<A - Meg Whitman>: I was just going to say, Shannon, and obviously towards the end of the year as we get close to
+actually the legal separation of these two companies, we'll be very explicit about the balance sheet that each company
+has and the earnings, revenue growth, free cash flow of each company. So as we head into 2016, we'll be able to give
+you the kind of guidance that we gave when we were one company. We'll just do it for two.
+<Q - Shannon S. Cross>: Any change to your cash usage this year, given the lower cash generation?
+<A - Catherine A. Lesjak>: Are you specifically asking about capital allocation? Because I would love to address
+that.
+<Q - Shannon S. Cross>: Yes, that's exactly what I was asking.
+<A - Catherine A. Lesjak>: So, our commitment to basically provide at least 50% of our free cash flow this year back
+to shareholders in the form of share repurchase and dividends is still intact. And in fact, if you do the math on Q1, in
+Q1 we repurchased shares to the tune of about $1.6 billion. About $750 million of that is basically making up for the
+shortfall that we had in 2014 from our commitment. So we've got about $850 million done in share repurchase for
+fiscal 2015.
+If you actually then look out over the course of the year and forecast what you think the dividends are going to be,
+you'll come pretty rapidly to the conclusion that we are at or darn close to hitting 50% of free cash flow already, in
+terms of returns to shareholder. And what is important is that our guidance is – our commitment is at least 50% of free
+cash flow will be returned to shareholders.
+<Q - Shannon S. Cross>: Thank you.
+Meg Whitman
+Great, well, thank you very much. I think we're out of time. Thank you very much for joining us.
+I think we feel very strongly that the turnaround is on track. There is progress. You can see it in terms of margin
+expansion across all of the major lines of business. You can see it in growth in areas of the company that I think people
+were not sure we would turn around like Industry Standard Servers and PCs. So lots of progress, lots more work to do.
+And obviously the macroeconomic environment, largely currency, is a headwind that disproportionately affects HP, but
+overall we feel really good about the operational execution of the company. So thank you for joining us.
+Operator
+The conference has now concluded. We thank you for attending today's presentation. You may now disconnect.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2015-02-24
+Event Description: Q1 2015 Earnings Call
+Market Cap: 62,518.32
+Current PX: 34.21
+YTD Change($): -5.92
+YTD Change(%): -14.752
+Bloomberg Estimates - EPS
+Current Quarter: 0.867
+Current Year: 3.690
+Bloomberg Estimates - Sales
+Current Quarter: 25808.522
+Current Year: 105953.259
+Page 16 of 16
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

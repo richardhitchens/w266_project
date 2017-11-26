@@ -1,0 +1,910 @@
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 1 of 17
+Q4 2014 Earnings Call
+Company Participants
+• Deborah Crawford
+• Mark Elliot Zuckerberg
+• Sheryl K. Sandberg
+• David M. Wehner
+Other Participants
+• Heather Anne Bellini
+• Eric J. Sheridan
+• John R Blackledge
+• Justin Post
+• Benjamin Daniel Swinburne
+• Brian W. Wieser
+• Peter C. Stabler
+• Anthony DiClemente
+• Ross A. Sandler
+• Colin A. Sebastian
+• Carlos Kirjner-Neto
+• Paul Vogel
+• Robert S. Peck
+• Arvind Bhatia
+• Mark S. Mahaney
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good afternoon. My name is Courtney and I will be your conference operator today. At this time, I would like to
+welcome everyone to the Facebook Fourth Quarter and Full Year 2014 Earnings Conference Call. All lines have been
+placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer
+session. [Operator Instructions] Thank you very much.
+Ms. Deborah Crawford, Facebook Vice President of Investor Relations, you may begin.
+Deborah Crawford
+Thank you. Good afternoon, and welcome to Facebook's fourth quarter earnings conference call. Joining me today to
+talk about our results are Mark Zuckerberg, CEO; Sheryl Sandberg, COO; and Dave Wehner, CFO.
+Before we get started, I would like to take this opportunity to remind you that our remarks today will include
+forward-looking statements and actual results may differ materially from those contemplated by these forward-looking
+statements. Factors that could cause these results to differ materially are set forth in today's press release, our annual
+report on Form 10-K and the most recent quarterly report on Form 10-Q filed with the SEC. Any forward-looking
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 2 of 17
+statements that we make on this call are based on assumptions, as of today, and we undertake no obligation to update
+these statements as a result of new information or future events.
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to
+non-GAAP measures is included in today's earnings press release. The press release and an accompanying Investor
+Presentation are available on our website at investor.fb.com.
+And now I'd like to turn the call over to Mark.
+Mark Elliot Zuckerberg
+Thanks, Deborah, and thanks, everyone, for joining today. This has been a good quarter for Facebook and a great end
+to the year. Our community continues to grow in size and engagement and we're very pleased with the growth of our
+business. Overall, 2014 was a year of great progress for the Facebook community. 1.39 billion people now use
+Facebook each month and 890 million people daily, an increase of 165 million monthly actives and 133 million daily
+actives this year. Time spent per person per day across our services continue to rise during this quarter by more than
+10% compared to last year. And that doesn't even include WhatsApp, which joined us late last year.
+These milestones show that our community continues to get stronger. But, it's not just our community where we've
+made a lot of progress. 2014 was also a year of big investments in our future. This year, we made big bets on the
+next-generation of communication and computing platforms by acquiring WhatsApp and Oculus.
+We focused on serving our community better across all of our products, raising the quality and relevance of content in
+News Feed, improving our search and video products and improving the performance and efficiency of our mobile
+apps. And we continue to invest in our employees and infrastructure, growing our head count by 45% this year and
+opening our newest data center in November in Altoona, Iowa.
+When you consider the progress of our community and our investments, 2014 was an important year for us and a good
+sign of how we're thinking about the future. In the next decade, Facebook is focused on our mission to connect the
+entire world, welcoming billions of people to our community and connecting many more people to the Internet through
+Internet.org.
+To serve the entire world, we need to build products that serve our community and allow people to share different types
+of content with different audiences. We need to offer new services and infrastructure at greater scale and we need to
+create new tools and innovate to solve fundamental challenges in the places we want to connect.
+Doing this will take a lot of effort over the coming years and Facebook is going to have to evolve. Similar to our
+transition to mobile over the last couple of years, now we want to really focus on serving everyone in the world.
+Our mission has always been to make the world more open and connected. This is something we've been preparing for
+over the last decade. Everything we've achieved in 2014 and over the last 10 years has helped us to build the foundation
+for a future of greater scale. I'm excited for our progress in 2015.
+Now, with that in mind, I want to talk about the things that we expect to execute on over the next three, five and 10
+years. Over the next three years, our main focus is to continue to serve and grow our community by delivering better
+services for people and businesses around the world. One sign of our continued growth and engagement is our progress
+on visual and public content.
+More than 2 billion photos are now shared daily across Facebook, Instagram, Messenger and WhatsApp. Video grew
+significantly this year to an average of more than 3 billion video views per day on Facebook. So, we now have more
+than 2 billion interactions every week on Facebook between public figures and their fans.
+Instagram is also growing and helping people share and consume the most engaging content in different communities
+across the world. Instagram reached 300 million monthly actives, with more than 70% outside of the U.S. Average time
+spent using the app continues to be very strong compared to other mobile services.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 3 of 17
+Across Facebook and Instagram, we've done a very good job on engagement, especially when it comes to helping
+people find and consume content they like. In 2015, we'll continue working on this as well as developing more ways
+for people to share even more of the moments they care about on Facebook.
+Five years ago, most of the content shared on Facebook was text and some photos. Today, it's primarily photos with
+some text and video. Over the next five years, we want to keep developing new products and features that help people
+share the way they want.
+When it comes to serving businesses, we've continued to help drive results for businesses of every size around the
+world. Last week, a Deloitte report found that in 2014, Facebook created more than $225 billion of global economic
+impact and 4.5 million new jobs. This is an important reminder of the big opportunity we have to create value for
+businesses and why we're committed to serving them well. In 2014, we invested aggressively in improving our ad:tech
+and measurement tools. We're going to continue working to provide new capabilities for marketers. Sheryl will talk
+about this more in a moment.
+Next, let's talk about our efforts over the next five years to build the next-generation of Facebook services. We expect
+WhatsApp and Messenger to connect hundreds of millions of more people and become indispensable services for the
+world as well as important contributors to our business.
+Messenger and WhatsApp recently achieved impressive new milestones. In November, Messenger reached 500 million
+monthly actives; and in the beginning of January, WhatsApp reached 700 million monthly actives with more than 30
+billion messages sent each day. These numbers speak to the quality of both products and the size of the opportunity
+ahead to help billions of people communicate and collaborate.
+Search at Facebook is another important effort that we expect to create a lot of value over the next few years. In this
+quarter, we launched updates to Facebook search to make it easier to find content and posts on mobile and desktop.
+We're going to continue listening to feedback from our community and taking the time to build a really valuable
+product here. We're optimistic about our ability to deliver value that only Facebook is able to provide.
+Working with developers is the other part of our strategy. In this quarter, we continue to make progress with helping
+developers build, grow and monetize their apps. In October, we rolled out our Audience Network around the world.
+And since then, the number of apps in the network has nearly tripled, and impressions served by the network have more
+than quadrupled.
+In 2015, we'll continue to build upon our long-term goal of making Facebook a truly cross-platform platform that
+allows its developers to share their work across every major mobile platform, and we look forward to sharing more
+details at our next F8 event in San Francisco this March.
+Finally, let's talk about our plans over the next decade to connect everyone to the Internet through Internet.org and to
+develop the next-generation of computing platforms with Oculus.
+Internet.org now has a lot of momentum and we've launched free basic Internet services in Zambia, Tanzania, Ghana,
+Kenya and Colombia. More than 150 million people living in these countries now have the option to connect to the
+Internet using Internet.org and we've already connected 6 million of them to the Internet, who didn't have access before.
+We're very excited by Internet.org's progress and the level of interest we're seeing across industries, governments and
+our community. 2015 is going to be an important year for our long-term plans and I expect us to share more updates
+about our progress here over the coming months.
+Oculus continues to make progress toward the future of immersive VR experiences that are part of daily life for
+millions of people. This month, the team had another good showing at CES and developer interest in Oculus platform
+continues to grow.
+So, that's my update for this quarter. It's been a good quarter and a good end to an important year for us. I want to thank
+everyone in our Facebook community and our employees, our partners and our stockholders for their support. Thanks
+to you, our community is growing stronger every day and we're making progress towards making the entire world more
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 4 of 17
+open and connected.
+Thanks. And now here's Sheryl.
+Sheryl K. Sandberg
+Thanks, Mark, and hi, everyone. Q4 was strong across the board, topping a great year. This is our first quarter with
+over $3 billion in ad revenue and over $2 billion in mobile ad revenue. Our Q4 ad revenue grew 53% year-over-year.
+Our mobile ad revenue was 69% of the total ad revenue and doubled in the past year. Our growth is strong across all
+verticals and marketer segments. We also saw healthy growth around the world although growth rates outside the U.S.
+were affected by exchange rates.
+Looking back at 2014, our teams made great progress on our three main priorities: capitalizing on the shift to mobile;
+growing the number of marketers using our ad products; and making our ads more relevant. We believe that the market
+increasingly understands that we have the leading mobile ad product and are the only platform that delivers
+people-based marketing at scale.
+The shift to mobile is changing the way people consume video. As Mark said, video grew dramatically on Facebook in
+2014, especially around global events like the World Cup and the ALS Ice Bucket Challenge. In just one year, the
+number of videos posts per person on Facebook increased 75% globally and 94% in the U.S. Today, over 50% of
+people in the U.S. who come to Facebook daily watch at least one video per day. And globally, over 65% of Facebook
+video views occur on mobile.
+Marketers have followed this trend and are using video to help people discover and learn about their brands. In Q4, we
+expanded autoplay video ads internationally during the holiday season with our many clients telling their stories
+creatively through video.
+2014 was also the year we began scaling Instagram ads. In Q4, we rolled out Instagram ads in Australia and Canada.
+Marketers are excited to have access to the 300 million people who use Instagram and the creativity it inspires.
+We're seeing beautiful, creative and great results from brand marketers across verticals, from insurance and tax to retail
+and entertainment. For example, as one of our first Instagram video advertisers, Banana Republic developed a series of
+videos to promote its new BR clothing line. The videos showed fashion sketches from the new collections and drove a
+23 point lift in ad recall. While it's still early and we're being deliberate in our rollout, we believe that Instagram will
+become core to advertisers' mobile brand-building efforts.
+We also made progress growing the number of marketers using our ad products. Custom Audiences, our suite of
+proprietary targeting products, has become an essential tool for segmenting current and potential customers.
+Conversion tracking, a way for marketers to measure the impact of their campaigns online, is also seeing wider
+adoption. We've made it easier for businesses of all sizes to plan and manage their ad campaigns and for small
+businesses to use our targeting tools.
+Travel company Thomas Cook recently used Facebook in Belgium to reach a broad audience and used Custom
+Audiences to send targeted messages to existing customers based on the places they'd expressed interest in. They
+reached 30% of the Belgian population in just one day and achieved a 3.85 times return on investment. Results like
+these are attracting more marketers of all kinds to our platform.
+Finally, we made great progress improving ad relevance and measurement. To do this, we made significant investments
+in both our core measurement and targeting tools as well as ad:tech. Earlier in 2014, we introduced ad buying
+capabilities based on reach and frequency metrics, which is similar to how brand marketers buy TV ads and therefore
+enables better cross comparisons. We improved our Ads Manager product to give better insights into ad campaigns'
+audience and impact.
+In the fall, we re-launched Atlas to help marketers reach real people and measure results across multiple devices.
+Omnicom was our first global client and this month we announced a partnership with Havas to further expand globally.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 5 of 17
+We also invested in Audience Network, which helps marketers extend their campaigns off of Facebook, and LiveRail,
+which provides publishers with video tools to monetize their inventory more efficiently.
+Heading into 2015, we're excited to build on the progress we've made with our core ad products, as well as with newer
+areas like video, Instagram and ad:tech. It's still early days in all of these efforts. There's a lot of hard work to do and
+we plan to invest aggressively.
+Our ultimate goal is to be a critical business partner to our clients, providing people-based marketing at scale to build
+their brands and move their products off shelves.
+Over the past few weeks, I've had a chance to meet with many of our largest global clients and agency partners and talk
+about how we can drive real business results for them, making every impression count and every dollar they spend
+improve their bottom line.
+Our clients are excited by the opportunity to use video, Instagram and ads on and off Facebook to reach the right people
+with the right message. In turn, as our ads become more relevant, we provide a better experience for the people who use
+Facebook.
+Coming off our biggest year ever, I want to say a special thank you to the Facebook teams around the world. To our
+global sales, engineering, product design and infrastructure teams, your accomplishments over this past year are the
+reason our business is in such a great place.
+To our entire company, I feel lucky to work with you as we stay focused on our priorities and work together to help
+connect the world. And to our clients, thank you for your partnership and your trust in us. Heading into 2015, we have
+big opportunities and a lot of work ahead. Thanks.
+And now here's Dave.
+David M. Wehner
+Thanks, Sheryl, and good afternoon, everyone. Q4 wrapped up a strong year for Facebook. In 2014, our revenue grew
+58% to approximately $12.5 billion and we generated over $3.6 billion in free cash flow. We are very pleased with the
+continuing growth of our network.
+In December, the number of people using Facebook on an average day increased by 18% compared to last year, to 890
+million. The daily number represents 64% of the 1.39 billion people who used Facebook during the month. Mobile
+remains the primary driver of our growth. We ended the year with 1.19 billion people using Facebook on mobile in the
+month. We also continue to see solid growth with Instagram, Messenger and WhatsApp recently crossing 300 million,
+500 million and 700 million MAU, respectively.
+Turning now to the financials. All of our comparisons are on a year-over-year basis unless otherwise noted. In addition,
+as a reminder, our non-GAAP measures exclude stock-based compensation and the amortization of intangibles.
+Total revenue in Q4 was $3.9 billion, up 49% or 53% on a constant currency basis. Given how significantly exchange
+rates have continued to move, we anticipate that this currency headwind will increase in 2015. I will give more color on
+this later in the call.
+Ad revenue was $3.6 billion, up 53% or 58% on a constant currency basis. Mobile ad revenue in Q4 doubled to $2.5
+billion, or 69% of ad revenue compared to approximately $1.2 billion, or 53% of ad revenue last year. Desktop ad
+revenue was up approximately 1%, despite the fact that overall desktop usage was down.
+In Q4, the average price per ad increased 335%, while total ad impressions declined 65%. Similar to last quarter, these
+price volume trends were primarily driven by the redesign of our right-hand column ads, which rolled out in the third
+quarter.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 6 of 17
+Total payments and other fees revenue was $257 million, up 7%. Note that the growth was driven by revenue from
+acquisitions made in the past year. On an organic basis, payments revenue from games, which represents the substantial
+majority of our payments and other fees revenue, declined 10% compared to last year. As previously noted, we expect
+this trend to continue as desktop usage declines.
+Turning now to expenses. Our Q4 total GAAP expenses were $2.7 billion, up 87%, and non-GAAP expenses were $1.6
+billion, up 50%. GAAP expense growth was driven primarily by significant stock-based compensation and
+amortization expenses related to the WhatsApp acquisition. Non-GAAP expense growth was driven primarily by
+increases in head count-related costs, cost of revenue and marketing expenses.
+On a full-year basis, our 2014 GAAP expenses were $7.4 billion, up 47%, and our non-GAAP expenses were $5.3
+billion, up 34%. We ended the year with roughly 9,200 employees, up 45%. Overall, we remain very pleased with our
+ability to attract and retain top-tier talent.
+GAAP operating income was $1.1 billion in Q4, representing a 29% operating margin, down from 44% last year, again
+primarily due to expenses related to our recent large acquisitions. Non-GAAP operating income was $2.2 billion in Q4,
+representing a 58% operating margin, consistent with the margin last year.
+Interest and other income and expense was a net expense of $19 million in Q4 versus a net expense of $3 million in Q4
+last year. This increase in expense was primarily due to foreign exchange losses resulting from the periodic
+re-measurement of our foreign currency balances during the period.
+In Q4, we benefited from the reinstatement of the R&D tax credit. Our GAAP tax rate was 37%, but would have been
+approximately 42%, excluding the benefit of the tax credit. Our Q4 non-GAAP tax rate was 31% and would have been
+approximately 32%, excluding this benefit. Q4 net income was $701 million or $0.25 per share, and non-GAAP net
+income was $1.5 billion or $0.54 per share.
+In 2014, we spent $1.8 billion on CapEx and generated over $3.6 billion of free cash flow. We ended 2014 with $11.2
+billion in cash and investments and a net operating loss carry forward of approximately $4.5 billion.
+Turning now to the outlook. Let me start with revenue. We are still in the early stages of building out many aspects of
+our ads business and we remain optimistic about our long-term opportunities. Looking at 2015, there are a couple of
+things I want to note. The first involves how the recent movements in exchange rates might impact our 2015 revenue.
+Assuming exchange rates were to remain constant at today's levels, we would expect that our total revenue in 2015
+would be approximately 5% lower than it would be under 2014 exchange rates. Note this 5% represents the expected
+reduction in 2015 total revenue, not the reduction in the year-over-year growth rate.
+And second, we're reporting revenue from Atlas, LiveRail and the Audience Network on a net, not a gross basis. So,
+the growth in those products will have less of an impact on our overall reported revenue growth in 2015.
+Turning now to expenses. We are tightening our ranges modestly, given the better visibility into 2015 spending. We
+expect that our full-year 2015 total GAAP expenses will increase 55% to 70% compared to 2014. We expect that our
+2015 total non-GAAP expenses will increase 50% to 65%. A simple way of thinking about our investments is across
+three categories; people, product and infrastructure.
+On the people side, we entered 2015 with 45% more employees than we did a year ago, and we will continue to invest
+in and grow the talent base throughout the year. In terms of product, we are investing to build great experiences for
+people, marketers and developers, ranging from our existing products and services to newer initiatives such as ad:tech,
+Internet.org, Oculus and WhatsApp. We'll also invest in marketing to support all of these initiatives, which, as I noted,
+was a driver of expense growth in Q4.
+Turning to infrastructure. We continue to build out our global infrastructure to enable billions of people around the
+world to connect, message and share with each other. We will be investing in data centers, our network and servers to
+grow our existing services and support newer initiatives such as video and our global connectivity efforts through
+Internet.org. We anticipate our 2015 CapEx will be in the neighborhood of $2.7 billion to $3.2 billion.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 7 of 17
+We expect stock-based compensation for 2015 to be in the range of $3 billion to $3.3 billion, approximately half of
+which is related to our prior acquisitions, most notably WhatsApp. We expect amortization expenses for 2015 to be
+approximately $700 million to $800 million. And finally, we anticipate our Q1 and full-year 2015 GAAP tax rate to be
+in the mid-to-high 40%s, and non-GAAP rates to be in the mid-to-high 30%s.
+In summary, Q4 capped off a great year for Facebook in which we executed well and also made some very important
+investments for our future. In 2015, we are focused on continuing to execute on the business and investing in our
+long-term mission and success.
+With that, Courtney, let's open up the call for questions.
+Q&A
+Operator
+[Operator Instructions] Your first question comes from the line of Heather Bellini with Goldman Sachs. Your line is
+open.
+<Q - Heather Anne Bellini>: Great. Thank you. I just had two quick questions. Sheryl or Mark, I was just wondering,
+from a brand advertising perspective, is there a way you could share with us how your conversations with these
+advertisers have been trending over the past 12 months, how they've been evolving and how they're thinking about the
+video opportunity?
+And then, Dave, I just wanted to follow-up on your question about total expense guidance, because in the past you've
+given a 5 point range, I believe, for total expenses and this year it's 15 point. Granted, you did tighten it, which we
+appreciate. And just wondering, the parameters around how we think about the low-end versus the high-end?
+<A - Sheryl K. Sandberg>: It's a great time for the brand question because over the past few weeks I've spent a lot of
+time kicking off 2015 with our largest agency partners and largest clients. And I would say that people remain really
+excited about Facebook, but people are bigger believers because we've had an opportunity to do more measurement
+over the past year.
+I think there are two things about the Facebook Platform that are really exciting for brand marketers. The first is the
+creativity and story-telling and certainly as you mentioned video is a big part of that, because video is a format that
+marketers have used for a long time to build emotional connection to brands.
+And the second is measurement and what clients want and what they should want is an ability to look at their ad spend
+and see how effective it is not just in the brand lift metrics, even though those are important, but in moving products off
+shelves, and over the past year-and-a-half the investments we've made in building out that measurement have paid off.
+So, when I sit down with clients at the beginning of this year compared to last year, we have more actual case studies of
+marketing we've done with them. We've been able to A/B test Facebook ads versus no Facebook ads and what the
+effectiveness is on their sales.
+And I think across the board, we're showing very healthy very competitive ROI. The opportunity and the challenge
+now is to scale. Even for our largest clients globally, we still represent a really small part of what they do and so it's on
+us to prove to them that the results we're showing them in these smaller tests can happen in more brands in more
+countries with a larger part of their business.
+<A - David M. Wehner>: Hi, Heather, it's Dave. So, just following-up on that, where we land in the range of guidance
+on expenses will depend on a number of different factors. It's going to depend on how successful we are at hitting our
+recruiting goals, how much we ramp in areas like marketing, how quickly we deploy our capital against our CapEx
+plan, and then how we execute against our plan of ramping investments in new areas like Oculus, WhatsApp,
+Internet.org, et cetera.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 8 of 17
+We feel good about where we are. We're going into 2015 on a high note, so I feel like we're making these investments
+from a position of strength and excited about the opportunities to put more capital to work in 2015.
+Operator
+Your next question comes from the line of Eric Sheridan with UBS. Your line is open.
+<Q - Eric J. Sheridan>: Thanks for taking the question. Mark, I wanted to follow-up on your comment around search.
+It's early days, but what the company is seeing in terms of the way people are interacting with the new search
+functionality inside Facebook, broadly? And then maybe tying it back to advertising, what that might mean for closing
+the loop with some of your small and medium-sized business advertises, and maybe even the places initiative,
+long-term? Thanks.
+<A - Mark Elliot Zuckerberg>: Sure. So, our view on this is that there's a lot of unique content that people have
+shared in Facebook, a lot of personal content, recommendations from friends that you can get that you just wouldn't be
+able to get through a traditional web search service or other app. And we're on this multi-year voyage to basically index
+all the content and make it available to people and rank it well.
+We started off by launching Graph Search, which I think included more than a trillion different connections in the first
+system. And the second round of the search progress that we just started rolling out at the end of last year, was Post
+Search, which now has indexed more than I think a trillion posts, which I mean, the sizes of these corpuses are bigger
+than anything in a traditional web search corpus that you'd find, so it's an interesting and fun challenge to make this
+work. We're seeing that the people immediately understand how they can use this and find content that they've seen in
+News Feed before or that they've posted with just a few keywords. And we're excited about that, but there's a lot more
+to do. So, I'd say, we're not really thinking about advertising in it yet.
+On scale that our community operates, a billion searches per day is actually not that big compared to what we think the
+opportunity here should be, and we're just continuing to keep on working on it, because there's just a lot of unique value
+that people should be able to get from their friends on Facebook through search.
+Operator
+Your next question comes from the line of John Blackledge with Cowen. Your line is open.
+<Q - John R Blackledge>: Great. Thanks. I just wondered, if you could provide your view on Facebook as a video
+platform, given that video views per day increased to 3 billion in December from 1 billion in September of 2014. And
+how we should think about video content mix over the next couple of years. And same kind of topic, if you can give a
+sense of user and advertiser feedback on the autoplay video ads, that'd be great. Thank you.
+<A - Mark Elliot Zuckerberg>: I'll talk about the consumer products, and then Sheryl can jump in about ads. So, what
+we're seeing, and I alluded to this a bit in my opening remarks, is that there's been this evolution of content on
+Facebook over the last 10 years towards richer formats that convey more of the moments that people care about. So, if
+you go back five years ago, a lot of Facebook was primarily text, right, and a little bit of photos. Now, I think the
+primary mode that people are using to share is photos, and I wouldn't be surprised if in the future that shifted more and
+more towards videos.
+So, we're thinking about how to enable consumption first of the content that people were sharing. And this year an
+increased focus on new opportunities around production, so it's easier for people to capture the moments that are
+important to them, create higher-quality moments and pieces of content out of those, and increase their experiences
+through that. So, there's a lot more to do here, and I think that this is going to be one of the big trends over the next
+three years or five years, is the growth in video and richer content in our service.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 9 of 17
+<A - Sheryl K. Sandberg>: From a consumer and marketer feedback on video ads point of view, those two things
+really go together. It's exciting that we've gotten to 3 billion video views per day, because that means consumers are
+using video ads and enjoying them on Facebook and in News Feed. The way we think about our ads products is, we
+want them to blend in with the consumer experience. And so, the fact that we have this much consumer video on
+Facebook, means we have an opportunity to grow our ad business, and that's exciting for marketers.
+Operator
+Your next question comes from the line of Justin Post with Merrill Lynch. Your line is open.
+<Q - Justin Post>: Great. It looks like you did about $9 of revenue in the U.S. per MAU, which implies over a $30 run
+rate, which is impressive. Sheryl, maybe first question to you. How do you grow that from here? Is it usage? Is it more
+higher ad loads? Is it the mix of ads? Or is it targeting? Maybe some thoughts on how you grow from there?
+And then, Mark, as you look at your other three platforms; WhatsApp, Instagram, Messenger, and other things you
+probably have in mind, can they monetize anywhere as well as Facebook, if you look out to your five-year plan? Thank
+you.
+<A - Sheryl K. Sandberg>: So, thanks for the questions. When you think about what's happening, certainly the growth
+has been good, but it's still true that marketing dollars have not followed consumer time in the same percentages. So, in
+the U.S., mobile gets 25% of consumer media time, but only 10% of the ad budgets. And to take one comparable
+example, that means that for every consumer hour spent on print, marketers spend $1, and they spend $0.07 per hour on
+mobile, which means that we have an opportunity to grow.
+One of the most important ways we grow is not just bringing more marketers into Facebook, having them use more of
+our ad products; but as you mentioned, better targeting. A more relevant ad is a better ad experience for consumers, but
+also drives a much higher return for marketers. And since we're running an auction, as our ads get more relevant and
+we provide higher ROI, we should be able to continue to grow.
+I think we've done a good job over the last year making our ads more relevant, and I think people on this call would say
+that you see more relevant ads than you used to a year ago. But, I still think some of the Facebook ads still have room
+for improvement in terms of relevance, and so we see a lot of room for improvement there, both in the ROI we deliver
+and in the experience we can provide consumers.
+<A - Mark Elliot Zuckerberg>: Yeah. So, I'll add something to that, just on the side of how we think about value
+through Facebook, and then I'll talk about the other apps. In terms of the product development that we do here, we have
+four major groups inside the company. This is kind of how our company is organized, we have one which is focused on
+growing the community; one which is focused on kind of increasing content consumption and people's engagement;
+another which is focused on efficiency and helping people get the most value out of each moment that they're spending
+in Facebook; and then the fourth group is our core business, which is focused on helping people to see the best ads and
+basically make the most money per moment that people are spending at the lowest cost, and most efficiency in terms of
+serving people.
+And there's, I think, big upside in each of those four categories. I mean, our community is growing. I mentioned in our
+comments upfront that time spent across our services grew by 10% year-over-year with per person, which is pretty
+meaningful. Utility and efficiency are increasing, and of course, the ad business per person and the efficiency of our
+services are both increasing as well. So, I'm pretty excited about that and think we're organized in a way where we can
+continue executing against that.
+The other opportunities, Instagram, Messenger and WhatsApp, I'm really excited about, and I do think that they're
+going to reach the level where they contribute to our business in a pretty big way. But, it's really important to get this
+right and not rush it. And what I'd say around messaging is, we're pretty early in that cycle.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 10 of 17
+We're about where Facebook was in around 2006 or 2007, where at that point Facebook was really just a consumer
+product. There were no businesses in the ecosystem and a lot of people were telling us, okay, go put better ads in. And
+that felt wrong. I didn't think that that was going to be the right way to build the product or build the business.
+So instead, what we did was we built pages, which was a way for businesses to interact for free in the system and start
+creating organic interactions between people and businesses, so we could figure out what the people using Facebook
+wanted from businesses within Facebook. And we built more tools for pages and businesses to engage. And our recent
+success with advertising is really just built on some of those organic interactions between people and businesses.
+And what you see in Messenger and WhatsApp now is, we're still at the early end of that curve, where the interaction is
+still primarily people-to-people and businesses are starting to figure out, in the case of WhatsApp, much less in
+Messenger so far, what the organic interaction is. But, we're going to have to go through a whole cycle of figuring out
+how that works, before it really makes sense to start monetizing them in a big way. But, yeah, I mean, I'm a big
+fundamental believer that these are going to be very big contributors to our businesses over time, but we just have to do
+it right.
+Operator
+Your next question comes from the line of Ben Swinburne with Morgan Stanley. Your line is open.
+<Q - Benjamin Daniel Swinburne>: Thank you. Two questions. Sheryl, can you talk about where we are in the North
+American market versus your other regions in terms of advertiser maturation and acceptance of the Facebook Platform?
+The growth rates in North America continue to be really impressive, despite it being your business when you look at
+the ARPU trends. And compared to the other regions those seem to be moderating a bit.
+And then I was wondering, Dave, if you could talk about the pricing growth which actually accelerated from Q3 to Q4?
+Can you give us some color there? I know there were changes to right-hand rail, but anything else you would add about
+why there was such a huge acceleration in pricing growth? Thanks.
+<A - Sheryl K. Sandberg>: North America remains a really important market for us. And as you've said, we've had
+growth we're very happy with. It's still true that for any client, no matter how big they are for us, we represent a really
+tiny part of their ad spend. And we represent an under-investment in terms of where they can reach their consumers.
+So, we believe by continuing to make these investments, we can really continue to grow. We get 20% of people's time
+on mobile phone in the U.S., between Facebook and Instagram. We don't get close to that in terms of anyone's
+marketing spend or the time they spend. What we say to our clients over and over again, is that we want to drive their
+business, and that's sort of probably the most important thing we're doing for these large North American spenders, is
+around the measurement work we've done. Two years ago, we were not able to measure all the way through to
+purchase off the shelves, and now we can.
+Yesterday, we rolled out a product we call lift, which is really the next iteration of our measurement capabilities, and
+enabled large customers to go in and set up ads with control test groups, that they can A/B test, this group of people
+saw a Facebook ad, this group of people didn't. And they can measure all the way through to conversion of whatever
+they're measuring, whether it's an online conversion to a sale. We think the measurement out there online and digitally
+is not particularly accurate. People don't have real people-based measurement through our investments in Atlas and
+through our investments in the core Facebook measuring tools. We think if we can show the ROI marketers are getting
+and we can increasingly do so, we can continue to penetrate the North America market.
+<A - David M. Wehner>: Ben, it's Dave. So also just building on what Sheryl said, worth noting that the drop in the
+value of international currency has impacted our results outside the U.S. So some of what you're seeing here is a result
+of that. It reduced year-over-year revenue growth rates by 7% to 8% in the different international regions, so that's a big
+reason why you see the U.S. doing much better as well as the fact that's just a more advanced market in what we've
+done in terms of just building up the advertiser base and getting adoption of our best targeting products, as Sheryl was
+talking about.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 11 of 17
+Going to your question on pricing grid, I just reiterate what I said in my comments. It's largely due to the right-hand
+column redesign and then also the shift to mobile where we don't show right-hand column ads. So, that's really what's
+causing the pricing shift.
+Then fundamentally, we just continue to get better targeting. That drives better engagement, and as we get better
+engagement, that drives better ROI for our advertisers, which ultimately, I think, as Sheryl commented on earlier, gets
+reflected in better pricing for our ads. And that's a big opportunity for us and we are seeing that we're getting better and
+better at driving engagement from the ad units that we have and getting the right ad in front of the right person. So
+that's a big factor as well.
+Operator
+Your next question comes from the line of Douglas Anmuth with JPMorgan. Your line is open. Douglas Anmuth, your
+line is now open.
+Your next question comes from the line of Brian Wieser with Pivotal Research. Your line is open.
+<Q - Brian W. Wieser>: Hi. Thanks for taking the question. First, I was wondering, if you could talk about the degree
+to which, you think, premium video content, where it's not necessary to optimally capture budgets from advertiser that
+might otherwise have gone to TV? You have a couple of initiatives around ABC and NFL. So, I was curious to hear
+your thoughts on that.
+And separately, among clients who are using Atlas, and especially those who are new to Atlas, do you get a sense that
+their spending on digital media is changing? Or, if so, how? And, alternately, are they just happier with their campaign
+management tools? Thanks very much.
+<A - Sheryl K. Sandberg>: So, on video ads, what really matters is that consumers are using video on Facebook,
+because that gives us an opportunity, one, to provide a great consumer experience, but, two, to have ads match that
+consumer experience. If there wasn't consumer video on Facebook, video ads in your News Feed would be very jarring.
+As a percentage of the videos you're seeing, video ads fit nicely into that experience. I don't think it matters as much
+what the video content is. And so, while we're certainly exploring some premium content – as you said, we have an
+NFL/Verizon test out there in the public eye, we're already seeing pretty explosive growth without that kind of
+premium content in the system in large numbers. And so, we'll continue to figure out. We're certainly open to
+increasing video content either way, but we haven't quite figured out what the mix needs to be and right now, the
+growth is very strong.
+In terms of Atlas, we just re-launched this fall and we're just seeing as deals get done in broad adoption, so I think it's
+too soon for us to report that Atlas drives an increase in digital spend or an increase in any particular kind of spend.
+But, here's what we believe really deeply, which is that Atlas is going to revitalize marketing by making the
+measurement more accurate.
+If you look at how digital ads are being measured, they're being measured based on a cookie-based world that assumes
+that people have one device, largely, a PC, and that's just not true. Consumers have phones. They have tablets. They
+have PCs as well. And the ability to understand that, that's one person, to serve an ad and measure all the way through
+correctly, we think it's going to massively improve the efficiency in the system as it gets adopted.
+Operator
+Your next question comes from the line of Peter Stabler with Wells Fargo. Your line is open.
+<Q - Peter C. Stabler>: Thanks for taking the question. One for Sheryl. Sheryl, as you push further toward monetizing
+off-platform inventory, wondering if you could speak to the state of your relationships with premium publishers?
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 12 of 17
+There's a narrative out there we sometimes encounter that publishers are growing a bit concerned about the power you
+guys wield, particularly as you push into monetizing off the platform. Thanks very much.
+<A - Sheryl K. Sandberg>: Our Audience Network efforts are still pretty new. We have a goal of serving more
+relevant ads to people off Facebook, which will provide greater reach for Facebook marketers and also a better
+opportunity to monetize for publishers.
+We're seeing some nice results so Shazam reported that using Audience Network increased their revenue from ad
+networks by 37%. We believe that working with publishers, if we can increase the value of their inventory by providing
+more relevant and targeted ads they're going to be really happy with that opportunity and we're in the early stages of
+finding those partners.
+Operator
+Your next question comes from the line of Anthony DiClemente with Nomura. Your line is open.
+<Q - Anthony DiClemente>: Thanks. Thanks a lot. First for either Mark or Sheryl, on the subject of public video
+content and what you guys are doing to increase the amount of video in the News Feed. Are there things in terms of
+actors, celebrities, public figures that you can do to economically incentivize those creators of, let's say, the higher
+quality user-generated content onto the Facebook Platform, be it a revenue share, what have you, are relative to the
+economics for those types of folks on competing online video platforms?
+And then just one quick one for Dave. You mentioned – I just had to ask, you mentioned you'd be shifting the
+accounting for Facebook Audience Network and LiveRail for revenue to be net of TAC in 2015 versus gross in 2014.
+I'm just wondering why the decision to do that? And is there anything you can help us with in terms of order of
+magnitude of that shift? Thanks.
+<A - Sheryl K. Sandberg>: So, on premium video content, we haven't figured out exactly how important this is to the
+ecosystem or how much we're going to invest or what kind of monetization we're going to offer. Video is growing quite
+nicely through the ecosystem right now.
+We have made a lot of investments in public content working with public figures to use the Facebook Platform. We're
+by far the largest social platform and increasingly you're seeing public figures, everything from news broadcasters, to
+journalists, to public figures do a lot on Facebook and that's important to us because it provides a kind of sharing
+people want.
+People come to Facebook to share with their friends and family, but they also come to Facebook to connect with
+everyone from politicians to journalists to celebrities they want to connect with and get news and we're definitely
+seeing public content grow as a percentage of what people get.
+We also had some nice wins with the Golden Globes this year. Other things we're doing to go deeper, doing some
+partnerships, we did in Davos at CNBC to show how we can help content creators increase their distribution and reach
+people directly on Facebook.
+<A - David M. Wehner>: Yeah. And, Anthony, it's Dave. Just to be clear that net revenue recognition for those
+products that's how we did it in Q4 as well. Those are all small today, but there's not a change in accounting in 2015.
+That's how we accounted for those products in Q4. As far as the net versus gross, we just evaluated all the facts and
+circumstances and made the judgment that net revenue recognition was the most appropriate treatment here.
+Operator
+Your next question comes from the line of Ross Sandler with Deutsche Bank. Your line is open.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 13 of 17
+<Q - Ross A. Sandler>: Thanks. Just following-up on the video concept, how important is it that Facebook host the
+videos versus sharing clips from third-party players in the feed? And what percent of that 3 billion streams daily is
+Facebook-embedded versus from other players? And are you able to monetize videos from third-party players today or
+is there a way to work around that in the future? Thanks.
+<A - Mark Elliot Zuckerberg>: This stuff that we shared, of 3 billion a day is all native on Facebook, so there are
+probably other shares from other video services as well, but the way that those look in our services are as if they are
+linked to other sites. And the reason why I think native video is so valuable for people using our service is that when
+someone uploads a video to Facebook directly, we can optimize how it's delivered, right? So, we can make it autoplay.
+We can find the right quality and bit rate to send down to the person based on their connection over time and optimize
+all kinds of different things. So, what I think people are finding from public figures to everyday videos that people are
+uploading is that the best experience that you can get is by uploading content native to Facebook which is I think a big
+part of the growth that we're seeing here.
+Operator
+Your next question comes from the line of Colin Sebastian with Robert Baird. Your line is open.
+<Q - Colin A. Sebastian>: Great. Thank you. I wonder if it's possible to distinguish how much of the growth in
+advertising revenues can be attributed to changes in organic compressions and how you balance the desire of business
+partners to contribute content to feeds versus monetization? Thank you.
+<A - David M. Wehner>: Not sure, I exactly understand the question, but let me see if I can take a crack at it, Colin. I
+mean, we're seeing obviously great growth in DAU, which is up 18%. We're seeing good growth in time spent across
+the network, up 10% per DAU. So, you've got those sort of underlying drivers of engagement driving growth.
+We're also monetizing at higher rates, because we're able to get better targeting into the ads and get better conversion
+for advertisers, so that's reflected in better pricing. So, there's a number of different factors that are coming into play,
+but clearly driving organic growth and engagement is critical in the business, and we're seeing good success there.
+<A - Mark Elliot Zuckerberg>: One thing that I'd just add to emphasize here, because I think there have been a
+couple of questions to this effect is that our primary strategy for growing the ad business is increasing the quality of the
+content, not increasing the number of ads per story that people are seeing on Facebook.
+So, there are impacts like as people consume more content on Facebook, within the ratio of ads to organic content that
+will show, they might see more ads; but overall, our strategy is much less about increasing the volume of ads and much
+more about increasing the quality of the content and the quality of the targeting to get the right content to the right
+people.
+And this was a pretty controversial strategy internally and we weren't sure if that was going to work out; but for the last
+year, it's really fueled our growth in a good way and we feel very confident that this is the right path going forward as
+well.
+Operator
+Your next question comes from the line of Carlos Kirjner with Bernstein. Your line is open.
+<Q - Carlos Kirjner-Neto>: Hi. I have two quick questions. First, when you say that time spent increased 10%
+year-on-year, is this roughly uniform across your geographic regions? And, secondly, Mark, I think during your
+remarks in every earnings call, you talk to investors for a considerable amount of time about Facebook's efforts to
+connect the world, and specifically about Internet.org, which suggest you think this is important to investors. Can you
+clarify why you think this matters to investors? And, importantly, why you think Facebook can make a significant
+difference at scale, given that your [an hour] per user in emerging markets is about $5, and to connect any user who has
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 14 of 17
+no device or coverage may be at least in the tens of dollars? Thank you.
+<A - Mark Elliot Zuckerberg>: Well, it matters to the kind of investors that we want to have, because we're a really
+mission-focused company and we wake up every day and make decisions because we want to help connect the world,
+and that's we're doing here.
+So, part of the subtext of your question is that, yeah, if we were only focused on making money, we might put all of our
+energy on just increasing ads to people in the U.S. and the other most developed countries. But that's not the only thing
+that we care about here.
+So, I do think that over the long-term that focusing on helping to connect everyone will be a good business opportunity
+for us as well. We may not be able to tell you exactly how many years that's going to happen in, but as these countries
+get more connected, the economies grow, the ad markets grow, and if Facebook and the other services in our
+community are the number one and number two, three, four, five services that people are using, then over time we will
+be compensated for some of the value that we've provided. But, this is why we're here. We're here because our mission
+is to connect the world and I just think it's really important that investors know that.
+<A - David M. Wehner>: And, Carlos, on the time spent per DAUs, we're just giving the one point. We're not
+breaking anything out by region.
+Operator
+Your next question comes from the line of Paul Vogel with Barclays. Your line is open.
+<Q - Paul Vogel>: Great. Thank you very much. I'm just curious, given the impact that currency had on the quarter on
+growth rates outside the U.S., is there any market you could call out, particularly, that were either better or worse that
+might be masked by the currency swings, number one? And, number two, I'm just curious, if currency does stay where
+it is, does it all impact your spending plans or how and where and when you'll invest? Thanks.
+<A - David M. Wehner>: Hey, Paul. It's Dave. Sort of taking your second part first, we're not really making
+investments' decisions on short-term fluctuations in currencies. So, I would say, in general, no, it's not affecting, not
+affecting those decisions.
+There are certainly big macro effects that are going on and part of those are what's driving a lot of the currency
+fluctuation as well, so you have regions that are certainly growing more quickly and regions that are growing more
+slowly. So from a macro perspective, the United States is doing better in terms of growth versus Europe versus Latin
+America. You see those compounded in both currency and sort of macroeconomic conditions in those regions. So, I'd
+say generally we've got more favorable market conditions in which to operate in the U.S.
+Overall, I would say the business is driven by the fundamentals of us continuing to execute against our plan. So,
+whether you're in a market that's suffering a little bit from a macroeconomic headwind, we still have the best mobile
+product in the market, in that market and we're growing.
+So I think at the end of the day, it's the fundamentals of our business that are going to drive our success and we're kind
+of focused on that. But wanted to at least give some color around how the currencies might impact the 2015 results.
+Operator
+Your next question comes from the line of Robert Peck with SunTrust. Your line is open.
+<Q - Robert S. Peck>: Yes. I have two quick questions. One, Mark, you haven't spoken much yet today about the
+e-commerce opportunity in front of Facebook, particularly the buy button. Could you elaborate a little bit on plans
+around e-commerce and what you see that opportunity?
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 15 of 17
+And then, Dave, I was wondering, for investors, could you maybe go through your view on how you look at capital
+efficiency and ROI, so that, whether it be acquisitions or CapEx or even OpEx, how you look and see you're getting a
+good return on that spend? Thanks so much.
+<A - Sheryl K. Sandberg>: Q4 is a really important quarter, in general, but it's a particularly important quarter for
+e-commerce so it's a timely question. When you think about buy on Facebook, it's a small test in the U.S. we started
+last quarter, it enables people to buy on pages. To be clear, you're not buying from Facebook. You're buying directly
+from the merchant and it's really an SMB product to give them capability they haven't had.
+We'll see what happens in terms of where people convert, whether it's on Facebook, but we think the opportunity to
+connect consumers with the products that they then purchase is a really big one. Where we play in that most directly is
+the time and attention consumers have, as well as the information to do very relevant advertising and we're going to
+stay focused there.
+<A - Mark Elliot Zuckerberg>: Robert, I think the bulk of the investment that we're doing is really focused on the
+capital and the OpEx to deliver against the core mission of enabling billions of people to connect and share. So for the
+most part, we're looking at what we need to deploy to deliver against the mission to deliver against our overall financial
+results. There are places where we can individually take out specific projects whether it be M&A or specific capital
+investments and then we'll look at those on an IRR basis for a specific project, but you have to recognize that we're
+basically one large business and we're operating against capital deployment against delivering against the objectives of
+that business. So, that's the bulk of the spend that we do, but certainly we look at things on an ROI basis on individual
+project basis as well.
+Operator
+Your next question comes from the line of Arvind Bhatia with Sterne, Agee. Your line is open.
+<Q - Arvind Bhatia>: Thanks for taking the question. Just quickly on WhatsApp, I know the focus will be user growth
+for a while. But in the future, as you do turn on the monetization engine, just curious what are some of the primary
+ways that you're assuming growth will come from, it won't be advertising or games perhaps. And also, on WhatsApp
+user growth, would you be able to call out where that's coming from? Is there any particular areas that are stronger?
+And curious how that's doing in the U.S.? Thank you.
+<A - Mark Elliot Zuckerberg>: So, you're right that the focus for WhatsApp is on helping to connect a lot more
+people. Right. So, when Jan and the team joined us, one of the first things that we agreed on and why I think it made
+sense for them to join, is that now they can focus for a few years on getting to 1 billion more than that and continuing to
+scale beyond that. SMS is an incredibly global and universal product and I think WhatsApp just has a use huge
+opportunity to serve billions of people.
+In terms of what the business looks like, at the end of the day, it's a distribution business like Facebook and Instagram.
+How you most effectively convert that into business opportunities for customers, whether that's through payments or
+ads or other different kinds of structures, we'll figure that out what the optimal thing will be.
+But the first-order thing to do is to help serve billions of people here, help continue to increase engagement, people are
+spending a lot of time in WhatsApp, sending more than 30 billion messages a day which is really crazy when you think
+about the volume there compared to the global SMS volume overall, and I think if we do that, there'll be a number of
+opportunities.
+People asked me this question a while ago about how we thought about games on Facebook as well. And I always
+thought about our canvas business on desktop, even though it was payments, is actually the same thing as our business
+on mobile around app install and engagement. What developers tasked for is distribution, and whether they're doing
+that through payments or ads or whatever it is, it kind of is all the same.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 16 of 17
+The most important thing is to help people connect, help people and businesses connect, create business opportunities
+and then you get a small amount of the value that you're creating on top. So, that will play out over the next set of years
+and it's one of the intellectual challenges that I'm really looking forward to tackling.
+<A - Sheryl K. Sandberg>: Operator, we have time for one last question.
+Operator
+Your last question comes from the line of Mark Mahaney with RBC Capital Markets. Your line is open.
+<Q - Mark S. Mahaney>: Great. Thank you. Sheryl, the size of the ad revenue that Facebook is generating and the
+growth, these are large budgets that are shifting over to Facebook. Any commentary on where you think those budgets
+are coming from? What are the source of funds?
+And then I know, David, the engagement levels seem to be rising. There seem to be a little slip in the engagement
+levels, that DAU over MAU ratio in Asia and the rest of world, at least sequentially. Is that just noise or is that a reason
+to panic? Thanks.
+<A - Sheryl K. Sandberg>: I don't think there's any single force of where the dollars are coming from. Certainly as
+consumer time and attention is shifting to mobile, the marketer time and attention. We pay a lot of attention to the
+market or segments we work with, so we're seeing strong growth from brand from direct response like e-commerce
+from SMBs and developers, and we stay pretty focused not really on the force of where the money is coming from, but
+what are the objectives people are spending against on Facebook, so that we can meet all the different objectives.
+We understand that in order to continue to grow, we want to continue to grow, we're going to have to start multiple
+objectives on the Facebook Platform and that's what we're focused on.
+<A - David M. Wehner>: Mark, I think the simple stories we're really pleased with how we're executing on the
+engagement front, 64% of people coming to Facebook monthly, coming on an average day is we think a great stat.
+I think small changes are pretty much noise. I mean, we're really happy with it. We talked about things like the video
+engagement. Mark shared some stats like how much photo sharing is going on across our properties. So overall, I think
+engagement is a great story for us and we're really happy with it.
+Deborah Crawford
+Great. Thank you, everyone, for joining us today. We appreciate your time and we look forward to speaking with you
+again.
+Operator
+This concludes today's conference call. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2015-01-28
+Event Description: Q4 2014 Earnings Call
+Market Cap: 213,209.25
+Current PX: 76.24
+YTD Change($): -1.78
+YTD Change(%): -2.281
+Bloomberg Estimates - EPS
+Current Quarter: 0.398
+Current Year: 1.915
+Bloomberg Estimates - Sales
+Current Quarter: 3552.593
+Current Year: 17008.273
+Page 17 of 17
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
