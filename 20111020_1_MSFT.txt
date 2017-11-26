@@ -1,0 +1,636 @@
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 1 of 12
+Q1 2012 Earnings Call
+Company Participants
+• Bill Koefoed
+• Peter S. Klein
+Other Participants
+• Adam Holt
+• Rick G. Sherlund
+• Heather A. Bellini
+• Walter H. Pritchard
+• Kash G. Rangan
+• Philip A. Winslow
+• Brendan Barnicle
+• Brent Thill
+• Mark L. Moerdler
+• John S. DiFucci
+• Colin W. Gillis
+• Brad Robert Reback
+• Ed Maguire
+• Gregg Steven Moskowitz
+• Tim Klasell
+• Jason Maynard
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to Microsoft's Fiscal Year 2012 First Quarter Earnings Conference Call. All lines have been placed in a
+listen-only mode until the question-and-answer session. Today's call is being recorded. If anyone has any objections,
+you may disconnect at this time. I would now like to turn the call over to Bill Koefoed, General Manager of Investor
+Relations. Bill, you may begin.
+Bill Koefoed
+Thank you, Carol, and thank you, everyone, for joining us this afternoon. As usual, with me today are Peter Klein,
+Chief Financial Officer; Frank Brod, Chief Accounting Officer; and John Seethoff, Deputy General Counsel.
+On our website is our financial summary slide deck, which is intended to follow our prepared remarks and provides a
+reconciliation of differences between GAAP and non-GAAP financial measures. This information is available at
+microsoft.com/investor. As a reminder, we will post today's prepared remarks to our website immediately following the
+call until the complete transcript is available.
+Today's call is being webcast live and recorded. If you ask a question, it will be included in our live transmission, in the
+transcript and any future use of the recording. You can replay the call and view the transcript at the Microsoft Investor
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 2 of 12
+Relations website until October 20, 2012.
+During this call, we will be making forward-looking statements. These statements are based on current expectations
+and assumptions that are subject to risks and uncertainties. Actual results could materially differ because of factors
+discussed in today's earnings press release, in the comments made during this conference call and in the Risk Factors
+section of our Form 10-K, Form 10-Q and other reports and filings with the Securities and Exchange Commission. We
+do not undertake any duty to update any forward-looking statements.
+Okay. And with that, I'll turn the call over to Peter.
+Peter S. Klein
+Thanks, Bill, and thanks, everyone, for joining us. Today I'm pleased to share with you our first quarter financial
+results. We've started fiscal year 2012 with good momentum. We have great products in market, customer satisfaction
+is high and we have important strategic investments and alliances to position us well for long-term growth. This
+quarter, we saw revenue growth across all of our segments. Similar to prior periods, we continued to see broad-based
+demand across geographies, including Europe.
+Within our segments, the Microsoft Business Division continued its momentum with revenue of $5.6 billion, growth of
+8%. Despite the best efforts of competitors, Office remains the overwhelming choice for productivity, evolving with
+our customers and posting impressive revenues. We are extremely pleased by the market reception to Office 2010 this
+far into the launch cycle. We are 15 months post launch, but we still saw an increase in the consumer PC attach rate for
+Office this quarter.
+And for businesses, Office 2010 remains a top priority. Just as important, businesses are also adopting our productivity
+server applications, including Lync, SharePoint and Exchange, either on premise or in the cloud with Office 365. The
+early success of Office 365 has surpassed our expectations. Businesses around the world and of all sizes are making the
+commitment to Microsoft's cloud services.
+Our business infrastructure offerings, including Windows Server, Hyper-V and System Center are a top priority for
+enterprises. The flexibility, performance, scalability and price advantage of our private cloud products uniquely meet
+the needs of the market, and with Windows Azure, we enable our customers to build new applications and extend their
+existing private cloud assets to the public cloud.
+As we discussed at our financial analyst meeting, we are increasingly delivering integrated experiences across multiple
+devices, from the phone, to the Xbox and TV, and to the PC. Earlier this month, we launched an updated version of our
+Windows Phone operating system with a broad array of new features and services, including enhanced integration with
+Bing, Xbox Live and Office 365. With Nokia, Samsung and other devices coming to market, we are well-positioned to
+become the third mobile ecosystem.
+In the living room we continue to differentiate the entertainment experience for Xbox users around the world and we
+recently announced partnerships with nearly 40 leading TV and entertainment providers. Powered by Kinect and voice
+search through Bing, users will be able to easily search and enjoy content from a large collection of content providers
+through their Xbox 360 consoles. And on the PC, Windows 7 is the operating system of choice for almost half a billion
+people around the world. Combined with the innovative hardware being brought to market by our OEM partners this
+holiday season, Windows will continue to deliver the great experiences that people want.
+During the quarter we unveiled the developer preview of the next version of our PC operating system. Windows 8
+creates a modern platform designed for a new generation of hardware experiences enabled by touch and a diversity of
+chip architectures.
+In search, monetization of our ad platform remains below our expectations and we continue to partner closely with
+Yahoo! to address the platform gaps and inefficiencies. We recently agreed to extend the RPS guaranteed payments to
+Yahoo! reflecting the strength of our partnership and our continued commitment and optimism about the financial
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 3 of 12
+opportunity ahead of us.
+Last week we reached a significant milestone with the closing of our acquisition of Skype. We welcome Skype
+employees into the Microsoft family and we welcome the over 170 million people who rely on Skype for their voice
+and video calls on a monthly basis.
+Now that the deal is closed, we are starting the integration of Skype's world class services and global network platform
+across our portfolio of products and services, including Lync, Windows Live Messenger, Windows Phone and the
+Xbox platform. Together, we will redefine social and real-time communications for consumers and businesses around
+the world.
+In summary, we are off to a good start to the year. Customer demand across the breadth of our product portfolio was
+healthy and we remained focused on our strategic investments and partnerships that will help drive future growth.
+With that, I'm going to hand it back to Bill to provide some more details on our results.
+Bill Koefoed
+Thanks, Peter. First, I'm going to review our overall results and then move on to the details by business segment.
+Revenue for the quarter was $17.4 billion, up $1.2 billion or 7% year-over-year. Operating income was $7.2 billion,
+cash flow from operations was $8.5 billion and earnings per share was $0.68, an increase of 10%. Foreign exchange did
+not materially impact our net income during the quarter.
+Coming off a record Q4, enterprise demand for our products remained strong and our customers continue to add both
+products and seats to their enterprise agreements. At the end of the quarter, unearned revenue was $15.7 billion and our
+contracted not billed remained over $18.5 billion.
+Turning to the PC market, we estimate that the overall market grew 1% to 3%. Within that, PC sales to emerging
+markets continued to outpace developed markets. Business PCs grew 5% to a quarterly record of almost 35 million
+PCs. And consumer PCs were flat, primarily impacted by weakness in netbook sales.
+Now I'll move on to the results for the Windows and Windows Live division, where revenue was up 2% and grew in
+line with the PC market. As usual, you'll find the OEM revenue bridge in our earnings slide deck.
+Overall, the Windows business continued to show momentum. During the quarter we surpassed 450 million copies of
+Windows 7 sold since launch and enterprise deployments of Windows 7 progressed. This quarter, OEM licenses grew
+4% and within that business licenses grew 6%. While we have seen the cannibalization of netbooks, sales of Windows
+licenses on traditional consumer PCs showed healthy growth of 14%.
+As we look toward the holiday season, we are particularly excited about the line-up of impressive Ultrabooks that will
+be in market from our OEM partners.
+Now I'll move on to the Microsoft Business Division where revenue grew 8%. Consumer revenue increased 7% despite
+difficult comps from the year ago launch of Office 2010. The business transactional portion grew 3% driven by strong
+attach in developed markets partially offset by the impact of PC geographical market mix. The multiyear licensing
+portion of the business grew 9%.
+Collaboration and communication continued to be a pillar of strength to our office business. Lync, SharePoint and
+Exchange collectively grew double digits. Lync revenue grew over 25% as customers increasingly chose Microsoft for
+their voice and video rollouts. We are focused on the opportunities in this large and growing market. With Skype's
+highly engaged users spending an average of 125 minutes per month, we're particularly excited about the role Skype
+can play in connecting individuals and businesses together with voice and video.
+Last quarter we announced the launch of Office 365, the latest version of our cloud-based productivity platform. We
+are thrilled with the early results. In the first 10 weeks of Office 365 availability the number of new customers
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 4 of 12
+exceeded what took us over two years to build with the first version of our Business Productivity Online service. Also,
+we've seen Office 365 customers buy more products and drive new revenue streams.
+For example, when we've won a competitive bid in the enterprise for messaging and email, 80% of the new customers
+have bought SharePoint and Lync in addition to Exchange, and historically small businesses have only bought Office,
+but today, with Office 365, 80% of the time we've seen them buy the bundle of SharePoint, Lync and Exchange.
+Now let's move on to Server and Tools, which posted 10% revenue growth and grew faster than the server market. Our
+multi-year license revenue continued to perform well and grew double digits this quarter. Enterprise services revenue
+was up 17%. Windows Server Premium and System Center revenues grew mid-teens as the build-out of private cloud
+environments and the virtualization of data centers has increased server density and has shifted buying behaviors
+toward our premium enterprise offerings.
+Our data platform business also continued to perform well. SQL Server Premium revenue grew nearly 20% this quarter
+as customers increasingly look to SQL Server to power their business intelligence and mission-critical workloads.
+We continue to build on our strong Server and Tools portfolio. At our BUILD developer conference in September we
+took the wraps off Windows Server 8 the next major release of the world's most- used server operating system, which
+will be cloud optimized to work in both private and hybrid cloud scenarios. In addition, we highlighted our data
+platform with the upcoming release of SQL Server 2012. We also announced our plans to support Apache Hadoop both
+on Windows Azure and Windows Server to embrace big data.
+Next I'll move to the Online Services Division, where revenue grew 19%. Online advertising revenue was up nearly
+21%, driven primarily by search. Bing's U.S. organic market share ended the quarter at 14.7%, up 30 basis points this
+quarter and 350 basis points year-over-year. This quarter we made progress in differentiating our offerings by
+deepening Bing's social integration with Facebook and Twitter and made enhancements that simplified decision
+making and task completion. While Online Services improved its year-over-year operating performance we continued
+to face monetization challenges, which we are partnering closely with Yahoo! to resolve.
+Now let me move to the Entertainment and Devices Division, where revenue grew 9% and we continued our leadership
+of the U.S. console market. Gears of War 3, which is only available on Xbox effectively kicked off the holiday season
+and sold 3 million units in its first week of release.
+Gaming is an important component of living room entertainment and in addition to blockbusters such as Forza 4,
+Dance Central 2, Halo Anniversary and Kinect Sports Season 2 there will be over 70 Kinect titles available for the
+holidays.
+Beyond gaming, next quarter is also when nearly 35 million Xbox Live users will begin to enjoy the new television
+content and experiences from our announced partnerships.
+During the quarter we released the updated version of Windows Phone to market and it has received favorable reviews
+from both industry press and our customers. We also signed a broad agreement with Samsung that includes increased
+collaboration on the development and marketing of Windows phones.
+Now let me cover the remainder of the income statement. Cost of goods sold was driven by the following. First, we saw
+an increase in royalty costs resulting from strong transactional sales on Xbox Live and the increased sales of royalty
+bearing Xbox 360 games, notably, Gears of War 3. Second, Enterprise Services continue to grow rapidly. And third,
+Online Service costs increased, which included Yahoo! traffic acquisition costs.
+Operating expenses were $6.4 billion, an increase of 8%, primarily due to compensation changes, legal expenses and
+Puerto Rican excise taxes. In the first quarter we increased our dividend to $0.20, an increase of 25% and we returned
+$2.7 billion to shareholders in buybacks and dividends. So in summary, we saw broad-based strength in our businesses
+and got off to a good start to the year both in revenue and EPS.
+And with that, I will hand it back to Peter who is going to discuss our business outlook.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 5 of 12
+Peter S. Klein
+Thanks, Bill. For the remainder of the call I'll discuss our expectations for the second quarter and full year. Beginning
+with the Windows and Windows Live Division we expect revenue to continue to be impacted by market dynamics
+similar to what we experienced the past several quarters with PC growth in emerging markets significantly outpacing
+growth in developed markets.
+Turning to the Microsoft Business Division transactional revenue, approximately 40% of the division's total, will likely
+lag the overall PC market for both the second quarter and full fiscal year reflecting a higher mix of PC shipments to
+emerging markets and the prior year launch impact. In addition, when updating your models, remember that last year,
+we recognized $224 million of revenue related to the Office 2010 Tech Guarantee. Multiyear licensing revenue,
+approximately 60% of the division's total, should grow mid to high single-digits for the second quarter and low
+double-digits for the full fiscal year.
+Moving to Server and Tools, approximately 30% of the division's revenue comes from transactional licensing, 50%
+from multiyear licensing and 20% from Enterprise Services. In the second quarter and full fiscal year, we expect
+transactional revenue to generally track with the hardware market, multiyear licensing revenue should grow low
+double-digits and Enterprise Services revenue should grow about 20%.
+Turning to the Online Services Division, we are focused on improving the financial performance of our search
+business. Our number one priority is to resolve the monetization challenges of the combined ad platform. We are
+working very closely with Yahoo! on bridging the RPS gap. As we improve RPS, revenue should track the online
+advertising market more closely.
+Moving on to the Entertainment and Devices Division, including Skype, we now expect revenue to grow low
+double-digits for the second quarter and high teens for the full fiscal year.
+Switching to overall cost of goods sold for the company, we expect COGS growth to have similar dynamics to what we
+experienced the past three quarters. Growth will be driven by increased Xbox console sales, Xbox Live royalty costs,
+the inclusion of Skype, Enterprise Services and online costs, including Yahoo! traffic acquisition costs. We have
+adjusted our fiscal year operating expense guidance to include Skype and the associated integration costs. As a result,
+we now expect operating expenses to be $28.6 billion to $29.2 billion for the full fiscal year.
+We expect our effective tax rate to be 19% to 21% for the second quarter and full fiscal year, and we still expect capital
+expenditures to be about $2.5 billion for the full fiscal year. For the second quarter, we expect unearned revenue to
+roughly follow historical seasonal patterns. We continue to expect unearned revenue at the end of the fiscal year to
+grow low double-digits compared to the prior fiscal year.
+As I discussed at our financial analyst meeting last month, we have a balanced approach to capital allocation: investing
+in growth, returning cash to shareholders and maintaining a strong balance sheet. We are investing in the significant
+growth opportunities we see for our businesses by building integrated products that deliver a differentiated value
+proposition, and accelerating our growth in compelling scenarios like real-time communications with the acquisition of
+Skype.
+We will also continue to return cash to shareholders. This quarter we increased our dividend 25% and we are
+continuing our $40 billion share repurchase program approved by the Board of Directors in 2008, of which $11.2
+billion remain.
+In summary, our financial results this quarter build upon an already strong financial foundation, one that provides
+stability while at the same time, giving us the flexibility to take advantage of growth opportunities.
+And with, that I'll turn it back to Bill, and we'll take some questions.
+Bill Koefoed
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 6 of 12
+Thanks, Peter. We want to get to questions from as many of you as possible so please stick to just one question and
+avoid long or multipart questions. Carol, can you please go ahead and repeat your instructions?
+Q&A
+Operator
+[Operator Instructions] Our first question is from Adam Holt, Morgan Stanley. Your line is open.
+<Q - Adam Holt>: Hi. Thanks very much. My question is about Skype. Is 100% of the Skype revenue going to be in
+the E&D segment? And if it is, it looks like the revenue and earnings contribution or OpEx contribution is a little bit
+lower than I would have expected. Are there any write-downs or any shifts or any kind of transitional issues that we
+should be thinking about in terms of the run rate for Skype relative to what it was historically?
+<A - Peter S. Klein>: Well, there's going to be integration-associated costs, some amortization of IP, things like, that
+that you may or may not be considering, but yes, it will all appear in E&D.
+<A - Bill Koefoed>: Operator, next question.
+Operator
+Thank you. The next question is from Rick Sherlund, Nomura. Your line is open.
+<Q - Rick G. Sherlund>: Thanks. I'm used to a little more controversy. It seems pretty clean. On Skype, Peter, could
+you just talk a little bit about the model for Skype? What are you going to do different to get the revenues up? How do
+you monetize Skype?
+And then also, just on Ultrabooks. You had that issue in Thailand with the floods that Western Digital said is going to
+take out a lot of production. Are you anticipating any problems with PCs? And maybe that shifts the market over to
+solid state, and these Ultrabooks look kind of interesting. Any reason to believe that we could see some actual
+acceleration in the market from adoption of Ultrabooks or are you thinking we might see some slowdown because of
+what we've seen in Thailand?
+<A - Peter S. Klein>: Thanks, Rick, let me start with the Skype question, and then we'll get to the other question.
+Obviously we – the first thing I'll say is we closed the deal last week, so we're real-time doing a lot of the great work on
+the product integration planning. We've got folks here in the building as we speak really working hard on what the
+plans are going to be. And so I think over time it will become more clear.
+I think as we've been talking about since we announced the acquisition, the opportunities are incredibly exciting across
+the portfolio of our products whether it's Lync or Windows Live Messenger or Xbox or on the phone. And so I think
+not only are there great opportunities to integrate across our product portfolio but as they were working on even before
+we announced the acquisition new revenue opportunities related to advertising and premium services. So all of that's
+coming together as we speak and mostly we're incredibly excited to get to work together more fully now that the deal is
+closed.
+In terms of your question about Thailand, the first thing I want to say obviously is our thoughts go out to all of the
+individuals that are affected there and we're thinking about them. In terms of the impact that, you're correct, it doesn't
+impact solid state which is good. And I would say this about overall the impact. I think historically the global supply
+chain has been pretty resilient to occurrences like this and so over time we'll have to watch this very carefully to see
+kind of what the overall impact is.
+<A - Bill Koefoed>: Carol, next question, please.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 7 of 12
+Operator
+Thank you. The next question is from Heather Bellini, Goldman Sachs. Your line is open.
+<Q - Heather A. Bellini>: Hi. Good afternoon, guys. Peter, I was just wondering, the Windows attach and inventory
+boost was a nice tick up this quarter and I'm just wondering if you could give us a sense of how you're doing from a
+piracy standpoint in terms of that what's helped in the quarter, did you actually see more inventory build?
+<A - Peter S. Klein>: We saw both. So it was some inventory and some attach we're definitely seeing improvements in
+attach across the board so definitely making some improvements on piracy and then some of that improvement was a
+little bit of inventory build as we head into the holiday. But to your point, we are definitely seeing improvements in
+attach this quarter, which was a big driver.
+<Q - Heather A. Bellini>: Great. Thank you.
+<A - Bill Koefoed>: Operator, next question.
+Operator
+Thank you. Walter Pritchard, Citi. Your line is open.
+<Q - Walter H. Pritchard>: Hi, thanks. Bill, I'm wondering as you look at the OSD losses here, you actually lost less
+money than we thought on the revenue number that was lower. Just first wondering if you could comment going
+forward if we should expect that this level of losses is what we should sustain. And then as you look at the model
+overall we saw lower losses but that didn't flow through as much to the bottom line as we might have expected. How
+are you thinking about any upside that comes through the lower losses in OSD and impacting the bottom line in the
+company overall?
+<A - Peter S. Klein>: Yes, thanks, Walter. As we've been saying the key to this profitability in this business is to
+continue to grow our revenue and to do that we have to continue to grow share and grow our revenue for search and
+that's certainly what we're focused on. Obviously, it's a high fixed-cost business. Within that we have been managing
+the expenses, and so we are taking every opportunity to manage the profitability of that business. But by far the most
+important thing to continue to increase the profitability is to make sure we can continue to grow the revenue and to do
+that we need to make sure we get the revenue per search up.
+So that's what we're laser focused on and that's what we've got people working closely with Yahoo! on every day and
+we'll continue to focus on that. And that's the most leveraged thing we can do for OSD profitability and ultimately the
+company's bottom line.
+<A - Bill Koefoed>: Carol, next question, please.
+Operator
+Thank you. Kash Rangan, Merrill Lynch. Your line is open.
+<Q - Kash G. Rangan>: Hi. Just wanted to drill into the Skype contribution a little bit more. Just wondering if there's
+some products you're going to be discontinuing, certain services or new things, conversely, that you're going to be
+adding? And also this one-time transition type expenses, Peter, if you could qualify how much of that will impact the
+P&L that you've already guided to in the quarter? Just to get an understanding of how much would go away as you
+settle into a steady state on the Skype business? Thank you.
+<A - Peter S. Klein>: Yes, thanks, Kash. It's clearly it's a little premature to talk about the changes and what we're
+going to do with the products. As I said, mostly what we've seen this week is an incredible excitement with their
+engineering people and our engineering people getting together to talk about all of the opportunities. As we flesh those
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 8 of 12
+plans out, obviously we'll have a lot more to say about that.
+And in terms of the expense side, what I would say is everything that's included there is included in our guidance
+framework that we gave you. So that's probably the best guidance I can give you on those expenses.
+<A - Bill Koefoed>: Carol, next question, please.
+Operator
+Thank you. Philip Winslow, Credit Suisse. Your line is open.
+<Q - Philip A. Winslow>: Hi, thanks. Another good quarter, guys. I just wanted to focus back on MBD. You guys
+have been trending at or above frankly PC shipments for several quarters now. Where do you think we stand in the
+adoption cycle, particularly in the large enterprise of Office 2010 and especially when we think about rolling the
+ecosystem out, where are we in that?
+And also, Bill, one quick follow-up, I think you gave the transactional revenue growth for MBD but I'm not sure you
+gave that for Server and Tools. Thanks.
+<A - Peter S. Klein>: Yes. On the last question, the transaction revenue for Servers and Tools should track the
+hardware market.
+<Q - Philip A. Winslow>: Sorry; I meant this quarter.
+<A - Peter S. Klein>: Oh, this quarter. Sorry. I'll answer the question. On MBD it's really interesting. There's a couple
+of things going on particularly in the enterprise that really provides sustenance for the ongoing business. One is the
+great traction we get from the integration of SharePoint and Exchange and Lync with Office 2010. So not only is there
+really good resonance for the Office applications but increasingly, as Bill talked about, customers are deploying
+communications and collaboration technology with that. And there's a lot of legs to go on the productivity server
+applications piece of the business.
+Second thing I would add is the cloud. Increasingly every time we go in and talk to enterprises about productivity they
+want to have a conversation about public cloud services. Not necessarily because they want to deploy public cloud
+tomorrow, but they really want to understand the roadmap and understand where that's leading, and we've found that
+creates an incredibly good conversation that then leads to a broader conversation of a long-term commitment to our
+platform and applications. And I think obviously that's a long-term phenomenon with a lot of room still to go.
+So the way I think about it, yes, for the Office application, particularly on the transactional side coming off a launch
+year, there is some difficult comparables, but on the enterprise side with the additional products and the cloud that's
+really been the driver of our growth and it really is a long-term catalyst.
+<A - Bill Koefoed>: And, Phil, transactional for STD was low single digits, which we believe was roughly in line with
+the server hardware market, as Peter mentioned.
+<Q - Philip A. Winslow>: Great. Thanks, guys.
+<A - Bill Koefoed>: Carol, next question, please.
+Operator
+Thank you. Brendan Barnicle, Pacific Crest Securities. Your line is open.
+<Q - Brendan Barnicle>: Thanks, guys. I had two quick ones on the guidance. Peter, first on the Windows and
+Windows Live, in the previous quarters you've talked about business PCs no longer outpacing consumer. That language
+isn't in. Is that no longer as big a factor?
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 9 of 12
+And then second on the Server and Tools you've pretty substantially increased your guidance around the Enterprise
+Services revenue. Wondering what's accounting for that uptick and we saw a good strength in that in the quarter as
+well?
+<A - Peter S. Klein>: Yeah, we are still seeing business outpacing consumer. So thank you for that.
+And on the Enterprise Services, it's interesting. We're really seeing healthy demand for our consulting services to help
+people architect and deploy the next generation of the products that we're bringing to market both in Server and Tools
+and MBD. You can see the connection there as Server and Tools is continuing to grow double digits, people are really
+investing in their data centers and in the private cloud. And we're helping people do that and also to think about and
+contemplate what that's going to mean to migrate to the public cloud ultimately.
+Same thing is true with the productivity server applications. How do you start deploying Lync and SharePoint? And
+how do you think about transitioning to Office 365 over time? So we're really seeing – we've got a strong pipeline of
+business there and that's why you're seeing the growth both in the costs, frankly, to service that demand because
+obviously it's a variable cost business.
+<A - Bill Koefoed>: Carol, next question, please.
+Operator
+Brent Thill, UBS. You may ask your question.
+<Q - Brent Thill>: Thanks. Peter, just on the enterprise business any changes in customer behaviors as the quarter
+progressed? Or as you look at your pipeline I think there's obviously been some concern over some more scrutiny
+around some larger deal sizes and I was just curious in terms of what you're seeing?
+<A - Peter S. Klein>: No. We didn't see any changes in that flavor throughout the quarter.
+<A - Bill Koefoed>: And I would just add, I mean unearned came in right in line with our expectations. So we continue
+to execute well on the annuity side for sure.
+Carol, next question.
+Operator
+Thank you. Mark Moerdler, Bernstein. Your line is open.
+<Q - Mark L. Moerdler>: Hello. I want to drill a little bit on the hosting costs which on MBD was a big chunk of the
+increase in cost of revenue. How much do you think this is pointing to a lower margin as Office 365 and Dynamics
+online gain traction? And if so what do you think we should be modeling against?
+<A - Peter S. Klein>: Yeah, no. Good question. Obviously, particularly in the short run, delivering a service has a
+different margin profile than delivering software. It's going to have a lower gross margin percentage but ultimately
+should have a higher gross profit dollar. So what you should be thinking about is as we scale you see accelerated
+revenue growth at a lower gross margin percentage and a higher growth of gross profit dollars. But I would add we're
+such in the early days there that I don't think that it's had a big impact on our business performance to date. That is
+correct. That was a long-term business model perspective but it's not material today.
+<A - Bill Koefoed>: Carol, next question, please.
+<Q - Mark L. Moerdler>: Thanks.
+Operator
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 10 of 12
+Thank you. John DiFucci, JPMC. Your line is open.
+<Q - John S. DiFucci>: Thank you. Peter, I think bookings were flat this quarter from a year ago and I assume you got
+some benefit from foreign exchange. So on a constant currency basis they're probably down a little bit and this is after
+four quarters of some really nice growth here. I think the last time it was flat or down was during the recession. Is this
+simply a sign of some difficult macro – of a difficult macro environment? Or was it just a difficult comp
+year-over-year? Or even a strong quarter last quarter that might have pulled some business forward?
+<A - Peter S. Klein>: Exactly. Thanks, John. It's definitely more of the latter. You know across-the-board all of our
+metrics for revenue, transactional, unearned and CNB, all what we expected. And it's really just a function of the
+year-over-year comps and the strong Q4 that we had. And we're excited about the pipeline as we head into Q2. And as
+you know Q1 is probably our lowest selling quarter any way during the year seasonally. So we feel good as we head
+into Q2.
+<A - Bill Koefoed>: And we reflected that in our unearned guidance that we gave you last quarter which was we
+expected sequential – Q4 to Q1 that sequentially it would decline a little bit more than normal. So I'd say it came in line
+with what we had expected it to be, as I said earlier.
+<A - Peter S. Klein>: Yeah.
+<Q - John S. DiFucci>: Thank you.
+<A - Bill Koefoed>: Carol, next question, please.
+Operator
+Thank you. Colin Gillis, BGC Financial. Your line is open.
+<Q - Colin W. Gillis>: Hi, Peter. Can you just update us on the percentage of cash that's offshore? And just give us a
+sense as to how much onshore cash you need to have to comfortably run operations?
+<A - Peter S. Klein>: Yeah, of our cash about $51 billion is offshore.
+<Q - Colin W. Gillis>: Okay. And what percentage of cash do you need to keep onshore just to keep the lights on and
+the dividends getting paid?
+<A - Peter S. Klein>: Yeah, that's not how we think about. We've got plenty of cash. It's not an issue.
+<Q - Colin W. Gillis>: Okay. Thank you.
+<A - Bill Koefoed>: Operator, next question, please.
+Operator
+Thank you. Brad Reback, Oppenheimer, your line is open.
+<Q - Brad Robert Reback>: Great. Thanks a lot. Peter, as we think about the Xbox Live business, you've greatly
+expanded the content available there. Are there opportunities here for additional premium – premium service contracts
+with people? Or is it going to be mainly transactional to get that content?
+<A - Peter S. Klein>: Well, without being specific about this particular case, I think from a business model perspective
+you're thinking about it right. There's lots of opportunities to think about how you might monetize delivering unique
+and compelling entertainment experiences, and that's clearly kind of how we think about it. And that's sort of been the
+strategy with the Xbox business all along, right? Once you get that incredible installed base of engaged users, how can
+you deliver a set of interactive entertainment experiences sort of across the board and what that means. and sort of from
+a business model perspective there's lots of interesting ways to monetize that.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 11 of 12
+<A - Bill Koefoed>: Yeah, I mean, I would just add that as you've seen in our results, Xbox Live has been phenomenal,
+both in terms of growth of users, growth in revenues. The content that we have coming out this holiday season is going
+to be super exciting, and obviously as I mentioned in my remarks, that we're going to have over 70 games out this
+holiday season. So we believe that we have the most compelling entertainment experience in the living room and
+hopefully for those of you who don't have it, you should go out and check it out this holiday season because it's going
+to be pretty exciting.
+Carol, next question, please.
+Operator
+Thank you. Ed Maguire, CLSA. Your line is open.
+<Q - Ed Maguire>: Hi. Good afternoon. I just wanted to ask a question following the announcement of your Samsung
+deal what your assumptions are for royalties around mobile phones? And also, whether you've built in any assumptions
+from Phone into Entertainment and Devices?
+<A - Peter S. Klein>: So in terms of the deal, we haven't announced any of the specific terms of the deal. We talked
+conceptually about the deal and we're super excited about their commitment to the platform, and all of that related to
+that is included in the Entertainment and Devices Division.
+<A - Bill Koefoed>: Carol, next question, please.
+Operator
+Thank you. Gregg Moskowitz, Cowen, your line is open.
+<Q - Gregg Steven Moskowitz>: Okay. Thank you. I just had a follow-up to Adam's question. You raised your
+guidance, Peter, for the EDD business this year to high-teens growth, although of course, this now includes Skype. So a
+couple of questions around that. First, do you still expect to see mid-teens growth for the EDD business organically?
+And second, I don't know that there are that many long-term Skype subscribers, but is there going to be a deferred
+revenue write-down for Skype and if so, how much? Thanks.
+<A - Peter S. Klein>: I think it's – why don't we – the second question we'll talk to you about when we actually report
+Skype results, after the next quarter, because we just closed that last week. And on the E&D business, I would say
+generally, yes, our guidance is in line with guidance we've given before.
+<Q - Gregg Steven Moskowitz>: Thank you.
+<A - Bill Koefoed>: Carol, next question, please.
+Operator
+Thank you. Tim Klasell, Stifel Nicolaus.
+<Q - Tim Klasell>: Yeah, good afternoon, everybody. Follow-up question to Brendan's comment about business PCs
+growing faster than consumer PCs. Where do you think we were in the enterprise Windows 7 upgrade cycle? Are we
+middle innings? Are we getting towards the end? How do you guys feel about that?
+<A - Peter S. Klein>: Yes, no, I think we're middle innings. And I think we expect that dynamic of business PCs
+growing faster to last throughout this fiscal year, at least. So I would say middle innings.
+<Q - Tim Klasell>: Thank you.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2011-10-20
+Event Description: Q1 2012 Earnings Call
+Market Cap: 214,763.00
+Current PX: 25.53
+YTD Change($): -2.38
+YTD Change(%): -8.527
+Bloomberg Estimates - EPS
+Current Quarter: 0.782
+Current Year: 2.765
+Bloomberg Estimates - Sales
+Current Quarter: 21107.815
+Current Year: 75043.207
+Page 12 of 12
+<A - Bill Koefoed>: Okay. Operator, let's take one more call, please.
+Operator
+[Operator Instructions] Thank you. And Jason Maynard, Wells Fargo, your line is open.
+<Q - Jason Maynard>: Hi. Good afternoon, guys. Since fixing the Yahoo! RPS challenges were obviously an issue for
+improving OSD, how do you guys go about sort of ensuring that there won't be any disruption to your efforts, given all
+of the call it, market talk, about what's happening with Yahoo!? Because clearly if it's acquired or split up, there's all
+sorts of potential outcomes that could cause maybe more disruption to what you're trying to accomplish. So how do you
+kind of preserve the process if you will?
+<A - Peter S. Klein>: We've got a really good relationship with Yahoo!. This is a long-term alliance. Everybody's
+working really well together. They're super focused on what we need to do, and no matter what, that's the goal at hand,
+and the teams are working really well together to do that. So that's kind of how we're approaching it and focused on it.
+Bill Koefoed
+Okay. So that will wrap up our Q&A portion of today's earnings call. Thanks again for joining us today, and have a
+good afternoon.
+Operator
+Thank you. This concludes today's presentation. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2011, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

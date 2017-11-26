@@ -1,0 +1,838 @@
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 1 of 15
+Q3 2011 Earnings Call
+Company Participants
+• Ron Slaymaker
+• Kevin P. March
+Other Participants
+• John W. Pitzer
+• Glen S. P. Yeung
+• Craig A. Ellis
+• Vivek Arya
+• James V. Covello
+• Uche Orji
+• Shawn R. Webster
+• C.J. Muse
+• Chris B. Danely
+• Romit J. Shah
+• Ross C. Seymore
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, and welcome to the Texas Instruments third-quarter 2011 earnings conference call. Today's conference is
+being recorded. At this time, I would like to turn the conference over to Ron Slaymaker. Please go ahead, sir.
+Ron Slaymaker
+Good afternoon, and thank you for joining our third-quarter 2011 earnings conference call. As usual, Kevin March, TI's
+CFO, is with me today. For any of you who missed the release, you can find it on our website at ti.com/ir. This call is
+being broadcast live over the web and can be accessed through TI's website. A replay will be available through the
+web.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to
+differ materially from management's current expectations. We encourage you to review the Safe Harbor statement
+contained in the earnings release published today, as well as TI's most recent SEC filings, for a more complete
+description. Our mid-quarter update to our outlook is scheduled this quarter for December 8. At that time, we expect to
+adjust the revenue and earnings guidance ranges as appropriate.
+This is a complex earnings report, primarily because we have a soft demand environment and a significant acquisition
+with accounting implications. We've taken extra effort to provide clarity and transparency. In today's call, we'll give
+you an update on our progress with the National acquisition and explain the associated costs and accounting. We'll
+cover the demand environment for the third and fourth quarters, and we'll provide detailed transitions for earnings per
+share. On our website, we also provide you additional details to assist in understanding the combination of TI and
+National.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 2 of 15
+We have closed the National acquisition on September 23. In addition to the usual activities of integration, the first leg
+of a World Tour has been completed through Asia. Our Analog Manager, Gregg Lowe, and his team of National
+business managers have already held many meetings with the TI sales force, with distributors, and most importantly,
+with customers. The power of the combined portfolios is being confirmed. Distributors are committing more dedicated
+resources to TI and the stronger Analog portfolio. Customer feedback is almost universal: Where National's design-in
+position had been shrinking over the past three years due to their commercial posture, customers nonetheless love their
+products and are ready to immediately re-engage. The World Tour will continue over the next three weeks as we
+aggressively work to show customers the benefits of our combined portfolios.
+Let's move now to the demand environment, which was weak in the third quarter. Revenue was flat sequentially in a
+quarter when historically it has grown on average about 7%. That being said, we were encouraged that revenue landed
+above the high end of our range of expectations due to a stronger-than-expected month of September. Our book-to-bill
+ratio was below 1 for the quarter, and we expect revenue to again decline more than seasonally in the fourth quarter.
+Even with this outlook, we see conditions that suggest the bottoming process has begun. After a sharp drop in July, the
+rate of decline in orders slowed considerably in August and September. Lead times are short, and inventories at
+distributors and OEMs are lean.
+On average, our semiconductor product revenue in a fourth-quarter would be about flat sequentially, and our total
+revenue would decline about 3% due to the seasonal pattern in calculator sales. This fourth quarter, excluding National,
+we expect our semiconductor revenue to decline about 7% at the middle of our range, and total revenue to be down
+about 10%. When including a full quarter of National's revenue, semiconductor revenue should be about flat at
+midrange and the company down about 3% because of calculator seasonality.
+Our acquisition of National was an important step in our strategy to further strengthen our position in the Analog
+semiconductor market. National's 12,000 products enhance our product portfolio. TI had 30,000 Analog products
+before the acquisition, and we'll introduce about 500 new products in 2011. These additions to our portfolio
+meaningfully accelerate our product strategy. Similarly, the addition of 5,000-plus employees – many of whom have
+deep and hard-to-find expertise in Analog design, Analog process technology, packaging, and manufacturing – will
+enhance our capabilities. Finally, National's three factories have lots of room for growth, which means we can focus
+our energies on customers and on driving growth from this portfolio instead of the unproductive task of moving
+products between factories that creates a lot of overhead expense and customer disruption.
+We have included a supplemental chart on our website that details how much the acquisition contributed to our
+financial results. We closed the acquisition on September 23 and therefore had seven days of its results consolidated
+into TI's and our Analog segment's third quarter. The revenue contribution over this seven-day period was $18 million,
+and there was $2 million of associated operating profit consolidated into our Analog segment under the organizational
+name Silicon Valley Analog. Silicon Valley Analog, or SVA as we abbreviate it, is now a fourth component of our
+Analog segment, along with High-Performance Analog, Power Management, and High-Volume Analog & Logic. Of
+course, the $2 million of operating profit does not include acquisition-related charges, which are included in our Other
+segment. Kevin will review the acquisition-related charges and the impact of the acquisition on some of our balance
+sheet lines in a few minutes.
+Our website also includes a chart that provides a historical perspective of the combined financials back to the beginning
+of 2010 and a chart that provides National's July-to-September results for 2011. We thought the latter would help you
+establish a baseline for our performance as we move into the fourth-quarter as a combined operation. In future quarters,
+we will not break out details of our Silicon Valley Analog performance separately from the Analog segment's financial
+results.
+So let's shift to the details of our third-quarter results. Revenue declined 7% from a year ago and was flat sequentially.
+Revenue from our core product lines declined 3% from a year ago and declined 4% sequentially. The reason core
+products underperformed TI revenue overall in the sequential comparison was due to a rebound in DLP revenue, which
+is in the Other segment, as shipments from our Miho factory resumed in the third-quarter following the shutdown after
+the Japan earthquake. Also, baseband revenue grew following our customer's inventory reductions in the first half of
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 3 of 15
+the year.
+Analog revenue declined 2% from a year ago and 2% sequentially. The decline from year-ago was mostly driven by
+lower High-Performance Analog revenue while High-Volume Analog & Logic and Power Management were each
+about even. Sequentially, both HPA and Power Management were lower, while HVAL grew a few percent.
+In Embedded Processing, revenue declined 7% from a year ago and 10% sequentially. Catalog products were the
+reason for the decline from year ago while communications infrastructure products were about even, and automotive
+products grew double-digits. In the sequential comparisons, most of the decline also came from catalog products,
+although communications infrastructure products were down double-digits, and automotive products were down a few
+points.
+In our Wireless segment, revenue grew 24% from a year ago and grew 4% sequentially. Baseband products were the
+biggest factor in both comparisons. Baseband revenue of $263 million in the third-quarter fell 40% from a year ago and
+grew 16% from the prior quarter. Outside of baseband products, revenue from OMAP applications processors grew,
+and revenue from connectivity products declined in both comparisons. Our OMAP revenue should continue to benefit
+in the quarters ahead as our latest customer programs continue to ramp into production.
+Recently announced programs that are based on our OMAP 4 platform include Samsung's Nexus smartphone, which
+will be our first OMAP production program based on Google's Ice Cream Sandwich reference platform. Also,
+Samsung's Galaxy S II smartphone, Motorola's Droid Bionic and Droid Razr smartphones, LG's Thrill smartphone –
+which is the first to feature 3-D playback and capture – and the recently announced Amazon Fire tablet. A great lineup
+of customer products with more to come.
+Revenue from our Other segment fell 3% from a year ago, due mostly to the sale of our cable modem product line in
+the fourth-quarter 2010, as well as declines across most product areas. Sequentially, revenue in this segment grew 10%,
+mostly due to higher shipments of DLP products as noted earlier, as well as from earthquake-related insurance
+proceeds.
+Turning to distribution, sales out of our distribution channel declined a couple of percentage points compared with the
+prior quarter. Despite falling resales, distributors reduced inventory levels even faster, resulting in the reduction of a
+day of inventory.
+Now Kevin will review profitability and our outlook.
+Kevin P. March
+Thanks, Ron, and good afternoon, everyone.
+Let me start by walking through some of the acquisition-related costs. We will continue to report our results on a
+GAAP basis. However, we will make clear for you our costs associated with the acquisition, both in the near term as
+well as on an ongoing basis. We have broken out a line on our income statement called acquisition cost, where most of
+these charges have been consolidated. This includes items such as restructuring costs, transaction costs, retention
+bonuses, and amortization of intangibles. In the third quarter, we had $147 million of acquisition costs. An important
+consideration for the next quarter is how inventory is recognized under the acquisition method of accounting for
+business combinations.
+Inventory that we initially received from National must be valued at fair value. Fair value generally means selling
+prices. Therefore, included cost of revenue is the expensing of the write-up of this inventory to fair value. Although we
+are unable to consolidate this into the acquisition cost line, we will identify for you how much this cost impacts cost of
+revenue. In the third quarter, it was $7 million due to the limited amount of time that Silicon Valley Analog was part of
+TI. It will be much more significant in the fourth quarter, when we'll have a full quarter of shipments.
+The near-term impact is that sales of this inventory will effectively occur with little to no gross profit. This should
+continue to be an issue only for the fourth quarter, but we will fully expense the remaining write-up amount. All of the
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 4 of 15
+cost of the inventory write-up will be carried in our Other segment. Our Analog segment will carry the cost of this
+inventory at normal standard costs, which generally reflect the cost of production. Our intent is for you to be able to
+easily see the ongoing performance of TI plus National in our Analog segment. So instead of carrying the
+acquisition-related cost in Analog, we'll carry it in our Other segment.
+Let me provide a summary of the $154 million in acquisition-related costs for the third quarter. They include $147
+million of acquisition costs as identified on the income statement, plus $7 million of inventory write-up to fair value
+that is included in cost of revenue. Additionally, there was a negative $10 million discrete tax impact. All of this sums
+to $0.09 per share of costs associated with the acquisition.
+Gross profit was essentially unchanged compared with the second quarter. Factory underutilization expense was higher
+as we lowered our production in response to weaker demand. To a lesser extent, and not atypical for a downturn, we
+scrapped some inventory of custom products in response to certain customer program cancellations. This was partially
+offset by a positive net contribution associated with the earthquake.
+Operating expenses of $783 million included $13 million associated with Silicon Valley Analog. Even so, operating
+expenses were reduced 6% sequentially or $52 million, primarily due to reductions in the variable components of our
+compensation plans in response to the weaker environment.
+As we discussed at our mid-quarter update, we have adjusted down our estimate for TI's annual effective tax rate for
+2011 to 25% due to lower expected taxable income. The third-quarter included catch-up adjustments for taxes since we
+had accrued at a higher rate in the first half of the year, partially offset by the $10 million tax-discrete
+acquisition-related charge I mentioned earlier.
+Net income in the third-quarter was $601 million or $0.51 per share. Again, in the EPS calculation, please note that
+accounting rules require that we allocate a portion of net income to any unvested restricted stock units on which we pay
+dividend equivalents. In the third quarter, the amount of net income excluded from the EPS calculation was $10
+million. If you don't make this adjustment, you'll likely calculate EPS to be $0.01 higher than we have reported.
+Given the additional complexity this quarter, it might be helpful if I walk through various ins and outs of the transition
+from the $0.56 of earnings per share that we reported in the second quarter to the $0.51 reporting for the third quarter.
+First, we had $0.08 per share of higher cost associated with the acquisition. That's $0.09 in the third-quarter compared
+with a penny in the second quarter. In addition, gross profit was negatively impacted by about $0.05 associated with
+miscellaneous items, including lower utilization levels, inventory scrap, and product mix. We also had $0.02 of
+negative impact in other income and expense, mostly relating to litigation associated with the divested business. And
+we had an additional $0.01 of interest expense this quarter.
+On the positive side, we saw a net $0.04 beneficial transition associated with the earthquake and our insurance proceeds
+for that event. We also benefited by $0.03 from operating expense reductions. Our lower tax rate, including the
+associated catch-up adjustments, provided a $0.03 benefit. Finally, our lower share count contributed a penny.
+I'll leave most of the cash flow and balance sheet items for you to review in the release. However, let me make just a
+few comments. The company ended the quarter with $2.62 billion in cash. During the quarter, we issued $1.2 billion in
+commercial paper, which remains outstanding. Cash flow from operations was $1.14 billion. This was up $511 million
+from last quarter, mostly reflecting the payment of income taxes in the prior quarter. Capital expenditures were $193
+million in the quarter, down from $276 million the prior quarter. We used $450 million in the quarter to repurchase
+14.1 million shares of TI common stock and pay dividends of $148 million.
+We increased our inventory by $203 million in the quarter. The increase is due to $215 million of inventory that came
+to us as a result of the acquisition. Please remember that this amount includes the effect of the write-up of the National
+inventory to fair value. A calculation of days of inventory yields 103 days; however, I would caution to you that this is
+a misleading number. Not only does it include the write-up of National inventory to fair value, it also includes the
+entire inventory received in the acquisition, even though the revenue or cost of revenue included is only for the seven
+days that that business was operating as part of TI. It is probably more meaningful to back out the inventory and cost of
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 5 of 15
+revenue associated with the acquisition completely. With that, our days of inventory on an apples-to-apples basis
+declined from 93 days at the end of the second quarter to 92 days at the end of the third quarter.
+Receivables and days sales outstanding should similarly be adjusted for the acquisition, with the net effect being that
+DSOs of 46 days would be 43 days after the adjustment. Orders of $3.07 billion in the quarter were down 15%
+sequentially. TI's book-to-bill ratio was 0.89 in the quarter, compared with 1.04 in the second quarter.
+Turning to our outlook, we expect TI revenue in the range of $3.26 billion to $3.54 billion in the fourth quarter, or
+down 6% to up 2% sequentially. As a reminder, this includes a full quarter of SVA revenue compared with the
+third-quarter that included only seven days. Also, please remember that the fourth-quarter is when we typically see
+about a $100 million sequential decline in calculator revenue following the back-to-school period.
+We expect earnings per share to be in the range of $0.28 to $0.36. EPS will be negatively impacted by about $0.15
+associated with the acquisition-related costs in the fourth quarter. This will include about $160 million of acquisition
+costs and additionally about $100 million included in cost of revenue. Also note that the fourth-quarter will include a
+full quarter of operating expense associated with the acquisition, compared with seven days in the third quarter.
+Operating expenses will also reflect the non-recurrence of catch-up adjustments to our compensation. Together, these
+items will result in operating expenses increasing by $160 million to $170 million.
+Again, in consideration of the additional complexity, let me walk through our EPS transition from the $0.51 we
+reported in the third-quarter to the $0.32 that is at the middle of our fourth-quarter range.
+First, acquisition-related charges of $0.15 in the fourth-quarter will be about $0.06 more than we had in the third
+quarter. Lower revenue in the fourth-quarter will impact EPS by $0.02. Lower factory utilization will impact us by
+about a penny. As I mentioned previously, we will have a full quarter of SVA operating expense, which will impact us
+by about $0.07. Outside of the acquisition, operating expenses will go up by about a penny due to the non-recurrence of
+the third-quarter catch-up adjustments to our variable compensation expense. Finally, we will see about $0.02 of
+negative impact from taxes in the fourth quarter. This tax impact is due to the third-quarter including the catch-up
+adjustment that we do not expect to recur in the fourth quarter.
+Our estimate for 2011 R&D, capital expenditures, and depreciation are unchanged.
+It might be useful for me to provide some insight into our expectations for acquisition-related charges as we go
+forward. As a first estimate, after $260 million in the fourth quarter, we will be complete with the impact from the
+inventory write-up adjustment. As a result, we expect first quarter 2012 acquisition-related costs to decline to about
+$150 million, dropping to about $110 million in the second quarter. After that, these charges should decline about $10
+million per quarter until we reach $80 million, which is the amortization of intangibles amount. This will continue for
+eight to 10 years. We will update you on our expectations as we move forward, and we will continue to make these
+charges visible for you as we report.
+In summary, the market environment continues to be difficult, yet we believe we have already seen early signs of
+stabilization. With our acquisition of National Semiconductor, we are taking a big, strategic step that will strengthen
+both our market position and our ability to serve our customers. The integration task that is ahead of us will be a
+multiyear effort and will be challenging. We recognize this and are up for the job. In the end, we are confident that we
+will deliver attractive and growing returns on this acquisition investment for many years to come.
+With that, let me turn it back to Ron.
+Ron Slaymaker
+Thanks, Kevin. And I realize that we threw a lot of data at you in our prepared remarks. We do have a copy of these
+prepared remarks already posted on our website for your convenience.
+Operator, you can now open the lines up for questions. In order to provide as many of you as possible an opportunity to
+ask your questions, please limit yourself to a single question. After our response, we will provide you an opportunity
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 6 of 15
+for an additional follow-up. Operator?
+Q&A
+Operator
+Very good. We will go first to John Pitzer of Credit Suisse.
+<A - Ron Slaymaker>: Hello, John.
+<Q - John W. Pitzer>: Yeah, guys, can you hear me?
+<A - Ron Slaymaker>: Yeah, we can. Go ahead.
+<Q - John W. Pitzer>: Yeah. Quickly, guys, on the core semi revenue being down about 7% sequentially in
+December, I was wondering if you could just give us a little bit of color of how that might play out between Analog,
+Wireless, and Embedded?
+<A - Ron Slaymaker>: John, I'm not sure that we – the core number, I don't believe we broke out for the December
+quarter. I think what you heard us say was what core did for the third quarter. So I don't have a separate forecast of it
+for you going forward into the December quarter, other than the consolidated forecast that we typically provide.
+Do you have a follow-on?
+<Q - John W. Pitzer>: Well, Ron, I guess I'm just trying to get a sense of sort of the operating revenue in semis being
+Analog versus maybe the baseband business, OMAP, and connectivity. Is there is any color you can give me around the
+sequential expected growth relative to guidance for the December quarter?
+<A - Ron Slaymaker>: Again, John, that's – typically what we tend to provide in guidance is the total revenue number.
+I think this quarter we – probably what you were thinking about when you said core revenue was when we told you the
+difference that semis – what semis would trend versus the total revenue because of the impact of calculators. But I don't
+have a more detailed breakout across Wireless, Analog, or Embedded Processing.
+Do you have a follow-on?
+<Q - John W. Pitzer>: Well, then quickly, just on the utilization front, do you think the December quarter is kind of
+the bottom in utilization? And at what level are you bottoming here?
+<A - Ron Slaymaker>: Kevin?
+<A - Kevin P. March>: Yeah, John, we do expect utilization to decline further in the fourth-quarter from the third, just
+like third declined from second. We don't have a forecast as to whether or not it declines further in first quarter. That's
+going to be more a reflection of our outlook as to what first and especially second quarter revenues might look like, as
+it takes quite a bit of lead time to build the material. So again, we do expect utilization to drop a few more points in the
+fourth-quarter from the third, but we don't have a forecast beyond that.
+<A - Ron Slaymaker>: But, John, I think we even tried to explain back at mid-quarter that this is mostly a
+macro-driven downturn. Now, anytime customers reset their production levels, typically they'll also reset or rationalize
+their inventory levels to that new level of production. So what we have seen and what we believe we've seen is that the
+customers' own inventory reset is largely behind us, and at this point our customers' production and therefore our own
+shipments will track with basically end demand, which is more macroeconomically driven. So once we – I think we
+have a reasonable view of fourth quarter. But once you go beyond that, it really ties to what the macro economy does
+and which way that tends to take end demand for our customers' product, and therefore how that would drive our own.
+Okay, John. Thanks for your questions. We'll move to the next caller.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 7 of 15
+Operator
+Okay. We'll go next to Glen Yeung of Citi.
+<Q - Glen S. P. Yeung>: Thank you very much. Do you guys have a sense as to whether or not you're actually
+under-shipping distributors' sell-through, I suppose you would call it, in Q4? And actually in Q3, can you just give us a
+sense as to the relative softness between OEMs and disty?
+<A - Ron Slaymaker>: Okay. So, Glen, in terms of Q3, basically we had sales out of our distribution channel down a
+couple of points, couple of percentage points, compared with third quarter. Yet against that, they were able to reduce
+their inventory levels, so I think you would translate that to say our shipments in were below, or – yeah, below their
+shipments out. Therefore, they were able to reduce the levels of their TI inventory. I'm sorry, you had another part of
+that question?
+<Q - Glen S. P. Yeung>: Yeah, it was just how did the OEM business compare relative to the distribution business?
+<A - Ron Slaymaker>: Okay. And again, we have less visibility into OEM other than where we have consignment
+programs, which is significant. That's probably – OEM consignment programs probably represent 25% of our total
+revenue, and so we have good visibility there. And absolutely, that is – we own the inventory, we keep it lean, we keep
+it high-turning.
+For the – about a 35% or so of our revenue, that tends to be operated on traditional backlog and order-entry systems, we
+have less visibility. That's really where I was saying previously, our view of what we've seen – and we actually saw it
+in our revenue trends in the quarter – is that customers, because of the economic uncertainty, basically reset their own
+inventory – desired inventory levels. They accomplished that reset earlier in the, call it, first half of this quarter, and
+then we've seen revenue pick up somewhat as that inventory completion, or inventory reset, has been completed. That's
+not saying they're off and running by any means in terms of their own production levels, but their inventory reset of TI
+components, we think, is largely complete at this point.
+Do have a follow-on, Glen?
+<Q - Glen S. P. Yeung>: Yeah, I do. I couldn't help but notice, in the list of phones that you gave with OMAP 4 in it,
+that a lot of those sounded like they were phones someone else had in the Honeycomb generation of Android. And it
+sort of raises the question of stickiness of apps processors as we change generations of operating systems. So I wonder
+if you can give us a sense of that? How sticky do you think OMAP 4 will be in Ice Cream Sandwich? And then more
+importantly, how sticky do think it will be in the next generation of Google operating system?
+<A - Ron Slaymaker>: Glen, I don't want to imply any – how would I say it – that we take any of these programs for
+granted. We have to win our business and re-win our business every day. But I would say at the same time, for a lot of
+these customers, TI has been a long-term supplier of many products into their handsets.
+My own view is I think Honeycomb was a bit of an anomaly, especially on the tablet side, because there was a race by
+many OEMs to have some type of demonstration product available at last year's Consumer Electronics Show. And that
+drove at least what I would say was very visible as wins for maybe another supplier. And as I have described, even
+back in last January, a lot of those same OEMs that were demonstrating platforms based on another supplier at
+Consumer Electronics Show, we had active development programs under way at that same point in time with OMAP.
+So I think the difference is we are a supplier that they've had a history with, they're comfortable, they know we can
+support both their business terms, as well as the kind of volume production requirements that operationally these
+high-volume handsets require.
+So I think we're pretty confident in our position with these various players, but at that same time we, I think, have
+proven over the years our ability to do a good job in re-winning that business every day that we're engaged with these
+customers.
+Thank you, Glen, and we'll move to the next caller.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 8 of 15
+Operator
+And we will go next to Craig Ellis of Caris & Company.
+<Q - Craig A. Ellis>: Thanks for taking the question. Ron, you had mentioned you're seeing some signs of a cyclical
+bottoming, and you mentioned a slowing in order deceleration activity in August and September. Are there other things
+that you're seeing out there that lend conviction that we are getting close to a bottom?
+<A - Ron Slaymaker>: Well, I think just the fact – I tried to identify three things. One was the order trends. The
+second one was that just in general lead times are short, which in and of itself is not indicative of a bottom but usually
+exists at the bottom of a cycle. And then finally, just the fact that – I'm going blank on my third one. Kevin, do you
+remember what it was?
+<A - Kevin P. March>: We saw revenue profile shift through the quarter.
+<A - Ron Slaymaker>: Yeah, there was another one that I had mentioned, but anyway – I'll find it here shortly. Oh, it's
+just that as I said before, inventories are lean, both at OEMs and distributors. And so again, we don't have additional
+depletion of the inventory that needs to take place for growth to start to recover. And, again, that doesn't mean we're at
+a bottom because, again, we will be – revenue will go down in the fourth quarter, especially if you compare on an
+apples-to-apples basis.
+But one thing I'll also note is that if you look at the delta to just seasonal, third quarter, we were about 7 points below
+our seasonal norm. And fourth quarter, if you take the middle of our range, we would also be about 7 points below the
+seasonal average. So one way of looking at that is that at least we're not, to the extent we accomplished that midrange
+point in revenue for fourth quarter, we're kind of – maybe you call it bumping along the bottom, as opposed to
+operating in an environment that is getting progressively worse. So we'll see how it lands, but that's our perspective.
+Do you have a follow-on, Craig?
+<Q - Craig A. Ellis>: Yeah, thanks. I think TI has historically had a strong notebook-peripheral Power Management
+position, so given all the flooding issues in Thailand, is there anything that TI's picking up that would leave you
+uncomfortable with build activity in the fourth-quarter for that business?
+<A - Ron Slaymaker>: Craig, I'm a little uncomfortable getting too far out on the edge there, because there certainly is
+a lot of uncertainty. And that's a rapidly changing situation. But I can walk you through some considerations.
+First is that TI does not have any facilities there. That being said, we do have some assembly test subcontractors, as
+well as a few component suppliers – for example, some very specific lead frame suppliers. We do have some products
+that as a result are impacted, and to the best we've been able to gauge, our current assessment is that it would impact
+potentially about 1% of our revenue in the fourth quarter. We're working with the customers that are impacted, working
+with them on contingency plans. We're going to work through that. So this does not include any impact to the
+customers themselves, either customers that are operating in Thailand or customers that might have their own
+production plans change because they're unable to get supply from other suppliers that have a more direct Thailand
+impact. So we're trying to work through all that.
+Just a note: We do have programs where customers – and these are programs where maybe there are some second
+sourcing type of arrangements on high-volume programs such as hard disk drives – where customers have contacted us
+requesting us to pick up additional support for products that their other sourced semiconductor supplier might have
+been more impacted by Thailand from an assembly/test perspective, and they're asking us for upside support. So again,
+we're working through all that. The best we can say, at least as it directly affects our production, is very minimal
+impact, but we're still working with customers to understand their end of it as well.
+Okay, Craig. Thank you for your questions. And we'll move to the next caller.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 9 of 15
+Operator
+And we will go next to Vivek Arya of Bank of America Merrill Lynch.
+<Q - Vivek Arya>: Oh, thanks for taking my question, and also thanks for the transparency around National. It's very
+helpful. I'm trying to compare your Q4 guidance with the Q3 results. So if you exclude the one-time charges, we get
+$0.60 in pro forma EPS for Q3. And if we do the same for Q4, we get $0.47. So apples to apples, excluding charges,
+EPS is down over 20%, but you're guiding sales down only, I think, 2% or so. So what's driving the much-larger
+decline in pro forma EPS?
+<A - Kevin P. March>: Yeah. Among the things that we talked about sequentially, you got – as you pointed out –
+lower revenue. That's probably about $0.02 worth of the delta there. We're also expecting lower utilization. That's
+about a penny of the delta. We're expecting – I mentioned to you during my prepared remarks that the reduction in
+OpEx that we saw in the third-quarter was due to some catch-up adjustments for accruals on variable compensation.
+Those will not recur in the fourth quarter, and so that'll cause our TI OpEx, if you will, to go up by about a penny. We
+also had a benefit in the third-quarter from a lower tax rate from a catch-up adjustment that was similar. In the fourth
+quarter, we don't expect a recurrence of that, so that's about $0.02. And then finally, we'll have a full quarter's worth of
+National Semi's OpEx in our numbers, and that's about $0.07 in transition. So when you run the math, that's how you
+get to the $0.47.
+<A - Ron Slaymaker>: And again, that's from the $0.60 to the $0.47 in both cases where acquisition costs are
+excluded. Is that right, Kevin?
+<A - Kevin P. March>: Correct.
+<A - Ron Slaymaker>: And just, Vivek, to make sure I emphasize, when Kevin talked about the return of TI OpEx
+that had been reduced in third quarter, third-quarter reduction in OpEx included two components, basically. One was
+ongoing reduction, and then the second component basically was the catch-up for the fact that we had been accruing
+compensation expense at a higher rate during the first half of the year. So the ongoing reduction will continue into the
+fourth quarter. It's just the catch-up amount that doesn't recur that results in some sequential increase in fourth quarter.
+And a very similar story on the tax reduction in fourth-quarter and a slight increase then in third-quarter – or I'm sorry,
+the fourth quarter.
+Do you have a follow-on, Vivek?
+<Q - Vivek Arya>: Yeah, just one quick one. Your buyback appears to be holding up quite well. How do you look at
+that as we go through this softer macro period? Are you allocating a certain percentage of free cash flow to it? Or how
+are you strategically looking at the buyback activity?
+<A - Kevin P. March>: Yeah, Vivek, there's a number of different elements that go into it, but as we had indicated
+when we announced the acquisition of National, we would moderate the amount that we spent on buybacks versus what
+you'd seen us in prior periods, largely in preparation for beginning to set aside cash reserves to begin to repay debt as it
+comes due. For example, National Semiconductor debt that we acquired includes $375 million that's going to be due on
+June 15 of next year, so we'll need to set some cash aside to pay that. And further, going into 2013 of course, we'll have
+some of our own debt that we issued for the acquisition coming due, and we'll begin to build cash for that.
+But all that being said, we did announce last month that our board of directors approved an increase in our dividend by
+a little over 30%, from $0.13 per share to $0.17 per share. That's effective this quarter. So that is part of how we're
+returning cash to our investors, and we'll continue to return cash in the form of buybacks, albeit at a more moderate rate
+over the foreseeable future as we shift to accumulating some cash for some of the maturity of the debt when it comes
+due.
+<A - Ron Slaymaker>: Okay, Vivek. Thank you for your questions. And, operator, we'll move to the next caller.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 10 of 15
+Operator
+And we will go next to Jim Covello of Goldman Sachs.
+<Q - James V. Covello>: Great. Good evening, guys. Thanks so much for taking the question. First question would be
+just on margins. And what are going to be the big drivers of the margin delta from quarter to quarter over the next
+several quarters? I understand your comments about fab utilization driving about a penny of – or utilizations driving a
+penny of the EPS decline in the fourth quarter, but what's going to be the most important going forward: mix versus fab
+utilization versus, even for the next quarter, some of the expensing issues on the National inventory?
+<A - Kevin P. March>: Yeah, Jim, I think the biggest driver next quarter is going to be the mark-up to fair value of the
+inventory that we acquired from National Semiconductor. Basically, there's going to be almost $100 million worth of
+additional cost in cost of revenue that would normally not be there. And I think if you do the math on that, that
+probably falls through on an after-tax basis at somewhere around $0.055, $0.06. So clearly, that's weighing us down
+until we get through that fair value accounting adjustment. As you already pointed out, we've also got lower utilization
+that will be weighing us down. Once the utilization, and certainly once the fair value adjustment's behind us, we'll get a
+little bit of a lift just because that won't be recurring.
+In addition, as we begin to see the bottoming out that Ron mentioned, and ideally, a resumption of end demand on more
+of a growth vector, utilization will start being a benefit for us. But most importantly, on the longer-term, is with the
+acquisition of National Semiconductor, Analog now amounts to almost half our total revenue, from somewhere around
+the low 40 percents – 43%, 44% – earlier in the year. So on a go-forward basis, clearly that mix will help us.
+I'll remind folks on the phone that National's overall gross margins actually were higher than TI's prior to acquisition,
+so that alone should help up the mix a little bit. But more importantly, the total mix of Analog revenue will become a
+bigger portion of TI's revenue as we go forward, and that alone will help us as we march on our long-term goal to 55%
+gross margins for the company.
+<A - Ron Slaymaker>: Okay. Great. Do you have a follow-on, Jim?
+<Q - James V. Covello>: Yeah, a kind of follow-up 1a and b. I'll let you guys decide if you want to answer both or
+one. The first would be, I'm assuming that the expensing of the inventory is just a one-quarter issue and you're going to
+get all that back then in the first quarter margins as we think about? And the second thing is, with the increase in
+margins you get from National as you referenced, is there any update? Or when might we hear an update to the
+long-term margin model of the company? Thank you.
+<A - Kevin P. March>: Well, Jim, I don't know if I want to take 1a or 1b, so maybe I'll just give you both. On the
+expensing, you are correct. That is a one-quarter issue, by our estimate. That should be essentially complete when we –
+through the fourth-quarter and should have that behind us as we enter the first quarter.
+As to increasing or adjusting the model for the company, we want to be able to consistently deliver at the 55% before
+we go off and start looking at a new model for the company, so we'll hold to the models that we've had for several years
+now, which is 55% gross and 30% operating, is really what we're trying to design the company to operate at.
+<A - Ron Slaymaker>: Okay. Thanks for your questions, Jim. And we'll move to the next caller, operator.
+Operator
+We will go next to Uche Orji of UBS.
+<Q - Uche Orji>: So, thank you very much. Ron, can I just ask you real quick on connectivity and the Wireless
+business – so we've seen OMAP grew, baseband grew, but connectivity was down. Can you just talk about two things?
+One is, what's causing that shift in connectivity vis a vis the rest? And also, how much more resilience shall we expect
+in the baseband business?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 11 of 15
+<A - Ron Slaymaker>: Could you – how much more – what was your last question?
+<Q - Uche Orji>: Yeah, what is the outlook for the baseband business? Should we still continue to model that go
+down?
+<A - Ron Slaymaker>: Okay. Okay. Connectivity is pretty straightforward; it'll be a little bit awkward of a response
+for what will become obvious reasons, but our two largest connectivity customers currently are not doing as well in the
+marketplace as some of their peers. And as a result, TI's connectivity revenue has not held up as well as some of our
+other – as for example, the OMAP revenue. And keep in mind, there's also mix even within the customers. So for
+example, our connectivity product line tends to be very – it tends to be centric around WiFi and combos that use WiFi
+or are centered up on WiFi, and so again, that tends to be the very highest end of the customers' product range. And
+while smartphones are doing well overall, the mix within some of our customers has been stronger at the lower end,
+where we don't supply connectivity versus the higher end, where we are engaged.
+Okay. And then the outlook for baseband going forward is unchanged. Again, what we've seen this quarter is the kind
+of noise that we've told you to expect in baseband where during the first half of the year, we had some inventory
+reduction taking place at our customer. This quarter represents a bit of a snapback from that, so we've moved above call
+that historical or the linear trend line. But the best guidance we can give you going forward is draw a straight line
+between third-quarter of this year and first quarter of 2013 being zero. And that's a rough approximation of how we
+expect that revenue to trend. So again, we expect that it will be completed essentially by the end of 2012.
+And I don't know if that was one or two questions, Uche. But do you have a follow-on?
+<Q - Uche Orji>: Separately, can I just ask you about some of the moving parts in the fourth-quarter guidance? So
+obviously ex the contribution from National Semi and their specific end markets, where – within what you describe as
+bottoming process, are there specific end markets where you are seeing stronger or weaker as you look out to Q4?
+Thanks.
+<A - Ron Slaymaker>: Uche, I think somebody else had taken a run at that. And as you're aware, we don't break out
+our revenue forecast by various end market. I'm sure we'll have certain areas better than others. But we're not
+forecasting that. But again, keep in mind, the pressure that we're feeling on demand is economically driven, I'd say
+maybe more so on the consumer side than on the enterprise side. But it's economically driven, which tends to weigh
+pretty much across the board. Just as in third quarter, things generally across the board were well below seasonal. Same
+kind of expectation going into fourth quarter.
+Okay, Uche. Thank you. And we'll move to the next caller, please.
+Operator
+And we will go next to Shawn Webster of Macquarie.
+<Q - Shawn R. Webster>: Great. Thanks a lot. I was – my first question is on the supply chain and inventories. Are
+there areas from your perspective that still seem lean? And on the other side, are there areas which seem like they need
+to digest some inventory? Thanks.
+<A - Kevin P. March>: Well, Shawn, I think, as Ron mentioned earlier, just as we look at certain supply chains, we
+see where our inventories are at. Our distribution inventories, as Ron mentioned, were down about a day, still holding
+there at about six weeks. Our consigned inventories or our consignment customers continue to be very lean by
+definition, because they pull only as they consume. That represents about two-thirds of the channel that we can see.
+The other third, which is more classic direct sales to OEMs, we don't really have great visibility there. But we also don't
+have a lot of concern there, given that broadly speaking, we actually came out of third-quarter a little bit higher than we
+expected versus the mid-quarter update. And that was from a variety of customers actually ordering material – a little
+bit more than we expected in the quarter. So those signals all tell us that the inventory's probably in pretty good shape
+across the entire – our customer base and where we supply at.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 12 of 15
+<A - Ron Slaymaker>: Do you have a follow-on, Shawn?
+<Q - Shawn R. Webster>: Yeah, I do. Thanks. So in terms of other income, is there any guidance there? And then
+also, can you update us on the capacity of your 300 millimeter and expansion plans? Thanks.
+<A - Kevin P. March>: Yeah. On the other income, Shawn, I think that the main thing that you saw in the second
+quarter – third quarter, excuse me – was interest expense of about $15 million. That was an all-in quarter for the debt
+that TI now holds and will hold for a couple years. Fourth-quarter will be a little bit higher. It'll be about $22 million,
+and that will be adding in the debt that we assumed with the acquisition of National Semiconductor. So that's probably
+the main change I'd point you to on the other income and expense.
+As to the Richardson fab, we have, as you know, been ramping that factory for some time now, especially stepped up
+the ramp pace when the earthquake happened in Miho, as we dual qual'd a lot of products. We continue to ramp
+product into that factory. The total capacity for what we've – purchased equipment flow would generate about, when
+it's all loaded, as we indicated, up to $2 billion worth of revenue out of that factory. We're considerably below that
+today as we continue to ramp.
+<A - Ron Slaymaker>: In fact, I think our current levels were running about 20% of that capacity level.
+And the other point I need to make is the $2 billion that Kevin references is equipment that we have purchased and
+in-house today, which as you're aware, Shawn, only represents about half of the floor space inside of that fab. So we
+have lots of room for expansion, but we also have plenty of equipment already on the floor that we're ramping into. So
+again, 20%, lots of room to grow, just even within the equipment we've purchased, but lots of floor space beyond that.
+Okay, Shawn. Thanks for your questions, and let's move to the next caller.
+Operator
+And we will go next to C.J. Muse of Barclays.
+<Q - C.J. Muse>: Yeah, good afternoon. Thank you for taking my question. I guess first question, in terms of your
+comments on seeing stabilization, I was curious if you're seeing that across the board or specific to any certain end
+markets?
+<A - Kevin P. March>: C.J., I guess we'd say that the signs of the stabilization are more a question of we're seeing a
+bottoming process beginning to form. We're not so much stabilizing, as evidenced by the fact that we still expect our
+revenues to be down next quarter. So, again, it's more important just to note that what we're seeing through our order
+patterns, through our lead times, and through overall inventories that we're beginning to see the bottom of this demand
+decline begin to shape or form a bottom, although it's not there yet, because, again, we expect fourth-quarter to decline.
+<A - Ron Slaymaker>: Okay, C.J. Do you have a follow-on?
+<Q - C.J. Muse>: Yeah, as a quick follow-up, just to revisit gross margins, if I look at the OpEx guide and that $22
+million other income – or other expense, rather – it looks like you're guiding gross margins roughly flat. And so I
+guess, A, is that correct? And then B, once we get through selling of the inventory without margins, should we be
+thinking we get immediately back up to another 100 bps, 150 bps higher on the gross margin side even without a
+pickup in utilization? How should we think about that?
+<A - Kevin P. March>: C.J., I'm not really sure how you're building your gross margin assumption in your model. I
+would point out that there is about $100 million in cost of revenue in the fourth-quarter that will depress our gross
+margins on a GAAP basis quarter over quarter. In addition, we expect lower utilizations will be another – more
+pressure on gross margin from that standpoint. If you're extracting that $100 million – and maybe that's where you're
+getting your gross margins to be roughly flat quarter over quarter, so I'm not really sure what your assumption is there,
+but I would want to point out those two items I just mentioned.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 13 of 15
+<A - Ron Slaymaker>: Right. So the $100 million, C.J., as you probably alluded already, will be about – or 300 basis
+points approximately pressure in the fourth quarter. That will be completely gone in the first quarter. So there may be
+other things that come about in first quarter, of course, but that inventory, the expensing of the inventory write-up, is a
+fourth-quarter effect only. And then it will be cleaned out by the time we get into first quarter.
+Okay, C.J. Thanks for your questions. Let's move to the next caller.
+Operator
+We'll go next to Chris Danely of JPMorgan.
+<Q - Chris B. Danely>: Thanks, guys. On the National acquisition I think you threw out a target of $100 million in
+cost savings. Do you still feel confident in that target? And anything that's surprised you on the upside or the downside
+with the acquisition so far in the integration?
+<A - Kevin P. March>: Chris, on the $100 million cost savings, that – we still hold to that forecast. And just to remind
+the other listeners on the phone, what we're talking about there is that by the end of the first year after acquisition, so
+that'd be probably end of fourth-quarter of next year, we'd expect to have enough of the redundant costs removed that
+we would see about $100 million of annualized cost savings, or about $25 million a quarter, starting about a year from
+now. And we still expect that to be a reasonable forecast for planning purposes.
+As to any surprises on the upside or downside, I'd say it's probably just a little bit too early for us to really find any of
+those yet. We've been pretty focused here on Gregg and the management team getting out and visiting with customers
+on the World Tour and focused on updating our online systems and our marketing material to be able to make this a
+seamless appearance to our customers and that there's one place to go that has all 42,000-plus analog parts in it. And
+we've also been focused on the beginning steps of the overall integration of our systems methodology. So not enough
+time yet to really have pluses or minuses beyond that we can talk about.
+<A - Ron Slaymaker>: Hey, Chris. I will add that – I mean, of course this acquisition is hugely important to TI, and as
+a result, we understand it's also really important to our investors. So you will see ongoing progress updates and lots of
+details from TI in terms of our progress there. So stay tuned. You'll see them as we get them.
+Do you have a follow-on, Chris?
+<Q - Chris B. Danely>: Yeah, I guess one more, a more broad-based question on National. So now that you've had a
+chance to at least take a look at it, peek under the covers, kimono, whatever you want to call it, what do you guys think
+are the two or three keys to sort of turning around the share loss there? And what sort of landmarks can we look at? Is
+there any sort of timeframe there?
+<A - Ron Slaymaker>: So, Kevin, what did you find as you looked under the hood?
+<A - Kevin P. March>: Well, I think probably the encouraging thing that we found early on is certainly from Gregg's
+tour with his managers, the reception that we've gotten from those in our distribution channel and, importantly, from
+our customers has been extremely encouraging. The sound bite that I keep gravitating to or hearing, if you will, is that
+the customers really, really liked National's parts, and they're glad that they can now comfortably and safely design
+them back in to their future products. And I actually find that very encouraging.
+Beyond that, we clearly have some challenges in front of us also, which is making sure that we are able to integrate the
+companies from a overall process standpoint to be sure that our systems integrate properly and we don't wind up with
+blind spots and holes and so on, which are always challenges when you do an integration of this size.
+<A - Ron Slaymaker>: And, Chris, I think it's been pretty exciting for some of the National management that have
+been out on this World Tour as well, because what they – I mean, they're finding a reception as part of TI that they
+haven't been used to for a while. And so I think there's a refreshing upside that they're seeing that makes them pretty
+excited to be part of TI as well.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 14 of 15
+Okay, Chris. Thank you for your questions, and, operator, let's go ahead and go to the next caller, please.
+Operator
+We'll go next to Romit Shah of Nomura.
+<Q - Romit J. Shah>: Hey, Ron. Just want to confirm that my math is correct. National will add about $300 million to
+revenue in Q4, and it'll be about – I guess excluding acquisition charges – about $0.02 dilutive to EPS. Am I in the
+ballpark?
+<A - Ron Slaymaker>: While Kevin's thinking about the EPS, I can confirm you're in the ballpark with $300 million
+of Q4 revenue.
+<A - Kevin P. March>: Yeah, and Romit, it will add some to EPS on a pro forma basis, but we need to be careful on a
+GAAP basis because in fact we will have an increased acquisition-related charge, as I mentioned, $160 million of
+acquisition cost plus the $100 million of the fair-value markup of our their inventory that will go through cost of goods
+sold.
+<A - Ron Slaymaker>: Right, so the amount that goes through – that'll be reported as part of our Analog segment,
+which is more the ongoing operations, will be profitable. You're probably not too far off in terms of your estimate there
+-
+<A - Kevin P. March>: Right.
+<A - Ron Slaymaker>: – Romit, but, again, that's exclusive of all acquisition-related charges.
+Okay. Do you have a follow-on, Romit?
+<Q - Romit J. Shah>: Yeah, I saw that you reiterated your CapEx guidance for the year. Can you just share with us
+your thoughts about that going forward into 2012 and how you're managing head count in this environment?
+<A - Kevin P. March>: Yeah, Romit. The CapEx – we haven't given a 2012 forecast just yet, but I would remind you
+that we did take advantage of the downturn and acquired substantial capacity, especially in the more expensive wafer
+fab side of the CapEx bill during the last 18 months or so, which implicitly means that our need to spend money on that
+portion of capital should be lower than normal for the next couple years. Beyond that, we'll continue to spend, of
+course, on our assembly and test operations. Our model is 5% to 8% kind of CapEx spend, and in fact if you take a look
+over the last 12 months, we've actually spent about 7% of revenue on CapEx, with depreciation running about 6.5% of
+revenue. So consistent with where we've been, I'd expect those kind of factors to apply going forward.
+As to staffing, we do continue to hire people, certainly on a selective basis. And then the areas where we expect to
+grow, those will be in Analog and Embedded Processing, as well as in field-apps engineers and talented salespeople.
+<A - Ron Slaymaker>: And just – please remember, we just hired over 5,000 new TI employees.
+Thank you, Romit, and, operator, I think we have time for one final caller.
+Operator
+Very good, and that will come from Ross Seymore of Deutsche Bank.
+<Q - Ross C. Seymore>: Thanks for squeezing me in, guys. One clarification, really quickly. The $0.47 midpoint of
+the pro forma guide, that excludes that inventory write-up on the National side. So if we ex that out of the fourth
+quarter, you don't have to worry about it in the first quarter reversing itself. Is that correct?
+<A - Kevin P. March>: Correct.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-10-24
+Event Description: Q3 2011 Earnings Call
+Market Cap: 35,988.24
+Current PX: 31.15
+YTD Change($): -1.35
+YTD Change(%): -4.154
+Bloomberg Estimates - EPS
+Current Quarter: 0.479
+Current Year: 2.226
+Bloomberg Estimates - Sales
+Current Quarter: 3380.679
+Current Year: 13656.414
+Page 15 of 15
+<Q - Ross C. Seymore>: And then I guess a bigger-picture question. What's your assumption for disty inventory levels
+in the fourth quarter? Is your guidance assuming that the inventory gets burned further, stays the same, rises, et cetera?
+<A - Ron Slaymaker>: Ross, we don't tend to provide a lot of breakout out there, but let me just say, TI's distribution
+inventory is very consistent with where it has been historically. So I don't anticipate that you're going to see a big
+change there. And again, that's at – I think we're just over six weeks at the current level. And again, we went down a
+day even in the third quarter.
+The one thing I would say is that, with National, there's just adjustments going on with distribution in general there. So
+there can be some slight realignment. I think they finished third quarter, or what we had in the channel there when we
+completed the third-quarter was about 10 weeks of inventory, and historically they tend to run, I think, nine to 10
+weeks. And then you'll see, over time, further adjustments there as we implement consignment programs with
+distribution and those types of value-add programs. But again, that'll be over the course of time, and literally, that'll be
+years as we implement that.
+Did you have a follow-on, Ross?
+<Q - Ross C. Seymore>: Yeah, just really quickly, the $100 million in synergies that you guys plan on with National,
+any shot at how much of that comes on the OpEx lines rather than the COGS line?
+<A - Kevin P. March>: Virtually all of it will come on OpEx, Ross.
+<Q - Ross C. Seymore>: Great. Thank you.
+Ron Slaymaker
+Okay, Ross. Thank you. And to all of you, thank you for joining us. A replay of this call is available on our website.
+Good evening.
+Operator
+And this does conclude today's conference call. We thank you for your participation. Have a wonderful day.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2011, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

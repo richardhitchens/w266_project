@@ -1,0 +1,1062 @@
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 1 of 19
+Q3 2011 Earnings Call
+Company Participants
+• Robin Gutzler
+• Michael J. Lovett
+• Christopher L. Winfrey
+• Donald F. Detampel
+Other Participants
+• Jeff D. Wlodarczak
+• Benjamin Swinburne
+• Stefan Anninger
+• Jason K. Kim
+• Bryan D. Kraft
+• Amy Yong
+• Jason Boisvert Bazinet
+• David C. Joyce
+• Rich R. Tullo
+• Michael V. Pace
+• Vijay Jayant
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning. My name is Felicia, and I will be your conference operator today. At this time, I would like to welcome
+everyone to Charter's Third Quarter Earnings Call. [Operator Instructions] Thank you.
+I would now like to turn the conference over to Robin Gutzler. Ma'am, you may begin.
+Robin Gutzler
+Thank you, Felicia. Good morning, everyone, and welcome to Charter's 2011 Third Quarter Earnings Call. This
+morning, we issued a press release over PR Newswire at 8 a.m. Eastern Time detailing our results. This information is
+posted on our Web site, charter.com, under Investor and News Center. The Web site also contains the presentation that
+accompanies today's comments and can be found under Financial Information.
+Before we proceed, I would like to remind you that there are a number of risk factors and other cautionary statements
+contained in our SEC filings, including our most recent annual report on Form 10-K and quarterly reports on Form
+10-Q. We will not review those risk factors and other cautionary statements on this call. However, we encourage you to
+read them carefully.
+Various remarks that we make on this call concerning expectations, predictions, plans and prospects constitute
+forward-looking statements. These forward-looking statements are subject to risks and uncertainties that may cause
+actual results to differ from historical or anticipated results. Any forward-looking statements reflect management's
+current view only and Charter undertakes no obligation to revise or update such statements or to make additional
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 2 of 19
+forward-looking statements in the future.
+During the course of today's call, we will be referring to non-GAAP measures as defined and reconciled in this
+morning's earnings release. These non-GAAP measures, as defined by Charter, may not be comparable to measures
+with similar titles used by other companies.
+In today's earnings release, we reported results in accordance with GAAP as well as pro forma results for 2010 and
+2011. The pro forma results reflect the divestiture and acquisition of Cable Systems in 2010 and 2011 as if they had
+occurred on January 1, 2010, unless otherwise noted. The year-over-year growth rates we will be referring to this
+morning are on a pro forma basis.
+Joining me today – on today's call are Mike Lovett, President and CEO; Chris Winfrey, our CFO and Don Detampel,
+EVP Technology and President Commercial Services.
+I will now turn the call over to Mike.
+Michael J. Lovett
+Thanks, Robin. Good morning and thank you for joining us today. We're pleased with third quarter results in which we
+grew our revenues 3% and adjusted EBITDA 3.8%, and generated healthy free cash flow. We accelerated growth in
+our Commercial business, drove robust growth in our Internet business, and improved our margin by 30 basis points
+compared to last year.
+We also continued to take an opportunistic, disciplined approach to investing in ROI-positive projects, both organic and
+M&A, as well as share and debt repurchases. We made meaningful advances in all four of our strategic priorities that
+we outlined at the beginning of the year. Before we go into more details on our third-quarter results, I'd first like to take
+a step back and update you on the execution of these strategies.
+First, we're focused on fundamentally improving the customer experience, which is the foundation underlying our
+future success. We're transforming Charter into a customer-centric organization, with a commitment to delivering
+unmatched customer experience. We're improving our product offerings, as well as the quality and reliability of our
+service. And while we're starting to see positive results in our operations and customer retention, we're still in the early
+stages.
+Takes time for these improvements to resonate with customers and to show up as meaningful improvement in overall
+external customer satisfaction studies. But we're beginning to see results. The best evidence of our progress is new
+customer satisfaction, which is more than 35% higher than for our more tenured customers.
+And as I said, we're seeing results in our operations. Our efforts drove an 11% decrease in billing and service calls and
+10% fewer service truck rolls in the third quarter compared to last year. And we continue to see improved customer
+relationships.
+In addition to increasing customer satisfaction, all of this generates bottom line savings.
+Our second strategic priority is to lead with our superior Internet product in our sales, promotion and branding efforts,
+to leverage our structural broadband advantage and create new customer relationships. While video is still an important
+element of our business, we continue to lead with our strength in Internet.
+In the vast majority of our footprint, we have superior Internet speeds and in less than 4% of our footprint, where we
+overlap with FiOS and other fiber competitors, we have comparable speeds with our 60-meg residential product. Nearly
+95% of our Internet customers have a broadband service of 12 meg or higher. Our advantage is evident; Charter's
+Internet serviced received top rankings from PC Magazine and high marks from FCC – from the FCC in speed testing.
+And Netflix has rated us the best performing cable or DSL Internet provider for the third consecutive quarter – time this
+year.
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 3 of 19
+Accelerated growth in the number of IP devices and bandwidth used in households will fuel the need for faster speeds
+and greater reliability. Charter is uniquely positioned to provide those services. And in addition to speed, customers are
+looking for a solutions provider as evidenced by the popularity of our Home Networking product. The number of
+customers using our in-home WiFi service jumped 34% year-over-year, with nearly one in four customers now relying
+on us for home wireless connectivity.
+As slide three highlights, there's an opportunity to increase our Internet penetration, particularly in homes passed where
+we don't have a Video customer relationship. We're seeing continued growth in penetration as our net gains of
+non-Video homes again doubled, but a 10% penetration compared to well over 60% in homes where we have a Video
+relationship, we feel we have an ample room for growth. We're growing share and forming new customer relationships
+by creative marketing, increased education about Charter as a premier ISP provider and the use of non-traditional sales
+channels.
+Last quarter, we announced our partnership with Dish. We've been very pleased with the initial results where we've
+seen a significant improvement in response rate and sales performance. As we ended the quarter, we started marketing
+this across our entire footprint.
+Another priority for us is to aggressively drive commercial growth. There's a significant amount of untapped
+commercial opportunity in our footprint. We're making investments in people, processes and systems to extend –
+expand our capabilities in these markets and extend our reach. Our Commercial, Internet and Phone businesses are
+more growth oriented while our Commercial Video business is relatively stable. In Q3 we grew data and phone
+commercial revenues by nearly 30% versus last year.
+Cell backhaul is a key growth area for us. We have approximately 1,600 cell tower sites in service or under contract
+and have a healthy sales pipeline. We're leveraging our existing infrastructure in technology and expanding our
+products and services to capitalize on the commercial opportunity. We see upside in both the short and long term and
+we'll continue to take an opportunistic approach to investing in and expanding this part of our business. We view it as a
+key driver with attractive growth and return prospects.
+And finally, our fourth strategic priority, changing the dynamic in video. While we view this as a longer term initiative,
+we're taking actions now to enhance our video offering. We recently added the exciting new content for our video
+customers, including NFL Network, NFL RedZone, HBO GO, MAX GO and Big Ten Network 2 Go and in a few
+weeks we'll launch 3D content On Demand. In addition, we continued to expand our HD channel lineup. We're on
+target to offer an average of 75 HD channels by year end and while we will have – we'll already have the most popular
+channels available, we're planning to offer over 100 HD channels in key markets next year.
+We're pleased that we made significant enhancements to the programming choices for our customers this year. At the
+same time, we remain very concerned about the alarming rise in fees that local broadcast stations, regional sports
+networks and national cable programmers are seeking for their content. In the case of local broadcasters, that content
+has historically been free to our customers. And as we have seen in the increasing number of disputes between
+operators and programmers, it's the consumer that ultimately gets hurt, either by losing access to programming, even
+for a short time, or paying far too much. The model that the industry is currently working under is more than flawed
+and in need of remediation.
+As part of our continuing efforts to offer the best possible experience for our customers, we announced this morning
+that we're launching a unique tool to augment the great content already available on charter.net that will enhance the
+online user experience for our customers. The new Search and Discovery feature will organize video content already
+available online through charter.net such as HBO Go and EPIX with online content from sites such as Netflix, Amazon
+and Hulu into a single online directory. Rather than searching separate sites, content available from these multiple
+sources will be integrated in one place making it easier for customers to find what they want regardless of the source.
+We provide a superior Internet product ideal for streaming video. This is another example of us taking in an innovative
+approach linking the value of superior speeds to customer experience. Over the next year, our customers will have an
+increasing library of content to enjoy anywhere, any time on any device.
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 4 of 19
+We've also initiated a key component of our next generation T.V. strategy with our TiVo pilot underway in Texas.
+Early pilot participants have responded favorably to the overall service, particularly the improved recommendations,
+user interface and search capabilities, all of which enhance the customer experience and should increase usage of our
+On Demand library.
+We'll complete a full production launch in Texas and conduct pilots in a few additional markets later this year, with a
+full production launch enterprise-wide in the first half of 2012. As you can see, we're making great strides in improving
+our video offering and we believe that these enhance our competitive position in video.
+Looking ahead, we expect our broadband infrastructure to play an increasingly large role in consumers' lives, especially
+as a their desire to view video content On Demand increases and the delivery of content evolves to IP. It is all about
+services delivered over that platform and we want to provide the best delivery and experience. We believe this sets all
+of our products up for success down the road.
+Our strategic initiatives we have focused on in 2011 are now in place and are beginning to take hold and gain
+momentum. That momentum was evident in the third quarter in our Commercial and Internet revenue growth. Looking
+at volume, while digital and phone volume grew less in the quarter compared to prior year, Internet was stronger and
+our video losses improved slightly. We also drove adjusted EBITDA growth, generated free cash flow, improved our
+customer relationship trend and lowered churn.
+I'll now turn it over to Chris to walk through the financials.
+Christopher L. Winfrey
+Thanks, Mike, and good morning, everyone. As shown in slide 5, we grew revenue by 3% in the quarter led by growth
+in higher margin Internet and Commercial products. Internet revenue rose 8% driven by the addition of more than
+190,000 new customers. Commercial revenue jumped 19% versus the prior year quarter supported by improved sales
+productivity and line extensions for businesses and carriers.
+Revenue from residential phone increased 4%, an area where we can do better despite the broader fixed line cord
+cutting trends. Video revenues were down 1% driven by Video customer losses, partially offset by the price increases
+in the quarter. In addition, we're still facing economic headwinds as it relates to cord shaving on video and demand and
+premium channels, but did see some uplift in certain areas such as our sports tier due to the addition of new content as
+Mike mentioned.
+For both Video and Internet, the total revenue impact of the targeted price adjustments this past quarter was about $10
+million. We're pleased with the minimal churn associated with these price adjustments, and keep in mind that we have
+not yet seen a full quarter's impact to revenue, so Q4 will reflect a slightly higher run rate. Ad sales were down
+approximately 3% on the prior year primarily due to lower political spend versus 2010.
+Clearly, we expect Q4 advertising sales to also be lower year-on-year; last year's political campaign boosted Q4 sales
+by about $14 million.
+Looking at the makeup of total revenue on the pie chart on slide 5, we continue to diversify our revenue. And while
+Video is still critical to our business, it represents only half of our sales now, down from 60% just a few years ago.
+Increasingly, investments for the IP side of the pie, namely Internet, Commercial and Phone will bode well for Video to
+Mike's earlier point.
+Slide 6 highlights our Commercial business, which continued to accelerate, up 19% on prior year versus 11% in Q3 of
+2010. The growth was driven mostly by new relationships with small and medium businesses and carrier customers.
+We increased our commercial PSUs by 22% compared to last year excluding Video. In Q3, carrier space revenue rose
+by 50% to $12 million in the quarter.
+Turning to our Residential business on slide 7, our total PSUs were effectively flat in the quarter compared to $16,000
+gained in Q3 of last year. As Mike highlighted, the downturn in PSU growth was driven entirely by slower Phone
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 5 of 19
+growth as Internet gains and Video losses both improved on prior year. We achieved lower churn, but also saw fewer
+connects.
+In addition to ongoing low household formation, high vacancy rates and ongoing competition, we only started to see
+the positive impact to our top line actions in the very tail end of Q3, particularly in Phone.
+We also maintained our disciplined approached to customer acquisition. For the past year, we have suppressed direct
+marketing to the higher credit risk segments of our service area. And while this segment formed a large portion of our
+connects in the past, it represented an even larger portion of our disconnects and a disproportionate share of our cost.
+But while we've benefited from the cash flow impact of our strategy, we cannot ignore the segment permanently. We
+designed Charter Starter, mentioned briefly last quarter, to target these households with an attractive, yet affordable,
+product offered in a more controlled low-risk manner.
+Charter Starter is a triple play offer that includes base level video, Internet and phone products for $80 per month or
+double play video and Internet for $65. There's a limit on the equipment and the amount of pay-per-view and Video On
+Demand customers can take, as well as a required prepayment of the first month charges and install fee. And we're
+looking to add a deposit requirement within the billing system in the coming months.
+Recognizing that these customers may desire more, as they demonstrate payment history, we gradually expand the
+offering. We tested the product during this past quarter and completed a soft launch at the end of September, ramping
+up marketing efforts in October.
+To clarify, our overall strategy's unchanged. Charter Starter strengthens our systemic credit controls and provides an
+entry for new customers. So in and of itself, we don't see it as the near term material connect driver, but a controlled
+and fair way to address the segment.
+Even more than the industry focus on PSUs or RGUs, customer relationships really are the core focus area for Charter.
+In the third quarter, our rate of decline in total residential customer relationships dropped nearly fourfold, the key driver
+being our non-Video customer relationship growth, some 55,000 relationships, double the growth rate in last year's
+third quarter.
+Residential ARPU increased 3.5% from prior year, driven by the price increase, as I mentioned, and increased bundling
+and advanced services penetration. Once we secure the customer relationship, bundling remains the key factor to
+maximizing retention and up sell. And at the end of the quarter, 61.9% of our customers subscribed to more than one of
+our products.
+Moving to slide 8, while making positive strides in retention levels, we've experienced a decline in Video customers in
+the quarter. Video customers decreased 65,000, and despite the price increase, a slight improvement over the loss of
+66,000 last year. Of the 65,000 loss, 63,000 were basic analog, representing a disproportionate share of the video loss.
+Digital growth slowed significantly compared to last year's third quarter as we completed fewer analog-to-digital
+channel migrations, which traditionally drives digital upgrades. And while there's still an opportunity here as we get
+further up the penetration curve in absence of stronger push, we will have less of an opportunity for digital conversion,
+which impacts RGU and ARPU growth.
+Video ARPU rose 4.3% year-on-year to $72.21 driven by the rate adjustments and higher mix of digital customer in the
+base. Given the recent pressure on housing and ARPU lift from Video On Demand, premiums and digital upgrades we
+see ourselves well-positioned when the economic climate does start to turn. And in the meantime, our goal is to
+ultimately stabilize the Video business with the product developments and customer experience enhancements Mike
+outlined.
+Looking at slide 9, we achieved strong growth in the Residential Internet PSUs in Q3 as more and more customers
+recognize our speed superiority. Overall, penetration reached 29.5%, but as Mike pointed out, we continue to have an
+outsized opportunity in the roughly seven million non-Video homes passed in our footprint given the lower penetration
+there.
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 6 of 19
+Our Internet penetration of homes passed where we do have a Video relationship is well over 60%. We saw – and we
+see no reason why seven million homes shouldn't be just as interested in our superior Internet product. We're
+accelerating penetration in those homes, and as Mike mentioned, we're looking at innovative ways to further accelerate
+growth.
+Internet ARPU grew 1.8% primarily due to the price increases through broader penetration of our home networking
+product, which grew to 23% penetration in the quarter. We grew Residential Phone customers at a slower pace than in
+2010 adding 11,000 Phone customers during Q3 compared to 31,000 a year ago, primarily due to fewer upgrades from
+our existing customers. We still think there's an opportunity to get back to the previous phone attached rates and we've
+refocused our offer set both for acquisition and retention and shifted back to a higher direct response marketing mix as
+compared to Internet and Video branding.
+Phone ARPU dipped 1.1% compared to third quarter of last year due to an increase in value-based packages. As we
+recognized the strategic importance of attaching Phone with our other products, we believe it's likely that declines in
+Phone ARPU will persist.
+On slide 10, looking at expenses and adjusted EBITDA, we achieved continued growth in EBITDA that outpaced
+revenue growth reflecting year-over-year margin improvement. We grew sales from higher margin products and
+continued to benefit from our customer experience and lifetime value strategies through lower service costs and bad
+debt.
+While total operating expenses rose at a slower pace than revenue, they increased 2.6% stemming from higher
+marketing expense and programming costs, partially offset by bad debt savings. The upturn in marketing cost to 3.9%
+of revenue reflected higher brand and media investment, channel development as well as increased marketing efforts in
+Commercial. We saw programming costs rise 2.4% due to contractual increases net of the impact of customer losses.
+Our outlook here has not changed. Unfortunately, we expect programming costs to maintain their upward trend.
+Moving to slide 11, overall CapEx was 16.8% of revenue. Total dollars were up slightly as we spent more on line
+extensions driven by Commercial and customer premise equipment. The increase was partially offset by timing our
+strategic bandwidth initiative rollouts to avoid customer experience impacts and we're still on target to be largely
+complete with DOCSIS 3.0 and SDV by year end.
+Our estimated capital expenditures for this year remains approximately $1.3 billion to $1.4 billion and about three
+quarters of our CapEx continues to be success based. Notably, Commercial CapEx totaled $48 million in the quarter,
+41% higher year-on-year. And our total commercial spend now represents a $172 million of CapEx on an LTM basis.
+Turning to slide 12, net loss was $14 million better compared to the year ago quarter as a result of adjusted EBITDA
+growth and lower income tax expense partially offset by higher interest expense from the 2010 and 2011 refinancings
+and an increase in depreciation and amortization from CapEx. We continued to generate free cash flow in the quarter
+and our free cash flow totaled $91 million in Q3 of 2011 compared to $135 million last year. The decrease was caused
+by changes in working capital, increased interest payments and higher capital expenditures partially offset by higher
+adjusted EBITDA.
+Working capital provided $36 million less cash in the quarter versus prior year driven primarily by the timing of
+payments. As a reminder, our taxes are predominantly noncash due to our $10 billion tax basis and $6.9 billion loss
+carry-forward position at the end of last year and we do not expect to be a significant cash tax payer until after 2017.
+Cash tax payments for Q3 and year-to-date were $2 million and $7 million respectively, reflecting certain state income
+taxes.
+Now turning to our capital structure, we had $1.1 billion of liquidity at the end of Q3 and remain comfortable with our
+maturity profile and leverage target. And we've demonstrated discipline in our balance sheet and return of capital
+strategy. During the third quarter, we repurchased $193 million principal amount of our second lien notes in the open
+market and immediately following the S&P U.S. downgrade, we'd launched a $200 million share buyback program. So
+as of the end of the quarter, we purchased 2.4 million shares for $116 million. And on the M&A front, we've closed
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 7 of 19
+several tack-on acquisitions in the quarter and continue to evaluate our opportunities for both acquisitions and
+divestitures.
+And with that, I'll turn it back over to Mike
+Michael J. Lovett
+Thanks, Chris. The fundamental changes we're making will continue to strengthen our business and yield positive
+results laying the groundwork for future success. Meanwhile, we had another quarter marked by revenue and adjusted
+EBITDA growth and continued healthy free cash flow coupled with disciplined execution of our strategic priorities.
+Many of you know that a few weeks ago I announced that I will be stepping down as CEO of Charter following a
+transition period. I'm comfortable that I'll be leaving Charter in a great position with extremely talented leaders and an
+incredible group of employees. I remain confident that our strategy will drive profitable growth and build value for our
+shareholders and that we have the momentum and the right leadership team in place to execute against that strategy.
+Operator, we're ready for questions.
+Q&A
+Operator
+[Operator Instructions] Your first question comes from the line of Jeff Wlodarczak with Pivotal Research.
+<Q - Jeff D. Wlodarczak>: Good morning, guys. This is Jeff Wlodarczak. I had two for Chris and then one follow-up.
+Your marketing expense ramped in the third quarter, is that a reasonable run rate going forward? And then the CapEx
+was quite a bit lower than at least we expected. Is it reasonable to say that you're probably going to come in at the low
+end of your guidance for CapEx in 2011?
+<A - Christopher L. Winfrey>: Sure. So on the marketing spend, if you take a look both sequentially and
+year-over-year, it was about a $15 million increase. When you take a look at sequential, it's important to keep in mind
+that Q3 does represent a higher acquisition period and so there's some seasonality there. I'm going to focus my
+comments more on year-over-year because that's traditionally where we've talked about as opposed to seasonality.
+So the $15 million increase year-over-year, about a third of that is coming from Commercial. There is a few million
+that's inside there for some online branding and social media activities as well as different one-off activities. So that's a
+few million that I would consider one-off. And the remainder of that is something that may be fair to consider as run
+rate as well as the Commercial simply due to the fact that we've been investing in other channels with a retailer online
+to expand our channel set. And while we continue to be in a really good competitive situation across all of our
+footprint, it's fair to say that some of the cost-per-order continues to increase slightly there.
+As it relates to the second question on CapEx, there was a fair amount of seasonality that was in there. Usually you get
+a fair amount of connect volume, which was the case inside of Q3. What was offsetting that if you take a look in the
+scalable infrastructure category, we pulled back intentionally on some of our DOCSIS 3.0 and SDV activity inside of
+the quarter. These tend to be some of the most customer-facing months inside the year, and so tweaking the network at
+the same time of having some of more service-related events that seasonally take place, we just pulled back a little bit.
+So I think you'll see an uptick in that Q4. And as I mentioned, we do expect for DOCSIS 3.0 and SDV to be largely
+complete at the end of the year.
+I think the guidance that we've given is the 1.3 to 1.4, and if we'd plan to tighten that I think we would have. But I think
+you can take a look at what we've done Q1 through Q3 taking into account both the volume for Q4 as well as the
+comments I made about scalable infrastructure and kind of pinpoint from there.
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 8 of 19
+<Q - Jeff D. Wlodarczak>: Yeah. Fair enough. And then just one quick follow-up. Any color you can provide on
+trends in the fourth quarter would be helpful.
+<A - Michael J. Lovett>: We did see – particularly as Chris mentioned with the marketing spend and a fair amount of
+it back-ended in Q3, we see trends picking up. Still some headwinds economically, obviously, and some challenges, but
+we do see some trends particularly on the Phone side picking up with the focus on direct response marketing and
+returning back to the focus of the bundle.
+<Q - Jeff D. Wlodarczak>: Great. Thanks, guys.
+Operator
+Your next question comes from line of Ben Swinburne with Morgan Stanley.
+<Q - Benjamin Swinburne>: Hey. Good morning, guys. And, Mike, certainly wish you all the best going forward. I
+just want to ask a couple of questions around sort of strategy on the business. You guys talked a lot about some of the
+new initiatives. You report about 15% of your customers are non-Video and I know last quarter you talked about a trial
+with Dish, looking at satellite plus Charter, data and voice. You've also rolled out this online portal to help customers
+find sort of over-the-top content. Could you just sort of step back and how you're position the company in the market?
+It seems to be a different approach than your peers, thinking about it more as an ISP and what that might mean to
+profitability and free cash flow and returns over time, how you're thinking about that.
+<A - Michael J. Lovett>: Yeah. Thanks, Ben. Certainly the Video business has its challenges. It's still a significant
+part of our business, so we're not abandoning it by any means. But you're right; we do see ourselves and we're – a bit of
+a mantra within the company is to think of ourselves as an ISP. And I think that not only drives the strength of our
+superior broadband product and we're leading with that strength, but it supports the Video business and other products
+and services over time, particularly as the infrastructure evolves to all IP.
+I don't know, Don, if you want to add some color to that?
+<A - Donald F. Detampel>: Well I would just add that our announcement today regarding the enhancement to
+charter.net I think is just a step in that direction. Fundamentally, we think that a massive amount of programming is
+becoming available online in On Demand, which is great for consumers. But finding what you want to watch is really
+painful. So what we're doing is, we're coupling our high-speed Internet with charter.net and introducing a service that'll
+integrate and organize content from multiple sources. This includes our entitled content that our video subscribers have
+the right to view as well as the over-the-top content from sources such as Netflix, Hulu and Amazon, which is an
+industry first. So for us, it's about bringing simplicity to what is something now complex and leveraging our broadband
+pipe.
+<A - Michael J. Lovett>: So, Ben, if you think about our – kind of our underlying theme of our strategy, it's leveraging
+the capabilities and, frankly, the superiority of our infrastructure from a competitive standpoint and then linking it to
+the – at the early stages, the in-home experience for the customer and being that solutions provider. And this is just the
+first step towards that.
+<Q - Benjamin Swinburne>: How do you guys – I appreciate the comments. How do you think about getting that
+search and discovery functionality, integrating it into the existing guide you have installed in your base and making it
+easy for the customer to access that stuff through the television or connected device – connected set-top? Because still
+people are spending the vast majority of their time watching video on TV versus on a PC or IP.
+<A - Michael J. Lovett>: Yeah. I think the first step of that obviously is our deployment and our partnership with
+TiVo and maybe, Don, you can talk about how we see the next innings.
+<A - Donald F. Detampel>: Right. Well, certainly, TiVo is a good next step. I mean I think everybody's aware that
+TiVo is renowned for their search and discovery and recommendation capabilities. They've been at this for years. So
+we think partnering with them really gives us a jump start. And although, unfortunately, from a programming
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 9 of 19
+standpoint, we currently don't have all the rights we want to blend this content, clearly that's what consumers are
+demanding and we believe over time we will have a similar experience available as well in the home.
+<Q - Benjamin Swinburne>: Great. And if I could just ask one separate follow-up to Chris on the use of capital in the
+quarter. Looks like you bought back I think a little over $100 million worth of debt and then on the buyback – on the
+stock repurchase, you had a step down from, I think it was, August to September. Any thoughts you can share with us
+on how you're looking at balancing all that and what's available to you in the market, et cetera?
+<A - Christopher L. Winfrey>: Well, let me clarify the first one and then ask you a question back on the second
+because I'm not sure I fully understood. So we've repurchased $193 million of principal amount of debt inside of the
+third quarter. So I think at the time when we announced the buyback, at that point in time we also disclosed that we had
+purchased $100 million at face value at the time. Through the rest of the quarter, we got up to a total of $193 million of
+notes for the second lien 8% notes, which become due in April 2012.
+On the second question you had...
+<Q - Benjamin Swinburne>: Yeah.
+<A - Christopher L. Winfrey>: I guess you...
+<Q - Benjamin Swinburne>: Yeah, I'll clarify.
+<A - Christopher L. Winfrey>: Yeah.
+<Q - Benjamin Swinburne>: How do you look at buying back debt versus stock in the current environment given
+where the stock is, given where the debt markets are? And maybe just update us again on sort of the leverage sort of
+appetite at the company.
+<A - Christopher L. Winfrey>: Understood. So I think we – the biggest mantra here is just being opportunistic with
+the opportunities that provide themselves to us. We were already, obviously, purchasing debt in the open market when
+you had the S&P U.S. downgrade. And it was in a very, very fast turnaround with our board that we decided in real
+short order that we should go ahead and launch a buyback program. It's not at the stage of our target deleveraging to the
+target leverage range of four to 4.5 times that we probably normally would have launched a formal buyback program.
+But given some of the market dislocation that was taken at the time, we saw that as the unique opportunity, moved
+really quick to take advantage of that. We had already been buying debt inside the market at what we thought were
+attractive rates relative to an NPV basis for debt.
+And I think that's the type of approach that you'll continue us to see to go after, whether it's being opportunistic on
+M&A, acquisitions and divestitures, whether it's investing in the Commercial business and moving – advancing the
+product set towards all IP or whether it's doing debt buybacks or stock buybacks. As I mentioned, at 4.7 times leverage,
+it's not at the stage where we would have said let's go launch a formal return of capital strategy, but we took advantage
+of what we thought was a pretty strategic opportunity to buy back the stock.
+<Q - Benjamin Swinburne>: Thanks a lot.
+Operator
+Your next question comes from the line of Stefan Anninger with Credit Suisse.
+<Q - Stefan Anninger>: Hi. Good morning. Thanks for taking my question. It looks like you had substantial success
+with your non-Video sub growth in the quarter. I think it's the highest – at least I can see on the trending schedule that
+we've ever seen. In that vein, can you talk a bit more about your success with naked HSD? And I guess related question
+to Ben's question, where are most of those customers coming from? Are they coming from DBS Households with
+DSL? We know about the Dish deal. And are you able to pick up any U-verse subs?
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 10 of 19
+And I guess on a related – excuse me, on a related note, one thing you've talked about in the past is getting consumers
+to understand that they can order naked HSD without buying video from Charter and that's has been a bit of an uphill
+battle given the long-term bundling sort of strategy you've had. It looks like that must be improving. And maybe if you
+just could talk about how that's going.
+<A - Michael J. Lovett>: Yeah, from a – Stefan, from a marketing standpoint, a lot of it is about education. So it's not
+simply the value and the superiority of our product. It's education with regards to the fact that they can buy through our
+high-speed product without buying video. And as you mentioned, I mean the legacy marketing approach for the entire
+industry has been video first then other products second, I think that's a bit of a shift, certainly, for us here at Charter.
+So a lot of it – our marketing and some of the uptick you saw on the marketing spend is around education relative to
+that fact.
+We've highlighted, as I mentioned in our comments, this morning that we've got 60% plus penetration of our broadband
+product with our Video households and substantially lower penetration, roughly 10%, in non-Video households. And
+that just doesn't seem logical to us when you have a superior product like our Internet product. A lot of our activity is
+coming and our growth is coming from DSL, share flow is dramatically favorable not only to Charter, but I think the
+cable in general relative to broadband. We are competitive and we feel we are competitive with U-verse, but I think the
+dynamic competitively will shift as we roll out our TiVo product. I think TiVo in combination with multi-room DVR
+and our broadband product gives us a real competitive edge to go win back households in the U-verse footprint.
+<Q - Stefan Anninger>: Okay. That's great. And if I could just ask a quick follow-up with respect to your Dish
+alliance. Are there subs that you are picking up in – with that alliance – they're existing Dish subs that have DSL, is that
+correct? So you're marketing into homes that have – currently have DSL and Dish, is that correct?
+<A - Michael J. Lovett>: We're marketing to Dish households, but we're also marketing collectively to non-Charter
+and non-Dish households.
+<Q - Stefan Anninger>: Got it. And then with respect to U-verse in your footprint, as the footprint growth seems to
+slow there, are you seeing any changes with respect to the number of customers that could defect over to U-verse or the
+number of subs that you may be able to pick up from U-verse, et cetera?
+<A - Michael J. Lovett>: Yeah. I don't – I think it's a little early to kind of declare some type of victory relative to how
+things stabilize. But having been in this business for 30-plus years and competed with a number of – not only our box,
+but other hardwire over-builders, you see a dynamic in 18 to 24 months where things really stabilizes – I use the phrase
+it's like – it's Europe and World War I where the trenches are kind of dug and people are in them and movement doesn't
+really take place. And I think we're probably heading into that stage where you see that type of stability. We really
+think that we have an opportunity with the TiVo partnership in combination with our value of phone relative to them as
+an incumbent phone provider along with superiority of broadband. We feel like we have an opportunity to win share
+back.
+<Q - Stefan Anninger>: Excellent. Thank you.
+Operator
+Your next question comes from the line of Jason Kim with Goldman Sachs.
+<Q - Jason K. Kim>: Hi. Good morning. Thank you for taking my questions. I had two questions, first one for Mike
+and the second one for Chris. First for Mike, on the wireless, you guys have consistently commented that Charter is
+going to be a follower in terms of wireless and see what develops in rest of the industry. And we've seen other
+operators looking to deploy WiFi in some of their footprints to add mobility to their data service. I mean is that
+something that could make sense for Charter as well? Or do the economics not make as much sense for the company
+given the footprint?
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 11 of 19
+<A - Michael J. Lovett>: Yeah, Jason, it's a great question. I think as we mentioned, we're looking at WiFi in essence
+within the households first, but certainly there's opportunity and we are exploring it within specific markets. You think
+of some of the communities that we serve that are oriented towards that type of usage. I'll use Madison, Wisconsin as
+one example. That might be an area that we look at deploying WiFi. Doing at across our entire footprint, the economics
+– it's a little at odds relative to the type of footprint we have, but I think we could look at it surgically. And...
+<Q - Jason K. Kim>: And then...
+<A - Michael J. Lovett>: And that is something we're exploring. But first and foremost, we're driving penetration of,
+in essence, WiFi Home Networking within the household first to hang multiple devices off it. And I'm very pleased
+with the success we're having there.
+<Q - Jason K. Kim>: Just a quick follow-up on that. Is there like a general rule of thumb we can use in terms of how
+much CapEx it would cost you guys to build WiFi in terms of a cost per home that passed et cetera?
+<A - Christopher L. Winfrey>: That's not something that we're prepared to talk about today. I think given what Mike
+had said, it's not the [ph] largest (0:37:00) priority today. And you'd take a look across our footprint, what it would be
+like in L.A. versus what it would be like in Madison versus what it would look like in the Southeast, would be
+dramatically different. So it's almost net even relevant.
+<Q - Jason K. Kim>: Got it. And as a follow-up question to I guess capital return to shareholders, you've done some
+opportunistic transactions so far and I'm wondering if your expectation is to implement something more sustainable
+long term in the capital return program to shareholders over time? Or do you prefer this kind of opportunistic approach
+that gives you a lot more financial flexibility?
+<A - Christopher L. Winfrey>: I think given where we are today at 4.7 times leverage, it's not something that we have
+to decide today. I think there is some value to being opportunistic, as we've been so far. I suspect that if we were to
+move closer to the four times range, we'd have to give people a little bit more color on that so that they can get
+comfortable about how they'd think about the business.
+But there's some real value to taking the approach that we've taken so far of being opportunistic. And I think along the
+way really generating a fair amount of value for our shareholders as well as through example of buying back the debt –
+of deleveraging along the way through uses of cash flow. So I think it's a very good question. For once we're at a stage
+where we're well in or even at the lower end of our target leverage range and sitting on a fair amount of cash, which
+when you take a look at the balance sheet today because we've been deploying capital, that isn't the case today. So it's
+not something that we're particularly worried about today.
+<Q - Jason K. Kim>: Got it. Thank you.
+<A - Michael J. Lovett>: Good.
+Operator
+Your next question comes from the line of Bryan Kraft with Evercore Partners.
+<Q - Bryan D. Kraft>: Hi. Good morning. Just had two questions. One, how are you thinking about CapEx next year?
+I assume that Commercial and the TiVo launch are going to put some upward pressure on CapEx, while DOCSIS 3 and
+SDV ending this year is going to put some downward pressure. Is one of those sides greater than the other? And also
+how are you thinking about going all digital at this point? I know you've – I think you've done a trial testing that? And
+how are you thinking about pricing the TiVo product as well? Thank you.
+<A - Michael J. Lovett>: Why don't we start with the CapEx spend? I'll hand this over to Chris, but from kind of a
+broad sense, the way we look at things and I think the pleasant fact of this business is we're – running about 77% of our
+CapEx is success based. And where we see opportunity, be it this year or in future years – where we see opportunity
+with healthy returns on investment, we're going to put the pedal down and we're going to make those investments. I
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 12 of 19
+think from a detailed standpoint maybe, Chris, you could cover that?
+<A - Christopher L. Winfrey>: Yeah. The fact is if you take a look at Commercial, you'll see that that's been an area
+that's significantly accelerating, and then as you pointed out SDV and DOCSIS 3.0, we have caught up effectively in
+those two areas. There are a number of different areas where we continue to invest in the business, whether that's a
+rollout of the TiVo or whether it's setting the stage for the next generation IP and product set. At this stage, we're not
+giving CapEx guidance for 2012, but we'll be doing that during the course of the next earnings session. So I think
+you've highlighted exactly right, all of the areas that are going to be in flux. And as Mike mentioned, a lot of it just
+depends on the success that we're having both on the residential side as well as the commercial side.
+<A - Michael J. Lovett>: Right, and from an all digital standpoint, I think one of the benefits we have with the
+platform is the investment we're making to switch digital to video is providing us – in essence we're mining bandwidth
+for new opportunities, particularly linear HD content at this stage.
+I think the fact that we've got a trial in place – it doesn't necessarily signal that we're going to be moving down the path
+of all digital, we're just looking at the opportunities associated with it, not the least of which is mining additional
+bandwidth, but there are other operational benefits that come with going all digital, such as effective service, security et
+cetera. Whether or not we deploy that, we haven't made a determination yet, but we're pleased with the results that
+we've seen in the trial.
+The other opportunity we have in mining bandwidth is analog migration. And one of the unique aspects of Charter is
+we've got a very robust analog channel lineup because of legacy issues. So I think there's more opportunity for us to
+move analog into the digital platform, which again frees up additional bandwidth. So I think we have a number of
+levers to pull, one of them being all digital. But as I said, we're pleased with the results of the trial on a number of
+levels. And then from a TiVo standpoint, maybe Tom – or Don you can give an update.
+<A - Donald F. Detampel>: Right. With TiVo – so we have not released the specific pricing. I mean, obviously, as we
+start to roll it out in Texas where we're testing the market in various price points there. So we'll be more very specific as
+we move down the road. But I also would like to highlight regarding all digital I mean we increasingly are beginning to
+think all IP versus all digital and in getting us there. And if you think about TiVo as a bridge to that path, it's an
+important bridge because it is a device that is obviously an IP device and a linear device, so it starts us on that path – as
+well our Next Gen Gateway product, which we'll start trialing next year. So as we think about all digital, we're really
+thinking kind of one step further really how do we get all IP.
+<Q - Bryan D. Kraft>: That's all very helpful. Thank you. If I could just ask – just ask a follow-up. If you think about
+– I mean some of the projects this year with SDV and DOCSIS 3.0, were – seemed to be sort of catch up one-time in
+nature with the thinking that next year CapEx would go down assuming a similar kind of level of activity in the
+business from a growth perspective. So is it fair to say that if CapEx were to be flattish next year that would imply
+some sort of acceleration in the growth rate because it would be success-based CapEx that would be sort of replacing
+some of the stuff that's more project-related catch up this year?
+<A - Christopher L. Winfrey>: Generally, I think that's right although I'd focus primarily on the Commercial
+segment. And – so if you think about the acceleration that's been taking place there, it's $48 million. There's really
+different types of spend that are inside the commercial. If I can, maybe pass over to Don to talk a little bit about how
+we think about the Commercial CapEx because some of the payback return is based on the segment versus carrier. It's
+fundamentally different and it all ties back to some of the discussion we're having around IP. So...
+<A - Donald F. Detampel>: And I think what Chris is highlighting here is our investment and cell backhaul. And
+internally, we've kind of labeled this CapEx spend as smart spend, and let me elaborate a bit on what we mean by that.
+As we deploy a lot of this cell backhaul, obviously that is the big IP pipe going out to these towers. Essentially, we're
+prefunding our Next Gen IP network. Eventually, as we look five, seven years down the road, our view is that
+everything will be riding this IP pipe. So as we look at the new cell backhaul contracts, we get a good, but it's generally
+a longer payback under a pretty conservative model. But we think this has a lot of upside in a variety of areas.
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 13 of 19
+Number one, it's pretty obvious that the kind of bandwidth that's being driven by these mobile devices. So as wireless
+carriers continue to increase speed, we will obviously be a beneficiary of that speed increase as well – as we make these
+builds, we do it passing a lot of businesses. And we are very selective as we make these builds to make sure that we're
+going by businesses that as well we could bring on as customers.
+And thirdly, our models generally only count one tenant per tower. And as Mike mentioned, we currently have 1,600
+cell towers either in service are under contract. And as that universe grows, we're beginning to see opportunities to get
+second and third tenants on those towers, which really makes this investment very, very attractive for us.
+<Q - Bryan D. Kraft>: That – Sorry, go ahead.
+<A - Donald F. Detampel>: No. I think we're good.
+<Q - Bryan D. Kraft>: All right. Thank you very much. That was really helpful.
+<A - Michael J. Lovett>: Thanks, Bryan.
+Operator
+Your next question comes from the line of Amy Yong with Macquarie.
+<Q - Amy Yong>: Hi. Thanks. Can you help us think about the margins over the next few quarters? You'll gain some
+operational efficiencies, but you'll also be spending on the marketing front. So what's kind of a net impact on margins?
+<A - Christopher L. Winfrey>: I think as we've increased the marketing spend, we've been using the operating
+efficiencies that we've been able to generate inside of the business to fund those marketing increases. Obviously, not
+only is it marketing that we have to fund but unfortunately, it's the programming increases and the impact of the Video
+margin that takes place there. But if you take a look at year-over-year, consistently throughout the quarters this year,
+we've been able to increase margin at the same time increasing the amount of marketing spend that we're putting in
+place.
+I have to tell you that it's not the one key driver that we have inside the business, the biggest driver that we have is
+achieving customer relationship growth and long term value for the shareholders, and it may mean that as a result of
+that, due to timing of some of the spends or other considerations, you may see margins fluctuate a little bit here and
+there. But generally, I still think there's a fair amount of opportunity on the operating cost side as we go through to
+continue to fund the amount of marketing spend that we're looking to do.
+<A - Michael J. Lovett>: And I think that the key here, Amy -- to add to Chris' point is the operating efficiencies are
+sustainable. They're not quarter-by-quarter, one-time events, they're sustainable improvements in the business, so we're
+running a leaner organization as we go. And I think the investment marketing is really priming the pump for top line
+growth.
+<A - Christopher L. Winfrey>: Particularly as customer experience improves along the way because it – the
+investment that we're making there drives a lower amount of calls to the call center, a lower number of service calls,
+lower number of service-related truck rolls. And as Mike's highlighted, we're still in the early stages in terms of
+achieving that customer experience.
+<Q - Amy Yong>: Okay. Thanks. And how do we think about high speed data ARPU? It accelerated this quarter.
+Should we see that trend going forward? And how do we think about Charter Starter and the impact on pricing?
+<A - Michael J. Lovett>: I'll take the HSI and then maybe Chris can talk a little bit about Charter Starter. We'll see
+opportunity – and we've highlighted the success we've had with our Home Network and our in-home WiFi service. And
+on average, that generates about $10 worth of recurring monthly revenue. And I think driving deeper penetration of that
+will continue to drive ARPU growth. We've made some tradeoffs relative to ARPU growth with regards to giving
+speeds for free, giving upgrades in speed tiers to our existing customer base. We feel like that's the right investment
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 14 of 19
+because it drives longer life time – customer lifetime value. So there are some tradeoffs there. I still think there's
+pricing strength in our broadband product, but we're not going to play the rate card so heavily that we impact ourselves
+negatively on share flow. I think this is more a share flow game than it is an ARPU game.
+<A - Christopher L. Winfrey>: And on Charter Starter, I'm glad you've asked the question. I think there was a little
+bit of confusion when we talked about this last quarter. The fact is that our strategy hasn't changed. We're really
+benefiting from the fact that we've focused on the right customer segment to avoid people spinning in and out of our
+products. What we did want to do though, is recognize that as economic conditions have been tough and as that
+segment unfortunately, we believe has continued to increase, you can't permanently ignore the segment . And so what
+you need to do is you need to find a fairer product that is available to address customer needs so that you don't
+completely shut out a certain segment of the market that could potentially be growing. But in a way, that actually
+makes sense from Charter's perspective as well. The way to do that is to make sure that the customer is getting into a
+product that, a, they can afford and, b, when it rolls off promotion that it's not rolling off at a higher price point, so they
+go from month 11 to month 12 and suddenly are no longer able to afford the product. So the product that we're offering
+is at the rack rate and it's a limited product both in terms of the product itself as well as the equipment that's associated
+with it as well as the pay-per-view and the Video On Demand.
+As a result, what we did during this quarter – really the first step of that is implementing much, much tighter systemic
+credit controls that makes it virtually impossible for customers in that credit class to get in the door. So that is actually
+going to have a negative volume effect. Offsetting that though, is that we've started to increase marketing a little bit –
+not going well out of our way to go make that our primary segment, but starting to increase marketing to that segment
+again with a defined product that serves their needs and also makes sense for us.
+And so I think at best at this point it's fair to say it's neutral, but cash flow positive, the approach that we're taking.
+Could it be a more material – could it be a source of a larger connect drivers overtime? That's a possibility. But the
+focus point here wasn't so much about getting the material connect driver or making us a focus onto that segment. It
+was really about making sure that we had a fair product for this segment over time and in a way that made sense for us.
+<Q - Amy Yong>: Okay. Thanks.
+Operator
+Your next question comes from the line of Jason Bazinet with Citi.
+<Q - Jason Boisvert Bazinet>: Just have one longer term question. As you – as consumer bandwidth demands
+increase and you focus on the broad brand product as your lead product, I think there's a little bit of concern on the buy
+side that there may be choke points sort of in the network that cause the CapEx on that part of the business to go up. So
+do you think that's a reasonable concern? And maybe in the context of answering the question if you could just sort of
+trace a bit from the consumers' home back into the cloud and qualitatively just tell us where is there a lot of head room
+and where might you run into potential constraints over time? Thanks.
+<A - Michael J. Lovett>: Jason, it's a great question. I think since we've got an Internet guy sitting at the table in Don
+Detampel, I'll let him answer that question.
+<Q - Jason Boisvert Bazinet>: All right. Great. Thank you.
+<A - Donald F. Detampel>: Perfect. Thanks, Mike. You're correct in saying that we certainly anticipate strong growth
+in our Internet product both from the commercial side and the residential side. As you think about our network, we
+generally think about it in three pieces. The HFC, the Hybrid Fiber/Coax piece of the network, our regional core
+networks and our national backbone are kind of the three components of our network. As we think about the capital
+that will be required, clearly, the bulk of the capital is in the HFC plant.
+So even though we have a very robust coax plant out to all of these residential and commercial customers, we know
+that we will have to do node splits and increase capacity to keep up with demand. Now the good news is that
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 15 of 19
+theoretically the coax plant we have in place out runs anything but fiber to the home. So we're in a very good position
+there. But there will be continued spends and I think – and I'm not going to give any guidance, but I would think that as
+we look into the future, there will continue to be some fairly significant investments, not in excess of what we're doing
+today, but continued investments to keep up with the speed requirements.
+In the Metro core and also the national backbone, those are fully fiber networks and they operate very similar to any
+kind of Internet provider all through the day. And we can map that very accurately what the growth calls for. And it
+will require capital, but not excessive capital there. So our main focus is really locking looking down on the HFC plant
+and firming up our estimates there.
+<A - Michael J. Lovett>: And I think Chris can add some color relative to how we think about that particularly with
+CapEx and viewing it as a success-based because it's driving additional monthly recurring revenue.
+<A - Christopher L. Winfrey>: I agree. It's something that we debate inside the business quite a bit, but the reality is
+that to the extent that traffic demand, whether it's upstream or downstream, is driving us to spend on what's called the
+CMTS or node splits, we really view that as very, very positive capital. That's not unlimited and so that's something
+that we do discuss inside the business in terms of how much do you really need to do.
+But the fact is that if we're in a situation where we're having to spend some significant amounts of CMTS as well as
+node splits in an increasing way – and I would caveat that could very well be the case, it would be fantastic news for
+Charter. Because the reality is that when you're taking a look at competing against DSL as more and more people start
+to hang multiple IP devices inside their home, it makes it all that more clear that DSL is fundamentally obsolete as
+compared to a broadband cable connection inside the home. And so I think that's spend that we're really very happy to
+be spending; we certainly view that as success based.
+<Q - Jason Boisvert Bazinet>: Thank you very much.
+Operator
+Your next question comes from a line of David Joyce with Miller Tabak & Co.
+<Q - David C. Joyce>: Thank you. Just was wondering if you could comment on the – an update on the amount of
+your footprint that's covered by Verizon FiOS, by T U-Verse and CenturyLink? And you did say that your marketing is
+focused on trying to increase phone attach rates, but I'm wondering if you've been seeing any uptick in consumers
+going wireless only for the voice product?
+<A - Michael J. Lovett>: Yeah. We see – David, in our footprint we've got – 30% to 35% is U-Verse overlap, less
+than 4% is FiOS and/or other fiber providers. We've got some – a very small group of municipal fiber builds, the lion
+share of that is FiOS and the CenturyLink, I apologize, Chris maybe you can answer that.
+<A - Christopher L. Winfrey>: I think it is around 10%.
+<A - Michael J. Lovett>: Around 10% in CenturyLink.
+<A - Christopher L. Winfrey>: And in terms of just traditional telcos it's – 62% is AT&T coverage and then off that
+about half of that is U-Verse.
+<A - Michael J. Lovett>: And I'm sorry. David, your other question?
+<Q - David C. Joyce>: If you've been able to determine if consumers have been moving more towards wireless and
+only voice services to help explain the meaning of the voice net ads.
+<A - Michael J. Lovett>: Yeah. We – from a voice standpoint, certainly cord cutting is a challenge, not only for
+Charter but for the entire telco industry. But the lion's share of the impact to us in net ads through the first three
+quarters was our – by design a strategic shift to more brand-oriented marketing since we've emerged from our
+restructuring.
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 16 of 19
+We typically had spent virtually a 100% on direct response in media, and we shifted a significant portion of that in the
+first three quarter of this year to brand and feel like we've laid the right groundwork for refreshing the brand, the
+Charter link to our customer experience efforts. Now we've indexed back to a healthier balance and we'll see the results
+and are seeing the results early in Q4 relative to more direct response in media marketing. So we see less of the impact
+from cord cutting, more of the impact from our own strategic decisions to shift to a brand-oriented marketing.
+<Q - David C. Joyce>: Great. Thank you.
+<A - Michael J. Lovett>: Thanks.
+Operator
+Your next question comes from the line of Rich Tullo with Albert Fried.
+<Q - Rich R. Tullo>: Hey. Thanks a lot, guys, for taking my questions. Really congratulations on a strong
+performance. As I look at your peers, I think you guys are doing a much better job at exploiting the opportunities that
+are presented to you in the marketplace despite a tough economy. That said, how many weeks does it – during the
+quarter was Charter Starter available to customers?
+<A - Michael J. Lovett>: It did really – it really came at the end of the quarter. So we're in the very early stages in
+focusing on marketing that product.
+<A - Christopher L. Winfrey>: We didn't do a large [indiscernible] (0:57:17) mail drop really until the end of
+October. So I think that we were on trial setting up those credit controls that I was talking about during Q3. Did some
+trial at the end of Q3 and then did a larger mail drop mid to – call it the second, third week of October and it's far too
+early to determine what the impact to that direct mail is.
+<Q - Rich R. Tullo>: Fair enough. And excuse me if I got a little confused. Could you just kind of go over the
+difference between the prepaid and the deposit? Are some accounts going to be – prepaid available to them? And are
+some accounts going to need to make a deposit? I mean how does that work?
+<A - Christopher L. Winfrey>: No. There won't be a formal prepaid setup other than in order to get service activated
+for that very high credit class segment today, the customer is required to prepay the first month as well as the install
+fee. What that does is determines an inability and a willingness to pay. Getting a deposit set up inside of the billing
+system is taking a little bit of more time. It's going to be a few more months until we add that on top.
+So at that stage – and that's where I would caveat in terms of what this can do with growth, is that you're now talking
+about a segment that is somewhat cash constrained. In order for them to really demonstrate that they're going to be a
+enabling willing payer then they need to fund the first month, the install fee and the deposit upfront. Obviously, the first
+month and the install – the first month gets returned to them and the deposit would over time, but it would required a
+six month payment history before we start moving them up into a different credit class that starts expanding the amount
+of product that they can take.
+<A - Michael J. Lovett>: And really Rich it's all about allowing the consumer to kind of right-size for their capability.
+<Q - Rich R. Tullo>: Right.
+<A - Michael J. Lovett>: The monthly fee and then build a relationship that grows into a creditworthy relationship
+over that six month period to move upstream into our product set.
+<Q - Rich R. Tullo>: Yeah. Fair enough. I mean it's a good opportunity, I could see, for a lot of people. The search and
+discovery, is that called search and discovery first off? Or do you have any other name for it?
+<A - Christopher L. Winfrey>: Yeah. Search and discovery is a pretty common term in the industry. So you're right
+on labeling it that way.
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 17 of 19
+<Q - Rich R. Tullo>: Okay. And who is providing the middleware or aggregation for that?
+<A - Christopher L. Winfrey>: So right now we work with the Centocor in providing that capability.
+<Q - Rich R. Tullo>: Okay. No, that's excellent. Thank you very much and again congratulations on a – what in my
+view is a strong execution.
+<A - Michael J. Lovett>: Great, thanks, Rich.
+<A - Robin Gutzler>: Operator, I know we're running a bit behind. Maybe we could just take two last questions.
+Operator
+Your next question comes from the line of Mike Pace with JPMorgan.
+<Q - Michael V. Pace>: Hi. Thank you. Just two key topics here, the first on the M&A front. Can you just talk about
+the opportunities you see there? I'm assuming on the residential side it's really just on the margin. But could you focus
+more on the commercial side?
+And I guess maybe back to residential, do you think – do you prefer to be a net buyer or a net seller of residential
+assets? And on the commercial side what are the benefits of getting bigger through M&A here, greater network
+customers, general expertise, et cetera? And then I have a follow-up capital structure question. Thank you.
+<A - Michael J. Lovett>: Okay. Mike I'll handle this – I'll answer it a little more broadly and then hand it over to Don
+to talk about commercial opportunity and how we view things and what filters we use. You hear this a lot from us at
+Charter and you'll continue to hear this, we are always opportunistic relative to being a net buyer or a net seller. So I
+think you'll continue to see us operate that way. I think there's a unique opportunity for us, and you've seen this with the
+tack-ons that we've done. There's efficiency and scale benefit at the enterprise level, but we've always talked about the
+scale benefit that we see on local geographies, so adding tack-ons, whether its 5,000 or 50,000 subscribers, we'll
+continue to look at that.
+Looking at some of our footprint, we operate in a number of states. If there's an opportunity for us to divest and the
+economics are right, we'll continue to look at that and again be very opportunistic.
+Don, maybe you can talk a little bit about how we view commercial opportunity.
+<A - Donald F. Detampel>: Sure. On the commercial side, it's a lot about building capability, creditability and reach.
+And we've looked at a number of opportunities. We made one very small tuck-in acquisition down in Birmingham,
+which was a fiber network that allowed us to really extend into the downtown area of Birmingham and give us some
+great connectivity to business customers where we didn't have connectivity in the past. But I think we strongly believe
+that there are some inorganic opportunities out there and we continue to search for those. And to the extent it helps us
+even more aggressively grow, we'll put those under the proper lens and execute if they look desirable.
+<Q - Michael V. Pace>: Thanks. And then maybe for Chris on the capital structure. I guess when you look at the high
+coupon debt that becomes callable in 2012 and given the overall balance sheet you really have the flexibility to really
+do what you wish there. I guess if we just started with a blank piece of paper, I guess what would the capital structure
+look like going forward in terms of issuers? And I guess I want to focus more on the second lien part of the capital
+structures. Is there really a need for that to exist going forward? Thanks.
+<A - Christopher L. Winfrey>: Yeah, Mike. The – if we were to start with a clean sheet of paper, which wasn't what
+we were given, we would probably have two issuers; one more at the junior, one more at the senior level, one being a
+high-yield issuer, the other one is being more bank type. I tend to agree with you that, naturally, when you take a look
+at it second lien isn't something would be what you would draw on that clean piece of paper.
+Having said that, I do think there are different pockets of capital market opportunities that open up over time and we're
+always going to be opportunistic with that. So while it may be something that we say on a clean sheet of paper, we
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 18 of 19
+wouldn't look to do today, there may be some interesting ideas that come along the way that enable us to effectively
+lower interest costs or achieve more flexibility. And we'll certainly be open minded to that, but I tend to agree with you.
+We have two issuers on a clean sheet of paper; we'd have a more simple capital structure. As you mentioned, there's a
+fair amount of debt that becomes callable in the coming year and I think we're taking a look at all of that stuff on an
+NPV-positive basis. It's not just about simplification. It's really about making sure that we're doing the right thing by
+our shareholders in terms of how we'd like to take out that debt over time.
+<Q - Michael V. Pace>: Great. Thank you.
+<A - Michael J. Lovett>: Thanks.
+Operator
+Your final question comes from the line of Vijay Jayant with ISI Group.
+<Q - Vijay Jayant>: Hi. Thanks. You had some rate increases in July and probably you didn't get the full effect of that
+in 3Q. Can you sort of talk about how much of this we can see in 4Q on both broadband and on Video ARPU from that,
+just sort of trending it into for the full quarter?
+And second, given your voice ARPU is substantially higher than your peer group and given some weakness in that
+category, can you talk about the elasticity of pricing and your strategy on driving unit growth and compromising on
+prices there? Thanks.
+<A - Michael J. Lovett>: Yeah, Vijay. I'll take the voice ARPU question and then Chris can then talk about rate
+increases and what the impact is going forward. The way we're looking at voice, we have – so there's a couple of things
+going on. Because we're a registered [ph] CLAC (1:04:46) we get the benefit of what's called [ph] Ukel (01:04:48), so
+there's a regulatory charge that our customers see that some other operators, I think, the vast majority of other
+operators, don't have because they're not a [ph] CLAC. (1:05:00) So there is a benefit in our ARPU there that is
+somewhat unique and it's roughly – Chris, $5.50?
+<A - Christopher L. Winfrey>: Yeah. That's about right.
+<A - Michael J. Lovett>: About $5.5. The way we think about voice strategically and more and more – and you'll hear
+more about this in the coming quarters, we're looking at the value that, that product adds to the stickiness of a
+household and the increase in customer lifetime value. So we'll – in all likelihood, you'll see us getting more aggressive
+on pricing to drive deeper penetration on our existing base with our Voice product to increase the lifetime value. It's a
+huge churn benefit.
+I think if you look at what we've talked about historically, and this continues to trend almost the same from the day that
+we launched our Voice product, we see a 40% improvement in churn in a triple play household as opposed to a single
+analog video household. So obviously, there's significant customer lifetime benefit associated with putting that product
+in the house. We also -facing the winds of cord cutting with mobile phones, we see there's a window of opportunity to
+drive landline penetration now and we're hitting the gas on that.
+Chris, you want to talk about rates?
+<A - Christopher L. Winfrey>: Yeah. Vijay, on rates you asked about Q4, so in Q3 just to flash back, let me talk
+about the incremental for Q4. We had $10 million of rate increase that was going through it during the quarter, that
+came about equally split between basic, between tiers and between the cable modem fees so again, equally between
+basic, which is basic video; tiers on the digital side and on Internet. There'll be inside of Q4 a few million additional
+uplifts to the $10 million that should roll through during the course of Q4. And I think that gives you enough color in
+terms of how to think about it.
+<A - Michael J. Lovett>: So one more thing, Vijay, on the voice because I think it's a good question relative to how
+we're viewing that product strategically. While you'll see moderate and declines or likely to see moderate declines in
+Company Name: Charter Communications I
+Company Ticker: CHTR US
+Date: 2011-11-01
+Event Description: Q3 2011 Earnings Call
+Market Cap: 5,265.20
+Current PX: 46.90
+YTD Change($): +7.96
+YTD Change(%): +20.442
+Bloomberg Estimates - EPS
+Current Quarter: 0.251
+Current Year: -1.416
+Bloomberg Estimates - Sales
+Current Quarter: 1826.714
+Current Year: 7198.222
+Page 19 of 19
+ARPU over the coming years, those declines will be more than offset by the increase in lifetime value that the churn
+benefit brings to us.
+<Q - Vijay Jayant>: Great. Can I just ask another one on the analog video subscriber losses, which were
+disproportionately most of your Video losses? Where are those folks going? And really, is the Starter program really
+targeting to those folks? I mean would that keep them behind – get them back?
+<A - Michael J. Lovett>: Yeah. I think a lot of what you see in the – it's not the vast majority but a significant portion
+of analog-only households are in those bottom segments, they're shopping on a regular basis for other providers. I think
+the way we look at it is they're shopping and hopping, so to speak. They're moving from one from one provider to the
+other because they're shopping for deals. We think Charter Starter will help address some of that, but not all of that.
+<Q - Vijay Jayant>: Great. Thanks so much.
+Michael J. Lovett
+Thank you. Thank you all, look forward to talking to you again soon.
+Operator
+Thank you for participating in today's conference call. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2011, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
