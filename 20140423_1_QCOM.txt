@@ -1,0 +1,759 @@
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 1 of 14
+Q2 2014 Earnings Call
+Company Participants
+• Warren Kneeshaw
+• Steven M. Mollenkopf
+• George S. Davis
+• Derek K. Aberle
+• Donald J. Rosenberg
+Other Participants
+• Simona K. Jankowski
+• Tavis C. McCourt
+• T. Michael Walkley
+• Brian Modoff
+• Timothy Long
+• Timothy M. Arcuri
+• Ehud A. Gelblum
+• Stacy Aaron Rasgon
+• Tal Liani
+• Ashwin X. Kesireddy
+• Blayne Curtis
+• Mark McKechnie
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the QUALCOMM second quarter fiscal 2014 conference
+call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session.
+[Operator Instructions]
+As a reminder, this conference is being recorded April 23, 2014. The playback number for today's call is 855-859-2056.
+International callers please dial 404-537-3406. The playback reservation number is 25607511.
+I would now like to turn the call over to Warren Kneeshaw, Vice President of Investor Relations. Mr. Kneeshaw, please
+go ahead.
+Warren Kneeshaw
+Thank you, Brent, and good afternoon, everyone. Today's call will include prepared remarks by Steve Mollenkopf and
+George Davis. In addition, Derek Aberle and Don Rosenberg will join the question-and-answer session. An Internet
+presentation and audio broadcast accompany this call, and you can access them by visiting our website at
+www.qualcomm.com.
+During this conference call, if we use non-GAAP financial measures as defined in Regulation G, you can find the
+related reconciliations to GAAP on our website. I'd also like to direct you to our 10-Q and earnings release, which were
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 2 of 14
+filed and furnished, respectively, with the SEC today and are available on our website.
+During this conference call, we will make forward-looking statements regarding future events or company results.
+Actual events or results could differ materially from those projected in the forward-looking statements. Please refer to
+our SEC filings, including our most recent Form 10-Q, which contains important factors that could cause actual results
+to differ materially from the forward-looking statements.
+And now, I would like to introduce QUALCOMM's Chief Executive Officer, Steve Mollenkopf.
+Steven M. Mollenkopf
+Thank you, Warren, and good afternoon, everyone.
+I'd like to start by congratulating Derek Aberle on his promotion to President of QUALCOMM. Derek has been
+instrumental in creating and growing many important areas of QUALCOMM's business over his tenure, including our
+licensing business as well as our platforms and services businesses. Under his leadership, QTL has more than doubled
+its revenues and profits, completed key license agreements, and established QUALCOMM's 4G licensing program. I'm
+looking forward to continuing to work closely with Derek as we lead the next chapter of growth and success for
+QUALCOMM.
+Turning to our performance, we delivered another solid quarter, driven by continued leadership of our multimode 3G
+LTE chipset solutions and record licensing revenues. In recognition of our strong financial position and the continued
+growth of our business, we recently announced a 20% increase in our dividend as well as a new share repurchase
+authorization of $7.8 billion.
+QTL had a record quarter from both a revenue and earnings standpoint. Total reported device sales were also a record
+but came in at the low end of expectations. In particular, licensee shipments in China were lower than expected. We
+believe consumer purchasing decisions were delayed in advance of the rollout of LTE. And TD-SCDMA volumes were
+stronger than anticipated and negatively impacted sales of WCDMA and CDMA2000 units. We believe much of this
+situation continued through the March period, as well as a slower than expected ramp of LTE sales in China. Despite
+these near-term headwinds, we continue to forecast strong growth of 3G/4G-based device shipments in calendar 2014,
+albeit somewhat more back-end loaded than our previous expectations.
+We continued to grow our base of single-mode 4G OFDMA licensees and now have over 100 globally, including more
+than 60 in China. These are in addition to the over 255 CDMA-based licensees we have globally. QUALCOMM
+continues to invest heavily in developing the leading and most widely licensed portfolio of patented technologies
+applicable to 3G and 4G devices. In addition to our industry-leading position in 3G and 4G technology, our license
+technologies include a wide variety of other technologies implemented in these same devices.
+In QCT, we continued to build on our broad customer footprint, as revenues and MSM shipments were up 8% and 9%
+year-over-year, respectively. MSM chip shipments were in line with expectations, with a stronger mix of products in
+the premium tier. QCT's strong product leadership continues. Multiple products based on our Snapdragon 801 chipset
+have recently launched, including the Samsung Galaxy S5, the new HTC One M8, and the Sony Xperia Z2 smartphone
+and tablet. Products based on our Snapdragon 805 and fourth-generation multimode 3G/4G modem featuring Cat 6
+LTE are expected to launch later this year.
+In addition, we recently announced several new products in our roadmap, further demonstrating our leadership position
+in bringing 3G LTE modems and 64-bit CPU architectures across multiple product tiers. Globally, the momentum of
+Snapdragon-based devices continues to grow, with more than 525 designs in the pipeline. In the second half of the
+fiscal year, we expect more than half of our MSM chip shipments to be LTE-enabled.
+Our Wi-Fi revenues are strong and growing, and fiscal year to date Wi-Fi shipments are up more than 45% year over
+year. We now have over 350 802.11ac designs, including more than 250 on our mobile solutions. We also announced
+our next innovation in Wi-Fi, with a comprehensive set of products that use multi-user MIMO to make 802.11ac
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 3 of 14
+networks more efficient, delivering up to a 3X improvement in throughput. Here, we are able to take use of the spatial
+reuse techniques that we developed for cellular and use them to improve our Wi-Fi chipsets. Looking forward, we
+believe LTE and unlicensed spectrum will provide further capacity enhancements and coexist nicely with Wi-Fi to help
+meet the expected significant increase in data demand.
+We are making excellent progress with our RF360 solutions, particularly the Envelope Tracker. Total shipments more
+than doubled this quarter and we now have over 75 designs across 15 OEMs.
+Looking forward, our long-term growth drivers remain intact. Gartner forecasts approximately 1.9 billion smartphones
+to be shipped in 2018, while cumulative smartphone shipments between 2014 and 2018 will reach approximately 8
+billion. We continue to forecast strong 3G/4G device shipments for calendar year 2014, and the rollout of 4G in China
+continues to be an important near-term growth catalyst for our business. Each of the operators in China have aggressive
+LTE rollout plans, with China Mobile alone planning to expand its network coverage nationwide to more than 500,000
+LTE base stations by the end of 2014. We have strong LTE design momentum with the OEMs in China, which is
+driving significant demand for our multimode 3G LTE chipsets.
+On a global basis, the deployment of overlay LTE networks continues to be a key growth driver for us, as over 270
+operators have now deployed LTE and more than 210 additional operators are planning deployments according to the
+GSA. Further, they report that 48 operators are investing in carrier aggregation across 28 countries, and seven operators
+have launched commercially.
+The extension of mobile technologies into industries such as automotive, healthcare, smart cities, energy, and other
+consumer electronics, wearables, and other segments is also another set of growth opportunities for us. Looking
+forward, industry analysts forecast approximately 400 million 3G/4G non-handset device shipments in 2017. Our
+inventions provide key building blocks in solving complex issues across these different verticals. Our strategy is to help
+the ecosystem use these technologies in the most innovative and effective ways.
+On the mobile computing front, there have been several positive developments. Microsoft is now offering its Office
+suite on non-Windows-based tablets, further enhancing the utility of these devices by augmenting their productivity
+features. In addition, there are continued efforts from operators to encourage wireless data usage on connected tablets,
+including T-Mobile, which recently announced an offer of up to 1.2 gigabytes of free data monthly for connected
+tablets, as well as an offer for LTE-enabled tablets at equivalent prices to the Wi-Fi only models.
+In closing, we delivered another solid quarter, and we are pleased to be raising our fiscal year earnings per share
+guidance. We have strong momentum with our semiconductor solutions and see significant growth ahead for 3G/4G
+devices, including the continued rollout of multimode 3G LTE devices in China and elsewhere throughout the globe.
+That concludes my remarks, and I would now like to turn the call over to George Davis.
+George S. Davis
+Thank you, Steve, and good afternoon, everyone.
+We are pleased to report record non-GAAP earnings per share this quarter, driven by better than expected operating
+performance from our QCT business and record QTL performance combined with strong investment gains and a lower
+than expected tax rate.
+Fiscal second quarter revenues were $6.4 billion, up 4% year over year. And non-GAAP earnings per share were a
+record $1.31, $0.06 above the high end and $0.11 above the $1.20 midpoint of our prior guidance range. The $0.11
+improvement was driven by about $0.04 of operating items, including the combination of stronger margins in QCT and
+lower than expected operating expenses, partially offset by lower total reported device sales and mix effects in QTL.
+Non-operating items added $0.07 from the combination of investment gains and the impact of a tax agreement.
+QCT revenue and earnings before tax were above expectations, with revenues of $4.2 billion and shipments of 188
+million MSM chipsets. Implied revenue per MSM was higher sequentially on mix, contributing to a 17% QCT
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 4 of 14
+operating margin that was above our prior expectations.
+In QTL, total reported device sales by our licensees were a record $66.5 billion, up 9% year over year but at the low
+end of our guidance range, primarily reflecting lower than expected total reported device sales in China. The estimated
+average selling price was $224 at the midpoint, higher sequentially, reflecting a slightly higher ASP in developed
+regions. And estimated 3G/4G-based device shipments were 297 million at the midpoint.
+With respect to reported units, we have reduced the midpoint of our calendar 2013 3G/4G device shipment estimate by
+approximately 17 million units to reflect the lower than expected device shipments reported for the December quarter.
+The unit shortfall was driven primarily by lower sales in China and North America.
+In the second quarter, non-GAAP combined R&D and SG&A expenses decreased 3% sequentially, as seasonal
+increases in employer taxes were more than offset by the absence of our Omni business, continued spending discipline,
+and other employee-related cost reductions. Year over year, OpEx in the quarter is up 1%, as R&D increases are being
+partially offset by lower SG&A on lower employee-related costs, various cost initiatives, lower patent and legal
+expense, and the absence of Omnitracs.
+Returns on our investment portfolio reflect gains from strong investment results being recognized as we balance risk in
+the portfolio in line with our increased capital return targets. Our forecast includes continuing gain recognition over the
+next two fiscal quarters, although at somewhat lower levels than in Q2.
+During the fiscal second quarter, we returned approximately $1.6 billion to stockholders, including $589 million of
+dividends paid and $1 billion in stock repurchases. During the quarter, we announced a 20% increase in our dividend
+and increased our stock repurchase authorization to $7.8 billion.
+Cash flow from operations was $1.8 billion or 28% of revenues, and we ended the fiscal quarter with cash and
+marketable securities of $32.1 billion.
+Our tax rate was lower than expected during the quarter, as we reached agreement with the IRS on certain U.S. tax
+matters relating to ongoing royalties and transfer pricing. We now expect our non-GAAP tax rate to be approximately
+16% for fiscal 2014.
+On the legal front, the company received a Wells Notice from the SEC regional staff regarding their FCPA
+investigation. The notice reflects the staff's preliminary determination to recommend that the SEC file a civil action
+against the company. We responded with a Wells submission, expressing our belief that we have not violated the FCPA
+and that therefore no action should be taken. We are continuing to cooperate with the investigation.
+Looking ahead, our guidance for fiscal 2014 is mostly unchanged except that we are modestly increasing our earnings
+per share expectations for the fiscal year to reflect the better than expected performance year to date. We have
+increased our outlook for our QCT business for the remainder of fiscal 2014, driven by our strong LTE product
+leadership and the expected ramp of LTE in China. We have reduced our outlook for QTL for fiscal 2014 as a result of,
+among other things, the softness seen in the December 2013 quarter for reported devices, a near-term spike in sales of
+TD-SCDMA devices in China to clear the channel for new LTE devices, a more back-end loaded ramp from LTE
+deployment in China, which will push volumes outside of QTL's fiscal 2014, and lower revenue per unit on the impact
+of global OEM share mix.
+We now expect fiscal 2014 non-GAAP earnings per share to be in the range of $5.05 to $5.25, up approximately 14%
+year over year at the midpoint relative to 2013 and up $0.05 at the midpoint from our prior guidance.
+We are holding our forecast for total calendar 2014 estimated 3G/4G-based device shipments, but our forecast is now
+weighted more towards the second half of the calendar year, reflecting our updated view of the timing of the expected
+LTE device ramp in China. It is worth noting that this revised forecast results in shifting a greater portion of QTL
+royalty units out of fiscal 2014, which reflects reported units for the 12 months ending in June 2014 and then into our
+fiscal 2015.
+In QCT, we continue to forecast operating margins to be 18% to 20% for fiscal 2014 and to exit the year above 20%.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 5 of 14
+For the third quarter of fiscal 2014, we estimate revenues to be in the range of approximately $6.2 billion to $6.8
+billion, up approximately 4% year over year at the midpoint and 2% sequentially. Our estimates reflect high
+single-digit year-over-year revenue growth for QCT and relatively flat year-over-year growth for QTL, as unit growth
+is offset by lower revenue per unit on mix.
+We estimate non-GAAP earnings per share in our fiscal third quarter to be approximately $1.15 to $1.25 per share, up
+17% year over year at the midpoint. We anticipate fiscal third quarter non-GAAP combined R&D and SG&A expenses
+will be higher, up 6% to 8% sequentially, primarily driven by QCT product roadmap and supply chain initiatives. In
+QTL, we estimate total reported device sales of $56 billion to $62 billion will be reported by our licensees in the June
+quarter for shipments that they made in the March quarter, up approximately 4% year over year at the midpoint but
+lower sequentially as compared to the seasonally higher holiday quarter shipments.
+We estimate that the QTL device ASP will be relatively flat quarter over quarter. And we expect QTL's operating
+margin percentage to be modestly lower sequentially, primarily due to lower revenue.
+In QCT, we anticipate MSM shipments of approximately 198 million to 213 million units during the quarter, up 9% at
+the midpoint sequentially and up approximately 19% year over year at the midpoint, and we expect revenue per MSM
+to be similar sequentially. We expect QCT operating margin to be approximately 18% to 20% for the third quarter,
+higher sequentially, reflecting increased MSM volume.
+That concludes my comments. I will now turn the call back to Warren.
+Warren Kneeshaw
+Thank you, George. Operator, we are ready for questions.
+Q&A
+Operator
+[Operator Instructions]. Your first question comes from the line Simona Jankowski with Goldman Sachs. Please go
+ahead with your question.
+<Q - Simona K. Jankowski>: Hi, thanks very much, just a couple of questions. The first one was on your guidance
+and clarifying. It sounds like you're raising your overall QCT guidance for the year on higher LTE expectations in
+China. But at the same time, you're lowering the QTL because of the how it falls in the fiscal versus calendar year. So
+what gives you the confidence that even though the timing is pushed out that the absolute magnitude of that is going to
+be higher, hence driving upside in QCT?
+And then the second question was on the implied royalty rate, which has been now about 3.1% for three quarters in a
+row. Previously, it had been about 3.3% for six quarters in a row. Is this the new rate that we should be thinking about
+going forward? Thank you.
+<A - George S. Davis>: Hi, Simona, it's George. One of the things I would point to on the guidance, first off, you're
+right. The biggest single factor is how the LTE ramp is going to take place, and you'll see it quite demonstrably in the
+QCT results. And if anything, that should give you confidence in what is coming for QTL. But we're also seeing much
+more TD-SCDMA inventory drawdown going on in China right now, which really QTL doesn't participate in, and
+that's another factor that exacerbates the China effect.
+<A - Steven M. Mollenkopf>: Simona, this is Steve as well. In terms of the confidence, what you're seeing in the QCT
+numbers is I think you're seeing strength really across the board, in fact broadly in China, across tiers and across
+OEMs. And our problem now is not really a demand problem. In the near term, we're actually trying to fight through
+some short-term supply issues because the demand has been even more than we thought. I think we feel pretty good
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 6 of 14
+about the QCT numbers. And also, although it's outside of the fiscal year, I think thinking about QCT as a leading
+indicator for QTL is also a good way to think about the business as well.
+<A - Derek K. Aberle>: Simona, this is Derek. On the externally implied royalty rate that you guys calculate, we were
+at 3.08% last quarter and indicated we expected that to trend up in Q2. It did come up a little bit to 3.11%. But frankly,
+we expected it to be a bit higher, and it was hit by a couple of things. One was timing of some of the cash-based
+payments we now have from some of the smaller licensees, a little bit of OEM mix, and then also a higher percentage
+of the TRDS [Total Royalty Device Sales] hitting the caps with things like tablets and the strength that still remains in
+the ASPs in the developed regions.
+As we look ahead to the year, I think we gave the range in November of 3.1% to 3.3% for the full year, full fiscal 2014.
+And I think just given the way the year is playing out, we've seen, for instance, a little bit higher deductions from some
+of the price discounting that went on in the early part of the year before, some of the iconic phones we expect to come
+out here in the back half. We've also again, as I said, had a higher percentage of things hitting cap. So I think we're now
+looking at it and assuming for the year we're likely to be towards the low end of the 3.1% to 3.3% range for fiscal 2014.
+Operator
+Your next question comes from the line of Tavis McCourt with Raymond James. Please go ahead with your question.
+<Q - Tavis C. McCourt>: Thanks for taking my question. I guess, Steve, you mentioned the MSM business as
+potentially being a leading indicator for the royalty business. I guess the premise there is that ultimately these LTE chip
+builds result in sales in China. But I'm wondering, how much visibility do you have on promotional activity given the
+lack of demand so far?
+And then secondly on the MSM ASPs, can you talk about what drove those up sequentially relative to last quarter?
+Thanks.
+<A - Steven M. Mollenkopf>: Sure. So on the QCT side, I think if you look at the QCT numbers, obviously, it's really
+a quarter prior to the same units hitting QTL, so we feel pretty good about what's happening there and how it leads into
+the QTL side.
+On the chip shipments, probably the best indicator is we're just seeing a lot of design pipeline and requests for chips.
+It's a bit as if it's – you almost you have a spring that's wound and they're waiting for the official start to happen. But
+we're really, I think, pleased with how that ramp has been happening so far. Now, as we've said in previous reports, it's
+very difficult to predict the exact timing on the start of the ramp, and in particular, one that has so much intensity
+around it. But we're working like crazy to get chipsets into multiple OEMs to support it. And I think we tend to have a
+reasonable confidence based off what we're seeing in QCT.
+And I'm sorry, you had a second question, which is on ASPs. Really we had a strong mix actually. If you look at what
+happened in the March quarter is the mix was pretty strong, in particular some the devices that have been launching
+worldwide. That continues to be something that's good for us.
+Operator
+Your next question comes from the line of Mike Walkley with Canaccord Genuity. Please go ahead with your question.
+<Q - T. Michael Walkley>: Thanks. Steve, just still on the revenue per MSM, I think you guys talked about on the call
+that 50%-plus of your shipments would be LTE in the second half of the year. So with that mix shift, should we expect
+the revenue per MSM to increase throughout the remainder of the year? And then also, with OpEx up a bit sequentially,
+R&D, just update on the cost optimization program and how's that trending versus your 20%-plus operating margin
+target exiting the fiscal year? Thank you.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 7 of 14
+<A - Steven M. Mollenkopf>: Maybe on the second one first, we feel pretty good actually about how the cost
+discipline in QCT has been transpiring throughout the year, so I think that's headed in a good direction; same thing with
+the supply chain.
+Now in terms of your first question about mix, I think George gave some indications about what it would be
+sequentially, which I think was roughly flat, I think, if I look at the comments that he just made. The one thing to
+remember about the launch of LTE, and in particular our strategy to support that launch, is that this will be a launch
+across multiple tiers. So we're going to be launching at the high tier with products in the 800 class as well as the 400
+and 200 class. And then we're going to be refreshing those portfolios as well as we go into 2015. So, I think it's going to
+be a broad-based launch. And the way to think about that, at least the way we think about it, is you're adding a new tier
+which is the premium LTE tier, but also replacing the tier which is now sitting at TD-SCDMA. So those blended
+numbers may not produce the premium uplift that you're thinking about, but I think that's a good trend for us broadly as
+a business.
+Operator
+Your next question comes from the line of Brian Modoff with Deutsche Bank. Please go ahead with your question.
+<Q - Brian Modoff>: Hi, guys, a couple of questions. So with regard to LTE, talking about that 60% of volumes in the
+back half, what are you seeing, for example? Do you see that demand playing out from what you just talked about, low
+to high end? What are you seeing competitively from other vendors in terms of any volume shipments? Do you expect
+to see any of the other vendors in any volume this year?
+And then with regard to the Wells Notice, what have you guys seen historically as what we could expect from the
+government from the standpoint of any disciplinary rulings? What are typical outcomes that you see were coming? Do
+you see actually end up having to settle with the SEC on things like this? Thanks.
+<A - Steven M. Mollenkopf>: Brian, this is Steve. On your question about the competitive environment, it's obviously
+a very competitive market. A lot of people are going after the market, but we feel good about our leadership position.
+And actually, I would say it's a leadership position across tiers and across multiple technologies in the tiers. For
+example, we have been launching – we now are ramping the 64-bit products across tiers that go along with LTE. And
+we think that's going to be an important component of how we compete and continue to compete moving forward, just
+being ahead of people and being ahead of them across tiers. I also think that that will be very important outside of
+China as well, which is you build a strong position in LTE across tiers and you use that to convert the emerging
+markets as well. So we feel pretty good about where that sits right now from what we're seeing in the accounts.
+<A - Donald J. Rosenberg>: Brian, it's Don Rosenberg. On your Wells question, you and everybody else can do the
+same research we do. You can look at the historical record on these kinds of things. But I should say that as we said in
+our 10-Q, keep in mind that the Wells Notice is a reflection of the regional staff's preliminary recommendation. We've
+responded we think with our good arguments as to why we don't think there's an FCPA violation here, this is going to
+continue in terms of discussions. So at this point, I wouldn't want to say anything that sounds like any prediction. But in
+terms of how these things have played out in the past, as I said, you can take a look yourself.
+Operator
+Your next question comes from the line of Tim Long with BMO Capital Markets. Please go ahead with your question.
+<Q - Timothy Long>: Thank you. I wanted to go back to the units for the December quarter, maybe for you, Derek.
+Just looking overall, first on the China piece, I'm just curious. Do you think there's – because some the OEMs have
+reported numbers for the December quarter and it didn't really look that bad, so I was just curious if you think other
+than the mix shift, TD-SCDMA, whatever, do you think you're getting paid less by licensees in China now? And if so
+or if not, does government and all the U.S.-China issues have anything to do with that?
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 8 of 14
+The second part of it, the 6 million units that you took out of developed for the year 2013, I'm assuming that's all Q4.
+That's a pretty meaningful number. So you mentioned North America, but what do you think is going on there? Do you
+think the upgrade programs will help that?
+And just last, even if you just give normal seasonality over the last few years, it looks to me like you're still probably 25
+million – 30 million phones light. So is there something else going on more broadly that you think impacted the
+December and now the March quarters? Thank you.
+<A - Derek K. Aberle>: Tim, this is Derek. Let me try to take those one by one. Maybe I'll jump into North America
+first actually. So I think this was pretty widely I think seen across a number of the OEMs. Really, North America in
+particular is where we saw the softness in the developed regions in the December quarter, and I think it was a
+combination of a couple things. But one of the key drivers was that many of the operators appear to have really more
+stringently enforced the two-year upgrade cycles versus their historical practice, I think in an effort to try to move more
+people to their early upgrade programs. And at least initially in the December quarter, the net-net of that was negative
+and we saw a slowdown in the replacement cycle.
+I don't know if you've caught, but AT&T reported just in the last day or so. And it looks like they had a pretty
+interesting shift in Q1 of replacements going to the early upgrade programs. So what we've done for the calendar 2014
+year is assume – we had already had a reduction in the replacement rate burned into our calendar 2014 numbers, and
+we've taken a little bit further reduction on that in North America. But there are at least some early signs that more
+people are embracing the early upgrade programs, and so we'll have to wait and see how that plays out in terms of
+driving the replacement rate in developed regions.
+In China, I think again, the approximately 11 million units that we were down in the December quarter were primarily
+from China, although there was some impact in a couple other regions as well. Really, it's again consistent with the data
+that I think has come out of the China market in terms of a slowdown before the LTE launch. And I think what got
+reported to us I think is largely consistent with what people expected after the reporting came in for the December
+quarter. So again, I think more of a market dynamic in terms of a slowdown before the LTE launch. And then as
+George pointed out earlier, what we saw coming into the March quarter is really – I think it's very clear to the OEMs
+that the subsidy will be shifting from 3G to 4G devices in the near future. And so I think an effort really to bleed the
+channel of TD-SCDMA, which is having a negative impact on us from a QTL standpoint in the March quarter.
+Again, we continue to be very vigilant in our compliance activities in China. And as I've said in the past, there's always
+a certain amount of leakage here, but we continue to do all the things that we think worked well for us in the past, and
+we're going to continue to stay on top of that. But I think really you're seeing a lot of market dynamics driving the
+results there.
+Operator
+Your next question comes from the line of Timothy Arcuri with Cowen and Company. Please go ahead with your
+question.
+<Q - Timothy M. Arcuri>: Thanks, I had a couple. First of all, can you talk a little bit about the pricing environment
+for LTE? Particularly, there was a very large semiconductor company that now has segmented out how much money
+that they're losing in their mobile business. So can you talk a little bit about the pricing environment in LTE, number
+one? And then number two, can you update us on the pace of the ramp for LTE in China and maybe speak to how long
+it will take until LTE unit volumes in China cross over with TD-SCDMA? Thanks.
+<A - Steven M. Mollenkopf>: This is Steve. I'll hit the first part. I don't have the answer to the second one. Maybe my
+colleagues can work on that while I'm answering the first part.
+On LTE, that's actually one of our premium areas, so that tends to be an area, a good area for us in terms of pricing. As
+I previously mentioned, we are in addition to supporting that in the premium tier, we also support that across tiers. And
+part of the purpose of doing that is to accelerate the transition globally to multimode 3G/4G. So therefore, actually we
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 9 of 14
+do have chipsets specifically designed to hit the price points of mass markets smartphones and even to transition things
+like the TD-SCDMA volume into TD-LTE volume as well. So it's really a mix, and today the majority, actually the
+vast majority of our chipsets support LTE. And as has been our practice, we support it across tiers. So it's really a very
+much a mix.
+Now because we have a leadership position and we think we can maintain a leadership position because we're really
+several generations ahead of folks, we have been able to – that has been good for the business, and we're endeavoring
+to keep that going.
+<A - Derek K. Aberle>: This is Derek. On the shift from TD-SCDMA to LTE, again, I think what we're seeing is in
+the March quarter, I think in anticipation of the shift in subsidy from 3G to LTE devices that's coming, really the OEMs
+are pretty aggressively trying to burn through the inventory there. So we saw a pretty meaningful increase in sales in
+the March quarter. And that also had the effect of cannibalizing to some extent the WCDMA and CDMA volumes in
+China. And as Steve has commented on, we really are seeing the supply chain, the OEM base really aggressively
+prepare for the launch and growth of LTE devices. So I think we'll continue to see some amount of TD-SCDMA sales.
+We believe they'll really be pushed to the very lowest tiers of devices. LTE is already starting to come in the low tier as
+well. So I think this is going to be a pretty accelerated transition as LTE takes off.
+Operator
+Your next question comes from the line of Ehud Gelblum with Citi. Please go ahead with your question.
+<Q - Ehud A. Gelblum>: Hey, guys. I appreciate it. Thank you, a couple things. In the past you guys have mentioned
+that the caps on tablets were voluntary. I was just wondering if there's a strategy at some point to take those caps off.
+You don't have to tell me a date, but is that something that's still out there? Is that something that you could possibly
+consider, and how should we be looking at that down the road?
+George, you talked about exiting the year on the QCT operating margin at above 20%. How do we look at that then
+going forward? Are we still looking at low 20s% going forward in the out years, or are we going some sort of escape
+velocity and it goes to 21% – 22% on average as we get into next year and beyond?
+Third question is China Mobile. Obviously, the first calendar quarter of the year was still under a three-mode
+requirement. By June they'll move to a five-mode requirement. Do you see that impacting at all here your success on
+the QCT side, and have you factored that into what you're telling us?
+And then finally, anything else about – I saw the 10-Q commentary on the Wells Notice. But, Don, I'm just looking for
+some more detail on specifically what were the instances that are in question and what are they alleging aside from this
+overall allegation? Is there something specifically you can tell us as to what they're specifically saying and what you're
+rebutting, or is it completely secretive?
+<A - Derek K. Aberle>: Ehud, this is Derek. On the tablet caps, you're right. We put that in as a voluntary program.
+And I have to say, obviously we've been a little bit disappointed with the uptake on the connected attach rates for
+tablets. But the good news is I think we're starting to finally see some positive signs both in terms of the way that the
+operators are approaching data plans and some of the incentives that are being provided to drive more WAN-connected
+tablets, and then also the on-ramp in some of the emerging regions where Wi-Fi is less established than in the
+developed regions. I feel like we're at a bit of an inflection point, and this would not be the right time to look at altering
+the licensing model around tablets. But we'll continue to monitor the market and see where things go.
+<A - George S. Davis>: On the QCT operating margin, yes, we do expect it to be above 20% at the end of the year. As
+we said in our guidance coming out of the analyst meeting, that we see 20% to 22%, moving from an 18% to 20%
+regime to more of a 20% to 22% type operating margin. We might not get there in 2015, as we indicated at that time,
+because the dynamics around the supply chain for 20-nanometer devices; so we'll see how that plays out. We're still
+confident we can be in the 18% to 20% range. But we haven't taken 2015 up yet, in line with our long term view.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 10 of 14
+<A - Steven M. Mollenkopf>: And this is Steve. On the three-mode/five-mode, we actually support it. We have
+designs on both and we actually have the ability to do it on the same chip. So we're prepared whichever way that goes.
+<A - Donald J. Rosenberg>: Ehud, this is Don. Actually, I think it's the first time you hit all four of us. You're the
+only one that has hit all four of us in one question. So I think you know the answer. I can't give you more detail than is
+included in our 10-Q. We've done that. And you can see over the time that this has been a subject of the 10-Q. We've
+been fairly consistent with what we've described and that continues until this day. And again, read the 10-Q. You'll get
+a sense there. But we're still obviously in the middle of this process, so I'm unable to give you any more detail than
+what we've included there.
+Operator
+Your next question comes from the line of Stacy Rasgon with Sanford Bernstein. Please go ahead with your question.
+<Q - Stacy Aaron Rasgon>: Hi, guys. Thanks for taking my questions. I think I have three. So the first one, I'm trying
+to wrap my head around the shortfall again in December from push in of LTE. I can buy it in March maybe. But in
+December, unless you had a sizable amount of LTE phones in China in your guidance or there's a significant amount of
+cannibalization of TD-SCDMA, maybe even WCDMA, I'm not quite sure how the logic holds. Given the timing of
+subscribers, 4G subscribers in China, I don't know why you would have had a large amount of 4G phones in your
+guidance for December quarter shipments. And I'm not sure how a bunch more TD-SCDMA shipments on China
+Mobile cannibalizes in the China Unicom and Telecom. I'm having a hard time seeing how subscribers are moving over
+en masse in front of what would eventually be the 4G launch? Why wouldn't they just stay where they were?
+Second question, you talked about an upward bias originally to your unit forecast, and now it sounds like you're taking
+it off the table or at least you're pushing it into 2015. I think the impression you had given before was that your baseline
+was conservative and then you have that potential upward bias, and it doesn't sound like it. It sounds like where China
+is coming in so far is below where your baseline was, so any commentary you can give on that would be helpful.
+And then finally on OpEx, this is the second quarter in a row you've pushed OpEx out; and that's great, but actually
+though it takes EPS guidance down for the back half. How much room is there, I guess, to have continued control on
+OpEx? And can those cuts be permanent, or does that OpEx eventually have to get spent, and does it get pushed into
+the back half? Thank you.
+<A - Derek K. Aberle>: Stacy, this is Derek. Let me try your first question. Really, let me try to break it into quarters.
+So I think there are a few different dynamics which are playing out over different periods of time in China. In the
+December quarter, again, which I think this is pretty consistent with the data that's come out of China since December,
+really we believe it was more of a slowdown of the 3G device sales, a pause in the purchase cycle from folks that
+anticipated LTE launching a little bit earlier than it did in 2014, and so there was that slowdown at that point.
+And then when you shift over into maybe at the tail end of the December quarter, but really in earnest in the March
+quarter, I think the realization that the subsidy dollars were going to go away as it related to the TD-SCDMA devices.
+There was this window in which the OEMs really decided to aggressively push the TD-SCDMA devices. And those
+tend to be – they're a broad portfolio – but they certainly create quite a bit of competition against China Unicom and
+China Telecom in the mid to low tier. And so when TD-SCDMA does well, it does have an impact on the volumes by
+the other operators in China. And so, it's really the two effects there. And then again, I think most of us expected the
+ramp to move a bit more quickly on LTE, and for a variety of reasons that's pushed out a bit. Yet again, all indications
+from the supply chain are that everybody's aggressively getting ready for that to happen very shortly.
+<A - George S. Davis>: So on the units guide, we said last quarter that we thought there was some upside to that. And
+really what we're saying is that with the push-out in timing, that really it's more back-end loaded. So we'd probably be a
+little more cautious in our view, but we are holding guidance.
+In terms of OpEx, the teams have done a very good job of looking for opportunities to defer, reduce wherever we can.
+We do have some things that we know we're going to have to get to on the product roadmap and also on some supply
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 11 of 14
+chain initiatives and just some general cost escalations, so we will be coming up a little bit. But I would say that we're
+going to be still meeting our objective of only being up 6% year-over-year and exiting the year at a lower run rate in
+OpEx coming out of 2014 than we had going into 2014, and that's for the whole company and for QCT.
+<A - Steven M. Mollenkopf>: Maybe I just – this is Steve – just one more note, really, on the units is that if you look
+at the units in QCT, they're probably up actually relative to what it would have been a quarter ago. And I think that's
+indicative of some strength across different OEMs as the mix is moved around a bit. So they're up, and actually I think
+it's been reasonably strong, and that gives us some confidence also to make the statements that we made with respect to
+the full year calendar numbers, which is really where George's comments went to. So, we are seeing an uplift on units
+in the semiconductor business.
+Operator
+Your next question comes from the line of Tal Liani with Bank of America. Please go ahead with your question.
+<Q - Tal Liani>: Hi, guys. Hopefully you can hear me. I have three quick questions. First, if I'm right, the tax rate goes
+down from 18% to 15% on a permanent basis, if you can clarify it. Second, have you seen any impact of China
+litigation on your discussions for QCT business in China? Is there any correlation between the two or not at all, if you
+can discuss the puts and takes? And the last part is going back to comments about the QCT margin, you spoke about
+you said you hope you can maintain 18% to 20%. What are the projects that will bring your QCT margins or what are
+the investments that you may need to make that will bring the QCT margins below their current target, and what are the
+projects or the conditions that will bring it above so we have the full range? Thanks.
+<A - George S. Davis>: So on the tax rate, it's 15% actually in the quarter, but that includes the catch-up from the
+agreement for the first quarter. I would say the baseline run rate that we're seeing today based on the agreement would
+come down about 1%. We had forecasted 17.7%, roughly 17% to 19%, so just under 18% for the year. That's coming
+down now to 16%, but some of that is the effect of the one-time element. Now I'll remind you that does not include any
+benefit for the R&D tax credit, which would have an effect when and if it is renewed. And we're also seeing a little bit
+benefit this year from the mix effects on the tax rate because we're seeing a little bit more revenue in QCT relative to
+QTL for all the reasons we discussed earlier on the call, and that has a positive impact on the tax rate for the year. So
+16% is for the baseline run rate for the year, a little below that in the second quarter.
+<A - Steven M. Mollenkopf>: With respect to the China litigation, I would say it's hard to say really. I think
+technology leadership tends to trump most concerns actually, and that's what we're seeing. In fact, if anything, in that
+market we're seeing probably more concern about our ability to be able to supply as much as we have. We're probably
+fighting more demand than less demand, I guess, and trying to make sure we can at least supply given how quickly the
+people are ramping up the desire to get chipsets, which is helpful.
+On the QCT margin, I think the main thing to take away is it's going the way that the plan we laid out. In fact, I'm very
+pleased with the organization being able to shift and be able to do that. Things that are applying pressure, we do see the
+opportunity to work on our supply chain both from a supply assurance but also from a cost perspective, and we are
+interested in making sure that those things happen. But the main thing is I think we have good visibility into how that's
+going to lay out, and it's going according to plan.
+Operator
+Your next question comes from the line of Rod Hall with JPMorgan. Please go ahead with your question.
+<Q - Ashwin X. Kesireddy>: Hi, thanks, guys. Thanks for taking my question. This is Ashwin on behalf of Rod.
+Steve, I think my questions are primarily aimed at you. The first one is on basebands. In light of recent reports that
+major vendors are trying to produce their own basebands, it would be interesting to know. How willing are you, how
+open you are to license your baseband designs? It's probably lower price but better margins. Do you think that would be
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 12 of 14
+a good long-term business opportunity for you?
+Also, it would be interesting to get your comments on the performance of Snapdragon [ph] 808-10 versus a like Intel
+PHY (51:05), a chip that primarily goes into laptops. If you could provide any color on where we are with more ARM
+chips shipping into laptops, that would be great.
+<A - Steven M. Mollenkopf>: Sure, so on the baseband side, it's actually not a new trend for people to kick off their
+own baseband designs. The history of that is they tend not to be successful, and in particular are not terribly successful
+at the leading technology peer. That's really where the majority of the margin is, and we've been able to maintain it. I
+would submit that it's actually probably harder to do that today than it would have been in the past just because
+technology is moving and it's moving across multiple modes. So I don't know if I see that as the biggest concern right
+now.
+We have not entertained a licensing model so far, and it's actually quite difficult to deal with the modem, unlike
+something like an ARM core or a CPU or graphics because there's so much technology and so much field work that
+you have to do to make sure that those things work globally. In fact, that's one of the areas that helps us is just our
+global scale is very difficult for people to repeat, even if they're a large OEM. So that's one of the things that
+complicates doing a licensing model, and it has not been really one of our strategies moving forward on the baseband.
+In terms of performance relative to some of the others on the tablet side, we feel very good about that actually. If you
+look at our power/performance, we feel good. But then also, the name of the game there is really performance and
+feature set across a wide range of technologies. So you have to look at things across the entire multimedia: camera,
+graphics, modem, connectivity, and CPU. And people tend to compete with us on one or two of those vectors, usually
+just one, but not across all of them. And that's really what's important in the phone space and important in the tablet
+space. And one of the things that we are hopeful for down the road and is consistent with my remarks is that with
+Microsoft putting Office suite on OSs other than Windows, that really opens up I think the tablet device to be more
+than just a media consumption device and it becomes much more of a productivity device. So we're anxiously awaiting
+the results of how the market accepts that. So we tend to think of our position from the smartphone as being the place to
+attack the tablet market versus the other way around when we look at it. So we feel pretty good actually about where
+our product family looks relative to those aspects.
+Operator
+Your next question comes from the line of Blayne Curtis with Barclays. Please go ahead with your question.
+<Q - Blayne Curtis>: Good afternoon, guys, just three quick questions. First on the supply constraints that you
+mentioned, does that clear up in the quarter? And if you could, just provide any color, if possible, on where you're
+seeing the constraints.
+And then you talked about 50% LTE adoption; only seven carriers on carrier aggregation, so I'm assuming those
+volumes are small. Do you see any material uptake this calendar year there? Can you talk about how much that adds in
+terms of additional [ph] fill-in (54:35) content and whether that's accretive to margins?
+And then finally, the comments on Wi-Fi, of those 250 wins, if you can give any color, approximately how many are
+shipping today? Thanks.
+<A - Steven M. Mollenkopf>: Sure. So on supply constraints, I really mentioned it does actually clear up in this
+quarter, and I think we're well ahead of it now. But I really mention it to provide color as to the demand picture in
+China. We are seeing a significant ramp of demand. And the way the China market works, it tends to have a little bit
+less headway or lead time relative to the rest of – some of the other markets. It's also the way that new product launches
+or intense technology launches work. So I mention that not to highlight a problem, but more to highlight the intensity of
+the demand picture in LTE. But that does get cleared up in the quarter, as I said.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 13 of 14
+In terms of carrier aggregation, it really is the key feature set this year. And although I only mentioned seven carriers,
+they tend to be the carriers that push, number one, a lot of volume. They also push the key design wins. So North
+America, Korea, Japan, and Europe are dealing with very complicated spectrum allocation pictures. And they tend to
+be the places that determine where key designs are won or lost. And so the number of carriers are growing, but also the
+significance of those carriers is actually probably more than just one on a scale of one. So we tend to do well. That
+tends to be, like any new modem feature, something that helps our margins, and we have a whole list of them that are
+coming out. So that's really what we've been good at doing.
+On Wi-Fi, a lot of them are shipping. If you think about our Wi-Fi business, it's really an extension of our platform
+business. So if you look at the tiers from the low tiers moving up, we have been steadily increasing the attach rate of
+our Wi-Fi. And in fact, with the exception of a small number of flagship devices, I think we're closing even that
+window as well. So I'm pretty pleased with what's happening with Wi-Fi. I think long term, you're going to see Wi-Fi
+move as a triplet. We're going to have the high-end AP, the high-end modem feature set, and the high-end connectivity
+feature set traveling together as a triplet. And we feel like we're in a unique position to provide that.
+Operator
+Your next question comes from the line of Mark McKechnie with Evercore. Please go ahead with your question. Mark,
+your line is open. Please make sure that your line is not on mute.
+<Q - Mark McKechnie>: Okay, thanks. Here I am. I appreciate it. So first question for Derek, on China, can you
+comment? What percent of royalties do you get from China, just high level?
+<A - Derek K. Aberle>: Sorry, Mark, I'm not sure I fully understood the question. Are you saying what is the royalty
+rate in our deals with the Chinese?
+<Q - Mark McKechnie>: No, no, no, no. What's the mix of your overall revenue base to China, ballpark? I'm just
+curious to get a sense for how much of an impact that had on your outlook.
+<A - Derek K. Aberle>: We haven't really got into a disclosure of a breakdown of revenue by region, I think, for QTL
+specifically. I think you have a decent sense of where the selling prices are in the region and the units and probably can
+try to back-calculate where that ends up, but we haven't provided that specific guidance point in the past.
+Operator
+This ends our allotted time for questions and answers. Mr. Mollenkopf, do you have anything further to add before
+adjourning the call?
+Steven M. Mollenkopf
+I want to thank everybody for being on the call today. And I know it's probably been a little bit different shape of the
+year 2014 and the mix of QTL and QCT. I think we tend to be very enthusiastic about the future. We're doing I think
+the things that we need to do to position the business broadly into what is I think a unique set of opportunities if you
+look at the growth of smartphones in China and LTE in China and really the growth of those same technologies into
+adjacent markets as well. We feel like we're really doing the right things to be well positioned. So I appreciate
+everybody being on the call and we will talk to you again next quarter. Thank you.
+Operator
+Ladies and gentlemen, this concludes today's conference call. You may now disconnect.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-04-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 131,434.71
+Current PX: 77.87
+YTD Change($): +3.62
+YTD Change(%): +4.875
+Bloomberg Estimates - EPS
+Current Quarter: 1.228
+Current Year: 5.137
+Bloomberg Estimates - Sales
+Current Quarter: 6591.719
+Current Year: 26792.971
+Page 14 of 14
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

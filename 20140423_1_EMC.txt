@@ -1,0 +1,854 @@
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 1 of 15
+Q1 2014 Earnings Call
+Company Participants
+• Anthony T. Takazawa
+• Joseph M. Tucci
+• David I. Goulden
+Other Participants
+• Ittai Kidron
+• Andrew J. Nowinski
+• Kathryn Huberty
+• Abhey R. Lamba
+• Ben A. Reitzes
+• Toni M. Sacconaghi
+• Aaron C. Rakers
+• Bill C. Shope
+• Daniel H. Ives
+• Louis R. Miscioscia
+• Maynard J. Um
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning and welcome to the EMC Q1 2014 earnings conference call. All parties are in a listen-only mode until
+the question-and-answer portion of the call. As a reminder, this conference is being recorded. If you have any
+objections, you may disconnect at this time.
+I'd like to introduce your host, Mr. Tony Takazawa, Vice President, Global Investor Relations of EMC.
+Anthony T. Takazawa
+Thank you, good morning. Welcome to EMC's call to discuss our financial results for the first quarter of 2014. Today
+we are joined by EMC Chairman and CEO Joe Tucci, and David Goulden, EMC Information Infrastructure CEO and
+EMC's CFO.
+Joe will begin our discussion with his views of the trends happening in IT, EMC's vision and strategy, and how the
+EMC Federation is managing the transition to the third platform. David will then make a few comments on our results
+and provide a bit more detail on how our various businesses and products are positioning EMC for success in the third
+platform. He will also discuss our outlook for the year 2014. After the prepared remarks, we will then open up the lines
+to take your questions.
+I want you all to be aware that we are providing you with new schedules for Pivotal. We have reclassified some
+non-core revenues out of Pivotal and into the EMC Information Infrastructure business. These non-core revenues
+include the data computing appliance and various Pivotal implementation services that make more sense within EMCii.
+Importantly, this change will give you a better view of the strategic growth within Pivotal. These new schedules will
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 2 of 15
+include five quarters of reclassified data so that you can have a good view of trends here. We have included this
+information in our press release schedules and in the appendix of today's slide presentation.
+We are providing you with our projected financial model for 2014. This model lays out all the key assumptions and
+discrete financial expectations that are the foundation of our outlook this year. We hope that you find this model helpful
+in understanding our assumptions in context and ensuring that these expectations are correctly incorporated into your
+models. This model is available as background in today's slides available for download in the Investor Relations section
+of EMC.com.
+Please note that we will be referring to non-GAAP numbers in today's presentation unless otherwise indicated. The
+reconciliation of our non-GAAP comments to our GAAP results can be found in the disclosure in today's press release,
+supplemental schedules, and the slides that accompany our presentation. In addition, all financial comparisons will be
+on a year-over-year basis unless otherwise indicated.
+As always, the call this morning will contain forward-looking statements. And information concerning factors that
+could cause actual results to differ can be found in EMC's filings with the U.S. Securities and Exchange Commission.
+With that, it is now my pleasure to introduce Joe Tucci, Joe?
+Joseph M. Tucci
+Thank you, Tony. I would also like to welcome everyone to today's call. As always, thank you for your interest in
+EMC.
+For sure, the information technology industry is now going through a major transformation, a secular shift from the
+client server PC era of computing to the mobile cloud, big data, social networking era. This new era is being called the
+third platform of IT. And, as is the case with all big IT transformations, we and all the other industry players will face
+strong disruptive headwinds as well as new opportunities that are absolutely massive, opportunities that if executed
+upon correctly will usher in a decade-plus of solid revenue and earnings growth.
+Additionally and very importantly, as we navigate through this transition, we and the rest of the industry are facing a
+global market which is exhibiting an air of caution and spending, resulting from an array of economic and political
+uncertainties around the world. Collectively, these two factors are creating an environment that is not for the faint of
+heart.
+Against this backdrop, we said EMC's consolidated revenues and non-GAAP EPS would both grow by 6% this year,
+including the impact of AirWatch. As part of this 2014 guidance, we said in our Q4 call that for Q1 we expected our
+top line revenue to be $5.4 billion and produce a non-GAAP EPS of $0.34. Importantly, we also said on our call that
+we would strive to build storage backlog. In other words, our plan called for growing storage bookings considerably
+faster than storage revenue in Q1.
+As you have undoubtedly noticed by now, we exceeded our Q1 revenue forecast by over $80 million and beat our EPS
+plan by $0.01. And as David will cover shortly, while our storage revenue was down 3%, our storage product bookings
+did exhibit positive growth year over year, and thus we did grow backlog.
+Given that we slightly beat our forecast for Q1, given that our Federation model and strategies are resonating very well
+with customers and given that our Q2 second half product cycles will be quite exciting and robust, I would like to take
+this opportunity to reaffirm our 2014 guidance of $24.6 billion in revenue, $1.90 per share of non-GAAP EPS, and for
+$5.8 billion of free cash flow. Again, this updated guidance now includes the impact of VMware's AirWatch
+acquisition, which closed in Q1.
+And as part of our confidence in 2014 and to honor our pledge to return more cash to our valued shareholders, the EMC
+board has unanimously voted to raise our quarterly dividend by 15%, starting on its first anniversary this July. This
+would make our annual dividend $0.46 per share.
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 3 of 15
+Speaking of confidence, as I alluded to earlier, what really gives us confidence in our future is our strategy, our
+Federation model, and by far the most important factor, our people. So before I turn to our strategy, I would like to
+thank my 64,000-plus colleagues across the EMC family, the talented, innovative people of Pivotal, VMware, and
+EMC Information Infrastructure for their hard work and dedication to our customers.
+Our strategy is squarely and clearly aimed at helping customers transition to the third platform of IT and to help them
+transform into a more agile software-defined enterprise. And while our customers are undergoing this IT and business
+transformation, we are also providing them more automation, more flexibility, and lower operating costs for their
+current second platform IT systems, on which they currently run the vast majority of their business.
+In mobile, we are helping customers empower their mobile workforce with enterprise mobile management and mobile
+security. In cloud computing, we are providing customers with a software extraction and automation layer of
+technology across their compute, network, and storage resources. This software-defined data center approach helps
+customers form very efficient private clouds that work seamlessly with a wide choice of compatible public clouds. This
+hybrid cloud software-defined data center approach will yield customers more control over their IT, more flexibility,
+and more choice and far lower costs.
+And to provide customers with an open platform for developing and operating new cloud applications that can be run
+on multiple leading private and public cloud infrastructures and not lock the customer into any particular one, we have
+helped form the Cloud Foundry Foundation. Today, the Cloud Foundry Foundation includes industry leaders such as
+IBM, GE, Intel, HP, SAP, NTT, Accenture, and there are many, many more players who have and will join Cloud
+Foundry and back this important PaaS [Platform-as-a-service] initiative.
+In big data, our customers need to ingest huge amounts of data quickly and reason over it and act on it in real time. This
+big/fast data capability will usher in an era of game-changing new, agile, software-defined business models in virtually
+all industries. The ability for an enterprise to innovate quickly around this phenomenon will likely determine its success
+or failure, perhaps even its life or death.
+In security, the mandate for customers to assure and protect identities is paramount, as is the ability to examine
+information packet flow and content. On top of this, the ability for customers to form information governance rules and
+to measure their compliance with these rules is also critical.
+To maximize our focus, assure strategic alignment, and capture the massive opportunities that will be presented to us in
+this transition to the third IT platform, we at EMC have implemented a unique and powerful Federated operating
+model. In our Federated model, VMware will take the lead in providing an enterprise-class solution for empowering the
+mobile workforce. EMC Information Infrastructure, or EMCii, will partner very closely with VMware and provide
+information storage capabilities that meet the required needs for speed, robustness, and cost for this opportunity.
+In cloud computing, VMware will drive the software-defined data center and the hybrid cloud. EMCii will drive a
+software-defined storage technology named ViPR for block, file, object, and HDFS [Hadoop Distributed File System].
+This technology will work on top of EMC's arrays, competitors' arrays, and vanilla white-box storage. Additionally,
+EMCii with partners will also supply complete converged infrastructure systems of server, storage, and network. And
+very importantly, EMCii will fully partner with VMware and its franchise partners on vCHS and also continue to
+partner closely with other important service providers on their cloud initiatives.
+In our Cloud Foundry and big and fast data initiatives, Pivotal will take the lead, with EMCii helping to build out
+customers' physical HDFS data links and VMware helping provide software-defined data center technology options.
+And of course, in security RSA will provide industry-leading identity protection and verification technology, look for
+anomalies and stop suspect packet flows, while assuring strong governance audit and compliance.
+Additionally, going forward, the EMC Federation is collectively incredibly well positioned to play in new and
+potentially very large markets which are now only in their infancy, exciting markets around network functions
+virtualization, or NFV, and in and around the Internet of Things. To learn more about our technologies, our missions,
+our products, and our opportunities, please join us in person or virtually at EMC World on May 5 through May 8.
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 4 of 15
+In closing, I am incredibly excited by the opportunities the EMC Federated companies have before us and by our
+overall strategic position. We are number one in storage in the second platform. And we are well positioned for and
+growing very rapidly in the third platform. We are number one in virtualization and leading the software-defined data
+center and hybrid cloud charge. We are a clear innovator in the new, rapidly emerging generation of application and
+data fabrics, and we are a leader in several very important growth areas in cyber security.
+Thank you again for being with us today. And now let me turn it over to David Goulden to present more details and
+color on both the EMC Federation and EMCii. David?
+David I. Goulden
+Thanks, Joe. Good morning, everyone, and thank you for joining us today.
+For the first quarter of 2014, EMC reported revenue of $5.5 billion and non-GAAP EPS of $0.35, both slightly ahead of
+where we told you we would be for Q1, including AirWatch. Compared with Q1 a year ago, Pivotal grew 41%,
+VMware grew 16%, and EMC Information Infrastructure declined 3%. The differences in growth rates among and
+within our businesses reflect some of the transitions in the industry as well as changes we made to our own business in
+the first quarter. I'll cover these changes shortly.
+Within our major geographies, revenue growth was flat in North America, up 8% in EMEA, down 2% in APJ, and
+down 11% Latin America. Our BRIC-plus-13 markets were down 1%.
+As we indicated in January, in Q1 we modified our fulfillment practices in our storage business to mitigate extra costs
+from trying to fill high-volume orders at quarter end. The decision to fill these orders more rationally did result in a
+smoother close, although we have more work to do on inventory. As expected, this change in business practices
+resulted in Q1 revenue being lower than is seasonally normal. While the level of unfilled orders increased versus Q1 a
+year ago, they did not grow as much as expected because our Q1 revenues were higher than anticipated. These unfilled
+orders will continue to build in Q2. The good news here is that storage product bookings grew in line with our growth
+expectations for storage for the year.
+Looking at line items driving our earnings growth, consolidated gross margin in Q1 was 62.8%, down slightly
+compared with Q1 of last year. Looking at I-I, margins were down year on year, primarily due to volume. Excluding
+fixed costs, storage product margins would have been up from last year's Q1. Pivotal had a higher mix of professional
+services revenue because more of their software license orders are now being recognized on a subscription basis.
+VMware's gross margin declined from last year's Q1 due to AirWatch as well as ongoing investments, including vCHS.
+Operating expense grew at 8% as we continued to make major investments across EMCii, Pivotal, and VMware in
+high-growth areas such as flash, software-defined data center, software-defined storage, converged infrastructure, big
+data storage and analytics, PaaS, hybrid cloud, and mobile. The increase in OpEx over last year amounted to about
+$0.06 per share.
+Our tax rate for the quarter was slightly higher than last year's Q1 and hurt on the year-on-year EPS compare by a
+penny. We benefited by $0.02 in the quarter versus last year from lower share counts, reduced by the retirement of our
+convertible debt, and our buyback program. As a result, non-GAAP earnings per share in Q1 was $0.35, a penny ahead
+of our expectations.
+We generated $946 million in free cash flow in Q1, 30% higher than non-GAAP net income. Our cash and investments
+at quarter end were $15.3 billion, as we used $1.7 billion in Q1 to retire our convertible debt, invested $1.1 billion with
+the acquisition of AirWatch, repurchased approximately $400 million worth of EMC shares, and returned about $200
+million to shareholders via our quarterly dividend. As Joe said, we are very pleased to announce today that we're
+increasing our quarterly dividend by 15%, starting July 1. At this level and with our committed buyback program, we
+expect to return over $8 billion of cash to our shareholders over the course of 2013, 2014, and 2015.
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 5 of 15
+Our uses of cash reflect the healthy balance of investments in our future with returns to shareholders today. Our
+investments in the business are critical to our long-term success. The priority for customers today is to drive
+competitive advantage by harnessing the forces of mobile, social cloud, and big data, forces that characterize the third
+platform of IT. However, most enterprise workloads reside on second platform infrastructures, so customers are
+carefully evaluating how to leverage these second platform investments as they plan for the third. As a result, they're
+looking for technology partners that can support both.
+The EMC Federation boasts some of the industry's best assets across the third platform drivers of mobility, cloud, and
+big data. And more importantly, we're making progress in each. Pivotal is winning many flagship enterprise customers
+who want to build modern cloud-agnostic applications and reason over their troves of data. VMware is in the early
+innings of a huge opportunity, building out software-defined data centers, improving the end-user computer experience,
+and adding seamless connections to external clouds via vCHS. And EMC Information Infrastructure is partnering with
+enterprise customers for the build-out of hybrid clouds, including new web-scale environments for applications with
+higher service level requirements and partnering with cloud service providers to standard new, value-added cloud
+services.
+The second platform will continue to be a very large market for a long time to come, and there's plenty of opportunity
+for EMC to innovate and gain share. We have an industry-leading position and vast installed base, and customers are
+looking for ways to make their second platform environments more efficient. Technologies like flash, hybrid arrays,
+software-defined storage, and software-defined data center are some of the fastest growing areas of IT as they make the
+second platform more efficient for customers and set them up well to bridge to the third platform.
+As we provide you with a summary of the quarter and an update on how we see the industry and our business evolving,
+we will highlight our progress in five key technology areas: flash, big data, software-defined data center and
+software-defined storage, converged infrastructure, and cloud. These technologies play an important role in
+modernizing the second platform and in building out the third.
+Starting with big data and Pivotal, in its successful first year of operations, Pivotal has laid a solid foundation for
+growth. With differentiated technology in big data analytics and Platform-as-a-service, Pivotal is now focusing
+exclusively on software and strategic services in driving a business model that reflects this. As part of this, in Q1 we
+transferred the data computing appliance and Pivotal implementation services to the EMC Information Infrastructure
+business. This ability to direct resources to where they make most sense within EMC is one of the many benefits of the
+Federation model.
+Looking at the growth of Pivotal on this new basis, Pivotal grew revenue 41% over last year's Q1, while bookings grew
+significantly faster. As we mentioned last quarter, revenue growth does not reflect the growth in demand as Pivotal
+builds out its subscription-based revenue stream. We are very pleased by the fact that Pivotal has captured a marquee or
+the marquee customer in almost every major industry sector. We have landmark booking wins in Q1 with wins at a
+major global telco, a large U.S.-based bank, and a global consumer electronics manufacturer. The combination of
+high-value strategic services and the Pivotal One platform are driving customer adoption and excitement. A global
+media company has engaged with Pivotal Labs to build an application using Pivotal Cloud Foundry to drive the future
+of revenue enablements. And Pivotal Labs is also connecting a healthcare provider to its customers with a secure
+application that leverages the power of big data analytics.
+For the cloud to live up to its full potential, born in the internet application should be able to run seamlessly on any
+cloud, and this is the reality we're enabling with Cloud Foundry. The growth of Cloud Foundry as an industry standard
+continues, as we've been adding many new sponsors who will be announced in the very near future. We are confident
+that laying the foundation for open source software developments and governance for next-generation applications now
+will expand Pivotal's market opportunity exponentially in the future. This is because we believe that open always wins
+in the long run, and we're still in the early stages of building out next-generation applications.
+Turning now to VMware and the software-defined data center and cloud, VMware's industry position in both of these is
+unparalleled. Our offerings in SDDC continued to gain traction, with the mix of license bookings for non-standalone
+vSphere of over 45% in the quarter versus over 30% a year ago. NSX is showing strong momentum with a growing
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 6 of 15
+number of pilots and increased production use. VMware's hybrid cloud business, which includes its VSPP [VMware
+Service Provider Program] program and the vCHS, more than doubled again year on year in Q1 and will continue to
+ramp with the robust roadmap ahead, including vCloud Government Services, which is on track to GA in the second
+half of the year.
+VMware's third strategic objective, end-user computing, is also gaining momentum. In Q1, VMware introduced its new
+desktop-as-a-service offering on vCHS, completed its acquisition of AirWatch, and earlier this month refreshed its VDI
+solution with the launch of Horizon 6, which stands out for its integration with VMware's SDDC components. With a
+stronger portfolio than ever, VMware is on track for another year of solid execution in 2014.
+Now turning to EMC's Information Infrastructure business, as you know, for some time now, the growth rates in the
+storage industry have been pressured by several factors. These include the deployments of efficiency technologies to
+stretch resources within a tighter spending environment as well as the introduction of new infrastructure paradigms for
+next-generation workloads. CIOs are evaluating the best way to move forward, prioritizing third platform technologies
+to drive top line growth and spending on second platform technologies only as much as they have to. We have seen this
+dynamic play out in our own results for the past few quarters as customers study their alternatives. The effective
+customer pause stemming from these cyclical and secular factors was most pronounced in the high end this quarter.
+Several additional factors contributed to the year-on-year high end decline as well, including our new quarter end
+fulfillment practices, a maturing product cycle, and double-digit growth in Q1 of last year. While these additional
+pressures will ease as we move through the year, overall storage growth will be driven by our emerging storage as well
+as by our unified and backup segments and helped by a series of very strong announcements across the portfolio we
+have planned for this year.
+As expected, overall storage revenue declined in the quarter. But excluding VMAX, storage revenue grew 6%. We are
+very pleased that our growth in our emerging storage segment, which includes a number of third platform technologies,
+accelerated to 81%. Storage bookings in emerging storage helped offset slightly lower than expected bookings in the
+high end. Overall, storage for our bookings, which of course includes VMAX, grew at a pace consistent with our
+full-year expectation for our storage revenue growth.
+Our emerging storage business encompasses best-of-breed assets in areas that are thriving with the shift to the third
+platform, including flash with XtremIO, software-defined storage with ViPR, and cloud where service provider needs
+for distributed object storage are met with Atmos, and big data analytics which continues to be the most rapid
+expanding use case for Isilon.
+Let's discuss the five key technologies we mentioned earlier: flash, big data, software-defined data center, converged
+infrastructure, and cloud; and how EMC's Information Infrastructure business is capitalizing upon them, starting with
+flash where we have a very strong position.
+In its first full quarter of general availability, XtremIO continued its very strong momentum. We began shipping our
+20-terabyte XtremIO systems, which are key to increasing XtremIO's use for databases and analytics applications.
+XtremIO won dozens of new customers in the quarter along with business from many repeat customers who would be
+impressed with XtremIO's consistently high and predictable performance in real-world workloads. These workloads are
+typically random in diversity, such as VDI and virtual servers, while constantly high-performance such as very high
+speed transaction processing, requirements for which XtremIO was specifically architected. XtremIO's architecture
+results in performance that simply doesn't change as the system is filled or as the I/O load grows. And we have a very
+aggressive roadmap this year for XtremIO feature expansion and EMC portfolio integration.
+As successful as XtremIO is, the vast majority of flash capacity shipped by EMC is in our hybrid storage arrays. Over
+70% of VMAX and VNX2 systems ship with some flash capacity. And in all, EMC sold more than 17 petabytes of
+flash in Q1 alone, up over 70% over last year and we believe way ahead of anyone else. With this portfolio of offerings
+to accommodate the variety of applications for flash, including our server-side software, EMC is the industry leader in
+enterprise flash storage. We continue to innovate and expand our lead in flash as its role in the data center grows.
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 7 of 15
+The big data phenomenon is what we've been talking about for some time. And this is an area in which Isilon really
+shines. Growth here continues to be a major contributor to our emerging storage growth and Isilon's fastest growing use
+case by far is Hadoop analytics. In Q1 we continued to see the power of the Federation at work. Customers are using
+Isilon to support best-of-breed solutions from Pivotal. They're also using Isilon with other Hadoop distributions. This
+new end market is in addition to Isilon's traditional strongholds in media and entertainment and its growing presence in
+enterprise workloads. With its expanding variety of use cases, Isilon continues its track record of success and gained
+share yet again in Q1.
+An important trend that's driving major transformation is software-defined storage. Within software-defined storage,
+we have a number of assets across the Federation: ViPR, ScaleIO, and vSAN from VMware. ViPR is our flagship
+enterprise-wide software-defined storage platform. ScaleIO and vSAN are software-defined storage products that both
+turn internal server-based storage into virtual network storage, both of which are very different. A full software-defined
+storage platform requires both a control plane and a data plane, and ViPR uniquely provides the separation. The ViPR
+controller is a cloaking layer that abstracts and standardizes the management of EMC and non-EMC storage and
+presents that storage to multiple physical and virtual environments, including VMware. The ViPR data plane provides
+the objects, ACFS, and other software-defined storage data services that customers can run on existing arrays or on
+dense commodity hardware. ViPR is programmable, enabling customers to consistently automate and add features to
+their entire storage environments and to build hyper-scale cloud storage capabilities.
+ScaleIO creates a pool of storage that can scale across thousands of servers and presents itself as an external block array
+which can be managed by the ViPR controller and exposed to any physical or virtual environments, including those
+from VMware, OpenStack, and Microsoft. As we complete our integration plans, ScaleIO can be simply thought of as a
+block data service of ViPR.
+VSAN, introduced in February, creates a pool of storage that is exclusively managed and accessible via VMware ESX.
+VSAN scaled out to the size of a single ESX cluster, 32 nodes, and is very easy for a VMware admin to use.
+ViPR is delivering value to customers today. For example, a large telecom in the UK selected ViPR in Q1 to provide
+the software-defined storage platform for their cloud offering. With ViPR, the customer has fully automated
+software-defined block and object storage across both EMC and non-EMC arrays. In this example, ViPR was just one
+part of a much bigger win as the customer also selected our SRM software for single-paying blasts reporting for all
+their storage, EMC and other, ScaleIO for low-cost high-performance block storage on commodity hardware and
+existing servers, and EMC's consulting and professional service to implement and maintain the environments. At EMC
+World in two weeks, you'll be hearing a lot more about SCS [Site Caching Services] and our very exciting
+developments here.
+Another force that is transforming the industry and our business is converged infrastructure. After exiting 2013 at a
+demand run rate of $1.8 billion, VCE continued its momentum into Q1, with demand for Vblocks once again growing
+at well over 50% and over half of the Vblock unit sales in the quarter going to new customers. Since Vblocks were first
+introduced in 2010, both enterprise and service providers alike have been adopting converged infrastructures in part
+because of the ease and speed with which Vblocks allow customers to stand up private or public clouds.
+A great example is FOX Sports in Australia, who used a recent relocation as an opportunity to build a private cloud on
+Vblocks. With 40 to 50 terabytes of data moving daily and data growing by 3 petabytes per year, FOX Sports wanted
+an infrastructure that would handle the enormous amounts of traditional broadcast media but also new media, which
+required twice as much storage. The on-premises infrastructure-as-a-service solution on Vblocks has provided them
+with IT that was rapid to install, given the short timeframe for the move, and that is easy to maintain.
+Growth of our VSPEX reference architectures built around VNX continued at its rapid pace in Q1, with demand more
+than doubling year-on-year once again. This is due in no small part to our channel partners who have wholeheartedly
+embraced VSPEX and shared in its success. Now two years on the market, our momentum indicates we're building on
+the leadership position we quickly captured in this space. We are very pleased with our growth in converged
+infrastructure and continue to be the clear leader in CI.
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 8 of 15
+The four technologies we discussed so far, flash, big data storage, software-defined storage, and converged
+infrastructure, are enablers of cloud infrastructures, both public and private. The adoption of IT-as-a-service is creating
+a new era of IT agility, efficiency, and choice for clients. And our entire storage portfolio covers needs from well-run
+private and hybrid clouds through the public clouds. EMC's next-generation backup and recovery offerings are a good
+example, allowing customers to build efficient data protection-as-a-service infrastructures.
+Our recent announcements include cloud features such as data isolation with secure multi-tenancy for private or public
+cloud deployments, the ability for multiple data owners to access data protection how and when they want it, as well as
+flexible capacity-based licensing that unlocks the right capabilities when they need it. The strongest driver of growth in
+backup and recovery this quarter was Data Domain, which had another excellent quarter and continued to support our
+leadership position in this market, illustrating its value to customers as they modernize their backup architectures.
+Off-premise cloud providers are making use of our entire storage portfolio to stand up offerings for their customers.
+Our Service Provider Partner program, which exclusively focuses upon supplying information infrastructures for our
+partners' out-of-service offerings has been our fastest-growing vertical every quarter for the past two years. This
+program continued its rapid expansion in Q1 and is now at a $1 billion run rate. This number only represents the
+demand from named top service providers in our SP Partner program.
+In addition, there are several other ways customers are consuming EMC infrastructure in the cloud. When you consider
+the technology we sell, service providers who are not included in the SP Partner program to software companies who
+use our technology to stand up software-as-a-service to customers who buy our technology to deploy in service
+provider data centers, and also our sales to value-added content providers, we estimate our overall 2013 revenue for
+off-prem cloud use cases was well over $2 billion.
+Atmos, which we believe is the leading commercially available object storage system on the market today, has
+contributed to this success, as its geographically distributed object-storage architecture provides an ideal foundation for
+web-scale content depots. We're excited about our future in the cloud, including the growing storage capabilities within
+vCHS, and you can expect to hear more about our plans in just a couple of weeks.
+Our strategy for success in storage over the long term depends heavily on the success of the Federation overall. Many
+of our biggest customers are looking to take full advantage of scale and architectures to leverage the data in their
+domain, and in these instances the complementary technologies of Pivotal and VMware are critical. It is the EMC
+Federation that enabled us to have strategic conversations and brings the critical mass required to succeed in the third
+platform.
+RSA is often a part of these strategic conversations, as security is a primary consideration when customers look to build
+out their next-gen strategies. RSA did well against a strong year-ago compare, up 5% in Q1. Security analytics and
+Archer each grew over 25% again this quarter, and together that represents close to 30% of RSA's revenue.
+Actionable analytics are critical to any agile and responsive IT security strategy. For example, within 36 hours of the
+public disclosure of the Heartbleed bug, our security analytics customers could download new updates which let them
+identify Heartbleed-related vulnerabilities and spot attempts at exploitation. Our leadership position in the security
+space was evidenced by record attendance at the RSA Conference in February of nearly 30,000 attendees; clearly very
+strong interest in security and in the RSA brand.
+Our Information Intelligence group revenue is slightly off where we expected it to be this quarter, although we are
+quickly growing our subscription bookings, which get deferred and earned out over the life of the contracts. For
+example, all of Syncplicity's revenue is subscription, and revenue here was well over twice what it was in Q1 of last
+year. Syncplicity's trial implementations quickly go viral in the enterprise, where it often makes sense to host
+Syncplicity in a private cloud, driving storage demand as utilization gross. A great example is a tech company that
+started off with a 500-seat trial a year ago, bumped it to 6,000 just a few months later, is now at 50,000 seats, and on
+their way to 150,000 seats.
+EMCii's service organization is playing a key role in facilitating cross-Federation deals. A great example of this is an
+engagement in Q1 at a large global telco that implements Pivotal Cloud Foundry for use by the customer's big data
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 9 of 15
+team. The trust that customers have developed over the years with EMC and with our brand is an important asset in
+weighing new partnerships for next-generation build outs.
+We're well positioned within EMCii and fortunate to have such a broad base for stakeholders who are dedicated to our
+success. I'd like to thank the EMC team, our partners, and our customers for their support this past quarter.
+As we look ahead to the rest of the year, our outlook is unchanged. We still expect IT spend growth and storage growth
+to be broadly similar to what they were in 2013. As we said in January, we expect the combination of our higher and
+lower growth offerings in storage to result in 3% storage growth for the full year, which we believe is faster than our
+peers in the space.
+With our strong foothold in second platform environments and some of the most exciting IT assets in the industry
+helping us propel customers to the third platform, we are well positioned to meet our 2014 targets, which now include
+AirWatch: revenue of $24.6 billion, up 6% year on year; non-GAAP operating margins between 24% and 24.5%;
+non-GAAP EPS of $1.90, up 6% year on year; and free cash flow of $5.8 billion.
+EMC is at the threshold of expansive opportunity, and we are very confident we're on the right track with our
+Federation model. We have the right technologies in Pivotal, VMware, storage, and security, and are making progress
+in the key areas of flash, big data, software-defined data center, converged infrastructure, and cloud. And we have the
+right team of people committed to mobilizing the power of the Federation for customers.
+With that, I will turn it to Tony to moderate the Q&A. Tony?
+Anthony T. Takazawa
+Thanks, David. Before we open up the lines for your questions, as usual, we ask you to try and limit yourself to one
+question, including clarifications. This will enable us to take as many questions as possible. We thank you all for your
+cooperation in this matter. Rebecca, can we open up the lines for questions, please?
+Q&A
+Operator
+Thank you. [Operator Instructions] Our first question is Ittai Kidron from Oppenheimer. You may ask your question.
+<Q - Ittai Kidron>: Thanks, first just a clarification and then a question. David, on the annual revision, is that just the
+inclusion of AirWatch, or are there other things in there that are making for the $0.05 correction?
+And then on the high end where you've seen, according to my math, about a 20%-plus type of contraction on a
+year-over-year basis, how recoverable is this? How soon is the product cycle coming here to address this? What is it
+that you think is within your control versus not within your control in your ability to turn this business around?
+<A - David I. Goulden>: All right, great. Thank you, Ittai. Let me handle those in turn. So yes, just to clarify, our
+guidance for the year has not changed. When we guided last in January, we did not include AirWatch in the guidance,
+and the changes to the guidance are only for the addition of AirWatch. There's no other change in our guidance for the
+year. So I know a number of people had a little bit of confusion around that. AirWatch basically has about a $75
+million impact on the top line and a $0.05 impact on the non-GAAP EPS, and that accounts entirely for our change in
+guidance from January.
+Now let me move on to the high end. And yes, as we showed you on the chart, it's down a little over 20% year on year
+this quarter, so let me explain a few things that are going on. So the first thing that's going on is there are a number of
+math factors. And what I mean by math factors is, A), we had a tough compare into Q1 last year, where it grew double
+digits. But importantly, the changes in business practice that we implemented at quarter end and the building of backlog
+impacted our Symmetrix line that made the year-on-year growth look a lot worse than the actual underlying bookings
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 10 of 15
+growth; so the biggest factor, math.
+The second factor you talked to, obviously as you know, over the years the high end is very dependent upon product
+cycle. And at the moment, we have a maturing product cycle. We do have a refresh plan during the year. I'm not going
+to tell you exactly when. I don't want to impact our own business more than we have to, but that's certainly a factor.
+And the third factor, which is the industry backdrop, and I mentioned it my prepared comments, is basically people are
+buying only as much as they have to typically off second platform technologies due to the cyclical factor driven by the
+economy and people stretching the efficiency and life of their platform, and also some secular factors as people just are
+evaluating alternatives generally in the data center. So that third factor will stay with us, but the first two are very much
+within our control. So the first one is the math, which will go away in subsequent quarters, and we do expect to see a
+boost from the product cycle later on during the year.
+One important thing that I'd mention is that we watch our installed base of Symms very carefully because that's one of
+the key metrics that we track. And it's interesting that over the last few quarters, despite a lot of consolidations because
+of what's happening in the Symm market is people who are moving from the old DMX technology or the VMAX1
+technology to VMAX2 will often tend to consolidate multiple frames into one. Despite that consolidation factor, the
+installed base of Symmetrix has remained essentially flat over the last several quarters, which means that to the extent
+that we've been consolidating frames, we've also been selling new frames out into the marketplace, and that's a key
+metric which we track.
+So undoubtedly there's a little bit of churn at the lower end of the base with some of the older systems, but the installed
+base has remained very flat, which is also very important because we're not losing installed footprint, which means that
+the opportunity to rebound and get some growth back into the Symm base is out there for us. So hopefully, that gives
+you a number of factors around Symmetrix that will be helpful.
+<A - Anthony T. Takazawa>: Thanks, Ittai; next question, please.
+Operator
+The next question comes from Andrew Nowinski with Piper Jaffray. Your line is open.
+<Q - Andrew J. Nowinski>: Good morning, congrats on the nice quarter. I just wanted to get a little more color on the
+public cloud market. I know you said you generated in excess of $2 billion in revenue from off-premise deployments,
+but I'm curious if that's extending your sales cycle as customers evaluate the economics of the public cloud. And then
+could you also provide your views on how Cisco's recent public cloud announcement impacts EMC?
+<A - David I. Goulden>: Okay. So, Andrew, let me take the first one, and then Joe may want to comment on the
+second one. So the existence of the public cloud is one of those secular factors I just mentioned in my last answer that's
+just causing customers to look at where they should be deploying their workloads, and really it is all about workloads,
+so there's no one-size-fits-all. Certain workloads are better in a hybrid cloud or private cloud and some workloads may
+be well suited to the public cloud. So to the extent that the cloud is out there and is clearly a growing phenomenon in
+the marketplace, that is one of the secular factors that is just impacting people and creating this general pause in the
+marketplace as people look at second and third platform technologies.
+What we wanted to do in terms of giving you a couple data points is first of all demonstrate to you that we have a fair
+amount of our business actually going into our cloud partner program, our service partner program. But then it's much
+more than that when you look at the totality of what we sell to public cloud. So EMC storage technology is very
+prevalent in public clouds, and you see a significant chunk of our business in 2013 came from that route to market. Joe?
+<A - Joseph M. Tucci>: It may be a little lengthy, but if you look at what's happening here and you go back to what
+was called platform one mainframe and minis, you've got all in one. You've got your server, your compute, your
+network all from one vendor. Yes, you could buy some plug-compatible devices, but the management of the control all
+came from one vendor. In platform two, we went to silos. So it became a storage industry, a networking industry, a
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 11 of 15
+server industry.
+On top of that, there was another industry that was built, the management industry, to help glue it all together. And
+scale-up technology has ruled the day. If you look at platform three, what's happening, it's taken a little bit of both of
+those, but it's basically recombining at least, at the controller layer, the software for the control, storage, network, and
+compute. The management software from many, many different vendors is being replaced with a layer of automation,
+and scale-out technologies rule. So what you see is companies like Cisco, companies like us obviously are trying to
+provide this software-defined layer. And of course, they want to use their own technologies and their clouds.
+But another factor I think to succeed in the future is coopetition. You're going to have to understand that you're going to
+compete in more areas but there's a lot of power in cooperating, and that's what we've done with VCE. So the
+partnership with Cisco is still strong. My guess is as we both go for the software-defined scale-out, reuniting in the way
+of storage, compute, and network, obviously there will be areas of rub. But again, the companies that are going to do
+best are going to understand how to do coopetition. That's where we are and you can see that John [Chambers] is very
+committed to VCE. I'm very committed to VCE. The company is very committed. Both companies are very committed
+to VCE, and it's doing extremely well.
+<A - Anthony T. Takazawa>: Thanks, Andrew; next question, please.
+Operator
+Our next question comes from Katy Huberty with Morgan Stanley. Your line is open.
+<Q - Kathryn Huberty>: Great, thanks. Last night, VMware talked about a $100 million contribution from AirWatch
+this year, and then you obviously beat the first quarter by $75 million ex the AirWatch contribution. So you've got $175
+million of upside over the last three months, but you're only raising the full-year by a little less than half of that. So can
+you talk about has your view around the next three quarters changed over the past three months, or should we just view
+that as conservatism as you continue to rebuild the backlog through the year? Thanks.
+<A - David I. Goulden>: Katy, thank you. Let me address that. So VMware did talk about $100 million of
+contribution from AirWatch. But basically, if you look at what VMware's midpoint of their guidance is in April
+compared to the midpoint of their guidance in January, it's up by $75 million. So basically what happened for AirWatch
+is it didn't change their expectation of AirWatch contribution to license revenues. They did get a little bit more
+expected contribution to services revenues. But the midpoint went up by $75 million and we've reflected that in our
+numbers, so that's why it's $75 million.
+In terms of the Q1 beat, you're right. We actually beat our Q1 outlook by a little over $80 million. About $70 million of
+that was in the storage business. And if you remember back to the early part of my prepared comments, we said the
+reason for that was that basically we didn't build our backlog quite as much as we expected to. And you can think of it
+intellectually in terms of that extra backlog is why we beat and we now have to build our backlog up in Q2. So those
+two things both normalize out, which is why we're increasing our full-year guidance from what we actually said
+initially in January by the extra AirWatch, and the beat this quarter in storage will be basically used to build additional
+backlog in Q2.
+<Q - Kathryn Huberty>: Thank you.
+<A - Anthony T. Takazawa>: Thanks, Katy; next question, please.
+Operator
+Our next question comes from Abhey Lamba with Mizuho Securities. Your line is open.
+<Q - Abhey R. Lamba>: Yes, thanks. EMEA sales were an outperformer in the region. Was there something in the
+market or was it mainly execution? Can you talk about the drivers for outperformance in Europe?
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 12 of 15
+<A - David I. Goulden>: Thank you. We're actually very pleased, obviously, with what happened in Europe,
+particularly grading on the curve. We actually had strength across almost every single market in Europe during the
+quarter. Only one country, and I'm not going to get into calling out single countries by name, but only one country out
+of our whole portfolio didn't show decent growth. So everybody was up around that 8% average. We do think it's good
+execution, so we're just very pleased with how things went in Europe last quarter.
+<A - Anthony T. Takazawa>: Thanks, Abhey; next question, please.
+Operator
+Our next question comes from Ben Reitzes from Barclays.
+<Q - Ben A. Reitzes>: Thanks a lot. Could you talk about in a little bit more detail how you get to the 3% growth in
+storage for the year? You talked about high end, but other products and other things that you're excited about perhaps
+into the second half because those growth rates have to be pretty robust.
+And then if you don't mind, there has been talk in the press around a Project Mystic where perhaps there's an integrated
+appliance with VMware around selling vSAN coming as well in the second half. Is there any commentary around that
+and could that be material? Thanks.
+<A - David I. Goulden>: Ben, Thank you. Let me take that. So let me explain to you how we get to 3% storage growth
+for the year. It's actually relatively simple compared with what we did in Q1 as the baseline. So as we said in my
+comments, our storage product bookings, which is the key indicator for the quarter given all the change in backlog, you
+really have to look at what happens to storage product bookings. Our storage product bookings for Q1 grew very much
+in line with the 3% that we said we'd grow storage out for the full year. So in order to get to the 3% for the year, we just
+need to maintain our bookings growth rate throughout the year.
+Now we're going to have a lot of help going through the year compared to what we had in the portfolio in Q1 because
+we have a very robust set of product announcements throughout the year starting at EMC World in a couple weeks'
+time, but then there will be a couple other major announcement phases during the course of the year as well. So we're
+very excited about what we're going to have adding into the portfolio over the course of the year.
+I don't want to get into specifics around individual projects and code names and things like Mystic. There are all sorts
+of speculation in all sorts of industries about what is going to be announced. I'd rather wait until we get to the
+announcements and talk about them as they occur.
+<Q - Ben A. Reitzes>: Okay, thanks.
+<A - Anthony T. Takazawa>: Thanks, Ben; next question, please.
+Operator
+Our next question comes from Toni Sacconaghi with Sanford Bernstein.
+<Q - Toni M. Sacconaghi>: Yes, thank you. You commented that your bookings growth was lower than you had
+anticipated in your original outlook. And it appears as though perhaps your backlog build was maybe 50% to 75% of
+what you had expected it to be. Can you confirm both those statements? And I guess I'd have the opposite question,
+which is if bookings growth was weaker than you thought for Q1, why are you confident in maintaining your guidance?
+<A - David I. Goulden>: Toni, we did not say that bookings growth was lower than we expected. We said that
+bookings growth was in line with our expectations of revenue growth for the full year, so just to clarify that point.
+On the second point, you're right. Our backlog build was less than expected by roughly the amount that we
+over-achieved revenue during the quarter. Now in the interest of total and full transparency, I'll tell you that internally
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 13 of 15
+we maybe strived to do a little bit higher than the bookings growth rate at the 3% level we talked about for the year, but
+that was our internal expectation as opposed to anything that we would have baked into our guidance. So relative to
+what we guided, our bookings growth rate is absolutely in line with where we expect revenue to come out for the full
+year.
+<Q - Toni M. Sacconaghi>: Thank you.
+<A - Anthony T. Takazawa>: Thank you, Toni; next question, please.
+Operator
+Our next question comes from Aaron Rakers with Stifel. Your line is open.
+<Q - Aaron C. Rakers>: Thanks a lot for taking the question. I want to ask you about free cash flow generation. I
+know that you guys have reiterated the full-year consolidated free cash flow. But when I look at the Q1 results and go
+back over time I think on average you've done between 26% to 28% of full-year free cash flow in Q1. This number
+today would imply about 16%. So in order to hit that $5.8 billion number, are there any underlying assumptions or
+anomalies that you're making to that free cash flow over the next couple of quarters?
+<A - David I. Goulden>: Aaron, yes. Thank you. Let me answer that as well. So a few things happened to free cash
+flow in Q1, by the way, all of which we expected as we put our plan together for the year. So first of all, obviously free
+cash flow is impacted by lower net income, which was obviously driven by changes in our business processes and the
+lower revenue growth. So that was the first factor. The second factor is we had a significant increase in tax payments
+Q1 this year versus Q1 last year; that we expected. The third factor was our CapEx spending was up in the quarter,
+principally because we acquired one of our properties overseas, in one of our international markets. It just made a lot of
+sense from a CapEx point of view. And then the fourth factor was overall timing of payments. So we expected all those
+going into the quarter. We knew that Q1 cash flow was going to be lower than historic average. We understand all the
+differences and we're on track for the $5.8 billion.
+<A - Anthony T. Takazawa>: Thanks, Aaron; next question, please.
+Operator
+Our next question comes from Bill Shope with Goldman Sachs. Your line is open.
+<Q - Bill C. Shope>: Okay, thank you. Have you seen any change yet to the product cost and margin profile as a result
+to the backlog changes, or is that something that acts as a tailwind later this year? And I guess related to that, last
+quarter you mentioned that your bookings margins were higher than the recognized margins. Could you give some
+similar color for what you saw this quarter?
+<A - David I. Goulden>: Yes, absolutely, Bill, so a couple things. If you go back to my prepared comments, we did
+say that if you take out the impact of fixed costs on our margins, because obviously from a storage product point of
+view, revenues were lower. So backing out the impact of fixed costs, our margins on our storage product revenues were
+actually higher than they were in Q1 a year ago, and they reflect two things. One is the impact of the backlog running
+in, and the second would be very comparable year-on-year overall booking margins. So our booking margins were
+basically similar. We got the benefit from the backlog.
+In terms of the changes of business practices on the fixed costs, which is where they impact things mainly, we saw a
+little bit of benefit. But as you see, our inventory levels are still higher than we'd like them to be. We've got a bit more
+work to do on inventory in the factories. And as we have continued to work that down, we expect to get more benefits
+into the fixed costs.
+<Q - Bill C. Shope>: Great, thank you.
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 14 of 15
+<A - Anthony T. Takazawa>: Thanks, Bill; next question, please.
+Operator
+Next we have Daniel Ives with FBR. Your line is open.
+<Q - Daniel H. Ives>: Yes, thanks. Joe, could you just talk? Going into this year after a 1Q versus last year, if you can,
+maybe compare and contrast relative to product cycle what you're hearing from your sales customers. And just overall,
+that would be just an interesting comparison. Thanks.
+<A - Joseph M. Tucci>: I don't know if it's changed a lot. I think obviously we're deeper into the transition. There
+were customers' realizations that there's something big happening here in what we call this third platform of IT. They
+understand that on the back of the Internet of Things and the ability of having telemetry in almost every device and
+they're going to be able to analyze that, collect it, analyze it and act on it in real time, they're going to be able to change
+their business models and their industries are changing. So there's a lot more focus on the future. That's causing caution
+on today because obviously if you know you have to move to the future, you might say what's the minimum I can
+spend on today to give me the maximum amount of horsepower, if you will, to spend on the move to the future? So
+obviously, that's all escalating.
+There are pockets of economic uncertainty out there around the world. Obviously, the emerging markets are a little
+softer and there are a lot of factors affecting those markets. So I think it's pretty much the same, but I guess we're in a
+later inning of the game. Last year we were in the second inning. We're probably in the fourth inning this year, and the
+pace of change is accelerating. We're mincing no words. This is a huge secular shift, one personally I'm excited about
+because I think we have great assets – I believe we have great assets to capitalize on that. And again, as I said in my
+remarks, it's not for the faint of heart. But if you do it right, there's going to be a massive reward and payoff.
+<Q - Daniel H. Ives>: Thanks.
+<A - Anthony T. Takazawa>: Thanks, Daniel; next question, please.
+Operator
+Our next question comes from Lou Miscioscia, CLSA. Thank you.
+<Q - Louis R. Miscioscia>: Okay, great. Maybe you could give us some more color on the emerging markets. It was
+down a bit, but that was still better than others. What are you seeing from a storage perspective, and maybe a specific
+comment on China, if you could?
+<A - David I. Goulden>: Yes, Lou. Our emerging markets were actually impacted a fair amount by currency, also
+impacted a bit by currency. So we were down 1%; we were up 1% in constant currency in BRIC-plus-13. The biggest
+factor for us was actually a really tough year-on-year compare in Brazil. We had a 68% growth rate in Brazil last year.
+We had a 37% growth rate in Latin America because of that. If you take out Brazil, our BRIC-plus-13 end markets
+were up by 7%, and so much stronger that on average. And within APJ, China was actually our strongest market, so we
+feel good about the progress that we're making in China. So that gives you a little bit of color on the puts and takes
+around the emerging markets.
+<A - Anthony T. Takazawa>: Thanks, Lou. We have time for one more question and then we'll have a few
+concluding comments from Joe.
+Operator
+Thank you. Our last question comes from Maynard Um with Wells Fargo.
+Company Name: EMC Corp
+Company Ticker: EMC US
+Date: 2014-04-23
+Event Description: Q1 2014 Earnings Call
+Market Cap: 52,342.36
+Current PX: 25.84
+YTD Change($): +.69
+YTD Change(%): +2.744
+Bloomberg Estimates - EPS
+Current Quarter: 0.438
+Current Year: 1.933
+Bloomberg Estimates - Sales
+Current Quarter: 5878.857
+Current Year: 24526.526
+Page 15 of 15
+<Q - Maynard J. Um>: Hi, thanks. So you talked about the benefits coming from the new product cycles at some
+point post-EMC World and beyond, but also you talked about the secular trends and the pausing in spending as
+customers make IT decisions. So I'm just wondering, relative to your full-year guidance, if you can just talk about the
+balance between those two things. And then also maybe just share some of your views about what you're embedding
+for the full year in terms of macro and geography and maybe U.S. federal spend. Thank you.
+<A - David I. Goulden>: Maynard, let me start with the last one. We are still anticipating the IT spend and storage
+spend will be roughly the same as 2013, so no bounce-back in IT spending. Relative to the assumptions for the year and
+pause, we always find that the pause factor is greater in the first quarter because in addition to any secular or cyclical
+issues around pause, a lot of customers are still trying to get their budgets in place and finalized. That's always a factor
+that goes into the first quarter.
+So the fact that we had storage product bookings growth in the first quarter that was in line with our expectation for
+full-year growth in storage is actually quite reassuring for us because you've got the pause. We've got relative to the
+new products for the year the low point of the product cycle for what we announced this year because obviously
+nothing is announced yet. The first things will be announced in a couple weeks' time at EMC World. So when you go
+through the year and you say the pause should be a little bit less, hopefully, and the product cycle should be stronger,
+then that is actually good sign for us getting to the numbers for the full-year. And those are some of the assumptions
+we're basing our continued confidence around making our full-year number around.
+<A - Anthony T. Takazawa>: Thanks, Maynard. Joe?
+Joseph M. Tucci
+Let me again finish where I started, and I just want to thank you for being with us today. We truly and deeply believe
+that the EMC family of companies has great assets and great people that are really well positioned for the third platform
+IT. Customers trust us in this current client server era. Therefore, we think we're well positioned to help customers on
+that journey as they transition their IT, but more importantly transition their enterprises, their companies into more of a
+software-defined, more flexible, more agile enterprise.
+We have, again, really talented people. These talented people are excited about our future and our opportunities. And
+again, I invite you to join us at EMC World either in person in Las Vegas or virtually. I will do most of it over the web
+so you can get a good feel if you don't want to travel, and you'll learn a little bit more about what we're doing across the
+companies. And so thank you very much for being with us and we'll see you soon.
+Operator
+Thank you all for attending today's conference. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
