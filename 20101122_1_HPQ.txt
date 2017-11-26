@@ -1,0 +1,786 @@
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 1 of 14
+Q4 2010 Earnings Call
+Company Participants
+• Steve Fieler, Vice President of Investor Relations
+• Léo Apotheker, President and Chief Executive Officer
+• Cathie Lesjak, Executive Vice President and Chief Financial Officer
+• Ann Livermore
+• Todd Bradley
+• Vyomesh Joshi
+Other Participants
+• Richard Gardner
+• Benjamin Reitzes
+• Keith Bachman
+• Toni Sacconaghi, Jr.
+• Scott Craig
+• Kathryn Huberty
+• Brian Alexander
+• Aaron Rakers
+• Maynard Um
+• Jayson Noland
+• Brian Marshall
+• William Fearnley
+• Mark Moskowitz
+• Shannon Cross
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the Fourth Quarter 2010 Hewlett-Packard Earnings Conference Call.
+My name is Michael, and I will be your conference moderator for today's call. [Operator Instructions] As a reminder,
+this conference is being recorded for replay purposes.
+I would now like to turn the presentation over to your host for today's call, Mr. Steve Fieler, Vice President of Investor
+Relations. Please proceed.
+Steve Fieler, Vice President of Investor Relations
+Good afternoon. Welcome to our Fourth Quarter Earnings Conference Call with Léo Apotheker, HP's CEO; and Cathie
+Lesjak, HP's Chief Financial Officer. Also joining us are Todd Bradley, Executive Vice President of the Personal
+Systems Group; Ann Livermore, Executive Vice President of the HP Enterprise Business; and Vyomesh Joshi,
+Executive Vice President of the Imaging and Printing Group.
+This call is being webcast. A replay of the webcast will be available shortly after the call for approximately one year.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 2 of 14
+Some information provided during this call may include forward-looking statements that are based on certain
+assumptions and are subject to a number of risks and uncertainties, and actual future results may vary materially. Please
+refer to the risks described in HP's SEC reports, including our most recent Form 10-Q. The financial information
+discussed in connection with this call, including tax-related items, reflects estimates based on information available at
+this time and could differ materially from the amounts ultimately reported in HP's 2010 Form 10-K.
+Earnings, operating margins, and similar items at the company level are sometimes expressed on a non-GAAP basis
+and have been adjusted to exclude certain items, including amortization of purchased intangibles, restructuring charges,
+and acquisition-related charges. The comparable GAAP financial information and a reconciliation of non-GAAP
+amounts to GAAP are included in the tables in the slide presentation accompanying today's earning's release, both of
+which are available on the HP Investor Relations web page at www.hp.com.
+I'll now turn the call over to Léo.
+Léo Apotheker, President and Chief Executive Officer
+Welcome to our Fourth Quarter Earnings Call. And thank you for joining us today.
+Since the last time we spoke, I've been meeting with our customers and partners, as well as thousands of employees
+around the world. I joked on the day of the announcement that I might set a world record for travel, and I think I might
+have actually done it. I've been listening, I've been learning, and I've been immersing myself in the business. And today
+I'm even more excited and honored to be HP's CEO. HP is a company with great momentum, incredibly committed and
+talented people, deep customer relationships, and strong core businesses. I am confident in our future and energized
+about the opportunity that lies ahead.
+When I look at our Q4 results, what's clear is that HP is winning in the market, and we have an impressive ability to
+execute. I am proud of our leadership team and our people for their continued focus during what has been an
+extraordinary time for the company. We finished our fiscal year with $126 billion in revenue. That's a 10%
+year-over-year increase on an incremental $11.5 billion of growth. We grew nearly $1 billion per month last year.
+During the same time, we expanded our non-GAAP operating profit faster than revenue, up 14% year over year, and
+our non-GAAP EPS grew faster at 19% for the full year. This is evidence of our strong operating leverage, our
+leadership positions, our ability to grow in higher-margin categories, and our strong balance sheet.
+We are carrying this momentum into FY11. We have the ability to drive continued growth, and at the same time, I
+remain committed to driving operational efficiencies into the years ahead. I'm confident in our updated FY11 outlook,
+which Cathie will share with you in a moment. Before Cathie provides more financial detail, however, I would like to
+share some of my initial observations about HP, our potential, and also areas where we need to do things better. Now
+bear in mind, these are just my initial thoughts. I've been on the job for just about three weeks now, and I still have a
+good amount of listening and data gathering to do. I intend to provide a more robust perspective in the next few
+months.
+For now, I will share three observations, one about customers, the second about our employees, and the third about our
+technology.
+I've received great feedback from our customers thus far. They are asking for a solution partner who helps address and
+solve their technology and business challenges. They want access to information instantly, no matter where they are,
+and they want choice, not proprietary lock-ins. The great majority are telling me that they want to do more business
+with HP. They like our openness, our price performance, our industry-leading technologies, and our focus on
+manageability and security. Look at ISS's share gains and revenue, which was up 32% year over year. ProCurve
+networking, another good example, was up 50% organically year over year. PSG continues to be the worldwide leader
+in PCs. Our enterprise customers want the ability to work in hybrid environments, both cloud and traditional, and this is
+HP's long-term opportunity and advantage.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 3 of 14
+But I'm also hearing that we need to make it easier for customers to work with HP. We need to have the right coverage
+model that meets their needs, and we must be even more focused on bringing our customers products and solutions that
+deliver the promise of instant on across the consumer, SMB, and enterprise segments.
+I have also enjoyed talking with our employees all over the world. They are very focused on our customers and
+growing our business. They have terrific ideas and also know how to drive operational efficiency. We welcomed new
+employees from 3PAR, ArcSight, Fortify, and Stratavia in the fourth quarter, and I'm excited about these additions, and
+the integrations are starting off well.
+HP employees are a highly competitive group who want to win. They also want to be rewarded for their performance.
+This is consistent across the globe. I believe in the performance-driven culture, and our employees have been
+performing. Therefore, I'm pleased that we will be re-instituting salary increases in FY11 as part of our normal annual
+review process. It's well deserved. Also, we are creating more sustainable, collaborative, and productive workspaces for
+our employees. As part of this ongoing workplace initiative, we'll be revitalizing our global headquarters in Palo Alto,
+and we just completed the sale of our Cupertino campus. And we'll be consolidating HP Cupertino's side into Palo Alto
+over the next three years.
+Now let me switch to technologies. As Cathie described to you at the Securities Analyst Meeting in September, we
+have been increasing our investment in R&D. In the fourth quarter, R&D was up more than revenue growth, both year
+over year and sequentially. We should expect this trend to continue. We have a strong product portfolio with innovation
+across the company. In the fourth quarter, we began shipping our Superdome 2, and our BCS business was up 10%.
+IPG achieved another strong quarter, including share gains in both laser and ink, and we continued to innovate around
+ePrint and web-connected printers. I am very excited about the opportunity available to us to shape the cloud at mobile
+instant-on platforms. And moving forward, I'm excited to spend more time digging into our technology.
+We have so much unique opportunity as a company. And it's not simply about spending more on R&D; rather it's about
+driving more leverage from our existing portfolio and resources to create HP solutions. It is about adding more agility
+to our scale and accelerating our innovation cycles. We are in a unique position to drive better, more consistent, and
+unified user experiences across our portfolio, like with our converged infrastructure offerings. And we can leverage
+even more technologies to create and sell integrated, value-added solutions in addition to our point products. Just as we
+help our customers knock down their technology saddles, we have the opportunity to knock down a few of our own.
+HP has already been moving in this direction, but we can do more. We need to enhance our software IP across the
+company to create more differentiation with our products. This includes strengthening our core Software business
+segment, as well as adding value-added IP and services that cut across all segments.
+As an example, HP has the leading software, a unique IP called MetaVance, and interChange, to administer health
+plans and process claims in healthcare organizations. This is an HP platform that leverages software IP infrastructure,
+along with value-added services, to provide a fully integrated vertical solution. Today, HP processes over a billion
+claims in the U.S. annually, or about one in every four claims. HP now runs Medicaid in 22 states. We're improving
+quality of care and reducing operational costs for our healthcare customers, and ultimately solving both their
+technology and business challenges together.
+In the next weeks and months ahead, I will continue engaging with our customers, partners, employees, senior leaders,
+and investors. While I still have more listening to do, a few things are already very evident to me. HP is a strong
+company, we have a significant opportunity in front of us, and we will continue to lead the marketplace and create
+value for our customers and shareholders.
+I'll now hand the call over to Cathie.
+Cathie Lesjak, Executive Vice President and Chief Financial Officer
+Thanks, Léo.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 4 of 14
+Hewlett-Packard delivered strong, balanced growth in the fourth quarter across all regions and market segments. In Q4
+we added $2.5 billion of new revenue, expanded gross margins and operating margins, and grew earnings per share by
+17% year on year. We continue to execute our strategy, moving up the stack and increasing our mix of higher-margin
+businesses to drive sustainable gross margin improvements. In Q4 we saw strong growth in margin-accretive solutions,
+such as Virtual Connect and BladeSystem Matrix, as well as the contribution from strategic acquisitions such as 3Com.
+These benefits, combined with disciplined pricing and promotion activity, drove gross margin expansion of 110 basis
+points versus the prior year to 24.8%.
+We are investing for growth and augmenting our global sales force to improve the coverage of our $1.6 trillion
+addressable market. Our solution portfolio and technology offerings are strong, and we are encouraged by the initial
+results of our enterprise sales force deployments.
+Looking into the details of the quarter, revenue for the fourth quarter totaled $33.3 billion, up 8% from the prior year or
+9% adjusting for currency. We continued to see momentum in the commercial sector, led by strength in converged
+infrastructure, managed print services, and commercial printers and PCs. We posted solid double-digit revenue growth
+across our hardware businesses, with enterprise, server, and storage growing 25% and ProCurve networking up 50%.
+Commercial printer hardware and PSG commercial revenue grew 22% and 20% respectively. Additionally, in Services,
+our book-to-bill ratio for the trailing 12 months remains comfortably greater than 1.
+Looking at revenue by geography, we had balanced performance, with revenue in the Americas and EMEA increasing
+10% and 6% respectively. In Asia Pacific, revenue grew 8%, with strong growth across the region, partially offset by
+some ongoing HP challenges in the China PC business. Excluding China, Asia Pacific achieved double-digit revenue
+growth.
+Turning to the expense side, operating expenses increased to $4.2 billion as we accelerated investments to drive
+long-term growth, including increases in R&D and expansion of our sales force. We are strengthening R&D both
+through incremental investments and the addition of strong technical talent from the acquisitions that we made in fiscal
+2010.
+Non-GAAP operating income increased 10% year on year to $4 billion, as gross margin expansion more than offset the
+incremental investments in sales and R&D. Fourth quarter non-GAAP net income improved to $3.1 billion, and
+non-GAAP diluted earnings per share increased 17% to $1.33. Looking at the full year, we delivered revenue of $126
+billion, non-GAAP operating income of $14.4 billion or 11.4% of revenue, and grew non-GAAP earnings per share by
+19% to $4.58.
+As Léo mentioned, HP is focused on creating value for our customers. In the enterprise business, this means driving our
+vision by delivering converged infrastructure, modernizing applications, securing the enterprise, and managing
+information. This quarter demonstrates another proof point that HP is winning.
+The Enterprise Storage and Server business produced record revenue of $5.3 billion in the quarter, up 25% year over
+year, with balanced double-digit growth across each business unit and every region. Operating profit for the business
+was up 52% on a year-over-year basis to $730 million with operating margin of 13.9%, an increase of 250 basis points
+from the prior year, demonstrating the operating leverage in the model.
+Our Industry Standard Server business achieved the number one market share position in all three regions with growth
+of 32%, and ESS blades far outpaced the market with 51% growth year-over-year.
+Within the Business Critical Systems group, we successfully launched the Integrity Superdome 2 as the flagship
+solution of the mission-critical converged infrastructure. Superdome 2 delivers best-in-class system-level performance
+and scalability while improving resiliency more than four times over the original Superdome. Business Critical Systems
+revenue grew 10% year over year, with strong growth in the telecom sector in the Americas and more balanced growth
+across verticals in other regions.
+In Storage, revenue increased 14% from the prior year, with balanced growth across our broad portfolio. We are
+investing in the most attractive high-growth segments, and our strategy is working. In Q4 we delivered triple-digit
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 5 of 14
+growth in our scale-out iSCSI products, our Enterprise NAS, and our StoreOnce data deduplication technology. We
+were also very pleased with the traction and buzz around the 3PAR acquisition, which closed on September 27th. We
+are already seeing accelerating interest in these products from our existing and new customers and expect to expand
+3PAR's routes to market by leveraging HP's broad channels and enterprise sales force.
+HP Networking, which is reported in Corporate Investments, continues to build on its worldwide momentum while
+executing ahead of plan. Revenue in HP Networking grew 227%, with ProCurve revenue up 50%. Our TippingPoint
+security portfolio also delivered strong growth. In the Americas region, historically one of the most competitive
+markets, HP ProCurve revenue more than doubled. We see strong demand for our Networking solutions, as our value
+proposition of better performance, improved security, single-pane-of-glass manageability, and lower cost of ownership
+is resonating with our customers. Enterprise customers continue to demonstrate interest in our Networking product
+portfolio, with over 400 of HP's top global accounts enrolling in the HP Networking Proof of Concept program since
+we closed 3Com in April. We had a good quarter in state and local government accounts, as well as new wins with the
+BMW Group and Underwriters Laboratories.
+Services delivered revenue of $9 billion, up slightly from the prior year. Infrastructure technology outsourcing,
+application services, and technology services revenue each grew roughly 1%. Outsourcing saw strength in the U.S.
+public sector with renewals and new Medicaid business. Business process outsourcing revenue was down 11%,
+including a 7% negative impact due to the divestiture of ExcellerateHRO. Our pipeline of enterprise services
+opportunities remains robust, and we are actively investing in the field to build out our addressable market coverage.
+We continue to see healthy HP product pull-through in our enterprise service accounts, and we expect this trend to
+continue. Services segment operating profit in the quarter increased to $1.5 billion or 16.7% of revenue, up 50 basis
+points from the prior year, driven by improvements in service delivery. For the full year, Services delivered $5.6 billion
+in operating profit and expanded operating margins by 160 basis points, even as we continued to invest in sales
+coverage, transformation, and onboarding new deals.
+HP Software revenue was $974 million, up 1% compared with the prior year. Business technology optimization
+revenue increased 4%, and other software revenue declined 6%. We are excited about expanding our security presence
+with the recent acquisitions of Fortify and ArcSight in the quarter. The Software business expanded its operating
+margins by 120 basis points year over year. Operating profit was $247 million or 25.4% of revenue, up from $234
+million or 24.2% of revenue in the prior-year period.
+Turning to Personal Systems. PSG revenue increased 4% from the prior year to $10.3 billion, with total unit shipments
+growing 2%. Segment operating profit totaled $568 million or 5.5% of revenue, up 80 basis points year over year, as
+PSG benefited from favorable component pricing and disciplined pricing and promotion programs. The commercial
+refresh continues. In SMB, we are launching new call centers internationally, building on the success we have seen
+with the call centers in the U.S.
+We maintained our market leadership position in commercial PCs and once again expanded our share in the U.S.
+enterprise segment by winning new accounts from competitors and investing in channel programs. As a result,
+commercial client revenue grew 20%, workstations had another strong quarter with 55% growth, and commercial
+desktop revenue was up 23% year over year. Total notebook revenue was down 3%, reflecting softness in consumer
+notebooks. The consumer weakness was predominantly in low-end notebooks and largely impacted by our performance
+in China. The issues in China are well within HP's control, and we are addressing them. Our current focus is on
+rebuilding our brand and channel relationship so that HP can regain the share lost as a result of latent quality issues this
+past spring.
+We spoke to you at our September analyst meeting about our PC efforts in Brazil. And I am pleased to report that HP
+has taken the number one share revenue position in Brazil.
+Moving on to Palm, which is reported in Corporate Investments. We continue to invest in the Palm assets, including the
+WebOS and a variety of connected mobile devices. This quarter, we released WebOS 2.0 and introduced the Palm Pre
+2 smartphone.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 6 of 14
+Imaging and printing had a strong quarter. Revenue grew 8% to $7 billion, fueled by year-over-year hardware revenue
+growth of 16% and supplies revenue growth of 6%. Segment operating profit totaled $1.2 billion or 17.4% of revenue.
+Total printer unit shipments increased 14%, and we gained market share across all printing categories, with particular
+strength in higher-usage segments. Commercial printer units increased 43%, with multi-function printer units up 83%.
+Business ink and wireless printer units were up 22% and 53% respectively. In addition, we shipped almost 2 million
+web-connected printers in the quarter.
+We continue to innovate across our portfolio. In September, we announced Cloud Print for businesses using HP print
+apps, as well as new software capabilities for enterprise printing. In our hardware portfolio, we introduced new
+products in our inkjet, LaserJet, and Designjet categories. Finally, we are delivering on our growth initiatives in retail
+publishing and managed-print services. During fiscal 2010, we more than doubled our retail publishing installed base
+and delivered very significant growth in managed-print services signings.
+HP Financial Services continues to deliver strong, consistent results. In the fourth quarter, financing revenue grew 11%
+to $809 million. Financing volume increased 11%, and net portfolio assets increased 14%. Operating profit of $73
+million compares to $66 million in the prior-year period. Return on equity for the fiscal year was 15%.
+Now on to the balance sheet and cash flow. Our balance sheet remains strong. We closed the quarter with total gross
+cash of $11 billion. Our fourth quarter cash conversion cycle was 21 days, up 7 days from a year ago, with days sales
+outstanding up 2 days, inventories flat, and days payable down 5 days. Channel inventories in each business are in good
+shape. PSG channel inventory is down from the prior quarter, in line with our exceptions. We generated operating cash
+flow of $3.2 billion and free cash flow of $2.2 billion.
+During the fourth quarter, we returned $4 billion to shareholders through share repurchases and reduced our weighted
+average shares outstanding by 79 million shares sequentially. At the end of the quarter, we had roughly $10.9 billion
+remaining in our current share repurchase authorization. Finally, we paid dividends totaling $181 million. For the full
+year, we generated $11.9 billion in operating cash flow, $8.4 billion in free cash flow, and returned $11 billion to
+shareholders through share repurchases and dividends.
+Before I discuss the outlook, I want to remind you that we expect to pay a cash bonus based on our fiscal 2010
+performance, which will impact Q1 cash flow.
+And now a few comments on our outlook for the first quarter and full year fiscal '11. We expect Q1 fiscal 2011 revenue
+to be $32.8 to $33 billion. For the full year, we now expect revenue of $132 to $133.5 billion. Regarding earnings,
+there are a few variables to keep in mind. First, we will continue to fund investments to drive long-term growth. And
+second, we expect OI&E expense of about $0.05 per share as a result of increased debt and more normalized foreign
+exchange currency losses.
+We expect a tax rate of 22% and a more modest decline in weighted average shares outstanding than we had from Q3
+to Q4. And for the full year, we now expect weighted average diluted share count to be approximately 2.2 bill billion
+shares. Thus, on an operational basis, we expect first quarter earnings per share to be in the range of $1.24 to $1.26. In
+addition, in Q1 we expect to realize a one-time gain of approximately $0.04 per share, primarily related to the
+disposition of real estate. As a result, including this one-time $0.04 gain, we expect total first quarter EPS to be $1.28 to
+$1.30.
+For the full year, we are raising our earnings outlook and now expect non-GAAP EPS of $5.16 to $5.26, including the
+one-time $0.04 gain, representing growth of approximately 13% to 15% for the fiscal year.
+In summary, we feel good about our broad-based performance in Q4. And for the year, we achieved double-digit
+growth in revenue, gross profit, operating profit, and earnings per share, as well as demonstrated the operating leverage
+in the model. As a company, we are executing on the plans we have laid out and delivering on our commitments to
+customers, partners, employees, and investors. We are effectively balancing our growth, investments, and efficiency
+initiatives. We are well positioned in the market, and our full-year outlook reflects our strength and ability to execute.
+With that, we will now open the call for your questions.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 7 of 14
+Q&A
+Operator
+[Operator Instructions] And your first question comes from the line of Richard Gardner of Citigroup. You may
+proceed.
+<Q - Richard Gardner>: Thank you very much. One for Léo and one for Cathie, if I could. Léo, first of all, you
+mentioned in your initial discussion the need to enhance HP's software IP position. And I was just wondering if you
+had any initial thoughts on whether that could be accomplished organically or through a string of pearls or smaller
+acquisitions, or whether HP needs to think about something more transformative there.
+<A - Léo Apotheker, President and Chief Executive Officer>: Well, it's a very interesting question. It's a bit early
+for me to give you a precise answer. What I can say at this moment in time is that we want to strengthen our software
+capabilities, both as a business and also as a cross-HP capability to add more value to the various activities that we
+undertake. We have many options available to us. We can do some of it organically, some of it non-organically. And
+you easily understand that we won't comment on any M&A activity during this call.
+<Q - Richard Gardner>: Okay, thanks. Thank you very much. And then, Cathie, I was hoping you could comment on
+channel inventories, especially on supplies, where it sounds like there were some price increases in Europe at the
+beginning of the quarter. I know typically you give channel partners advance notice of those types of price increases,
+and was wondering if there was any inventory increase in supplies as a result of that? Thank you.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: Thanks, Rich. It must be
+Thanksgiving, since we're giving you an opportunity to answer – or ask a second question. But in terms of channel
+inventories, we actually exited Q4 with channel inventories in really good shape. And so there are no concerns from
+our perspective on the channel inventory position.
+<A - Steve Fieler, Vice President of Investor Relations>: Thanks, Rick. We'll move to the next question.
+Operator
+Your next question comes from the line of Ben Reitzes of Barclays Capital. You may proceed.
+<Q - Benjamin Reitzes>: Yeah, thanks a lot. I wanted to ask Léo and the team about the environment and what they're
+seeing – what you're seeing in general. If you take your guidance, lower share count could arguably account for more
+than half of the raise for the year. And obviously if you put some of the sequentials. So it looks conservative on the
+revenue guide for the first quarter. I was wondering if you view this guidance as conservative? And if you could, talk a
+little bit more about what you're seeing in the marketplace, perhaps from the economic side, particularly in Europe?
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: So Ben, why don't I start with macro
+first, since I think that's kind of underlying a lot of your number of questions in that one. And basically from a macro
+perspective, what we saw was good, balanced performance across our regions. On a constant-currency basis we saw
+Americas grow 9.5%; EMEA was up 11%; and excluding Japan, APJ grew double-digits year on year. We also saw
+accelerated growth in emerging markets, including Brazil, Russia, and India. So that's kind of the macro environment
+that we saw.
+And then in terms of kind of our guidance for revenue – and I'll talk specifically about Q1. I think it's important to note,
+a), for the year, that we raised the midpoint of our revenue guidance and that the guidance now in Q1 shows revenue
+growth of 5% to 6% year on year. And you know us, we tend to be prudent. And this quarter I think there are two good
+reasons for that. The first one is that we did see in Q4 uneven consumer performance across our geographies and our
+product categories. So that's one element of prudence. And then the other element is just that we're calling for a more
+modest increase in revenue in Industry Standard Servers since we had seen significantly better than kind of normal
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 8 of 14
+seasonal growth in Industry Standard Servers for the past few quarters. And so that kind of leads us to, obviously, the
+guidance that we've provided for Q1 revenue.
+<A - Steve Fieler, Vice President of Investor Relations>: Okay. We'll move on to the next question, please.
+Operator
+[Operator Instructions] Your next question comes from the line of Keith Bachman of Bank of Montreal. You may
+proceed.
+<Q - Keith Bachman>: Yes, thank you very much. I wanted to see, Cathie, if you could talk a little bit about the
+context of your FY11 guidance. And specifically, you mentioned a number of times in your prepared remarks that you
+were increasing R&D. And so as we think about it, should we assume that the gross margins stay at or even go up from
+these levels as you increase OpEx? Or if you could just add a little color, how we should be thinking about the FY
+tensions between growing OpEx versus meeting the expectations that you just laid out.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: Yeah, so we talked a lot at the Security
+Analyst Meeting about the fact that our revenue mix and the growth that we see is in kind of more margin-accretive
+categories. And if you add in that the acquisitions that we've done as well, we do think that there is good upward
+pressure on gross margins. And of course you then want to look seasonally at what normally would happen from Q4 to
+Q1 and then note that in Q1 it's typically our lowest gross margin quarter in the year.
+<A - Steve Fieler, Vice President of Investor Relations>: Okay. Next question, please.
+Operator
+Your next question comes from the line of Toni Sacconaghi of Sanford Bernstein. You may proceed.
+<Q - Toni Sacconaghi, Jr.>: Yes, thank you. I know you talked about R&D expense increasing and the rationale
+behind it, but your SG&A expense was up almost 17%, and I think it was the first time in more than seven years OpEx
+actually grew faster than revenue. Are you front-loading OpEx at all? Because my observation is yes you spent more on
+OpEx and you got higher gross margins, but if you look at operating margin year over year, your improvement in Q4
+was actually the lowest it was in any quarter in 2010. So if the notion is we're going to invest to get higher gross
+margins and ultimately that will translate into better operating margins, we actually didn't really see it this quarter. And
+so – sorry for the long-winded backdrop – I guess the question is, how do we think about OpEx growth relative to
+revenue growth? And was there any front-loading this quarter? And if not, how do we rationalize that ostensible
+trade-off you're making?
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: Toni, I'm not quite sure I know what
+you mean by front-loading, but at the Security Analyst Meeting what we said was that both R&D and sales expense
+would grow faster than revenue. And that happened this quarter. And we expect to have that be the case for all of fiscal
+'11. And it is basically being funded by expanding gross margins in our business. And we've talked about where the
+growth is happening and the acquisitions that we have made that are in more margin-accretive categories.
+<A - Léo Apotheker, President and Chief Executive Officer>: Let me maybe add a couple of comments to what
+Cathie has said. And let me be very clear about this. First of all, there's always an opportunity to drive increased
+productivity, in particular the leveraging of scale, and you can rest assured that we will never stop driving more
+efficiency. And there are some very strong programs in place to make that happen, be it in our supply chain or in our
+Services business. And we are all committed and I am in particular committed to continue our focus on operational
+efficiencies.
+However, you need to invest to create sustainable operating networks. You need to do this on a continuing basis as
+well. And it will use some of the savings that we generate from our efficiency initiatives to continue investing into
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 9 of 14
+more R&D and into more sales. And we are also investing a little bit into our own people, all of this in order to ensure
+that we have a strong business going forward.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: And actually I need to correct
+something that I said. I apologize. I misspoke. When I talked about the macro environment and I talked about APJ
+growing double-digits in constant currency, I said inadvertently said excluding Japan, when in fact it's excluding China,
+was what I intended to say. And I apologize.
+<A - Steve Fieler, Vice President of Investor Relations>: Okay. We'll take the next question, please.
+Operator
+Your next question comes from the line of Scott Craig of Bank of America Merrill Lynch. You may proceed.
+<Q - Scott Craig>: Yeah, thanks. Good afternoon. Hey, Cathie, just going back to the operating expenses here for a
+second. You noted in your commentary that there was going to be a cash bonus impact next quarter. Is it possible to
+give us a rough quantification of that? It seems somewhat one-time in nature, so to speak, even though hopefully it'll
+happen every year for you guys. But just wondering how much of an impact it's having next quarter. Thanks.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: So, Scott, this is not – it has not been
+one-time in nature. I think we have paid kind of a comparable bonus each of the last – I want to say four years, but it's
+remotely possible that it was only three. But it's not materially different than what we've been seeing.
+<A - Steve Fieler, Vice President of Investor Relations>: Next question?
+Operator
+Your next question comes from the line of Katy Huberty of Morgan Stanley. You may proceed.
+<Q - Kathryn Huberty>: Thanks. Good afternoon. Cathie, you talked about the reasons for perhaps conservative
+revenue guidance in the first quarter, which is more or less in line with consensus. In that context, as well as some
+comments from peers around the public sector, can you talk about what gave you the confidence to raise the full-year
+2011 revenue forecast versus the more conservative view next quarter?
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: Yes. So we actually basically raised
+the midpoint of the fiscal '11 guidance by basically compressing the range a bit. And the confidence that we have is that
+we are performing very well. You saw it in Q4. And that gives us the confidence that we can make the range that we
+gave at the Security Analyst Meeting by truncating off the bottom end.
+Operator
+Your next question comes from the line of Brian Alexander of Raymond James. You may proceed.
+<Q - Brian Alexander>: Yeah, could you just comment a little bit more on the networking business? Obviously it's a
+big opportunity for you guys. To what extent have you begun using the pricing lever a little bit more to gain share? I
+think you previously said, Cathie, that 3Com's operating margins had drifted higher since you acquired them. But at
+what point do you accelerate the share gains via pricing given the flexibility you have in the model? Thanks.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: Well, I also – I think I also mentioned
+at that conference that not only had 3Com's margins shifted higher, but so had ProCurve's. And that continues to be the
+case. And I'll let Ann kind of comment more on the Networking business.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 10 of 14
+<A - Ann Livermore>: Yeah, in fact we see Networking as a great opportunity to simultaneously grow revenue,
+expand margins, and also capture share. And if you look at the last two quarters, we've been doing all three at once. In
+fact, to your point about the pricing, we've seen both revenue and margin be ahead of plan. And what we're seeing with
+3Com is, as Cathie said, we're certainly pleased with the integration. And for the first two quarters that it's been part of
+HP, the revenue for 3Com has been ahead of plan as well. We look broadly at our networking capability, and Virtual
+Connect was up 50%, and ProCurve was up 50% too.
+And what we're really seeing is we've just got a value proposition that's very attractive to customers. This is a
+marketplace where over the last few years the marketplace was characterized by high prices, proprietary technologies,
+and just flat out not enough competition. And what HP's been able to bring to the market is something that customers
+just flat out really like. They like the fact that it's a new, open architecture. They like the fact that we're using industry
+standards. They like the fact that we have a single management console which makes the cost of operations lower.
+They like the fact that our products have better energy efficiency. And on top of all that, we can price and still make
+great margins at a significantly better value for them. So we're just very pleased at the market acceptance and reaction
+that we're seeing.
+Operator
+Your next question comes from the line of Aaron Rakers of Stifel Nicolaus. You may proceed.
+<Q - Aaron Rakers>: Yeah, thanks. The question goes back to the gross margin line. I think on average over the past
+few years, I think your sequential change in your gross margin going into the January quarter has been down about 30
+to 40 basis points sequentially. Given the guidance you've given, is there anything that, in the model, that changes that
+historical type of sequential trend? And then on top of that, can you help us bridge what was driving the gross margin
+between mix shift this last quarter versus obviously a more favorable component pricing environment? Thank you.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: So I'll take the last question first.
+Basically, the 110 basis point expansion in gross margin was from strength in Networking as well as in the Enterprise
+Server and Storage, so that kind of the mix elements there. And then from a rate perspective, the commodity-pricing
+environment clearly benefited PSG. And then we had good service delivery efficiencies on the Services side. And
+combined, that's really what drove the 110 basis points improvement in gross margins. And I would say in terms of the
+sequential kind of impact on gross margins that we would be looking at, kind of typical, normal seasonality from Q4 to
+Q1, and so I wouldn't model anything significantly differently than that.
+Operator
+Your next question comes from the line of Maynard Um of UBS. You may proceed.
+<Q - Maynard Um>: Hi, thanks. Léo, can you talk about your comment about customers wanting choice and not
+vendor lock-in? And obviously, some of your competitors are driving vertically integrated stack solutions, and certainly
+HP has a lot of those pieces within the stack and can kind of offer this one-stop shopping for customers. But can you
+just maybe expand on your comments there? Because in your comments that you want to own more of the software IP
+and assets, presumably you can pull along more hardware sales and make it more like a vertically integrated stack. But
+it sounds like that's not necessarily what your customers want. Can you just help us understand the nuances there and
+what the plans are on expanding your software IP? Is that a function of R&D as well? Thanks.
+<A - Léo Apotheker, President and Chief Executive Officer>: Well, that's a number of questions poured into one.
+Let me try to give you a bit of a summary answer on all of them. You're right in your analysis, but what you have to
+recognize is that the customers have different needs at different points in their evolution. There's a very exciting thing
+happening out there, which is a trend towards cloud. And customers want to get into the cloud, depending on where
+they're coming from, either in one shot or in gradual steps, they want to use public clouds or private clouds, or they
+even want to stay in the hybrid environment. We are very well positioned to serve all of these demands from the market
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 11 of 14
+at different price points and with various technologies.
+Customers don't want to be locked into a particular type of a standard. So we have been trying over many years to
+provide customers with open systems and industry standards. And the success that you can see in our converged
+infrastructure is driven, among others, because it provides openness to our customers. That doesn't mean that we cannot
+provide integrated solutions that contain both of some of our own IP software because we believe that running it
+together and providing it as a solution and not as distinct and discrete product, will give customers a higher value there.
+And there are many examples that we could share, and actually I would like Ann to give you one or two of them so that
+you get a better idea of what I'm trying to talk about. Ann?
+<A - Ann Livermore>: Yes, similar as Léo was just saying, our strategy is quite different than some of our
+competitors because our strategy is actually to give customers choice. When you look at the integrated appliances that
+are on the market today, that's just one segment of the overall server market, and what you'll see is that HP actually
+offers these integrated appliances, but we offer it with lots of different vendors. We offer these appliances with SAP,
+with Microsoft, with Oracle, and you'll see us offer these integrated tuned appliances with lots of different software
+vendors.
+And our view on this is that when you're like HP and you've got the number one market share in X86 servers – we have
+a 38% unit share – and then you've got the power of the converged infrastructure solutions we have across networking
+and storage and servers and power and cooling, then what you can do is you can help a customer transform their
+datacenter and at the same time doing that without locking them into one proprietary stack. So we're pleased with the
+positioning that we have here in the market.
+Operator
+Your next question comes from the line of Jayson Noland of Robert Baird. You may proceed.
+<Q - Jayson Noland>: Thank you. A question on consumer. I believe consumer represents about 25% of revenue, give
+or take. And I guess what's driving the weakness? Is it macro or something else? And what are your assumptions for
+consumer baked into F11 guidance? Thank you.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: So let me just start by confirming that
+consumer revenue does represent roughly 25% of our total revenue, and obviously we've got a pretty diverse portfolio,
+which serves us well when there are market shifts. We don't get impacted by quite as much as other companies that are
+more concentrated. In Q4 we did see uneven consumer performance across our geographies and our product segments,
+and I think maybe I'll ask Todd to briefly talk about the PC.
+<A - Todd Bradley>: Yeah. Thanks, Cathie. I think the first point is our portfolio, our PC portfolio, is diversified
+across multiple consumer and commercial solutions. And as the global economy slowly recovers, consumers' PC
+purchases have remained somewhat soft while business demand shows growing strength. And I think more companies
+than ever are refreshing out of their older technologies. In the quarter we saw very uneven consumer PC performance
+across our geographies. We saw EMEA with somewhat modest growth on a constant-currency basis. In the U.S.,
+consumers are somewhat cautious about spending and are increasingly deal-driven. And the challenges in Asia Pacific
+were really localized to China, which we're fixing.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: In the China space specifically, we're
+really focused on rebuilding our brand and our channel, as well as obviously our position in the China market. It's
+going to take us a few quarters, but we did see sequential share growth in China for PSG's business in calendar Q3.
+And as Todd mentioned, our desktop and workstation businesses remain strong. So we're confident that we're on the
+right path.
+<A - Todd Bradley>: I think as we look at the holiday, we're very well positioned in the marketplace. We have an
+array of products across a range of price points, and we'll participate in Black Friday with products across our product
+line and price point line.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 12 of 14
+<A - Steve Fieler, Vice President of Investor Relations>: The next question, please.
+Operator
+Your next question comes from the line of Brian Marshall of Gleacher & Company. You may proceed.
+<Q - Brian Marshall>: Great. Thank you. Question for Todd and Ann. If you look at some of the product lines on an
+individual basis were up obviously 50% plus, Blade's up 51%, and ProCurve up 50%. By and large, are these products
+being sold on an individual basis? Or is this more of a – kind of an overall systems approach or solutions approach, if
+you will, converged infrastructure theme, BladeSystem Matrix, et cetera? Thanks.
+<A - Ann Livermore>: If you look at it specifically from the server side, what we see is actually both. We see some
+instances where we have clients who just want to do server refresh, and they can get a great ROI by upgrading to G6 or
+a G7. And the return is just so fast that you'll see just pure upgrades. At the same time, we're doing a lot of work around
+converged infrastructure where we're doing whole modernization of data centers. And in those cases, what you see us
+doing is putting together a solution that might be a combination of server, storage, networking, power and cooling,
+management software, security software, and services associated with it to build out the datacenter, so just a complete
+solution.
+And then we have other instances where we have customers who want to get started with a private cloud. And what
+we've got is a service we call CloudStart. And in CloudStart, what we can do is take our services capability, put
+together a design for a customer on a private cloud, and using our BladeSystem Matrix software, along with our
+services software and our management software, actually get them up and running with a private cloud in 30 days. And
+just as one example, we had a bank in the U.S. that we provided this sort of project for. And what they saw was it used
+to take them months to be able to deploy additional server capacity. And now they can do it in two to three hours, so
+incredible advantages in terms of flexibility and cost. So we're actually seeing this growth come in lots of different
+flavors in terms of the transactions and then broader solution projects.
+<A - Steve Fieler, Vice President of Investor Relations>: The next question, please.
+Operator
+Your next question comes from the line of Bill Fearnley of Janney Capital Markets. You may proceed.
+<Q - William Fearnley>: Yes, thanks. A question either for Cathie or V.J. How should we be thinking about the
+balance between IPG operating margins and unit growth? I mean, operating margin was about 17% in a strong
+hardware quarter; is 17 to 17.5-plus the new operating margin target? Or do you see having to invest more in sales
+staff, promotions, things like ePrint R&D to help keep units strong?
+<A - Vyomesh Joshi>: Well, I think IPG had a strong quarter. And we want to continue to invest into unit growth and
+innovation, because that's really the driving force for IPG continuing to grow revenue. If you look at the unit growth,
+we want to continue to drive units in 2011. As a matter of fact, we'd like to get at least 20% unit growth for LaserJets in
+Q1. As far as the innovation is concerned, the ePrint, we are getting very good reception. As I mentioned in the analysts
+call, 2 million units in Q4 and 5 million units in calendar 2010. We absolutely believe that our innovation that we are
+driving will help us to drive more supplies growth and really establish IPG globally.
+<A - Steve Fieler, Vice President of Investor Relations>: So we have time for two more questions.
+Operator
+Your next question comes from the line of Mark Moskowitz of J.P. Morgan. You may proceed.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 13 of 14
+<Q - Mark Moskowitz>: Yes, thank you. Good afternoon. The question's for the floor; I just had a question as far as
+the Services growth trajectory here. The 4Q performance, was that kind of in line with what you expected when you
+kind of tempered the FY11 forecast related to Services growth? I mean, how should we think about that getting
+jump-started? Is it going to be inorganic or organic growth from here?
+<A - Ann Livermore>: You should think of our Services growth as primarily organic growth. And as you've heard us
+say over the last few quarters, we've been very pleased with the signings. And Cathie also made the comment that our
+trailing 12-month book-to-bill is comfortably above 1. So those are all things that we feel good about. We also feel very
+good about the quality of the pipeline, as well as the size of the pipeline when we look at the deals that are in the
+funnel. We also have inside the Services business, as Léo mentioned at the very beginning, some new innovative
+services that are in the application space and also some of our industry solutions.
+On top of that, we're continuing to make investments in sales coverage, specifically around growing our Services
+business, and that includes sales investments in terms of our basic support services sold along with products. So we feel
+great about all these things. And these are all things though, as you know, build over time. And so that's why we've
+given the guidance that we have.
+One more thing about the Services growth is it's also important to us in terms of our ability to pull together and
+integrate solutions, and then also on top of that the product pull-through. We've seen our product pull-through increase
+50% year over year, and that includes pulling through servers, storage, networking, software, printers, and PCs. And
+since we closed the acquisition of EDF as new deals are solutioned, we have a higher percent of the content that is
+solutioned with HP. So that's not specifically Services growth but it's another valuable aspect of Services helping our
+overall portfolio growth.
+<A - Cathie Lesjak, Executive Vice President and Chief Financial Officer>: So, Mark, let me add that we kind of
+view our Services growth as being roughly in line with the market. And that with the continued cost structure
+improvements that we're making, as well as the investments that Ann talked about in sales coverage and the new
+innovative service offerings, that we would expect to grow at or above the market in the long term.
+<A - Steve Fieler, Vice President of Investor Relations>: Okay, last question, operator.
+Operator
+Your next question comes from the line of Shannon Cross of Cross Research Group. You may proceed.
+<Q - Shannon Cross>: Hi. Léo, I had a question for you. Could you just talk a little bit more on your initial thoughts
+on what you're seeing at HP, sort of on a segment basis? And how HP's fitting in vis-à-vis the competition, how you
+think they're positioned vis-à-vis via cloud? Just if you could sort of talk maybe segment by segment what you've seen
+so far? Granted it's only been three weeks. But sort of how see the company positioned? And then how you expect the
+next year or so to go? Thank you.
+<A - Léo Apotheker, President and Chief Executive Officer>: That's a long question, and I'll try to give you a
+reasonably a short answer.
+HP has many strengths, and it's actually a formidable company. And to name just a few of these strengths, I'd like to
+say the breadth of technology portfolio, our skill, our people, our customer relationships, and our operational
+excellence. I do believe that our greatest strength is actually our opportunity. Given our size and breadth, we have a
+unique position in the market to expand, to do way more business in emerging markets, to become more of a solution
+provider for our customers, and to leverage our own technology better for the entire company.
+And you should bear in mind that as technology trends are morphing, and are morphing rapidly, we at HP have the
+opportunity to grow our leadership position. We are addressing the cloud in many ways. Example, converged
+infrastructure, and we're addressing mobility with WebOS. So all of these are fantastic opportunities that we are
+looking at. Our opportunity is also to integrate more of our IP together, because ultimately customers don't actually
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2010-11-22
+Event Description: Q4 2010 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 14 of 14
+want to buy hardware, software, or services or whatever else. They want us to help them solve their problems in the
+most flexible, secure, and cost-effective way. And we'll use our integrated hardware, software, and services to do just
+that. Customers are also not looking for just for cloud in exactly the same way as we discussed early on, and we'll
+continue to deliver solutions in the hybrid environment whether it's on-premise, through the cloud, or hosted.
+But what customers really want is a partner who can help them to be more productive, meeting their demands
+instantaneously in a 24-by-7 connected world. And you know that that's why we announced our instant-on solution
+piece, which addresses exactly that particular need.
+So to give you the short of it all, and the net of it all, I believe we are extremely well positioned across all of our
+technologies. And we have, if you want, a secret formula – a secret sauce – that we can actually put to our advantage.
+We are the only company in this industry that is equally good on the consumer side and on the enterprise side. And if
+we manage – and we will work very hard to do that – to leverage the rapid innovation cycle that occur the consumer
+side back into the enterprise, make it more robust, more scalable, and then use that to our benefit, I think that will give
+us a immense competitive advantage, which is one of the reasons why we need to spend a little bit more money on
+R&D and one of the reasons why we need to invest into our sales force, so we can bring all of this to bear in a very
+effective way to the market. So net-net, I'm very optimistic.
+Léo Apotheker, President and Chief Executive Officer
+And maybe as we are closing this call, a few remarks just to close this quarter. We are winning in the market, and we
+have a significant opportunity in front of us. We had a very strong Q4. And I'm confident that we'll execute in Q1 and
+the years ahead. I'll continue to be focused on our customers, partners, and employees. And I look forward to meeting
+with investors in the coming months.
+And for now, thank you for your time today. And have a great day. Thank you.
+Operator
+Ladies and gentlemen, this concludes our call for today. Thank you.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

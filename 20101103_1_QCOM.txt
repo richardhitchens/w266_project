@@ -1,0 +1,839 @@
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 1 of 15
+Q4 2010 Earnings Call
+Company Participants
+• Warren Kneeshaw, Vice President, Investor Relations
+• Dr. Paul E. Jacobs, Chairman and Chief Executive Officer
+• Steve Mollenkopf, Executive Vice President and Group President
+• William E. Keitel, Executive Vice President and Chief Financial Officer
+• Derek Aberle
+Other Participants
+• Maynard Um
+• Mike Walkley
+• Brian Modoff
+• Tim Long
+• Tim Luke
+• Simona Jankowski
+• Mark McKechnie
+• Ehud Gelblum
+• James Faucette
+• Tal Liani
+• Rod Hall
+• Stacy Rasgon
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to the Qualcomm fourth quarter fiscal 2010 conference call. At this time, all participants are in a listen-only
+mode. Later, we will conduct a question-and-answer session. [Operator Instructions] As a reminder, this conference is
+being recorded November 3, 2010. The playback number for today's call is 800-642-1687. International callers please
+dial 706-645-9291. The playback reservation number is 17283098.
+I would now like to turn the call over to Warren Kneeshaw, Vice President of Investor Relations. Mr. Kneeshaw, please
+go ahead.
+Warren Kneeshaw, Vice President, Investor Relations
+Thank you and good afternoon, everyone. Today's call will include prepared remarks by Dr. Paul Jacobs, Steve
+Mollenkopf, and Bill Keitel. In addition, Steve Altman, Don Rosenberg, and Derek Aberle will join the
+question-and-answer session. An Internet presentation and audio broadcast accompany this call, and you can access
+them by visiting our website at www.qualcomm.com.
+During this conference call if we use any non-GAAP financial measures as defined by the SEC and Regulation G, you
+can find the required reconciliations to GAAP on our website. I'd also like to direct you to our earnings release which
+was furnished with the SEC today and is available on our website. Our 10-K is in the process of being filed
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 2 of 15
+We may make forward-looking statements relating to our expectations and other future events that may differ
+materially from Qualcomm's actual results. Please review our SEC filings for a detailed presentation of each of our
+businesses and associated risks and other important factors that may cause our actual results to differ from these
+forward-looking statements.
+I'd also like to remind our listeners that our New York Analyst Day will be held on Wednesday, November 17th. The
+analyst meeting will be webcast for those of you unable to attend in person. Consistent with past analyst days, we will
+be providing guidance disclosures at that time that are in addition to those provided in our earnings release and on this
+call.
+And now, it is my pleasure to introduce Qualcomm's Chairman and Chief Executive Officer, Dr. Paul Jacobs.
+Dr. Paul E. Jacobs, Chairman and Chief Executive Officer
+Thank you, Warren, and good afternoon everyone. Let me begin by saying how pleased I am with our performance this
+year as we delivered record earnings per share and record MSM chipset volumes.
+Looking forward, our outlook reflects strong revenue and earnings growth in fiscal 2011. In the coming year, we expect
+continued healthy growth in CDMA-based device shipments, including smartphones and other data centric devices,
+driven by the global adoption of 3G and accelerating consumer demand for wireless data.
+There have been a number of highlights this year. First, QCT [Qualcomm CDMA Technologies] continued to execute.
+Our Snapdragon platform set the competitive benchmark for smartphone silicon, and we've taken a leadership position
+in offering our chipsets for key operating systems such as Android and Windows Phone 7. We offer the industry's
+broadest 3G product roadmap, and we continue to grow share in WCDMA chipsets.
+Our licensing business continues to be well positioned in 3G and multimode 3G/LTE, and now has over 185 licensees.
+Of note, we added another 14 new Chinese licensees in fiscal 2010, bringing the total number of Chinese licensees to
+65. Our licensing program continues to foster innovation and supports the 3G ecosystem that benefits wireless
+consumers worldwide.
+In terms of our display business, we believe mirasol is a disruptive technology for the mobile display industry. The
+combined benefits of extremely low power consumption with sunlight viewability and support for color, video, and
+touch sets it apart from the competition. We've made strong progress in the development of this display technology as
+we brought our first fab online and are targeting limited volume commercial 5.7-inch display devices in the first half of
+2011. I'm very excited about the prospects for this technology, and we'll be providing more details at our upcoming
+Analyst Day.
+In FLO TV, we have decided to change directions, stepping back from the direct-to-consumer business and
+commencing a restructuring plan, under which we expect to exit the current FLO TV service business. We're in
+discussions with a variety of interested parties and are continuing to evaluate other options for this business.
+Possibilities range from a new wholesale model, sale, or joint venture with a third party, and/or sale of the spectrum
+licenses and discontinuance of the operation of the network.
+Overall, we had strong earnings and cash flow performance in fiscal 2010. We returned more than $4 billion to
+shareholders in the form of a $3 billion buyback and over $1 billion in cash dividends. We ended the year well
+positioned with a strong balance sheet, including $18.4 billion in cash and marketable securities.
+Turning to calendar 2011, we expect CDMA and multimode 3G/4G based device shipments to grow to approximately
+765 million units, up 20% year over year, based on the midpoint of our projections. This growth will be driven by the
+global adoption of 3G, the continued demand for wireless data, strength in consumer demand for smartphones, growth
+in new connected device categories, as well as 3G momentum in emerging regions.
+Operators around the world continue to benefit from the growth in wireless data. Japan is approaching a tipping point
+where data ARPU will exceed that of voice. In the United States, AT&T recently reported a 30% year-over-year
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 3 of 15
+growth in data revenues. And Verizon Wireless stated that data comprised over 35% of its revenues this quarter. We
+expect this trend in data growth to continue as operators increasingly experiment with variable pricing plans that
+provide more choice and lower total cost of ownership alternatives to consumers.
+To meet the network needs resulting from this rapid growth in wireless data use, operators continue to make
+investments in the latest air interface technologies. KDDI recently announced its fourth quarter device lineup, and
+seven of the new devices included support for multi-carrier EV-DO, also known as EV-DO Rev. B. According to the
+GSA [Global mobile Suppliers Association], to date there are a total of 81 operators who have launched HSPA+
+networks, of which nine support dual-carrier HSPA+ with data rates of 42 megabits per second. The rate of HSPA+
+network launches is faster today than when HSUPA was first introduced.
+We're also seeing strong momentum behind LTE, led by Verizon's expected launch this quarter. And multimode
+capabilities are essential for devices on these networks, and we're very well positioned to capitalize on these dynamics
+by leveraging our time-to-market advantages and industry leading modem solutions.
+Smartphones remain the strongest area of growth within the wireless segment, driven by continued innovation and
+competition. According to Canalys, the global smartphone shipments exceeded 80 million units this quarter,
+representing a 30% increase quarter over quarter and a 95% increase from the year prior. Looking forward, according
+to Gartner, smartphones as a percentage of the total handset market is expected to grow from approximately 16% in
+2009 to greater than 45% in 2014. These numbers would be even greater if they had included BREW [Binary Runtime
+Environment for Wireless] mobile platform based phones in their numbers.
+An emergence of new connected device categories is also a favorable trend for our business. As volumes in new
+categories like 3G connected e-readers and tablets continue to grow, they represent incremental growth opportunities
+for our businesses, driving adoption of multiple 3G devices per consumer. The growth of 3G in emerging regions is
+another catalyst for our business. China represents a significant opportunity, with a low CDMA penetration rate of
+13%.
+With 3G networks now maturing, operators have turned to increasing the number of devices available on their
+networks. For example, China Telecom reported more than 100 EV-DO handset models in supply by the first half of
+2010. And China Unicom had over 90 3G models available as of June. In India, 3G licenses have been issued, and the
+majority of newly licensed operators plan to launch 3G services before the end of calendar year 2010. And Tata
+DOCOMO became the first private Indian operator to launch 3G. 3G services will be available across all nine of their
+circles this week.
+On the legal front, as we noted in our 10-K, in September the company was notified by the SEC of a formal
+investigation that arose from a whistleblower's allegations made in December 2009 to the Audit Committee of the
+company's Board of Directors and to the SEC. The Audit Committee has conducted a review into the allegations and
+related accounting practice with the assistance of independent counsel and independent forensic accountants. This
+recently concluded review did not identify any errors in the company's financial statements. The company continues to
+cooperate with the SEC's ongoing investigation and looks forward to resolving this matter.
+And separately, I'm pleased to report that the arbitrator in the Panasonic arbitration issued an interim order in the first
+phase of the process denying Panasonic's claims that we've breached our license agreement with them. We are pleased
+with this initial finding as it supports our belief that Panasonic's claims are without merit.
+So to wrap up, we've completed another record year at Qualcomm, and I'd like to thank all our employees and partners
+for their tremendous efforts. With our broad licensing program and industry leading chipset roadmap, we're extremely
+well positioned to take advantage of key 3G growth opportunities in both developed and emerging regions around the
+world. Looking forward, I am pleased with our outlook for improved revenue and earnings growth in fiscal 2011 and
+strong growth in CDMA-based device shipments, driven by the global migration to of 3G and the increasing consumer
+appetite for data centric devices, particularly smartphones.
+That concludes my comments, and I'll now turn the call to Steve Mollenkopf.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 4 of 15
+Steve Mollenkopf, Executive Vice President and Group President
+Thank you, Paul, and good afternoon everyone. Our QCT business delivered strong results this year in a dynamic
+environment, reflecting growing demand across our product portfolio. We had another record quarter, shipping 111
+million MSMs, which was a great follow-on to our record results in the June quarter. We also had a record year,
+shipping just under 400 million MSMs. We are extremely pleased to deliver stronger than expected revenues and
+operating profit for the quarter and for the fiscal year, with operating margins exceeding the top end of our guidance.
+As we anticipated in July, demand for smartphones continued to grow in the September quarter. This is clearly a
+favorable trend for our business. Shipments of integrated 7000 and 8000 series chipsets increased more than 30%
+quarter over quarter and nearly 100% year over year. We also saw continued strong demand for our QSC and data
+centric products. Our broad, industry leading chipset roadmap helped us grow share in WCDMA handsets and in
+mobile application processors this year.
+As forecasted a year ago, we experienced a greater than normal decline in our average revenue per MSM during fiscal
+year 2010. In the first half, this was driven by competitive pricing pressure and an increase in sales of chips for
+entry-level and lower tier feature phones. In the second half, we saw stronger than anticipated demand for our higher
+tier integrated chipsets, evidenced by the fact that we shipped four times the number of Snapdragon chipsets in the
+second half of fiscal 2010 than we did in the first half. This favorable mix trend is likely to continue into fiscal Q1,
+resulting in a sequential increase in average revenue per MSM.
+Growth in demand for smartphone chipsets continues to be an important driver for our business, and we expect to see
+an increase in the variety and tiering of smartphones in the future. We continue to see upside in the high end of the
+market as well as a new wave of opportunity coming in the form of lower cost, high volume 3G phones in both
+developed and developing geographies. The cost advantages of our integrated approach and platform compatibility
+among our products positions us to grow as these trends play out in the marketplace.
+We have a significant and growing number of design wins based on our integrated solutions, encompassing multiple
+price tiers and form factors. On the high end, devices based on the newest members of our Snapdragon family, the 8x55
+and 7x30 chipsets, are expected to be available this holiday season. And devices based on our dual-core products are
+expected to be available in the first half of calendar 2011.
+New lower cost smartphones based on our integrated 7x27 and 7x25 chipsets are also growing, including offerings
+from LG, Motorola, Sony Ericsson, and Huawei. In China alone, we have seen a nearly 30% growth in our customer
+base, with over 40 new designs in this tier. The majority of these are based on the Android operating system.
+Our investments to support multiple operating systems positions us well – as well to gain share from smartphone
+growth. We now have seven different integrated chipsets that support the Android operating system.
+We are also Microsoft's lead chipset partner for the Windows Phone 7 launch. Our Snapdragon chipset powers all nine
+of the new Windows Phone 7 handsets, which are expected to be in stores in Europe, the U.S., and Southeast Asia this
+holiday season.
+On the modem side, our innovation, product quality, and ability to execute continue to set us apart. In emerging
+markets like India and China, our single-chip QSC product family positions us to benefit from the 2G to 3G transition.
+A number of customers, including Lenovo, Yulong, and Longcheer have already launched devices based on our 6240
+and 6270 chipsets. And we have more than 25 designs in progress at multiple customers in China.
+In mature markets, the 3G to 4G transition has started, driven by the increasing demand of smartphones and tablets.
+Our MDM9600 chipset is the first and only multimode LTE solution designed to help our customers seamlessly bridge
+this complex technology transition. We have sampled this product and expect to see the first commercial products
+based off of it this quarter.
+We are very pleased that we finished the 2010 fiscal year on such a strong note and above targets, driven by an increase
+in demand for smartphone chipsets. We expect this trend to continue into the first quarter along with initial demand for
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 5 of 15
+LTE chipsets. In the second half, we expect a change in mix as the demand shifts to more mass-market smartphone
+products and emerging market chipsets, driven by the transition from 2G to 3G. We will continue to price in order to
+gain share in this environment as we did in fiscal 2010. You will also see a major product transition in our portfolio as
+we sample our first 28-nanometer parts and increase the focus on cost optimized smartphone solutions.
+In closing, we believe the QCT team executed well in fiscal 2010 and continued to drive our technology and integration
+leadership position in the industry. We believe we are in a strong competitive position to continue to grow share and to
+lead the transition to smartphones and the growth of mobility in the market.
+That concludes my remarks, and I now turn the call over to Bill Keitel.
+William E. Keitel, Executive Vice President and Chief Financial Officer
+Thank you, Steve, and good afternoon, everyone. We have good results to report to you today. Our fiscal fourth quarter
+revenues were $2.95 billion, up 10% year over year. And non-GAAP earnings per share were $0.68, up 42% year over
+year, both exceeding our prior guidance. QCT had record MSM shipments and favorable product mix, including
+HSUPA and EV-DO integrated chipsets. QCT's operating margin increased to 28%, reflecting strong volume and
+increased mix of higher tier chipsets. QTL revenues were $921 million. The total reported device sales by our licensees
+were approximately $28 billion for activity in the June quarter, towards the high end of our prior guidance; and up 12%
+sequentially, reflecting strength in Europe and North America.
+We estimate that approximately 153 million to 157 million subscriber units were shipped by our licensees in the June
+quarter at an average selling price of approximately $179 to $185.
+As Paul mentioned, we are excited to see the introduction and growing sales of an increasing number of new
+3G-enabled products, including tablets, that will drive incremental growth for QTL and QCT. As we have explained in
+the past, our licensee business for some time has had a voluntary royalty capping program for certain kinds of devices,
+including 3G-enabled laptop computers.
+In order to help drive the broadest possible adoption of 3G connectivity in these new incremental product categories,
+we have decided for now to extend our voluntary royalty capping program to cover some additional types of connected
+devices, such as tablets that meet certain requirements. Depending on the selling prices of these devices, the royalty
+caps may result in a royalty payable on something less than the full selling price of the device.
+QTL's implied royalty rate decreased slightly quarter over quarter, with one of the key drivers being the growth of these
+new connected device sales, notably tablets.
+Operating cash flow was $1.1 billion, and our cash and marketable securities balance was $18.4 billion at the end of the
+quarter, with $6.3 billion onshore and $12.1 billion offshore.
+Our non-GAAP tax rate was approximately 19% in the fiscal fourth quarter.
+Non-GAAP earnings per share for the fourth quarter were up $0.11 over the third quarter. QCT contributed $0.07 on
+higher MSM shipments and favorable product mix, while QTL was better by $0.04, driven by higher shipments of
+CDMA-based devices.
+Improvements in investment income and our tax rate offset the sequential growth in operating expenses, including two
+non-recurring operating expense items.
+Turning to our results for fiscal 2010, revenues were approximately $11 billion, up 6% year over year, and in line with
+the midpoint of our original guidance at the outset of the fiscal year. GAAP earnings for fiscal 2010 were $1.96 per
+share. Non-GAAP operating income was $4.3 billion, up 37% year over year. And non-GAAP earnings were $2.46 per
+share, up 88% year over year.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 6 of 15
+Our business continued to generate strong cash flow. Operating cash flow for fiscal 2010 was more than $4 billion and
+approximately 37% of revenue. QCT's fiscal 2010 operating margin was 25%, above our original guidance at the outset
+of the fiscal year, driven by strong volumes and favorable product mix in the second half of the year, including healthy
+demand for our integrated smartphone chipsets. QTL's operating margin was 83% in fiscal 2010, and we estimate that
+the fiscal 2010 device ASP, as reported by our licensees, was approximately $183 to $189. Our non-GAAP and GAAP
+tax rates were approximately 20% in fiscal 2010.
+We are updating our estimate for calendar 2010 CDMA device shipments. We now expect approximately 625 to 650
+million devices to be shipped. Based on the 638 million midpoint of our estimates, we expect worldwide CDMA device
+shipments to grow approximately 26% year over year. Our prior estimate had been 23% midpoint growth.
+Turning to next year, we estimate calendar 2011 CDMA device shipments will increase approximately 16% to 24%
+over our 2010 midpoint estimate, with unit shipments of approximately 740 million to 790 million units.
+Based on the current business outlook, we anticipate fiscal 2011 non-GAAP revenues to be in the range of
+approximately $12.4 billion to $13 billion, a double-digit increase of 13% to 18% year over year. We expect
+non-GAAP operating income to be in the range of $4.8 billion to $5.3 billion in fiscal 2011, an increase of 11% to 23%
+year over year. We expect fiscal 2011 non-GAAP earnings per share to be in the range of $2.63 to $2.77, an increase of
+7% to 13% year over year.
+We are encouraged by the progress we are making in resolving the two licensing disputes. While the outcomes remain
+uncertain and the disputes may not be resolved in 2011, we have included some benefit in the high end of our 2011
+guidance relating to resolution of the disputes. While the total amount expected to be owed by the licensees is
+significantly greater than what's in our guidance when prior years and total fiscal 2011 disputed royalties are included,
+we are trying to be prudent pending resolution of the matters. Once the disputes are resolved, we will adjust our
+guidance and provide you with an appropriate explanation so that you can understand the impact.
+In the QCT segment, we expect a modest decline in revenue per MSM in fiscal 2011, more consistent with historical
+norms prior to fiscal 2010. We anticipate that non-GAAP R&D and SG&A combined expenses will grow
+approximately 7% year over year and driven primarily by growth in R&D expense.
+We have begun a restructuring plan to exit the current FLO TV service business, and expect to incur restructuring
+charges in fiscal 2011 to reduce ongoing expenses. This in turn better positions us for the strategic alternatives we are
+considering.
+We expect our non-GAAP tax rate in fiscal 2011 to be approximately 21%, and our GAAP tax rate to be approximately
+19%.
+Turning to the first quarter of fiscal 2011, we estimate non-GAAP revenues to be approximately $3 billion to $3.4
+billion, an increase of 14% to 26% year over year. We anticipate that non-GAAP earnings per share will be
+approximately $0.70 to $0.74, an increase of 13% to 19% year over year. This estimate includes shipments of
+approximately 115 million to 119 million MSM chipsets during the December quarter due to continued strong demand
+for smartphones in developed markets.
+We expect total reported device sales of approximately $31.5 billion to $33.5 billion by our licensees for shipments in
+the September quarter. And we expect a favorable foreign exchange benefit of several dollars, mostly due to the euro.
+We believe that the channel inventory level is going through a seasonal build for the holiday season, although early
+indications are that the build may be a bit larger than what we've seen in recent years.
+We expect non-GAAP R&D and SG&A combined expenses to be approximately flat sequentially.
+The Qualcomm Investor Relations website includes an extensive slide presentation on the many data points included on
+this conference call, and we look forward to seeing you in New York for our Analyst Day meeting on November 17
+where we will share additional data points regarding our fiscal 2011 guidance, including regional device shipment
+estimates, average selling prices, and channel inventory. The Analyst Day event will be webcast for those of you
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 7 of 15
+unable to attend.
+That concludes my comments. I will now turn the call back over to Warren.
+Warren Kneeshaw, Vice President, Investor Relations
+Thanks, Bill. I'd like to remind our participants that our goal on this call is to address as many questions as possible
+before we run out of time. I would encourage you, therefore, to limit your questions to one per caller. Operator, we are
+ready for questions.
+Q&A
+Operator
+[Operator Instructions] Maynard Um from UBS, please go ahead with your question.
+<Q - Maynard Um>: Hi, thanks. If you could first just talk about in terms of the tablets and the other devices within
+your guidance, how much or if you can help us size that market in terms of how much is embedded into your guidance
+currently?
+And then secondly, if I just look at your fiscal year guidance, the math seems to imply that your operating margins in
+either your QCT or QTL or both will actually decline pretty significantly going into the last three quarters of the year;
+by my math, maybe below 25% on chipsets. I guess I'm holding 80% margins on my QTL business. Can you just walk
+through the puts and takes of the margin linearity through the rest of the year? Thanks.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: Maynard, this is Bill. On the tablet
+question, we are considering whether we share more data on the market estimate, and connected devices specifically,
+for a couple weeks in New York. It's not currently in the presentation, but it is under consideration for inclusion.
+On the fiscal year operating margin, you are correct. We are expecting some decline after the first quarter. As Steve
+mentioned, we are looking at a channel inventory build here in the December quarter. Typically that begins to run off
+into the March and June quarters, number one. And number two, Steve talked about some product transitions that we
+foresee here in the second half of the year. So we are expecting operating margins to decline a bit in the QCT business.
+Operator
+Mike Walkley from Canaccord, please go ahead with your question.
+<Q - Mike Walkley>: Great, thank you very much. Bill, I was wondering if you could update us on mirasol. You said
+last year at about 180 million to 190 million, if my memory is right, in terms of your guidance for fiscal '10. Can you
+update us what might be included in the guidance for fiscal '11?
+And then just building on Maynard's question in terms of the margins, do we also – I know usually in the March quarter
+you have an ASP reprice or lower prices in your QCT division. Is that how we should think about that division also?
+Thank you.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: Mike, on mirasol, I think we've got
+some good information to share with everybody in a couple weeks on how we see that business developing and
+unfolding. We had said at the outset of this year that we expected about a $190 million loss, operating loss, in that
+business. We did do a little bit better than that, 10 million or 15 million or so better this year. The operating loss within
+this guidance is we're projecting a higher loss for fiscal 2011 and we'll give you some specifics on that in a couple
+weeks.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 8 of 15
+On the average ASP within QCT, yes; as the year unfolds, right now we think we're at an ebb. Developed market
+versus developing, one ebbs and the other one flows a bit as you progress; right now, we think we're very much at an
+ebb on the developed market. Latter part of this year, we are expecting emerging market to do a bit better. So that
+would suggest a bit of a decline in average revenue per MSM.
+<Q - Mike Walkley>: Thank you.
+Operator
+Brian Modoff from Deutsche Bank, please go ahead with your question.
+<Q - Brian Modoff>: Bill, first on the – you talked about the cap in non-handset devices that you'll charge. Is that cap
+lower than what you might collect on a higher end smartphone ASP?
+And then a question for Steve as well; you talked about the mix changing a little in the back half of the year. What are
+you assuming for products like Snapdragon dual-core? Should we be seeing that soon? And then the overall
+smartphone mix, do you expect that to continue to increase as a percent of your overall chip mix in terms of shipments
+in the back half of the year?
+<A - Derek Aberle>: Brian, this is Derek. Let me address your first question. We have had generally across our
+licensing program a capping program for some time. Now what we're rolling out I think in a little more breadth is some
+specific caps to specific devices. And I think as to those, the expectation is that they will be below the caps that would
+apply generally to the broader set of handset devices.
+<Q - Brian Modoff>: You will have actually – smartphones may have – someone selling a smartphone might pay you
+more royalty than someone selling a netbook or a pad device?
+<A - Derek Aberle>: Yes.
+<Q - Brian Modoff>: Okay.
+<A - Steve Mollenkopf, Executive Vice President and Group President>: Brian, this is Steve. On your smartphone
+mix question, I think what you're seeing is in the first quarter, certainly in the quarter that we gave guidance on, we
+continue to see very strong shipments of smartphones; and probably as I mentioned in my script, a little bit more than
+we even thought a couple of quarters ago. In the second half of the year, what we anticipate happening is that the shift
+will be probably a little bit more to the developing market, which would pull that down a little bit in terms of the type
+of device that we ship. It's more a statement I think about how I think strong it is at the moment versus what's
+happening in the second half. Although in the second half, as Bill said, it goes back and forth between developed
+markets versus emerging markets. We saw that happen this year as well.
+In terms of Dual-Core, Dual-Core we have today over 10 different companies designing tablets on our Dual-Core
+solutions, so we feel very good about where they're going. And then also in the handset space, you will see that as well.
+That mix will start to happen through the year.
+The tablet space, at this point it's difficult to say how big that space is going to be. I've seen a lot of different estimates
+on that, and it will be interesting to see what happens. As we've probably talked before, we see that the developed
+world, you see one type of market. In the developing world, I think you'll tend to see a number of different types of
+devices go in there mainly because there is no laptop market for them to have to displace, and we've already seen that
+with some of our product today. You've seen products go into India based off of smartphone chips. So there will be a
+little bit of a mix there. In all cases, I think we're still trying to figure out how big that market is and how it will develop
+throughout the year.
+<Q - Brian Modoff>: Thank you.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 9 of 15
+Operator
+Tim Long from Bank of Montreal, please go ahead with your question.
+<Q - Tim Long>: Thank you; just a question maybe for Derek and Steve on LTE and timing of impact. I think, Steve,
+you talked about getting some chips in the market for the data cards this quarter. Could you talk a little about the
+timeline for phones? I think it's going to be single chip for a while, and when do we get the integrated chip?
+And then, Derek, if you could just talk a little bit about when you think LTE devices will really start hitting the
+numbers and what impact we could expect from them for next year? Thank you.
+<A - Steve Mollenkopf, Executive Vice President and Group President>: This is Steve. I'll handle the first part of
+that. I think you'll see, consistent with what we said before, you'll see first products launch on our chipset here in this
+quarter that we're in today. I think you'll see a big push on more handset and other connected products probably around
+the timing of CES, and those will start to come in at the high end of the portfolio next year and certainly build.
+We are addressing that really in three different ways. The first product is the MDM9600, which is the one I mentioned
+on the script, and that's going into production in customers' devices here this quarter. Then we will augment that with
+both our Single Core and Dual Core chipsets through next year and then follow that up with our integrated
+28-nanometer device that we've talked about. So it's a portfolio of products that will develop through next year
+according to that transition progression.
+<Q - Tim Long>: Okay.
+<A - Derek Aberle>: Let me take the second half of that. As you know, the royalties that are generated are paid in
+arrears, so we do expect some volume of LTE 3G multimode devices in the fiscal year, although given the QTL fiscal
+year to be less than what you would expect in a full calendar year.
+The licensing structure we have in place, as you know, is going to – already applies to multimode 3G/LTE devices, so
+the royalties will continue to get paid on those devices without the need for us to go out and sign new agreements. I
+think we do expect, to some extent, upward movement on the ASP from these devices given that the introduction of
+products with new technologies tend to start out at a little higher price point and work its way down, so it could be a
+positive contribution to the ASP.
+<Q - Tim Long>: Okay, thank you.
+Operator
+Tim Luke from Barclays Capital, please go ahead with your question.
+<Q - Tim Luke>: Thank you very much. Can you hear me okay?
+<A - Warren Kneeshaw, Vice President, Investor Relations>: Yes, we can.
+<Q - Tim Luke>: First just was on your numbers and your guidance, with respect to the question I was wondering,
+Steve, in providing your guidance for a somewhat lower ASP assumption in the back half of next year for the chip
+business, could that partially be reflective of some customers requiring baseband functionality rather than an integrated
+baseband and application offering?
+And also just if you could clarify from Bill's comments, he said that he might expect slightly higher inventory levels to
+be sustained through this calendar quarter, and you spoke about strength of smartphones into the first quarter. How do
+we think about those two elements and what might be underpinning them? Thank you so much.
+<A - Steve Mollenkopf, Executive Vice President and Group President>: Sure. I think what you're seeing is more
+of a – or at least what we've modeled is more of a shift within the integrated portfolio as opposed to a change in
+architecture. As I mentioned in the script, we're seeing very strong traction with our integrated solution. I think more
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 10 of 15
+what is likely to happen – and again, this is a difficult thing to model; you're predicting mix and inventory levels out
+two or three quarters, which I think history is sometimes difficult to do. But our current plan assumes that that shift
+tends to be more toward the mass market smartphone, which is a different type of product than I think we're selling
+right now in a lot of the developed markets. I think it's a good trend for the business because that also tends to pull 2G
+subscribers over to 3G. And I mentioned how in the China market, for example, we're getting a lot of design traction on
+what I would consider to be mass market smartphones. I think more of the growth of that market segment is occurring
+versus any change in architecture.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: Tim, this is Bill. On the channel
+inventory question, as you are well aware, we typically see a little more channel inventory building in this December
+quarter for the holiday season. And then if you look back in past years, the work off of that extra inventory is typically
+in the March quarter, but sometimes it extends into the June quarter.
+We're trying to monitor this very closely this year. We are, as we said, a little suspect that there's a bit more inventory
+build than what we've seen in prior years. And it's just around new devices, new OEMs, and a lot of excitement around
+the whole smartphone market. So we're going to continue to monitor this here over the next couple weeks. And when
+we're in New York, we'll share with you our best view of it as of that point in time as to just how much of an increase is
+it, and is it a – do we think it's a March unwind or a March and June quarter unwind.
+<Q - Tim Luke>: Thank you very much.
+Operator
+Simona Jankowski from Goldman Sachs, please go ahead with your question.
+<Q - Simona Jankowski>: Hi, thank you so much, just a couple of questions on QTL. Bill, I think it said that the
+implied royalty rate decreased quarter on quarter partly because of the capping program in tablets. And I would
+imagine that the capping program impacts ASPs but not the royalty rate, if you can just clarify that.
+And then the second question on QTL was it looks like ASPs actually declined a little bit sequentially. And I
+understand that they are one quarter in arrears, but Q2 was a pretty strong quarter for smartphones, so just curious why
+ASPs were down.
+And just lastly in QTL, the 82% level for operating margins, is that now a normalized level for that business, or are
+there still any excess legal costs or anything else unusual there that's depressing that margin?
+<A - Derek Aberle>: This is Derek. Let me take the first one. So basically yes, there is a sequential decline in the
+implied rate. As Bill mentioned, the devices that are coming through the total reported device sales are coming through
+at a full ASP. And to the extent that there is a royalty cap in place, that means the royalty will actually get paid on
+something less than that complete selling price. So that does have a downward effect on the implied rate that you would
+calculate based on the information that we provide. And as typical, some of the revenue outside of the subscriber base
+tends to be a bit lumpy. Audit recoveries were a bit down this quarter as well; that was contributed to the
+quarter-over-quarter change.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: On the ASP question, ASPs for the
+September quarter we just reported were pretty much in line with what we expected. It was a modest decline from the
+prior quarter. And as we had mentioned last time, that was primarily the euro. There was a few dollars of euro FX
+impact that reduced the average selling price. But on that same point, as I mentioned earlier, we're seeing the opposite
+impact here in this coming December quarter. We're looking for several dollars of positive impact, again, primarily due
+to the euro.
+On the operating margin side for the licensing business, last quarter we reported approximately 80%. This quarter we
+reported 83%. So we did indicate that last quarter, it was an abnormal quarter. And then in terms of the full year,
+obviously we're looking for good earnings growth. And part of that is we are looking to grow revenues and operating
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 11 of 15
+income at a faster rate than our operating expenses, so we are looking to leverage that base of operating expense that
+we already have in place. So on balance, operating margins I think are a positive trend here.
+<Q - Simona Jankowski>: Terrific, thank you very much.
+Operator
+Mark McKechnie with Gleacher & Co., please go ahead with your question.
+<Q - Mark McKechnie>: Great, thank you. So I wanted to ask about the non-recognized licensees. In the past, you
+said it was about $200 million or so. Has that run rate increased? And then would there be included in your guidance a
+catch-up, because it has been a couple years, I guess, since they've paid.
+And then I also had a question on the chip side. In terms of overall content, I think the big driver on the increase
+generally is going to be apps processor and maybe move to 4G, so maybe if Steve can give us an update on one, clarify
+that. And then second is any update on your connectivity solutions in terms of growing your footprint into Wi-Fi,
+Bluetooth, or GPS? Thanks.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: Mark, it's Bill. On your first point
+on the licensees, yes; last year we indicated that we thought there was approximately $200 million of revenues that we
+would not be recognizing, and that $200 million was the estimate as of the end of fiscal '10. We updated that during the
+year, and indicated it was still in that range of approximately $200 million.
+The number, obviously we haven't given you a specific for where it stands. Our estimate as of the end of fiscal '11, it is
+substantially larger, and we thought it best not to do so. The number is quite large and we thought it was better just to
+put in a prudent estimate into our guidance, the high end of our guidance for what we expect to be able to recognize and
+get paid for and get reported on by licensees here in this fiscal year. As we reach resolution, we will update everybody
+on the specifics and give best clarity we can as to what were prior year impacts and what's the current year impact.
+<A - Derek Aberle>: Just to be clear, the number that's in the high end of our guidance does not include an amount for
+prior periods.
+<Q - Mark McKechnie>: Okay, great; and then, Steve, on the chip insight?
+<A - Steve Mollenkopf, Executive Vice President and Group President>: Sure, a very good breakdown I think of
+the components. But in terms of the AP attach rate, that is growing. We talked about in June that we had a 50% or
+nearly 50% sequential growth in our 7k and 8k units. We just reported a 33% sequential from June to September. And
+then looking forward, we expect to see solid double-digit percentage gain on a sequential basis into Q1. So we think
+that that business is going quite well or that business segment is going quite well in terms of growing share.
+4G we think is a positive catalyst for us as well on the ASP side as well as on the content side. As we've talked about
+before, a number of – I think there are two things that differentiate us on the 4G side. One is our multimode capabilities
+or the ability to seamlessly hand over or provide simultaneous services across the 3G and the 4G networks, and then
+also I think just our ability to execute. What we saw through the quarter was a build in terms of demand for our LTE
+chipsets, and I think that's probably a good data point for how we're able to deliver.
+In terms of connectivity, GPS is a big component of our solution today, has been for a long time. It's something that has
+a very high attach rate with our solution across feature phones as well as smartphones. We're now shipping Bluetooth
+in the tens of millions a year type of quantity. And that has started to move into being an integrated solution in our
+smartphone roadmap. That will be followed by our wireless LAN solution, and then we will integrate that as well. So if
+you look at our product portfolio, we started sampling standalone Bluetooth devices several years ago, and now we've
+migrated that into the MSM. We're a little bit delayed relative to the Bluetooth schedule, but the same strategy is
+playing out on wireless LAN, so it's a standalone product today. It will be integrated here in the future, and you'll hear
+more announcements about that in the future.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 12 of 15
+<Q - Mark McKechnie>: Great, thank you.
+Operator
+Ehud Gelblum from Morgan Stanley, please go ahead with your question.
+<Q - Ehud Gelblum>: Hey, guys. Thanks. Actually, I have some clarifications mainly and then, a question at the end
+of more clarifications. Steve, you spoke about your WCDMA chip share going up. Can you give us a sense as to where
+you think that is because it sounds like you do track it in a sense? And you gave great information on the integrated
+7000 and 8000s, how they've grown the last couple quarters. But can you give us again a sense as to roughly what
+percent you are of your total MSMs are now of the 7000 or 8000s, just to get us in the ballpark? Are we at 50% yet?
+Are we still in the 20%, 30%, so something of that sort after the last couple of really strong quarters?
+And then another clarification; Bill, you said that – I just want to make sure I heard that right – that all of, or was it the
+majority of the royalty rate decline this quarter, I calculate around 3.25% versus we were expecting I think a 3.4. Was
+that all due to the caps, or were there other things in there so we can back in? I appreciate it.
+<A - Steve Mollenkopf, Executive Vice President and Group President>: Ehud, this is Steve. I'll talk about the
+share issue. We think we're building share. At least we have – I think we're building share both in the handset market –
+or actually in the handset market and overall. I think in the past, the WCDMA market has been very strong growth in
+data cards. And then really what happened was there has been I think a pretty strong move into smartphones. That
+transition into smartphones I think has been a good transition for us in terms of share. We expect that to continue
+through fiscal year '11. And as I said on my remarks, we will continue to be aggressive in both protecting slots as well
+as trying to grow our share throughout the year. And as things move I think a little bit more to being integrated
+solutions in the smartphone space, we think that the market will move into a direction that plays to our strengths.
+In terms of – I think there was a question thee on 4G as well in terms of share, or no?
+<Q - Ehud Gelblum>: First of all, if you could quantify at all the share you're talking about with WCDMA; and
+second of all, the integrated percent of your total MSMs that are integrated. You've told us that they've grown 15% and
+33% in the last two quarters; but if you can give us a sense quantitatively where – what the penetration rate of your
+total MSMs are right now of integrated, 7000s and 8000s?
+<A - Steve Mollenkopf, Executive Vice President and Group President>: Sure. On both of those, I don't think we've
+provided that type of guidance in the past, but I would say that it's – in terms of the percentage gain, it's a significant
+amount that I think the growth in percentage is actually meaningful as opposed to a law of small numbers type of issue.
+But unfortunately, I don't think that's something that we've broken out in the past.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: Ehud, this is Bill. On the royalty
+rate question, in this quarter we just reported, what we call the implied royalty rate, as compared to the third quarter,
+decreased 10 basis points. And the primary driver of that was just this connected device point that we've made. But
+then as Derek mentioned, a contributor as well was the fact that audit recoveries, which tend to be lumpy, were not as
+much in the fourth fiscal quarter as they were in the third fiscal quarter
+<Q - Ehud Gelblum>: So the majority of the 10 bps was the connected device cap?
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: Yes, the primary driver was
+connected devices.
+<Q - Ehud Gelblum>: I appreciate it. Thank you.
+Operator
+James Faucette from Pacific Crest, please go ahead with your question.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 13 of 15
+<Q - James Faucette>: Thank you very much. I wanted to follow up on the tablets. I think in response to Maynard's
+question at the outset of the Q&A session is that you indicated you were debating whether to give more view into what
+you think the tablet market may look like. I just want to clarify that you do have some tablet built into your guidance
+for fiscal year 2011 first.
+Second, as part of that, several years ago, you gave a statistic of tens of millions of units shipped related to
+connectivity, and I think most of those were laptop cards. How are you thinking about cannibalization of tablets into
+what you've been getting from things like USB dongles, et cetera?
+And then finally, just contribution from TD-SCDMA in the past; there have been some comments you made to try to
+address that market, but if you can just give us a rough outline of how we should be thinking about TD-SCDMA's
+contribution to your fiscal year 2011 outlook and when you might be participating in the chipset business there? Thank
+you.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: James, I'll take the first two. This is
+Bill. On the tablet market, yes; we do have an estimate in our forward guidance. Yes, we do have that in.
+And then how we think of tablets in terms of cannibalization, I think the key point there is that we see tablets going –
+being sold with a higher rate of Wide Area Network connectivity, 3G connectivity, than what we were seeing laptops
+go with that same capability. So we think as time goes on, tablets will substitute to some degree for a laptop. But on
+balance if the connectivity stays at an increment, then it's clearly a positive for Qualcomm.
+<A - Steve Mollenkopf, Executive Vice President and Group President>: I'd say on that, this is Steve. On the
+chipset side, it really looks like an incremental market to us. And the interesting thing about it is I think it's unlike the
+netbook space or the laptop space. The embedded attach rate to a wireless WAN is quite high, which I think helps us in
+two ways. One is it just sets up the market better for us. The other one is I think it encourages a number of the handset
+players to pull up into that space. And so it looks very much like a different market to us from the chipset side, one that
+we can leverage our traditional strengths on.
+<A - Derek Aberle>: And at this point, we don't really see it as cannibalizing the dongle space either. Let me just
+comment on TD-SCDMA. I think it's a similar story. I think as we said in the past, we've got a large number of
+companies that are licensed for TD-SCDMA. We're collecting royalties from those licensees on a nice segment of the
+devices being sold in China. However, we've still got some work to do, and we're continuing to engage in discussions
+and try to enter into agreements with the remaining companies that are supplying in China that are not yet licensed.
+And I think we'll be in a position to put a little more color on that in a couple weeks in New York.
+Operator
+Tal Liani from Bank of America Merrill Lynch, please go ahead with your question.
+<Q - Tal Liani>: Hi. I'd like to look into your guidance. You mentioned that you have some contribution from tablets.
+I'm wondering if you can quantify. Then you also mentioned there is some contribution from the licensing dispute, and
+I'm wondering if you can quantify also this one. And the third point, mirasol this year, as far as I remember it was about
+$0.09 of losses from my calculations. What's embedded in your guidance for next year? Are you assuming a substantial
+increase or not? And then can you also discuss – you said that you may be able to update us soon on mirasol, but can
+you discuss what could be or what's going be the impact of any investment you have there? What could be the impact
+on your guidance? Thanks.
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: Tal, this is Bill. On the
+contribution from tablets, what we said was that it's not on our presentation as it stands right now that we are working
+on for New York. But we are considering, and we're having good discussion on whether we would include a breakout
+estimate of connected devices. So it's under consideration, but we haven't decided that yet. It's a new developing
+market, a little harder to forecast because of that reason, but we are considering that.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 14 of 15
+On the licensing dispute, I'll just recount what I think are the key points that we made here. If you recall, we had said it
+was approximately $200 million as of the end of fiscal '10 that was due to us. Of course one licensee has paid, but we
+haven't recognized it, so revenues and earnings that we haven't recognized. And that number for fiscal '11 is
+substantially greater. And so the decision was rather than put forth what is a pretty large number, we thought it was
+better to just put in a very prudent estimate into our guidance of what we think will be ultimately recognizable in fiscal
+'11. And we did not include in that any prior years, so it would only be a prudent estimate of what is earned and what
+we think we will report and recognize in fiscal '11. From a timing standpoint, we put that in the second half of the year,
+but that's what we've got right now.
+On the mirasol side, the 2010 operating loss was approximately $180 million. We do have on a percentage basis, I
+would say it's a fairly substantial increase year over year, operating loss. I think as you know, we're pretty optimistic
+about the potential there we've got. And we'll get into some more specifics on that on what's in the guidance and where
+we stand in that business in a couple weeks when we see you in New York.
+Operator
+Rod Hall from JPMorgan, please go ahead with your question.
+<Q - Rod Hall>: Yes, thanks for getting me in there, just a couple quick questions. One, I guess given the election
+results last night, I wonder if you guys could talk a little bit about what you think the timing on potential legislation to
+let you repatriate the international cash might look like, and just generally comment on what you think the probabilities
+are there. I'd also be interested in whether you think paying a dividend early or committing to some sort of a dividend
+like Cisco has done would help your chances with the government, so that's one question.
+And then another one, it's just that – I know it's been asked several times, but I want to clarify again. On the royalty
+caps, can you just confirm that you're using a U.S. dollar – an absolute U.S. dollar amount for the cap? And then can
+you also talk about how you're basing that cap? In other words, should we assume that the absolute U.S. dollar royalty
+payment on these devices is being based off of what you're already receiving as an average on existing smartphone
+royalties? Or is it something completely different?
+<A - Dr. Paul E. Jacobs, Chairman and Chief Executive Officer>: This is Paul. Let me take the repatriation
+question since I've been in the middle of having those discussions with members of the administration and Congress
+people. The discussions have really focused around what the use of that money would be, whether it will be used for
+things like building factories in the United States or other forms of CapEx, creating more R&D jobs, so funding
+innovation, or dividends.
+I've been a pretty strong proponent that dividends would be a good use of that money because it would create velocity
+of money in the economy. I would not say I've gotten great traction with that at this point but we're continuing to do
+that. We're doing an economic study about repatriation. When that is completed, we'll be going around Washington
+hopefully demonstrating to people the value of repatriation. So far that hasn't – dividends hasn't been something that
+has been a leverage point. But as I said, we'll continue to try and drive that thought.
+<A - Derek Aberle>: Then on the tablet question, again, I think what we're looking to do is on a specific set of device
+categories where we really want to help drive a higher penetration of 3G, put in place some specifically tailored caps.
+And as I said, they are lower than the traditional caps that apply generally or broadly across the licensing program. But
+at this point, we're not really going to get into any more detail as to exactly how they're calculated or what they are.
+Operator
+Stacy Rasgon from Sanford Bernstein, please go ahead with your question.
+<Q - Stacy Rasgon>: Hi, guys. Thanks for fitting me in, a question on your guidance. I'm still having a little trouble
+reconciling it. So if I take the midpoint of fiscal '11, you've got revenues up 16%. You've got operating profit up about
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2010-11-03
+Event Description: Q4 2010 Earnings Call
+Market Cap: 106,296.44
+Current PX: 61.52
+YTD Change($): -.3396
+YTD Change(%): -.549
+Bloomberg Estimates - EPS
+Current Quarter: 1.031
+Current Year: 4.539
+Bloomberg Estimates - Sales
+Current Quarter: 6045.600
+Current Year: 24499.211
+Page 15 of 15
+the same amount, 17%, with OpEx up only seven or eight, so I can see where the margin compression is coming from
+there. But you've got EPS up only about 10%, so it sounds like there's quite a bit of cost or some other compression
+below the line that's affecting the difference between the operating profit increase and the EPS increase. Can you give
+some feeling for what that actually is?
+<A - William E. Keitel, Executive Vice President and Chief Financial Officer>: It's pretty straightforward. We
+don't include in our guidance any forecast of unrealized capital gains on the investment portfolio. It's just the net of
+what we might realize versus what we might have to impair, we feel is an area that's difficult to forecast. And so we
+just don't include it in our guidance.
+Operator
+And ladies and gentlemen, we have reached the end of the allotted time for questions and answers. Dr. Jacobs, would
+you like to add anything further before closing the call?
+Dr. Paul E. Jacobs, Chairman and Chief Executive Officer
+I think at the beginning of the fiscal year, there were concerns about our competitive chipset position and growth
+opportunities and our licensing business. And I'm really happy with our performance in the year and also with our
+projections going forward. Snapdragon sales really highlight our strength in smartphones.
+Smartphones and also these new device types are drawing a lot of opportunities for the licensing business. And so we're
+just very excited by what we see as a potential going forward. The reason is because the wireless industry really
+continues to innovate at an extremely rapid pace, and it's doing that because it's responding to consumer traction and
+excitement. The amount of focus on this space I think is almost higher than it has ever been, and so I feel like
+Qualcomm's extremely well positioned there. We are going to continue to drive that dynamic as hard as we can with
+new products and new technologies in 2011 and beyond.
+So we thank you very much for your support and thanks for being on the call today. We look forward to seeing you in
+New York.
+Operator
+Ladies and gentlemen, this does conclude today's conference call. We'd like to thank you for your participation and you
+may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

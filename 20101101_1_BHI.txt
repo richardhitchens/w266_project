@@ -1,0 +1,917 @@
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 1 of 17
+Q3 2010 Earnings Call
+Company Participants
+• Gary R. Flaharty, Investor Relations
+• Peter A. Ragauss, Senior Vice President and Chief Financial Officer
+• Martin S. Craighead, President and Chief Operating Officer
+• Chad C. Deaton, Chairman and Chief Executive Officer
+Other Participants
+• Bill Herbert
+• Joe Hill
+• James Crandell
+• Kurt Hallead
+• Scott Gruber
+• J. David Anderson
+• Geoff Kieburtz
+• Robin Shoemaker
+• Marshall Adkins
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning. My name is Dennis and I will be your conference facilitator. At this time I would like to welcome
+everyone to the Baker Hughes Third Quarter 2010 Earnings Conference Call. [Operator Instructions] Thank you. I will
+now turn the conference over to Mr. Gary Flaharty, Vice President of Investor Relations. Sir, you may proceed.
+Gary R. Flaharty, Investor Relations
+All right. Thank you, Dennis, and good morning, everyone. Welcome to the Baker Hughes Third Quarter 2010
+Earnings Conference Call. Here with me this morning are Chad Deaton, Baker Hughes' Chief Executive Officer and
+Chairman; Martin Craighead, President and Chief Operating Officer; and Peter Ragauss, Baker Hughes' Senior Vice
+President and Chief Financial Officer. Following management's comments this morning we'll open the lines for your
+questions.
+A reconciliation of operating profits and non-GAAP measures to GAAP results for historic periods can be found on our
+Web site at www.bakerhughes.com in the Investor Relations section under Financial Information. In addition this
+morning we're also including a slide presentation with our webcast. The slides are available on the Investor Relations
+homepage at bakerhughes.com.
+Finally I caution you that any company outlooks discussed this morning are subject to various risk factors. We'll try to
+highlight the risk factors as we make these forward-looking statements. However the format of the call prevents a more
+thorough discussion of these risk factors. For a complete and full discussion of these risk factors please refer to our
+annual report 10-K, 10-Q and in particular the forward-looking disclosure in this morning's news release. With that I'll
+conclude our discussion of the administrative details and turn the call over to Peter Ragauss. Peter?
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 2 of 17
+Peter A. Ragauss, Senior Vice President and Chief Financial Officer
+Thanks, Gary. Good morning. This morning we reported net income on a GAAP basis of $255 million or $0.59 per
+share. Earnings per share were up $0.41 compared to a year ago and up $0.36 from last quarter. Revenue was $4.1
+billion, up 83% or almost 1.9 billion compared to a year ago and up 21% or $700 million sequentially. And EBITDA
+per share was $1.64, which was up $0.71 or 76% compared to a year ago and up $0.26 or 19% from last quarter.
+And there are a couple of adjustments that should be made to compare our results to our previous guidance. First our
+tax rate before acquisition-related costs was 32.5%. Let me just point something out, that we had $12 million in tax
+benefits from acquisition-related costs in addition to a $12 million pre-tax charge, so the net result was about 0 on the
+acquisition cost on a per-share basis.
+The overall decrease in the tax rate is primarily due to the actions we took in the third quarter to repatriate certain
+foreign earnings, ultimately resulting in a reduction of current and future U.S. taxes. The regular tax rate in the middle
+of our 37 to 38% guidance -- he favorable impact of the lower actual tax rate was approximately $0.04 per share.
+Second, we've revised our estimate for the amortization associated with the BJ Services acquisition. This calculation
+will not be final until the end of the year, however our best estimate is that the incremental amortization charge will
+now be $120 million per year, approximately $30 million per quarter. As a result the amortization expense associated
+with the step-up was $9 million lower than our guidance for the third quarter, approximately $0.01 per share. So from
+the GAAP EPS of $0.59, subtract $0.04 for the impact of the lower tax rate, subtract $0.01 for the impact of lower
+quarterly amortization charges. That brings you to $0.54.
+So helping your understanding of the moving pieces, I'll bridge Q3 '09 EPS to Q3 '10 EPS. GAAP EPS for Q2 '09 was
+$0.18 per share. Add $0.03 for lower corporate costs, subtract $0.02 for higher net interest costs, subtract $0.05 for the
+impact of the higher share count, offset partially by the effect of the lower effective tax rate, subtract $0.03 for the
+impact of the incremental amortization costs, and last to get to EPS this quarter at $0.48 from operations including the
+acquisition of BJ Services to arrive at $0.59 per share.
+Bridging the sequential quarters, GAAP EPS for Q2 2010 was $0.23 per share. Add back second quarter
+acquisition-related costs of $56 million before tax, $51 million after tax, or $0.13 per share. The impact of the lower tax
+rate offset partially by the higher average share count added about $0.04 per share. Subtract $0.01 per share for higher
+net interest expense. Last, to get to EPS this quarter, add about $0.20 per share from operations, including the impact of
+having BJ Services on board for the entire quarter, to arrive at a $0.59 per share.
+In table 3 of our earnings release, we provide financial information on a pro-forma combined basis with revenue and
+profit before tax of BJ Services included into the prior period's results to allow meaningful comparisons between
+quarters. Because of the reduction in amortization, this morning we also provided a revision for the pro forma
+supplemental information for Q1 2008 through Q3 2010 by quarter. This schedule's available on our Web site.
+From this point on in the conference call, any comments on revenue, operating profit and operating profit margin refer
+explicitly to table 3.
+Revenue in North America was $2 billion, up 71% compared to a year ago and up 16% sequentially. North America
+operating profits were $340 million, up $356 million year-over-year and up 52% sequentially. International revenue
+was 1.8 billion, up 6% compared to a year ago and up 1% compared to the previous quarter. International operating
+profit margin was 5%, compared to 11% a year ago and 7% last quarter. Our Industrial and Other segment revenue was
+278 million, up 10% compared to last year and up 13% compared to last quarter. Operating profit was $36 million, up
+to 29% compared to a year ago and up 80% sequentially.
+Turning to the balance sheet, quarter-end our total debt was $3.8 billion. During the quarter we sold $1.5 billion of
+5.125% senior notes, due 2040. We used a portion of the net proceeds to pay back approximately $500 million of our
+outstanding commercial paper, and we intend to repay $250 million of BJ Services's outstanding 5.75% bonds in June
+2011. The company will use the remaining net proceeds for general corporate purposes.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 3 of 17
+Our capital expenditures in the third quarter were $466 million, which is in line with our earlier guidance for 2010
+annual capital expenditures. At the end of the quarter, we had $1.9 billion of cash and short-term investments. We also
+had $1.7 billion available under our committed credit facilities. Our debt-to-capital ratio was 22%. Our net debt was $2
+billion and our net debt-to-capital ratio was 11%.
+Last I want to share a few thoughts and guidance for Q4. Net interest expense in Q4 should be about $52 million, which
+includes a full quarter of the $1.5 billion in notes. Corporate spending should be within a 50 to $55 million range.
+Taxes should be between 36 and 37%. Depreciation and amortization is expected to be between 305 and $350 million.
+We expect capital expenditures in Q4 to be between 550 and $600 million, which will put total 2010 CapEx around
+$1.7 billion. We do not expect a major pickup in activity in the Gulf of Mexico in the fourth quarter and stand by our
+earlier estimate of $0.08 to $0.11 per share impact below normal operating conditions.
+I'll now turn the call over to Martin who will highlight our geographic results. Martin?
+Martin S. Craighead, President and Chief Operating Officer
+Thanks, Peter. Let me start with North America. Revenue increased 71% year over year and 16% sequentially,
+matching the 71% and 19% increases in the North American rig count, a solid achievement given the negative impact
+of the Gulf of Mexico deepwater drilling moratorium on activity, revenue and profit.
+The overall service and technology intensity of North American land drilling continues to increase. In the United
+States, horizontal drilling, primarily in the unconventional oil and gas plays, has more than doubled year over year and
+increased 13% sequential. The unconventional reservoirs are demanding our best technology to deliver longer
+horizontals, complex completions, increasing frac horsepower and more frac stages. This demand for advanced
+technology is in turn driving the business and supporting both higher revenue per rig and associated higher prices.
+Operating margins increased 1,800 basis points year over year and 400 basis points sequentially to 17%. Incremental
+margins were in excess of 40% both year-over-year and sequentially despite the lower activity in the Gulf this quarter.
+Before I turn to our international segments, I need to address the current situation in the Gulf of Mexico. The impact of
+the moratorium and the pause in drilling permit approval was about as we guided in our last conference call at $0.09.
+While we are encouraged that the deepwater moratorium was lifted a few weeks ago, we do not expect a significant
+increase in drilling in the fourth quarter.
+In the longer term, Baker Hughes is very well positioned for the return of activity in the Gulf. With our 2 new
+pressure-pumping vessels, the Blue Dolphin and the Blue Tarpon, we were able to offer best-in-class pressure-pumping
+capabilities, exceeding the delivery capability of the nearest competitor by over 50%. Our current tank control vessel
+utilization has been high, supporting frac, gravel pack and stimulation activities on the shelf and in fact, our backlog is
+at an all-time record high.
+Turning to Latin America, revenue increased 8% year over year, led by the Andean and Brazil geomarkets. Revenue
+increased 2% sequentially, led by the Brazil geomarket. Both year over year and sequential growth rates exceeded
+market growth rates this quarter. The only geomarket to report revenue declines year over year or sequentially was the
+Venezuela/Mexico geomarket.
+Profit margins were flat sequentially. Latin America continues to be a series of contrasting stories. Performance is
+strong in Brazil and in the Andean geomarkets driven by national oil companies who are striving to increase their
+production. The southern cone and Venezuela/Mexico geomarkets continue to be the most challenging.
+We're continuing to react to our customer's budget cuts in Mexico by redeploying equipment to more attractive markets
+and where required reducing our staffing levels. We finished drilling operations on the final Alma Marine well and
+expect to run the completion assembly in the next few weeks.
+In Brazil we continue to build on our strong relationship with Petrobras and are expanding our business with other
+foreign and Brazilian operators. Technology continues to be key to performance in Brazil both offshore and
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 4 of 17
+increasingly on land.
+In the third quarter we successfully deployed a 12.25 inch Chimera drill bit for the first time in a Northeast Brazil land
+application. This hybrid bit combines the most attractive features of both roller cone and fixed cutter bits in a single
+product. We've made over 90 runs and have drilled a total of more than 100,000 feet worldwide with this bit. The
+Chimera bit has been run in the United States, Canada, Ecuador, Oman, Saudi Arabia and now on land in Brazil. In this
+particular application, the bit was able to drill 20% further and 90% faster than standard Tricone bits.
+The Andean geomarket continues to be one of our best performing geomarkets on any continent. All of our product
+lines are well represented. In the quarter we won a $137 million 8-year contract extension from Repsol for the
+exclusive supply and maintenance of the ESP systems and were awarded a 2-year contract by an independent for a full
+service well construction solution that includes drilling and evaluation systems, fluids and for many pumping services.
+Turning to the Eastern Hemisphere, first in the Europe, Africa, Russia Caspian segment. Revenue increased 6%
+compared to a year ago led by directional drilling and artificial lift. Growth was led by the Russia Caspian and UK
+geomarkets offset partially by lower revenue from Africa. Sequentially revenues were down 1% as revenue declines in
+Africa and Norway offset increases in other geomarkets. Improvement in profits in the UK and continental Europe
+geomarkets were offset by lower profit in Norway, Russia Caspian and in Africa.
+The weakness in the Norway market was temporary, driven by a more extensive than anticipated summer rig
+maintenance program. Activity has returned to normal levels in October and should remain relatively solid through the
+winter. UK and continental Europe activity has been strong and is expected to stay strong this winter.
+In Norway we secured a multi-million dollar integrated project for the Borgland Dolphin Consortium to provide service
+integration and planning including directional drilling, measurement well drilling, logging well drilling, mud logging,
+fluids, waterline logging, and quarrying services. The contract covers an initial 3-year period for a full exploration
+program on the Norwegian continental shelf encompassing 15 wells.
+Activity in Africa remains weak. North Africa's soft as activity has not improved in either Libya nor Algeria. In the
+North Africa geomarket we've been awarded a tender for directional drilling, logging well drilling, quarrying liner
+hanger spits, and cementing by Occidental to build 22 on-shore exploration wells on 6 separate concessions in Libya.
+The 2-year program starts in the first quarter of 2011. In the Sub-Saharan African geomarket, our local joint venture
+there won a 10-year off-shore production chemicals contract with a super-major in Angola.
+Now turning to the Middle East, Asia-Pacific segment, revenue was up 6% compared to a year ago led by sales of
+chemicals, artificial lift, and completion systems in Southeast Asia and Egypt geomarkets. Sequential growth was 5%
+led by increased sales of directional drilling and oil fill chemicals. Revenues were up significantly in the Southeast Asia
+geomarket. With relatively modest growth in the market, the preponderance of long-term contracts and ample
+equipment, pricing has not improved yet. Improvements in profitability in the near future will be dependent on market
+growth and share gains that help us absorb fixed overhead, and the success of our ability to improve operational
+efficiency.
+In Saudi Arabia, the customer is focused on increasing gas production from tight reservoirs. We're introducing
+technology developed for the North American tight gas plays into the kingdom. We recently installed frac point
+multi-zone completion equipment in 5 wells with tight gas reservoirs. This solution allows the client to selectively
+stimulate individual sections in long horizontal wells to optimize the production and recovery rate. We also are
+providing technical expertise on formation evaluation and geomechanics. And in Iraq, the South Oil Company has run
+its first waterline job using Baker Hughes's equipment under the 3-year technical services agreement signed last
+quarter.
+In the Southeast Asia geomarket, we secured a major contract in the Philippines. We will be providing cementing,
+directional drilling, and drilling fluid services on 5 rigs as part of a 2-year contract with a 50-well work scope. Our
+robust product and services offering for the HPHT industry in conjunction with the established presence of BJ Services
+in the Philippines were critical factors in the award.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 5 of 17
+In the Indonesia geomarket, we completed a 2 multi-zone, single-trip completion system or MST gravel pack in a
+single well, isolating 2 differentially pressured zones. This completion builds on the success of BJ's MST, which has
+had over 35 successful runs to date with documented savings of 70% of rig time from approximately 20 days to 3.5
+days.
+Looking at our international operations in total, I'm pleased with our revenue performance. Revenue grew 6% year over
+year and 1% sequentially exceeding that of the market. This is a positive sign that our new geographic organization is
+making a difference and we're pleased with our geomarket management teams as they are demonstrating a more
+holistic view of the market and developing closer relationships with our customers, communicating clear market driven
+priorities to our products and technology organization. They're executing in delivering quality products and services to
+our customers and they've maintained high levels of HSE performance.
+International margins did not improve sequentially as we indicated in our last conference call. While I remain
+disappointed, we've not been idle this quarter. Let me briefly review the actions we've taken. We believe that our
+organizational change resulted in some redundancies and inefficiencies in our overhead. We aggressively addressed
+this issue in the third quarter and we incurred about $15 million in severance costs.
+The benefits of our cost cutting should become visible next quarter and have full impact in 2011. We indicated that we
+could make our organization more efficient and reduce additional overhead costs in the longer term. We began that
+process this quarter and eliminated 4 geomarkets and the redundant management. By combining Venezuela and
+Mexico, Sub-Sahara Africa along with Angola, North Africa coupled to Libya and combining Russia and Caspian
+geomarkets.
+Third, we revalidated our supply chain cost savings. The goal is $300 million over 3 years and feel we're on track.
+We're committed to cost synergies with BJ Services of 75 million in year 1 and an additional 75 million in year 2.
+These savings are in progress and will occur as projected. Revenue synergies will also contribute to improving our
+profitability.
+Finally and most importantly, we've put this organization together to gain share and promote long term profitable
+growth. As demonstrated in the last several quarters, revenues have either tracked or exceeded the market. My focus
+now is to deliver acceptable margins.
+Before I turn this over to Chad, let me cover our Industrial segment. This segment is composed of principally of our
+industrial chemicals, process and pipeline technology businesses. Revenue increased 10% year on year and was up 13%
+sequentially in the seasonally strong third quarter. The segment posted a 13% profit margin in the quarter compared to
+an 11% margin a year ago and 8% last quarter.
+This quarter Baker Hughes formed an alliance with a global cargo inspection and certification company to provide
+cargo treatment additive services to the petroleum industries. The alliance offers a fast and effective spectrum of
+services for fuel and bulk cargos that meet trade specifications using our partners' testing and inspection infrastructure
+and Baker Hughes' P-to-R or prepared to respond fuel additives. With that I'll turn the call back over to Chad.
+Chad C. Deaton, Chairman and Chief Executive Officer
+All right. Thank you, Martin. As Martin and Peter both highlighted, our results this quarter were dominated by our
+performance in North America. With oil prices holding in the 75 to $80 range, we experienced strong growth in
+oil-directed drilling in both unconventional and conventional areas, and we do expect that this trend is going to
+continue into 2011.
+Drilling for natural gas has stabilized with a high percentage of the rigs drilling in the unconventional plays, and
+increasingly on the wetter side of these plays. Together the demand for drilling in unconventional reservoirs, whether
+it's for oil or for natural gas, is driving strong demand for directional drilling, complex completions and pressure
+pumping. Currently we believe the increase in drilling for either oil or wet gas will offset any drilling weakness in dry
+gas.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 6 of 17
+It is important to note that pressure pumping is a key technology for developing both types of these reservoirs, and
+while we have owned BJ Services since April, we've really had full access to BJ in only the last month of the third
+quarter. With the restrictions of the whole separate order now removed, we can finally act on the opportunities we have
+to leverage our newly acquired pressured pumping capabilities in North America.
+Since the order was lifted, the U.S. sales teams have been working together to pull through products and services when
+possible. Now, in some cases people and equipment are already committed, but as they roll off of a contract, we can
+then leverage our pressure-pumping resources.
+A good example of what our combined company is now able to deliver to our customers is a case in Canada for a large
+independent. Our AutoTrack rotary steerable system and drill bits were used to drill a horizontal well in the Horn River
+unconventional gas play. The well was completed with a 10-stage frac point, open-hole fracturing system with a Baker
+Hughes integrated Insight fiber optic monitoring system. BJ supplied all the cementing and all the hydraulic pressuring
+services. And in West Texas, the strength of the BJ Service relationship with an independent resulted in them being
+able to pull through our wireline and perforating services on up to 2 frac jobs per week for a Permian Basin customer.
+Another recent award was on the West Coast when a Baker Hughes and a BJ Services team bid together and were
+awarded a 30-well perforating and pressure-pumping contract by a super major. And a final example in the Northeast,
+BJ leveraged their relationship with an independent to pull through other Baker Hughes products and services. The pull
+through value will total nearly 10 million a year in new incremental revenue.
+Now all this being said, the frac market is tight. Backlogs for pressure pumping remain strong and vary between
+regions from anywhere from 90 to 180 days. We are investing in incremental frac capacity to service both the growing
+intensity and the growing volume of the North American frac market.
+Part of our long-term strategic plan called for filling some gaps that we had in our portfolio in order to make us more
+competitive. Of course one of those gaps was pressure pumping, which I just addressed. The other was to build out our
+reservoir capability. Over the last couple of years, we've acquired several reservoir engineering companies beginning
+with Gaffney, Cline, GMI, and most recently Meyer & Associates. This has resulted in our achieving the critical mass
+needed to be recognized by our customers as a serious player in reservoir consultancy.
+Beginning in Q4 and continuing on into 2011, we're going to work to improve our customers' economics by using the
+full spectrum of our products and services from geological and geomechanical analysis, to drilling, perforating,
+hydraulic fracturing, and completing conventional and unconventional oil and gas wells. We can now engage with our
+customers from exploration and appraisal through development, production, and ultimately rejuvenation of mature
+fields. These recent acquisitions result in our being well positioned not only in North America, but other markets
+worldwide.
+Looking outside North America to the rest of the world, the international market continues to grow albeit slowly, and
+with $75 plus oil price and an expanding global economy, it should continue to grow in 2011 and in time, support
+higher pricing. For now, real pricing improvement is elusive, and while the rig count is above its previous highs in
+Asia-Pacific and Africa, it lags in Europe, the Middle East and Latin America. In fact if you look at the change in the
+rig count for the individual countries since September 2008, you'll find that land rigs in India, Syria and Kuwait have
+increased by more than 40, and unfortunately these rigs simply aren't driving the same premium as the rigs in Australia,
+Oman, or Saudi Arabia that they replaced.
+In closing, our new organization today is going through a period of adaptation. On the positive side, we are much closer
+to our client, and as we've mentioned before our customers, they like this new organization and that's not a bad thing
+when you're a service company. As a result, we are winning work. Revenue growth versus our peers, as Martin
+mentioned, has remained strong over the last several quarters. On the other hand we have to work – we have some
+work to do on the international margin front. Martin outlined our plans for improving our margin performance
+internationally.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 7 of 17
+This is the number one priority for the entire management team at Baker Hughes. We need to fine-tune the operation,
+consolidate areas of redundancy, realize the benefits for the new supply chain organization, determine the optimum
+geomarket structure, and continue to grow the top line. These steps are all being addressed, and it will result in
+improved margins beginning this quarter, Q4, and carrying into 2011.
+Okay, Gary, why don't we open it up for some questions.
+Gary R. Flaharty, Investor Relations
+All right. Thank you, Chad. At this point I'll ask Dennis to open the line for your questions. To give everyone a fair
+chance to ask a question, we ask that you limit yourself to a single question and a related follow up question. So
+Dennis, could we have the first question please.
+Q&A
+Operator
+Yes, sir. The first question comes from the line of Bill Herbert with Simmons & Company.
+<Q - Bill Herbert>: Thanks. Good morning, guys.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Hi, Bill.
+<Q - Bill Herbert>: Chad, talking about international margins here for a second and recognizing that you're probably
+not through your planning process for next year, but just sort of a conceptual journey, if you will. We're kind of
+hovering right now at about 5% margin, thereabouts, for international, and we were at close to 18% and change first
+half of last year. So recognizing the benefits from supply chain, BJ synergies and expected volume gains, what do you
+think is a reasonable aspiration at this stage for exit rate margins sometime next year?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: I think you should – I think we're looking for
+somewhere in the mid-15% range, somewhere in that ballpark, Bill.
+<Q - Bill Herbert>: Okay. Got it.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: I think you could break this down by region.
+Europe has not changed much really if you looked at the margins down a little bit. Africa has been where our challenge
+has been.
+<Q - Bill Herbert>: Yes.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: And that's being, you know that's offsetting
+everything in Europe to affect all of IRC. And then the other area clearly is Latin America, is where we've got another
+focus. Martin mentioned about some consolidation we're doing in that area to bring some of the costs down in that area.
+We're happy with the way we see the Far East going. We've seen some nice gains there, both on the revenue side and
+some improvement on the bottom line side there. And the Middle East we think will come back next year. So that's our
+target right now.
+<Q - Bill Herbert>: Okay. And then in a similar vein with regard to North America, margins are sort of clicking along
+nicely as they are for most in the industry. So walk us through if you will kind of on a go-forward basis the interplay
+between probably a slowing rate of E&P capital spending growth, oil and liquids rich continues to grow, offset by gas,
+so which probably distills into a reasonably steady rig count from this point forward, maybe up a bit. You've got
+increased capacity coming. So when you think about '11 margins, would -- on average would we do well to kind of stay
+even with exit rate 2010 or do you think it's going to be a bit better than that?
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 8 of 17
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: I think it would be a bit better than that, Bill,
+because we started obviously pressure pumping; saw a lot of price improvement over these last several months,
+whereas our legacy Baker Hughes businesses started to really see it towards the end of the third quarter, I guess. We
+started to see some tightness enough that we could start raising some prices elsewhere. So we'll see a little benefit of
+that in Q4 and therefore for a year-on-year type basis we should see improved margins on the North America and
+course hopefully we're looking at what's going on in the Gulf of Mexico.
+<Q - Bill Herbert>: Right.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: And we can see some rational thinking back there
+again and get back to doing some drilling and other things, then that will be a huge swing for us because we're big in
+the Gulf and we've wanted to hold ourselves strong there with our people because we believe this thing will end, and
+when it does we want to be ready for it.
+<Q - Bill Herbert>: From a sort of incremental capacity standpoint with all of the frac horsepower that's coming, do
+you expect that to be sort of a headwind in the second half of next year or earlier?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: No. I think it will be the second half. There's no
+doubt it's probably coming.
+<Q - Bill Herbert>: Yes.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: And we've been very -- fairly aggressive in terms of
+building out horsepower because there for a period of time BJ hadn't done a lot during the negotiations and the whole
+separate period, etcetera. But beginning earlier this year we did start building horsepower. Glad we did because we've
+been needing it. But we're going through the budgeting process now. We'll be taking a looking at it. We will adjust
+based on what we see, but there are a lot of wells behind pipe that still need frac, 2,000 to 2,500.
+<Q - Bill Herbert>: Yes.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: And you start looking at anywhere from 15, what --
+pick a number -- 15, 25 zones per well. That's a lot of frac jobs and a lot of consumption of equipment. So...
+<Q - Bill Herbert>: Indeed. All right. Thank you very much.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: You bet.
+Operator
+For our next question, comes from the line of Joe Hill with the Tudor, Pickering.
+<Q - Joe Hill>: Good morning.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Morning.
+<Q - Joe Hill>: Chad, I think Martin touched on some of the improvements you guys have seen in the Industrial
+business. Can you give us a bit of an outlook there? You've kind of given us what to look for in international, but
+maybe you can talk a little bit more about what's going on in that particular business and what's driving the sizeable
+improvements we saw.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Well, I think one thing that Martin said, and it's
+true: Q3 is usually a very strong quarter for us in that business. So I don't think we're going to see any huge dropoff. A
+lot of that business does tie back to refinery work. So it depends on the margin with our refining operators, what they
+do and when their downtime is.
+I think one important thing on the Industrial side -- there was not – we didn't shake that particular area up much when
+we reorganized like what we did on the international side with the new geomarkets, et cetera. So that pretty much was a
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 9 of 17
+management team that has continued to run through this entire last 12 to 18 months period. So I think they're showing a
+lot of stability and they had a very good quarter, and that's a business that kind of tends to swing based on downtimes in
+refineries and et cetera.
+<Q - Joe Hill>: Okay. So in terms of our expectation for next year, should we assume that we can hold on to some of
+this margin improvement we've seen, or should we assume that the turnaround restoring the refining is going to be
+fairly seasonal?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: I think you could say that you could hold on to it.
+Traditionally, this business has been fairly stable, flat. We've talked about it in the past on our chemicals side, both
+upstream as well as downstream. When there's tremendous swings in rig count one way or the other, this is kind of our
+annuity. They were pretty steady. So I think you could plan on that through next year.
+<Q - Joe Hill>: Okay.
+<A - Peter A. Ragauss, Senior Vice President and Chief Financial Officer>: Hi, yes. This is Peter. I would say
+that's right for next year. We did have a particularly strong Q3, which was some seasonality and then Q4 could be off a
+bit from Q3 because the other part of the business is a pipeline inspection business and that has to slow down usually in
+Q4, which is the business we inherited from BJ. So we wouldn't expect Q4 to be a repeat of Q3, but next year it ought
+to be within a seasonality range, ought to be a decent business.
+<Q - Joe Hill>: Okay. Thank you. And then finally just more of a product-specific question. You guys have talked
+about the MST completion tool and there's a few of those systems out there. I was just wondering, one, how many of
+these systems are available for use at any given time? And would you anticipate that usage of the tool could get large
+enough to actually impact availability of rig time?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Well, we're not going to disclose how many we
+have ready to go around the world, Joe. I think the one thing about, I think, unless I am wrong -- Martin you can
+comment on this -- but I think we by far have the most in the ground running than anybody. So it's pretty well proven,
+and I don't know, Martin you have any comments on it?
+<A - Martin S. Craighead, President and Chief Operating Officer>: Well, as Chad mentions, from our data, it
+seems to be a high leverage to how many we've run relative to the market, Joe. The features on this tool are pretty
+unique to Baker Hughes. It's completely unlimited lengths of either the zone you want to cover or the number of zones
+you can run. It's got a full ID opening to handle production tubing. There's some very important proprietary-type
+technology on the seal elements used. So the pickup on this has been pretty rapid. As far as its materiality going
+forward, I don't know at this stage but we don't see it slowing down, that's for sure.
+<Q - Joe Hill>: Okay. And Martin, would you like to see one of these on every rig you guys touch?
+<A - Martin S. Craighead, President and Chief Operating Officer>: Given the pricing on them, absolutely. It would
+help the margins right away.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: I think that's the key. We got to value this right. If
+we're going from 20 days to 3.5, we need to share in the value split there.
+<Q - Joe Hill>: Sure. Okay. I'll turn it over. Thanks, guys.
+Operator
+Your next question comes from the line of Jim Crandell with Barclays Capital.
+<Q - James Crandell>: Morning.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Morning, Jim.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 10 of 17
+<A - Peter A. Ragauss, Senior Vice President and Chief Financial Officer>: Morning, Jim.
+<Q - James Crandell>: Chad, would you expect to, in North America with your pressure pumping business, would
+you expect to adopt a broad-based strategy of trying to package your pressure pumping together with your
+drilling-related product lines?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Yes. I think it depends on the customer, Jim. As
+you know, customers come in all shapes and sizes. Some are ready to bundle the entire package for very long-term
+contracts. We talked last quarter about Hess up in the Bakken with a five-year contract where we're doing 80% of the
+drilling bits, et cetera, and I think we have about a third of the pressure pumping. So there are customers there that are
+looking for that, and then we have others that continue to want to do a call-out-type basis.
+We are tying more and more when we can with tied to the pressure pumping because it's in such demand right now. But
+as I said in the comments, some of this equipment has to come off a particular contract or working with a customer
+before we can then put it together with other services and get it out and promote it. But as long as this market's the way
+it is right now, yes, we will be looking to package more into a bundle.
+<Q - James Crandell>: And do you think the whole nature of the North American business is changing in this respect
+to where in the future particularly with the popularity of horizontal drilling in the shales that more and more of the
+business will be packaged? And people that have a broad product line, such as yourselves, will have a key advantage in
+servicing the market?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: I hope so, that's why we've been buying all these
+companies from the reservoir side to the pressure pumping. But yes, I think it will. I think we're applying more
+technology to the U.S. today than we have in the past, and as a result of that, something just like we were talking about
+the MST tool and other things, this is becoming more of a full-scope relationship especially with the independents and
+the smaller groups looking at the reservoir, looking at the mechanics, rock mechanics, geomechanics, optimizing the
+drilling performance, coming up with a best completion technology. I think it's becoming more and more of a technical
+package.
+<Q - James Crandell>: Okay, and just a follow up to that, Chad, in the U.S. pressure pumping market, would you be
+willing to lock in today's prices for term contracts of a year or more for some of your equipment?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: It depends on, again, pricing's all over the map,
+Jim, but we would take some long term contracts. In fact there are take-or-pay contracts out there right now that we're
+participating in. Some of those as I know are a couple of our competitors are. But I think we just, you'd have to look at
+each one individually and see what else is on the contract, what's pulled through, et cetera.
+<Q - James Crandell>: And your frac fleets that are coming on in North America in 2011, are those contracted
+currently?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Yes. No, they're not contracted, but they are – we're
+committed. Let's just say we've got a backlog of 180 days, so. But they're not contracted at a set price. Some of those
+we're holding almost for the spec market, you could call it.
+<Q - James Crandell>: Okay. Good. Thank you, Chad.
+Operator
+Your next question comes from the line of Kurt Hallead with RBC Capital Markets.
+<Q - Kurt Hallead>: Hey. Good morning. I just wanted to make sure that I heard some of the earlier commentary
+correctly. When there's a reference to I think a mid-teens kind of margin, are you guys referencing your international
+business as a whole or was that specific to a region?
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 11 of 17
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: No. That's as a whole.
+<Q - Kurt Hallead>: Okay. And then in terms of the Latin American margin sitting at 2, 3% for the last few quarters,
+where do you think Latin America can get to as you get into 2011 on an average basis or in any given quarter?
+<A - Martin S. Craighead, President and Chief Operating Officer>: Kurt, this is Martin. Our expectations are a
+double-digit exit next year in Latin America.
+<Q - Kurt Hallead>: Okay and that's based on business you currently have in hand or bidding plus the synergies that
+you referenced?
+<A - Martin S. Craighead, President and Chief Operating Officer>: All of that, plus stabilization in some of the
+weak markets in term of the spending and the pricing and the overhead cost structures.
+<Q - Kurt Hallead>: Okay. And then you talked about pricing improvement across a number of different legacy
+product lines for Baker Hughes starting to flow through in late third quarter. In terms of highest magnitude to least
+magnitude, can you give us some general idea of what product lines we're seeing the best pricing from a legacy
+standpoint and then what, those that are seeing least?
+<A - Martin S. Craighead, President and Chief Operating Officer>: Yes. Kurt, this is Martin again. Again, we're
+speaking in North America, because we haven't seen pricing traction internationally. But certainly it's the typical ones
+we're seeing the drilling systems, the lead of course is pressure pumping, followed by the drilling systems. We do have
+some price improvement occurring on the production side of the business, which would be lead by ESPs, and then your
+product lines which, let's just say have even more capacity out there or slightly lower barriers to entry, which would be
+your case pull wireline and your drilling fluids. I'd say it's minimal.
+<Q - Kurt Hallead>: And then just on Chad's comment about a headwind potentially in the second half of next year
+from the pressure pumping capacity, what magnitude of pressure pumping capacity do you think is coming into the
+market from an industry standpoint? And then when you talk about headwinds, are you talking about pricing pressures
+or pricing plateauing? How do you plan in how you're thinking about that at this point in time?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Well we see a somewhere, depending on who you
+talk to 6 to 6.5 million horsepower out there today going to 8 to 8.5 million by end of next year. Those are street
+numbers but it's not taking into consideration attrition. And right now, we're burning through, the industry's burning
+through probably 15% a year. So there's over 1 million net horsepower being added here in the next few quarters.
+Now, again right now, there's a big backlog. I don't know how strong it will be faced in the second half. We're just
+going to watch it going into the first half and that'll determine if we're going to continue to add equipment through next
+year. I think there's just a lot of variables out there right now. We're watching it and I think probably if it slows down a
+little bit, you'll see some consolidation in the business like we've seen in the past.
+<Q - Kurt Hallead>: That's great, thanks.
+Operator
+Your next question comes from the line of Scott Gruber with Bernstein.
+<Q - Scott Gruber>: Yes. Good morning gentlemen.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Hi Scott.
+<Q - Scott Gruber>: It's clear that you've been more cautious on bidding for the IPM projects in Iraq given aggressive
+pricing by peers. Yet at the same time one of your pillars of your geomarket reorganization is capture greater
+international market share. So just hoping to gain some color on the markets or the regions if you don't want to get too
+specific, where you do aim to capture market share over the next 12, 24 months and the strategy to do so given the
+imperative to improve margins as well?
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 12 of 17
+<A - Martin S. Craighead, President and Chief Operating Officer>: Hey, Scott. This is Martin. Let me start with
+the one you bring up, Iraq. If we thought that the market was kind of better defined in terms of what the scope was
+going to be, what the risk profile was going to be. But I think as you've heard from a couple of our peers, the bidding
+activity there is very high. And there's a lot of work to be done and this is both from the national oil company as well as
+the foreign participants.
+So we've been on side – well let me put it this way, we've participated in every IPM bid, to use that term. We've
+obviously submitted prices, but we've been on the sidelines in terms of getting on the field when the pricing
+environment is so unattractive. Again, given the fact that if you see what happened in Mexico, if you see what's
+happened in some of these other high profile IPM bids, the opportunity to make a profit is very limited. So I think the
+industry, our side of the industry needs to rethink the way it approaches it.
+That aside, you're right, the reason that we reorganized into the geomarket organization was to grow the top line at
+faster rates than what we were experiencing before, and as I said in my comments that's happening. But the best way to
+further grow those margins is to continue to grow that top line. We're taking the actions that we can most near-term
+control in terms of the costs, getting those down and particularly in the overhead functions where we experienced some
+redundancy.
+Now in terms of trying to get other business, it's as I said in the comments, there's an incredible response by the
+customer community, which I think is being rewarded with already the work we're getting. We see the BJ organization
+stimulating even further working together, and I can tell you that whether it's Vietnam, whether it's Australia, whether
+it's the big award we just got in the Philippines, whether it's bringing BJ more solidly into our business in Norway,
+we're seeing a lot of nice projects come our way.
+But the final point I'll make here, Scott, is that unlike North America, which is a transactional market, we reorganized
+18 months ago officially. We had all of our people in place probably about a year ago, and the international market is
+not transactional. There's contracts there that are years in the making, and by that I mean it takes months for the tender
+to come out, it takes months for the tender to be awarded, it takes months sometimes to mobilize, and it can take
+months for the customer to actually start spending. So you put that on top of contracts that already run 3 to 5 years, it's
+not surprising that it takes a while to rebuild the revenue. So, but in terms of the mechanics, the way we're executing
+out there, I'm very happy with the job the guys are doing in terms of building their share.
+<Q - Scott Gruber>: Now would Russia be in the top 3 or 4 countries or regions just given its size in terms of markets
+you identify where you have upside opportunity that you target?
+<A - Martin S. Craighead, President and Chief Operating Officer>: In Russia, absolutely. Primarily in the drilling
+systems sides, and on the pressure pumping we're pretty much not represented yet. But we're looking for some
+opportunities there in terms of how best to address and are the world's second largest pressure pumping market.
+<Q - Scott Gruber>: Now do you think you need rigs or a rig partner to more effectively compete on the drilling
+technology side in Russia?
+<A - Martin S. Craighead, President and Chief Operating Officer>: It's always been part of our strategy there in
+terms of our assessment that yes, that's a big component. But you know Scott, the rig need kind of comes and goes and
+depending on what's going on in the marketplace, sometimes you're short rigs, and sometimes you can find around any
+corner. So we look at that, and if we think that it's the right way to go, then there's some opportunities out there for us
+to buckle up for somebody.
+<Q - Scott Gruber>: Great. Those are all my questions. I'll turn it back. Thank you.
+Operator
+Your next question is from the line of David Anderson with JPMorgan.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 13 of 17
+<Q - J. David Anderson>: Good morning. If I'm not mistaken compared to your peers you have a much larger portion
+of the international business comes from the offshore markets. Just wondering if you've yet to see any of the impact in
+offshore services from Macondo? In other words are you spending more times on the rigs already with new procedures
+and safety steps or something like that or is it really going to take a little bit longer to work into the system?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: No. I don't think that Macondo outside of the Gulf
+of Mexico has had a huge effect on the offshore deepwater market. Now several clients, several governments for
+probably a period of a month or 2 did take a look and assess their performance, safety performance, that type of thing,
+David. But it hasn't really set us back anywhere. We are seeing a lot more requests for, from clients asking about our
+training programs, our certification of employees, a little bit more regarding on some of the technology or whatever we
+may be running. But I think for the most part Brazil, Norway, other places, there was a little bit of effect with
+Macondo, but not much.
+<Q - J. David Anderson>: And when we look at Eastern Hemisphere for next year and taking a look how the margin
+guidance that you gave is kind of mid teens, some of your competitors are suggesting that Eastern Hemisphere margins
+will take a lot longer to kind of build up. You seem to be of feeling that these are going to move up pretty quickly.
+What are 2 or the 3 components in there that get you to your numbers? My understanding is a lot of these contracts
+were priced out 2 or 3 years ago, so that's going to take a little while to work into the system. Can you talk about it
+from a contract standpoint, from internally what Baker Hughes is doing and also from the offshore side, how those 3
+components work into your margin progression?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Well I think you've got to remember we fell a lot
+further than the competition so that will allow us to rebound back up a little bit. This isn't totally just a cost structure
+problem. It's also a tendering issue. Yes, we put our team together 18 months ago and sent them out there and one of
+the reasons why was to gain our revenue growth back, which we've done. Now you have to question, are some of those
+contracts a little aggressive? Yes, probably and some of them as they wind off, we will replace them with better margin
+contracts.
+That plus the fact that as Martin went through, we've made some consolidation and tweaking, if you call it that, for the
+geomarket structure. This is normal. We did it years ago when I was with another company. And I know one of our
+right competitors did the same thing when they reorganized and had to do it a couple of times to get it right. So I think
+you'll start seeing it in Q4. We have taken some cost out of the system and moving down the path of being able to do
+that. You've got something you want to say? Martin's got something to say.
+<A - Martin S. Craighead, President and Chief Operating Officer>: I guess the only thing I'd add on there is,
+David, is the supply chain impacts as well as the BJ synergies. And on those BJ synergies not just the costs, but also the
+revenue opportunities jointly, and again the Philippines is a tremendous example of that. So you put them all together,
+we're comfortable with the guidance that Chad mentioned in terms of international.
+<Q - J. David Anderson>: Okay. But it sounds like a big chunk of that is going to happen internally, if I just heard you
+correctly?
+<A - Martin S. Craighead, President and Chief Operating Officer>: That's correct.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: I think a lot of it will happen internally.
+<Q - J. David Anderson>: Okay. Great. Thank you. That's all.
+Operator
+Your next question comes from the line of Geoff Kieburtz with Weeden.
+<Q - Geoff Kieburtz>: Thanks. Good morning.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Hi, Geoff.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 14 of 17
+<Q - Geoff Kieburtz>: I guess just a couple ones left over here. Pressure pumping capacity, you mentioned that you've
+ramped up your expansion of the pressure pumping fleet, but you'll modulate that depending on market conditions.
+What's your lead time now? How far ahead do you have to make decisions in terms, order date to actually putting
+equipment in the field?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Well it's just mainly, Geoff, the big components.
+It's the power end, the fluid end and the engine. The chassis, the tractor, those type things, you can get those 3, 4
+months out. The bigger lead items you're kind of looking for more like 6 months.
+<Q - Geoff Kieburtz>: Okay.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: We, like I mentioned, BJ had backed off
+considerably on the building of equipment during the negotiations and other things, rightfully so. So we had to kind of
+rebuild that supply chain link, beginning earlier this year. But we're looked at as a major player in this area, and so the
+major suppliers in those points know that Baker Hughes is going to be in this business a long time, so they're jumping
+through hoops to make sure that we get our equipment. So I'd say you've got to be looking at around 6 month.
+Now if we start to see some things softening or whatever as we go into 2011, doesn't mean that we still won't continue
+to build out some fluid ends, power ends, engines. Those things can go on the shelf and replace existing equipment or
+problems as we go through this equipment. So we have some flexibility there.
+<Q - Geoff Kieburtz>: Okay. And the other question was simply do you expect to take any charges in Mexico?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: We've taken everything that – we take it as we go
+through it. So if we have the ramp up costs, like in Iraq or others, those hit the quarter that we're involved in that
+quarter. So no, we don't have anything looking at it.
+<Q - Geoff Kieburtz>: Okay. Thank you very much.
+Operator
+Your next question is from the line of Robin Shoemaker with Citi.
+<Q - Robin Shoemaker>: Thanks. Good morning. I just wanted to return to the international for a minute. A couple of
+years ago the margins were hit a bit by the startup costs in some key international markets, and now here more recently
+it seems to be reorganization-type of costs, geomarket framework and so forth. But, and I take that your guidance here
+is that the 15% level could be achieved principally without help from the market. But if the market does rebound more
+strongly than expected, how are you positioned relative internationally, relative to the infrastructure kind of that you
+put in place a few years ago to capture that opportunity or was part of that startup process left somewhat unfinished?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: No. And I guess I was confused when you say
+startup because I usually think of actually gearing up to handle a contract where we're putting equipment in there.
+There's that startup cost, but there's also just the infrastructure buildout costs, the facilities, et cetera, which we know
+are going to be there for the next 30 years.
+One thing, Robin, I want to clarify, that 15% exit rate that we talked about isn't going to come just all internally. We are
+expecting that we will see some improvement in the international activity. We said it would be modest and growing,
+but we do expect some of that to benefit the margins side as well, and of course we also feel from the steps that we're
+taking on the cost side and organization side that that will contribute quite a bit itself.
+I think we're pretty well positioned if 2011 is a surprise, and the second half it comes on strong, we have spent a lot of
+money over these last 5 years both in the solid facility infrastructure side, bricks and mortars you might say, but also on
+the human capital side. We have a much stronger international management team based in these key markets, again
+much closer to the customer, which I think is one of the reasons why we're seeing some success on the revenue side
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 15 of 17
+now. So we'll be able to respond. We're in a much, much stronger position today than we were a few years ago to
+handle international growth, and that's why we did all this, that's what we're counting on.
+<Q - Robin Shoemaker>: All right. Okay. Just -- my follow-up is on the Gulf of Mexico. It seems to be hitting your
+P&L a little harder than some others. To the extent that this return of drilling drags out and we don't get back to
+pre-Macondo levels of drilling anytime in the next year or perhaps after, what kind of redeployment or perhaps
+downsizing for the Gulf of Mexico is in your plan? And what are you waiting to see before you kind of trigger that?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Who's the elections. We have about 350 people that
+right now out of the Gulf group that are based in temporary assignments around the world. We wanted to get -- these
+are like some of our major competitors. These are people that have 20 years of experience and can go anywhere in the
+world to drill or run a bit or whatever. We don't want to lose those people. So we will watch this. We're talking a lot to
+our customers right now, the majors as well as the large independents, trying to get a feel for when they think they'll get
+back to work. Right now we've got quite a bit of activity lined up if they can go back and drill. We think we're in a
+pretty darn good position to do well in the Gulf once the activity returns.
+Now, that being said, if by the end of this quarter, if we don't see some return or some positive signs, then obviously
+we're going to have to take the next step in terms of our cost structure in the Gulf and do something about it. But, as
+Martin said, when from the vessel side you look at it, the vessel business is doing fairly well even in the downturn
+cause of reworks and some laterals and things like that on the shelf, and it's got a – that's back, all we've seen in that
+area. So we think there's enough optimism or enough belief right now that it's going to strengthen a little bit starting in
+Q1 that we're going to hold on a little longer before we have to do anything.
+<Q - Robin Shoemaker>: Thanks. All right. Thank you.
+<A - Gary R. Flaharty, Investor Relations>: All right. Thanks, Rob. And Dennis, at this point can we take one final
+question, please?
+Operator
+Yes, sir. Today's final question will come from the line of Marshall Adkins of Raymond James.
+<Q - Marshall Adkins>: Morning, guys.
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Morning.
+<Q - Marshall Adkins>: I just want to clarify the mid-teens margins for international. You guys have done a great job
+explaining how you're going to get there and whatnot, but that's an exit rate for next year? It's not an average; is that
+right?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: That's correct.
+<Q - Marshall Adkins>: Okay. Just want to make sure because we start plugging in an average of mid-teens and your
+numbers go up big.
+Coming back to the pressure pumping side, you did talk about the industry horsepower. Can you help me understand
+how much horsepower you've added this year? And I know it's early in the budgeting -- how much you think you're
+going to add next year and kind of what percent of your CapEx that is going to be?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Well, I don't want to tell you how much we've
+added because I'd rather let Spirit or somebody else trying to guess and put those numbers out there. I will tell you we
+are adding a frac fleet every six weeks and have been for the last little while and for the next little while. So that gives
+you some upside in terms of what we have coming.
+Now, that being said, there's a few factors on why we're adding this much horsepower. One, as I mentioned earlier, the
+attrition rate is very high for the industry, about twice of what it used to run years ago. And the second area is, again,
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 16 of 17
+we can look at some equipment -- every service company ages their equipment, looks at the life of the equipment and
+so on, and there's some 10, 11, 12-year-old equipment out there in the BJ ranks that we want to be able to replace in
+time, anyway. So we're adding this horsepower now, and if we do see a little slowdown, then we will get rid of some
+excess, some of the older stuff. I don't know if that answers your question, Marshall.
+<Q - Marshall Adkins>: It helps get there. How about percent of CapEx? Is that -- can you help us with that?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Percent of horsepower CapEx versus our total
+CapEx?
+<Q - Marshall Adkins>: Yes. You can't -- gave us guidance on total CapEx, but how much of that is BJ chewing up?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Yes. You've got our numbers from the beginning of
+the year. We talked about somewhere around 1 billion to 1.1 billion of Baker Hughes legacy CapEx, and Peter said
+we're going to be around 1.7 billion for the year, so....
+<Q - Marshall Adkins>: That helps us get there. Last part of this. 15% attrition rate for the industry. Are you guys in
+line with that 15%?
+<A - Chad C. Deaton, Chairman and Chief Executive Officer>: Yes. I mean we go by some of the things we hear
+from our customers. Customers tell us that our equipment and one of our other competitors, major competitor's
+equipment seems to be holding up a little better in areas like the Haynesville and others and I think that's helped us pick
+up share there. But I think we're at the leading edge of not tearing up as much equipment as some of the people out
+there.
+<Q - Marshall Adkins>: Okay. Thanks, Chad.
+Gary R. Flaharty, Investor Relations
+All right. Thanks, Marshall, and thank you, Chad, Martin and Peter. I want to thank everyone, all of our participants
+this morning for your time and your very thoughtful questions. Following the conclusion of today's call, both Alexey
+and I will be available to answer any of your additional questions. So once again, thank you for your participation.
+Dennis?
+Operator
+Thank you for participating in today's Baker Hughes, Incorporated Conference Call. This call will be available for
+replay beginning at 10:30 am Eastern, 9:30 am central and will be available through 10 pm Eastern time on Monday,
+November 15, 2010.
+The conference ID number for the replay is 14716071. Again, the conference ID number for the replay is 14716071.
+The number to dial for the replay is 800-642-1687 in the U.S. or 706-645-9291 for international. That's 800-642-1687
+in the U.S. or 706-645-9291 for international. Thank you. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+Company Name: Baker Hughes
+Company Ticker: BHI US
+Date: 2010-11-01
+Event Description: Q3 2010 Earnings Call
+Market Cap: 19,497.85
+Current PX: 44.13
+YTD Change($): +3.2823
+YTD Change(%): +8.035
+Bloomberg Estimates - EPS
+Current Quarter: 0.647
+Current Year: 3.059
+Bloomberg Estimates - Sales
+Current Quarter: 5236.714
+Current Year: 21655.800
+Page 17 of 17
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
