@@ -1,0 +1,844 @@
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 1 of 15
+Q1 2013 Earnings Call
+Company Participants
+• Deborah Crawford
+• Mark Elliot Zuckerberg
+• Sheryl K. Sandberg
+• David A. Ebersman
+Other Participants
+• Heather A. Bellini
+• Ross A. Sandler
+• Anthony Joseph DiClemente
+• Jordan E. Rohan
+• Youssef H. Squali
+• Justin Post
+• Gene E. Munster
+• Ben Schachter
+• Mark S. Mahaney
+• Ken Sena
+• Douglas T. Anmuth
+• Brian W. Wieser
+• Aaron M. Kessler
+• Daniel Ernst
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good afternoon. My name is Jay and I'll be your Conference Operator today. At this time I would like to welcome
+everyone to the Facebook First Quarter 2013 Earnings Conference Call. [Operator Instructions] After the speakers'
+remarks, there will be a question-and-answer session. [Operator Instructions] Thank you very much.
+Ms. Deborah Crawford, Facebook's Director of Investor Relations, you may begin.
+Deborah Crawford
+Thank you. Good afternoon, and welcome to Facebook's First Quarter Earnings Conference Call. Joining me today to
+talk about our results are Mark Zuckerberg, CEO; Sheryl Sandberg, COO; and David Ebersman, CFO.
+Before we get started, I would like to take this opportunity to remind you that during the course of this call we will
+make forward-looking statements regarding future events and the future financial performance of the company. We
+caution you to consider the implied risk factors that could cause actual results to differ materially from those in the
+forward-looking statements in the press release and this conference call. These risk factors are described in our press
+release and are more fully detailed under the caption Risk Factors in our annual report on Form 10-K filed with the
+SEC on February 1, 2013. In addition, please note that the date of this conference call is May 1, 2013, and any
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 2 of 15
+forward-looking statements that we make today are based on assumptions as of this date. We undertake no obligation to
+update these statements as a result of new information or future events.
+During this call we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to
+non-GAAP measures is included in today's earnings press release. This call is being broadcast on the internet and is
+available on the Investor Relations section of the Facebook website at investor.fb.com. A rebroadcast of the call will be
+available after 6:00 p.m. Pacific Time today. The earnings press release and the company investor presentation are also
+available on our website. After management's remarks, we will host a Q&A session.
+And now I'd like to turn the call over to Mark.
+Mark Elliot Zuckerberg
+Thanks, Deborah, and thanks, everyone, for joining us today. We got off to a good start this year with strong
+engagement and growth across the community, several major new product announcements, and some good financial
+results. Sometimes it surprises me that our community can still grow so quickly beyond a billion active members. More
+than 100 million new monthly active members have joined in the last half a year, but now there are more than 650
+million people who use Facebook every day. That's more than 60% of our community every day. We continue to see
+high levels of engagement globally across our whole community. We take our stewardship of this very seriously. We
+want to make sure we give every person in the world the power to share, and we're proud of these results.
+Overall, there are three main parts of our strategy: build the best Mobile product; build a platform with new services
+that leverage the social graph; and build a strong monetization engine. I'm going to use my time with you today to give
+my assessment of how I think we're doing in each of these areas.
+Let's start with Mobile. One of the products I'm most excited about is Facebook Home. It's a family of apps that you
+can install on your Android phone to make the whole screen of your phone much more personal and about people, not
+apps. We know that people spend an average of 20% or more of their time in apps on Facebook, staying up-to-date
+with what the people they care about are doing. We each open the Facebook app maybe 10 to 15 times per day, but we
+probably check our phones over 100 times a day. So with Home, you can see fresh news and content from people and
+topics you care about every time you turn on your screen. It really brings your phone to life and provides a completely
+new experience.
+This product is still very early, and this is just the first release in a long journey. We're planning on iterating quickly
+and tuning things based on feedback. We haven't really started encouraging people to install it from within our apps
+yet, and it's only available on a few phones. But over the next few months, we hope to push this out much more broadly
+and get this in the hands of a lot more people. We're excited about Home because we think it's a great product, but
+Home is also an important milestone for our company. This is a completely new kind of mobile experience based on
+people, not apps, and we think this is how phones and computers should work. I'm looking forward to sharing more
+with you on the experiences that are borne on Mobile that we're building over the rest of this year.
+Now beyond Home, I'm really proud of how Instagram is doing. Kevin and his team have made amazing progress since
+last April. When we agreed to acquire them, the Instagram community had 22 million people actively using their
+service every month. And today, over 100 million people are using Instagram each month. The Instagram community is
+growing even faster than the Facebook community did when it was this size, and the two communities complement
+each other to create some great experiences where you can capture any moment in your life and easily share it across
+all the communities you care about.
+Next I'd like to talk about platform and building new services using the social graph. A couple of months ago, we
+announced a new, richer and simpler design for a newsfeed that's more visual and engaging for all of the content that
+you might want to consume, from news stories from the New York Times to pins from Pinterest or activities from a
+game that you play. This new design opens up a nicer canvas for content for every developer and publisher out there,
+and we think it's going to create a lot more opportunities for engagement. Early feedback has been positive on the
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 3 of 15
+versions we've rolled out on the iPhone, iPad and desktop web, and we're looking forward to rolling this out more
+widely soon.
+For our development platform, we've had a long roadmap to build the tools for iOS and Android to make building
+social apps and advertising with Facebook as easy on Mobile as it is on desktop web. We completed this transition by
+bringing Open Graph to Mobile this month, and our efforts are paying off with now 81 of the top 100 grossing iOS
+apps and 70 of the top 100 Android apps integrating with Facebook and continuing to grow.
+One of the developments that's been interesting is seeing how big of an opportunity Mobile Apps can be for Facebook.
+Because of the roles Apple and Google have in the space with their app stores, it wasn't as clear early on what kind of a
+role Facebook can play. But I think it's clear now that we can create a lot of value for developers by providing a
+platform for identity and distribution, and we're starting to see real revenue through selling Mobile App installs. We
+just announced the acquisition of Parse, a platform and service provider for Mobile Apps, as part of our strategy to
+provide greater support for developers. Both of these products make it easier for developers to create and grow their
+apps, and this could be the start of something much bigger.
+Now I want to talk a bit about monetization. I just mentioned Mobile App install ads, which are growing quite well and
+have become one of our most important new ad products. This supports our hypothesis that Facebook should help you
+discover new apps and content that you may want to use. And even if not every recommendation we make is one that
+you take, I think this is still starting to provide some really good content for our community in addition to the business
+opportunity here. This type of ad make sense to me on Mobile. On desktop web, most ads encourage you to visit a new
+website. On Mobile, it makes sense that most ads encourage you to visit apps instead. And in order to visit apps, you
+first need to install them. To me those are the obvious first steps.
+On Mobile, the set of companies that produce apps is much broader than what you might think of as traditional
+developers. Every major brand, company or service wants to build apps as a storefront or interface for their customers,
+and each of these companies wants to reach their customers to encourage them to install their apps. This market is
+already big, and I expect it to continue to grow quickly.
+One more thing that's important to reinforce here is that we continue to measure people's satisfaction with all the
+content they see on Facebook, including ads. We haven't seen any meaningful impact on satisfaction, and we're
+continuing to watch this very closely. This is important to us as stewards of this community. We aspire to have ads – to
+show ads that improve the content experience over time and if we continue making progress on this, then one day we
+can get there.
+So that's my update on our strategy for this quarter. We've already accomplished a lot so far this year. We've seen
+strong growth and engagement across our whole community, several major product announcements, and good financial
+results. We think that products like Home and Graph Search are big opportunities to deliver some unique and important
+services to the world that we're positioned to do better than anyone else. And these services are also big long-term
+investments. So I want to be clear up front that we're making these big investments, because I just think these are
+important areas for us to focus on.
+Now finally, I want to take a moment to thank everyone who works at Facebook and everyone who makes this
+community great. All of you are contributing to building these new experiences and helping more than a billion people
+stay connected. So thank you all. And thanks to everyone on this call for being with us today. I look forward to having
+more to share and report on next quarter.
+And now I would like to turn the call over to Sheryl.
+Sheryl K. Sandberg
+Thanks, Mark. As Mark said, we had a very solid start to this year, and we're excited about the opportunities ahead of
+us. Our first quarter total revenue was $1.458 billion and total advertising revenue grew to $1.245 billion. This means
+that ad revenue was up 43% year-over-year, faster growth that we had in any quarter in 2012. We believe that this
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 4 of 15
+shows that our ad product innovations are helping marketers reach customers effectively. Our growth is particularly
+strong for new small- and medium-sized marketers, direct response marketers, and app developers.
+I want to use my time with you today to update you on the progress we've made in our three strategic ads priorities,
+Mobile, measurement and product innovation.
+First, Mobile. As Mark just said, having billions of people carry social devices in their pockets, checking them multiple
+times a day, often checking Facebook, is a huge opportunity for us. A recent comScore report showed that in the U.S.,
+people spend more time on Facebook than on any other app on their smartphones. The opportunity for us to connect
+people to each other and to marketers has never been greater; we are uniquely positioned to offer marketers massive
+reach on a daily basis.
+In Q1, Mobile was approximately 30% of our ad revenue, up from about 23% in Q4. Importantly, we're seeing strong
+growth in our Mobile Ads business all around the world, particularly in Asia. As an example, our Mobile App install
+ads performed very well this quarter. We offer developers a unique opportunity to drive downloads of their mobile
+apps, as Mark talked about. During the quarter, 3,800 developers used these ads to drive nearly 25 million downloads.
+Of the top 100 grossing apps on both iOS and Android in the last week of Q1, about 40% of them used our Mobile App
+install ads. In gaming, travel, e-commerce, and financial service industries, the early indicators are that our cost per
+install are highly competitive. In one example, British telcomm provider O2 used Facebook as its only digital
+marketing channel to promote its new music app, O2 Tracks. In just three days, they reached 9 million people and got
+to sixth place in iOS apps in the U.K.
+Second, I want to discuss our progress in measurement. One of the challenges we face is helping marketers understand
+the value of our ads. This has been a major focus for us over the past several quarters. We're partnering closely with our
+clients to help them understand how their campaigns are performing, and this measurement work also helps them gain a
+better understanding of their customers, which then makes their future campaigns even better. In the last nine months,
+we've conducted campaign effectiveness studies on over 100 campaigns across CPG, auto, retail and telco. One of
+these studies was with Bud Light. Bud Light ran page post ads to its 5.8 million fans on Facebook, and these ads
+appeared in all of our placements, including Mobile news feeds. We worked with DataLogix and found that these ads
+reached 20% of U.S. households and had a 3.3% sales lift, yielding a six times return on ad spend, a result we are very
+proud of and Bud Light was really excited about. We plan to continue to invest heavily in measurement with our clients
+throughout the upcoming year.
+We're also really excited about our acquisition of Atlas which closed just last week, and I was able to welcome the
+team to Facebook earlier today. Atlas is a really important part of continuing to develop our measurement capability.
+For the past decade, digital marketers have primarily measured success by focusing only on click, but this
+oversimplifies how people make purchase decisions both offline and online, because it ignores everything people do
+and see before they view that last click. Smart marketers are looking for a better way to value all of the impressions that
+they buy and engage with leading up to purchase.
+Multiple industry-wide studies have validated this multi-click attribution approach. For offline sales, both Nielsen and
+comScore have repeatedly shown that clicks are not a good predictor of sales lift. For online sales, aggregate
+knowledge found, in an analysis of more than 500 online campaigns, that when clients moved from allocating their
+advertising spend using last-touch attribution to using multi-touch attribution, they saw a 33% increase in actions,
+conversions and sales. In a study of campaigns from Q4 2012, they found that when measured holistically, cost per
+acquisition on Facebook is 68% less than other online channels. Datalogix study validate this finding as well,
+demonstrating that on average, 99% of people who saw a Facebook ad and then bought a product in the store never
+clicked on an ad at all.
+We believe the Atlas platform will help us demonstrate even more clearly the connection between ad impressions and
+purchases. We can help marketers measure the effectiveness of their ad impressions better not just on Facebook, but
+across the entire Internet. This means we can take the advancements we've made in measurements on Facebook,
+including our integrations with Nielsen and Datalogix, and extend them to a much larger audience and to many more
+purchases.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 5 of 15
+Third, I'd like to highlight product innovation in ads. Over the last year, we've invested heavily in product innovation
+and I'm excited about what we've accomplished in a relatively short period of time. As always, our top focus is on the
+results we generate from marketers, and we're pleased to see the ROI we can provide as well as providing a good
+experience for our users. We continue to innovate new targeting capabilities that make it easier for businesses of all
+sizes to reach the right people, both on Desktop and on Mobile.
+In Q1, we gained traction with our Custom Audiences product. This product allows marketers to reach their target
+audiences based on their own customer databases or databases maintained by third parties. For example, a marketer can
+target ads to customers who have not returned to their store in the past month, but who have made purchases before.
+This product improves our targeting and generates higher ROI per marketer, and a better ad experience for users. We're
+really pleased with our adoption of this product. In Q1, more than twice as many marketers used Custom Audiences
+than in Q4, including 23 of the Adage 100 top global marketers, and many other important clients. Companies from
+Hotels.com to Intuit to Virgin America are seeing success with this product.
+In April, we launched another powerful targeting product, Partner Categories. This enables marketers to use third-party
+data from Acxiom, Epsilon and other data providers to target their ads. For example, we can deliver ads to the 12
+million people in the U.S. who are likely to purchase a car in the next six months, or to the 19 million people who are
+active purchases of hair care products, households that purchase hair care products at multiples of other households, or
+to the 23 million people in the U.S. who are heavy soda drinkers. We apologize, Mayor Bloomberg.
+We have also seen more customers begin to use FBX, and we recently launched FBX and newsfeed desktop. We think
+this will continue to drive advertisers adoption, given that we generally see higher engagements for ads in newsfeed. In
+the last six months of 2012, as one example, retargeting platform Adroll saw 70% lower cost-per-click on Facebook
+than on traditional web retarget. FBX was so successful for them that by the beginning of Q1, Adroll reallocated 63%
+of their total impressions to Facebook.
+Overall, we feel really good about our first quarter results. We've made tremendous strength in Mobile; we continue to
+improve our measurement capabilities, most notably with our acquisition of Atlas; and we continue to innovate on our
+key advertising products and tools. We're still in the early days of developing our ad business and the huge opportunity
+ahead of us, and we thank all of you for your continued interest in our business.
+Thank you. I'd now like to turn it over to David.
+David A. Ebersman
+Okay. Thanks, Sheryl, and good afternoon, everyone. I'd like to share with you the progress we made in Q1 against our
+key financial objectives: to increase revenue, to invest aggressively to drive our future growth, and to position the
+company to maximize long-term returns for our investors.
+In March, on average, 665 million people accessed Facebook each day, up 26% from last year and representing 60% of
+the 1.11 billion people who used Facebook during the month. Consistent with last quarter, Mobile continues to drive
+growth in visitation and engagement. 751 million people accessed Facebook from mobile devices in March, up 54%
+from last year. These numbers do not include Instagram which continues to grow rapidly, as Mark mentioned.
+Turning to revenue, in Q1 total revenue was up 38% and ad revenue was up 43% compared to last year, driven by the
+strong performance of News Feed ads. Exchange rates had no meaningful impact on our revenue growth rates. Ad
+impressions were up 39% and average price per ad was up 3% compared to last year. The product changes we made
+and discussed last quarter, primarily lowering the price floor in our auction, had a significant impact on the price and
+volume year-over-year comparisons. In the United States and Canada, where the price floor changes had a smaller
+effect, average price per ad increased over 25% relative to Q1 of last year, driven by higher engagement and
+performance of News Feed ads.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 6 of 15
+Mobile ad revenue came in at approximately 30% of ad revenue this quarter versus 0% last year, and Desktop ad
+revenue in Q1 was essentially flat with last year. As we've discussed in the past, most of our advertising clients do not
+specify that their Facebook ads be shown on Desktop only or on Mobile only, but rather they put their ads into our
+system and allow us to show the ads on whatever device where the ads will perform best. Because of this, the flat
+Desktop revenue does not reflect a particular trend relative to desktop demand so much as it reflects the fact that more
+of our available ad inventory is being shown on Mobile, because that's where people are spending increasing amounts
+of time and because the Mobile ads perform well. We believe our aggregate ad revenue number remains the most
+important reflection of our performance in terms of increasing overall advertising demand, and the most important
+ways for us to continue to increase ad revenue are to grow users and engagement and to build advertising products and
+measurement tools that increase demand from advertisers of all types around the world.
+Total payments and other fees revenue was $213 million in Q1, an increase of 15% versus last year. Payments revenue
+from games was up 12%, but we believe 6% represents the best apples-to-apples comparison in terms of the increase
+for payments from games if we adjust for items such as the Q4 change in revenue recognition timing. We're pleased
+that Q1 represented our largest three-month quarter of games revenue to date, despite a 37% drop in year-over-year
+payments volume from our largest developer, as our other developers increased their payments volumes by almost
+60%, and we saw a record number of people playing games on Facebook. Games revenue in Q1 benefited from the
+growth of games launched over the past year, and also from our efforts to increase games distribution, usage and
+payments conversion. We believe Facebook continues to offer a compelling platform for developers to build great
+games and businesses, and we will continue to invest in this area.
+Overall ARPU increased 12% to $1.35 for the quarter, including a 21% increase in the United States and Canada and
+double-digit gains in the other major regions as well.
+Shifting now to expenses. In Q1 our total GAAP expenses were $1.08 billion. Excluding stock compensation, total
+expenses increased 56% to $895 million, driven primarily by head count and infrastructure spend to support our
+growth. We continue to expect that our total non-GAAP expenses, including cost of revenue but excluding stock comp,
+will likely grow in the neighborhood of 50% in 2013, consistent with what we said last quarter, as we continue to invest
+in products to grow engagement and monetization.
+Our Q1 GAAP operating income was $373 million, representing a 26% operating margin. Excluding stock comp, our
+non-GAAP operating income was $563 million, representing a 39% non-GAAP operating margin.
+Our GAAP tax rate for Q1 was 38% and benefited significantly from the realization of a one-time $94 million R&D tax
+credit in the quarter. Our Q1 non-GAAP tax rate was 43%, and we expect that our full year non-GAAP tax rate will be
+similar to Q1. GAAP net income and EPS for the quarter were $219 million or $0.09 per share, and non-GAAP net
+income and EPS were $312 million or $0.12 per share.
+We spent $327 million on CapEx in Q1, and we continue to expect 2013 CapEx to be in the neighborhood of $1.8
+billion as we invest in servers and data centers to rapidly and reliably provide our products to people around the world.
+In Q1, similar to Q4, upon the vesting of employee RSUs we withheld shares and paid the associated income taxes for
+our employees, which resulted in an outcome that's functionally very similar to Facebook having repurchased
+approximately $400 million worth of shares in Q1. We ended Q1 with $9.5 billion in cash and investments.
+Overall, we believe that 2013 is off to a good start. We're pleased with our financial performance as well as our
+progress in product development; we're continuing to invest aggressively in new products that we think will drive
+long-term engagement as well as products and tools to grow our revenues and increase returns for the advertisers and
+developers working with us; and we're excited about the opportunity ahead of us to build out the network of people
+using Facebook and to bring our unique assets in terms of reach, engagement and identity to our large and important
+market opportunities.
+Now let's open the call for questions.
+Q&A
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 7 of 15
+Operator
+[Operator Instructions] Your first question comes from Heather Bellini with Goldman Sachs. Your line is open.
+<Q - Heather A. Bellini>: Great. Sorry for that, I was on mute. Mark, I was wondering, you shared with us the
+continued success of Mobile install ads. I was wondering if you could share with us the other monetization initiative
+that you have that you're most excited about for 2013? And then my follow up for David would be if you can share
+with us qualitatively how CPMs trended in the various regions on a year-over-year basis?
+<A - Sheryl K. Sandberg>: So I'll take the first question. In terms of our ads priorities, they're what I mentioned:
+Mobile, measurement and product innovation. We are particularly focused on improving the quality of our ads because
+we think that is the best way to have a great experience for users on Facebook as well as for marketers. I think if you
+look at the success of Custom Audiences, Partner Categories, FDX, what you see in that are products that all move us
+towards better targeting, more relevance, better experience for users, and for our marketers, and we're going to continue
+to invest very heavily in making the ad experiences as high-return as they can for everyone involved.
+<A - Mark Elliot Zuckerberg>: Yeah, and I'll just, I'll just emphasize the same point. I mean the things that I'm most
+excited about are things that are driving quality, right? I mean, the two big levers for the business are: a) obviously a lot
+of people spend a lot of time using Facebook to stay connected with all the people around them, and that gives us an
+opportunity to advertise. But I actually think over the long term, the thing that's going to drive the business the most is
+getting the ads to be very high-quality, personalized, good content in there. And a lot of the things that we're doing are
+aligned with that. So app installs, that's – a lot of that stuff is just good content that people are interested in; there's no
+great way besides app stores today to discover a lot of apps on mobile devices.
+Similarly, I talked about the newsfeed redesign that we are rolling out, and the content in there is much more visual.
+And we've always had this policy that the advertising content will display in exactly the same way that the consumer
+content displays, and making it so that people can share much more visual content, makes it so that naturally
+advertisements can now have the same kind of compelling creative as well, which I think will increase the quality of
+that and over time increase the effectiveness as well.
+<A - David A. Ebersman>: So, Heather, in terms of your question about CPMs, ads revenue grew well across all the
+geographic regions that we report on, I mentioned the U.S. and Canada growth in CPMs. We saw a similar number, a
+little bit lower, but similar in Asia. For Europe and rest-of-world, the numbers were much lower, a little bit above zero
+in the case of Europe, a little bit below in the case of rest-of-world. The interesting question around this is what those
+numbers might have looked like if we hadn't made changes in the auction dynamics and – such as the price floor. And
+obviously we can't answer that question quantitatively because we don't have the data. But we feel pretty strongly and
+pretty confident that prices would have increased substantially more in all of the regions if we hadn't made those
+changes.
+Operator
+Your next question comes from Ross Sandler with Deutsche Bank. Your line is open.
+<Q - Ross A. Sandler>: Yeah, just two questions. Engagement first was up across most of the geographies. We assume
+that's primarily driven by Mobile but can you talk about anything else that's driving up engagement?
+And then just a follow-up on the geographies. So it looked like the U.S. had kind of the normal seasonal downtick
+sequentially whereas international, most of those regions held up sequentially. So is there – can you just talk about the
+difference between sell-through rate in the U.S. in newsfeed versus some of those international markets? Thanks.
+<A - David A. Ebersman>: Yeah, so in terms of growth and engagement geographically, I think you can see from the
+numbers that growth was strong across all the areas of the world; we continue to add a lot of users in places like India
+and Brazil. And engagement trends I think we're similarly strong throughout, and Mobile is clearly a big part of that
+equation and been very helpful to us in terms of getting more users, more daily users and more engagement from those
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 8 of 15
+users.
+In terms of revenue by geography, I don't know that there's a lot to add to the numbers I've already said. Europe looks
+good in the first quarter after being a little bit softer towards the end of last year and we continued to grow well in Asia
+and the rest of world, so I think just pretty consistent performance there.
+Operator
+The next question comes from Scott Devitt with Morgan Stanley. Your line is open.
+<Q>: Hi. It's [ph] Jordan Ronhan (29:05) on for Scott. Just two quick questions. The first is one of your competitors
+recently said something to the effect of, if you're building for Mobile you're building for today but not tomorrow
+suggesting that tomorrow is a multi-screen world with all sorts of personalized devices. And I'm just curious, what
+opportunities do you see when you think about tomorrow? Would you agree that screen fragmentation will continue to
+increase and does moving ads toward newsfeed and away from right-hand side help you in that environment?
+And then the second question is just about engagement. Engagement continues to improve despite more ads, which
+validates your strategy. So every time you launch a new product, people get concerned that that engagement may
+actually tick down but it seems to do the opposite. So are there other ad formats that you're thinking about that are
+likely to be complementary to engagement?
+<A - Mark Elliot Zuckerberg>: All right. Well, I'll start. I think the trend of more different form factors I think is
+somewhat orthogonal from the main trend that we see, which is just people sharing more in different ways. And people
+want to stay connected with their friends and family, and all these different folks in their lives, and they're going to use
+whatever technology they have to enable that, whether that desktop computers or laptops or phones or tablets or
+glasses, or like whatever the products are. And I think that there's going to be good ways for people to be able to
+consume social content on all of those. So I think the big question for us is just which platforms do we see growing the
+quickest?
+We're not tooled up as a company right now to make, you know, 10 huge investments like that at a time, but we can do
+a couple. Certainly, tablets are growing very quickly and I think that's going to be increasingly important, but I think
+that consuming social content and staying connected with people is just such a fundamental human need that that's
+going to be important on all of these.
+And getting ads in newsfeed was a valuable step in making it so that everywhere where someone is consuming content
+from Facebook the business model kind of goes along with that naturally. And you know that was one of the early
+challenges that we had with Mobile was that ads to the first six or seven years of Facebook were just this right-hand
+column, and that didn't translate to Mobile. But it was fairly easy with some amount of work just to kind of make that
+transition and we're there now. And now I think whatever the form factor is going forward we'll be able to deliver
+advertising content in a proportion that we think is good along with consumer content.
+For the sentiment stuff, I think what we're seeing is really positive and it's better than expectation. I mean we assumed
+that sentiment and satisfaction might drop some amount. You know, we continue to watch this really carefully because
+there's no guarantee that it won't in the future; but right now what we've seen has made us more confident that we can
+do more with advertising over time and can ramp that up. Our strategy isn't to have like a ton of different ad units. We
+really want to make it so that we're delivering these end-to-end solutions for our customers and only have a small
+number of simple things to make it easier for advertisers to work with us. And we want to deliver that, and we're kind
+of underway on this long roadmap to execute that.
+Operator
+The next question comes from Anthony DiClemente with Barclays. Your line is open.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 9 of 15
+<Q - Anthony Joseph DiClemente>: Thanks a lot. I have one for Sheryl and one for David. Sheryl you talked about
+Atlas and the measurement capabilities there and you framed it in terms of click based ads. I'm wondering, is there also
+an opportunity for Atlas to improve or standardize measurement for impression based ads? And I guess spirit of the
+question more generally, can you just talk about or update us on the potential for impression based ads in terms of
+increasing as a percentage of the mix versus performance based ads on Facebook?
+And then David, question would be, a little bit of a decel in the rate of growth of ARPU in the U.S., I'm wondering if
+there are other things you can call out in the first quarter, be it dollars from large events, TV events, like the Super
+Bowl, or other things, other than seasonality? Or maybe you can quantify or comment on the seasonality factor in the
+U.S. and Canada for the 1Q? Thanks a lot.
+<A - Sheryl K. Sandberg>: So on Atlas, you're exactly right. Our focus with Atlas is on impression based ads. And
+the idea is that historically a lot of ads online, which were more based on search, the attribution was always that last
+click. And as people have looked more holistically at all the ad spending they're doing, what they find is that it's is not
+the just the last click that matters, but it's all the impressions leading up to that click. Importantly, we also drive sales
+offline. And offline, people aren't clicking through to purchase at all but they're actually walking into a store, so in
+some sense there is no last click. And so our focus with Atlas is to take that technology and enable us to improve our
+ability to connect ad impressions to purchase behavior, both offline and on. And not just on Facebook but across
+different ad purchases people do. So that's exactly why we made that purchase.
+<A - David A. Ebersman>: In terms of ARPU in the U.S. and Canada, was up 21% versus last year, so it's continuing
+to make good progress there. I really don't have anything unique to say about seasonality in 2013; we see it from Q4 to
+Q1 across the years that we've been an advertising business. And I'm sure there are unique things that impact each year,
+but there's nothing that we're aware of that was particularly important in 2013, in that regard.
+Operator
+The next question comes from Jordan Rohan with Stifel. Your line is open.
+<Q - Jordan E. Rohan>: Thanks so much. I'm curious about how you address markets where it's a little bit harder to
+sell advertising. Specifically, if I'm calculating correctly then 41% of monthly active users are in the U.S., Canada and
+Europe as you define those geographies in your slides and that's 74% of ad revenues. How can the other geographies of
+the world step-up to be an even more meaningful percentage of total revenue? Do you have to add a lot of heads, a lot
+of sales infrastructure and technology infrastructure that you don't currently have? And from that perspective, did you
+meet your objectives in terms of hiring and expenses? Because I know how hard it is to support a business as global as
+Facebook. Thank you.
+<A - Sheryl K. Sandberg>: So I'm very encouraged about our opportunity to sell ads all over the world. One thing I've
+learned in my time selling ads on the Internet, which is going over a decade now, is that markets that you don't expect
+to have ad markets develop faster than you would think. So if you had asked me seven years ago what Turkey's ad
+market would look like, I would not have [ph] appraised it as it is (36:11) today.
+So I'm increasingly encouraged by small businesses around the world and large businesses and their adoption of the
+technology. I think with small businesses we have an actually really deep competitive advantage, which is that people
+all around the world use Facebook. So when small businesses, who are historically way too busy to spend a lot of time
+using technology, start to use the Facebook platform, they're using something they already use as users. So once you
+have a timeline or a profile, setting up a page is not a very big ask because you understand it, and you're doing it
+anyway. And that's why we think, with almost no direct effort we have 16 million small businesses actively using
+Facebook pages. I think one of the things we've done well over the past number of quarters is rolled out simplified ad
+products, like promoted posts, where it's easy for those people who are using pages, and this happens all over the
+world, to become advertisers. And we're increasingly optimistic that we can do more and more of that.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 10 of 15
+<A - David A. Ebersman>: In terms of hiring, I think everything's going quite well. And as we've discussed 2013 is
+the year where we're investing for future growth and I think in the first quarter, both in terms of hiring and building out
+our infrastructure we're on track with where we want to be.
+Operator
+Our next question comes from Youssef Squali with Cantor Fitzgerald. Your line is open.
+<Q - Youssef H. Squali>: Thank you very much. Two questions, maybe one for Sheryl and one for Mark. On ad
+pricing, can you maybe just talk about CPMs for ads in the newsfeed versus ads on the right-hand rail? Can you give us
+maybe just an idea as to the magnitude of the difference between the two? Was that a big driver for that 21% increase?
+And then on video advertising, I was just wondering, what's the strategy to bring video advertising to Facebook and
+kind of both in the newsfeed on the Desktop initially and then eventually on the Mobile, as soon as there's enough
+bandwidth for that? Thanks.
+<A - David A. Ebersman>: This is David. I'll take the first one, which is about CPMs. So the ads that we show in
+newsfeed are displayed more prominently and they're more in the flow of a user's attention. So as you would imagine,
+we get more engagement with those ads and they end up commanding a much higher average price per ad, as you
+would expect.
+<A - Sheryl K. Sandberg>: Video ads. Yeah, sorry, I'll take the second part. So video is a really exciting area because
+we have leveraged our scale and engagement and our ability to provide relevant ads. We have a video product out
+today. Advertisers can embed a video in their page post and we're seeing really strong results. I think both because of
+that and because of marketers' inherent liking video as a format, we continue to explore new things as well, but we
+don't have anything to announce today.
+Operator
+The next question comes from Justin Post with Bank of America Merrill Lynch. Your line is open.
+<Q - Justin Post>: Thank you. I guess two questions. First, on ad formats. Sheryl, do you think you really optimize the
+ad formats, especially on PC, or is there a lot of room you can do to get better performance from that?
+And then secondly, maybe you could just give us a business update on Instagram. Maybe you could compare where
+they are to where Facebook was when you turned on ads, or any thoughts on how you could monetize that platform
+maybe far down the road? Thank you.
+<A - Sheryl K. Sandberg>: On the first, I think there's a lot of room to improve our ads. I don't know whether that will
+take the format of different formats. I think more of it will be in terms of quality, because I think we feel pretty good
+about our format. But one of the main pushes we have is to make each ad a better experience for users: content in those
+ads is just as good as the content they'll see from a friend or anything else on the site; as well as make those higher
+returns for marketers. And those two go hand in hand. I think the place you will see the most from us is more around
+targeting, around ability to take the formats we have and make the ad better within those formats, that's certainly our
+focus now. But as our site evolves and our product evolves, we never rule out changing the format as well.
+<A - Mark Elliot Zuckerberg>: Yeah, and on Instagram, they're really doing well, right, and growing really quickly,
+and I think that that is the right focus for them. And they have this opportunity to capture and basically build off this
+huge community and I think that that should be 100% of the focus right now. I am really optimistic about the business
+opportunity there, too. You already have a lot of brand from folks who advertise with Facebook putting content into
+Instagram, getting huge engagement rates. So people are coming to us and asking for ways to make that even richer and
+it's something that we're thinking about. But right now, I think that – I'm just really proud of the team and excited about
+how quickly they're growing. I mentioned this in my comments early on, but they're growing a lot faster now and were
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 11 of 15
+faster to get to 100 million than Facebook even was.
+Operator
+Your next question comes from Gene Munster with Piper Jaffray. Your line is open.
+<Q - Gene E. Munster>: Hey, good afternoon. You've seen some acceleration of revenue over the last three quarters,
+and can you just give us some guidelines in terms of should we continue to see that revenue accelerate? And if not, at
+some point in the back half of this year or early next year, based on some of the investments and new products, could
+we see another inflection point in growth? Thank you.
+<A - David A. Ebersman>: Well, I think we're still in the really early days of what we're doing and it's particularly
+true in Mobile. A year ago, we didn't have any mobile ad revenue and now it's 30% of our ad revenue. So this is great,
+we're really pleased with the progress and we still believe that Mobile has the opportunity to be huge for us if we can
+execute well. We've got a really large Mobile user base, they're very engaged and spend a lot of time with us. We have
+an ad format that works on mobile and we have identities so that we can put the right ads in front of the right people.
+So I think the future for us is, I think, much more interesting than trying to project it from any particular quarter at this
+point, just because we've got a lot left to do. And obviously, we'll continue to try and develop tools to enable us to
+monetize our advertising better and potentially in different ways as well. But the big opportunity that's right in front of
+us is trying to make the Mobile advertising product higher quality and more relevant over time.
+Operator
+Your next question comes from Ben Schachter with Macquarie. Your line is open.
+<Q - Ben Schachter>: A couple issues for Mark. I was wondering first if you could talk about the platform strategy,
+and maybe give some specific examples of third parties that have really been successful. And in general, what are the
+lessons that you've learned around the platform strategy, how it's evolved?
+And then secondly, just around the evolution of Graph Search, any lessons from the launch, positive or negative?
+Thanks.
+<A - Mark Elliot Zuckerberg>: Sure. I mean, one thing that I think has actually gone well with platform recently is
+the gaming ecosystem. I mean, David was talking about this earlier, but with the exception of our largest partner,
+Zynga, whose growth hasn't been as awesome as everyone would hope, the rest of the community has actually grown
+quite well and is quite healthy. And so we're pretty happy with that, and it's a pretty diverse group.
+I mentioned in my comments at the beginning, I mean, we're up to I think it's 81 of the top 100 top-grossing iOS apps
+and 70 the top-grossing Android apps are connected in with Facebook. So we're getting good coverage, and that's
+always been the vision, is making it so that any app and experience that you have can be social. So that's working well.
+And also we really want to be a source that developers can come to for distribution, and make it so that they come to
+Facebook and spread their apps. And people have always had good tools to do that organically, but recently the app
+install ad product has been another tool in developers' arsenals in order to do that, and that's showing some real traction.
+So I'm pretty excited about that as well.
+Graph Search was your other question, and the strategy around this and kind of where we are in rolling out is, we
+developed it over a period of time at the company. And we knew that in order to get it to be really good, we had to get
+some real-world data. So we rolled out to just a small percent of people in order to be able to tune the ranking and all
+that. And we're getting it to a state where we're really happy with it before we roll it out to everyone. But we're really
+optimistic that that'll happen over the coming months.
+So I'm pretty excited about that. I mean, the people who use it, we've gotten very positive feedback from it, and I think
+it's going to be a very big opportunity. But the launch wasn't this point where we expected a ton of people to start using
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 12 of 15
+it; we gated who can use it quite aggressively in order to just make sure that we get the data that we need. And the real
+rollout will hopefully start pretty soon.
+Operator
+The next question comes from Mark Mahaney with RBC. Your line is open.
+<Q - Mark S. Mahaney>: Thanks. I was wondering if you could talk about engagement per cohort. There's an urban
+myth that those under 25 are disengaging from Facebook. It's hard for us to see that in, obviously, the data that you
+report, but you would know that. Is the Mobile engagement, is that offsetting that? Can you talk about that, engagement
+amongst younger cohorts? And then secondly, you talked about advertising on mobile devices performing well. Could
+you actually make the statement as to whether it performs as well as Desktop ads do for advertisers on Facebook,
+similar to, sometimes greater, or sometimes less? Could you compare those two? Thank you.
+<A - David A. Ebersman>: Sure. So I guess I'd start by saying we remain really pleased with the high level of
+engagement on Facebook by people of all ages around the world. You asked about people under 25. We continue to
+have really high penetration rates among that age group, both in the U.S. and globally, and that the younger users
+remain among the most active and engaged users that we have on Facebook. And then in addition, younger users are
+extremely active users of Instagram as well. So that's great, and makes our position even stronger.
+I think from our standpoint the urban legend you referenced sort of flows more often than not from surveys people have
+done of younger users that indicate that they're using other social services. And we take this feedback seriously, but our
+sense is that much of the concern stems from the assumption that this is a zero-sum game and that's not how we see it.
+We think the overall amount of time spent on services that enable you to connect and share is growing and will
+continue to grow, because these kinds of services are really engaging and good. And it's great for us to be the leader in
+a market that's expanding rapidly with the foundation we have with both Facebook and Instagram. And I guess the
+challenge for us is to just continue building great products that appeal to users of all ages.
+Your second question about the engagement levels of the performance of mobile ads. I think it's fair to say that
+newsfeed ads on both Mobile and Desktop both perform extremely well, and we're pleased with both formats.
+Operator
+The next question comes from Ken Sena with Evercore Partners. Your line is open.
+<Q - Ken Sena>: Hi. I was just hoping that you could go back to Atlas for a second and maybe give us kind of a sense
+of maybe the run rate quarter-on-quarter? And is it correct to see Atlas as kind of an avenue into monetizing potential
+inventory off of Facebook? And how do Home and maybe your Mobile Open Graph kind of tie into that strategy?
+Thank you.
+<A - Sheryl K. Sandberg>: Our main focus with Atlas is our own measurement. That being able to measure Facebook
+ads all the way through to purchase and net compare those in an apples-to-apples way with other ad purchases that you
+make not on Facebook is really important to drive marketer engagement with us and that's our focus. We have no plans
+to launch an ad network. We also don't break out – we're not breaking out the revenues from Atlas.
+<A - David A. Ebersman>: And it's small so Atlas – we didn't buy Atlas for the run rate of its revenues but because
+we feel like it's a tool that can help us to grow our own business.
+Operator
+The next question comes from Douglas Anmuth with JPMorgan. Your line is open.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 13 of 15
+<Q - Douglas T. Anmuth>: Thanks for taking the question. Sheryl, you talked about having strong traction with
+SMBs and also in direct response and app developers and also about sort of Atlas and attribution. But can you help us
+understand the biggest hurdles that you have right now with big marketers?
+And then secondly, David, if you could help us understand the percentage of mobile ads revenue that's coming from
+mobile app install ads? Thank you.
+<A - Sheryl K. Sandberg>: There are lots of types of big marketers. There are big marketers out there who are direct
+marketers. There are also big marketers who are brand marketers and I think most are probably the brand so that's how
+I'll answer it, even though it's worth noting that there are big advertisers across the spectrum of different types of ad
+types. As I've said before, the thing about brand advertisers is that they got very used to TV then they got very used to
+search and we are a third thing. And we will win that business client-by-client, CMO-by-CMO. It's something I
+personally spend a lot of time on and I think we have a great team in the field [ph] against (49:35)
+With some of the big brand advertisers we have been working with them for years and years. A lot of the data and
+measurement you hear us talking about are studies we've done with them based on campaigns that we've run with. And
+I think we have a lot of belief at the top and in many of them we're in the process of going through their company and
+getting that same commitment to buy. So we'll have a CMO who has seen the value, we've proven the value and really
+wants the company to come along and now we're in the process of working brand-by-brand, region-by-region to get
+that same buy-in lower in the organization which actually takes more time, not surprisingly. With other brand
+marketers they're just in a testing phase and they [ph] really (50:14) haven't done enough with us so that we can even
+do the studies to prove the value. And so the good news for us is we're engaged with all 100 Adage 100, so everyone is
+buying with us on an annual basis, and we're working client-by-client to bring them along that spectrum.
+The good news is I think we're increasingly proving that we can return on ad spend in different parts of the purchase
+funnel. So to share one recent example, MGM Resorts has used a different suite of Facebook products to address
+different customers at different parts of the purchase funnel. They offers to acquire new customers and they saw a three
+times return on ad spend. Then they use FBX to retarget people who were in their booking process and dropped out,
+and that gave them a 15 times return on ad spend. And then for past guests who had completed a purchase but hadn't
+come back, they used Custom Audiences to target them to return and they've got a 5 times return. And I think it's
+experiences like that, where we showed the breadth of what we can do that really move us forward with the brand
+spenders.
+<A - David A. Ebersman>: And you asked about mobile app install ads. So we launched that product I think at the
+beginning of the fourth quarter more broadly, so it's early in its development but really, really doing quite well and
+we're pleased with both the quality of experiences we're providing and with the revenue growth that we've seen. It
+really fits in nicely with the idea of putting content into newsfeed that we think will be of interest to users and provide
+value for developers. And I guess the only other thing I'd note is that it's an incremental audience for us for the most
+part from an advertising standpoint which is also nice. Some of those developers were advertising with us before, but
+for a lot of the mobile app install ad purchasers, are new advertisers to Facebook.
+Operator
+The next question comes from Brian Wieser with Pivotal Research. Your line is open.
+<Q - Brian W. Wieser>: Thanks for taking the question. First of all, I just wanted to go back into the segments of the
+advertisers, between the brands, developers, small businesses and performance. Is there any way you can characterize
+what maybe the growth trends have been, even recognizing some of them blur the lines? Or alternately growth trends
+between the different ad products? I find it's useful to get a sense of where the relative growth is, that would be useful.
+And then the second question, I just want to get updated thoughts on data centers, the role of data centers for Facebook.
+The degree to which you think that it is strategic investing in and building these out, or if it's really just about
+operational efficiency? Thank you.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 14 of 15
+<A - David A. Ebersman>: So in terms of the segments it's really hard to break out the revenue because the same
+advertiser crosses multiple segments with multiple objectives, sometimes with the same ads. So one of the ways we use
+the segments is to help focus our product development on understanding the different objectives that marketers might
+have, but then translating that into individual groups of revenue is difficult. I think that, as Sheryl mentioned, we're
+particularly pleased with small businesses, that's something that we can measure on Facebook and see the number of
+advertisers increasing.
+In terms of data centers, I think it is both strategic and operational. There's no question that owning our own data
+centers removes sort of another party from the mix relative to when we used to lease data center space. It also enables
+us to build the data centers to look exactly as we want them to look so that the performance is optimized for precisely
+what Facebook needs to do with the servers that we put in there, and there's definitely some efficiency that comes from
+that. But I would also say that it is, given what we're trying to do and the world we're trying to reach, I do think it's
+strategic for Facebook to not be dependent on third parties to provide that critical part of our supply chain.
+Operator
+The next question comes from Aaron Kessler with Raymond James. Your line is open.
+<Q - Aaron M. Kessler>: Yes. A couple questions; on the unpublished page post can you just give us an update, I
+think that got released towards the end of first quarter, maybe what type of traction you're seeing there?
+And also just going back to kind of U.S. versus Europe, can you just maybe detail kind of – Europe definitely
+out-performed U.S. on a sequential basis. Was that due to some of the maybe later adoption of some of the sponsored
+stories in the newsfeed? Or was that something else? Thank you.
+<A - Sheryl K. Sandberg>: So on page posts, page post ads first appeared May of last year, and then we just put them
+into newsfeed in March of 2013. In terms of unpublished, what that just means is the ability to target page posts only to
+the right people. So for example, without posting it to everyone on your page. For example, if you're a retailer and there
+was a snowstorm in one state, you could target snow shovels or other relevant stuff you want to sell for a snowstorm
+only to ads – only to people in that state. So it's just a really useful ways of segmenting your audience; again, part of
+our overall push to relevance, targeting and quality.
+We're really excited about page post ads. Over 7.5 million posts have been promoted by pages. Over 30% of the people
+using the product are new advertisers to Facebook. And I think that speaks to one of the earlier questions on small
+community and businesses and their adoption. If you say to an SMB, do you want to become an advertiser? That's a
+heavy lift. If you say to them, you have a page, you've posted something, do you want to pay a few dollars to promote
+this post to reach more people? That is a much easier on-ramp to advertising spend with us and we think it's working
+really well.
+<A - David A. Ebersman>: In terms of U.S. and Europe I really don't have a lot more to add; the Europe number, as I
+said, was strong in Q1. I'm certain it's true that for some of the products that we roll out the U.S. represents the first
+adopters and then they spread their way to other clients around the world, but I don't have any specific evidence to
+support that that was key to the trend in Q1.
+<A - Deborah Crawford>: Operator, I think we have time for one last question.
+Operator
+The next question comes from Daniel Ernst with Hudson Square Research. Your line is open.
+<Q - Daniel Ernst>: Yes. Good evening. Thanks for taking my call. Two questions if I might. If we look at the broad
+base of all ad impressions across Facebook, whether it's Desktop or Mobile, can you give us a sense of what percentage
+of those are generated or conditioned by social statistics or socially relevant data that comes out of the Facebook
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2013-05-01
+Event Description: Q1 2013 Earnings Call
+Market Cap: 69,635.37
+Current PX: 28.825
+YTD Change($): +2.2053
+YTD Change(%): +8.285
+Bloomberg Estimates - EPS
+Current Quarter: 0.133
+Current Year: 0.554
+Bloomberg Estimates - Sales
+Current Quarter: 1606.533
+Current Year: 6710.343
+Page 15 of 15
+experience versus ads conditioned by external data like from Acxiom or from re-targeting traffic from other websites?
+And then second, within the category of apps and other, can you give us a sense of is there any materiality around the
+other categories or not apps payments, or what part of that might've been Facebook-type services like Gifts? Thank
+you.
+<A - David A. Ebersman>: So to your first question on mobile, and I think the question was on mobile app load, is
+that right?
+<Q - Daniel Ernst>: No, it was – but whether it was Mobile or Desktop, what part of the -
+<A - David A. Ebersman>: Sorry, I got lost in the second question, which – I should've written down the first one. So
+right now you asked about Acxiom and things like that, that's a very small percentage of the ad impressions we show.
+So hopefully over time we can bring tools to bear that can really increase our ability to do more targeting, or more
+effective targeting than we do today.
+In terms of the second part, I think you're asking about the whole payments and other fees revenue line. So I said the
+whole line grew by 15%. Games represented 12% growth. So the increment in between the 12% and the 15% came
+primarily from user promoted posts, which is a product we launched last year, and to a lesser degree also from our Gifts
+product.
+Deborah Crawford
+Great. Thank you for joining us today. We appreciate your time and we look forward to speaking with you again next
+quarter.
+Operator
+This concludes today's conference call. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

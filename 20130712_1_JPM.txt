@@ -1,0 +1,1379 @@
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 1 of 26
+Q2 2013 Earnings Call
+Company Participants
+• Marianne Lake
+• Jamie Dimon
+Other Participants
+• John Eamon McDonald
+• Brennan Hawken
+• Betsy L. Graseck
+• Matt D. O'Connor
+• Mike L. Mayo
+• Leanne Erika Penala
+• Andrew Marquardt
+• Matthew H. Burnell
+• Gerard S. Cassidy
+• Jim F. Mitchell
+• Paul J. Miller
+• Guy Moszkowski
+• Chris M. Kotowski
+• Moshe A. Orenbuch
+• Nancy Avans Bush
+• Christopher Whalen
+• Eric Wasserstrom
+• Christopher J. Wheeler
+• David B. Hilder
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's Second Quarter 2013 Earnings Call. This call is
+being recorded. [Operator Instructions] We will now go live to the presentation. Please standby.
+At this time I would like to turn the call over to JPMorgan Chase's Chairman and CEO, Jamie Dimon and Chief
+Financial Officer, Marianne Lake. Ms. Lake, please go ahead.
+Marianne Lake
+Thank you, operator. Good morning, everyone. I'm going to take you through the earnings presentation which is
+available on our website. And please refer to the disclaimer regarding forward-looking statements at the back of the
+presentation.
+So turning to Page 1, we carried strong momentum into the second quarter with net income of $6.5 billion and an EPS
+of $1.60 a share on revenue of $26 billion, up 13% year-on-year, and flat versus a seasonally strong first quarter with a
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 2 of 26
+return on tangible common equity of 17%.
+And you can see on the page that we've highlighted several significant items up front here. A $950 million reserve
+relief in Mortgage and this quarter we saw net charge-offs less than half of what they were a year ago. A $550 million
+reserve release in Card with charge-offs remaining historically low. And $600 million in expenses for additional
+litigation reserves in corporate.
+In addition the results for the quarter included a $355 million DVA gain in the Corporate & Investment Bank. Outside
+of these four items, we had a number of other smaller items both positive and negative in the quarter which offset each
+other, many of which I'll call out as we go through the presentation.
+And we want to be very transparent with you: we don't count items like reserve releases and other non-core items when
+we think about our end performance, so if we adjust for all of these items, both big and small, our return on tangible
+common equity would have been about 15%, reflecting strong underlying core performance.
+This quarter a couple of important themes: the markets environment in June as well as several capital developments, so
+just a quick note on each. Rising long-term rates and higher levels of volatility in June had an impact both on the
+quarter as well as in terms of our mortgage outlook guidance. Our markets businesses held up well in June and our
+asset management platform outperformed during the backup. And importantly, remember that given the firm's
+positioning, rising rates will drive significant benefit in higher NII over time.
+However, in the near term, higher long-term rates and wider spreads drove a significant reduction in the unrealized
+gains in our securities portfolio, or a reduction in AOCI, which did impact Basel III capital negatively. Despite that
+impact, we were able to add to our capital and improve capital ratios as we began to realize some of the run off and
+model benefits that we previously guided you to. And finally, higher rates will have a significant impact on mortgage
+refi volumes and margins in the second half of the year.
+On capital, we've added a new page in the deck on leverage which I'll cover in a moment but our headline capital
+number is a Basel III Tier 1 common ratio of 9.3% including the impact of the final Basel III capital rules approved this
+month by our regulators. In general the approvals were the same or similar to the NPRs and in that sense, were broadly
+in line with our expectations, including the confirmation of no exception for AOCI. The estimated impact on our ratio
+was a modest benefit.
+So on page 3, let me take you through the details. We ended the quarter with Basel III Tier 1 common of $148 billion,
+up from the prior quarter. We've put a Basel III capital walk here on the page in the blue callout box, which steps you
+through each component of the change quarter-on-quarter. Our Basel III Tier 1 common ratios before the impact of
+final U.S. rules increased to 9.1% from 8.9% even after the 20 basis point impact from the change in AOCI. This
+impact was offset by a $40 billion reduction in risk-weighted assets reflecting the impact of portfolio runoff as well as
+lower levels of risk. So then adding in the benefit of final rules, which was principally related to changes in MSR rules
+and securitization benefits, our ratio at the quarter-end was estimated at 9.3%.
+And as you know, although we reflect our best understanding of all the rules in our ratio, we don't pull forward the
+impact of passive run-off or model enhancements, some of which we saw this quarter. Together these will deliver
+approximately an additional 75 basis points of benefits by the end of 2014. And we remain committed to reaching a
+9.5% Basel III Tier 1 common ratio by year-end.
+Briefly on liquidity, in addition to building our capital, we accelerated compliance with the proposed Basel III liquidity
+coverage rules and not only did we become compliant with the rule during the quarter, but at quarter-end our estimated
+ratio was 118% and we feel great about the progress we've made. Although there can be short-term volatility in the
+number, you should expect that we will run around this level going forward.
+And to finish on page 3 in the bullets, the Board increased the quarterly dividend to $0.38 a share from the previous
+$0.30, and during the quarter we repurchased $1.2 billion of common equity. As a reminder, that's $1.2 billion of the $6
+billion CCAR authorization.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 3 of 26
+So turning to page 4, we've added this page to help walk you through our current thoughts on the new proposals
+regarding Basel III leverage. Let me start with two things. We believe the leverage ratio is an appropriate complement
+to a Tier 1 common ratio if properly calibrated. And our holding company leverage ratio is estimated at 4.7% at the end
+of the quarter based upon the U.S. proposed rules. To be clear, these rules do not reflect the most recent Basel proposal,
+which would further increase our leverage balance sheet.
+Just a few comments on the proposal in the U.S. The denominator builds on GAAP assets with add-on for derivative
+potential future exposures and off-balance sheet commitments, resulting in a gross up for us of approximately $1
+billion. And remember, included in our balance sheet is over $450 billion of cash and other high-quality liquid assets,
+which we think there's a strong argument that they should not attract capital at these levels.
+So I'm going to take you through the analysis on the page. We started with analyst estimates for net income and we
+held our dividend flat and assumed repurchases generally consistent with our current levels. Given those assumptions
+we would be able to add approximately 60 basis points to the leverage ratio by the end of 2014.
+Additionally, we will continue to recalibrate our Tier 1 capital through the issuance of preferred and finally we will
+take appropriate actions to reduce our leverage assets, which may include some of the points on the slide, for example,
+re-pricing or restructuring of commitments or unwinding certain derivative positions. If you take those together, this
+could add another approximately 100 basis points over time for a total of up to 160 basis points. So we will adjust our
+business but we do expect the holding company to be able to be compliant in early 2015 with the bank to follow. Of
+course a caution that the timeline could be impacted if there are significant changes to the rules which are not yet final.
+Changing gears, in terms of business performance, starting on page 5 with Consumer & Community Banking, the
+combined consumer businesses generated $3.1 billion of net income for the quarter on $12 billion of revenue with an
+ROE of 27%. Just a quick look at the franchise, we ended the quarter with over 5,600 branches, over 19,000 ATMs and
+we now have nearly 1,700 Chase Private Client locations.
+We continue to see really strong growth in the underlying drivers for the consumer businesses. Deposits were up over
+$40 billion year-on-year, an increase of 10%. Customer attrition levels remain historically low and our active mobile
+customer base grew by 32% year-on-year. So we're adding customers, we're retaining them through superior customer
+experience and we're deepening our relationships with them.
+Also mortgage and auto originations showed strong growth, up 12% and 17% year-on-year respectively, and we had
+record credit card sales volume of $105 billion, up 10% year-on-year and record client investment assets of $172
+billion, up 16%.
+Turning to page 6, Consumer & Business Banking, net income of close to $700 million and an ROE of 25% on net
+revenue of $4.3 billion, down 1% year-on-year and up 3% quarter-on-quarter. While we continue to see pressure on
+deposit margins, five basis points down in the quarter, this continues to be largely offset by very strong growth. On the
+non-interest revenue side, we're seeing strong growth in both debit and investment revenue. Expenses are up
+year-on-year reflecting the investments we're making in the business including branch-builds, as well as the absence of
+some one-time items that benefited the prior year.
+During the quarter, we had record investment sales of $9.5 billion, up 53% year-on-year. And a note that approximately
+70% of those sales are managed money, driving strong recurring revenue for the business, up 13% year-on-year.
+Average business banking loan balances are flat quarter-on-quarter, up 4% versus last year and you can see here in the
+drivers that the loan production stabilized just above the very low levels we saw in the first quarter. We believe that
+we're maintaining share despite increased competition and the pipeline is up relative to first quarter which should
+support origination levels in the second half of the year.
+Turning to page 7 and Mortgage Banking, overall Mortgage Banking net income was $1.1 billion with an ROE of 23%.
+At the top of the table, looking at the first blue highlighted line, production pre-tax income was $582 million. Top line
+production revenue, excluding repurchases, was up slightly quarter-on-quarter with a higher reported gain on sales
+pre-tax margin of 116 basis points, more than offsetting lower closed loan volumes, down 7%. $49 billion of mortgage
+production saw a change in mix this quarter as the purchase market continued to recover. Our purchased volumes
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 4 of 26
+increased over 40% quarter-on-quarter and contributed 36% to volume, up from 23% last quarter.
+And despite the strong start in April, the environment in late May and June drove mortgage rates up significantly,
+around 100 basis points. This pressure continued into July and we expect it could have a significant impact on the
+refinance market side in the second half of the year. If mortgage rates stay at or above current levels, the market could
+be reduced by an estimated 30% to 40%. Although we will adjust capacity, expense reductions will lag volume
+reductions and will challenge profitability and production.
+Moving down to Servicing, pre-tax income of $133 million, up quarter-on-quarter and year-on-year on lower expenses
+and modest gain in the MSR. Servicing expenses of $715 million decreased quarter-over-quarter in line with our
+expectations and we continue to see Servicing or expect Servicing costs to decrease to $600 million by the fourth
+quarter.
+At the bottom of the table Real Estate portfolio pre-tax was $1.2 billion. Run off of the legacy portfolio continued,
+although in the quarter given the positive economics of retaining certain loans, we added close to $5 billion of
+mortgage loans to our portfolio, which is up $1.3 billion quarter-on-quarter. And we expect to be able to sustain these
+levels in the second half.
+On Credit, delinquencies and foreclosure in our portfolio were each down around 10% quarter-on-quarter. Net
+charge-offs continue to come down less than $300 million this quarter, which was in line with guidance. And we
+released $950 million of reserves. The majority of this release related to the impact of lower severities reflecting real
+and sustainable HPI improvements. Going forward we expect quarterly net charge-offs of less than $250 million and as
+credit trends continue to improve, expect additional reserve releases in the next several quarters.
+Turning to Card, Merchant Services & Auto on page 8, net income of $1.2 billion, up 21% year-on-year with an ROE
+of 32%, or 23%, if you exclude reserve releases reflecting excellent underlying performance in the business. Revenue
+of $4.7 billion was up 3% year-on-year and despite strong volumes down slightly quarter-on-quarter as a result of
+spread compression. In Card, year-on-year growth in both sales and merchant processing volumes were strong and
+consistent at 10% and 15% respectively. And importantly, we saw a stabilization of outstandings at the end of the
+second quarter after 15 quarters of net run-off. And we believe we've reached an inflection point and expect some
+modest growth from here.
+Expenses are down year-on-year primarily driven by lower remediation expenses on our legacy product and the net
+charge-off rate continues to be very low and we released $550 million of credit card loan loss reserves this quarter. This
+reflected both the continued improvement in early stage roll rates as well as higher than expected levels of pay downs
+on modified loans.
+The net charge-off rate was 3.31%, down over 100 basis points year-on-year and if we continue to see favorable roll
+rates, as well as our modified loans continuing to pay down, we will see incremental reserve releases in the second half
+of 2013 and before we move on, a few words on Auto: originations up 17% year-on-year, reflecting market share gains
+and driving loan balances up 5%.
+Moving on to slides 9 and 10 and the Corporate & Investment Bank; a strong second quarter performance, which
+included a DVA gain of $355 million. This is versus a gain in the same quarter of last year of $755 million, both of
+which are shown in the credit adjustments line. As usual we'll focus on the numbers excluding DVA. $2.6 billion of net
+income was the highest second quarter net income since 2009, up 37% year-on-year and 3% quarter-on-quarter.
+Revenue of $9.5 billion was up 16% year-on-year and the business delivered an ROE of 19%. Total banking revenue of
+$3.1 billion, up 17% year-on-year on higher IB fees of $1.7 billion, up 38% primarily driven by strong debt and equity
+underwriting. We continue to be ranked number one year-to-date in IB fees and despite weaker credit markets towards
+the end of the quarter we had near record debt underwriting fees in the first half of 2013. In equity capital markets we
+have a number one wallet share for the first half of the year.
+Moving on to Markets revenue, which was up 18% year-on-year, in line with our guidance, a very strong performance
+particularly given the challenging environment in June reflecting strong client flows throughout the quarter, the
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 5 of 26
+diversification of the business and trading risk discipline.
+Fixed Income Markets revenue of $4.1 billion was up 17% year-on-year with credit and spread related products
+benefiting from less eurozone uncertainty and a stronger U.S. housing market.
+Equity markets of $1.3 billion was up 24% year-on-year with strong client flows in cash and equity derivatives and
+before we leave markets, just a quick update on OTC clearing. The implementation of Phase 2 in June went very
+smoothly. Although volumes were relatively light at launch, we have seen activity pick up and we feel we have the
+right level of participation.
+Security services revenue of $1.1 billion was up 1% year-on-year. And within this number, you should note growth in
+custody fees is in line with asset growth but is offset by declines in agent lending as well as lower volumes in clearance
+and collateral management.
+Just a comment on credit. Trends are stable at low levels with small net recoveries for the quarter. Loans were down
+6% quarter-on-quarter driven by lower balances in trade and conduits and expenses were up 8% year-on-year driven
+primarily by higher comp on higher revenues, with the comp to revenue ratio excluding DVA of 31% for the quarter.
+Finally on this page, at the bottom of the drivers section you see the CIB average VaR, which continued to decline to
+$40 million reflecting generally lower levels of risk but also lower volatility across asset classes. A note that the
+increased volatility in June did however drive spot VaR up higher to over $50 million.
+Before we skip over page 10, just a comment. If you take a look at the numbers for the first half of 2013, you can see
+we continued to make great progress in the international space and had particular strength in Asia during the quarter.
+Turning to page 11, Commercial Banking saw a net income of $621 million on revenue of $1.7 billion with an ROE of
+18%. Revenue was up 3% quarter-on-quarter despite the softer lending environment, driven by higher average loan
+balances, stable spreads and positive momentum on cross-sell and IB fees.
+Although end of period loans were flat this quarter, we saw very strong growth in commercial real estate, up 3% and
+gaining share, offset by lower corporate lending. Our clients have excess cash and are keeping their utilization rates low
+but we've also seen a continuation of competitive pricing and aggressive structuring. We are holding the line in
+choosing quality over growth and this of course is reflected in our strong credit performance.
+But we're still adding very good clients and doing many more business with our existing clients. As we look forward,
+we expect continued strong growth in the real estate business given our competitive position, and for C&I loans,
+pipelines are up from the first quarter and deal activity feels like it may be turning. We are expecting a more
+constructive second half and therefore should see some growth but the environment remains competitive.
+Turning to page 12 and Asset Management, an excellent quarter and despite challenging markets in June, we saw net
+income of $500 million, up 28% year-on-year and 3% quarter-on-quarter with an ROE of 22%. $2.7 billion of revenue,
+up 15% year-on-year, reflects an increase in management fees driven by strong long-term net inflows, $25 billion this
+quarter, marking the seventeenth consecutive quarter of long-term inflows and higher equity and fixed income markets,
+up 12% based on our business mix. We also saw higher performance fees driven by strong fund returns and record loan
+balances up 16%, $15 billion year-on-year across products and geography.
+A moment on expenses, growth and performance in the business led to 11% year-over-year expense growth but as our
+investments season, the business is delivering positive operating leverage, which you can see in the pre-tax margin
+which is 30%, up from 27% last year. We ended the quarter with assets under management of $1.5 trillion, up 9%
+year-on-year and client assets of $2.2 trillion, up 10% despite small net outflows in June. However, the breadth of our
+platform should enable us to continue to gather net new assets globally looking forward and we delivered strong
+relative performance in both fixed income and equities.
+Moving on to page 13 and Corporate and Private Equity, a net loss of $552 million for the quarter. Private equity
+generated net income of just over $200 million, which included over $400 million of gains in part driven by
+investments that are in active sales discussions. Treasury and CIO net loss was $429 million, driven by negative NII
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 6 of 26
+due to continued low rates and slower reinvestments, as well as a change in portfolio mix shifting from higher yielding
+securities to LCR-eligible securities and cash. The results also included net securities gains and a modest loss on TruPS
+redemption which we guided to last quarter. Excluding the net of these two items CIO Treasury would have generated a
+net loss of about $350 million which is generally in line with our guidance. Our quarterly guidance remains unchanged.
+Finally Other Corporate, a net loss of $335 million includes the $600 million of pre-tax expense for additional litigation
+reserve in the quarter. Excluding litigation, Other Corporate was around $100 million net income in line with our
+guidance. Again, our guidance, which does exclude litigation and significant items, remains unchanged for Other
+Corporate.
+Turning to page 14 and net interest margin, net interest income was down slightly and core NIM was down 23 basis
+points quarter-on-quarter. We acknowledge this is larger than you may have expected but let me give you some color.
+Importantly it was principally a result of actions we took to build liquidity to comply with Basel requirements more
+quickly which we believe is a strong positive. And to a degree it was also a pull forward of compression we've guided
+to over time.
+So we added a table on the slide which shows our cash balances and how they progressed over time and what you can
+see circled is that our cash was up more than $100 billion quarter-on-quarter with other interest-earning assets being
+broadly flat. This changed the relative mix and also the size of our interest-earning assets and drove core NIM down the
+18 basis points we circled on the page.
+While the increase in cash does reflect accelerated LCR compliance, it does also reflect very strong deposit growth and
+slower reinvestments and a little less robust loan growth. The balance of the reduction in NIM relates to loan yield
+compression partially offset by the lower cost of debt. So going forward, all else being equal, what we expect from here
+is relatively stable NIM in the second half of the year and net interest income to increase modestly next quarter.
+And finally, on slide 15, here's our outlook; I've covered these items as I went through the presentation. So in wrap-up,
+overall a very strong quarter, returning 17% on tangible common equity with excellent underlying performance across
+businesses while making significant progress on capital and liquidity ratios. And the firm overall is positioned to
+benefit from higher rate environment.
+Thank you for joining us, operator you can open up the call for Q&A.
+Q&A
+Operator
+[Operator Instructions] Our first question comes from John McDonald of Sanford Bernstein.
+<Q - John Eamon McDonald>: Good morning. Hi, Marianne. I was wondering if you could – do you have any sense
+that you could give us of where you stand on the leverage ratio at the bank level today relative to the 6% requirement?
+<A - Marianne Lake>: Hey, John. Good morning. We don't disclose the bank leverage ratio but it is lower than the
+holding company, so we would have a further way to go. We said we intend to be compliant at the holding company
+level by the beginning of 2015 and welcome bank compliance shortly thereafter.
+<Q - John Eamon McDonald>: Okay. So shortly thereafter, maybe within a quarter or two? Can you give us any feel
+there? Just to get a sense of...
+<A - Marianne Lake>: John, obviously the rules are fairly new and still a proposal and not final so there's work to do
+before they get finalized. We're working through all of the things we need to do to comply. I would say we would aim
+to be compliant by the end of 2015 but we need to go do more detailed plans and we'll get back to you with more
+specifics.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 7 of 26
+<Q - John Eamon McDonald>: Okay. You mentioned the mitigation you can do at the holding company, is there
+mitigation you can also do to help the – specifically, the bank level ratio in terms of maybe assets that could be shifted
+to the parent or equity that could go from the holding company to the sub and things like that?
+<A - Marianne Lake>: Yes, all of those things could be considered and would be considered.
+<Q - John Eamon McDonald>: Okay. And then on the liquidity ratio, I guess, why have you decided to run with this
+level of cushion to LCR and why the acceleration in getting there now? Anything driving that in particular?
+<A - Marianne Lake>: In terms of the cushion, while it's not scientific, there is a volatility in that number inherent in,
+actually, deposit flows, so we do see some things in deposit flows, particularly wholesale flows, and that could span a
+quarter end and drive the ratio up or down some so it's prudent to run at a ratio above 100% and at around about this
+level. And just in terms of acceleration, we just wanted to get there more quickly. The opportunity presented itself, so
+nothing more than that.
+<Q - John Eamon McDonald>: Okay. And could you give us some of the assumptions behind your outlook for stable
+net interest margin and modest net interest income growth in the back half of the year just in terms of maybe what
+you're assuming on rates and loan growth? And what are the puts and takes in your outlook?
+<A - Marianne Lake>: Yeah. So it's a great, question, John, because as you alluded to in the question there's a large
+number of moving parts in terms of the forecast including points of view on rates, which as you know have been
+choppy over the last several weeks. So, you know, we base our projections on modest loan growth and on our
+understanding of the implied rate curves and that they could change also. Deposit flows as you've seen, have been very,
+very strong. So we accelerated our LCR compliance. That took the majority of the NIM compression we were
+previously expecting and guiding you to forward and consequently we expect to be more stable with some loan yield
+compression being offset by lower cost of debt.
+<Q - John Eamon McDonald>: Okay. And then finally, I'm not sure if I saw it in here are not, but can you remind us
+how much you benefit from higher rates and which rates in particular are most helpful for you? If you can go delineate
+between kind of the 10-year and then kind of the shorter based rates?
+<A - Marianne Lake>: Yeah. So I'll just give you two data points and then you can maybe go and have a look at them.
+But I think in the Q we disclose a couple things. The first is a bit of a steepener, which says that over 12 months it
+would deliver about $900 million of additional NII. It's not exactly what we've seen but it's...
+<A - Jamie Dimon>: That's the 10-year going up 100 basis points.
+<A - Marianne Lake>: That's right. So the 10-year going up 100 basis points, I'm sorry, and that's not exactly what
+we've seen but it's the closest thing to what we've seen right now. And then the other thing we've disclosed is on a
+parallel shift of 100 basis point so if you saw short rates go up too, that would deliver just over $2 billion over 12
+months. And don't forget that recurs but it takes time to build up to that.
+<A - Jamie Dimon>: And that's interest rates only, not mortgage volume, investment banking volume. That's just
+isolating interest rates only assuming the company invests the way we're planning to.
+<A - Marianne Lake>: Yes.
+<Q - John Eamon McDonald>: And that has, that's the current numbers? That's last Q? Or that's as of right now?
+<A - Marianne Lake>: Those were the numbers from the last Q and they are not meaningfully changed right now.
+<Q - John Eamon McDonald>: Okay. And last thing from me, on reserve release, how can we gauge if it is possible
+at all, how long this can go on for? Are there any base metrics that you think you can't go below that we can kind of
+look at as a percent of loans or a percent of normalized charge-offs? Any help you can give us to kind of gauge how
+much might be left on reserve release front?
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 8 of 26
+<A - Marianne Lake>: Yeah. So, John, I would point you to, and I can't remember the page, I apologize, but we put a
+page in investor day that talked about what we thought through the cycle charge-off rates were for each of our
+businesses. And so what I would do is look at – take NCI loans and a reserve balance at the end of the period of $3.3
+billion, take a look at that page and figure out what a more normal sort of charge-off rate and therefore reserve balance
+would be and that will be in large part a reduction over the course of the next several quarters. So we expect it to be a
+journey to get to that level throughout 2014.
+<A - Jamie Dimon>: And so wholesale we're kind of where we should be. You shouldn't expect much different. Credit
+cards maybe a little bit more but then the hundreds of millions. And on mortgage, I think we said at the investor day
+eventually would be $1 billion to $1.5 billion...
+<A - Marianne Lake>: Yes, around about $1.5 billion, down from $3 billion
+<A - Jamie Dimon>: ...in a couple of years.
+<Q - John Eamon McDonald>: Got it.
+<A - Jamie Dimon>: And PCI, if we have home improvement you may see some reduction in PCI loan loss reserves,
+purchased credit-impaired.
+<Q - John Eamon McDonald>: You haven't done that yet in terms of taking the PCI out yet, right?
+<A - Jamie Dimon>: No.
+<A - Marianne Lake>: No. We haven't done that yet, John, but the reserve release we took in NCI was driven in large
+part by lower severity. So as this continues you might see some of that.
+<Q - John Eamon McDonald>: Great. Okay. Thank you.
+Operator
+Our next question comes from Brennan Hawken of UBS.
+<Q - Brennan Hawken>: Good morning.
+<A - Marianne Lake>: Good morning.
+<Q - Brennan Hawken>: So another quick question on leverage. Could you help me understand why it takes until 1Q
+2015 for the bank holding company to add the 30 basis points necessary to the leverage ratio? It just looks like what
+you laid out puts you kind of well above that, earlier?
+<A - Marianne Lake>: Yeah. So, Brennan, we're not – I guess what we laid on the page was an illustration. I mean
+you're absolutely right what it shows you is that we ought to be able to close that gap much more quickly. And so that
+might very well be what happens. We just aren't going to come out now with a target of achieving it over the course of
+the next one or two quarters because we have other objectives including the continuation of being able to have some
+capital distributions to you guys that we won't be able to decide – well, we do CCAR at the end of the year.
+<A - Jamie Dimon>: We'll be able to do it pretty quickly when we know what it actually is and we'll want to start
+making actions that affect customers way in advance of knowing the real final rules.
+<A - Marianne Lake>: Right.
+<Q - Brennan Hawken>: Sure.
+<A - Marianne Lake>: But what you took away from the page was absolutely right. Closing that gap should not be
+difficult and could be more quick than this but we wanted to be cautious.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 9 of 26
+<Q - Brennan Hawken>: Understood. Thanks. Was there a change in the securities portfolio during the quarter? And
+maybe could you give us an update on where that duration stands?
+<A - Marianne Lake>: We're not going to disclose the duration but there was some changes in the portfolio as we
+moved out of non-eligible into eligible securities for LCR and also maintained more cash, so there was some changes
+we also, as you saw, made some gains on sale when we were doing that.
+<Q - Brennan Hawken>: So would the bias be to assume that it would be towards shorter?
+<A - Jamie Dimon>: No.
+<A - Marianne Lake>: No
+<Q - Brennan Hawken>: Okay.
+<A - Jamie Dimon>: When rates go up, certain mortgages linked and a whole bunch of different things take place but
+in general the portfolio is several-year duration and a couple year duration, AA plus and it obviously changes over time
+to manage interest rate exposures.
+<Q - Brennan Hawken>: Okay. Just a quick follow-up on John's question, given – is it generally right given what you
+guys have disclosed and what you guys just verified and what we've seen in rates, if we assume that rates kind of stay
+where they're at that you would get about 75% of that $900 million in additional NII in 2014 if we stay status quo to
+where we are now?
+<A - Marianne Lake>: That is not a bad assumption.
+<Q - Brennan Hawken>: Okay.
+<A - Jamie Dimon>: All things being equal.
+<A - Marianne Lake>: All things being equal, yeah. [Laughter]
+<Q - Brennan Hawken>: All things are never equal but...
+<A - Jamie Dimon>: Right.
+<A - Marianne Lake>: Right.
+<Q - Brennan Hawken>: And then last one, just trying to think about maybe the potential to avoid some of the really
+big distraction that we saw this quarter around what is sort of becoming an annual event at the shareholder vote, have
+you guys considered maybe articulating some kind of plan or a blueprint or a map or what have you to get people
+comfortable with the future state of CEO/Chairman roles way down the line when there is sort of a succession that is in
+place?
+<A - Jamie Dimon>: The Board – we're not going to say what Board deliberations are but the Board obviously has
+talked to shareholders there are a bunch of ideas and also we think we have some of the best corporate governance out
+there including – which I think is more important than the separation of Chairman and CEO, that the Board should
+make decisions based on the circumstance at the time. They know the company, the strategy, the people that the Board
+always meets without the CEO, the Board, in total, sets the agenda, the Board is completely engaged in CEO
+compensation, the Board can hire and fire the CEO at will. Those practices, some are in our charter, some are not but
+hopefully it won't be the distraction it was last year.
+<Q - Brennan Hawken>: Let's hope so. Thanks for the answers.
+Operator
+Our next question comes from Betsy Graseck of Morgan Stanley.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 10 of 26
+<Q - Betsy L. Graseck>: Hi. Thanks. Good morning.
+<A - Marianne Lake>: Good morning.
+<A - Jamie Dimon>: Hi, Betsy.
+<Q - Betsy L. Graseck>: Hey. So one more question on page 4, your 4.7% is really close to what we were looking at
+for 4.5% so very much in line with what we were looking for, I'm just wondering why no bank sub disclosure? I realize
+that it's different but – and I heard your answer earlier but I'm just wondering why not just give us a number? Is it that
+there's too much uncertainty in estimating that denominator you need understanding from the regulators as to what
+they're looking for? Could you just help us out on what are the qualitative reasons?
+<A - Marianne Lake>: Sure, Betsy. There's nothing sinister underlying it. Let me just give you hopefully enough. It is
+a little bit lower than 4.7% and given that the ratio for the bank holding company is 6% then the gap is a little bit bigger
+but measured in small tens of basis points, not more.
+<A - Jamie Dimon>: A lot of it is historical how JPMorgan Chase got built, through mergers over time what ended up
+in the bank, what ended up in broker dealers, we had to change our legal entities and move it overseas. So we had to
+modify legal entities to accomplish our objectives and we'll be able to do that over time.
+<A - Marianne Lake>: And over time what we're able to push out...
+<A - Jamie Dimon>: Exactly.
+<A - Marianne Lake>: ...will help.
+<Q - Betsy L. Graseck>: Okay. And then...
+<A - Jamie Dimon>: And the overriding constraint is the 5%.
+<Q - Betsy L. Graseck>: Yes I get that. If possible, I'd love to show you what our assumptions are and maybe we
+could understand where we differ.
+<A - Marianne Lake>: Yes, of course.
+<Q - Betsy L. Graseck>: Okay. And then separately, you put on here, on this page the potential further add-ons for the
+Basel proposal, you're talking about the Basel consultative document that came out a couple weeks ago.
+<A - Marianne Lake>: Yes.
+<Q - Betsy L. Graseck>: Is there any sense as to what kind of basis point hit that is?
+<A - Marianne Lake>: I mean, we're not going to disclose it today, Betsy, and we can reconsider that because we
+think there's some pretty fundamental issues with some of the proposals not least of which is the absence of FIN 41
+netting or netting on matched securities financing which we believe and are hopeful is going to be resolved but it is an
+add-on and it's not insignificant.
+<A - Jamie Dimon>: And then things like stressing derivative receivables and not taking benefit for collateral, which
+we know we get. There are a lot of issues in there that need to be looked at and analyzed.
+<Q - Betsy L. Graseck>: Right. Agreed.
+<A - Marianne Lake>: Betsy, to Brennan's earlier question I think in the context of what we've laid out as
+illustratively being achievable, then time lines would solve the problem.
+<Q - Betsy L. Graseck>: Got it. Okay.
+<A - Jamie Dimon>: The other important point is one of the things that Basel and all this stuff is going to do is
+harmonize global rules. This is clearly no longer harmonization. We have one part of the world that's talking about two
+times what another part of the world is talking about and I don't think there's any industry out there that would be
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 11 of 26
+comfortable with something like that in the long run. Because in the long run that has a lot of effects you can't
+determine quarter-by-quarter.
+<Q - Betsy L. Graseck>: Yes. So and part of the challenge is a higher denominator on one side and a higher ratio on
+the other side, right?
+<A - Marianne Lake>: Right.
+<Q - Betsy L. Graseck>: Just on HPI, HPI obviously rose significantly in the quarter. Could you give us an indication
+as to how much that helped RWAs?
+<A - Marianne Lake>: Yeah so...
+<Q - Betsy L. Graseck>: Was that a big piece of the driver?
+<A - Marianne Lake>: The HPI improvement on RWA has a bit of a lag to it. So while it did contribute to the
+reduction in our RWA it was – our reduction was principally run off and some model enhancements and some lower
+risk. But in part that lower risk was driven by better HPI.
+<Q - Betsy L. Graseck>: So can you give us a sense as to given where HPI is today what kind of benefit that would
+have on RWAs if there wasn't a lag?
+<A - Jamie Dimon>: We'll have to get back to you.
+<A - Marianne Lake>: Betsy, it's a great question and we will get back to you after the call.
+<Q - Betsy L. Graseck>: Okay. Cool. Thank you.
+Operator
+Our next question comes from the line of Matt O'Connor of Deutsche Bank.
+<Q - Matt D. O'Connor>: Good morning.
+<A - Marianne Lake>: Hi, Matt.
+<Q - Matt D. O'Connor>: I was drilling down to some of the businesses here. Obviously June, as you've mentioned,
+we've all seen was very volatile in the credit markets and the fixed income markets in general. And I guess just kind of
+basic question like how did you do so well on fixed income? I know you guys have commented early part of the month
+but things have deteriorated quite a bit and I think some of us were surprised at how good it was in the quarter.
+<A - Marianne Lake>: So June was a bit more challenging and so it wasn't as strong as April and May. But it really
+comes down to the fact that we really do have a client driven business model and the client flows, they held up. And so
+if you surround that with robust and strong trading risk discipline, that's pretty much how it panned out.
+<A - Jamie Dimon>: I think our folks in emerging markets also did a spectacularly good job because I think you might
+see some real differentiation there from some other folks in how their numbers come out.
+<Q - Matt D. O'Connor>: And is that just from managing a smaller inventory while the spreads were widening or...?
+<A - Jamie Dimon>: A little bit of everything.
+<Q - Matt D. O'Connor>: Okay. And I guess on the other side when we look at the comp rate at the investment bank,
+it was down I think 2% to 3% both linked quarter and year-over-year. What's driving that? Is it mix? Is it the
+streamlining of the business lines that you announced about a year ago fully coming together? Or just paying people
+less?
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 12 of 26
+<A - Jamie Dimon>: I think we've been very consistent on how we look at comp and how we accrue it and things like
+that after capital charges and by line of business, type of business. So it's just a change of mix and a change of capital,
+et cetera.
+<Q - Matt D. O'Connor>: And so I think you've been guiding towards 35%.
+<A - Jamie Dimon>: Yeah.
+<Q - Matt D. O'Connor>: Should we think that maybe it's the lower end of that? That this is more sustainable?
+<A - Jamie Dimon>: Possibly.
+<Q - Matt D. O'Connor>: Okay. All right. Thank you.
+Operator
+Our next question comes from Mike Mayo of CLSA.
+<Q - Mike L. Mayo>: Good morning.
+<A - Marianne Lake>: Morning.
+<Q - Mike L. Mayo>: First I just wanted to follow-up on the comment. So over the next 12 months NII should benefit
+by 75% of the $900 million? So in other words you should – in 2014 you should benefit by about $700 million.
+<A - Marianne Lake>: Well, Mike, all other things being equal that's not an unreasonable assumption. But as we said,
+things are never equal.
+<Q - Mike L. Mayo>: No, I understand. It's more art than science. So I guess your run rate of net interest income that
+would be about 1.5% of that? Is that in the ballpark of how you think about it?
+<A - Marianne Lake>: I'm sorry, Mike. Could you say that again?
+<Q - Mike L. Mayo>: I said that benefit would equal about 1.5% of net interest income?
+<A - Marianne Lake>: Yes. I guess that's about right or maybe a little less. A little less, Mike.
+<Q - Mike L. Mayo>: Okay. And when you say the benefits, the benefit of the 10-year increasing 100 basis points? I
+didn't fully hear how you explained that.
+<A - Marianne Lake>: Yeah. It's – I think we disclose all of the assumptions in the earnings risk tables in the 10-Q.
+But yes it's short rates staying low and the ten-year going up 100 basis point, I think.
+<A - Jamie Dimon>: Yes. It also drives up the 5-year, the 7-year...
+<A - Marianne Lake>: Yes, yes.
+<A - Jamie Dimon>: So if you use one point, it's the ten-year but it's the yield curve going up meaningfully, yes.
+<Q - Mike L. Mayo>: The reason I ask that is it seems as though maybe the ten-year is not as relevant as perhaps the
+five-year, or am I mistaken? Or the three year?
+<A - Marianne Lake>: You're not mistaken, which is why if you actually get more of a parallel shift and short rates go
+up, the numbers go up by multiples.
+<Q - Mike L. Mayo>: Okay. Separately, the investment banking backlogs, where are they versus the first quarter at the
+end?
+<A - Marianne Lake>: The pipeline?
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 13 of 26
+<Q - Mike L. Mayo>: Yeah.
+<A - Marianne Lake>: The activity levels picked up some and we expect that to carry into the third quarter, so a little
+better.
+<Q - Mike L. Mayo>: Okay.
+<A - Jamie Dimon>: You saw a real slowdown when we had the volatile markets in June but we think that's actually...
+<A - Marianne Lake>: Not permanent.
+<A - Jamie Dimon>: ...opening – the market's kind of opening up again. You see a bunch of IPOs and debt deals and a
+lot of M&A chatter.
+<Q - Mike L. Mayo>: And the leverage ratio, you said under the U.S. rules is 4.7%, under the proposed Basel rules, if
+adopted, where would the leverage ratio be?
+<A - Marianne Lake>: We didn't disclose that, Mike, for a couple of reasons, one is that, as we said, the proposals, we
+think, have some fundamental issues to them but it would be lower. Their gross up to our balance sheet on top of the
+3.5 trillion on the page would not be insignificant. But we didn't disclose that.
+<Q - Mike L. Mayo>: Can you give us a ballpark or is that one reason you're being so conservative? You have 160
+basis-point-potential benefit but you're still saying wait 'til early 2015, is that part of your thought process?
+<A - Marianne Lake>: Yes. That is definitely one of the reasons and that's one of the reasons why we said of course
+the timeline to be impacted if there are significant changes to the rules and that would be one of those changes.
+<Q - Mike L. Mayo>: And then last question relates to the processing business, which to me it looks like it's lagging
+for the second quarter in a row. I'm asking a more broad question, for eight years since Bank One merged with
+JPMorgan and I think for a few decades before that it was run as a separate business and the fourth quarter last year it
+was merged into the investment bank and now we have two quarters in a row of what looks like performance that will
+lag peers. So my question is, how is the management and organizational restructuring going? Is it impacting the
+processing business or is there something else taking place there?
+<A - Jamie Dimon>: First, I think it's going great and the folks in the field will tell you that they're seeing huge
+benefits from putting together the corporate global investment bank, the corporate investment bank, treasury services.
+But you are right, there has been a flattening out a little bit in treasury services and investment services which is mostly
+custody, some of that is spread, some of that is margins, so some of that will benefit also a little bit from rising rates.
+<Q - Mike L. Mayo>: Right.
+<A - Jamie Dimon>: We don't know what the peers will show yet, so maybe you do but I don't know yet.
+<Q - Mike L. Mayo>: I'm guessing it's going to lag, I mean assets under custody down 2% linked quarter when
+markets are up as much as they are. Is there anything else that's one-time or unique?
+<A - Jamie Dimon>: Mike, I don't know and obviously if we lag our peers we'll be as disappointed as you are.
+<Q - Mike L. Mayo>: Okay. All right. Thank you.
+Operator
+Our next question comes from Erika Penala of Bank of America.
+<Q - Leanne Erika Penala>: Good morning. My first question really has to do with some of the initial questions
+asked on capital. What is the priority here on capital distribution versus leverage ratio? Is it compliance to the 5% at the
+hold co. Or is it accelerating capital distribution over the next two years relative to what you announced out of this
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 14 of 26
+year's CCAR or can JPMorgan both be compliant with a leverage ratio over time and accelerate buybacks and
+dividends?
+<A - Jamie Dimon>: Your last one.
+<A - Marianne Lake>: It's balancing both, Erika, which is why in response to the earlier question we said we've been
+conservative on the timeline because we want to preserve the flexibility to consider capital distributions when we do
+our CCAR in 2013 and it will be a factor we consider.
+<Q - Leanne Erika Penala>: Okay. A follow-up question on what you mentioned, Marianne, in the beginning of the
+call on mortgage, you mentioned that if rates, loan rates stay where they are that could mean the market shrinks by 30%
+or 40%. What is the proportionate expense in that scenario that you could take out of the business and how long
+typically is the lag until you can take those expenses out?
+<A - Marianne Lake>: So, Erika, the truly, truly variable as in transaction variable proportion of the businesses is it's
+some but the majority of it is related to people and systems so there's usually a several month lag to be able to get that
+out of the system.
+<Q - Leanne Erika Penala>: And proportionately, if the revenues are down let's say – origination revenues are down
+30% to 40%, what's the, I guess the efficiency ratio that we can think about as we think about the variable costs that can
+get taken out?
+<A - Marianne Lake>: Think about it this way, I think revenue margins will be down on competitive pressures,
+volumes are down and expenses may go up because volumes are down for a couple of quarters.
+<Q - Leanne Erika Penala>: I see. Okay. Thank you.
+<A - Marianne Lake>: Expense margins, sorry, expense margins would go up.
+<A - Jamie Dimon>: A dramatic reduction in profits.
+<A - Marianne Lake>: We're trying to be clear with you that this would be a significant event, if rates stay where they
+are, if mortgage rates stay where they are. Or go higher.
+<Q - Leanne Erika Penala>: Okay. Thanks.
+Operator
+Our next question comes from Andrew Marquardt of Evercore Partners.
+<Q - Andrew Marquardt>: Good morning, guys. I wanted to ask, maybe I missed it on expenses. Can you talk about
+how you're still feeling about the full year target you previously had talked about down $1 billion year-over-year
+ex-legal? Does that still stand?
+<A - Marianne Lake>: So let me just walk you through it, if you've got – so this quarter our expenses adjusted for
+litigation were $15.2 billion. For the first half adjusted for corporate litigation and foreclosure rated matters, it was
+$30.7 billion, which would be against the $59 billion target, which is running a little high but there are two important
+factors. One is in our definition of adjustment we only adjusted out corporate litigation so there's other litigation in the
+firm that's several hundred million dollars. It's disclosed in our supplement. You can see that. And also in the first half
+of the year, we did see outperformance in terms of the investment bank or CIB revenues and clearly we paid
+compensation on that, which is a good expense and we would weight that in all day long. So if you take the
+combination of those two things that we don't technically adjust out, our underlying core expenses are on track for that
+number yet.
+<Q - Andrew Marquardt>: Got it. That's helpful. And the additional litigation costs this quarter, somewhat elevated.
+How do we think about them going forward, staying elevated but at a similar rate? Or a little bit lower? How do we
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 15 of 26
+think about that?
+<A - Marianne Lake>: You can't really think about a run rate trend in litigation costs because they are somewhat
+lumpy so we don't have a forecast for you and they will go up and down.
+<Q - Andrew Marquardt>: Got it. Thanks. In terms of the rates, obviously impact a lot of different businesses,
+mortgage, the balance sheet, NII, NIM discussion but then also can you walk through how we should think about it in
+terms of the FICC business, heightened volatility, maybe more volume, but then obviously softer environment in June?
+How do we think about this current environment kind of playing out for the back half of this year in terms of trading?
+<A - Jamie Dimon>: You're absolutely right. When you separate NIM, you try to tease it out and you make our
+interest rates because you're going to look at the underlying results, underlying volumes and things like that. There's no
+reason to think that we're not going to have any good trading going forward because if the economy is strengthening
+and we believe – our view is that it is, and that capital markets are going to open up again and people get adjusted to
+slightly new higher rates and yeah, volatility helps certain trading areas. It hurts – high interest rates hurt mortgages but
+again they can help other areas. So it's a whole potpourri. It's impossible almost to separate it out and we try to do that
+for you but I think it's a little bit of a mistake when you look at the whole company.
+<Q - Andrew Marquardt>: Okay. Thank you. And then my last question was just a clarification. There has been a lot
+of regulatory issues: capital, liquidity buffer zone buffers, OLA et cetera. Is it – as well as – I know you guys I expect –
+I think it's this quarter that you're resubmitting your CCAR plan. Is it fair to assume that despite all these things that
+have been coming out, still some hurdles need to be met, that one shouldn't expect a change in capital deployment? Or
+should we?
+<A - Marianne Lake>: So, we're working really hard on the CCAR resubmission and you're right, we're going to
+resubmit that before the end of the third quarter. We're in constant dialogue with the regulators, although we won't
+receive any formal feedback until we're in the fourth quarter and so we're doing everything we can to be able to be
+successful in remediating any of the issues they identify for us and if we're able to do that, then there should be no
+impact.
+<A - Jamie Dimon>: It won't be for lack of trying.
+<A - Marianne Lake>: Yes. It will not be for the number of people who are...
+<A - Jamie Dimon>: You have probably 1,000 people now who are devoted...
+<A - Marianne Lake>: We have 500 people that are dedicated and thousands of people working on it.
+<Q - Andrew Marquardt>: Thank you.
+Operator
+Our next question comes from Matt Burnell of Wells Fargo.
+<Q - Matthew H. Burnell>: Good morning. Just a couple of questions. First of all, Marianne, you mentioned servicing
+costs in the mortgage business being down by about $600 million in the fourth quarter. Is that largely coming out of
+default side of things? Or do you think that will be more evenly spread between default and more regular servicing?
+<A - Marianne Lake>: So, just a point of clarification, if it wasn't clear is that our guidance is that we're expecting to
+get our expenses down to $600 million in the fourth quarter from the level they're at now, which is $715 million for this
+quarter. So just that's to be very clear and to remind you longer our longer-term run rate for that business is $325
+million a quarter. So, it is dominated by the default side but there is some core performance servicing in there too.
+<A - Jamie Dimon>: And to keep it really simple, we hope to get it to a run rate of $500 million the year after that,
+$400 million the year after that and $325 million the year – where we should be. We have a lot of work to do in
+systems, et cetera to get all that done. And obviously the costly foreclosure and delinquent stuff is also coming down.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 16 of 26
+<Q - Matthew H. Burnell>: So it's about a three to four year run rate to get down to ultimately where you want to be?
+<A - Jamie Dimon>: Three year.
+<A - Marianne Lake>: About three years. And know that we are actively working the portfolio to be able to do what
+we can more quickly so you would expect that we are looking at either sales or sub-servicing of defaulted loans and
+capacitizing our performing servicing. So we're working on all of that.
+<Q - Matthew H. Burnell>: Okay. Marianne, just a further clarification question on gain on sale margins. You
+mentioned those were 118 basis points this quarter. You mentioned last quarter that they were 100 basis points and
+about 180 basis points on a normalized basis in the fourth quarter. Are all those calculated in the same way? Are those
+quarterly averages? Or are those the gains at the end of the quarter? I just want to make sure we understand that.
+<A - Marianne Lake>: Sure. They're all calculated the same way based upon the disclosed closed loan volumes that
+we have for you. So if you take the revenues and expenses and use the closed loan volumes for the quarter that's how
+we derive the margins, which is why you see some noise, short-term noise quarter-over-quarter and the increase this
+quarter to actually 116 basis points because we actually took revenues when we lock loans but we report them closed.
+<A - Jamie Dimon>: Which is different than you guys do it at Wells.
+<Q - Matthew H. Burnell>: Fair enough. And then one final question, Marianne, you mentioned deal activity appears
+to be turning. I think that was with respect to the Commercial Banking business. Could you provide a little more color
+on that? Did June's volatility in the interest rate scenario slow down business activity in the Commercial Banking
+business? I'm not really specifically talking about the investment bank but more in the commercial banking side of
+things.
+<A - Marianne Lake>: Yeah. So I would tell you that it's more of what we're seeing and feeling in my discussions and
+activity with our clients that we feel like deal activity levels have picked up and may be turning and the pipeline feels a
+little better and solid but not strong. So we're expecting that to translate into the second half and obviously as the
+economy continues to recover and confidence continues to grow, hopefully that will get even better.
+<Q - Matthew H. Burnell>: Okay. And just finally there's been a lot of talk obviously in the last couple days about a
+potential of reassertion Glass-Steagall and I guess I'm just curious, given your current business model, would that – if
+that were to come to pass, would that be a meaningful negative in terms of your ability to maintain your cross sell
+opportunities across the businesses? Or is that perhaps less of a challenge given how you currently have the businesses
+structured?
+<A - Marianne Lake>: So listen, my comment on that is that Glass-Steagall didn't have anything to do with the crisis
+and our business model allowed us to be a port in the storm. Our customers like doing business with us in the model
+that we have now so...
+<Q - Matthew H. Burnell>: Okay.
+<A - Marianne Lake>: We don't spend time thinking about it.
+<Q - Matthew H. Burnell>: Okay. Fair enough. Thanks for taking my question.
+Operator
+Our next question comes from Gerard Cassidy of RBC.
+<Q - Gerard S. Cassidy>: Thank you. Good morning. I just want to be clear, when you talk about on page 4 that
+you're going to hold your capital distributions flat, is that for all of 2014 relative to 2013?
+<A - Marianne Lake>: Yeah. So, Gerard, just to be really clear that we – and you look at the title there to be clear,
+illustrative we just for the purposes of this analysis, we just held everything flat. That's not to imply anything about
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 17 of 26
+what our capital distributions will be going forward but rather to imply we can continue to do some.
+<Q - Gerard S. Cassidy>: Yes. Okay. And then second, you put in here the Tier 1 capital actions could add possibly
+30 basis points. Could you give some color behind what you're thinking there?
+<A - Marianne Lake>: Yeah. I mean it's just optimizing our mix between common and preferred.
+<Q - Gerard S. Cassidy>: Okay. And with the total leverage impact of 60 to 160 basis points, clearly that's over the
+5%. I assume then that you are going to be comfortable running something north of 5% when you finally get there?
+<A - Marianne Lake>: It's too early for us to talk about buffers on that level.
+<Q - Gerard S. Cassidy>: Okay. In your investor day, you gave us the ROEs for the different lines of businesses and
+in the total firm, you felt 15% to 16% – 16% was your target ROE. Will that change now that you've got to carry the
+higher leverage numbers?
+<A - Jamie Dimon>: Folks, this just came out. So we're trying to share information with you and it might, but give us
+a little time, we'll give you a deeper feel how this might affect different businesses, different products because
+obviously when you do something like this, this will be put down at one point not just to the line of business but to the
+client and the product and the country. And then we can answer that question for you.
+<Q - Gerard S. Cassidy>: Okay. You guys have had some great C&I loan growth in the middle market space over the
+last four, five, six quarters. It seemed to really slow down this quarter. Anything in particular happen?
+<A - Marianne Lake>: Nothing in particular, just demand.
+<Q - Gerard S. Cassidy>: Okay.
+<A - Marianne Lake>: I should temper that with just demand and the continuation that we've talked about of very,
+very strong competition and we are, as I said, we are prioritizing quality over growth. We would tactically
+underperform rather than chase a deal that we weren't comfortable with.
+<Q - Gerard S. Cassidy>: And finally, can you give us any color on how the shared national credit exam has gone?
+And are those results in your second quarter results? Or will they be in third quarter results?
+<A - Marianne Lake>: The results are in our second quarter results.
+<A - Jamie Dimon>: Not material.
+<Q - Gerard S. Cassidy>: Okay, great. Thank you.
+Operator
+Our next question comes from Jim Mitchell of Buckingham Research.
+<Q - Jim F. Mitchell>: Hey, good morning. Just a couple of quick follow-ups. I hate to focus on the leverage ratio but
+one question on the cash component. I think by my calculation if you were to exclude cash from the denominator that
+would add almost 70 basis points to your leverage ratio. Do you think that that has any legs or any sticking with
+regulators in terms of logic around excluding that?
+<A - Jamie Dimon>: You've got to ask them.
+<Q - Jim F. Mitchell>: Okay.
+<A - Marianne Lake>: We hope so.
+<Q - Jim F. Mitchell>: Yeah. It would make some sense. And then maybe just getting to the FICC business, you
+alluded to it a little bit, some businesses benefit from volatility. Is it fair to assume that in June we saw things like
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 18 of 26
+foreign exchange and interest rate trading do better and credit and mortgages do worse? Is that sort of the best way to
+think about it?
+<A - Jamie Dimon>: We're not going to give you...
+<A - Marianne Lake>: Month specific.
+<A - Jamie Dimon>: ...monthly specifics. I think our folks did a very good job in June.
+<Q - Jim F. Mitchell>: Okay.
+<A - Jamie Dimon>: Obviously when spreads widen out, certain businesses are more at risk than others but I already
+mentioned that emerging markets where we probably saw the most volatility both in terms of spreads, volatility and
+equity markets, et cetera, did a very good job.
+<Q - Jim F. Mitchell>: Okay. Thanks.
+Operator
+Our next question comes from Paul Miller of FBR.
+<Q - Paul J. Miller>: Thank you very much. On your reserve ratios right around 2% and you had a lot of reserve
+releases in the quarter, with credit improving, can you continue to do this type of releases in the next couple quarters?
+Or is that reserve ratio going to stick around 2%?
+<A - Marianne Lake>: So you should think about mortgages having some more releases because we continue to see
+delinquencies and severities improve, particularly HPI improvement and so you should expect that to continue, maybe
+not at the level we saw this quarter because we had a big revision to HPI, as you know, during the last several months.
+And in card, we've had $1.050 billion of reserve releases in the first half. Given what we're seeing, we expect more
+releases in the second half but not at that level.
+<A - Jamie Dimon>: Think of it as several hundred million.
+<A - Marianne Lake>: Several hundred million dollars.
+<A - Jamie Dimon>: Near the end for card. And wholesale is kind of where it should be and will bounce around.
+<Q - Paul J. Miller>: Okay. Thanks a lot, guys.
+<A - Marianne Lake>: Thank you.
+Operator
+Our next question comes from Guy Moszkowski of Autonomous Research.
+<A - Marianne Lake>: Hi, Guy.
+<Q - Guy Moszkowski>: Good morning. So just looking at the hit to the OCI at 3.1 billion, it actually seems like it's
+less than would have been implied by the guidance that you gave at the investor day. Obviously that was for a more
+severe shock but just calibrating it relative to the number of basis points that the 10-year went up, et cetera. Any
+comment on that?
+<A - Jamie Dimon>: I think you got it exactly right. At the investor day we gave you something that was far more
+dramatic than 100 basis points and we already said the duration of this thing is not 10 years. It's a lot less than 10 years
+so obviously the effect would be less.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 19 of 26
+<Q - Guy Moszkowski>: And is part of the reason why – besides the fact that it was 100 basis point not a 230 basis
+point move or whatever – is part of the reason linked to the de-risking of the treasury portfolio that you were talking
+about as you prepared for the LCR?
+<A - Jamie Dimon>: Not really.
+<A - Marianne Lake>: Not really.
+<Q - Guy Moszkowski>: Okay. But then is there validity to the fact – to the idea that if we recalibrated for 100 basis
+point move versus 230 basis point move that I think it is implicit in the $15 billion number that you gave us in
+February, was the $3 billion in line with that or was it actually materially better and if so maybe if it wasn't related to
+the LCR de-risking why did you have a better outcome?
+<A - Marianne Lake>: The investor day scenario was a more severe scenario than the 230 basis point you're implying.
+<A - Jamie Dimon>: What was the number we gave at investor day?
+<A - Marianne Lake>: It was 300 plus or minus.
+<A - Jamie Dimon>: Right.
+<A - Marianne Lake>: And this is in line with our expectations.
+<A - Jamie Dimon>: Unfortunately the OCI is not – I hate to say it, it is not that big of a deal. We all know about it,
+we're all prepared for it, rates are going to go up, OCI gains are going to go down. With 20 basis points – you're going
+to see this happen elsewhere, it's asynchronous. You know, we have OCI going through capital and the benefits going
+through earnings in the future.
+You know, so if it were up to us we wouldn't have actually had this asynchronous accounting in this thing and we're
+prepared, we're going to have buffers, [indiscernible] (1:02:41) conservation buffer works but it's not that big of a deal.
+The duration of our portfolio, and you guys could do it yourself, AA plus, couple year duration, you can almost
+calculate the number yourself with one caveat, is that the losses are less as rates go up because of the convexity of the
+portfolio currently. Another thing about this, we can change it overnight at any time.
+<Q - Guy Moszkowski>: Right. Fair enough. As I think about the changes that you can make to the business that you
+referred to on page 4 to mitigate the impact of the leverage ratio changes, you talked about optimizing the use of central
+clearing and yet there's also all these concerns about the disallowance of additional derivatives collateral. How
+comfortable are you that the way the rules are written right now, moving your derivatives business more towards
+central clearing really does, because of the collateral, give you a lot of relief on those leverage assets?
+<A - Jamie Dimon>: If you move a trade to central clearinghouse it has no charge here and it has nothing to do with
+the margin that they put up at the clearinghouse. If the trade is bilateral with us, you have the receivable get stressed,
+you can't take the benefit of the fact that you're going to get collateral against it, that's the way the calculations are done
+but any trade you move to a clearinghouse eliminates that exposure.
+<Q - Guy Moszkowski>: Right.
+<A - Jamie Dimon>: The margin with clients at clearinghouse is not with us, it's with the clearinghouse.
+<Q - Guy Moszkowski>: Right. So I guess the logical next question for that is: given the central clearing mandate
+which has started to be implemented recently: should we – as we think about leverage ratio going forward, should we
+be thinking about a large part of that derivatives add-in to the denominator of the ratio as basically being a runoff?
+<A - Jamie Dimon>: Well we had already added in our forecast to you guys some stuff moving: derivatives, how we
+look at capital and all that so I do think at the margin this will move more things into clearinghouses but we don't have
+analysis to tell you about that right now.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 20 of 26
+Will it be material? We don't really know yet. Remember the clients, a lot of the client business, they are also going to
+determine what they want. It won't just be up to us.
+<A - Marianne Lake>: And remember that the derivative add-on calculation is a calculation that is currently being
+re-thought by the Basel Committee because of some of the issues with it, so it could also in and of itself, improve.
+<Q - Guy Moszkowski>: Fair enough. When you think about those leverage-asset actions that you're talking about, is
+there any linkage of taking those actions that further benefits LCR?
+<A - Marianne Lake>: We haven't done that analysis.
+<A - Jamie Dimon>: It's hard to tell.
+<A - Marianne Lake>: To be honest, we were trying to be very transparent and give you some ideas about the sorts of
+things that we're considering. We haven't translated these into detailed plans yet, so we don't know the second order
+impacts of this yet.
+<Q - Guy Moszkowski>: Okay. Fair enough.
+<A - Jamie Dimon>: I think Marianne gave numbers to show that we can handle this, but there's also – you have to be
+very cognizant of client effects. We have a client business and we have to make sure that we continue to have a client
+franchise and so over time we'll adjust the businesses and we'll meet LCR, we'll meet Basel III, we're going to meet
+whatever the leverage ratio is and think of it in some ways as alternative minimum taxes, so every client will be
+running what's your return on Basel III capital and then what's your return on leveraged capital and you'll try to
+manage...
+<A - Marianne Lake>: And stress capital.
+<A - Jamie Dimon>: And stress capital. So you'll manage, try to manage all those. It's fair to the client and kind of fair
+to the company.
+<Q - Guy Moszkowski>: Okay. One last question I'll ask to you is that as I've talked with clients over the last couple
+of days about this leverage ratio issue, one of the questions that has come up is, wouldn't it be possible to downstream
+more capital to the banks in order to deal with the 6% requirement there? Obviously that incurs a double leverage issue
+potentially. Your double leverage ratio right now is just over – I think it's like 1.05%. I mean is there any room there?
+<A - Jamie Dimon>: Obviously you can do stuff like that.
+<A - Marianne Lake>: Yes.
+<A - Jamie Dimon>: And give us a little time. I mean there's some you can inject into the consolidated pretty easily,
+maybe you have to restructure some things and change the capital structure a little bit, move businesses out of a FDIC
+insured bank and all that. I just don't think any of that's going to be critical to the future function of our business. We'll
+adjust those things to accomplish what we need to accomplish. And give us a little more time so...
+<Q - Guy Moszkowski>: Yeah.
+<A - Jamie Dimon>: This just came out a couple days ago.
+<Q - Guy Moszkowski>: Of course. That's fair. Thanks very much for taking my questions. I appreciate it.
+<A - Marianne Lake>: Thank you.
+Operator
+Our next question comes from Chris Kotowski of Oppenheimer.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 21 of 26
+<Q - Chris M. Kotowski>: Yeah. Just following up on Guy. I wonder I mean it just seems the thrust of the whole
+leverage ratio is that it's going to penalize the businesses that have the highest ratio of leverage ratio assets to risk
+weighted assets. And can you give us an idea like where that gap is the biggest? And in particular also, are any of these
+global businesses where this would give European banks a leg up?
+<A - Jamie Dimon>: Well let me do the first question, the second question first. If you have a world where some
+businesses have to have twice as much capital as other companies, that obviously over time can create huge
+competitive disadvantages. I don't know of any industry in America who would want to compete globally on that basis.
+We have an interest in a safe and sound system so we're not against a leverage ratio but we would be – we're not for a
+hugely unbalanced competitive playing field. So put that aside, the regulators know that. They're trying to – we thought
+the point of Basel and all that is to harmonize these kind of things.
+And if you ask about it, where we show here, and Marianne just shows it, anything which is a low RWA asset,
+including HQLA, revolvers, certain types of derivatives, those things obviously we'll look at a little bit differently
+because there's leverage ratio asset. And we won't have to do it by business yet. We'll give you more detail later.
+Like even Marianne had mentioned that we take huge deposits in from countries and from money funds, et cetera, that
+we may not take in because you can't afford capital against a deposit, $1 billion you get in from a money fund that you
+park at the Fed for 25 basis points, you pay the FDIC 10 basis points, you pay the client 5 or 6 or 7 basis points and
+you've got to put 6% capital against it. You simply stop doing it. There are a whole bunch of things we've got to figure
+out how we're going to do it. But we want to make sure we manage the client franchise properly. We'll figure out the
+other stuff over time.
+<Q - Chris M. Kotowski>: All right. That's it for me. Thank you.
+Operator
+Our next question comes from Moshe Orenbuch of Credit Suisse.
+<Q - Moshe A. Orenbuch>: Great. Just, Jamie, following up on that, it just seems like even the $100 billion of
+increase in deposits this quarter probably cost you 15 basis points in that leverage ratio. And so is there any movement,
+do you think, during the comment period towards exclusion of any of the risk-free assets at all?
+<A - Jamie Dimon>: Yeah. So separate the type of deposit, okay? So if it was a consumer deposit it has a completely
+different LCR, how you can invest it, the kind of spread you can make. If it's what we call a big wholesale short-term
+deposit, you're absolutely correct. We could probably restrict some of that over time.
+<Q - Moshe A. Orenbuch>: Right. Okay. And maybe just to follow-up on the mortgage business. You talked about
+some of the financial impacts. Can we talk a little bit just about strategically what you're doing as you kind of look at
+that business and the competitive environment in a kind of weaker refi environment?
+<A - Marianne Lake>: Yeah. This backup although sharp, is not entirely unexpected. And so as we thought about our
+longer-term plans and when we outlined all of that in the strategy for the Mortgage business at investor day that
+medium to long-term plan does not change. So it may accelerate some of the activities that we have and have, as we've
+said, some impact on the next couple of quarter's results. But the long-term strategy hasn't changed. We're working the
+portfolio, optimizing servicing, trying to take costs out as quickly as possible and grow share. And actually we think we
+should be able to grow share even more strongly in a more difficult market.
+<Q - Moshe A. Orenbuch>: Great. Thanks.
+Operator
+Our next question comes from Nancy Bush of NAB Research.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 22 of 26
+<Q - Nancy Avans Bush>: Good morning. Two questions. First on the branch banking network, I know this backup in
+rates has been primarily at the longer end and we have not yet had a corresponding rise in short-term rates but do you
+see any need at this point to re-price products, et cetera, at the branch level due to consumer perception of rising rates?
+<A - Marianne Lake>: No. No, Nancy.
+<A - Jamie Dimon>: Not yet.
+<A - Marianne Lake>: Not yet. And as you know, traditionally that would in any case lag. Of course that doesn't
+mean it will but that's traditionally what happens.
+<Q - Nancy Avans Bush>: Secondly, Jamie, you talked about the asynchronous nature of the OCI with OCI getting
+dinged now with the benefits in the future. Something else asynchronous is sort of staring us in the face and that's this
+loan loss reserve methodology possible change to expected lifetime loss. What are your thoughts about that? Where
+does that stand in an implementation process? And would you really get dinged by that?
+<A - Jamie Dimon>: This is what the issues are: you spend all this time talking about accounting as opposed to
+business. The business is deposits, serving clients, doing things and now we talk all the time about AOCI. We have a
+lot of asynchronous accounting and procyclical accounting and stuff like that, which you try to explain, but we try to
+look through all of that and build the business: more clients, more bankers, more branches, happier clients. So in all of
+our business, that's how we look at it. We'll work through the asynchronous accounting. If the loan loss reserve
+accounting changes, it would add obviously to loan losses though probably not as much as people think, but we still
+would run the business for economics in the long run. It wouldn't change how we run the business. We'd just be holding
+more reserves, which would be fine with us.
+<Q - Nancy Avans Bush>: Do you have any sense though – I realize that you're going to run the business for the
+business, but do you have any sense if this is going to happen and when it might happen?
+<A - Marianne Lake>: As you know, the industry commented, we commented, in terms of the proposal and we're
+generally in favor of it but think that a lifetime timeline is too long. So something shorter than that would make sense. I
+think we need to work that through. It would be implemented over not the course of the next couple quarters but in a
+year or so. So we'll wait and see.
+<Q - Nancy Avans Bush>: All right. Thank you.
+Operator
+Our next question comes from Chris Whalen of Carrington.
+<Q - Christopher Whalen>: Marianne, could you go back to mortgage and talk a little bit about the quality of the
+demand you're seeing? At the beginning of the year the industry was guiding down about 20% in terms of volumes, and
+for next year as well. Your numbers suggest that that's basically doubled. In other words, instead of 20%, we're looking
+at 30% to 40% given rates. Would it be fair to say that the two factors are equal?
+<A - Marianne Lake>: I would say, first of all, the industry groups haven't fully reforecast the markets, so we'll wait
+and see what they come out with. We're trying to be transparent with our guidance so that level hopefully we're wrong
+and hopefully it will be better than that. I will say for our own business we didn't expect volumes to be down this much
+throughout the year had this not happened with this speed.
+<Q - Christopher Whalen>: So you think there is definitely a price reaction that out there among consumers?
+<A - Jamie Dimon>: Mostly this is refi.
+<Q - Christopher Whalen>: Right. Exactly.
+<A - Jamie Dimon>: So purchase we actually saw go up a little bit. And we think...
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 23 of 26
+<Q - Christopher Whalen>: Purchase isn't catching up though.
+<A - Jamie Dimon>: They're not going to make up for refi but they may go up, yes.
+<Q - Christopher Whalen>: But, Jamie, back to your point about harmonization. When you look at the totality of the
+way the regulators are treating mortgage, MSRs, for example, which have been rallying very strongly in the past few
+months, and your comments last year about Basel, should the U.S. withdrawal from Basel II? It's so unfriendly to
+businesses that are very important to you and to the economy, particularly in mortgage. What are your thoughts on
+that?
+<A - Jamie Dimon>: We're in favor of finishing – we've always believed in high capital, high liquidity, good
+regulation and things like that and finishing it. And obviously there are things that all countries have points of view
+about which would be different but I think the better you get to real harmonization – the closer you get to real
+harmonization, the better. If you want to start all over again, we'll spend another five years debating every single thing
+out there.
+<Q - Christopher Whalen>: Right, precisely. Thank you very much.
+Operator
+Our next question comes from Eric Wasserstrom of SunTrust Robinson Humphrey.
+<Q - Eric Wasserstrom>: Thanks very much. Marianne, can we just go back to the sequential NII guidance? Can you
+help me understand how much of that is coming or what the attribution is between benefits to NIM versus loan growth?
+<A - Marianne Lake>: As I said, we're expecting NIM to stay broadly flat from here. We do expect some modest loan
+growth. That's our outlook, I'm not going to tell you how much, but some. And then we also have the improving cost of
+debt, lower cost of debt on actions that we've been taking throughout the first half.
+<Q - Eric Wasserstrom>: So I guess a couple of follow-ups then. I mean shouldn't presumably then the benefits to the
+funding cost should show up through NIM, no?
+<A - Marianne Lake>: Yeah. But we also have loan yield compression and so there's puts and takes and so relatively
+flat on NIM, modestly up on NII.
+<Q - Eric Wasserstrom>: And then just within the composition of loan growth, if you divorce out the credit card
+seasonality, it's been within a very stable range. What is it that in your view takes the loans out of the current range?
+<A - Marianne Lake>: I'm sorry. I didn't understand.
+<Q - Eric Wasserstrom>: So in other words your loan growth has been – sorry not your growth but rather your loan
+balances have been between $725 billion and $727 billion or $728 billion very consistently for many quarters if you
+divorce out fourth quarter credit card seasonality.
+<A - Marianne Lake>: Yes.
+<Q - Eric Wasserstrom>: But it sounds like you have some expectation that it starts to move out of the range in order
+to generate this improvement in NII? I'm wondering what the driver of that is?
+<A - Marianne Lake>: So we're growing loans in Asset Management, we're growing loans in Auto, we're adding more
+mortgage loans, we're expecting some growth in commercial. Our commercial real estate is already growing strongly.
+We're expecting some growth in middle market and corporate client banking space, although we've seen loan reduction
+in CIB. We're expecting that to remain relatively flat so all other things being equal, that's net growth. And Card, as I
+said, has hit that inflection point. So that will stop contributing to run off net.
+<Q - Eric Wasserstrom>: Got it. And then just finally on the third quarter guidance, is that consistent with, or
+relatively better than your prior annual guidance of down 1%?
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 24 of 26
+<A - Marianne Lake>: So our annual guidance is that if you look at the first half of the year you will see that
+obviously already we are down year-to-date by more than that amount. So this is relative to the third quarter we expect
+NII to go up, we're already down a little more than 1%.
+<Q - Eric Wasserstrom>: Great. Thanks very much.
+Operator
+Our next question comes from Christopher Wheeler of Mediobanca.
+<Q - Christopher J. Wheeler>: Yes. Good morning. I have questions on a couple of topics. Perhaps the first one on
+equity capital markets. Clearly, I think the volumes were up about 2% quarter-on-quarter and I think we all expected
+you to outperform. But it was an extremely good performance and I wondered if you could brag a little bit about how
+you achieved that, how much you thought was from the market share and perhaps how much is down to geographic
+split. That's the first question.
+The second one I'm afraid – or the second two go back onto leverage. I'm just intrigued by the comments on page 4,
+which you've touched on in an earlier question on a the Tier 1 capital actions, which kind of you sort of suggested
+would be perhaps issuance of some additional Tier 1 capital. This is this becoming called now AT1. And I wondered if
+you actually had any indication yet, I know it's very early, from the regulator on what the terms of that new capital
+would have to be to qualify for Tier 1 under Basel III?
+And then perhaps talk about the $14 billion, $15 billion of current hybrids that you have within the Tier 1 calculation,
+which obviously are going to phase out, I think in some cases if not all, through to end of 2018 and what your strategy
+is for replacing those?
+And then just perhaps finally, I know Jamie's talked a lot about level playing fields and I've asked him that last year on
+Basel III capital. But I'm just wondering what will actually, the leverage ratio that you're looking to have to achieve
+now, whether that actually gives you a competitive advantage as opposed to a disadvantage given 3% is pretty well
+being considered too skinny? Thanks very much.
+<A - Jamie Dimon>: Well thank you for bragging on our trading results. And for years the investment bank is building
+FX rates, securitized products, commodities, emerging markets credit and they're good. And obviously some go up and
+some go down. I wouldn't say it was – at least I didn't see any regional effects. I mean we trade around the world and
+the books get handed off around the world. So it's hard to give it a region. But we build a lot of client flow businesses
+and that was driving it.
+If I think of the harmonized – I think it's better for the world to have harmonized rules around what Basel is trying to do
+et cetera. But you are absolutely correct, it doesn't have to be exactly the same to have a competitive marketplace, et
+cetera. We always ran with higher capital liquidity than most of our competitors.
+I just think if one is 3% and one is 6%, that becomes just too big and over time it can have huge competitive effects.
+And the regulators are working out – we all want a fair, safe, sound financial system, okay. So that's in everyone's
+benefit and there are huge capital issues – I mean capital requirements, liquidity requirements, leverage requirements,
+stress-testing requirements and among all of that I feel good in there. But at one point they should be somewhat
+harmonized.
+And your middle two questions, I now forgot.
+<A - Marianne Lake>: Additional Tier 1 capital, AT1. Can we get back to you on some of that stuff? We're running
+out of time rapidly.
+<Q - Christopher J. Wheeler>: Okay. I do appreciate that. Thank you very much. Thank you.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 25 of 26
+Operator
+Our next question comes from David Hilder of Drexel Hamilton.
+<Q - David B. Hilder>: Good morning. Just quickly, to be clear on page 4, are you saying that your 4.7% leverage
+ratio is as of June 30 without any other assumptions or roll forward?
+<A - Marianne Lake>: Yes. Correct.
+<Q - David B. Hilder>: Okay.
+<A - Marianne Lake>: I'm sorry, David, as of June 30 based upon the U.S. proposed rules.
+<A - Jamie Dimon>: Estimated to the best of our ability.
+<A - Marianne Lake>: All those caveats.
+<Q - David B. Hilder>: And congratulations for doing the work so quickly. But secondly, Jamie, how will you as a
+company respond to the proposal? Are you in favor of it largely? Are you against it? Will you have a lot of proposed
+changes to it?
+<A - Marianne Lake>: So David, we did say at the beginning that we do think that having a leverage ratio is an
+important part of a capital management toolkit or process as long as it's properly calibrated. And so for us the two
+questions and I think they're very important and the industry does too, so we're participating in discussions, is, as
+Jamie's talked about, what should the quotient or the ratio be and making sure that that's not only appropriate but fair
+across the globe, and also, what should the calculation for the denominator be and we've alluded already to two specific
+questions but there are more. One is: should high quality liquid assets or most particularly cash and cash at central
+banks be treated the same as other balance sheet items? And then in terms of some of the additional add-ons that are
+being proposed, we think they could have issues, actual issues, for the operation of the financing market.
+So I think there's going to be a lot a work that takes place. There are comments due back on all of those proposals by
+mid-September, call it, plus or minus, and I think this will be worked through, through the fourth quarter.
+<Q - David B. Hilder>: Okay. Thanks very much.
+Operator
+We have no further questions at this time.
+Marianne Lake
+Thank you.
+Jamie Dimon
+Great, folks. Thank you.
+Operator
+This concludes today's conference call. You may now disconnect.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2013-07-12
+Event Description: Q2 2013 Earnings Call
+Market Cap: 207,483.45
+Current PX: 55.05
+YTD Change($): +11.0809
+YTD Change(%): +25.201
+Bloomberg Estimates - EPS
+Current Quarter: 1.403
+Current Year: 5.906
+Bloomberg Estimates - Sales
+Current Quarter: 24478.053
+Current Year: 99436.480
+Page 26 of 26
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

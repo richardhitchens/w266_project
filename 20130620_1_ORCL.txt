@@ -1,0 +1,606 @@
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 1 of 11
+Q4 2013 Earnings Call
+Company Participants
+• Kenneth Bond
+• Safra Ada Catz
+• Mark V. Hurd
+• Lawrence J. Ellison
+Other Participants
+• Kash Gopalan Rangan
+• Brent Thill
+• Jason A. Maynard
+• Heather A. Bellini
+• Rick G. Sherlund
+• Walter H. Pritchard
+• Philip A. Winslow
+• Keith Weiss
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, everyone, and welcome to today's Oracle Corporation quarterly conference call. Today's conference is being
+recorded.
+At this time, I would like to introduce Ken Bond, Vice President of Investor Relations, Oracle. Please go ahead, sir.
+Kenneth Bond
+Thank you, Amber. Good afternoon, everyone, and welcome to Oracle's fourth quarter and fiscal year 2013 earnings
+conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation
+and other supplemental financial information, can be viewed and downloaded from our Investor Relations website.
+On the call today are Chief Executive Officer, Larry Ellison; President and CFO, Safra Catz; and President, Mark Hurd.
+As a reminder, today's discussion will include forward-looking statements including predictions, expectations,
+estimates or other information that might be considered forward-looking. Throughout today's discussion we will
+present some important factors relating to our business, which may potentially affect those forward-looking statements.
+These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ
+materially from statements being made today. As result we caution you against placing undue reliance on these
+forward-looking statements and we encourage you to review our most recent reports including our 10-K and 10-Q and
+any applicable amendments for a complete discussion of these factors and other risk factors that may affect our future
+results or the market price of our stock.
+And finally, we are not obligating ourselves to revise our results or publically release any revisions to these
+forward-looking statements in light of new information or future events. Before taking questions we will begin with a
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 2 of 11
+few prepared remarks.
+And with that, I'd like to turn the call over to Safra.
+Safra Ada Catz
+Thanks, Ken. Good afternoon. I'm going to focus on our non-GAAP results for Q4 and fiscal 2013, then I'll review the
+guidance for Q1 and then I'll turn the call over to Mark and Larry for their comments. My remarks generally reflect
+constant dollar growth rates.
+This quarter we saw a record $4 billion in new software license and SaaS subscriptions coming within my guidance
+range at 2% constant growth. In general, sales force execution improved significantly in most regions during the
+quarter. As with most of our peers we did see increased economic weakness in a few regions, which had an effect on
+our final performance. Geographically results were somewhat mixed with GAAP new license growing 4% in the
+Americas, up 5% in the EMEA, but down 7% in APAC.
+I'd highlight places like Brazil, which pulled down our growth in the Americas, and a number of countries in Asia,
+especially Australia, as being particularly affected by economic slowdowns beyond our expectations. Europe's
+economy remains unchanged, and we're actually pleased with our European performance. In addition, in Q4 we saw
+currency headwinds, especially in Japan, Brazil and Australia, where currencies weakened 5% to 8% against the dollar
+since our last earnings call in moves that were not anticipated in my Q4 guide.
+Software support revenues were $4.4 billion, up 8% on this recurring part of our business. Support, attach and renewal
+rates continue at their usual high levels. Hardware systems revenue was better than expected at $849 million, as our
+Engineered Systems had another spectacular quarter. We also saw growth in our T-Series SPARC servers, following a
+new product launch earlier in the quarter. With some new M-Series now available, I think we're starting to see
+customers refresh their systems, and we believe that we could have growth in total hardware as early as Q1.
+Hardware gross margins were 51%, reflecting our strategy to focus only on high-value systems, and the return of
+hardware growth should actually help increase gross margins even more over time.
+Total revenue for the quarter was nearly $11 billion, up 1% from last year. Non-GAAP operating income was $5.6
+billion with operating margins expanding to 51% from 50% last year. Aside from the five quarters immediately
+following the Sun acquisition, non-GAAP operating margins have expanded year-over-year every quarter since
+November 2006 and we actually continue to see ample leverage in our business model.
+The non-GAAP tax rate for the quarter was 23.8% and the GAAP tax rate was 21.1%. Non-GAAP earnings per share
+were $0.87 and would've been actually $0.01 higher, but for the negative impact of currency, up from $0.82 last year.
+GAAP EPS for the quarter was $0.80, up from $0.69 last year. Operating cash flow increased to $14.2 billion over the
+last four quarters and free cash flow grew to $13.6 billion over the last four quarters. Both are record results. We now
+have $32.2 billion in cash and marketable securities.
+Now for the full fiscal year and for the first time ever, our new software sales were more than $10 billion, growing 6%
+in constant currency. Together new software license and support – and software support grew 7%, averaging 10% over
+the last five years, and our last major software acquisition was more than five years ago. While hardware and hardware
+support declined 14%, I think we may have just seen the last of annual hardware revenue declines, which will have
+positive implications for total revenue.
+Even with the declines in hardware revenues, total revenues for the year grew 2% to more than $37 billion. Our
+non-GAAP operating margin for the full year was an all-time high of 47%. Earnings per share per share was $2.68,
+growing 11% in FY 2013. Since we first shared our goal of growing non-GAAP EPS 20% over time back in 2005,
+we've averaged nearly 19% growth for both EPS and free cash flow over the last eight years even though the world
+went through a massive economic crisis.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 3 of 11
+In Q4 we purchased nearly 85 million shares for a total of $2.8 billion, and for the full year, we purchased nearly 350
+million shares for a total of $11 billion. So as you saw in our release, today we announced we are re-starting our
+quarterly dividend earlier than previously planned and with a 100% increase to our quarterly dividend or $0.12 per
+share. This will commence with a record date of July 12 and a payout date of August 2. The board also authorized the
+repurchase of an additional $12 billion of common stock under our existing share repurchase program in future
+quarters.
+Between dividend and buybacks, this year we returned more than $12.4 billion or more than 90% of our free cash flow
+to our shareholders. Today we also announced that we've applied to list our common stock on the New York Stock
+Exchange under our current symbol, ORCL. And subject to approval by the NYSE, we expect our common stock will
+begin trading on the NYSE on July 15. Now until the transfer is completed, Oracle will continue to trade on the
+NASDAQ under our current symbol.
+Now moving to guidance. I will say in advance that I continue to follow the news of the economy and the results of
+nearly every one of our competitors, so I have tried to keep that in mind in my guidance. And since I don't know what
+the exchange rates will be at quarter-end, I'm going to give guidance in constant currency.
+Now at current rates, currency will reduce growth rates by about 1% and general growth rates, license and revenue and
+EPS by about $0.02. That's what it looks like right now. So with guidance, new software license and cloud subscription
+revenue is expected to range from 0% to 8% in constant currency in non-GAAP and 1% to 9% in GAAP. Hardware
+product revenue growth is expected to range from a negative 6% to a positive 2% in constant currency, and as a result
+total revenue growth on a GAAP and non-GAAP basis is expected to range from 3% to 6% in constant dollars.
+Non-GAAP EPS is expected to be somewhere between $0.56 and $0.59 in constant dollar. GAAP EPS is expected to
+be somewhere between $0.42 and $0.45 in constant dollar. This guidance assumes GAAP and non-GAAP tax rate of
+24% of course and it may end up being different.
+With that, I'll turn it over to Mark for his comments.
+Mark V. Hurd
+Thanks, Safra. Just today I thought I'd be brief and talk a little bit about our cloud business and give you some facts.
+Our cloud now runs well over $1 billion run rate and it's bigger than both Workday and SAP combined in the cloud.
+We are clearly the second largest provider in the SaaS market with more than 130 Fusion customers that are live in
+production today. In Q4 alone we added 500 new SaaS customers, 300 of those in HCM alone.
+Not only are we bigger than Workday in HCM, but we are growing faster than Workday. They recently claim to have
+added 50 new customers in HCM and ERP. We added more than 50 in HCM alone and with more than 80 new Fusion
+SaaS customers, we had great SaaS HCM wins at British Telecom, BMC Software, Siemens, Credit Agricole, Yahoo!
+and Intuit.
+In customer experience we added 200 customers with great cloud wins at eBay, KLM Royal Dutch Airlines, Trimble
+Navigation, Dow Corning, Sprint Nextel, Capital One, US Foods, Acer, Tesco and PACCAR. I just read you that list
+just so you'd get an idea of the quality of the brand names that are committing to our technology. So our success in the
+cloud is significant and undeniable.
+Let me share a few facts with you about how we run our cloud. The cloud runs on our engineered systems. We have
+nearly 13,000 VMs, 70 petabytes of storage in seven countries, more than 7.6 million users and 16.5 million – or billion
+transactions per day.
+Let me switch to our pipeline. It's healthy. Our sales organization is already geared to outperform our competitors. I
+want to say this again. Our attrition rates are down. They have declined. And by June 7, that's roughly two weeks ago,
+we had 90% of our territory assignments and quotas done with sales plans accepted. That is an absolute record for
+Oracle. Now next week I want you to stay tuned because we're going to make a series of announcements regarding our
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 4 of 11
+success in the cloud and the partnerships we're forming to drive our cloud business forward.
+With that, I'm going to turn it over to Larry so that he can touch on some of our exciting developments in hardware.
+Lawrence J. Ellison
+Thank you, Mark.
+In engineered systems we had a very strong quarter. Revenue was up approximately 50% as we took considerable
+market share from our primary competitor, IBM pSeries, which was down 32% in their most recent quarter. All our
+Exa products: Exadata, Exalogic, Exalytics, and the Big Data Appliance and the Oracle Database Appliance all had
+their best ever quarters.
+In bookings we sold over 1,200 engineered systems in Q4, including more than 600 Exadatas. Exalogic was up more
+than 50% sequentially and we sold more than 100 units of Exalytics in the quarter. For the year we sold over 3,000
+engineered systems, more than all the previous years combined: Tesco, Fidelity, Siemens, McGraw-Hill, Chicago
+Mercantile Exchange, Saudi Telecom to name just a few of the companies that bought engineered systems this past
+quarter.
+Some of SAP's largest customers, giant German industrial companies, bought Exadata, not HANA, to run their SAP
+applications. We virtually never see HANA in the market and SAP's HANA numbers simply don't add up. A recent
+analyst report pointed out that if you believe the HANA sales growth numbers in SAP's most recent quarterly report
+then SAP's application business must have declined 10%.
+You decide. Either HANA is doing well and SAP's application business is in steep decline or HANA is not doing so
+well, but SAP's application business is okay. You can't have it both ways. We don't think SAP's HANA can ever
+successfully compete with Oracle's Exadata and our other engineered systems in the high-performance database
+market.
+Engineered systems are now over one third of Oracle's hardware revenue. Our SPARC server line is now completely
+refreshed. Our T5 and M5 servers feature the fastest microprocessor in the world, faster than Intel and faster than IBM
+P 7+ on numerous industry standard benchmarks. With the continued rapid growth of our now much larger Engineered
+Systems business plus our new high-performance SPARC T5 and M5 servers we just might see overall hardware
+growth this Q1 and we will see overall hardware growth for the full fiscal year.
+Kenneth Bond
+Thank you, Larry. Amber, we can now move to the Q&A portion of the call, please.
+Q&A
+Operator
+[Operator Instructions] We'll go first to Kash Rangan with Merrill Lynch.
+<Q - Kash Gopalan Rangan>: Hi. Thank you very much. Good to see the hardware product and the Fusion reference
+really do well. But on the software side typically Oracle has had very strong May quarter finishes, we've always called
+it the magic of May quarter. I'm wondering if you could give us a little bit more color, Safra, Mark, or Larry, on if you
+saw any slippage that was specific to – more so to the Applications business, large ticket items, economically more
+sensitive if these deals are put on hold? And how is the linearity shaping up in June? As you exited the quarter did you
+feel a little bit better about how the trends were getting better? Because we've been hearing about software companies
+facing difficulties in the months of March and April. I'm just curious how things shaped up and how you exited the
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 5 of 11
+quarter? Sorry for the bunch of questions but I really appreciate the color. Thank you.
+<A - Safra Ada Catz>: I don't know which one of us should start. As I mentioned in my prepared remarks we saw
+some weakness in specific regions especially Asia-Pacific, especially parts of Latin America that were – that came up
+right at the end on us and that was extremely disappointing for us because May is usually our very, very big and
+important month and it's our big quarter and it sort of lays out where it did. We've had a pretty good start actually, in
+the other regions but it's too soon to tell on and that's why my guidance is where it is.
+<A - Lawrence J. Ellison>: Let me add it was no specific product. I mean when we saw weakness we saw weakness in
+database, middleware, applications, in all of our software lines. So it was clearly an economic issue, not a product
+competitive issue. The products performed kind of as we expected, it's just that they didn't reach the ceiling we thought
+we were going to reach in the quarter.
+<A - Mark V. Hurd>: I'll add a little bit of color too, Kash, that I think we actually did pretty darn well in Europe. We
+actually felt quite good. Considering all you read, you talked about what you read about software companies. You read
+a lot about the tech sector in Europe and frankly as we've talked before, the sales force adds we've done there has been
+material and it's helped for us.
+We banked on conversion rates being down in Europe and frankly they weren't down as much as we thought. We
+executed quite well. We did fine in the U.S. and to Safra's points really it was, for us, Brazil and parts of Asia where we
+saw it. The rest of everything sort of behaved the way we expected over the course of the year with the exception – of
+the quarter with perhaps the exception of Engineered Systems to the good which was better than we expected going in
+which led to the hardware performance that we've described.
+On a number of transactions basis, some of it, to Larry's point, really has to do with the transactions just getting a bit
+skinnier. If you looked at number of transactions – excuse me – you wouldn't see that big a delta. A lot of it just had to
+do with the average size per transaction, which again indicates to us certainly a lot of economic issue out there.
+<Q - Kash Gopalan Rangan>: Got it. Thank you. And, Safra, it does look like you feel a little bit better based on the
+guidance, which was a lot better than we would've expected for the upcoming August quarter for licenses especially.
+<A - Safra Ada Catz>: Yes. Well, we saw things pushed off. I see them closing, but I do have to keep an eye on what
+my competitors are reporting and what's going on. So it's sort of all in there together and we feel good with where we're
+guiding.
+<A - Kenneth Bond>: Next question, please.
+Operator
+And we'll go next to Brent Thill with UBS.
+<Q - Brent Thill>: Thanks. Good afternoon. Mark, you're adding tremendous sales capacity and you mentioned the
+unforced attrition is down. So why do you think you're not seeing the resulting fall through in license results? I
+certainly understand the comments you made about Asia-Pacific but it is a small percent of your overall revenue and
+maybe if you could just expand on the ASP in Q3? I think you disclosed that that was down high teens as it relates to
+deals over $3 million. It seems like the larger deals are still seeing pressure. If you could just add a little more color that
+would be helpful.
+<A - Lawrence J. Ellison>: Yeah, let me just jump in in front of Mark and give you our view. We've been adding a lot
+of sales people in the cloud. So a lot of our additions in Europe and in North America is around our cloud offerings,
+which we're seeing great growth. So we think as part of the transition to the cloud, the bulk of the sales adds are not in
+our traditional on-premises database business or on-premises application business. The bulk of the adds have been in
+our cloud businesses and will continue to add. We've hired about 500 salespeople and sales consultants directly out of
+college this year. And virtually all of them will go to our cloud businesses and about 10% of them will go to our Linux
+business, which is becoming very, very competitive with Red Hat. But it's the new businesses that we're in that is
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 6 of 11
+absorbing most, not all, but most of our sales adds.
+<A - Mark V. Hurd>: Yeah, so I think you got, Brent, everything Larry said and then add to it that where we have
+added, because we are still even with that add in the cloud net up in our traditional license areas. Although it's not all of
+what we've added, to Larry's point. But we have seen the benefits. I'll tell you exactly, in Europe we have seen bigger
+pipelines and we've seen the economic pressure on the conversion rate and that growth you see in Europe is directly
+related to the fact that we've added to our sales force.
+So make no mistake about it, the growth in our pipeline that you see in Latin America when you see some of these
+issues in Brazil, this is what happens when you see an economic environment like this. You see the pipe go up, you see
+conversion go down, if you're going to gain share you're going to have to be in more deals. So we are in more deals.
+Let me give you a second point. Historically when these economies turn, you do not have enough time to rehire your
+distribution capability to take advantage of the change in the economy. If that pipe is not sitting there when markets get
+better, you lose out on that expansion. So this is actually – it's counterintuitive, I know. This is the right time to be in a
+position with a broader distribution capability.
+I'll add to it we've been very mindful of our expenses while we've done it. So when you look at our expense structure
+we have taken money from other places and funded the majority of this sales force expansion. Now to Larry's point,
+some of this is now going into "ARR", annual recurring revenue, which we're seeing strong growth, which will pay us
+dividends as you go out over the next couple of years.
+<Q - Brent Thill>: Thank you.
+Operator
+And we'll go next to Jason Maynard with Wells Fargo.
+<Q - Jason A. Maynard>: Good afternoon. I have two questions. First, Mark, can we drill down a little more into
+Asia-Pacific? Because if you look at the different regions on a constant currency basis, U.S. and EMEA both actually
+performed maybe about as expected but essentially when you dive into APAC, the last two quarters, that really fell off
+the cliff after a strong start of the year. So I'd love to get a little bit more color maybe by Australia and some of the
+different countries in there, what you're seeing?
+And then the second question for Larry is just as you look out the next four quarters, Safra made the comment about the
+Hardware business turning potentially positive in Q1. What are some of the assumptions that you guys see by product
+within engineered systems and the SPARC product lines that could get you to that level of actually showing
+year-over-year hardware product revenue growth? Thanks.
+<A - Mark V. Hurd>: Okay. Multi-part question. I'll tackle the first part. I think you're right, by the way, in the way
+you described the quarter for us. We saw roughly what we expected in Europe, in fact a little bit better than what we
+expected, and roughly what we expected in the Americas.
+Asia, as you know, there is no real Asia, per se. It's a little different behavior by country. We continue to see pressure in
+China as you read across most of the other tech companies described. We saw that. And we have the effect that Safra
+mentioned in Australia. That is both some weakness in the Australian market, which you also see as a read through in
+their economy, but frankly going up against a big prior year.
+So we had a big prior year in Australia and we had the economic issue that you saw. Those are the two markets. We did
+fine in Korea and fine in India overall.
+<A - Lawrence J. Ellison>: On the Hardware side of the question, it's really very, very simple. We had a number of
+businesses, the other Sun businesses, the commodity x86 business that we have exited and we're pretty much out of,
+reselling other people's storage systems, like Hitachis and LSI Logics, which we're pretty much out of. And so those
+declining businesses kind of have finished declining.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 7 of 11
+We think the businesses that remain, we've got two big businesses that remain, one is the SPARC server business,
+which is now refreshed and we think can grow, though that is not in our assumption for growth. Our only assumption
+for growth is that our Engineered Systems business, which has consistently grown and grew very rapidly this quarter,
+will continue to grow. And that alone, that alone will drive the overall Hardware business into growth. If we recover
+with our new SPARC line, if that recovers and also shows just a little bit of growth, the growth in Hardware will be
+spectacular.
+<A - Kenneth Bond>: Next question, please.
+Operator
+We'll go next to Heather Bellini with Goldman Sachs.
+<Q - Heather A. Bellini>: Great. Thank you very much. I was wondering if, Larry, you could help us frame how the
+upcoming release of 12c could differ from past cycles in terms of license growth rates. And I guess the follow-on to
+that would be related to plugable database containers. I'm just wondering if you could share with us whether or not that
+will be part of people's maintenance contracts or whether that will be a paid option? Thank you.
+<A - Lawrence J. Ellison>: Okay. The 12c is a multi-tenant database. 12c stands for the cloud. It's the first time a
+database confers multi-tenancy to the applications that run on the database. As you know, the cloud business started
+about 15 years ago with a little company called NetSuite and then there came Salesforce and many others and what
+they had to do was build multi-tenancy into the application. If they wanted to run a lot of customers' data on a small
+number of servers and do that economically, they had to build a multi-tenant capability directly into their applications,
+which has certain problems. It has security problems. It means that your standard report writers won't work. A lot of
+standard tools just won't work because of this multi-tenancy application architecture.
+The next kind of phase of multi-tenancy was virtual machine. VMs became a very, very popular way of sharing
+hardware, sharing servers, but unfortunately that has significant overhead, much more overhead than kind of the
+NetSuite, Salesforce way of doing it in the applications. We think the right way to confer multi-tenancy on applications
+and keep security working and use the hardware very, very efficiently is to put multi-tenancy at the database layer. And
+that's what we've done with 12c. It is a separately priced option.
+Next week we will be announcing technology partnerships with the most important, let me be clear, the most – largest
+and most important SaaS companies and infrastructure companies in the cloud, and they will be using our technology,
+committing to our technology for years to come. That's how important we think 12c. We think 12c will be the
+foundation of a modern cloud where you get multi-tenant applications with a high degree of security and a high degree
+of efficiency, where you don't have to sacrifice one for the other.
+Again, we have – again, I would call them startling series of announcements with companies like Salesforce.com,
+NetSuite, Microsoft, all to happen next week; we'll be giving you the details. These partnerships in the cloud I think
+will reshape the cloud and reshape the perception of Oracle technology in the cloud. 12c, in other words, is the most
+important technology we've ever developed for this new generation of cloud computing.
+<A - Mark V. Hurd>: Maybe I'd add something a little more mundane than that is that our database options business
+was really strong in the quarter, Heather. I mean, when you look at GoldenGate, security, compression, very strong
+performance for us in the quarter and certainly when you see some of the people that have jumped on these capabilities:
+databases, enterprises, managers, strong growth in the quarter, our database options business in the quarter, very, very
+strong.
+<A - Kenneth Bond>: Okay. Great. Thank you. Next question, please.
+Operator
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 8 of 11
+We'll go next to Rick Sherlund with Nomura Securities.
+<Q - Rick G. Sherlund>: Thanks. Larry, just two questions for you, if you can update us on a couple things. First, you
+talked at Oracle World about some cloud services. I know you've got private-public hybrid cloud you articulated. I
+wondered if you could update us on what's happening there?
+And then second, in terms of in-memory capability, just reading the trades, there's been a lot of speculation that you're
+going to deliver some kind of compatible – some kind of in-memory capabilities that are compatible with the Oracle
+database. If you could share any thoughts with us on that?
+<A - Lawrence J. Ellison>: Okay, Rick, happy to. Oracle participates at all three layers of cloud. We're really kind of
+a unique cloud company. We're, as Mark pointed out, the second largest SaaS provider in the world. We added 500
+new SaaS customers alone, 500 new logos at the SaaS layer this past quarter. We actually had more – now let me be
+clear, not Taleo logos. We had more new Fusion CRM. I'll be very clear. Take out Taleo. Don't count it. Just look at
+our Fusion HCM, look at our Fusion HCM customers. We added more new Fusion core HCM customers last quarter
+than Workday added their HCM plus ERP customers. That's just Fusion, not Taleo.
+We're growing very fast in the cloud and especially the HCM cloud, especially Fusion HCM. And as Mark pointed out,
+we're larger in SaaS than anyone but Salesforce.com. We're larger than Workday and SAP combined.
+Okay, but that's not the only layer we compete in, SaaS. We compete at the platform layer, and if you kind of look at
+Oracle historically, that's where you'd expect us to be strongest. These are our two brands in PaaS: the Oracle database
+and Java. Those are the two most important platforms on the face of the earth for building applications. They – both
+products are dominant. There are more than 9 million Java developers.
+On our platform business, our cloud platform business, we have over 5,000 customers on our cloud. Mark mentioned
+our cloud services: 6,000 servers, 12,000 VMs, almost 70 petabytes of storage in 11 locations around the world, almost
+8 million users per day and over 16 billion transactions per day. Mark mentioned all those numbers.
+But again, we have over 34 – we announced our service last – our platform service last OpenWorld and now we have
+over 3,500 or over 3,400 customers on the Oracle database cloud and another 1,700 in the Java cloud, and that's just the
+beginning. We think our PaaS business is one of our huge, huge competitive advantages, where you tend to think of –
+the big cloud players are either in SaaS, like a Salesforce.com, or in infrastructure, like Amazon. You really don't think
+of a real strong PaaS player.
+Well, that's where we think we have a huge advantage and we think that accrues to our big SaaS customers because
+when you buy a SaaS product it doesn't mean you're not going to build other little things yourself in the cloud to go
+along with the SaaS products you buy. And with Salesforce.com, which they're the market leader and I have a great
+deal of respect for what Mark Benioff has achieved over there. I think he's done a good job. But they started a long time
+ago and they have a platform called Force.com, which is not based on industry standards.
+So when you make additions to Salesforce.com, you write in Salesforce's proprietary platform. When you make
+additions to our SaaS applications you use the Oracle database and Java, the industry standards. So we think customers
+are going to look at the entire cloud and assess the quality of the applications, SaaS, the quality of the platform and we
+don't think any of the big cloud players can compete with us at the platform layer. And of course the quality of the
+infrastructure, which Mark mentioned earlier, which is our engineered systems, which again we think gives us a big
+competitive advantage.
+So the combination of 12c for the cloud, which we think will be adopted by most, most of the big cloud players, as well
+as our corporate customers as they build clouds inside their firewall, is huge and we think the advantage – another
+advantage that we offer is the clouds that our customers are going to run internally made up of Oracle and Java is the
+same cloud that we offer in our public cloud. So they can build applications and move them back and forth. They could
+build an application in Oracle and Java on our public cloud and move it back to their private cloud. They can take an
+application that runs in their private cloud and move it to the public cloud. They can do test and development in the
+public cloud and run it in their private cloud because our cloud is based on industry standards. Our platform is based on
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 9 of 11
+industry standards. We're the only company that's doing this, very optimistic about our ability to compete in the cloud.
+Again, I said earlier we're going through this transition where we moved a lot of our lot of our new sales guys, again
+not all, a lot of our new sales guys to the cloud. So we're moving aggressively to sell not only our applications but our
+database and Java and our infrastructure in the cloud. We're investing a lot in engineering, we're investing a lot in sales
+because we think the opportunity is gigantic and we're well-positioned with a key new enabling technology called
+Oracle 12c database.
+<A - Kenneth Bond>: Operator, next call, please – question, please.
+Operator
+We'll go next to Walter Pritchard with Citi.
+<Q - Walter H. Pritchard>: Hi. Safra, I'm wondering if you could – we heard a lot about the cloud here and SaaS and
+I'm wondering if you could help us understand both near-term and longer-term the impact of that on license revenue,
+how that may be depressing what we're seeing on that end?
+<A - Safra Ada Catz>: Well, at this point the reality is that most of our customers are application customers that are
+taking some cloud offerings, are doing it as a complementary offering and to what they've already got on-site. So it's
+not necessarily – now if all of our application customers overnight all, gosh I don't know 10,000 of them overnight
+switched to SaaS, then that might have an effect. But we have so many customers and the dynamics are such that many
+are adding on and some are adding on on-premise, some are adding on on-cloud and some of them are replacing
+on-premise with cloud. We have such a large base that net, net we have growth. So that's the dynamic right now. In the
+event that everyone tomorrow switched over, well that would have a different effect. But that's not likely to happen.
+<A - Lawrence J. Ellison>: Let me add my comment, which is we think when someone chooses an Oracle application
+in the cloud versus an Oracle application on-premise, we make more money over time. Now the order that revenue
+comes in is a little bit different because we take it ratably rather than a big chunk up front. But we think when someone
+becomes a cloud customer that is an economically more valuable customer to us over time than when someone buys
+our software on-premise. So we think over a reasonable term, we benefit tremendously from the movement to the
+cloud.
+<A - Mark V. Hurd>: Yeah, add to it, Walter, there's other dynamics at play here. Because of the way our software is
+architected, we can sell by module. So in many ways it opens up brand new markets to us. We can go sell to an SAP
+customer a module of HCM. They can buy recruiting from us. They don't have to "rip and replace." Somebody like a
+Workday actually has to do a lot more rip and replace than we would. We can go in, supplement many of our
+application users today with their core on-premise app with new modules of our SaaS Fusion application. So actually in
+some ways long run we're going to have to go through the ARR phase where we start building up our ARR as we go,
+but it opens up new markets that we haven't had available to us before.
+<Q - Walter H. Pritchard>: Thank you.
+<A - Kenneth Bond>: Next question, please.
+Operator
+We'll go next to Phil Winslow with Credit Suisse.
+<Q - Philip A. Winslow>: Hi. Thanks, guys. Just got two questions actually. First back on the hardware side,
+obviously we've talked a lot about Engineered Systems but wondering if you could give us an update on the M5 and the
+T5. I know it's early but just what are you hearing from customers about those two new processors and sets of servers?
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 10 of 11
+And then kind of flipping gears back to the software front, Mark, I know the two of us have talked about your customer
+experience, management solutions from CRM to marketing to commerce. How is that set of products doing? And with
+some of the changes competitively out there with Salesforce buying ExactTarget and Hybris going to SAP, just how do
+you think your product's launch is set up there? Thanks.
+<A - Lawrence J. Ellison>: Okay. I'll start with the first part of your question, which was hardware. The T-Series is
+growing nicely. And again, I mentioned that's not part of our assumption for growth for hardware for the entire year.
+That's heavily weighted to Engineered Systems, Exadata, SPARC SuperCluster, et cetera. But T is growing nicely and
+there's huge interest in our M-Series machine. The interesting thing about the M5 as opposed to the T5, the M5 has 32
+terabytes of DRAM. It is designed to be an in-memory machine. We will announce at the end of the year that Oracle
+12.1c, 12.1c is an in-memory database and it is designed to work exceedingly well with our M-Series machines, again
+which have more memory, by the way, than any other computer on planet Earth. It's an SMP machine with 32 sockets
+and 32 terabytes of DRAM.
+And we have designed that machine in concert with the next version of our database, which comes out at the end of the
+year, which is a vertical columnar compressed in-memory vertical database. And we think one of the reasons I was
+very confident that SAP HANA could never compete with Oracle over the long term is because of 12.1c. And again,
+we combine that software technology with our latest M-series in-memory – large-scale in-memory machines and we
+think nothing can touch it. And by the way, that machine is not very expensive.
+<A - Mark V. Hurd>: Yeah, and to add to it, T5 has taken off faster than T4. T4, we've talked about the growth we've
+seen in T4 while we've seen the reduction in M, which is fundamentally what's happened to the SPARC line. The T5 –
+and that's early days still so we're going to have to see how it unfolds but I'd say it's very encouraging from the numbers
+we saw both in the quarter in orders and in the pipeline. And there is a large installed base of SPARC that's out there
+for us to go sell into, particularly on the high-end.
+To your question, I think your question was on ATG and Endeca, ThoughtWire, which is basically the foundation of
+our commerce server and what we'll call our customer experience, very strong numbers. We just don't lose deals. So at
+the end of the day when you get into that space and you've seen it particularly too in the retail industry, many of the big
+retailers that are focusing on how to connect to their customer, how to engage the customer, how they cross-sell and
+upsell to that customer, that's at the core fabric of what they deploy. We expect to see that same sort of behavior in the
+telecommunications industry, financial services industry, and we love our position and we don't believe any effect of
+our competitive position rides on SAP's acquisition or what Salesforce has done.
+Remember one more time: the leader in marketing automation software is Oracle. Eloqua is the leader. So it is not
+anybody else. And we've got a head start and we did very well. I even mentioned in my comments, Eloqua did very
+well in the quarter in terms of its ARR. So we like our aggregate hand. We like our position with RightNow on the
+service side. We like our position on the commerce side with ATG. We like our position on the marketing side with
+Eloqua, so we feel good about where we sit.
+<A - Lawrence J. Ellison>: Yeah, let me just kind of summarize what Mark said where you think of Salesforce.com as
+a company that has a very strong foothold in companies that sell B2B. We think we have an equally strong foothold in
+companies that sell B2C. So while we think we're going to be – aggressively compete with Salesforce where we think
+we have a huge competitive advantage where our number one competitor actually turns out to be IBM in that space, we
+just don't lose deals to IBM in e-commerce.
+<A - Kenneth Bond>: Next question, please.
+Operator
+We'll take our final question from Keith Weiss with Morgan Stanley.
+<Q - Keith Weiss>: Excellent. Thank you, guys, for fitting me. Maybe I'll ask one for Safra. In terms of the guidance
+into Q1 can you give us a little bit of color in terms sort of the conservatism you used in setting that guide, maybe talk a
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2013-06-20
+Event Description: Q4 2013 Earnings Call
+Market Cap: 156,440.95
+Current PX: 33.21
+YTD Change($): -.11
+YTD Change(%): -.330
+Bloomberg Estimates - EPS
+Current Quarter: 0.580
+Current Year: 2.922
+Bloomberg Estimates - Sales
+Current Quarter: 8555.966
+Current Year: 39445.647
+Page 11 of 11
+little bit about close rates assumption and how you're thinking about – how you thought about the guide?
+<A - Safra Ada Catz>: Yeah, well, as I said, first of all, I get a, as you know, I get a rollup from the field and I look at
+the different close rates that we've had historically and the numbers that we're using right now assume a slightly lower
+close rate than we have historically and takes into account the difference we've been experiencing especially this
+quarter and in Q3. I have to know what's going on with our competitors and since even deals that didn't close this
+quarter, they were not lost to competitors, they were either pushed off or, what also shows up in close rates, or they
+became smaller by a certain percentage and so that's really what we apply. So I'm not going to quantify it for you but
+I've assumed a few points lower than would be typical for a Q1, especially since a number of the Q4 deals especially
+have closed already. So I just had to pretty much take into account what we've been seeing for the past couple of
+quarters and apply that to the pipeline.
+<Q - Keith Weiss>: Excellent, very helpful.
+<A - Safra Ada Catz>: Okay.
+Operator
+That does conclude our question-and-answer session. I would now like to turn the conference back over to Ken Bond
+for any additional or closing remarks.
+Kenneth Bond
+Thank you, operator. That does conclude our call. If you have any questions please feel free to call the Investor
+Relations department. Thank you for joining the call. I'll turn it back to the operator for closing now.
+Operator
+Thank you. That does conclude our conference. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
