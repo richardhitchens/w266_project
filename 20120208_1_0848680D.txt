@@ -1,0 +1,905 @@
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 1 of 16
+Q4 2011 Earnings Call
+Company Participants
+• Brad Hampton
+• Daniel R. Hesse
+• Steven Lawrence Elfman
+• Joseph J. Euteneuer
+Other Participants
+• Michael I. Rollins
+• Jonathan Chaplin
+• David W. Barden
+• Kevin Smithen
+• David M. Dixon
+• Jason S. Armstrong
+• John C. Hodulik
+• Brett Feldman
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning. My name is Gina, and I will be your conference operator today. At this time, I would like to welcome
+everyone to the Sprint fourth quarter earnings conference call. [Operator Instructions]
+Thank you. I would now like to turn the call over to Brad Hampton, Vice President of Investor Relations. Sir, you may
+begin.
+Brad Hampton
+Thank you, Gina. Good morning and welcome to Sprint Nextel's fourth quarter 2011 earnings call. Thanks for joining
+us this morning. For the format of the call, Dan Hesse, our CEO, will discuss operational performance in the quarter.
+Then Steve Elfman, our President of Network Operations and Wholesale, will provide an update on Network Vision.
+And finally, our CFO, Joe Euteneuer, will cover the financial aspects of the quarter.
+Before we get underway, let me remind you that our release and the presentation slides that accompany this call are
+both available on the Investor Relations page of the Sprint website.
+Slide two is our cautionary statement. I want to point out that in our remarks this morning we will be discussing
+forward-looking information, which involves a number of risks and uncertainties that may cause actual results to differ
+materially from our forward-looking statements. We provide a comprehensive list of risk factors in our SEC filings,
+which I encourage you to review, including our Part II, Item 1A, Risk Factors, of our quarterly report on Form 10-Q for
+the quarter ended September 30, 2011; and Part I, Item 1A, Risk Factors, of our Annual Report on Form 10-K.
+Turning to slide three, throughout our call we will refer to several non-GAAP metrics. Reconciliation of our
+non-GAAP performance and liquidity measures to the appropriate GAAP measures can be found in the attachments to
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 2 of 16
+our earnings release and also at the end of today's presentation.
+Turning to slide four, with today's earnings release we are providing a number of new disclosures related to our
+network platforms. We are providing this new disclosure to give you a better understanding of the underlying trends
+our operations and the growth of our core Sprint platform business. In our disclosure and throughout today's call,
+Nextel platform refers to our iDEN business, which we will begin decommissioning in 2012. And Sprint platform
+refers to our core ongoing business, which includes CDMA, WiMAX, LTE, and other network technologies.
+Let's move to earnings per share on slide five. Basic and diluted loss per common share for the fourth quarter was $0.43
+compared to $0.10 in the third quarter and $0.31 in the year-ago period. Basic and diluted loss per common share for
+the full-year 2011 was $0.96 compared to $1.16 in the full-year 2010.
+The loss per share increased as compared to the third quarter partly due to drivers that also impacted the sequential
+change in adjusted OIBDA, which Joe will discuss in more detail later on the call. In addition, loss per share increased
+sequentially due to higher equity losses in unconsolidated investments and other as well as higher net tax expense. The
+current period net loss per share includes $0.04 pre-tax loss per share related to an impairment of our holding in
+Clearwire as well as $0.03 pre-tax loss per share related to the impairment of certain network assets related to Network
+Vision. The fourth quarter net loss per share also included a $0.01 pre-tax loss per share impact due to severance costs.
+We recorded a net tax expense of $106 million in 4Q 2011, which included $6 million related to changes in corporate
+income tax laws enacted in the quarter. For the full year 2012, we expect our net tax expense to be approximately $150
+million to $200 million. Also please keep in mind that Clearwire's fourth quarter 2011 results from operations have not
+yet been finalized. Please refer to the press release and our Form 10-K when it is filed for additional detail.
+I will now turn the call over to Sprint's CEO, Dan Hesse.
+Daniel R. Hesse
+Thanks, Brad, and thank you for joining us this morning.
+Sprint has shown continued momentum in recent quarters, and Q4 is no exception. Before I recap our overall
+performance in 2011 in the context of our broader turnaround effort, let me take a moment and touch on some of the
+key highlights from the fourth quarter.
+Turning to slide seven, I am pleased to report today that we had a very successful launch of the iPhone, with total
+activations in the quarter of over 1.8 million, above our expectations. 40% of those activations were new customers to
+Sprint, a proof point of the renewed strength of the Sprint brand.
+I'm also pleased to report today a year-over-year growth of $3.69 in our Sprint platform postpaid ARPU rate, which is
+the largest increase on record in U.S. wireless industry history. This historic ARPU growth was achieved in the same
+quarter that we delivered our best postpaid voluntary churn number for any quarter since 2005 and in which we also
+delivered our highest postpaid gross add volume for any quarter in four years.
+As you know, voluntary churn is churn based on the customer's choice, churn determined by the strength of the brand,
+the customer experience, and comparative pricing. To improve postpaid churn in 2011, more than any major U.S.
+carrier and delivering the best annual postpaid churn in Sprint history while simultaneously increasing prices to an
+extent that delivered industry record-breaking ARPU in the same year is nothing short of remarkable.
+The significant upfront costs associated with the introduction of the iPhone and the beginning of the ramp up in
+Network Vision operating expense lowered adjusted OIBDA below historical levels, but the $842 million of adjusted
+OIBDA in the quarter topped the high end of our forecast and analyst estimates. This marked the third time in 2011 that
+quarterly OIBDA exceeded Street consensus estimates. And on a pro forma basis, full-year 2011 adjusted OIBDA
+topped analyst consensus by over 5%.
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 3 of 16
+Finally, I am also pleased to announce continued progress on our Network Vision deployment. Today, we're adding
+Baltimore and Kansas City to the list of cities that are expected to have Sprint LTE service plus improved 3G service
+by the middle of this year, bringing the major cities to be launched by midyear to six.
+As we closed the fourth quarter of 2011, I completed my fourth year at Sprint. I told you on my first call that our
+turnaround would be difficult and not quick. Although we're far from finished, our progress nevertheless has been very
+significant. 2011 caps what I would consider the first phase of our turnaround, the recovery and strengthening of the
+business to the point that we're ready to enter the second phase in 2012, investment for future growth.
+I will organize the balance of my remarks today, as usual, around our three unchanging priorities: improving the
+customer experience, strengthening the brand, and generating cash. Given our special focus on OIBDA and cash
+generation, I'm going to change the order today, however, and start with cash.
+Please turn to slide eight. We maintained our strong liquidity position by generating $275 million [sic] [$257 million]
+(7:12) of positive free cash flow for the quarter in addition to raising $4 billion of cash through our recent debt
+offerings. Joe will provide more details on the impacts of Network Vision and iPhone on this quarter's OIBDA. But
+absent the estimated impacts of these two investments and excluding 2006, which had a one-time blip associated with
+adding the first year of full-year Nextel results, 2011 full-year pro forma OIBDA performance reflects year-over-year
+improvement for the first time in seven years. The growth in our core Sprint platform business finally overtook the
+declines on the Nextel platform and wireline.
+Driven by strength in postpaid ARPU, Q4 represents our sixth consecutive quarter of year-over-year improvement in
+total operating revenues, and the 4.7% growth from Q3 to Q4 represents our largest sequential increase in over five
+years. As mentioned, the Sprint platform postpaid ARPU increase of $3.69 over the fourth quarter of 2010 is the largest
+quarterly year-over-year improvement on record for the U.S. wireless industry.
+Please turn to slide nine. 2011 culminates the efforts of our cash strategy over the last four years as we prepared for the
+investment that lies ahead with Network Vision. We focused first from 2008 to 2010 on slowing down the subscriber
+and top line revenue declines that followed the merger. We also focused intensely on reducing both capital and
+operating expenses these past four years. We minimized our CapEx investments in 2G and early 3G radio technology
+to keep our powder dry for investment in our new world-class Sprint Direct Connect service and in 4G LTE.
+Compared to our CapEx run rate in 2007, between 2008 and 2011 we saved an estimated $15 billion in capital. Even
+when you consider our cash investments in Clearwire and the increase in OIBDA-reducing roaming expenses we
+incurred over this period, which are effectively a trade-off with our decision to spend less on 2G and 3G CapEx, we
+achieved estimated savings in the last four years of over $10 billion of cash. Whether the accountants classify a dollar
+as OpEx or CapEx, it's all cash in our view. From 2008 to 2011 our wireless CapEx investments were approximately
+one-third the spend of Verizon, one-third of AT&T spend, and one-half the spend of T-Mobile USA.
+Additionally, compared to our run rate in 2007, our total cost of service and SG&A in 2011 excluding roaming expense
+and subsidy, which is really driven by competitive pricing versus spending behavior, are down by approximately $5
+billion per year, with G&A expenses down almost 50%; marketing and product down 32%, even though we have
+invested more in increasing and improving Sprint retail; and IT and billing expenses are down by a third. Over the
+same time period, our total labor expense is down by 33%.
+A primary tool in previous years used to satisfy customers and stem churn was for our care organization to provide
+credits on customer bills. Not only did Sprint offer the lowest level of care credits in our history in 2011, but customer
+care credits have decreased by $1 billion on an annual basis since 2007, so we're not buying improvements in customer
+satisfaction and churn.
+During 2011 based on the improvements in our customer experience and in our brand, we were in a position for the
+first time to increase prices. We implemented an increase of $10 for our smartphone data plans in the first quarter of
+2011. We also increased our other prices and fees during the year, eliminated our loyalty program, and lengthened
+upgrade eligibility, all actions aimed at improving our OIBDA and cash generation.
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 4 of 16
+Please turn to slide 10. Improving the customer experience has been our top objective and the most important
+contributor to our turnaround. In the 2011 American Customer Satisfaction Index, we were the most improved U.S.
+company – period – across all 47 industries studied by the ACSI over the past three years. Sprint was in a statistical tie
+for first place for best overall choice by Consumer Reports in 2011, up from a distant last place in 2007 and in 2008
+among major wireless carriers. Sprint was recognized five times in 2011 by J.D. Power & Associates. And we were
+recently informed that Virgin will receive the J.D. Power award for the highest customer satisfaction among
+non-contract brands. Boost placed second. Atlantic ACM just awarded Sprint a network award for global wholesale
+excellence. And Frost & Sullivan just awarded Sprint the North American Customer Value Enhancement award for the
+machine-to-machine space.
+Our customer service organization continued their momentum to achieve customer service excellence. Sprint achieved
+best-ever results in 2011 for customer satisfaction with customer care, customer satisfaction with repair, and customer
+satisfaction with retail. We also achieved best-ever results for the number of calls per subscriber to care and for first
+call resolution, in addition to the best-ever performance in fewest care credits given, as previously mentioned.
+In spite of some temporary pressure on involuntary churn, which we mentioned on last quarter's call and which Joe will
+describe in more detail, we continued to make steady progress on postpaid voluntary churn, which is an important
+indicator of customer satisfaction. 2011 represents our best-ever annual total postpaid churn at 1.86%. And in Q4 we
+delivered our best postpaid voluntary churn performance for any quarter since 2005. Like we did in 2010, we again
+improved voluntary postpaid churn year over year in every quarter of 2011. Prepaid churn of 4.05% for the year is also
+best ever, and Q4 prepaid churn was Sprint's best in the last 24 quarters. Churn improved sequentially for each of our
+prepaid brands: Boost, Virgin, and Assurance.
+Turning now to brand on slide 11, I'm very pleased to report that once again all Sprint brand metrics or health metrics
+are at record highs. As measured by an outside third party, most want to investigate, purchase consideration, positive
+brand momentum, and first brand preference are all at best-ever levels in 2011. In a well known independent survey,
+Net Promoter Scores again indicate Sprint is the only one of the four major carriers to show improvement sequentially.
+And our improvement has been so significant, we have moved up two spots in the major carrier rankings in the past
+two years.
+Perhaps Q4 2011 will be most remembered for the collapse in December of AT&T's proposed acquisition of T-Mobile
+USA. We believe the industry outlook would have been bleak had this takeover succeeded. And we also believe that
+Sprint's successful championing of a healthy industry and customer choice will have lasting benefits for the way
+business customers and consumers view Sprint.
+Please turn to slide 12. Driven by the improvements in the customer experience and the brand, our total net subscriber
+additions in the fourth quarter of 1.6 million are the best in six years, bringing our full-year number to 5.1 million net
+adds, which is Sprint's highest number of net adds since 2001. Total customers served on the Sprint and Nextel
+platforms reached 55 million at the end of 2011, yet another new all-time company record. I'm pleased to report that for
+the Sprint postpaid platform, 2011 is our second consecutive year of being net port positive against our competition,
+which means more customers switched to Sprint from our competitors then switched from Sprint to competitors, and
+total postpaid net adds are our best since 2006.
+Our 161,000 postpaid net adds in the quarter represent our tenth consecutive quarter of year-over-year improvement.
+We entered the fourth quarter expecting an even better performance. But during the quarter, we saw unprecedented
+discounting on devices, especially for Apple products, which we decided not to participate in. We made a conscious
+decision not to chase meeting our net add guidance under these unforeseen circumstances, believing it was more
+prudent to shoot for delivering an OIBDA result exceeding the top end of the OIBDA guidance range we had provided
+instead. This was a tough decision for us to make during the fourth quarter. Not only had Sprint never missed a single
+guidance metric in the past four years; but for me, personally I had never missed one guidance number during my long
+career. So Sprint's streak and my streak are now broken, but we believe we made the right decision.
+Sprint's 40% iPhone gross add mix far outpaced our competitors. The gross add mix of sales is the best early indicator
+of long-term profitability with the iPhone, and we were pleased with the results. We continue to believe the iPhone will
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 5 of 16
+bring significant value to Sprint over the long term, and early results are in line with or better than our business case
+assumptions.
+Turning to slide 13, in addition to success with the iPhone, we continue to see strong demand for our other compelling
+devices, including our industry leading portfolio of 4G devices. The Samsung Galaxy S II Epic 4G Touch not only has
+the longest device name in wireless industry history, but it was recently named the best Android phone by Kiplinger's
+Personal Finance and America's number one smartphone by PC World. In the fourth quarter, 86% of our Sprint
+postpaid handset sales were smartphones; and penetration of our Sprint platform base reached 66%, both all-time highs.
+We also had a strong quarter and year and wholesale and in prepaid, which Joe will cover later.
+Turning to slide 14, in conclusion, we've come a long way in four years. Our top line is growing again. Our customer
+experience has gone from the worst to arguably the best in the industry, and our once battered brand is strengthening
+and gaining momentum. Offsetting the downward revenue and earnings pressures of a subscale wireline business and a
+declining business on the Nextel platform, we have a vibrant, growing Sprint platform that will fuel our continued
+growth. Since 2007, Nextel platform annual revenues are down approximately $9 billion annually and wireline
+revenues are down another approximately $2 billion annually, but our Sprint platform revenues are up over $4 billion
+annually since 2007.
+We've exercised financial discipline in the past four years, including large reductions in CapEx and OpEx to gain the
+financial stability to give us the confidence to begin the investment phase of our turnaround. 2011 marks not only the
+first annual service revenue increase, but also our first positive operating income since 2006. And as mentioned,
+excluding the one-time events of the Nextel acquisition and last quarter's iPhone and Network Vision overlays and in
+spite of the continued declines associated with our Nextel platform and wireline, 2011 delivered our first sequential
+improvement in pro forma adjusted OIBDA in seven years.
+Since I arrived four years ago, we have known we eventually needed to deal with the ever-increasing cost drain of
+running an additional 2G network. During this period, we simultaneously improved network performance but also
+saved every dollar possible so we can invest our money not in the technology available in those years, but in new
+technology not available until now.
+To help buy time, we launched Boost Unlimited in the first quarter of 2009 using our spare iDEN capacity. Boost has
+generated $5 billion in incremental revenues on the iDEN platform since that time. We waited until network
+infrastructure was developed that was: one, multimodal so that we could refarm the valuable iDEN 800-MHz
+frequencies; two, that could also provide an iDEN quality push-to-talk experience on the new network, what we now
+call Sprint Direct Connect; and three, which was capable of providing 4G LTE service on our FD or Frequency
+Division spectrum.
+Steve Elfman will speak next to give an update on our deployment status and plans for this year, but I am pleased with
+our progress to date. I periodically discuss Network Vision support with my CEO peers and our key partners, and I am
+very confident in their commitment to this effort and the significant opportunities they provide Sprint.
+I'm proud of the accomplishments we've made in this first phase of our turnaround, and I look forward to the call two
+years from now when we'll be looking back o the second turnaround phase, our investment phase, the successful
+deployment of Network Vision, and looking forward to Phase 3, the margin expansion which will follow.
+I will now turn the call over to Steve to discuss our Network Vision progress. Steve?
+Steven Lawrence Elfman
+Thank you, Dan.
+Turning to slide 16, we are pleased with the progress of Network Vision, which continues to be on schedule and on
+budget. In fact, as Dan mentioned, I'm pleased that we announced today the launch of our fifth and sixth major cities,
+Kansas City and Baltimore, by midyear 2012.
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 6 of 16
+I want to remind you of the objective of Network Vision and then discuss our progress and some milestones. Network
+Vision is expected to allow us to achieve several key objectives. First, we expect to greatly improve our cost structure
+through the consolidation of our networks as well as improving the coverage within our 3G footprint and reducing our
+in-footprint roaming expenses. Second, we expect the program will allow us to optimize our spectrum assets through
+the redeployment of our 800-MHz spectrum to both 3G and ultimately 4G LTE, which is expected to improve the
+performance of our network and improve customer experience. Third, our multimodal technology is both more cost
+effective and provides the flexibility to enable spectrum hosting. Lastly, through the implementation of new PTT,
+push-to-talk, technology and devices on the Sprint platform, we can maintain our leadership and eliminate the Nextel
+platform.
+Turning to slide 17, we are excited about the improvements to the customer's experience and the technological
+flexibility that Network Vision is expected to produce. But the greatest advantage to the company and to our
+shareholders is the expected financial benefits. The project should finally remove some of the duplicative fixed costs
+that come with running two wireless networks. We expect to reduce our total tower position by more than 44%, from
+approximately 68,000 towers down to 38,000 towers; and at the same time, greatly reduce both 3G and 4G roaming
+costs.
+The consolidation is not only expected to improve our operating costs, it should also significantly improve Sprint's
+carbon footprint, reinforcing that Sprint's commitment to our green initiatives is integral to cost efficiency. And
+Network Vision is expected to improve our capital efficiency, reducing our per-unit cost of both gigabytes and minutes
+by approximately 50%.
+I also want to remind everyone of the high degree of cost certainty we have written into our vendor contracts to support
+Network Vision. Essentially, all labor and execution costs in our contracts are predetermined. In other words, the
+majority of the expense risk associated with getting the build done lies with our vendors, and our only exposure to
+additional costs our scope changes.
+Turning to slide 17, so where are we? We are on track with our 2012 goals for deployment, and things are going very
+well. We have executed against all of our major 3G and 4G technical milestones. The detailed deployment and resource
+plans have been completed by our three vendors, and they have been staffing up to meet the build-out demand. We're
+well underway on leasing, zoning, and tower construction on our 38,000 sites, with a goal of having 12,000 higher
+density sites on air by the end of this year.
+In addition, we expect that approximately 9,600 Nextel platform sites will be decommissioned by the end of 2012. We
+continue to expect that the build will be largely completed by the end of 2013, with some overflow of smaller markets
+in the first half of 2014.
+During the fourth quarter, our first true multimodal permanent site went on air, and the first cluster of cell sites
+launched in Kankakee, Illinois, and they are meeting our performance and coverage targets. The development and
+deployment is proceeding within our budget targets. Our agreements with the major tower companies were finalized in
+Q4. In January, we announced four major markets scheduled to launch LTE by midyear, to which we added two more
+today.
+In addition, we announced our first three LTE devices, which are coming by midyear 2012. And we have been
+launching phones that are 800-MHz band Class 10 compatible since the middle of last year. This means that as we
+redeploy our 800-MHz spectrum, many of our 3G customers should get an immediate and very noticeable benefit.
+And in the fourth quarter, we launched our Sprint Direct Connect product, including three new phones on the Sprint
+platform, which we are confident is the best push-to-talk product that is available in the market today and is central to
+our customer recapture strategy as we decommission the Nextel platform. And while people are focused on the
+build-out of LTE, it's important to remember that every site we build is expected to provide immediate improvement in
+the network experience for all our customers and roaming cost reduction for Sprint.
+Going forward in 2012, we plan to provide an update each quarter on cell sites on air, sites decommissioned on the
+Nextel platform, and any significant build milestones. My entire team and I and our three vendors have a strong focus
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 7 of 16
+on cost containment and capital efficiency and will continue to drive the program forward to remain on schedule and on
+budget. And I look forward to updating you next quarter with milestones achieved and new markets and the build plan.
+Thank you and I'll now turn it over to Joe to review our detailed financial results.
+Joseph J. Euteneuer
+Thank you, Steve. Good morning, everyone, and thank you for joining us today.
+As Dan outlined, the past four years, culminating with 2011, have been years of recovery in which Sprint has worked
+hard to put in place the operational and financial improvements we needed to support our next phase of investment. The
+recovery effort has been very successful. In a highly competitive market, these successes were hard won and do not
+come without a huge amount of work and ingenuity. We have effectively turned our core business around, producing
+the financial and operational stability that now allows us to invest for future OIBDA growth and margin expansion. I
+will go through the detailed Q4 results in a moment, but first I want to discuss how we are looking at 2012.
+As 2011 was a year of continued year over year improvement, 2012 will be a year of even greater focus on the bottom
+line. We expect to continue to grow the customer base in our core business on the Sprint platform while focusing on
+hitting our bottom line numbers as we invest in network architecture, which we expect will be the foundation of future
+margin expansion. We will provide additional visibility into our key metrics in 2012 to give you more detailed
+information on the operational components of our business.
+With the launch of the iPhone, the implementation of Network Vision, and the thinning of the Nextel network, we have
+a lot of moving parts. And we want to give you more tools to understand the underlying dynamics of our business. This
+commitment is reflected in the new disclosures we have provided today.
+With that, I will review the fourth quarter and full-year 2011 results. Total service revenues for the fourth quarter were
+$7.8 billion, up 1% sequentially and up 5% from the fourth quarter of 2010. The growth of our total net service
+revenues is primarily due to the growth in postpaid subscribers and ARPU on the Sprint platform as well as the strong
+growth of prepaid subscribers on the Sprint platform, partially offset by declines in our Nextel platform postpaid and
+prepaid subscriber bases and Nextel platform postpaid ARPU as well as wireline revenues.
+In the full year 2011, wireline revenues declined by approximately $714 million. And revenues from the Nextel
+platform declined by almost $2 billion, which means that service revenues from our core ongoing Sprint platform
+wireless business grew by nearly $3.5 billion or 17%.
+Consolidated adjusted OIBDA for the fourth quarter was $842 million, which includes approximately $54 million in
+Network Vision related expenses and an estimated $630 million in net OIBDA impact related to the launch of the
+iPhone. In order to provide appropriate comparables to our numbers, we have estimated the incremental impact of the
+iPhone launch to our adjusted OIBDA results for the fourth quarter.
+The estimate of $630 million includes only the cost of estimated incremental gross adds and upgrades as well as the
+subsidy rate variance resulting from the mix shift from other handsets, and backs out the estimated incremental revenue
+benefit that comes from additional customers. Going forward, it will become increasingly difficult to estimate the
+incremental impact as the iPhone becomes an integrated part of our handset sales. Thus, in the future we will only
+provide the total impact of the iPhone on the quarter and will not attempt to estimate the incremental impact.
+Excluding the estimated $684 million of Network Vision and iPhone cost in Q4, pro forma adjusted OIBDA was over
+$1.5 billion, up $211 million or 16% year over year and up $89 million or 6% sequentially. Excluding these
+investments, consolidated pro forma adjusted OIBDA margin was 19.6% of net service revenues, a 100 basis point
+sequential improvement and a 200 basis point improvement from the fourth quarter of 2010.
+Now let's turn to slide 23 and discuss our wireless results in more detail. Total wireless service revenues for the fourth
+quarter were $7 billion, which is a 2% sequential increase and a 7% increase over the fourth quarter of 2010. Excluding
+the revenues from the Nextel platform, fourth quarter wireless service revenues from our core Sprint platform were
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 8 of 16
+$6.2 billion, up $207 million or 3% sequentially, and up $912 million or 17% over the fourth quarter of 2010.
+Dan has taken you through the trajectory of our very strong subscriber improvements over the past year and
+historically, and now I'd like to review our Q4 results in more detail. Total company postpaid gross adds for the fourth
+quarter were just over 2.1 million, a 275,000 improvement sequentially and a 213,000 or 11% improvement from the
+fourth quarter of 2010.
+Total postpaid churn was 1.98%, which was seven basis points higher than the third quarter and 12 basis points higher
+than the same period a year ago. As Dan mentioned, postpaid voluntary churn was at its best level for any quarter since
+2005, so over 100% of the churn increase his involuntary churn. The vast majority of the increase in involuntary churn
+was due to two related items.
+First, in the second and third quarters, some of our indirect partners self-funded the retail price points of certain
+handsets down to zero. We tightened our credit standards during the third and fourth quarters to stem further impacts of
+these types of promotional activity. In the second and third quarters, we also launched an instant rebate promotion in
+the direct channel. While these actions were taken separately and attracted both prime and subprime customers, they
+both had the effect of significantly reducing the out-of-pocket expense for customers at the point of sale, which for
+subprime customers has a high correlation with early-life involuntary churn.
+Another lesser impact was due to higher customer balances. As we have steadily increased ARPU throughout the year,
+we have seen some increase in customers churning because they are unable to make their monthly payments. This is the
+expected impact of the strong ARPU growth we have seen. And with these increases and ongoing customer revenues,
+we understood we would see some negative impact to customer churn. However, as expected, the strong ongoing
+revenue growth of the subscriber base more than offsets this impact.
+So let me be clear. While we are experiencing some temporary impact to our involuntary churn due to the actions taken
+in the second and third quarters and due to our extraordinary ARPU growth, we believe the underlying fundamentals of
+our business are extremely sound, and we expect them to continue to improve. Our voluntary churn is the lowest since
+2005, and we expect to see involuntary churn improve after Q1 once the impact of these items has had the time to move
+through our subscriber base.
+Going forward, we expect the launch of the iPhone will continue to have a positive impact on our core Sprint platform
+postpaid churn. This benefit will happen over time as our customers hit their upgrade eligibility and the iPhone
+becomes available to them. As Dan mentioned, ahead of the iPhone launch we strategically standardized the term of
+upgrade eligibility for 20 months, and we increased smartphone early termination fees in order to smooth the impact of
+upgrades and reduce the financial impact of the iPhone investment. This means that the churn benefits of the iPhone
+will layer in over time, but also that the profitability profile of our broader customer base should be improved as
+changes to ETFs and upgrade eligibility have been applied to many other devices, not just the iPhone.
+The company's total postpaid net adds for the quarter were 161,000, comprised of 539,000 Sprint platform postpaid net
+adds, which included approximately 168,000 customers recaptured from the Nextel platform. This was offset by a net
+loss of 378,000 postpaid customers on the Nextel platform. We expect this negative trend on the Nextel platform to
+continue and to accelerate throughout 2012 as we commence decommissioning of the Nextel network and work to
+recapture customers on our core Sprint platform.
+Concurrent with the strong postpaid subscriber growth we have seen on our core Sprint platform, we have also been
+very successful in growing our Sprint platform postpaid ARPU. Sprint platform postpaid ARPU is now over $61.00,
+which is 6% higher than the fourth quarter of 2010, due largely to the adoption of our $10.00 premium data smartphone
+charge. 86% of postpaid Sprint platform handset sales in the fourth quarter were smartphones. And the Sprint platform
+postpaid handset-based penetration has now reached 66%, which means we expect to continue to see additional ARPU
+improvement in our core Sprint platform postpaid business throughout 2012.
+Moving on to slide 24, prepaid ARPU for the full year 2011 was over $27, which was 1% lower than for the full year of
+2010. While total prepaid ARPU for 2011 was lower, the prepaid business had strong ARPU growth throughout the
+year on the Boost and Virgin Beyond Talk brands, offset by the growing mix of Assurance customers, which while
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 9 of 16
+lower in ARPU, have a very favorable churn and profitability profile. Boost in particular had very strong ARPU growth
+of 5% versus the fourth quarter of 2010.
+One of the most positive trends in the prepaid business is our very strong results in prepaid churn. In the fourth quarter
+for 2011, total prepaid churn was 3.68% compared to 4.93% in the fourth quarter of 2010. While the growing mix of
+Assurance customers helps to keep our total prepaid churn rate low, it was not the biggest factor in the year-over-year
+decline in rate. Larger impacts were due to year-over-year rate reductions in both the Boost and the Virgin brands due
+to the shift from the Nextel platform to the Sprint platform on Boost and the shift from pay-by-the-minute customers to
+monthly smartphone customers on Virgin. The prepaid business has been a strong and important growth mechanism for
+our company, and we expect to continue to show growth in subscribers and revenues in our prepaid business in the
+coming year.
+We have also seen very strong growth during the year in our wholesale business. In the fourth quarter of 2011, we had
+954,000 wholesale and affiliate net adds, which is 143% growth from the fourth quarter of 2010 and a 14% sequential
+increase. This very strong growth in the fourth quarter was fueled by prepaid MVNO [Mobile Virtual Network
+Operator] agreements made in 2011, which represents profitable growth for Sprint with little to no upfront investment.
+Let's move on now to wireless expenses on slide 25. Sprint platform variable network expenses, which consist of
+roaming, long distance, backhaul, and premium service expense, were $845 million for the fourth quarter of 2011 and
+were up approximately 20% over the fourth quarter of 2010. This increase is due to an increase in 3G and particularly
+4G roaming cost. 3G roaming costs in the fourth quarter of 2011 were $215 million, up 4% from the fourth quarter of
+2010. 3G roaming cost increases are primarily the result of the growth in the number of Sprint platform postpaid
+customers, the growth of data usage by our customer base, and our strategic decision over the past four years to
+decrease our capital spending on legacy network improvements in order to reserve investment dollars for Network
+Vision.
+4G WiMAX roaming costs in the fourth quarter were $162 million, up more than 500% from just the $26 million
+versus the fourth quarter of 2010. Because of the launch of Network Vision, our 2012 3G roaming expenses are
+expected to be capped at 2011 levels. As a result of the Clearwire agreements we announced in the fourth quarter, we
+now have cost certainty on our quarterly 4G roaming expense, which will decrease by approximately 25% from our 4Q
+exiting expense to Q1 and is expected to remain constant for the year. Despite these increases to roaming costs in the
+current period and because of our strong Sprint platform ARPU growth, we have been able to maintain stable, variable
+network margins on the Sprint platform. With cost certainty on our WiMAX related 4G expenses in the next couple of
+years as well as significant 3G roaming savings as we light up Network Vision markets, we believe we have a clear
+pathway to margin improvement as we execute on our network improvement plans.
+Total wireless cost of service in the fourth quarter was $2.3 billion, a $41 million or 2% improvement sequentially, due
+largely to seasonally lower data roaming cost and lower service and repair cost. Of our total cost of service in the fourth
+quarter, approximately $352 million, or 15%, were network costs related to Nextel platform, which we expect will be
+eliminated upon the completion of Network Vision.
+Total wireless subsidy expense increased $540 million, or 46%, from the fourth quarter of 2010; and $561 million, or
+48%, sequentially. Approximately 20% of the sequential increase was due to higher volumes and approximately 80%
+of the sequential increase was rate related, largely associated with the launch of the iPhone. While the upfront
+investment in the iPhone is substantial, we expect that these customers will produce a strong return on investment in the
+later years.
+Wireless selling, general, and administrative cost increased $136 million sequentially and $65 million over the fourth
+quarter of 2010. The sequential increase was largely associated with a $76 million higher cost in sales. $75 million of
+which was a new expense in the sales line due to reimbursements for point-of-sale discounts for iPhone, which are
+directly sourced by distributors being accounted for as a sales expense. These kinds of handset discounts where not
+directly sourced by the retailer are recognized as subsidy.
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 10 of 16
+For the full year 2011, wireless SG&A increased by $257 million, due largely to an increase in selling expense as a
+result of higher postpaid and prepaid gross adds as well as the direct sourced iPhone sales cost. This was offset by a
+$120 million decrease in customer care cost, which we have been able to streamline even as we've been making huge
+strides in the quality of our service. While total wireless SG&A has increased year over year, wireless SG&A as a
+percent of revenue has improved 100 basis points, even with higher variable costs associated with higher volumes,
+reflecting our continued strong cost discipline.
+Wireless adjusted OIBDA for the fourth quarter was $668 million, which was $546 million lower than the third quarter
+and $378 million lower than the fourth quarter of 2010. Excluding the estimated impacts of the iPhone and Network
+Vision, pro forma wireless segment adjusted OIBDA improved sequentially by 8% and showed year-over-year
+improvement of $306 million or 29%. Pro forma wireless adjusted OIBDA margins excluding the impact of the iPhone
+and Network Vision were 19.4% in the fourth quarter compared to 16% in the fourth quarter of 2010.
+Wireline OIBDA in the fourth quarter declined $89 million or 33% from the fourth quarter of 2010 and $290 million or
+27% for the full year 2010. Approximately 78% of the wireline OIBDA decrease is due to a decline in revenues related
+to resetting of our intercompany transfer rate to reflect current market prices at the beginning of 2011, which is neutral
+at the consolidated level. Wireline OIBDA in 2012 is expected to decline by approximately $350 million.
+Approximately $180 million to $220 million of this decline is expected to be due to intercompany rate changes, which
+are neutral to consolidated OIBD. And approximately $70 million to $80 million is related to cable voice-over-IP
+migrations.
+Moving on to cash and liquidity on slide 26, we ended the fourth quarter with a total liquidity position of approximately
+$6.7 billion, including $5.6 billion in cash and cash equivalents and $1.1 billion of undrawn borrowing capacity under
+our revolver.
+During the quarter, we raised approximately $4 billion through private placement, including $1 billion of 11.5%
+unsecured notes due in 2021 and approximately $3 billion of 9% guaranteed notes due in 2018. The proceeds of these
+notes significantly enhanced our liquidity position, allowing us to pay down $2.25 billion of notes due in March 2012
+ahead of schedule. Our next loan maturity totaling $300 million is due in May of 2013, followed by a $1.5 billion
+maturity in the fourth quarter of 2013. We believe we have a clear runway to allow us to continue the investments in
+the iPhone and in Network Vision.
+I previously gave you guidance that we would be raising approximately $5 billion to $7 billion excluding the Clearwire
+investment we announced in Q4, and this remains our intention.
+Our discussions regarding vendor financing are progressing well with all of our vendors. It is a time-consuming process
+because it involves multiple parties, but we are pleased with our progress to date. Our continued expectation is that we
+will have an agreement in place before the end of the second quarter. In the meantime, we continue to watch the debt
+markets and we will be opportunistic with our options.
+Our accrued capital expenditures excluding capitalized interest of $109 million and including $370 million of Network
+Vision capital were $900 million in the fourth quarter compared to $760 million in the third quarter and $608 million in
+the fourth quarter of 2010. Total capital expenses for the full year 2011 were approximately $2.9 billion, which
+includes $590 million in capital expenses related to Network Vision.
+Rebanding spend for the calendar year 2011 was approximately $123 million, net of a $135 million MSS settlement
+from DISH TerreStar. Inclusive of this settlement, total spend on the rebanding project to date has been approximately
+$2.95 billion. We estimate that we have approximately $600 million to $700 million of rebanding work remaining,
+expected to be split between 2012 and 2013, and with the possibility of going into 2014 depending on the timing of the
+Mexican rebanding plan.
+Free cash flow was $257 million in the fourth quarter of 2011 compared to negative $273 million in the third quarter of
+2011 and to $913 million in the fourth quarter of 2010. The year-over-year decrease in free cash flow is primarily
+associated with lower OIBDA and higher capital expenditures. Free cash flow sequential improvement of $530 million
+was primarily associated with a sequential decline in working capital of $1 billion, primarily associated with the timing
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 11 of 16
+of vendor payments and lower accrued dealer commissions and rebate reserves as we wound down our instant rebate
+promotions in our retail stores during Q3. Free cash flow in Q4 also benefited from the one-time payment of $135
+million for the MSS settlement.
+Finally, I want to outline our expectations for 2012. Total adjusted OIBDA for the full year 2012 is expected to be
+between $3.7 billion and $3.9 billion, including the impact of the iPhone and approximately $1.1 billion of dilution
+associated with Network Vision. To achieve this, we expect total net service revenue growth of approximately 4% to
+6%.
+With the Network Vision project ramping up, the quarterly timing of OIBDA is expected to be somewhat fluid.
+However, our expectation is that OIBDA in the first half of the year will be slightly lower than in the second half. In
+general, our quarterly OIBDA will also be affected by the timing of the launch of any subsequent versions of the
+iPhone. The expectation is that our OIBDA trough will be U-shaped through 2012 and then will start to ramp in 2013,
+followed by strong margin expansion in 2014.
+As we have discussed previously, we expect that 2012 will be an aggressive investment year with regard to capital
+expenditures as we pursue a rapid and efficient execution of Network Vision. Total capital expenditures are expected to
+be approximately $6 billion excluding capitalized interest.
+In addition, based on the plans outlined by Steve earlier, in the first quarter of 2012 we have revised our estimates of
+the expected useful lives of certain Nextel platform assets through the end of 2013. Accordingly, approximately $2
+billion in net book value of these assets is expected to be accelerated through depreciation expense, of which a
+disproportionate amount is expected to be recognized during 2012.
+The exact timing of the acceleration is dependent upon when the assets are expected to be phased out of service. These
+estimates are derived from our internal decommissioning plan, which is still evolving. We estimate the incremental
+effect of accelerated depreciation related to Nextel assets in our 2012 results to be in the range of approximately $1.2
+billion to $1.5 billion, of which approximately $450 million to $550 million will be recognized in the first quarter of
+2012. We will continue to update you on these amounts quarterly as we refine our plans for Nextel decommissioning.
+I want to end by reiterating my confidence in the strength of our core underlying business and in the pathway we
+believe we have created to future OIBDA growth and margin expansion. We are confident in the steps we are taking to
+improve our profitability and in our ability to execute on our strategic plan. The entire management team has a sharp
+focus on execution and profitability through the next few quarters of investment, and we are excited about the future.
+I want to thank you for all your support, and I'll turn the call over back to Brad for Q&A.
+Brad Hampton
+Thanks, Joe. I want to point out that you may access an audio replay of our webcast on www.sprint.com/investors.
+We'll now open the line for your questions. Gina, please instruct our participants.
+Q&A
+Operator
+[Operator Instructions] Your first question comes from the line of Michael Rollins [Citigroup].
+<Q - Michael I. Rollins>: Hi, thanks for taking the questions, two questions. First, just given the fast pace of iPhone
+sales in the fourth quarter now coming into the first, how should we think about that trending in terms of volumes or
+mix and the percent that comes from new versus existing subscribers?
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 12 of 16
+And then, Dan, turning over to the strategic side, slide 14 that you went through, you went through a lot of the
+operational progress for Sprint. But can you talk more about where Sprint is positioned strategically? With T-Mobile
+still in the market, cable choosing to work with Verizon, it seems like you have some real competition to go after the
+remaining partners who have spectrum, capital, or both. So can you just put in perspective for us what Sprint is doing to
+put the company in the best position to either partner or buy spectrum as we move forward over the next 12 to 24
+months? Thanks.
+<A - Daniel R. Hesse>: Let me take the second part first, Michael. There's no question with our equity currently where
+it is and the other investments we're making over the next couple of years that we won't have perhaps as many options
+as we normally would have. We certainly will entertain any kinds of transactions, partnering opportunities, or what
+have you that we believe are in the interest of our shareholders, and I still believe there will be a number of them that
+could present themselves over the next couple of years.
+The importance of the decision of AT&T to abandon its acquisition of T-Mobile is it clearly provides many more
+opportunities for us and for companies outside of the top two to become much stronger competitors over time. So we
+will continue to evaluate and look at all the opportunities that present themselves over the next couple of years. So the
+first question, I'll let Brad handle.
+<A - Brad Hampton>: Hey, Mike. We're not going to give specific guidance on iPhone units or mix, but we continue
+to be pleased with the results we've seen consistent with what we told you about in Q4.
+Operator
+Your next question comes from the line of Jonathan Chaplin [Credit Suisse].
+<Q - Jonathan Chaplin>: Hi, thanks a lot. I'm wondering if you could give us a little bit more color, Joe, on the churn
+trends that you expect through the course of the year. So as the temporary impact that you saw in churn in the fourth
+quarter eases, how should we expect churn to come down? And how does that translate into subscriber, postpaid
+subscriber trends during the course of the year?
+<A - Joseph J. Euteneuer>: So I think look, on churn we said that once we get through the first quarter, which we
+think is the clearing period of the stuff that happened in 2011, we plan on having continued progress in the churn
+number. We haven't given any specific guidance. But when you think about the overall revenue growth we need to
+achieve to hit our OIBDA results, it's blended in there.
+<A - Daniel R. Hesse>: I'll hit the second part Jonathan. This is Dan. We haven't provided specific guidance with
+respect to postpaid net adds. I think that was the second part of your question, for the year. This will be the year that we
+really begin. It already has begun, but much more aggressive active migration of customers off of the iDEN platform.
+So what you can expect is continued strong performance and growth on the Sprint platform. That momentum will
+continue, but you'll see larger than historical declines on the iDEN platform as we start working toward – we're going
+to be decommissioning iDEN cell sites during the year, which will save money. We'll be overtly, proactively migrating
+customers off the iDEN platform; so you'll see, if you will, iDEN platform churn go up.
+So you have really, like what we've been describing today, you have these, if you will, these three buckets at Sprint.
+You've got a very healthy, strong, growing Sprint platform. And you have, if you will, declines year-over-year on the
+wireline and on the iDEN platform or Nextel platform side. And those declines on the Nextel platform side will
+accelerate in 2013 as we aggressively begin the migration efforts.
+Operator
+Your next question comes from the line of David Barden [Bank of America/Merrill Lynch].
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 13 of 16
+<Q - David W. Barden>: Hey, guys, thanks for taking the questions; I guess two, if I could. Just first, maybe Joe or
+Steve, if you're still on the line, just on the Network Vision pacing, I guess we're targeting maybe 12,000 cell sites to be
+on air and running in 2012. But I think, Steve, you mentioned this idea that we're going to be actually taking the whole
+network and grinding it down from 68,000 down to 38,000 cell sites. So it sounds like there's quite a bit of work to do
+in 2013. But, Joe, it sounds like you're expecting the benefits to start coming through in 2013, even though the bulk of
+the work is still being done. I wondered if you guys could just tie out the thought about how to think about Vision
+pacing and spending and how it all ties with guidance.
+If I could just – the second question, Joe, in the fourth quarter you did a lot of work to try to pull out the Vision spend
+and the iPhone subsidies. It looked like something clearly had changed in the underlying cost structure of the company
+in 4Q versus 3Q. And I was wondering if you could talk about what levers got pulled to try to get the margins where
+they were, net of those things. Thanks.
+<A - Steven Lawrence Elfman>: This is Steve. I'll answer the first question for you. I think that really the way to look
+at it is the first 12,000 sites, if you will, what we're doing this year is in really the larger cities, densely populated,
+higher use cell sites where we can get rather quick return on reduction in roaming and in coverage. So that's why the
+pacing is as it is in 2012. But also, we will be decommissioning, as I said, 9,600 sites this year from our Nextel
+platform and getting the associated benefit in utilities, in maintenance, and a certain amount of rent also in 2012. So
+we're going to see good benefits starting to accrue this year and will also improve in 2013 as a lot of our sites begin to
+go on air as well in 2013. Hopefully, that helps.
+<A - Joseph J. Euteneuer>: David, in regards to the second part of your question, I think we talked a little bit on the
+call about the service and repair, what happened on the cost of service line. But I think if you look across the expenses,
+we have been focused not only in the last couple quarters, but over the last four years of taking expenses out of the
+business, as Dan demonstrated in his slides. And I think all you see is some additional culmination of the focus we put
+in the fourth quarter to deliver the strong OIBDA results we posted.
+Operator
+Your next question comes from the line of Kevin Smithen [Macquarie].
+<Q - Kevin Smithen>: Thanks. I wondered if you could tell us when we could see an inflection point on the Network
+Vision dilution, i.e., when is the peak deficit quarter between the cost and some of the anticipated savings on both
+roaming and lower iDEN tower expense?
+<A - Joseph J. Euteneuer>: I think on the call I tried to tell you that it's pretty fluid as we time all of the Network
+Vision activity, and we anticipated it's going to be more like a U rather than a V. And it will be – OIBDA will happen
+first, so it will be probably towards the latter part of 2012; and then a quarter, give or take, where you'll see then the
+free cash flow follow it. But it will clearly be definitely in a U pattern versus a V.
+Operator
+Your next question comes from the line of David Dixon [FBR Capital Markets].
+<Q - David M. Dixon>: Thank you and good morning. I wondered as we look at the churn strategy for FY 2012, Joe,
+you tried to dimension the impacts in the fourth quarter that we saw, the RadioShack channel and the premium plan
+withdrawal and the pricing increase. So I was wondering if you could help us quantify each of those effects. I'm
+concerned whether there's any change in your credit policy. And then perhaps give us some insight as we look forward
+on iPhone churn, leading indicators there, perhaps just in terms of customer satisfaction and network performance after
+the initial hiccups. That would be terrific. Thank you.
+<A - Daniel R. Hesse>: David, this is Dan. I think as far as the churn is concerned on the postpaid side, and this again
+is really Sprint platform that we described, is we saw some impact, as we mentioned in Q3, involuntary, that
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 14 of 16
+continuing, if you will, increasing in Q4 and then in Q1. And then we would expect to see that begin to lower. You
+asked a question about credit. We tightened credit in Q3 and in Q4 after we saw what was going on in the channels, so
+we have taken actions in that regard.
+With respect to the iPhone and churn, that obviously is a very important element of, we'll call it the overall profitability
+of the iPhone, the customer lifetime value, and we won't see that over time. What we've seen early on in terms of the
+profitability metrics are first of all, a very high gross add percentage. The other thing from a churn perspective is, again,
+you have lifetime churn, but you also see historically what happens to Sprint voluntary churn in the quarters where
+iPhones are launched. And in each of the previous five quarters when iPhones have been launched, our voluntary churn
+has gone in the wrong direction. And so this quarter, this past quarter is the first quarter of the six quarters where the
+new iPhone has been launched where we've seen both a sequential and a year-over-year improvement in voluntary
+churn. So early on, we definitely are seeing those churn characteristics.
+The other thing I would say is that from a cost of service perspective, not only are we seeing lower usage of the
+network on iPhones and Androids, so our business case is continuing to perform there; but our calls to care early on –
+again, it's only the first few months, is lower than it has been for any of our high-end devices in the early months. So, if
+you will, our operating costs are also looking good in terms of the investment and compared to our business case.
+And again, the last piece on iPhone is we also sold more of them than our initial plans had indicated as well, 1.8
+million. So we see, at least early on, no reason to be concerned at all about our volume commitments, which has come
+up on previous calls. So we feel good about the early indications of the iPhone, especially the 40% gross add number,
+which is almost two times the rate that we've seen on the other two major carriers.
+Operator
+Our next question comes from the line of Jason Armstrong [Goldman Sachs].
+<Q - Jason S. Armstrong>: Hey, thanks. Good morning. Dan, maybe first question just on the handset upgrade
+percentage in the quarter, I guess I would have expected that to really hit an all-time high with the iPhone launch; but at
+9%, more in line with your average over time. It definitely indicates some discipline on the handset upgrade cycle. But
+can you help us think through your ability to really keep this metric under control as you move through 2012?
+And then, Joe, just quickly on the EBITDA guidance, just helping us think through the pacing through 2012, I think
+you're implying an average of about $950 million a quarter. You mentioned first half lower than second half. Just
+maybe to put some parameters around this, do you think the fourth quarter result that we just had, the $842 million,
+represents the trough for company EBITDA? Thanks.
+<A - Daniel R. Hesse>: Jason, the first part is, again, getting back to the iPhone discussion as well, what we did in
+advance of the iPhone is we extended, if you will, the period of time that customers would have to stay with us before
+they'd be eligible for upgrades, and we did away with our loyalty program. In addition, what we did in the later part of
+the year, and that we will continue that discipline in 2012, is be selective in terms of, we'll call it customer outreach on
+upgrades. That has traditionally been a way that we keep churn low is to get customers to sign new two-year contracts.
+But our customers on contract is at a very strong level compared to historical levels, so we feel good about that. So
+you're exactly right. There's a discipline associated with upgrades, and that's another reason why 40% gross add mix on
+the iPhone is good to see. We'll watch this in 2012, but we're not providing any specific guidance with respect to what
+our upgrade percentages will be in 2012.
+<A - Joseph J. Euteneuer>: And in regards to your OIBDA question, you've got to remember about the seasonality of
+the business. So as you're going into the first quarter, you're not really going to expect much. The second quarter, you
+might get a little more. Remember, the third quarter you typically have those added expenses, and then your fourth
+quarter ends up being your strong one as you exit the year. So it is pretty fluid. Remember, I want to give you a caution.
+We don't know whether there's going to be another iPhone, so that can always throw off the timing of what happens on
+our OIBDA. And again, we're just starting Network Vision and we're working through that and trying to be on an
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 15 of 16
+accelerated pace. So I would look at the seasonal pattern as you try to market this out on a quarter-by-quarter basis.
+Operator
+Your next question comes from the line of John Hodulik [UBS].
+<Q - John C. Hodulik>: Okay, thanks. I guess, Joe, first a quick follow-up to that last question. So does the guidance
+that the second half OIBDA expected to be stronger than the first half EBITDA not include expectations for a fourth
+quarter refresh on the iPhone? That's first.
+And then, Dan, a quick follow-up on some of your earlier comments; can you just talk about, I think you said that you
+didn't hit the postpaid guidance for 2011 because of discounting with the iPhone or Apple products. If you could just
+give a little bit more color on that, and then maybe just talk about the competitive environment as we look out into
+2012. I think Jason touched on the upgrade rates and the eligibility changes that most of the major carriers have made.
+But T [T-Mobile] had a data price increase. Are you seeing any lessening of the overall competitive intensity in the
+industry as, seemingly, carriers focus more on margins rather than market share? Thanks.
+<A - Joseph J. Euteneuer>: So in regards to your first question, remember; as we start getting through the year and
+Steve continues to execute as he's laying out, we're going to get the benefits and start seeing benefits towards the back
+half of the year. So we are considering the iPhone, the timing of which is really hard to determine. But as we start
+getting better roaming and start eliminating sites on iDEN and stuff, we'll start seeing those benefits as we exit the year.
+<A - Daniel R. Hesse>: For the second part, generally you tend to see more promotional activity and more aggressive
+pricing in Q4 because it's the holiday period. You see it in retail. You see it across all industries, and we're not immune
+to that. So as we talk about 2012, you're going to see some seasonality in terms of the aggressiveness of pricing. And
+we generally, we'll probably see some of it come back in this Q4 as well in 2012, but things get a little bit more rational
+now in Q1 and Q2 and perhaps in Q3.
+But what we saw in Q4 of 2011 was unusual even by traditional seasonality history in that generally, you just don't see
+any discounting on iPhones. And we saw it be very common in both Verizon and AT&T to see $30 per device and up
+discounts from the, if you will, the normal pricing, the $200 or the $100 or what have you, they would be, if you will,
+$170 and $70 instead, and that was unusual. We saw some 4G LTE devices at very low rates that we don't normally
+see. So the device pricing in Q4 was much lower than we had anticipated and discounting on devices that traditionally
+had not been discounted, and we just decided that we weren't going to go there.
+Operator
+And you last question comes from the line of Brett Feldman [Deutsche Bank].
+<Q - Brett Feldman>: Thanks. And just to follow up with some of the handset discussions that we were having earlier,
+when you had your analyst meeting, you talked about how important the iPhone was going to be to the business going
+ahead. But since then, you signed a new deal with Clearwire to basically have unlimited WiMAX access to their
+network. How has that influenced the way you're thinking about the way you're putting handsets into the market this
+year? Are you expecting to be maybe a bit more aggressive around the WiMAX devices? And if so, to what extent has
+that been factored into the EBITDA guidance you gave?
+<A - Daniel R. Hesse>: We obviously have a very large base on WiMAX. A lot of customers currently use, if you will,
+the Clearwire or the WiMAX platform, and we'll continue to market and sell devices this year that operate on that
+platform. And as you know, what really distinguishes Sprint as well is the fact that our pricing for handsets is
+unlimited. It's not unlimited on data cards or on mobile hotspots, but it is on handsets. So the pricing arrangement that
+we have with Clearwire is very helpful in that regard, that clarity, that surety, that ability for us to continue that offer
+with these devices for the next couple of years.
+Company Name: Sprint Corp
+Company Ticker: S US
+Date: 2012-02-08
+Event Description: Q4 2011 Earnings Call
+Market Cap: 30,820.19
+Current PX: 6.45
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: -0.325
+Current Year: -0.938
+Bloomberg Estimates - Sales
+Current Quarter: 8706.750
+Current Year: 35570.800
+Page 16 of 16
+Our focus with Clearwire really going forward in terms of handsets and technologies has to do with LTE-TD, which
+they've announced that they'll be putting into their networks. So expect, we hope again, these things are fluid, but
+probably in the 2013 timeframe you'd begin to see devices that we'll start offering that will work on Clearwire's new
+LTE network that they will begin to build in 2013. So we would be, if you will, using Clearwire's WiMAX network for
+a number of years as we have a lot of devices that are out there. But we'll begin introducing in 2013 devices on the new
+LTE network that will utilize that capability that Clearwire will be bringing to market, so we have a mix of those over
+time. And yes, that was all, if you will, considered as we built our OIBDA plan for 2012 and going forward, but the big
+element is what Joe mentioned in his remarks was, if you will, both a reduction and a derisking of, if you will, the
+roaming expenses associated with Clearwire's 4G service in 2012 because it's a fixed amount. Thanks.
+Brad Hampton
+Thank you all very much for your interest and participation today. We're happy to take additional questions through the
+Investor Relations team. You can reach us at 1-800-259-3755. This concludes our call.
+Operator
+This concludes today's conference call. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

@@ -1,0 +1,853 @@
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 1 of 15
+Q1 2012 Earnings Call
+Company Participants
+• Steven Fieler
+• Meg Cushing Whitman
+• Catherine A. Lesjak
+Other Participants
+• Ben Alexander Reitzes
+• Bill C. Shope
+• Toni M. Sacconaghi
+• Katy Huberty
+• Brian G. Alexander
+• Shannon S. Cross
+• Keith F. Bachman
+• Richard E. Gardner
+• Maynard J. Um
+• Kulbinder S. Garcha
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the first quarter 2012 Hewlett-Packard earnings conference call. My
+name is Jeff, and I will be your conference moderator for today's call. At this time, all participants are in a listen-only
+mode. We will be facilitating a question-and-answer session towards the end of the conference. [Operator Instructions]
+As a reminder, this conference is being recorded for replay purposes.
+I would now like to turn the presentation over to your host for today's call, Mr. Steve Fieler, Vice President of Investor
+Relations. Please proceed.
+Steven Fieler
+Good afternoon. Welcome to our first quarter 2012 earnings conference call with Meg Whitman, HP's Chief Executive
+Officer; and Cathie Lesjak, HP's Chief Financial Officer.
+Before handing the call over to Meg, let me remind you that this call is being webcast. A replay of the webcast will be
+available shortly after the call for approximately one year.
+Some information provided during this call may include forward-looking statements that are based on certain
+assumptions and are subject to a number of risks and uncertainties, and actual future results may vary materially. Please
+refer to the risks described in HP's SEC reports, including our most recent Form 10-K. The financial information
+discussed in connection with this call, including tax-related items, reflects estimates based on information available at
+this time and could differ materially from the amounts ultimately reported in HP's first quarter Form 10-Q.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 2 of 15
+Revenue, earnings, operating margins, and similar items at the company level are sometimes expressed on a
+non-GAAP basis and have been adjusted to exclude certain items including, among other things, amortization of
+purchased tangibles, restructuring charges, and acquisition-related charges. Comparable GAAP financial information
+and a reconciliation of non-GAAP amounts to GAAP are included in the tables and the slide presentation
+accompanying today's earnings release, both of which are available on the HP Investor Relations web page at
+www.hp.com.
+Before I turn it over to Meg, I just wanted to briefly touch upon a financial reporting item. Each year as part of our first
+quarter annual financial review, we review our reported segments and make any necessary changes to reflect any
+organizational shifts among our businesses. This year, these realignments resulted in the transfer of revenue and
+operating profits among the Services, Imaging and Printing group, Enterprise Servers, Storage and Networking,
+Software, and Corporate Investment segments, and the transfer of revenue among the business units within the Services
+segment.
+In addition, we have reclassified certain costs previously reported as cost of sales as selling, general, and administrative
+expenses to better align these costs with the functional areas that benefit from those expenditures. This reclassification
+of cost did not impact segment reporting and relates only to the line item within the P&L in which the costs are booked.
+A detailed reconciliation to changes, including historical data, is available on our Investor Relations website as well as
+furnished on a Form 8-K filed with the SEC. I want to be clear that the changes do not impact HP's previously reported
+consolidated net revenue, earnings from operations, net earnings, or EPS.
+I'll now turn the call over to Meg.
+Meg Cushing Whitman
+Thank you, Steve, and thanks to all of you joining the call.
+Since I spoke to you last, I've spent a great deal of time with our employees, our customers, our partners, and investors.
+Given some of the challenges of the last year, we've been working hard to set the right tone, calm the waters, and
+reassure our stakeholders that HP is the same reliable company that they've known and admired for decades. I've visited
+HP offices, hosting round tables and employee meetings in Palo Alto, Cupertino, London, Vienna, Chicago, Houston,
+Herndon, and Alpharetta, Georgia.
+I've spent some time with the sales force, communicated regularly with our senior leadership, and worked very closely
+across the executive team. And I've been out with our customers. At HP Discover in Vienna, we've brought together
+more than 7,000 of our top enterprise customers in the biggest event in HP's history. And I've participated in more than
+80 customer visits, meetings, and conversations. I've engaged with the panel through partner meetings, round tables,
+interviews, and just last week at the first-ever HP Global Partner Conference.
+So what have I found? Certainly, I've found some skepticism. But I have also found that we have incredible support:
+people who believe in HP, people who want us to win, people who want to work with us and build for the future. And
+every day I learn something new about a technology, an innovation, a solution, often just a story about the role HP has
+played in someone's life or a customer's success. It's inspiring. The more time I spend listening and learning, the more
+committed and passionate I've become.
+I've also gotten to know many of you, our investors. And just as I have with our other stakeholders, I'm working hard to
+strengthen our clarity and transparency. I want to you to understand where we're taking HP and why.
+Most of all, I want to set HP on a path that continues to meet and exceed our expectations for the longer term. I believe
+we've started on that journey during the past few months, but we have a long road ahead of us.
+Back in November, we set the outlook. We said we had a lot of work to do and we detailed the headwinds that were
+likely to pressure our business in 2012, including a hard drive shortage and an uncertain macroeconomic environment.
+In Q1, I think our performance by and large tracked pretty close to those expectations. The headwinds we discussed did
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 3 of 15
+impact performance, contributing to a decline in revenues, operating margins, cash flows, and earnings year over year.
+That said, we met our guidance and delivered non-GAAP diluted earnings per share of $0.92 and revenue of $30
+billion.
+Frankly, it was a tough quarter, and every business had its challenges. In PSG, the hard drive shortage and continuing
+difficulties in China contributed to a revenue decline of 15% year over year. With the supply challenges, we focused on
+profitability rather than market share and did a good job of delivering an operating margin of 5.2%. PSG is important to
+HP. It gives us great return on invested capital and a lot of synergy. During the quarter, we also saw PSG returning to
+its roots as an innovation leader.
+With the introduction of the Spectre Ultrabook, HP won a prestigious Best of Show at the Consumer Electronics Show
+in Las Vegas a few weeks ago. We need more of that. We need to keep driving innovation that generates desire and
+demand with our customers. The fact is that for all that's right with PSG, we underinvested in innovation for the last
+several years and we've been late to market too often. We have to lead again.
+In Imaging and Printing, year-over-year revenues decreased 7% with declines in supplies and hardware in consumer
+and commercial and operating margin declined to 12.2%. All of you know IPG has been the lifeblood of our company
+for a long time, with great margin and very resilient revenues. And IPG is still a great HP business, the undisputed
+leader in the printing and imaging industry and well positioned to capture the shift from analog to digital. But we also
+have to recognize that the business is being pressured on multiple fronts.
+And revenues from our adjacent businesses like commercial digital print are doing quite well but not developing fast
+enough to replace the revenues we've been losing. We have work to do here and are aggressively exploring ways to
+build on IPG's leadership given the realities of today's marketplace.
+In ESSN, revenues declined 10% and operating margin fell to 11.2% year over year. Industry-standard server's revenue
+was down in a highly competitive environment that was compounded by the hard disk shortage. Business critical
+system revenues also declined as we continued to address the Oracle/Itanium situation. 3PAR delivered another terrific
+quarter. But in our broader storage business, we're still working through a product transition. And our Networking
+business remains well positioned in a high margin category.
+Although the overall market was challenging, we're really excited about some of the innovations we're bringing to our
+customers. We've launched some great new products like the ProLiant Gen8, the industry's most self-sufficient line of
+servers. We believe that this is just the type of game-changing innovation that can help us regain our momentum in the
+category.
+In Services, year-over-year revenues were up 1% while operating margin declined to 10.5%. This continuing margin
+pressure in Services really goes straight to a couple of our major challenges like resource utilization and business mix.
+We're focused on transitioning to more profitable services while enhancing our systems, processes, and sales force.
+Last quarter we characterized Services as a long-term effort. That journey continues.
+In Software, with the addition of Autonomy, revenue grew 30% year over year with a 17.1% operating margin. The
+Autonomy acquisition is going well. And we're continuing to grow our set of assets from information management to
+our IT performance suite, including security, management of hybrid clouds, and Application Lifecycle Management.
+Software is a critical part of our portfolio and of our forward-looking strategy. It amplifies, differentiates, optimizes,
+and secures our core infrastructure, builds on our solution capabilities, and expands customer relationships. For
+example, with an asset like Autonomy, we see potential synergies across the entire portfolio in IPG, ESSN, Services,
+and in other Software assets like Security.
+Now, from a macroeconomic standpoint, we're seeing an uncertain environment. In the U.S., there are some signs of
+economic improvement, but we're still experiencing a weak consumer market and commercial customers who are
+investing cautiously. In Europe, the Middle East, Africa, and APJ, conditions are mixed. We remain guarded about
+Europe, but some of the larger economies do seem to be stabilizing.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 4 of 15
+When we last spoke at the end of Q4, I had been CEO of HP for about eight weeks. Now coming out of Q1, it's closer
+to six months, and my perceptions of the business have evolved in that time. Some of that has to do with the external
+environment, but I also have a clearer picture of the work we need to do in our business.
+In my mind, I put the issues into three buckets. First is fixing our execution, ensuring we have the right systems,
+processes, and people. This includes things like optimizing our supply chain, including SKU reduction, to remove
+unnecessary complexities from the way we design, manufacture, and deliver products; upgrading our sales tools and
+systems to respond more quickly to customers; and increasing the productivity of our sales force by rationalizing our
+go-to-market.
+The second bucket is about addressing ongoing issues in each of our businesses, from IPG to PSG to ESSN to services.
+We didn't make the investments we should have during the past few years to stay ahead of customer expectations and
+market trends. As a result, we see eroding revenue and profits today. We need to invest now as a market leader from a
+position of strength. And that's especially true because these businesses are not only under intense competitive
+pressure, but are also under pressure from tectonic shifts that are taking place at the very foundation of the industry.
+And that's the third bucket, how we deal with these industry shifts. We are at an inflection point where the delivery,
+consumption, and business model for technology are all being redefined. Long established profit pools are under
+pressure and other profit pools are forming fast. We need to move quickly to capture emerging opportunities in areas
+like cloud, security, and information management. We've already assembled some formidable assets. Now we need to
+align our portfolio to deliver a new generation of capabilities.
+We see a once in a generation chance to define the future of technology and position HP as a leader for decades to
+come. But to seize this moment, we have to stabilize financial performance. That's really at the heart of any discussion
+of business fundamentals, generating enough profit to invest for the future and deliver solid returns for you, our
+investor, all underpinned by a disciplined capital allocation strategy. And it's clear from both our revenue and margin
+profile that our current cost base just isn't supportable. On the current trajectory, we just won't have the capacity that we
+need to invest.
+For years, we've been basically running our business in silos. And under that model, we built some of the leading
+franchises in technology, but it has also made us too complex and too slow. Yes, some of the obvious costs were dealt
+with in recent years, but there's still much more that we can do to streamline operations.
+Even more promising is what we can accomplish by tackling our business processes. We need to standardize, optimize,
+and automate many of our processes, which will allow us to scale the business without increasing costs at the same rate.
+We can also take a ton of complexity out of the system, improve our effectiveness, and significantly reduce costs. It's
+not easy work and it's not a quick fix. But it holds the potential to improve the way we operate and execute, and it
+simply has to be done. We have got to save to invest. We have got to save to grow.
+In the near term, our focus remains on stabilizing the business, driving execution, and getting back to basics, like
+aligning our cost structure with our revenue profile. Longer term, we'll invest to capture opportunities in cloud,
+security, and information management that will position HP as a leader for decades.
+We have a lot of work to do. I've gained visibility into the business over the last few months. And I feel very good that
+we know the challenges; we know what we're going to do about them; and we're headed in the right direction.
+After the time I've spent with our stakeholders, I am increasingly confident and optimistic about what we're doing. We
+have incredible strength and an incredible community of people who care deeply about HP. With their support, we've
+embarked on rebuilding HP in a thoughtful way that is true to the spirit of innovation, financial discipline, and financial
+success that has defined this company.
+I have no doubt that we'll turn HP around. I look forward to continuing our dialogue about HP's progress in the coming
+quarters, and I appreciate your continued support for our company.
+So with that, I'll turn it over to Cathie for some additional color on our Q1 performance.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 5 of 15
+Catherine A. Lesjak
+Thank you, Meg. Let me review the details of the quarter, and then I'll provide some color on our outlook for Q2.
+Revenue of $30 billion was down 7% as reported or 8% in constant currency year over year. We estimated that more
+than half of the revenue decline was due to the hard disk drive shortage that impacted both PSG and ESSN. As you
+know, due to the flooding in Thailand that began last fall, industry supply of hard disk drives was about 30% below the
+expected demand in calendar Q4. Faced with this shortage, we made the decision to prioritize profitability, product
+performance, and quality over shipment volume and market share. We expect that the supply of hard disk drives will
+remain constrained for HP in Q2.
+In terms of our revenue performance by geography, revenue as reported was down 9% in Americas, 12% in EMEA,
+and 10% in Asia-Pacific year over year. All regions were impacted by the hard disk drive shortage. In addition, EMEA
+revenue was impacted by the macro challenges. And APJ's revenue decline was driven by the weakness in China. On a
+constant currency basis, Americas, EMEA, and APJ revenues were down 8%, 5%, and 12% respectively year over
+year.
+Non-GAAP gross margin of 22.4% was down 210 basis points year over year and down 90 basis points sequentially.
+Non-GAAP gross margins continue to be impacted by the strong yen, a lower mix of ink supplies, competitive pricing
+in our hardware businesses, and continued margin pressure in Services.
+Non-GAAP operating expenses were $4.2 billion, up 6% year over year. If we exclude the impact of the real estate
+gains that drove our operating expenses down in Q1 last year, operating expenses were essentially flat year over year.
+Non-GAAP operating margin of 8.6% was down 380 basis points year over year, and the company delivered $2.6
+billion in operating profit.
+The bridge from operating profit to our earnings per share includes the following. Other income and expense yielded a
+net expense of $221 million. Our tax rate was 22%. And we used $780 million to repurchase 29 million shares, leading
+our weighted average share count to 1.998 billion shares, which was down 10% year over year. As a result, we
+exceeded our guidance in the quarter, delivering non-GAAP diluted earnings per share of $0.92 and GAAP diluted
+earnings per share of $0.73. The majority of the difference between GAAP and non-GAAP earnings in Q1 was the
+amortization of purchased intangible assets.
+Now turning to our business units, the Personal Systems Group delivered revenue of $8.9 billion in the quarter, down
+15% year over year, with a 5.2% operating margin. Total units shipped were down 18% year over year. Our Q1
+shipment volumes in PSG were impacted by the hard disk drive shortage, and our performance reflects the choices we
+made to drive profitability and tightly manage inventory distribution.
+By segment, commercial client revenue declined 7% and consumer client revenue declined 25% year over year.
+Workstation revenue was flat year over year. Desktop revenue was down 18%, and notebook revenue declined 15%
+year over year.
+Moving on to Services, Services delivered revenue of $8.6 billion, up 1% from the prior-year quarter. Operating profit
+of $905 million was 10.5% of revenue, down 5.7 points from the prior year, primarily due to the cost of additional head
+count in sales and service delivery.
+In the first quarter, IT Outsourcing revenue of $3.7 billion was up 2% year over year. Application and Business
+Services revenue was flat year over year at $2.4 billion, and Technology Services revenue grew 2%.
+Turning to Imaging and Printing, net revenue for IPG of $6.3 billion was down 7% year over year, with supplies
+revenue declining 6%, partially due to our focus on reducing channel inventory. Operating profit was $761 million or
+12.2% of revenue, which was down 440 basis points year over year. These margins remain unfavorably impacted by
+the strong yen and an unfavorable ink supplies mix.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 6 of 15
+Within the segments, we saw double-digit revenue growth in Graphics and Managed Print Services, and we shipped
+more than 5 million web connected printers this quarter. We now have nearly 27 million web-connected printers in use
+around the world.
+By category, commercial printer revenue was down 5% year over year, with commercial hardware units down 10%.
+Consumer printer revenue and units were both down 15% year over year, and total printer units shipped were down
+13% year over year.
+Turning to the Enterprise Server, Storage, and Networking business, revenue declined 10% year over year to $5 billion
+due to the impact from the hard disk drive shortage and the continued weakness in BCS. Operating profit was $562
+million, and the operating margin of 11.2% was 360 basis points lower than the prior-year period due to reduced
+volumes and competitive pricing.
+Now let's dive into the ESSN performance by business. Storage revenue was down 6% year over year, despite
+double-digit growth in [ph] Store1 (20:05) and nearly growth 100% in 3PAR. Year-over-year declines in our tape and
+EVA product lines offset this growth. Overall business-critical systems revenue declined 27% year over year. Within
+BCS, our mission critical x86 and NonStop products grew double digits but not by enough to counteract the impact of
+continuing Itanium challenges.
+With respect to our Itanium portfolio, we are working diligently to enforce the commitments that Oracle has made to
+our customers and to HP. And our customers are excited about the capabilities of our new Odyssey platform, which
+allows enterprises to transition workloads off UNIX-based systems to mission critical Xeon-based x86 chips.
+Neither the Storage nor BCS results were dramatically impacted by the hard disk drive shortage. However, we did see
+significant impact on industry-standard server revenue, which declined 11% year over year. The hard disk drive
+shortage caused a mismatch between supply and demand, so we had demand that we could not meet in the quarter.
+Networking revenue was flat year over year at $586 million. We are confident that we have the right product portfolio
+and a total cost of ownership advantage to compete and win. Software delivered revenue growth up 30% year over year
+to $946 million, supported by the acquisition of Autonomy. In the quarter, we saw 12% license growth, 108% growth
+in services, and 22% support revenue growth.
+Overall, first quarter operating profit for software was $162 million or 17.1% of revenue, unfavorably impacted by
+acquisition related integration costs and accounting adjustments as well as a lower mix of license revenue in the
+quarter.
+We are pleased with the Autonomy acquisition. The pipeline is strong and the level of lead generation we are seeing
+across HP for Autonomy software and services is compelling.
+HP Financial Services continues to deliver strong, consistent results. In the first quarter, financing revenue grew 15% to
+$950 million. Financing volume was flat year over year, and net portfolio assets increased 8%. Operating profit of $91
+million was up 15% year over year to 9.6% of revenue.
+Now on to capital allocation and the balance sheet; our focus is on rebuilding our balance sheet this year. But HP's
+long-term strategy is to allocate our capital in a balanced manner between investing in the business and returning
+capital to shareholders. During the quarter we returned $780 million in cash to shareholders via share repurchases,
+leaving roughly $10 billion remaining in the share repurchase authorization. We also paid $244 million to shareholders
+in the form of dividends.
+HP generated $1.2 billion in operating cash flow in the quarter and free cash flow of $406 million. Our total gross cash
+at the end of the quarter was $8.2 billion.
+In terms of working capital, our first quarter cash conversion cycle was 28 days, up seven days from the prior year. The
+increase was due to higher DSOs and days of inventory by two days and three days respectively, as well as a decrease
+of two days in days payable outstanding. Exiting the quarter, channel inventory was higher than our acceptable ranges
+due to impacts of the hard disk drive shortage on ESSN and soft sellout in laser and ink supplies.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 7 of 15
+Now on to our outlook; as we discussed last quarter, HP is managing the business to deliver earnings performance
+rather than specific revenue growth objectives. And we will continue to provide our earnings per share outlook
+consistent this management approach.
+I'll wrap up with an update on the assumptions relating to revenues and earnings. We remain cautious about the macro
+environment globally for both consumer and commercial spending. In Q2, there will be an impact to revenue due to the
+hard disk drive shortage, although we expect the impact will be smaller in Q2 than Q1 based on the drivers for which
+we have line of sight. We still have work to do in aligning our supply channel inventory levels with the current demand
+environment, and we will continue to see a headwind in business-critical systems due to the Itanium challenges.
+Moving on to margins, first, the expected year-over-year decline in revenues, including the impact from the hard disk
+drive shortages, will impact margins. Second, we expect the pricing environment will continue to be very competitive.
+Third, we expect to continue to have an impact due to a lower mix of business-critical systems revenue. Fourth, the
+Services turnaround continues, and we expect margins to continue to decline year over year. Fifth, we expect OI&E to
+be at the low end of our previous guidance, an expense of $1 billion to $1.3 billion for the full year. And we will
+continue to invest in innovation and the systems and processes needed to improve performance across all of our
+businesses.
+With that context, we expect second quarter non-GAAP earnings per share to be between $0.88 and $0.91. We expect
+second quarter GAAP earnings per share to be between $0.68 and $0.71. We have not changed our full-year FY 2012
+guidance. We continue to expect at least $4.00 in non-GAAP EPS and at least $3.20 in GAAP EPS.
+Now I'll turn it over to Meg for a few comments on the upcoming year.
+Meg Cushing Whitman
+So to wrap up before going to Q&A, I'd really like all of you to take away these three messages. One, we're committed
+to clarity and transparency. We want you to understand the challenges and opportunities we have in front of us. Two,
+we are getting back to basics: driving execution, focusing on profitability through mix and cost, and investing in our
+business with a disciplined capital allocation strategy. Three, we are building HP to last. We are not managing for
+short-term objectives. We are taking advantage of this opportunity to position HP for success, not for the next quarter,
+but for decades to come.
+And with that, I'll open it up for Q&A.
+Q&A
+Operator
+Thank you. [Operator Instructions] Our first question comes from the line of Ben Reitzes with Barclays Capital. Please
+proceed.
+<Q - Ben Alexander Reitzes>: Hey, thanks a lot. My question for Meg is it seems like a real tone change for IPG. Last
+call, you said that you thought it was economic and not secular, but it sounded like you said that there are some secular
+pressures impacting that. So I was wondering if you could comment and talk about that.
+And then I've got to ask a follow-up already is that if you could just talk about how you get to the full-year guidance,
+because you're in almost $1.80 in the first half and you've got to earn $2.20 in the second half to hit your guidance. So
+if you could just talk about how you get there theoretically as well. That's my follow-up so I don't have to talk twice.
+<A - Meg Cushing Whitman>: Okay. Thank you, Ben. I appreciate that. I'll take the IPG question and Cathie will talk
+a little bit about the perspective we have on guidance for the remainder of the year.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 8 of 15
+There's no question in IPG we face a number of challenges. And the printing market is more mature, and more mature
+markets tend to be governed more by macroeconomic forces. And I'm convinced that a number of our challenges do
+relate to the macroeconomic challenges, weak consumer demand, weak small office/home office demand. The
+sell-through of ink in particular is at pretty low levels. And it's not just our ink, it's industry ink. That said, I think we've
+got to really look hard and say okay, we may not see an overall secular decline, but we do see pockets of decline. What
+we know is that consumers at home are doing less photo printing, for example. That said, over time I think that the
+analog to digital movement of print is actually going to advantage us.
+So we're steady as she goes here. We're going to think hard about how we accelerate the growth of some of our new
+businesses to compensate for the loss of ink. And we are going to work hard against – we have headwinds from the
+yen, no question about it, and that is not a good thing. But fundamentally, we're going to have to live with that. That
+doesn't really change quarter to quarter.
+So I think we've got a very realistic view of the challenges we face. It's a terrific business that has been, as I said in my
+opening remarks, the life blood of HP. But we've got some work to do to address ourselves to some of the secular
+trends and capitalize on this analog to digital print.
+<A - Catherine A. Lesjak>: And let me address the second question around our guidance. And it's really I think a
+question about our second half and why we would have confidence in the second half. And the first thing you've got to
+look at is the normal seasonal pattern, basically the second half over the first half, because that is obviously a situation
+where the second half is typically better than the first half.
+And then as we've talked about, we expect to work through two big impacts and be largely through them by the time
+we enter the second half. The first one is the hard disk drive shortage. We believe that we will be impacted again in Q2
+but to a lesser extent than in Q1, and that that will be heavily skewed to ESSN and that we will be largely through that
+when we enter the second half. And similarly on the supplies channel inventory, given the current demand that we see,
+we expect to be through the correction in channel inventory supplies by the time we end Q2. So those, obviously, if you
+take the fact that those have depressed the first half and we get to a more normal steady state in the second half, that
+gives you a pretty abnormal increase passed through over half one.
+And then the other things you've really got to take into consideration is we launched new products. We announced the
+Gen8 server, ProLiant server that will ramp through the course of the year. And then take Autonomy. Our plans in
+Autonomy is in the first half it's really around getting Autonomy connected into HP lead generation, lead qualification.
+And it's not until you start into the second half that you start to see some of the synergies that we expect from the
+Autonomy acquisition that both help, obviously, from a revenue perspective and a margin perspective. And then we
+continue to make progress on our execution, the basic blocking and tackling, just looking at our cost structure and
+realigning it to the business realities that we see today, and that helps us as well in the second half.
+Operator
+Our next question comes from the line of Bill Shope with Goldman Sachs. Please proceed.
+<Q - Bill C. Shope>: Okay, great. Thanks. Cathie, I just wanted to follow up on that last part of your answer there.
+When you said you expected to return to a normal steady state for IPG, how do we think about that steady state after
+this channel inventory correction given some of the secular commentary mentioned before? And how should we think
+about steady state growth particularly in the supply segment going into the second half?
+<A - Catherine A. Lesjak>: So I think that there are three big impacts to IPG from a margin perspective, and that's
+really what I was talking about in terms of getting more back to a more steady state. You've got to take into
+consideration the fact that we do continue to expect and see a weak consumer demand environment. And that is a
+headwind for our ink supplies revenue, and we expect that some of that will continue, obviously, in the second half.
+We also have the strength of the Japanese yen, which is on a year-over-year basis continuing to impact our laser
+business and put pressure on that business set of margins. And then as we work through this channel inventory
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 9 of 15
+correction, we do get back to basically growth in supplies more aligned with the demand that we see as opposed to the
+adjustment that we're making. And so we do expect that there will continue be a challenging demand environment with
+continued competitive pricing, but we don't have the same headwinds that we have in the first half.
+Operator
+Our next question comes from the line of Toni Sacconaghi with Sanford Bernstein. Please proceed.
+<Q - Toni M. Sacconaghi>: Yes, thank you. I have one question and one follow-up. Meg, for you, I think if you look
+at market data and what competitors have reported, there's evidence of pretty significant share loss across all of your
+businesses. And your gross margins have also declined year over year and sequentially despite a favorable mix shift. So
+it really doesn't appear to be that you're ceding share to improve profitability because the numbers don't really support
+that. So I guess my question is this data appears to point to a widespread lack of competitiveness, and I'd like to get
+your assessment on whether you believe that. And if not, what might I be missing? And I know you've talked about
+stabilizing the business. What exactly does that mean, how you measure that, and how long to get there?
+<A - Meg Cushing Whitman>: Got it. Okay, good. So I think you have to look at share loss by business. There is no
+question with a shortage of hard disk drives in Q1, we prioritized profitability versus share in both industry-standard
+servers as well as our PSG business. And what you can see is we reported 5.2% operating income, which is actually at
+the high end of what we report normally. And we made a decision to prioritize profitable customers, profitable
+products, and customers in profitable regions for us. And we think, by the way, we will be largely through the hard disk
+drive shortage for PSC as we enter into the second quarter and we aim to gain share there.
+If you look at industry-standard servers, we didn't have the perfect match between the disk drives we needed, and
+therefore we couldn't shape demand as fast as we needed to. In addition, we did prioritize profitability there as well. So
+those two businesses, I'm not worried about an endemic share loss. I think that was to some degree driven by the
+decisions we made, which, by the way, I think were the right ones.
+If you look at some of our other businesses, we are experiencing share loss in printers and in ink. And I think that takes
+me to this notion of we've got really three big challenges at this company. And I don't know that I would say it's
+widespread lack of competitiveness. I'd say it falls in three buckets. It's our own execution. And whether that is things
+like turning orders into products faster than our competitors, I don't think we do that as well, whether that is our supply
+chain that if you back the supply chain all the way up to how we design our products, how we design quality in, and
+how we manufacture those products. I think we're world class at how we buy components. I'm not sure I'd say we were
+world class in terms of how we think end to end about supply chain. Our systems and processes, we underinvested in
+those over the last few years.
+SKUs, we have an enormous number of SKUs in many of our businesses. And what you know is when you have a
+large number of SKUs, it leads to complexity in product launch. It leads to complexity in service and support, and it
+leads to complexity in selling. So there are a number of things that I think we can improve quite dramatically. And I
+think some of our competitors do some of those things better than we do, and we've got to get better across the board.
+And then in each of the BUs, there are very specific challenges. And each of BU leaders, who are experienced, very
+senior guys, are working hard to either reposition their business strategically, lower the cost of doing business so that
+we can compete more aggressively, bringing new products to market. A couple of our businesses, from a product point
+of view, are in the best shape I've seen in some time. So the PSG division, we've got some great products coming up for
+both the commercial as well as the consumer sector. And in ESSN, we've got some great stuff lined up. But each of the
+business unit leaders has to work hard to focus on the strategic challenges facing their business.
+And then we have got to make sure that we own three areas of what I would call the tectonic plate shift, and that is
+cloud, security, and information management. So I think we're being very straight up saying we've got some real
+challenges ahead. The good news is I think we understand the challenges. We've got a plan in place, and now we just
+have to go execute. And by doing that, we will stabilize the business and we will create enough financial capacity to
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 10 of 15
+sustainably invest.
+<A - Catherine A. Lesjak>: Let me just – I think Meg did a great job of commenting on the operating profit for PSG,
+which I think is a really strong result given the kind of volume changes and declines that we saw year over year.
+From an ESSN perspective, we were also heavily impacted by volume as well as soft demand. But the other thing that
+you've got to take into consideration is that you had our disk drive price increases that obviously hurt a bit. And then
+also, the fact of the matter is because we didn't have the hard disk drives that we needed to meet all the demand, we
+actually were shipping server configurations that were less richly configured. And so it doesn't just impact the top line,
+it also impacts the bottom line. And then as we've been talking about now for the last couple of quarters, we have been
+seeing a lower mix of business-critical systems revenue. And we do expect that that will be a headwind going forward.
+<Q - Toni M. Sacconaghi>: I appreciate that color. So when you both mention this concept of stabilizing the business,
+what do you mean? Does that mean you are holding or gaining share in your businesses? Does that mean you are
+growing faster than what you believe your addressable markets are in revenue terms? Does that mean you're growing in
+absolute terms? How will investors know that you have stabilized the business, and what is the timeframe that you
+think for getting there?
+<A - Meg Cushing Whitman>: Let me take a crack at that, Toni, and then I'll let Cathie also answer. So the first thing
+we have to do is stop the revenue decline. A formula for success here is not having revenue declines of negative 7% to
+8% in constant currency. So the first step in stabilization is stop the decline. The second is then we have to start
+growing revenues again. And the only way that we know how to do that is you've actually got to gain share in virtually
+every single market. And you've got to gain share because a lot of these markets in technology, right, the unit costs or
+the unit price is going down, so you have to sell more units to maintain your revenues and grow your operating margin.
+So from a time perspective, Cathie will comment on this. I would hope that as we get through 2012 and enter 2013,
+you'll start to see the revenue decline flatten out. And then, hopefully, as we get into 2013, by the end you'll start to see
+us grow revenue. It's very hard to predict. I think it depends on how fast we can get after some of these challenges in
+the business. It depends, obviously, what the market does. It depends on the macroeconomic environment, but a lot of
+this is in our own hands. And so we've got to move fast, quickly, and decisively to get after some of the execution
+challenges that I described.
+<A - Catherine A. Lesjak>: I think the only thing I would also add in terms of evidence of us stabilizing is the fact
+that we let you know what our outlook is and then we deliver to it. And the more consistently we do that, implied
+underneath that is a much stabler business environment.
+<A - Meg Cushing Whitman>: The other thing I'd say, Toni, is if you look at business history and you look at
+companies who have gone through the kind of turnaround that we're leading HP through right now, these things are not
+quick. It took us a while to get into the situation in which we find ourselves. It's going to take us a little while to get out.
+And if you look at history, these turnarounds are not done in less than two years, and often they take three or four or
+five years. So I think you've got to – and by the way, you'll see, obviously, forward progress before five years of
+course, but we've got a journey ahead of us. And as I said, it took us a while to get into this. It's going to take us a while
+to get out. But I can't tell you how good I feel about our strategy. We know what to do. We've got a plan to do it, and
+now we have to execute.
+<A - Steven Fieler>: Operator, next question.
+Operator
+Our next question comes from the line of Katy Huberty with Morgan Stanley. Please proceed.
+<Q - Katy Huberty>: Yes, thank you. Speaking of stabilizing revenue growth, how are you assuming that Windows 8,
+Romley, and ultrabooks might impact your ability to stabilize the business and see better seasonality in the back half of
+this year? Are any of these significant enough in fiscal 2012 to impact the business?
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 11 of 15
+<A - Meg Cushing Whitman>: Yes, listen, we feel good about Windows 8. As you know, we have a product line
+lined up in PSG on Windows 8 on x86. We've gotten great reviews to our first ultra-thin product. And we believe
+Windows 8, we're going be well positioned for holiday on Windows 8 x86. And so I think that will certainly help PSG.
+Listen, the better Windows 8 is, the better off we are, so we're rooting for a fantastic Windows 8 product that's
+delivered on time that we can get to the market before the holiday season. So I think it's a help. You have to remember
+that PSG is only a part of our entire portfolio, so it will help PSG, but it doesn't have an impact on a number of our
+other businesses.
+Operator
+Our next question comes from the line of Brian Alexander with Raymond James. Please proceed.
+<Q - Brian G. Alexander>: Yes. Could you help us understand why the HDD disruption seemed to have a
+disproportionate impact on your business relative to your competitors? I think, Cathie, you called out half the revenue
+decline due to the HDD constraints. That's $1 billion in revenue. I think it's 7% of your PC and enterprise hardware. I
+understand your PC margins at 5.2% were decent, but profits were still down 30%, and your x86 performance was
+worse than your competitors. So what is it about the supply chain, which is the biggest in the world, that has put HP at
+a disadvantage seemingly, and what are you doing to address it?
+<A - Meg Cushing Whitman>: Yes, so the hard disk drive shortage had a significant impact on our revenue in Q1, as
+Cathie described. And the industry supply of hard disk drives was about 30% below the expected demand, so this had
+an impact on everyone. And we chose, as I said, with the supply challenges, we focused on profitability rather than
+share. And ultimately, I think we were not as advantaged as I might have anticipated given the scale of our supply
+chain.
+I will say it was a remarkably fluid situation. The shortage impacted different suppliers, different drives. Trying to
+match the drives that you've got versus the drives you ordered with demand matching in the marketplace was really
+tough. But we were not as effective as we needed to be in matching that supply with our demand. And so I think it
+showed us – it certainly showed me that we have some challenges in our overall supply chain.
+And I would say the other thing is we've got to get better at taking an order and turning it into a product in our factories
+and getting it to customers. We can shrink that total elapsed time. And we were not benefited by having a slightly
+longer timeframe of order to factory floor to customer as we could have been.
+So you're right. We were not as advantaged as I anticipated. And I think there were some a-has there for us in terms of
+things that we need to do to our broadly defined supply chain. And as I said at the beginning, I think we're world class
+at buying products. But if you look at supply chain all the way from design to delivery, I think there are some
+opportunities [ph] to that (44:55).
+Operator
+Our next question comes from the line of Shannon Cross with Cross Research. Please proceed.
+<Q - Shannon S. Cross>: Thank you. Meg, can you talk a bit about how you're interacting with your direct reports and
+what changes you've made in terms of how they interact with each other as perhaps you try to break down the silos or
+have the various leaders fix their specific businesses?
+<A - Meg Cushing Whitman>: Yes, so I think one of the things that the team has done very well since I arrived is we
+now actually are a team. We have a cadence and a rhythm around how we meet, about what we talk about. Everyone is
+involved. Every single business unit leader and major functional head is involved in the strategy going forward, what
+we're going to execute on. We have very lively discussions about things we need to focus on. And then decisions are
+made and we work together to get those done. So I couldn't be more pleased with how the team is working together.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 12 of 15
+And then I've built very strong relationships with each of the BU heads. And we, I think, are in good alignment about
+what needs to be done in each of those business units. So I think it has been – if you were to ask the senior team, I think
+you would hear that it was a pretty big change from previous management in terms of the amount of time that we work
+together, the decisions we make collectively, and how we are working as one HP.
+And one particular area that I'm focused on is how do we bring this product portfolio, which is among the very best in
+the industry, to customers as one HP. And as I said, we've run this business in a quite siloed way, which had some
+really good benefits to it. We've built huge world-class businesses. But particularly, the top customers now, they want
+to buy from one HP. We've got to get really good at bringing those products, getting the pricing right in a way that we
+have not done in the past as well as we might have. So we're on a great path, and I think the EC members, if they were
+on this call, would tell you it's about as good as it has been for a number of years.
+<A - Catherine A. Lesjak>: So I would definitely weigh in and say that. And I think there has been a lot written about
+us moving out of our offices into cubes, and I think that has made a huge difference. I can tell you that I've spoken
+more frequently with all of the different folks on Meg's staff more frequently in the last two months than I probably did
+in a whole year because you're just – you're just so much more visible. You know who's in their office and available,
+and you do a lot more casual, over the cube wall, quick discussion.
+Operator
+Our next question comes from the line of Keith Bachman with Bank of Montreal. Please proceed.
+<Q - Keith F. Bachman>: Hi, thank you. I have two questions. I want to return to printers for a second. And the first
+one is, Cathie, can you go back to inventory for a second? In the previous call, there were comments that supplies
+inventory was too heavy, so to speak. And yet sequential growth was actually up in the January quarter by 1%. In the
+last two years, it has been down 7% to 8% sequentially. So supplies actually went up, and I want to try to understand,
+can you give us some perspective on what is the status of the extra inventory? Why was it up and when does it run out?
+And the second related question is, the mix of supplies, the total revenue in printers was about 65%, which is consistent
+to what it was in the January 2011 quarter and the January 2010 quarter. Yet each of those past quarters, operating
+margins were in the mid 16%s. So I'm curious to why profits wasn't better in this quarter given the mix that I just
+described. Thank you.
+<A - Catherine A. Lesjak>: So in terms of the channel inventory levels, there are a couple of different dimensions that
+are going on there. And they're different whether you're talking about ink supplies versus toner supplies. And so we did
+make progress on reducing ink supplies channel inventory basically from Q4 to Q1, and that's one of the impacts on the
+margins, why margins are down a bit on a sequential basis.
+On the toner side, we actually had a price increase. So we had a little bit, not a massive, but a little bit buy-in, and so
+we did not get the reduction in channel inventory in Q1 that we had expected. We do still expect that the channel
+inventory levels will exit Q2 in acceptable ranges for supplies, and that is fully included in our guidance.
+And then just to go back again to margins, if you look at supplies mix, you're right, it's at 65%, up a little sequentially
+and up a little year on year. But it's really important what that mix is. And the mix is skewed much heavier to toner,
+which has significantly different gross margins than it is to Inkjet or ink, and that's driving a fairly large impact on
+margins both year over year and sequentially.
+<A - Meg Cushing Whitman>: I'd add one comment to this is that, as I said, this is one of the great all-time businesses
+and has been the life blood, as I said, of HP for many years. But there are definitely some market shifts occurring, and
+we've got to create the capacity financially to improve profits in this business, but also create the capacity to invest in
+innovation more aggressively than we have. IPG was always the go-to place for more money at HP. And so we've got
+to create capacity to sustainably invest in innovation and, frankly, to market again, because if we don't continue to
+invest in marketing, we are going to end up in a situation where our business is being more commoditized than I would
+like.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 13 of 15
+And then lastly from a profitability point of view, the yen is a real problem, and you know how this is. Basically, all of
+our supply of LaserJets is denominated in yen. So when the yen moves against us, it has actually a pretty big effect.
+And I don't know if you want to say anything more about that, Cathie.
+<A - Catherine A. Lesjak>: I would just add that if you look at the yen increase year over year, it's like 7% Q1, 2012
+versus Q1, 2011. And it has been increasing over the last couple of years, and we've actually been able to absorb much
+of that cost in those – cost increase until I think it was two or three quarters ago when it just became increasingly
+difficult that we couldn't take the cost out fast enough to offset the appreciation in the yen.
+Operator
+All right. Our next question comes from the line of Richard Gardner with Citigroup. Please proceed.
+<Q - Richard E. Gardner>: Okay, great. Thank you. I was just hoping, Meg and Cathie, to get an update on the
+progress with Services investments, and just get a sense for why the margins continue to trend lower in this business.
+And why – and where is the bottom in Services margins? What do you think is the level where you can invest
+sufficiently to turn this business around and not see further degradation? Thank you.
+<A - Meg Cushing Whitman>: So, Cathie, why don't you talk about the margins, and then I'll follow back with the
+more holistic view of where we are with this business?
+<A - Catherine A. Lesjak>: Sure. So the performance that we delivered was in line with the expectations that we set
+last quarter. And I think that that's an important point, so there shouldn't be any surprises here on that. Revenues in
+Services did grow 1%. It was flat – on a reported basis it was flat in constant currency, while the cost structure
+increased due to the necessary investments that we've been talking about in service delivery, in basically building out
+our bench, and in investing to build out our strategic enterprise services.
+And the services we put in that category are services around cloud, analytics, and security, as well as app monetization.
+And those are the higher growth, higher margin services that we need to invest into and convert this business from
+being less ITO heavy where the margins are not as good. And in some service lines within the ITO, the margins are
+very unattractive and we're deemphasizing some of the revenue in that space. So we are on this long-term turnaround.
+We are making progress.
+And for this specific quarter, combined with the investments that we're making with sales and delivery, we did see
+margin compression from contract renewals. I think that the Services people will probably tell me that 100% of the
+contracts that are renewed come in at a lower price, but I'll say almost all. And the goal, obviously, is to be able to be
+nimble enough to take cost out quickly enough to offset that price compression that you get on renewals and/or sell a
+bigger basket of services. And we're making investments in both processes as well as IT in order to increase our ability
+to take cost out quickly, especially in the resource management space. So we expect – if you look at the outlook for
+2012, we do expect that year-on-year margins will continue to be down.
+<A - Meg Cushing Whitman>: I think Cathie actually said it well. I don't have much to add. I just think at the highest
+level, the way you have to think about our Services business is we are going through a multiyear turn-around with a
+focus on rebuilding the business and dramatically changing the mix of our business, and this takes time. And we have
+also got some investments that we have to make here. We've got to have some new IT systems and processes to better
+manage the business. We've got to improve the performance and satisfaction in many of our existing accounts. And
+we've got to enhance the sales specialists and service delivery personnel to support future revenue growth and operating
+income growth. So we're on a path.
+Again, I think in some ways, Services, we know what the problem is. We've got a plan, and now we've got to deliver on
+that plan, but I'll be very honest with you. This is a multiyear journey. This is not a quick fix. And frankly, this dates
+back, in my view, to the assets that we acquired back in 2008 and then ran right into 2008 – 2009 global slowdown, and
+we took a lot of cost out of this business. And we're paying the price for that in many ways in terms of some of the
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 14 of 15
+capability that needs to be built back into the organization.
+That said, I think it's a very important strategic asset for the company. Many of – the role that Services needs to play in
+terms of the wrapper around our infrastructure products, our software products. This has to be our solution-selling arm.
+And so we're committed to rebuilding this, but we've got a multiyear journey ahead of us.
+Operator
+Our next question comes from the line of Maynard Um with UBS. Please proceed.
+<Q - Maynard J. Um>: Hi. Thank you, just a couple questions. Can you just talk about any particular vertical where
+there was strength or weakness, both from a demand and pricing pressure perspective?
+And then the second question is it sounds like in some areas HP is making more of a shift to focus on services and
+solutions inside the channel, which has been primarily accustomed to being more transactional. Can you just talk about
+the feedback from the channel and if there are any significant changes that have to happen for them to find success in
+this new model? Thank you.
+<A - Meg Cushing Whitman>: Yes, let me talk about the channel. I just got back, as I said in my opening remarks,
+from our Global Channel Conference in Las Vegas. And boy, this is one great group of small to medium sized
+businesses who have for many years made their living betting on HP. And boy, do they want us to win. And what they
+need more than anything else is stability, a steady hand on the tiller, and some predictability around what we're going to
+do. So much of 2011 was not an uplifting experience for them. And so I think we went a long way towards explaining
+the product roadmap, explaining where we were headed as a company, and how they fit in, and how much in particular
+I respect the channel.
+So they are looking, does the CEO actually love the channel, or are they indifferent? And I told them I was an
+enormous booster of the channel. First and foremost, they sell products. They still sell products. But increasingly they
+told me they're looking to sell solutions as well, and we need to help them get there. And whether that's cloud, whether
+that's security, ultimately information management, we're going to try to help them sell more services, sell more
+services and solutions. But they still first and foremost want to know that we have the very best server product; that
+we've got great networking, great storage, and that they can with confidence go to their customers and sell that product.
+By the way, the PSG uncertainty last year disproportionally affected this channel. They were terribly worried. What did
+that mean for them? What did it mean for HP? What did it mean for hardware? So I think we've gone a long way
+towards calming the waters and explaining that, in fact, we're really proud to be an infrastructure and hardware
+company. That doesn't mean we're not going to sell solutions, but I think we went a long way towards restoring their
+confidence. And I can tell you that business is all about the confidence they have in us.
+<A - Steven Fieler>: Operator, we have time for just one more question.
+<A - Meg Cushing Whitman>: And you had a question about verticals. I don't think there was really anything notable,
+Cathie, about whether we did particularly well in airlines versus pharmaceuticals versus travel. I don't think there was
+anything particular that drove our results in that regard.
+<A - Catherine A. Lesjak>: No, I don't think we have anything specific to call out there.
+Operator
+All right. Our final question comes from the line of Kulbinder Garcha with Credit Suisse. Please proceed.
+<Q - Kulbinder S. Garcha>: Thanks. I just have a couple of questions, one I guess for Meg. On the whole, I've seen a
+number of comments that you've made today and also in the past about underinvestment. On the other hand, you speak
+about streamlining processes. I'm just trying to think. What does all that mean for the levels of OpEx that HP are at
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2012-02-22
+Event Description: Q1 2012 Earnings Call
+Market Cap: 38,490.17
+Current PX: 19.52
+YTD Change($): -6.24
+YTD Change(%): -24.224
+Bloomberg Estimates - EPS
+Current Quarter: 0.980
+Current Year: 4.064
+Bloomberg Estimates - Sales
+Current Quarter: 30134.560
+Current Year: 122625.885
+Page 15 of 15
+today? And do you actually think you can go through this transition and keep this OpEx level over the next couple of
+years, or do you have to build higher?
+And then a question for Cathie; just on the free cash flow, the conversion itself was very poor as well this quarter. I
+think it was about 20% of your net income got converted to free cash flow. Were there any one-time items in there that
+won't be there recurring going forward? I'm trying to see the speed at which your balance sheet will rebuild so you can
+actually start doing more distribution to shareholders over the next 12 to 24 months. Many thanks.
+<A - Meg Cushing Whitman>: So we have a strategy here that I've seen work many times before. In fact, I've led
+changes like this, which is – and let me say this distinctly. We have to save so we can invest. What we cannot do is
+keep our current level of cost and just layer investments on top of that. We've got to streamline our processes. We've
+got to optimize our supply chain. We've got to reduce SKUs. We've got to rationalize our go-to-market so we can save
+money in the OpEx line so that we can then reinvest in the growing product lines, we can invest in our fast growth
+businesses, and we can invest in innovation. So what never works in business is let's keep our cost structure the same
+and just layer investment on top of that when we're in the situation in which we find ourselves.
+So my view is save to invest, save to grow. And we're very mindful that as we operate more efficiently and effectively,
+some of that money needs to drop to the bottom line and some of that money needs to really reinforce the strategic
+initiatives that we have to grow the business and I think, as Toni asked me earlier on the call, stabilize declining
+revenues and begin to gain share in the categories in which we compete. And listen, I've done this a number of times in
+my career. It's what great business leaders do. They figure out how to run things more efficiently so that they can make
+the investments. It's not as easy as hey, let's just make some more investment.
+<A - Catherine A. Lesjak>: And then from a cash flow perspective, as you may recall, we pay our annual bonuses in
+Q1. So we accrue the expense for that bonus in the previous year, and then the first quarter of the next year we
+basically pay the bonus. So it is typical that Q1 is a low cash flow quarter for us.
+Meg Cushing Whitman
+Great, I think that was the last question. So listen, thank you for joining us today. I remain incredibly optimistic about
+the long-term future of HP. We've got a lot of work to do, but we've got a great team and a great – I think really the best
+understanding of the situation in which we find ourselves and how we're going lead through it. So thanks very much for
+being on the call.
+Operator
+Ladies and gentlemen, this concludes our call for today. Thank you for your participation. You may now disconnect.
+Have a wonderful day.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2012, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

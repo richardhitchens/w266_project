@@ -1,0 +1,863 @@
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 1 of 15
+Q1 2012 Earnings Call
+Company Participants
+• Anthony T. Takazawa
+• David I. Goulden
+• Joseph M. Tucci
+• Patrick P. Gelsinger
+Other Participants
+• Deepak Sitaraman
+• Aaron C. Rakers
+• Brian Marshall
+• Brian G. Alexander
+• Alex Kurtz
+• Brian J. White
+• Amit Daryanani
+• Shebly Seyrafi
+• Daniel Harlan Ives
+• Katy Huberty
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning, welcome to the EMC Q1 2012 Earnings Conference Call. All parties are in a listen-only mode until the
+question-and-answer portion of the call. [Operator Instructions] I would like to introduce your host, Mr. Tony
+Takazawa, VP – Global Investor Relations with EMC.
+Anthony T. Takazawa
+Good morning. Welcome to EMC's call to discuss our financial results for the first quarter of 2012. Today, we are
+joined by EMC Chairman and CEO, Joe Tucci and David Goulden, EMC Executive Vice President and CFO. To kick
+things off, David will comment on our results and how these tie with the execution of our strategy. He will also discuss
+our outlook for the rest of 2012. Joe will then spend some time discussing his view of what is happening in the
+economy and IT, EMC's vision and strategy and how EMC is helping customers navigate the massive transformation
+happening in IT regarding cloud, Big Data and trust.
+After the prepared remarks, we will then open up the lines to take your questions. Please note that we will be referring
+to non-GAAP numbers in today's presentation unless otherwise indicated. The reconciliation of our non-GAAP
+comments to our GAAP results can be found in the disclosure today in our press release, supplemental schedules and
+the slides that accompany our presentation. All of these are available for download within the Investor Relations
+section of EMC.com. As always, the call this morning will contain forward-looking statements and information
+concerning factors that could cause actual results to differ can be found in EMC's filings with the U.S. Securities and
+Exchange Commission.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 2 of 15
+Finally, I would like to point out that we are providing you with an update to our projected financial model for 2012.
+This model lays out all of the key assumptions and discrete financial expectations that are the foundation of our 2012
+outlook. We hope that you find this model helpful in understanding our assumptions and context and in ensuring that
+these expectations are correctly incorporated into your models. This model is included in today's webcast and it is also
+available for download in the IR section of EMC.com. With that, it is now my pleasure to introduce David Goulden.
+David?
+David I. Goulden
+Thanks, Tony. Good morning, everyone, and thank you for joining us today. I'm very pleased to report that EMC had a
+strong start to 2012. As you know, there's major transformation happening in IT today and the challenge for all of us is
+to make sure we correctly align our businesses to best take advantage of the opportunity that change provides. EMC's
+ability to correctly identify and invest in these changes has been a major reason for our success and enabled us to grow
+revenue 11% year over year this quarter with non-GAAP EPS up 19% and free cash flow up 67%. We are in a truly
+unprecedented time of transformation. IT is transforming with a shift to cloud computing.
+Businesses are transforming as they better leverage Big Data to deliver greater insight and uncover new opportunities
+and the new threat environment is transforming the way customers think about trust. We at EMC are transforming our
+portfolio and operations to best take advantage of these major shifts. We believe that we have positioned EMC well and
+our solid results are ongoing proof that we're executing on our strategy to address the major trends in cloud, Big Data
+and trust.
+Based on our strong start to the year and how we feel about our opportunity, we are now more confident about what we
+can achieve in 2012. Looking across our businesses, it's clear that EMC is very well equipped to help customers
+navigate the waves of change they are facing today. As a foundation for customers' cloud and Big Data initiatives,
+information storage continues to thrive.
+With varied use cases and data types, EMC's broad and deep portfolio continues to prove to be best of breed. As a case
+in point, information storage continues its trend of solid growth with revenues up 7% in Q1. High end storage revenue
+was down 10% year-on-year versus a very strong Q1 last year. As you may recall, we had an unusually strong first
+quarter in 2011 due to the introduction of FAST VP in conjunction with VMAX. In that quarter, high end product was
+up 25% year-on-year and a very strong and unusual 12% sequentially.
+Whilst the significant variance in these year-on-year growth rates had a meaningful impact on the year-on-year growth
+in information storage revenue, we're comfortable with how our storage business is trending. After two years of above
+trend line growth, we expect the high end storage market to return to the long-term, single-digit growth profile we
+projected for this segment. Customers at the high end seek the very best in performance, scalability and reliability and
+VMAX is the best positioned to meet these needs as it offers unmatched combination of innovative features. Fully
+automated storage tiering, our FAST software along with Flash, Fibre and SATA drives allows customers to
+consolidate different tiers of data onto a single array and reduce their data center footprints, while the scale-out
+architecture of VMAX coupled with Flash improves transactional performance dramatically while accommodating
+explosive data growth. And we continuously improve our Symmetrix product line as technology and customer needs
+evolve.
+We recently became the first enterprise storage vendor to achieve validation of FIPS 140 encryption for all drive types
+including Flash with our Symmetrix Data at Rest Encryption module. This module, which protects information from
+unauthorized access at the individual drive level, can be integrated with RSA key management. The unmatched
+combination of leading edge capabilities at the high end is why Ameren, a power company with 3.4 million electric and
+gas customers selected VMAX with their mission critical Oracle Database and custom application environment. With
+100 terabytes of data being added to its infrastructure each year, Ameren was struggling to keep up with its data growth
+and increasing IT management costs while advancing their VMware visualization and cloud computing strategy. With
+VMAX using FAST and a combination of Flash, Fibre Channel and SATA drives, they were able to reduce their
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 3 of 15
+annual capital expenses by 50%, increase transactional performance by 30% and achieve power and cooling savings of
+28%.
+In its second full quarter of availability, VMAXe revenue continues to ramp as it meets the requirements between a low
+end VMAX and a high end VNX and extends the reach of the VMAX family to new customers, usages and price
+points. Such was the case with a fast-growing community college system in Texas. By consolidating its infrastructure
+on to a VMAXe, the school system dramatically improved its ability to provide students with the latest educational
+technology and tools, respond more quickly to the needs of local employers and increase the overall efficiency and
+reliability of their operational systems. The VMAXe was part of a larger win with a customer who also implemented
+EMC Avamar, NetWorker, RecoverPoint, vSphere and vCenter Site Recovery Manager for their 97% virtualized
+infrastructure.
+VPLEX continues to be an integral part of our portfolio as a unique product that dissolves distance and enables data
+centers to be truly active/active for the first time. This was illustrated by [indiscernible] (07:44) larger win in Q1, this
+one in healthcare. This transaction included a number of complementary EMC products including VMAX within a
+Vblock, Data Domain and Avamar. To complete its life-critical continuous computing platform, the hospital needed
+active/active data center configuration that VPLEX Metro made possible. VPLEX's ability to move vSphere
+applications between data centers several towns apart without interruption will enable them to fully leverage their
+virtualized infrastructure and lower their total cost of ownership.
+Our mid-tier products continue to perform very well with product revenue growth of 26% year-on-year and by the way,
+this is 100% organic growth, so no growth bump from acquisitions. Our portfolio mid-tier storage capabilities is a great
+match with customers' expanding requirements in this area. Our VNX family, which we introduced in Q1 of last year,
+is living up to our high expectations. Customers and partners alike like its functionality, simplicity, efficiency and
+lower cost of ownership. With its unified architecture, unparalleled VMware integration, incorporation of Flash for
+both cache and storage and ability to automatically tier data with FAST, the VNX continues to win us a bigger footprint
+with customers. And the VNXe, which offers affordable simplicity and efficiency to smaller customers and remote
+offices, has firmly established EMC as a player in the low end of the market. Since its introduction, the VNX family
+has brought just under 6,000 brand new customers to EMC. Many of whom have been acquired via the more than 2,000
+new channel partners who started selling EMC over the same period of time.
+Together, the VNX and VNXe allows us to meet a broad set of needs of customers seeking the flexibility of unified
+storage. One such customer was a global aluminium company that is consolidating its IT infrastructure worldwide to
+three primary data centers plus a DR site and approximately 30 remote offices. The primary data centers will use VNXs
+with VMware to consolidate applications and significantly reduce costs while the 30 remote offices will use
+VNXe3100 arrays for primary storage. This example illustrates how valuable it is to have a broad array of products in
+today's rapidly changing IT environments. This same customer, by the way, also purchased our full suite of backup
+products to address the various backup needs across their next-gen infrastructure.
+Isilon continues to flourish with total revenue almost doubling from Q1 a year ago. Isilon technology plays an
+important role among our mid-tier products as it meets customers' cloud and Big Data requirements across industries
+and use cases. Our scale and NAS architecture is exceptionally well suited for extremely large scale Big Data needs and
+in Q1, we completed what we believe was the largest capacity single order in the history of storage, 28 petabytes with a
+web company. To put this into perspective, this amount of storage could hold 6 million movies, and while 28 petabytes
+is impressive, you need 37 million petabytes to accommodate the genetic sequence of the entire population of the
+United States. As you can see, we have a lot more room to grow in some of these emerging Big Data areas.
+Isilon is being used in more traditional enterprise implementations as well. File-based data that might have been
+manageable ten years ago has been growing unchecked, reaching petabyte scale in some cases and this is where Isilon
+scale architecture is ideal. A case in point was the choice of Isilon by a large multinational insurance company recently.
+EMC has been part of its data center for some time and used the value proposition of Isilon to consolidate their file
+environment in Q1.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 4 of 15
+As our sales force and partners have become much better at identifying the best opportunity for Isilon, we expect to see
+Isilon increasingly penetrating our existing customer base. Putting the EMC name, reputation, sales force and service
+levels behind great new technology is a powerful combination. The result is what we call the EMC effect.
+We have seen the EMC effect at work for the past couple of years in our Backup Recovery Systems business, which
+continues to thrive. Our market-leading backup products, which include the powerful combination of Avamar and Data
+Domain, also lead the way into new accounts and have brought hundreds of new logos to EMC over the past several
+quarters. One of these in Q1 was a large financial services organization that was running out of data center floor space
+and running into power and cooling challenges with its large tape silos. By demonstrating that Data Domain's next-gen
+backup architecture provides efficiency, reliability and business value that was impossible with their tape-based
+systems, our BRS team was able to establish brand new footprint in all three of the organization's data centers.
+We continued to broaden our storage portfolio in Q1 with a very exciting addition of VFCache, which extends our lead
+in enterprise Flash. In 2008, we were the first to bring Flash technology to enterprise storage and its value proposition
+to customers is clear as evidenced by the growing demand it has enjoyed ever since. We are leveraging our expertise in
+enterprise Flash with VFCache, which extends the benefit of Flash into the server for dramatic performance
+improvements.
+What distinguishes VFCache is its ability to deliver extremely fast response times whilst preserving all the back-end
+capabilities around data protection, reliability, scalability and manageability. This is a value proposition with broad
+appeal as illustrated by our early customer wins including a bank in China, a financial services company in Boston, a
+retailer in the Middle East, a government in Asia and a research lab in the UK, a hospital in New England, and a
+U.S.-based telecommunications company to name but a few. Their feedback so far is very positive as they're seeing
+how fast some of their mission critical applications like Oracle and SQL are able to run. We're also excited to be in
+discussions with several new generation web application companies. And you'll see us continue to enhance VFCache
+later this year.
+Later this quarter at EMC World, you'll hear more about our next step with Flash, code-named Project Thunder.
+Optimized for high frequency, low latency, read-write workloads, Thunder will build upon the advanced PCIe
+technology delivered in VFCache to leverage the power of Flash through a dedicated server networked Flash-based
+appliance.
+Building Flash into many places in the IT infrastructure while fully leveraging it with intelligent automated software
+that operates across this stack is the real secret sauce to delivering value. What the customer cares about is having the
+right data at the right time in the right place at the right costs and making this happen involves service, leveraging Flash
+at one end of the spectrum to high capacity SATA drives in storage arrays at the other. We have the end-to-end
+expertise with enterprise Flash and data storage unmatched in the industry and we'll continue to build on our position as
+the innovative leaders in enterprise Flash.
+When we look back at the storage products we just discussed, VMAX, VPLEX, VNX, Isilon, Data Domain, Avamar,
+VFCache, you can see this is a very different portfolio than what we had just three years ago, one that has been
+purposely assembled to address new requirements brought about by the rapidly changing IT environment.
+Our recent win at a global humanitarian organization is an excellent example of the power of EMC's portfolio in this
+new world. Rotary International implemented VNXe, Isilon, Avamar and vSphere to better manage its growing digital
+assets, deployed a Vblock for its mission-critical applications and primary storage and leverages VNXe at a second
+facility to replicate data. Rotary was able to build a solid foundation for its virtualization environment on EMC's suite
+of complementary products which have been optimized for these environments. The result is simplified management,
+strengthened data protection, predictable performance and improved efficiency. This is our strategy at work.
+Increasingly, businesses are being transformed by their ability to unlock the value of data stored within their
+organization and in the outside world.
+We identified this trend early and began making investments to capture the opportunity Big Data presents starting with
+the acquisition of Greenplum in 2010. Greenplum has since made great strides in this space with several achievements
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 5 of 15
+in Q1 alone, including the industry's first and only enterprise-proven Hadoop solution on a scale-out NAS architecture
+with Isilon, enabling end-to-end data protection for Hadoop Big Data. The designation as a Leader Enterprise Hadoop
+Solution by Forrester Research as the first to integrate its Hadoop EDW and data integration in a single rack. The
+launch of the industry's first social tool kit for Big Data, Greenplum Chorus, enabling data site teams to collaborate on
+data sets.
+The acquisition of Pivotal Labs to accelerate the development of Big Data applications in the enterprise not to mention
+continued very strong year-on-year growth in revenue. Greenplum is increasingly benefiting from the EMC effect.
+While it's early days and the Big Data trend has quite a way to go before it reaches its full potential, customers see the
+transformation in analytics and want to build the best technology stack with the right partners as they start on their
+journey to leverage Big Data. As a result, we're now seeing multimillion dollar transactions as more and more
+enterprises select Greenplum technology as the foundation for their next-gen analytics architectures. In Q1, these wins
+included a large financial services company in New York, a leading supplier of industrial automation solutions in India
+and a multinational telecommunications company in Europe. Taking a step back, it is clear that we've anticipated how
+customers' needs will change in this space and we've transformed our portfolio of storage offerings to address those
+needs. As a result, we now have a broad portfolio of best-of-breed products, which enable customers to pick the right
+tool for the job they have. The offerings we have far exceed the capabilities of both the more narrowly focused storage
+vendors and the less focused server companies. EMC is truly unique in the storage infrastructure market. Our diverse
+and best-of-breed portfolio enables us to serve virtually any information storage need to just about any customer in any
+industry
+The result has been strong and steady growth of our storage infrastructure business driven by the strong secular trends
+of cloud and Big Data. The successful transition to a model that leverages cloud and Big Data is dependent upon both
+the right infrastructure and also building trust into that infrastructure. Having a holistic and data center approach to
+security dangers, such as Advanced Persistent Threats, is key to building trust and RSA has been at the forefront of this
+security trend. RSA's focus and execution are paying off as their business grew a strong 19% over last year's Q1.
+Attendance at this year's RSA Security Conference, the marquis conference in the industry, grew to a record 21,000
+people, underscoring the growing importance of information security in today's digital world.
+RSA solutions are built for the modern threat environment and customers are responding as revenue from both our
+identity management and protection and our security management and compliance offerings both showed good growth
+over last year's Q1. RSA continues to earn accolades as our NetWitness technology received Gold level honors in
+Security Products Magazine's, Government Security Awards, was named Best Computer Forensic Tool in Secure
+Computing's Magazine 2012 Readers Trust and was named Best Security Solution in Government Technology
+Research Alliance, GOVTek's Award Program. NetWitness in conjunction with Archer, enVision and DLP worked
+together to provide controls and visibility features that are based on agile, predictive analysis and continuous
+monitoring of massive amounts of data. We'll continue to build on a data centric approach to security to enable our
+customers in turn to take full advantage of the benefits afforded by cloud and Big Data.
+Revenue from our Information Intelligence Group was down 4% year-on-year. In Q1, IIG released Documentum
+Mobile app for the iPhone, expanding users' ability to access, share and collaborate on their preferred device and
+enabling them to act upon information faster than ever before. IIG continues to win new customers as it did with the
+largest public banking organization in Turkey. With an aggressive strategy to grow its service network of more than
+22,000 employees and 1,400 branch offices, Ziraat Bank chose EMC Documentum. As a result, the bank can now
+manage internal correspondence and regulation processes to ensure global compliance and operational efficiency,
+automate application processing to accelerate transactions and increase productivity across various internal
+departments. We are pleased with the operational and strategic progress our new leadership team is making at IIG.
+VMware continues to perform very well as we execute on our strategy to be the standard for virtualization in enterprise
+data centers, enabling businesses to thrive in the cloud era. VMware revenue was up 25% year-on-year as customers
+continue to look to VMware's proven technology for virtualizing their mission-critical applications and increasingly
+rely upon VMware management and automation tools to manage their rapidly expanding virtual environments. We
+continue to enhance EMC's product integration with VMware in ways that solve real world problems and in areas that
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 6 of 15
+are clearly making a difference, including VPLEX for active/active data centers, ProSphere for integrated management
+and the inclusion of VMware as a founding partner in the VSPEX reference architecture program.
+Site integration with VMware is important as customers expand their virtual environments and one of the key reasons
+for several wins in Q1 alone including a U.S.-based manufacturer, a hospital in Shanghai, a stock exchange in Asia and
+a mining company in Latin America. Expect to hear more about EMC and VMware working together at EMC World.
+EMC's initiatives to transform and expand our go-to-market model continue to pay dividends. Over the past couple of
+years, we augmented our already formidable sales effort with additional targeted services capabilities, expanded
+alliance partnerships, a vastly expanded reseller channel and the unique joint venture in VCE. All these initiatives
+broaden our reach with the result being better scale and more leverage.
+EMC's Services business continues to thrive as customers seek guidance on the transformation of their own IT
+architectures. In addition to our existing design and implementation services for cloud infrastructures in Q1, we added
+offerings specific to the delivery of IT-as-a-Service. These new services which are aligned around cloud infrastructure,
+cloud optimized applications and end user computing help clients accelerate the adoption, optimization and
+consumption of cloud technologies. Our alliance partnerships with service providers continue to expand and these
+partners are steadily increasing their capabilities. With well over 100 public cloud services now being offered by
+service provider partners based upon underlying EMC technology, our entire product portfolio stands to benefit.
+The transformative changes we have made to our Channel Program in 2011 continue to be successful. Channel revenue
+from our S75 program which is primarily VNXe continues to ramp steadily as unified storage revenue through our top
+5 partners increased 45% year-on-year in Q1. We continue to make improvements to further develop our relationships
+with our partners and help ensure their success. The VSPEX reference architectures we announced last week help our
+partners accelerate their customers' transition to cloud with solutions that make the move to the cloud faster and less
+complex. EMC has proven several architectures for partners to package into installable VSPEX solutions which are
+available only from EMC partners. VSPEX enables customers to select the technologies that best fit their existing IT
+environments from a broad selection of leading vendors. For customers and partners who want to make their
+implementation even easier, Vblocks continue to be the answer and demand for Vblocks in the quarter more than
+doubled from Q1 a year ago.
+As a single converged product with components from EMC, Cisco and VMware with a single pane of glass for
+management, a clear upgrade path and one point of contact for customer support, Vblocks are a compelling option for
+customers looking to accelerate their journey to the cloud. We're seeing significant interest on Vblocks on a global
+basis. Not only are many new customers dying to test out these converged products, but we're seeing early adopters
+coming back to purchase multiple Vblocks to run their production applications. In fact, a growing percentage of VCE
+business is coming from customers who are beginning to adopt multiple Vblocks for their production environments
+after liking what they saw in their initial purchase. A prime example of this was a Fortune 50 customer who had an
+initial transaction in Q3 of last year followed by a multimillion dollar deal in Q4 followed by a $25 million order in Q1.
+This deal is representative of the penetration we're seeing in competitive stronghold accounts. It is important to
+understand the difference between Vblocks and our newly announced VSPEX offerings as both are important to our
+strategy to help customers to get to the cloud in the most suitable way for them. For customers wanting pre-tested
+converged products, there are Vblocks which have been available for two years. For customers wanting a tested and
+proven reference architecture with different options for network, server and Hypervisor, now there is VSPEX. For
+customers wanting to assemble solutions themselves, we have our broad portfolio of information infrastructure and
+virtualization products they can choose from. So in short, we offer the full continuum of options for customers to get to
+the cloud in whatever way is best suited to them whether it's the pre-baked cake, a set of tested recipes to make the cake
+or just the ingredients. For some time now, our vision has been to become the undisputed leader in hybrid cloud
+computing and as our results attest, we are making this happen
+We developed a strategy to help customers have the right data in the right place at the right time where it's secure every
+step of the way and where they can make the best use of cloud technology and Big Data assets in a trusted
+environment. Our products and services portfolio and go-to-market model are evolving as we continue our own
+transition to help customers improve business agility, lower costs and enhance their competitive edge. This unwavering
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 7 of 15
+focus and steady execution supported by the strong secular trends of cloud, Big Data and trust are what have enabled us
+to deliver consistently solid financial results. Consolidated revenues were up a solid 11% year-on-year. Within this,
+North America was up 11%, EMEA was up 6% overall but was somewhat of a mixed story across the various countries
+with strength in some and caution in others, Latin America and APJ were both up a strong 20%.
+Now taking a look at gross margins, obviously, we have shown significant improvements in gross margins over the last
+year or so. There are lots of puts and takes built into these results so I thought it would made sense to take a few
+moments to discuss these factors with you so you will have a better understanding of the dynamics. From Q1 2011
+through Q4 2011, gross margins improved by a very significant 440 basis points. Apart from volume, this improvement
+was driven by four factors, the first two of which were margin rate impacts while the second two were mix effects. First
+was the RSA remediation costs we absorbed in Q1 2011. This resulted in what was effectively an adverse one-time
+impact of approximately 50 basis points to the Q1 2011 non-GAAP gross margin rate. Second was a step function
+improvement to the margin rates of specific products and services we played out over the course of the year. The
+integration of Data Domain and Isilon into our supply chain was a big factor here. We also benefited from greater
+efficiencies in our Services operations. Third was the benefit to mix of some low margin businesses declining through
+2011. Our Consumer Products business de-emphasized low margin, resale focused hard drive systems in favor of more
+value-added NAS systems. In addition, we saw the decline in the Dell co-branded CLARiiON business throughout
+2011.
+These two declining businesses reduced our lower margin revenues over the course of the year and had a resulting
+positive impact to gross margin improvements during 2011. Fourth was the improving mix of higher margin businesses
+and products and we benefited from this over the course of 2011. This is an important ongoing aspect of our financial
+model as our faster growing businesses tend to be our higher margin businesses. When we look at 2012 and how we
+expect gross margins to progress from Q1 to Q4 this year, the first three of these factors will not repeat. The fourth,
+however, is ongoing. We certainly do expect to see continual mix-related improvements to gross margins as our higher
+margin, faster growing businesses become a bigger proportion of the business. This is an important part of our strategy
+and a key element of our triple play and of course, we'll continue to have benefits from volumes as our business
+continues to grow. To help you understand the relative contribution to these drivers, to the improvements in gross
+margin we saw from Q1 2011 to Q4 2011, approximately half of the improvements to gross margins through 2011
+resulted from the first three factors that will not be repeated in 2012. We expect the growth in volume to continue to
+benefit the gross margin line but obviously, the improvement from strategic mix shift will be more gradual this year
+and moving forward. This dynamic is reflected in our outlook for 2012. The improvement in gross margin in Q1 drove
+non-GAAP operating margin up 150 basis points as SG&A growth was in line with revenue growth and R&D higher as
+we had projected it would be in January. Investments in our go-to-market and R&D are important to maintaining our
+triple play over the long term. You'll see some of the results of these investments in the form of the exciting product
+announcements we'll make throughout this year. Other expense was $31 million non-GAAP. We've updated our
+full-year guidance for Other expense to reflect some gains from strategic investments in Q1.
+Our non-GAAP Q1 tax rate was 24%. We expect it to be 21% for the full year assuming the U.S. R&D Tax Credit is
+passed in Q4. Non-GAAP EPS grew 19% over last year's first quarter to $0.37 per share. Share count was higher than
+expected due to the effect of the 39% increase in our share price in the quarter on our 2011 warrants that were settled in
+Q1, 2012 and our 2013 convertible and warrants. As a result, we've increased our full-year share count projection by 45
+million shares, the impact of which is about $0.04 for the full year 2012. We still expect 2012 non-GAAP EPS to be
+$1.70 due to the offsetting benefit from slightly higher operating margins than we predicted in January. Our strong
+execution drove record Q1 free cash flow of $1.4 billion, $611 million higher than non-GAAP net income for the
+period, contributing to this was continued strong growth in deferred revenue, up 10% sequentially to $6.8 billion. We
+ended Q1 with $10.9 billion in cash and investments after using $1.7 billion of cash to settle the first tranche of our
+convertible debt in January. Our U.S. cash excluding VMware was down from $4.8 billion to $4 billion as a result of
+this repayment.
+Our priorities for the use of cash have not changed. We still expect to buy $700 million of EMC shares in 2012 and
+continue to invest in the business. With the results we continue to achieve quarter after quarter, it is clear that our
+strategy is the right one, our execution is solid and we're on track to deliver our triple play. This gives us greater
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 8 of 15
+confidence in our ability to meet and potentially exceed our 2012 goals of $22 billion in revenue, non-GAAP EPS of
+$1.70 and free cash flow of $4.9 billion.
+In summary, the business we have built is at the intersection of three strong secular trends, cloud, Big Data and trust,
+that will persist into the foreseeable future. With this fundamental shift in our favor, an unparalleled combination of
+best-of-breed offerings, our wealth of experience and our proven track record, we think we're better positioned than any
+other company in IT With continued steady execution, we're well on our way to achieving the financial potential we
+laid out for you last year, over $28 billion in revenue in 2014 which represents compound annual revenue growth of at
+least 13% from 2010 and non-GAAP EPS growth even faster than this. With that, I'll hand it over to Joe. Joe?
+Joseph M. Tucci
+Thank you, David, and my thanks to everyone joining us for today's call. We appreciate your interest in EMC. Overall,
+I was very pleased with our execution and performance in Q1. I have always believed that starting out a new year with
+strength is incredibly important. The momentum and confidence it builds throughout EMC, our customers and our
+partners is invaluable. I will talk about the economy and IT spending trends shortly but we firmly believe that the 11%
+year over year growth rate we produced in Q1 was significantly greater than that of the IT market and thus, we gained
+share. I would like to thank the more than 54,000 people of EMC and VMware for their passion to win and their
+dedication to our customers' success.
+In Q1, we saw IT spending in our business unfold pretty much as we expected and predicted. Overall IT spending
+growth was fairly good in the Americas and APJ as our 11% and 20% year over year respective increases
+demonstrated. In Europe, I believe that overall IT spending growth was at best flat. For sure, the 6% year over year
+growth we posted in Q1 was better than average. And finally, we saw our highest growth rates in the rapid growth
+economies. Across our BRIC plus 13 countries, we grew over 25% in Q1 versus the same period last year.
+Looking at Q1 year over year IT spending growth from a vertical industry point of view, we saw some softness in the
+banking sector; average growth in retail, manufacturing, telco and information technology verticals; good growth in
+insurance, government, healthcare, education and media; and we saw rapid growth in and with service providers.
+Net-net we continue to expect that global IT spending growth will be in the 3% to 4% range this year. And for sure, the
+IT markets for virtualization, cloud computing, information storage, information protection, information security and
+for information intelligence and analytics will grow faster than the IT average and we at EMC and VMware fully
+expect to grow faster than our total addressable market. What underpins our belief in our ability to succeed in the future
+is our strategy and the focus we have in cloud computing, Big Data and trust.
+What makes our strategy work is a blend of several key ingredients that we have built deeply into our DNA. First and
+foremost, EMC and VMware are product companies and as such, our mission is to produce truly innovative and
+distinctive products which are complemented by world-class enabling and supportive services with a tight-knit partner
+ecosystem by our side. Our recipe to produce these innovative products calls for to us invest over 11% of revenues into
+organic R&D and bet heavily on our brilliant engineering teams and in addition, to acquire smaller, best-of-breed
+technology companies to enhance and extend our cloud, Big Data and trust strategy and reach. This one-two punch
+gives us a competitive product edge and we aim to continue this winning strategy of dual innovation engines.
+That said, a great strategy is not sufficient alone. Equally as important, we at EMC and VMware have also built the
+following attributes into our DNA. We always exhibit an excellence in execution and an urgency in everything we do.
+We have built an accomplished executive leadership group that truly comes together as a team. We have a passion to
+win that permeates every level and every person in our company and most importantly, every fiber in our DNA assures
+we have a maniacal focus on our customers. Collectively, this is our formula for success. We have limited time together
+today, and I would like to use a bit of it to drill down on EMC's Storage business, and share a bit of our view on this
+market and our strategy.
+First, let's start with the media, itself. We can store a string of bytes be it measured in megabytes, gigabytes or terabytes
+in memory or on a single-level cell Flash device or on a multi-level cell Flash device or on a high speed spinning drive
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 9 of 15
+or on a SATA or so-called fat SAS drive. I have listed these forms of media from the most expensive, highest
+performance on top and in order going down to the least expensive, lowest performance media on the bottom. By the
+way, the price differential here from top to bottom is significantly more than 100 to 1, and there are substantial price
+differentials between each of these media layers. So where is the best place to store the aforementioned string of bytes?
+Well, the answer is it depends. It depends on the performance requirements of the application, the business process, the
+activity level or how often the data is being accessed, the required retention periods for the data and I could go on and
+on with this. It depends. But net-net, we at EMC will use all these forms of media and undoubtedly, more forms will
+come in the future to provide our customers with unmatched fit and choice. With these media types, we will use our
+strength, breadth and depth and our ability to create organic and nonorganic innovation and produce truly distinctive
+storage products, products like VFCache that plugs directly into a server's PCIe slot. Products like Project Thunder, our
+coming server Flash appliance, storage products that feature 100% Flash media and of course, we will continue to lead
+the market with hybrid storage arrays that incorporate memory, Flash and spinning drive technology as this category of
+storage will undoubtedly make up the vast majority for years to come. Additionally, EMC will feature and support all
+connectivity options, Fibre Channel, FCoE, iSCSI, NAS and direct-attached.
+We will offer object, file and block access methods in scale up, scale out and geographically disbursed architectures
+and across all of our storage offerings, we will fully integrate and feature advanced management and automation
+software like ProSphere, software like FAST, or fully automated storage tiering, software that deduplicates and
+compresses redundant data and automation for active/active distributed workloads across data centers. In short, we will
+have the best fit, most complete family of best-of-breed storage solutions that truly meet and exceed the needs of our
+most demanding customers. For sure, information storage is not, and I repeat, not a one-size-fits-all world. And all this
+product prowess is backed by our reputation for quality and service and fronted by the best storage sales organization in
+the industry bar none. Thank you again for being with us today. I will now turn it back to Tony to moderate the Q&A
+portion of today's call. Tony?
+Anthony T. Takazawa
+Thanks, Joe. Before we open up the lines for your questions, as usual, we ask you to try and limit yourself to one
+question including clarifications
+This will enable us to take as many questions as possible in the time we have left. We thank you all for your
+cooperation in this matter. Evan, can we open the up lines for questions, please?
+Q&A
+Operator
+[Operator Instructions] Our first question today comes from Deepak Sitaraman with Credit Suisse. Your line is open.
+<Q - Deepak Sitaraman>: Great, thanks very much. Good morning, Joe and David. Can you start by maybe giving us
+an update on hard drive constraints, how did it impact EMC in the first quarter and is it expected to have an impact in
+the second and also just if you could comment on how the price increases you put into place in Q1 were received by
+customers and whether you saw any orders pushed out of Q1 that could potentially benefit later quarters? Thank you.
+<A - David I. Goulden>: All right. Deepak, thank you. Well, let me take that answer. So, first of all, kudos to the drive
+suppliers for responding rapidly to a very serious situation and the quarter played out as we expected. There were
+constraints and there still are constraints particularly in nearline drives but we got the drives during the quarter we
+expected and needed to make our numbers, albeit, in the nearline space, they came in a little later in the quarter, end of
+February to early March. And of course, as we said on the last call, we had to do some balancing during the quarter to
+meet supply and demand. We do expect there to be constraints certainly throughout Q2, but again, we do have line of
+sight to drives that we need.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 10 of 15
+We think there will be some incremental improvement in the second half but certain classes of drives will see
+constraint throughout the entire year. On the price increase side, as you know, we did put drive price increases up
+between 5% and 15% in early January, and whilst nobody likes a price increase, so you can tell by our gross margins
+that we were able to capture the majority if not all those price increases and given the supply constraints, we don't
+expect there to be any significant reduction in prices in the near future, maybe towards the end of the year when the
+whole situation becomes a little bit more normal. And then finally, in terms of orders, the good news is that although it
+took us a little longer this quarter to deliver some of the orders we took early in the quarter, we don't think we lost
+orders and we don't think that customers pushed out business because I think everybody is in the same boat when it
+comes to drive availability and I think if anything, we were better off than most.
+<A - Anthony T. Takazawa>: All right. Thanks. Next question, please?
+Operator
+Our next question comes from Aaron Rakers with Stifel, Nicolaus. Your line is open.
+<Q - Aaron C. Rakers>: Yeah, thanks, guys, and congratulations on a great quarter. Kind of sticking to the similar
+topic on the drive discussion, you guys obviously outlined that the price differential between Flash and all the way
+down to nearline SATA drives, can you talk a little bit about the mix of those drive configurations, where we stand
+today and where you expect to be a year from now? And also, on top of that, how we should think about that similar to
+the price discussion, the differential in the gross margin that EMC sees? Thank you.
+<A - David I. Goulden>: Okay. Aaron, in terms of – yes – right, you are right, right now when you look at what we
+ship, we ship inside arrays, the majority – the vast major part is between Fibre and the SATA FAST type drives. Flash
+today is a small single-digit percentage, but the adage goes in a hybrid array, a little Flash goes a long way. And what I
+mean by that is that you can improve the performance of an array dramatically by having maybe less than 5% of the
+capacity in Flash and using FAST software moving those hot data sets into the high-performing media types. So we see
+a small increase and a steady increase going forward in the mix of Flash, but we still think that the vast majority of
+capacity shipped for many, many years is going to be Fibre and SATA. Within that, a mix more towards SATA and
+less towards Fibre, but we think that's pretty much how things play out.
+And then from a margin point of view, as Joe said, we're fairly agnostic to the media type. In fact, different media types
+are, in fact, good for us because we can offer more choices and more price points to our customers and we're getting
+very broadly similar margins across those media types. So the mix shift in media is not going to have a material impact
+upon our gross margins.
+<Q - Aaron C. Rakers>: Thanks, David.
+<A - Anthony T. Takazawa>: Thank you, Aaron. Next question, please?
+Operator
+Our next question comes from Brian Marshall with ISI Group. Your line is open.
+<Q - Brian Marshall>: All right. Great. Thanks, guys. Obviously, the cloud market is growing very rapidly and I
+think, Joe, you mentioned – I think you used the word rapidly when you discussed service provider growth. We've been
+picking up that the private cloud adoption has grown much faster than public cloud adoption, and was wondering if you
+could give some commentary around here, is this still an issue with respect to ELAs as well as security and data
+breaches? And if so, when do you think this is going to be fixed where we can see public cloud adoption really start to
+grow at the rate of the private cloud? Thank you.
+<A - Joseph M. Tucci>: Well, I think for a long, long time, the private cloud market is going to be much bigger than
+the public cloud market. That being said, the public cloud market will be the faster growing of the two because it's
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 11 of 15
+coming from a tiny base, if you will. But we do believe totally that the world is going to be hybrid. Certainly, as you
+heard on the VMware call last night, kind of the state-of-the-art is that customers are now confident enough that they
+are in significant numbers working on virtualizing and cloudizing, if you will, private cloudizing their Tier 1 apps and
+that probably has the most return and benefit for customers and that's where a lot of the action is.
+But certainly, on their lower tiers in test and dev, I think over time, you'll see customers, basically when they get to a
+peak work load or a peak time of the year, they'll be pushing out some applications like test and dev and other
+applications to a public cloud and that will avoid them having to buy for the peak of the day, peak of the year, peak
+times and help reduce and contain their overall IT costs, which they can then plow back into doing more application
+work and get business benefits. So that's a trend you're going to see.
+So it's not an either/or. We're in a world of both. You also heard Paul say yesterday that the progress that we're making
+in vSphere adopted clouds, and of course, I just told you that the public cloud business is probably the fastest growing
+sector of all the kind of verticals, if you will, that I spoke about. So both sides of the consolidated company are doing
+well with the cloud trend and phenomena and we're going to continue to push the heck out of it, but it's a world of both.
+It's and not or.
+<A - Anthony T. Takazawa>: Thank you, Brian. Next question, please?
+Operator
+Our next question comes from Brian Alexander with Raymond James. Your line is open.
+<Q - Brian G. Alexander>: Thanks. You've won a lot of new customers in the mid-tier segment over the last several
+quarters. Can you talk about the penetration rates of those customers versus your expectations and maybe some more
+color on the share of wallet opportunity here and how significant that could be for EMC going forward? Thanks.
+<A - Joseph M. Tucci>: Go ahead, David, why don't you start and I'll add further -
+<A - David I. Goulden>: Yeah, Brian. I mean that's clearly should be one of the hallmarks of – or the measures that
+we have of success of particularly the VNX family, but also applies to Isilon and BRS, which are all significant new
+customer door openers for us. And those new customers are across the board in terms of size. So in some cases, we've
+been going after kind of small, medium businesses where effectively we become their internal IT storage device, but
+also many of those new customers are in large enterprises. So it's not a one-size-fits-all banner.
+Also, I mentioned that VCE has been a significant new customer door opener for us in those cases, in some of the very
+largest enterprises. So we think there's great potential and it's not all in the SMB marketplace. There's some new
+customers in the enterprise markets, which we're in for the first time in many years, and obviously, those are great
+potential growth markets for us going forward.
+<A - Joseph M. Tucci>: Brian, to drill down on the specific question you asked about mid-tier and new customers, this
+is the – I always felt that the best way to look at growth in any market is on an apples-to-apples basis because,
+obviously, acquisition effects can swing your growth rates. So on an apples-to-apples basis in the last four quarters,
+which would be Q2 of 2011, Q3 of 2011, Q4 of 2011, and of course, Q1 of 2012, across that one-year time span, we
+have grown well over year-on-year on an apples-to-apples basis 20%. And a great thing is that we have really kind of
+hyped up our Channel Programs and our [indiscernible] (51:40). Two-thirds of those orders were heavily touched by
+our channel partners. And a lot of those customers, we don't give specific numbers, but a lot of those customers are new
+customers and this channel reach is really helping us. So obviously, this mid-tier thrust we have and really terrific set of
+best-of-breed products there are really paying off.
+<Q - Brian G. Alexander>: Great. Thank you.
+<A - Anthony T. Takazawa>: Thanks, Brian. Next question, please?
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 12 of 15
+Operator
+Our next question comes from Alex Kurtz with Sterne, Agee. Your line is open.
+<Q - Alex Kurtz>: Yeah, thanks for taking the question. When you look at the Symmetrix growth rate, obviously, it
+was up against a tough comp. How should we be thinking about that product going forward in the enterprise as well as
+the service provider market? I know it has had success in the service provider market in the past. Is that really where
+Symmetrix is going to grow, provide the upside to the range longer term? Or do you see maybe a product refresh
+helping in the enterprise as well?
+<A - Joseph M. Tucci>: Alex, let me – like this. First of all, we are very confident in the future of Symmetrix and
+VMAX. We expected VMAX to be down this quarter for two reasons. One is the one that David highlighted and you
+mentioned. It is a tremendous quarter we had one year ago. I mean, it's highly unusual that you would grow from a Q4
+to a Q1 with Symmetrix 12%. Highly unusual that you would actually decline from Q1 to Q2 8%, which is exactly
+what happened last year. So year-on-year growth last year was 25%. So it was a really strong quarter and that is
+absolutely a major factor. And we knew that and that's why we planned the way we planned.
+But you hit upon the second reason, which is a major reason, too. Look, life cycles are important in any product, but I'll
+tell you, point blank, the higher end product you have, right, the more important a life cycle is. And if you recall, we
+launched VMAX in April of 2009. So it is pretty close to exactly three years old. And clearly, our customers are
+expecting and wanting a new, even higher end model and product. And as all I'm going to say is we don't want to get
+ahead of ourselves and ruin the announcement, but I probably am going to do that anyhow and tell you point blank, the
+customers that are expecting that will not be disappointed. And it's coming soon.
+<Q - Alex Kurtz>: Okay. Thanks, Joe.
+<A - Anthony T. Takazawa>: Thank you. Next question, please?
+Operator
+Our next question comes from Brian White with Topeka Capital Markets. Your line is open.
+<Q - Brian J. White>: Yeah, Joe. I'm wondering if you can talk a little bit about the Greenplum opportunity. I know
+one of your colleagues was at a conference recently, highlighted the Greenplum opportunity as potentially what
+VMware has seen, that type of growth over the last several years. So I'm wondering, number one, do you believe that?
+And number two, if you could give us a little more granularity on the trends you're seeing in that business? Thank you.
+<A - Joseph M. Tucci>: First of all, we're very, very pleased with the trends in Greenplum. Rather than give our view,
+let me quote IDC. They just came out with a Big Data white paper and analysis for hardware, software and services and
+they did it from 2010 to 2015. And I don't know if you saw it, but in 2010, they thought the Big Data market was $3.2
+billion and they think it will grow almost 40%, 39.4%, if memory serves me right, was the actual CAGR they had in
+there between then and it will be a $16.9 billion market in 2015. So there's a heck of an opportunity.
+Now if you look at the Big Data market, we're really playing in the highest end of that market. If you think of what a
+customer really needs to do to get an incredible competitive advantage, they want to take their internal structured data,
+which there's a ton of. They want to take their internal unstructured data, which there's multiple times as much of, and
+then they want to go to the public markets and public sources and get the massive amount of data that's available there.
+And blend these all together and really use this data in real-time, real-time predictive analysis to give their companies a
+competitive advantage and that's the area that we're playing in.
+We don't even try to go and, say, displace an existing data warehouse. We're going after the new stuff which is more
+complex, and that's with products like Chorus and our Hadoop distribution and support is all about as well as, of
+course, of our Greenplum data base. So we're playing I think at the highest end of the pyramid. So if the entire pyramid
+is growing at 39.4%, ours is growing faster than that and we're growing faster than that. So we're very excited about the
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 13 of 15
+opportunity here.
+And as I said, I've always been – one of the things I preach and my team's probably tired of me saying it, but I really
+believe big companies should not do small things. Big companies should only do small things that are going to become
+big things. And in our case and our size, we should not enter a market unless we think we can do $1 billion plus there.
+And this is a case where I think that $1 billion plus will be light. We can do more than that and will do more than that.
+So I'm very pleased with our progress and that's kind of the way we think about this opportunity.
+<Q - Brian J. White>: Great. Thank you.
+<A - Anthony T. Takazawa>: Thanks, Brian. Next question, please?
+Operator
+Next in queue is Amit Daryanani with RBC Capital Markets. Your line is open.
+<Q - Amit Daryanani>: Thanks, good morning, guys. Just had a question. You guys discussed the Flash-based
+markets in your prepared comments. Can you just talk about maybe initially the initial uptake of VFCache? And I
+realize EMC offers multiple options when it comes to deploying Flash, be it Tier 0, be it Project Thunder. I guess
+which form factor do you see eventually having a broader uptake and do you think you have all the pieces internally to
+play in the Flash deployments or would you need to look to do some acquisitions there? Thank you.
+<A - Joseph M. Tucci>: As opportunity would have it, Pat Gelsinger literally just walked through the door to listen
+and it will take us a second to give him a mic, which we will do, and I'll let somebody who knows a lot more about this
+subject than me answer the question. So, Pat, when you get the mic hooked up to you, please.
+<A - Patrick P. Gelsinger>: So thank you very much. VFCache, we really view Q1 as a seeding period for VFCache.
+Lots of early customer experiences. Lots of trials. Lots of environments in, as I think David commented in his remarks
+about Oracle Database environment, SQL environments, et cetera. We've started to seed them into the internet
+properties as well, right, which is where some of the other vendors have had early success. So Q1, clearly a lot of early
+interest from many, many customers across many, many industries, so we're quite excited about that.
+We're also starting to see the broadening of the product family as we go through the year. Clearly, a Thunder-like
+appliance is an easier product for an EMC sales force, right, and many of our customers don't want to be disrupting
+blade environments and others that occur. So we're actually seeing that there's a lot of interest for a Thunder appliance
+in many use cases. And as such, we're quite excited about that potential. We're just beginning, as we've indicated in Q2,
+we'll have the first early customer betas beginning for the Thunder appliance.
+With regard to the last piece of the question, we are clearly seeing that this is a hot segment of the industry. We have
+organic activities. We have many engagements with other industry players. We're not going to make any indications
+toward broader nonorganic plays, but we do see that this is a great opportunity for us and we've clearly accelerated our
+internal activities, both from the VFCache, Thunder, our use of MLC Cache as well as SLC Flash, as well as the hybrid
+array opportunities, which, as Joe indicated in his remarks, as clearly the large majority of the industry will be hybrid
+arrays for the long term.
+<A - Anthony T. Takazawa>: All right. Thanks, Amit. Next question, please?
+Operator
+Next in queue is Shebly Seyrafi with FBN Securities. Your line is open.
+<Q - Shebly Seyrafi>: Yes, thank you very much. So you did very well in VMware and in security, but in storage I
+think you were impacted by the high-end compare – difficult compare and the product transition. But I'm wondering if
+there's another factor in storage, competitive. Maybe you can talk about the competitive environment, especially in the
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 14 of 15
+channel versus, say, NetApp over the past six to nine months? Thanks.
+<A - Joseph M. Tucci>: Well, I said it a little bit of it before, Shebly. The – our 20% apples-to-apples growth I think
+was significantly faster than NetApp's – significantly faster. So – and our channel buildup is great. I mean, I've said
+many times that there was certainly a negative side with our kind of divorce from Dell, if you will, and I said there's a
+significant upside in that it always – the channel always reacted negatively to our Dell relationship and since we've had
+that divorce, we have really ramped up the channel and I really don't think there's any big company doing better in the
+channel right now than we are. We've made tremendous gains and get tremendous recognition and that's a big piece of
+our success and we're going to continue to hammer that home.
+<Q - Shebly Seyrafi>: Okay, thanks.
+<A - Anthony T. Takazawa>: Thank you, Shebly. Next question, please.
+Operator
+Next in queue is Daniel Ives with FBR. Your line is open.
+<Q - Daniel Harlan Ives>: Joe, could you just talk about specifically what you're seeing in Europe from your
+conversations with customers maybe compared to where we were three months ago or thoughts going through the year?
+<A - Joseph M. Tucci>: Yeah. Look, David, I got a little bit of that, too. But I'll give you a little bit of color. As a
+matter of fact, I was in Europe – I spent the week in Europe last week and I was in three different countries, UK,
+Switzerland and Italy and clearly, there's opportunity there, right?
+Things are not stalled. Clearly, everybody's worried about everything, whether it's the elections in France or Greek
+debt, I mean, everybody has got more than a few things to worry about and those conversations always come up in the
+business with CIOs and CEOs and COOs that I meet over there, government officials. But the private companies over
+there still got their heads down and they're moving forward and they have plans and they understand that if they stay
+still, they'll go backwards because it's very tough to stay still in a competitive global economy like this. So there are
+investment opportunities and I do think that at best, IT spending will be flat, but I don't believe IT spending will be
+down anything dramatically. I would say less than a percent down to flat is where if I had to call it or place a bet is
+where I would bet. So, obviously, there's a lot of caution. Everybody is looking over their shoulder, but there's also, in
+the business community, a lot of confidence in themselves, not as much in the governments but in the themselves and I
+think that bodes well.
+<Q - Daniel Harlan Ives>: Okay, thanks.
+<A - Anthony T. Takazawa>: All right. Thank you. We have time for one more question and then a few concluding
+comments from Joe.
+Operator
+Our next question comes from Katy Huberty with Morgan Stanley. Your line is open.
+<Q - Katy Huberty>: Thanks, David. I appreciate your comments around the incremental margin drivers you had in
+2011, but the reality is that first quarter is always your lowest operating margin and the guidance of 24% for the full
+year doesn't imply that much expansion as we move through this year. Can you just talk about what other than
+conservatism is driving that lower margin expansion? Thanks.
+<A - David I. Goulden>: Well, Katy, I think you are exactly right. You do need to look at things sequentially, and
+what I'm really saying is that we expect gross margins to increase sequentially from Q1 to Q4 this year. I pointed out
+that the sequential increase you saw last year, half of that was from the things that really we don't expect to reoccur.
+And just to put that also into context, when I look at the 290 basis points of gross margin improvement we achieved Q1
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-04-19
+Event Description: Q1 2012 Earnings Call
+Market Cap: 56,350.63
+Current PX: 26.85
+YTD Change($): +5.31
+YTD Change(%): +24.652
+Bloomberg Estimates - EPS
+Current Quarter: 0.420
+Current Year: 1.717
+Bloomberg Estimates - Sales
+Current Quarter: 5462.121
+Current Year: 22033.059
+Page 15 of 15
+this year versus Q1 last year, about half of that improvement was also from the three factors which I mentioned which
+we had occurring during 2011 that won't be occurring during 2012.
+So I do expect they'll be sequential margin improvement from where we are. Also bear in mind that we have been
+consistent upon our guidance for OpEx during the year. We said that we expect our SG&A growth to be in line broadly
+with revenue growth. And we expect R&D growth to grow faster. So we do expect OpEx to continue to increase as a
+percentage of revenue this year as we move through the year. So you put all those together and you can trend to a
+number that's pretty consistent with what we've implied in our guidance and those are really the moving parts.
+<Q - Katy Huberty>: Thank you.
+<A - Anthony T. Takazawa>: Thank you, Katy. Joe?
+Joseph M. Tucci
+Well, again, thank you for being with us today. Just kind of to summarize, we truly believe that our cloud, Big Data and
+trust strategies are right on and they are opening up expanded opportunities with our customers and they're creating
+exponentially more excitement with our partner ecosystem. Our 2012 product roadmap is strong. We have a really
+great team. We have that momentum I spoke about in my prepared remarks and confidence within EMC that we can
+succeed and we will talk to you more about our strategy and products and to that end, I would like to invite you to
+EMC World. It's always a place where we launch a significant number of products and there's more than a little bit of
+excitement there. So that's on May 20 and we invite you to join us. So, again, thank you for being with us today and I
+wish you all the best. Bye-bye.
+Operator
+Thank you for joining today's conference. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2012, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
