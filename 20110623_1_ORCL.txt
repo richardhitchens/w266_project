@@ -1,0 +1,543 @@
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 1 of 10
+Q4 2011 Earnings Call
+Company Participants
+• Kenneth Bond
+• Safra Ada Catz
+• Lawrence J. Ellison
+• Mark V. Hurd
+Other Participants
+• Adam Holt
+• Kash G. Rangan
+• Philip A. Winslow
+• John S. DiFucci
+• Brent Thill
+• Joel P. Fishbein
+• Jason Maynard
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, everyone, and welcome to today's Oracle Corp. Quarterly Conference Call. Today's conference is being
+recorded. At this time, I would like to turn the call over to Ken Bond, Vice President of Investor Relations for Oracle.
+Please go ahead, sir.
+Kenneth Bond
+Thank you, Operator. Good afternoon, everyone, and welcome to Oracle's Fourth Quarter and Fiscal Year 2011
+Earnings Conference Call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP
+reconciliation and other supplemental financial information, can be viewed and downloaded from our Investor
+Relations website. On the call today are Chief Executive Officer, Larry Ellison; President and CFO, Safra Catz; and
+President, Mark Hurd.
+As a reminder, today's discussion will include forward-looking statements, including predictions, expectations,
+estimates, or other information that might be considered forward-looking. Throughout today's discussion, we will
+attempt to present some important factors relating to our business, which may potentially affect these forward-looking
+statements. While these forward-looking statements represent our current judgment on what the future holds, these
+statements are also subject to the risks and uncertainties that may cause actual results to differ materially from
+statements being made today.
+As a result, we caution you against placing undue reliance on these forward-looking statements, which reflect our
+opinion only as of today, and we encourage you to review our most recent reports on Forms 10-K and 10-Q and any
+applicable amendments for a complete discussion of these factors and other risks that may affect our future results or
+the market price of our stock. And, finally, we are not obligating ourselves to revise our results or publicly release any
+revisions to these forward-looking statements in light of new information or future events.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 2 of 10
+Before taking questions from the audience, we'll begin with a few prepared remarks. And with that, I'd like to turn the
+call over to Safra.
+Safra Ada Catz
+Thanks, Ken. I'm going to focus on our non-GAAP results for Q4 and for fiscal year 2011. Then I'll review the
+guidance for Q1 and turn the call over to Larry and Mark for their comments.
+As you can see, we delivered yet another exceptionally strong quarter to complete a fantastic year for Oracle. We
+continued to have a lot of company-specific momentum, and we executed extremely well throughout the fiscal year,
+exceeding even our own optimistic expectations quarter after quarter. For the year, we achieved 25% new license
+growth in Q1, 21% in Q2, 29% in Q3, and including this quarter, we delivered 23% new license growth for the full
+fiscal year. Our software business is now even bigger than IBM's software business.
+For the year, we delivered 38% EPS growth in Q1, 33% in Q2, 40% in Q3, and including 25% this quarter, we
+delivered 33% EPS growth for the year, once again way ahead of the 20% growth we promised. Our non-GAAP
+earnings per share for the year were $2.22, well above the consensus estimate of $1.88 when we started the year. And
+unlike a few of our competitors, we're not delivering this EPS growth by aggressively reducing our share count.
+Obviously, we are thrilled with our Q4 results. This was Oracle's first $10 billion quarter. New software license
+revenue was up 19%, to $3.6 billion, accelerating from 14% in Q4 of last year. Currency effects for the quarter were
+largely as expected.
+We continue to see broad-based geographic and product momentum, as technology and new license revenues were up
+18%, to $2.7 billion in Q4, and applications grew 22% this quarter, to $1 billion, with Asia-Pacific particularly strong,
+including Japan, which grew during the quarter.
+Our North America applications business passed SAP a while ago, and now if you exclude Germany, we believe we
+have essentially caught up to them in Europe. Geographically, the quarter was strong and balanced, with new license
+growing 16% in the Americas, 24% in APAC, and 22% in EMEA, and the quarter wasn't dependent on any large deals.
+Software license update and product support revenues were up 15%, to $4 billion. Sun hardware system revenues was
+$1.2 billion for the quarter. We're running the Sun business on a more profit-aware model. Compared to Q4 a year ago,
+we have made a big move away from selling products at a loss or reselling other companies' products. Rather, we are
+focused on selling value-added systems, where Sun's differentiation is very clear to our customers.
+For example, non-Sun storage was down significantly. Sun storage and tape grew very well. And of course, Exadata
+and Exalogic continue to show fantastic growth. This strategy shows up in our hardware gross margins, which were
+56% this quarter, significantly higher than the 46% last year. Later this year, I expect the growth of the Sun hardware
+products to become quite obvious.
+Total revenue for the quarter was $10.8 billion, up 12% from last year. In addition to our strong top-line performance,
+we're extremely pleased with our non-GAAP operating income of $5.2 billion, 19% higher than last year, as our
+operating margin extended to 48%. We could be back at pre-Sun operating margins quite quickly, as there remains
+ample leverage in our business model. For the year, our operating income grew 27%, and even with the Sun hardware
+business included in our results for the full year, we delivered non-GAAP operating margins only 2 points below our
+all-time high.
+The non-GAAP tax rate for the quarter was 23.3% due to several favorable nonrecurring items, including agreements
+with worldwide taxing authorities. EPS grew 25%, to $0.75, on a non-GAAP basis. The fact that we were able to put up
+these top-line and bottom-line results, given our size, once again demonstrates the strength of our diversified portfolio
+of enterprise products, and the breadth and loyalty of our huge customer base, and the strength of our operating model.
+We now have $29 billion in cash and marketable securities, and operating cash flow increased to a record $11.2 billion
+for the year, while free cash flow increased to $10.8 billion. As we've always said, we're committed to returning value
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 3 of 10
+to our shareholders through technical innovations, strategic acquisitions, stock repurchases, prudent use of debt, and a
+dividend, and this quarter we repurchased 12.5 million shares, for a total of $422 million. For the full year, we
+repurchased 40.4 million shares, for a total of approximately $1.2 billion, and the board again declared a dividend of
+$0.06.
+Now, to guidance. As you remember, we had a spectacular Q1 last year, with new license up 25%, non-GAAP EPS up
+38%, and GAAP EPS up 20%. So, assuming exchange rates remain at current levels, which is right now a positive 5%
+currency impact on license and revenue growth rates, our guidance for Q1 is as follows: New software license revenue
+growth is expected to range from 10% to 20%. Hardware product revenue growth is expected to range from negative
+5% to positive 5%, and of course, that does not include the hardware support revenue.
+Total revenue on a non-GAAP basis is expected to range from 9% to 12%. On a GAAP basis, we expect total revenue
+growth from 10% to 13%. Non-GAAP EPS is expected to be $0.45 to $0.48. GAAP EPS is expected to be $0.33 to
+$0.36. Now, this guidance assumes a GAAP tax rate of 29%, and non-GAAP tax rate of 28.5%, which is nearly 4
+points higher than our tax rate in the previous year. Now, of course, this may end up being different.
+With that, let me turn everything over to Larry for his comments.
+Lawrence J. Ellison
+Thanks, Safra. Our database business grew 28% in Q4 and 26% for the year. That growth rate is twice as fast as any
+year this past decade. We're already more than twice as big as IBM, the former number-one and current number-two
+player in the database business, and we're consistently growing faster than IBM and taking market share away from
+them. Why is the Oracle Database business suddenly growing so fast? Because we have advanced our database
+technology to take full advantage of the latest trends in the database market – cloud-computing databases, end memory
+databases, and now big data databases.
+This year, we did a number of cloud computing deals, including a very large one with Salesforce.com last quarter. And
+this quarter, we did one with the biggest and best name in mobile devices and cloud computing in the world. That deal
+included our database software, Exadata machines, our cloud computing billing system, and our cloud e-mail system
+that scales to millions of users. It's all based on our technology.
+Today, more than 1,000 Exadatas are installed, and we plan on tripling that number this year. We think that's possible
+because Oracle apps run unchanged on Exadata. That's very different from IBM Netezza, which does not run Oracle
+apps or IBM DB2 apps or anything else except applications that are custom-built for Netezza. The expansion of our
+Exadata business and our rapidly growing Exalogic business, plus a couple of new hardware and software appliances
+we plan to introduce this fall, should turbo-charge the overall growth of our hardware business, making the top line and
+bottom line better than ever. We're very excited.
+Over to you, Mark.
+Mark V. Hurd
+Thanks. Safra walked you through the numbers. I thought I'd just hit on a couple key points. First, we sold a lot of
+software. And I've looked at the history books. I'm not sure this isn't one of the best numbers I'm ever aware of in the
+industry.
+A couple things that have us excited. First, our industry-focused business units grew faster than Oracle again, with
+broad-based strength across industries. Second, our 19% new software license growth was broad-based, with
+technology and apps both growing at very strong rates. It's the first quarter we've ever sold more than $1 billion in apps.
+We had great performance in every region, and delivered license fee growth in the mid-teens or higher in every region.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 4 of 10
+Fourth, we began to make material progress in hardware support attach rates. I'm not going to explain attach in detail
+today, but this is good news. The fundamentals of the business now is we are selling fewer units at higher prices, and
+we have higher margins, and they have higher attach rates. These are the fundamentals of a solid hardware business.
+Last, Exadata. Our sequential growth was more than 50%. That's big growth, and it was broad-based. We sold to more
+than 150 different customers, with close to half buying multiple systems. P&G, JPMorgan Chase, Apple, Fidelity,
+Boeing have helped us now cross the 1,000 systems mark in installed Exadata systems. We have 300,000 database
+customers running Oracle database workloads. Every one of them is a prospect for Exadata. The exciting news is, in
+addition to this, the Exalogic ramp has been even better than Exadata, and every one of our 100,000-plus middleware
+customers is a prime prospect for Exalogic.
+With that, I'll turn it over to Ken, and we'll take your questions.
+Kenneth Bond
+Thanks, Mark. Operator, we're now ready to take questions.
+Q&A
+Operator
+Thank you very much. [Operator Instructions] We'll take our first question from Adam Holt with Morgan Stanley.
+<Q - Adam Holt>: Great. Thank you. My question is about the hardware business. Actually, it's a two-part question.
+The first is on the actual product. How material was the headwind in the quarter relative to the shift in the model, and
+what gives you confidence that the product business starts to grow again? And then I guess on the support side, it looks
+like double-digit growth in hardware support, maybe a little bit more detail beyond just attach as to what's driving the
+strength there. Thank you.
+<A - Mark V. Hurd>: Well, let me start on attach, Adam. The reason attach is important – I think you know this – the
+eventual hardware support revenue is defined by the volume of hardware you sell times the attach rate, which is the
+service dollars that you charge for that support, and then how long the installed base stays there. And what we've done
+really is move to a model now where we've got the service lined up with the sales activity, that we attach the service to
+the actual sale. This may sound so elementary to you, but if you lose control of that in your process – that had happened
+previously – it's actually a difficult set of work to get that back, and we've done that, and that does start to lead over
+time to that incline in that hardware support revenue that you described. So, it is an absolute key element.
+The other point in the hardware business, Adam, just while we're on it, is that these fundamentals I described earlier are
+really important. Selling units that have no gross margin are easy to do. I could get – I won't give you examples of what
+I could, but we have ways of selling lots of hardware without getting margin. We're focused on selling hardware
+systems. We're now selling fewer systems at a higher price, that are of more value to the customer, that stay installed
+longer. These are – and also, we're doing that at higher margins. So, these are the fundamentals of a solid hardware
+business, and then of course, to the point we have to eventually grow that business on the top line, and you have a very,
+very attractive business model.
+<Q - Adam Holt>: Terrific. Thank you.
+Operator
+We'll go next to Kash Rangan with Merrill Lynch.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 5 of 10
+<Q - Kash G. Rangan>: Hi. Thank you very much. Nice quarter. I guess one for you, Safra, and if I could, one for
+you, Mark or Larry. Safra, nice guidance, nice cash flow – in fact, the guidance is a little bit better than what we were
+modeling. And we all read the same newspaper, so I'm just curious to get your perspective on how you might have
+incorporated what seems to be a questionable macro outlook in your forecast. And for you, Mark, if you could just
+comment anecdotally upon the attach rate of database licenses to Exadata, and also, the attach rate of middleware
+licenses to Exalogic, since you have obviously very ambitious goals for tripling the hardware business, that's got
+consequences for the software business, if indeed there's an attach rate trend there. That's it for me. Thank you.
+<A - Lawrence J. Ellison>: Yeah. Let me just sneak in before Safra answers the state of the macro economy. The
+attach rate to Exalogic would be 100% with our middleware. The attach rate to Exadata would be 100%. One of the
+nice things is Exadata and Exalogic will become a larger percentage of our overall hardware business. Having grown
+off a fairly small base now up to 1,000 machines and hopefully 3,000 machines next year, as that gets to be a larger and
+larger percentage of our overall base, that improves our profitability. Exadata is growing faster than the traditional Sun
+line, so it improves our top-line growth rate. And because of the 100% attach rate, it improves our service growth rate
+and our service margins.
+So overall is we sell more and more engineered systems and fewer and fewer undifferentiated systems. We make more
+money on the hardware sale. We make more money on the associated service. And it actually is an enabler that allows
+us to increase our rate of sales of our middleware software because our middleware software runs better on Exalogic,
+and that's the best middleware combination you can buy – Exalogic hardware and Exalogic software from Oracle. The
+best database combination you can buy is the Oracle database running on the Exadata machine. So, we actually sell
+more database software because of Exadata. We sell more middleware software because of Exalogic. It's a virtuous
+circle that we plan to fully exploit this current fiscal year. Safra, the macroeconomy?
+<A - Safra Ada Catz>: Sure. Well, Kash, I'll tell you nothing's really changed for us in the way we give our guidance.
+It really is from the ground up. And we've got guys around the world who roll in a forecast into us, and we take an
+additional review of it, but it's very much the same. The truth is that the economy is sort of as it is, and yet we continue
+to grow. This quarter, in case anyone missed it, was really basically an organic growth quarter for us. And the license
+number is pretty much very little help from any kind of acquisition, and obviously, significantly faster than any of the
+world's economies are really growing.
+So we've got a lot of very Oracle-specific momentum, and though we read the same newspapers you do, we also have
+to be sensitive to the fact that our sales force continues to grow. We've done a significant hiring and continue to be
+optimistic enough to continue to hire this next year. So, we're giving, I think, guidance that includes all those little
+pieces of information, but it's mostly based on the growth of our pipeline, and what we get from our fields around the
+world.
+<A - Mark V. Hurd>: Yeah, I might add too that we added 800 people to the sales organization this quarter, so if that
+gives you an idea of our Oracle-specific confidence in where the market is, that might be a good measurement for you.
+I told you last quarter we'd start hiring. We did. And to add to Safra's points, again, this growth was broad-based. I used
+the region example, and the different parts of the business, but I'd add there were no individual deals of materiality
+either. This is just good old broad-based organic growth.
+<A - Kenneth Bond>: Next question, operator.
+Operator
+We'll go next to Phil Winslow with Credit Suisse.
+<Q - Philip A. Winslow>: Hi, guys. Good quarter; just got two questions here, first one for Mark, and then Larry.
+Mark, there's been a lot of chatter just across Wall Street about some changes potentially going on with the sales force.
+Wondering if you could walk us through those tweaks that are being made, just sort of what the upside that you're
+going for is, and how you minimize disruption. And then, Larry, over the past month or so here, we've had a lot of big
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 6 of 10
+data announcements from competitors – Hadoop boxes, Netezza this week, and then EMC talking about HP Violin
+versus Exadata. Wondering if you could just discuss sort of where you see the market going, where is Exadata versus
+these other guys. Thanks.
+<A - Mark V. Hurd>: Sure. Let me start by giving you some answers on the sales force. Part of that adding more
+people is really doing some division of territories. This means that we actually put more territories in the field by being
+able to get more density of coverage out of our sales force. We believe we're under-distributed, full stop. And when we
+get in front of more customers, we actually sell more software, and so that's why we're adding more representation.
+These are both salespeople and presale people, technical people, if you will. They're in GBUs, as well as in our regions,
+and they are across all regions.
+So, for us, it's a simple case of if a salesperson, to give you an example, had 20 customers, we think there's
+opportunities for that salesperson to sell just as much software calling on five customers, and therefore, for us to get
+higher productivity. And that's what we're doing, and that's probably the chatter you're hearing. But it's within – and I
+want to emphasize – continuity of customers, same territories, very minimal disruption, just adding more resource that
+would get more reach out in the market.
+<A - Lawrence J. Ellison>: Well, we're planning to add a couple of appliances and announcing them this fall. One
+appliance – shouldn't surprise you, it's a large memory addition to Exadata for analytics and memory. So, we continue
+to invest. We've got – by the way, we've been the leader of in-memory database technology ever since we bought
+Times Ten, both for transactions and for query processing. As memories become cheaper and larger scale, we've
+changed a bunch of our algorithms, and this in-memory analytics accelerator is going to be, again, coming out, and
+we'll be announcing it in the fall at Oracle OpenWorld.
+In addition, attaching to our Exalogic box, there's a lot of misunderstanding about what Hadoop is, and is it a
+replacement for a database. So, Hadoop is not a replacement for a database. It's an adjunct to the database, which we
+think is very, very important. It really is a tool for Java programmers, and we're the world leader in Java technology,
+and we are building a big data accelerator to attach to our Exalogic box, which comes out also this fall.
+The big data accelerator includes some of the standard open-source Hadoop software, HDFS, the Hadoop file system, a
+number of other pieces, but also some Oracle components that we think can dramatically speed up the entire
+MapReduce process, and will be particularly attractive to Java programmers, who are the ones who ask for Hadoop.
+There are some interesting applications for Hadoop. ETL is one. Log processing is another. We're going to have a lot of
+those features, functions, and pre-built applications in our big data accelerator.
+So Oracle has always followed database technology trends, whether it's object databases and memory databases, and
+kept up with this technology, and quite often, led on innovation. I'll point to our Exadata database machine, where we
+were the first to take a software product, like Oracle, and marry it to specialized hardware. Teradata came out with a
+combination before, but IBM has yet. IBM still hasn't come out with an appliance that runs their DB2 database very
+fast. Instead, they kind of ran out and did an acquisition, as opposed to innovation in this area.
+So we have long been an innovator around the database, keeping it current, watching all of the trends, exploiting the
+technology, and that's been showing up in our numbers. And that 28% in Q4 and 26% for the year is really a stunning
+number, considering the size of our Oracle database business, and how much faster we're growing than our rivals, DB2
+and Microsoft's SQL Server.
+<Q - Philip A. Winslow>: All right. Thanks, guys. Looking forward to [indiscernible] (24:28) this fall.
+Operator
+We'll go next to John DiFucci with JPMorgan.
+<Q - John S. DiFucci>: Thank you. I have a question on the hardware business, and I think it's probably one that
+people are thinking about, and just want to give you a chance to address it. Hardware margins were strong. They're a lot
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 7 of 10
+– actually very strong. And as you noted, and it seems like, the higher-margin hardware business is doing better than
+the lower-margin business. But at the same time, it is the second quarter in a row where the number's a little lower than
+what you had anticipated or guided to. So, just kind of curious, why is that? It really hasn't affected your aggregate
+results, so it's – well, at least from my perspective, it's not a big concern. But at the same time, just wondering, is it as
+simple as the commodity business is sort of drawing down more quickly than you anticipated, or is it something else
+happening in that business?
+<A - Mark V. Hurd>: Hey, John. It's Mark. I'll start. I don't think it's any of that. I think we're just following the
+fundamentals of building a solid business, and that's what we're focused on. And I'll tell you one more time, I've been
+doing this a long time – longer than I want to admit, and I'm telling you, these fundamentals of protecting your base –
+and to be very blunt, as we go through the transition from Sun, we have to get more coverage out in the market. I think
+you know that. But we are putting more coverage out in the market to make sure we get that done, making sure we
+attach all the necessary peripherals, software, service to that attach. Those are the fundamentals we're working on. And
+if you followed what I told you earlier, there's no question we want to grow the top line. We want to grow the top line
+right. And so to grow the top line right, getting rid of these low-margin businesses is key, because we don't get the
+attach, there is no aftermarket, and I'd tell you from a shareholder perspective, that's valueless revenue.
+So, for us, we're focusing on that value revenue. You're going to see material growth in Exadata. You're now going to
+see growth from Exalogic that's going to participate as that becomes a more meaningful part of the portfolio. We'll be
+very focused on a couple of our competitors that we think have some vulnerabilities, and we will be going after them.
+And you'll see more alignment across the Oracle sales force as we go forward. So, focusing on those fundamentals,
+we'll be driving for growth, but very frankly, through Q3 and Q4, our number-one focus has been getting these
+fundamentals right. And as I'd tell you, numerically, I feel awful good about them.
+<A - Safra Ada Catz>: Yeah. Let me just also, John, add in – I commented on it in my presentation a little bit. As you
+know, we used to resell Hitachi, but the other big storage that we sold was LSI's Engenio line, which, I don't know if
+you know, but during the quarter was actually sold to NetApp. And so these are two product lines that we sold a lot
+more of, and especially the NetApp Engenio move happened during this quarter, and so our storage selling those new
+products is significantly down, while what you don't see is that our own storage business is up. It just didn't overwhelm
+the reduction in that storage, in the third-party storage that we're reducing aggressively, intentionally.
+<A - Mark V. Hurd>: And, John, one more time, you'd see the same fundamental in the server business, that the
+higher-end, high-margin stuff has the positive numbers, and you would see the x86 line with a declining number, where
+in that market, obviously, you get almost no attach either on the peripherals side or on the service side rate.
+<A - Safra Ada Catz>: We basically make a conscious effort when deals come in here. Sometimes extremely large
+deals come in at profitability that's just not acceptable. We just don't want to win them. They're not worth winning. And
+so we just walk away from those. Maybe for all of you, the top line, it would be better, but for us, we'd rather just make
+money than make revenues. We're funny that way.
+<Q - John S. DiFucci>: No, that's all fair enough, and I don't want to repeat what you said, but just so I understand it,
+we actually are seeing what you're saying. We're seeing it in the margins in the hardware business.
+<A - Safra Ada Catz>: Yeah. Again, we have Mark here. It's not like he doesn't know how to sell hardware. He could
+probably sell $100 million of hardware in an afternoon here, and maybe folks would be happier, but we just would
+make less money, and I just don't think that would really make anyone happy. We like to do it the better way.
+<Q - John S. DiFucci>: [Laughter] Okay. Okay. Thanks a lot.
+Operator
+We'll go next to Brent Thill with UBS.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 8 of 10
+<Q - Brent Thill>: Thanks. A question for Safra, just back to the new license guidance that you gave, that was a lot
+stronger than most of us had forecasted, and I guess if you could just maybe help us out in terms of, is that just how
+you're seeing the natural deals lining up for Q1, or did you have some spillover from Q4 that's giving you better
+visibility? And I had a quick follow-up for Larry.
+<A - Safra Ada Catz>: Well, Q4, we always have some spillover, and so that's always helpful. But it really is exactly
+like it always is, which is, we look at what the guys are forecasting. As Larry mentioned, these Exadata systems and
+Exalogic systems, they really help because you've got to buy software for those. And on the app side, we've been really
+on just a roll, and that's been very, very good. So, these are really the numbers as they roll up. I add my own little bit of
+conservatism. But, again, it's the summer, as it always is, and it's all about chasing those software contracts, often at the
+end of August when folks are on vacation. So, this is what we've come up with, and the same way we've always done it,
+and the guys are pretty optimistic.
+<Q - Brent Thill>: Great. And just for Larry on fusion apps, at OpenWorld last year, you mentioned that you thought
+there'd be 50 to 100 customers in the first half implementing that. I'm just curious if you could just give us a high-level
+update in terms of how Oracle Fusion is going, and what you think the next milestones we should be watching.
+<A - Lawrence J. Ellison>: We have a number of Fusion customers now that are live, and Fusion is being completely
+rolled out for accounting, for human resources, for sales force automation. It's something we've been working on for six
+years. We're the only application vendor now that offers the same exact technology as a service. It's offered as a service
+on our cloud. Or you can buy the software and put it on your private cloud. And, by the way, if you put it on your
+private cloud, we'll run it for you, if you want us to, behind your firewall, attached to your local area network with all
+the security inherent in that.
+Our whole approach to kind of, if you will, Cloud 2.0 is, people say we're not building multi-tenancy software.
+Remember that when I started my little company, NetSuite, and six months later when Marc Benioff started his
+company, Salesforce.com, that was over a decade ago when virtualization wasn't so common for isolating different
+customers running on the same machine.
+So Cloud 2.0, we use virtualized elastic cloud technology, very different than, let's say, what Salesforce.com was using
+more than a decade – almost 15-year-old multi-tenancy technology. We are offering much higher degree of security
+and much higher degree of isolation when you run on our public cloud, which looks a lot more like Amazon.com, let's
+say, than Salesforce.com. We think that modern technology has such a huge security advantage, that Salesforce.com
+will be facing very, very serious competition as Fusion is rolled out this year. And SAP has no answers at all. They've
+got nothing.
+So we've been competing very effectively against SAP over the last several years. We've passed them in North
+America. We've tied them in Europe, except in German-speaking Europe, and now they're faced with, what have you
+got for cloud? That would be nothing, while we have a completely rewritten suite of applications built entirely in Java,
+runs on Cloud 2.0, in an elastic cloud that's virtualized. We have technology advantages over Salesforce.com, but
+they've got nothing over at SAP. So, we think this is going to be a huge contributor to us this year, and the following
+year, and the year after that, and it's going to allow us to take a significant amount of share from SAP and some share
+from my friend at Salesforce, who, by the way – the Salesforce guys are a big customer of ours, so when they [audio
+gap] (33:40) we make money. When we sell ours, we make money. We like that.
+<Q - Brent Thill>: Thank you.
+Operator
+We'll take our next question from Joel Fishbein with Lazard Capital Markets.
+<Q - Joel P. Fishbein>: Hi. This is a question for Mark, just a follow-up on your comments during your prepared
+remarks about Exalogic accelerating or being on a faster trajectory than Exadata. Can you just give us some color on
+what's driving that and maybe some specific customer wins that you may have had in that area?
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 9 of 10
+<A - Mark V. Hurd>: You know, I think with Exalogic, you've got an opportunity now that you go to Java-based
+applications and get, in some cases, 2x, 3x, 4x better performance than what you had before. Now, most of these
+middle-tier suites are running on x86-like architectures. We get the opportunity to sweep up, if you will, that entire tier
+and integrate with Exalogic, and it's got a very similar set of characteristics to what you see in Exadata. You get a
+chance to get a superior TCO. So, when I show up with a 2x, 3x kind of number, you can take that in raw performance,
+or you can take it in lower cost, or you can dial in what piece of which that you would like. So, it's an extremely
+attractive value proposition.
+And to Larry's point, it's 100% attached to our middleware, 100% attached – and I think Larry said this, but I'll
+emphasize again, 100% hardware and software attached that goes with it from a service perspective as well, so very
+attractive value prop. But I'll make sure that during the quarter we're very aggressive with customer wins in terms of
+our messaging out in the marketplace. But the ramp, if you look per quarter, that we've done with Exalogic, faster than
+the early days of Exadata.
+<Q - Joel P. Fishbein>: Great. Thank you.
+Operator
+And we have time for one more question. That question will come from Jason Maynard with Wells Fargo.
+<Q - Jason Maynard>: Right on, guys. I'm going to shift gears here a little bit. I'm curious with, I think you said $29
+billion, you had a lot of cash on the balance sheet, and I'm just curious how you guys are thinking about the acquisition
+strategy. Valuations for a lot of private and small and mid-cap companies aren't necessarily at trough levels. There's
+also some folks out there who seem to think that Oracle has to buy to keep growing. Just what's your sort of philosophy
+right now? How would you sort of couch or guide us to think about the use of cash on the M&A front?
+<A - Lawrence J. Ellison>: Well, we had 19% software new license growth without acquisitions. And I think we're
+able to grow through acquisitions when they're attractively priced, and they make sense, and they are by and large not
+attractively priced now and don't make sense, so we're not doing them. These assets are wildly overpriced. We can't
+make a good business case for buying them. Instead, we can focus our energies on organic growth, which means
+increasing the size of our sales force, introducing additional appliances, additional engineered systems over and on top
+of Exadata and Exalogic, a couple that I've already mentioned here. So, we think we've got a lot to sell already and that
+we can grow organically by expanding distribution. We can grow by acquisitions when the opportunity presents itself,
+and the economics make sense. As I say, anyone looks at the valuations today, and we don't think they make any sense.
+<A - Safra Ada Catz>: Now, lucky for us, we are so broad-based that we're not just a software company. We're not
+just a hardware company, et cetera. We get to look in a lot of different areas, whether it's technology or vertical apps or
+whatever. And every once in a while we find a jewel, and as usual, we'll buy a little of this and a little of that, but we're
+not leaving the regular rigor pricing. Price does matter to us, and we just want to make sure it's a good business case
+when we do it. But, luckily, we've got a lot of opportunities. It's just prices have been quite ridiculous.
+<Q - Jason Maynard>: And if it's okay, maybe I can sneak one quick one in. Safra, you teased us a little bit by saying
+that you're going to be back to full-year pre-Sun operating margins quite quickly. I'm curious just how you're thinking
+about that operating margin profile, maybe not just this year, but sort of in the next couple years in terms of how fast
+that can ramp perhaps back to -
+<A - Safra Ada Catz>: I'll tell you, I'm really delighted at how fast we got already here. As it is, when you think about
+it, we ingested an entire hardware company, and we still have the highest – that was losing money. It was losing an
+enormous amount of money, a shocking amount of money actually. And we ingested it, and we still have the highest
+operating margins in the software industry. So, we actually have still a lot of leverage in our model, and there's really
+no reason why this year couldn't be really spectacular. And it will build throughout the year.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2011-06-23
+Event Description: Q4 2011 Earnings Call
+Market Cap: 155,323.30
+Current PX: 30.79
+YTD Change($): -.51
+YTD Change(%): -1.629
+Bloomberg Estimates - EPS
+Current Quarter: 0.571
+Current Year: 2.414
+Bloomberg Estimates - Sales
+Current Quarter: 9235.114
+Current Year: 38623.541
+Page 10 of 10
+But as things start to really show up in the numbers, again, you don't really see the ins and outs, the puts inside the
+hardware number, so you don't see what's happening there, though you do, at least, have some idea of when you look at
+the margins. And then of course, with the software business doing as well, and the enormous installed base of
+customers who renew their agreements with us every year – it's now like over 4 billion – there's a lot of room still in
+our model, and we've got a lot of leverage still in it. So, we're very upbeat. I think we look at this past year, and we're
+very, very pleased that we've had a hardware company in our numbers and we're still the highest, by a lot, of all the -
+<Q - Jason Maynard>: Good point. Good point. Thank you.
+<A - Safra Ada Catz>: Sure. Okay.
+Kenneth Bond
+Thank you. A telephonic replay of this conference call will be available for 24 hours. The replay number is
+719-457-0820 or 888-203-1112m, and the pass code is 9992261. Please call the Investor Relations department with any
+follow-up questions from this call, and we look forward to speaking with you, and thank you. I'll turn the call back to
+the Operator for closing.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2011, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

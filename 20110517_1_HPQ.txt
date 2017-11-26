@@ -1,0 +1,810 @@
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 1 of 15
+Q2 2011 Earnings Call
+Company Participants
+• Steven Fieler
+• Léo Apotheker
+• Catherine A. Lesjak
+• Ann M. Livermore
+Other Participants
+• Katy Huberty
+• Ben A. Reitzes
+• Richard E. Gardner
+• Toni M. Sacconaghi
+• Scott D. Craig
+• Keith Bachman
+• Bill C. Shope
+• Shannon S. Cross
+• Brian G. Alexander
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the second quarter 2011 Hewlett-Packard earnings conference call.
+My name is Alika, and I will be your conference moderator for today's call. [Operator Instructions] As a reminder, this
+conference is being recorded for replay purposes.
+I would now like to turn the presentation over to your host for today's call, Steve Fieler, Vice President of Investor
+Relations. Please proceed.
+Steven Fieler
+Good morning. Welcome to our second quarter earnings conference call with Léo Apotheker, HP's CEO; Cathie
+Lesjak, HP's Chief Financial Officer; and Ann Livermore, HP's EVP of Enterprise Business.
+Before we get started, I wanted to explain the decision to accelerate the timing of our Q2 earnings announcement.
+Yesterday afternoon, we became aware of a published media report quoting from an internal HP communication. While
+that communication did not contain information about HP's second quarter financial performance, we believe that
+having access to HP's second quarter financial results and fiscal 2011 financial outlook would assist investors in
+evaluating the information in the media report. We therefore determined the most prudent course of action under these
+circumstances was to accelerate our second quarter earnings announcement.
+Before handing the call over to Léo, let me remind you that this call is being webcast. A replay of the webcast will be
+available shortly after the call for approximately one year.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 2 of 15
+In addition, some information provided during this call may include forward-looking statements that are based on
+certain assumptions and are subject to a number of risks and uncertainties, and actual future results may vary
+materially. Please refer to the risks described in HP's SEC reports, including our most recent Form 10-Q. The financial
+information discussed in connection with this call, including tax related items, reflects estimates based on information
+available at this time and could differ materially from the amounts ultimately reported in HP's Q2 Form 10-Q.
+Earnings, operating margins, and similar items at the company level are sometimes expressed on a non-GAAP basis
+and have been adjusted to exclude certain items, including amortization of purchased intangibles, restructuring charges,
+and acquisition related charges. The comparable GAAP financial information and a reconciliation of non-GAAP
+amounts to GAAP are included in the tables and in the slide presentation accompanying today's earnings release, both
+of which are available on the HP Investor Relations webpage at www.hp.com.
+I will now turn the call over to Léo.
+Léo Apotheker
+Thanks, Steve, and thanks to all of you for joining us today on such short notice. As Steve mentioned, we felt
+announcing early was the right thing to do given the circumstances.
+As we discussed at our Summit in March, the forces of cloud and connectivity are changing the world of technology
+and creating exciting new opportunities. There are new market realities in this evolving world. And some companies
+will pay lip service to change but fail because they'll be stuck trying to protect their legacy business models. The
+winners will be companies who not only talk about the future, but also actually evolve their strategies and adjust their
+business accordingly.
+At HP, we intend to lead by making the right customer focused decisions to take advantage of the changing technology
+landscape and by executing aggressively on our long-term strategy. As always, these decisions need to be balanced
+with a focus on operational efficiency and prudent financial discipline.
+In the second quarter, we demonstrated our ability to execute aggressively, make the right decisions for our future, and
+drive operational efficiency. We achieved solid results, growing revenue 3% and gaining market share in key segments.
+From a profitability perspective, we expanded both gross and operating margins as we continue to drive a better
+portfolio mix. We grew non-GAAP EPS 14% versus last year. And we generated a healthy $4 billion cash flow from
+operations in the quarter.
+We continued to make investments in the business, with new innovations and incremental R&D spend. We announced
+many new offerings, including the successful launch of cloud systems, FLEX network and networking, and at the end
+of year, smartphones.
+Our customers had a very positive response to our strategy laid out in March. They are seeing us make good progress
+bringing together assets across the company. Cloud systems is a great example where we are leveraging converging
+infrastructure, software, security, and services to help customers build, manage, and consume cloud services across
+private clouds, public clouds, and traditional IT environments. We have already attracted thousands of customers in our
+pipeline.
+In Q2, we continue to demonstrate strength in our Commercial business across the company. Our Commercial
+business, which represents close to three-quarters of HP revenue, was up 8% year over year. ESSN [Enterprise Storage,
+Servers, and Networking] had another solid quarter. We continue to be the worldwide leader in service. And our
+networking businesses is innovating and steadily taking share. And I'm pleased with the improvements being made our
+software businesses, which grew total revenue 17% and license revenue 29% versus last year.
+IPG [Imaging and Printing Group] executed very well across the board during the quarter, with particular strength in
+commercial. IPG is working diligently with a Japanese data engine and toner supplier to address anticipated customer
+and financial impacts resulting from the earthquake and related events in Japan. More broadly, we're focused on
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 3 of 15
+working to minimize the expected supply chain impacts in our fiscal second half. We're thankful for the heroic efforts
+of those who are working to restore the situation, but HP will not be immune to the impact.
+In February, we highlighted two specific areas where we needed more attention: consumer PC and Services. Since then,
+we have done a great deal of work in each area, so let me give you an update on where we currently stand.
+The PC market continues to be bifurcated. On one hand, the commercial PC market remains strong. HP again grew
+commercial PC revenues double digits, gaining share sequentially and year over year. Our products and go-to-market
+are very well positioned to capture the ongoing corporate demand. On the other hand, the consumer PC market has
+continued to be challenging industry-wise. In Q2, consumer PC revenue declined over 20% year over year. Even
+though our consumer PC expectations had been cautious, the steepness of our Q2 decline is greater than what we had
+anticipated. We are remaining cautious in the near term.
+However, we are excited about the tablet opportunity. We'll be hearing and seeing more from our TouchPad in the
+weeks and months to come. It will be an exciting product release for HP.
+A quick update regarding PSG [Personal Systems Group] in China; Claude and his team have been very focused on
+driving our recovery plans. He made good progress in Q2, where we again grew double digits sequentially. We still
+have significant headroom to get back the share we lost, and we expect our momentum to carry into the second half.
+Now let me share the services. As I highlighted in March, services is an important part of HP's long-term strategy,
+giving us a platform to be more solution oriented and a better strategic partner with our customers. The significant
+services footprint also provides an architectural link with customers. So as customers look to optimize their traditional
+IT environment, transition to private clouds versus public clouds, or transform to a hybrid model, HP will help
+implement and manage these capabilities.
+That said, as I have been digging into our Services business when joining HP and diving even deeper over the past
+couple of months, I have concluded that we had a solid strategy for services, but we didn't invest in the past to support
+our strategy. Instead, HP focused on maximizing shorter-term margins. We have over-executed operationally and
+underinvested strategically. As a result, our short-term margin expectations have been too high. This has impacted our
+ability to create sustainable growth for the long term.
+In particular, we have not yet shifted our services mix to higher value, higher margin, and higher growth categories.
+You have seen it in our historical results. Our margins have expanded quickly and significantly but our revenue has not
+grown as fast as it can or should. And our mix of ITU application services, EPU, [ph] NTS (10:15) has been unchanged
+over the past several years.
+The same is true when I look at recent signings, which have been heavily weighted towards longer-term ITU deals. As
+we add ITU deals, our margin are pressured as we add head count faster than revenue during the startup phase. We
+want these ITU deals, but our customers are asking us to expand our application and BPO capabilities more quickly.
+So we have a choice point. HP can continue executing for some time along these same lines or we can improve the
+value of our Services business by better aligning our services strategy with the company's strategy. I've decided that
+we're not going to just talk about our future. We're going to aggressively execute on our strategy and make some
+immediate changes.
+First, due to the importance of increasing the value of our Enterprise Services business, we have decided to launch a
+search for an EVP for this business reporting directly to me. Ann Livermore, in addition to her role as EVP of our
+Enterprise business, will be the interim leader of ES. We also have decided to combine the Technology Services
+organization with the ESSN organization under Dave Donatelli's leadership. The TS business has made great
+improvement over the last several years. The next phase is to create greater go-to-market leverage with our products
+and embed more technology into our products to further alternate services.
+Second, we will accelerate portfolio investments and higher value-added services. We will deepen industry content. We
+will form a Business Solutions group to create more strategic value for our customers. We will enhance our services
+offerings in emerging areas such as cloud services and consulting, application modernization, business analytics, and
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 4 of 15
+mobility.
+Third, we will continue to enhance our delivery and sales capabilities. We will be increasing our bench strength in our
+Application Services businesses. We will continue to invest in our sales, business development, and delivery
+capabilities to increase customer satisfaction.
+Finally, we will continue to have a tight focus on operational excellence. We will move forward with modernizing our
+data centers and rationalizing processes, leveraging HP software. It is my top focus going forward.
+As I said in my opening remarks, companies need to evolve their strategies, adjust their business models, and execute
+aggressively to win during these technology shifts. This is exactly what we're doing. HP has the right long-term
+strategy, and I expect that the decisions announced today with our Services business will better align that business to
+our company's strategy, better enable us to meet the needs of our customers, and generate a more sustainable return for
+our shareholders over the long term.
+I now hand the call over to Cathie.
+Catherine A. Lesjak
+Thanks, Léo. In the second quarter, HP continued to build on our strategy of delivering cloud and connectivity from
+consumers through to enterprises. With disciplined execution, we successfully expanded both gross margins and
+operating margins. We grew non-GAAP earnings per share by 14% and generated $4 billion in cash flow from
+operations.
+Revenue for the second quarter totaled $31.6 billion, up 3% from the prior year. Commercial hardware was strong
+across the company, but we still saw weakness in consumer PCs. We had solid performance in industry-standard
+servers, ESS blades and software, double-digit operational growth in networking as it remains a large market
+opportunity, and continued momentum in commercial printing.
+By geography, revenue in the Asia-Pacific region grew 10% year over year or 4% in constant currency. Revenue in the
+Americas grew 2% or 1% in constant currency. And revenue in EMEA was down 1% year over year or flat and
+constant currency.
+Gross margin in the second quarter was 24.6%, up 100 basis points from the prior year due to a continued favorable
+commodity environment as well as favorable mix from networking, PSG, and software.
+We are investing some of our gross margin improvements back into the business. Total operating expenses were $4.2
+billion, up 10% year over year, with increases in R&D and deal selling costs, both of which are expected to enable
+revenue growth in coming quarters. As we have said before, we actively monitor and evaluate all investments against
+key milestones as we work to achieve our objectives and deliver results for shareholders.
+Non-GAAP other income and expense yielded a net expense of $76 million due to a more favorable currency impact.
+We delivered non-GAAP operating income growth of 3% year on year to $3.6 billion or 11.3% of revenue. Second
+quarter non-GAAP net income improved year over year to $2.7 billion, and non-GAAP diluted earnings per share
+increased 14% to $1.24.
+In the second quarter, we continued to execute on our cloud vision, including all aspects of the converged infrastructure
+from storage, servers, and networking to software and services. The Enterprise Servers, Storage and Networking
+business grew revenue 15% to $5.6 billion. Operating profit grew 1.5 times revenue growth or 23% to $766 million for
+the quarter. Operating margin of 13.8% was up 90 basis points from the prior year, driven by a favorable product mix
+and supply chain savings.
+Our Industry Standard Servers business remained number one in share across all three regions, with revenue growth of
+11%. Revenue in Business Critical Systems was up 1.5% year over year, with strength in NonStop enterprise servers.
+In addition, customers are responding to the low total cost of ownership and the reliability in our Superdome 2 system.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 5 of 15
+In Storage, there is tremendous interest in the 3PAR Utility Storage Solutions, as customers move to the highly
+virtualized and dynamically tiered storage arrays built for public and private cloud computing. 3PAR had another
+quarter of high double-digit operational revenue growth year over year, and we are now selling 3PAR solutions in 23
+new countries.
+Overall, HP Storage revenue increased 3% from the prior year, with strong growth in our scale-out products and data
+deduplication technology, partially offset by lower EVA revenue as some customers wait for the new product refresh
+this summer. HP remains number one in the blade server market and grew ESS blade revenue 20% year over year.
+HP Networking grew 118%, including the acquisition of 3Com, and 14% year over year on an operational basis. While
+our major competitors are seeing declines in their networking businesses, we delivered double-digit growth in our
+Switching and Routing business. We saw continued expansion of our proof-of-concept program and our recently
+launched FLEX network architecture significantly outperformed the incumbent's equivalent product.
+Léo talked you through some changes we are making to our Services business, but let me provide a bit more color,
+including the impact to our outlook. HP Services delivered revenue of $9 billion, up 2% from the prior-year quarter.
+We delivered operating profit of $1.4 billion, or 15.2% of revenue, down 60 basis points from the prior year. IT
+Outsourcing revenue was up 2% year over year. The business had good long-term contract signings, driven by
+renewals, and continues to drive healthy double-digit product pull-through.
+Application Services made progress in the second quarter, with revenue up 2% year over year and some improvement
+in its short-term project work. Technology Services revenue also grew 2%. And Business Process Outsourcing revenue
+was down 6%, or up 1% excluding the impact of the divestiture of ExcellerateHRO.
+In Q3 of fiscal '11, we expect Services margins to be 13.5% to 14% as a result of lower revenue growth in local
+currency, unfavorable mix, and investments we are making to further enable higher margin business. For Q4, we expect
+Services margins to be a bit higher than in Q3.
+To better position ourselves for the future opportunity, we will need to invest in building value-added services,
+increasing our bench, and building new delivery capabilities for these services. We expect Services revenue to grow in
+the low single digits on a reported basis in fiscal 2011.
+We are pleased to report the strong performance in HP Software, with revenue of $764 million, up 17% compared with
+the prior year, led by 29% license growth, 22% service revenue growth, and 8% support revenue growth. We see
+tremendous opportunity in our security portfolio and in our recent acquisitions, ArcSight, Fortify, and Stratavia. In fact,
+we gained almost a point of market share in the security and vulnerability market. Second quarter operating profit was
+$154 million or 20.2% of revenue.
+Turning to Personal Systems, PSG delivered revenue of $9.4 billion, down 5% from the prior year. We have firm
+traction on the recovery in China, and PSG revenue in China was up double digits sequentially and roughly flat year
+over year. We also gained nearly two points of share sequentially in China and have a good mix of new products in the
+channel. Across all geographies, however, we continue to see softness in the consumer PC markets that offset the
+strength in commercial clients.
+By form factor, desktop revenue was down 4% and notebook revenue was down 9% year over year, both impacted by
+the consumer. Total consumer client revenue was down 23% versus the year-ago quarter. In Commercial, the refresh
+continues. Commercial client revenue grew 13%, led by another strong quarter in workstations, which generated 28%
+growth.
+Segment operating profit totaled $533 million or 5.7% of revenue, up 100 basis points year over year as PSG benefited
+from favorable component pricing and product mix.
+Moving on to Palm, which is included in corporate investments, there is a lot of anticipation about the upcoming launch
+of the TouchPad and the build-out of the webOS ecosystem. We remained in the investment phase in terms of
+completing the software build, working with the developer community on the application ecosystem, and making sure
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 6 of 15
+that we get the product right. We are on track to ship the TouchPad this summer, as previously announced. WebOS is a
+differentiated platform that will redefine the user experience across HP's device solutions from consumers to enterprise
+and from smartphones to tablets and other devices.
+The Imaging and Printing business delivered solid performance in the second quarter, with revenue growth of 5% to
+$6.7 billion, led by commercial revenue growth of 7% and supplies revenue growth of 7%. Segment operating profit
+totaled $1.1 billion or 17% of revenue, while we continue to invest in innovation and growth. Total printer unit
+shipments increased 12%, with commercial and consumer printer units up 41% and 4% respectively, as we gained
+market share in laser printer hardware.
+We are seeing solid momentum in our growth initiatives as we continue to lead the market with innovative new
+products. Indigo Digital Press page volume was up 22% year over year. Our color laser and multifunction printer units
+grew 26% and 60% respectively, while business ink unit shipments increased double digits from the prior year, and
+shipments of wireless printer units more than doubled. In addition, we shipped more than 3 million web-connected
+printers in the quarter. We will continue to target these markets aggressively, leveraging our technology leadership to
+drive the shift from analog to digital printing.
+HP Financial Services continues to deliver strong, consistent results. In the second quarter, Financing revenue grew
+17% to $885 million. Financing volume increased 14%, and net portfolio assets increased 18%. Operating profit of $83
+million is up 20% year over year to 9.4% of revenue.
+Now on to the balance sheet and cash flow; our balance sheet remains strong. We closed the quarter with total gross
+cash of $12.8 billion. Our second quarter cash conversion cycle was 25 days, up eight days from the year-ago period
+due to a higher proportion of sales occurring late in the quarter. In Q2, days sales outstanding increased 10 days from
+the prior year. Inventories were up one day, and days payable increased three days year over year. Channel inventories
+in each business ended the quarter within acceptable ranges.
+We continue to generate strong cash flow, with operating cash flow of $4 billion and free cash flow of $3 billion, each
+up over 28% from the prior year.
+During the second quarter, we returned $2.9 billion to shareholders through share repurchases and dividends. At the
+end of the quarter, we had roughly $5.9 billion remaining in our current share repurchase authorization.
+And now a few comments on our outlook for the third quarter and full year; we are mindful of our colleagues and
+business partners that have been affected by the tragedies in Japan, and we respect the courage and resiliency of those
+who are working to address the situation. Our teams have been working around the clock to implement a contingency
+plan. Together with our partners, we are working as quickly as we can to minimize the impact to our channel partners
+and customers, but the situation remains fluid.
+We are expecting a temporary near-term impact to revenue and operating profit due to the events in Japan. We expect
+revenue to decline due to reduced demand in Japan and certain supply chain constraints in printing hardware and
+supplies. The total impact will be roughly $700 million of company revenue, or about 1% of company revenue in the
+second half, with about two-thirds of the impact in the third quarter. In addition to the margin lost on the revenue, there
+will be incremental costs due to the higher supply chain costs across the company related to securing parts and
+increased use of air freight and other costs relating to logistics. We expect the business to recover back to a normal run
+rate by the end of the calendar year, and we have incorporated these expectations into our revised guidance.
+Due in part to the expected supply chain impact from the earthquake and tsunami in Japan as well as continued softness
+in consumer PCs, we now expect Q3 revenue of $31.1 billion to $31.3 billion. For the full year, we expect revenue to
+be $129 billion to $130 billion.
+With respect to earnings keep in mind the following. First, we have revised expectations for the operating profit in the
+Services business of 13.5% to 14% of revenue in Q3; second, OI&E expense of approximately $150 million per
+quarter; third, a tax rate of approximately 22%; and finally, weighted average shares outstanding for fiscal 2011 of
+2.175 billion. Thus we expect third quarter non-GAAP earnings per share to be approximately $1.08. For the full year,
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 7 of 15
+we now expect non-GAAP EPS to be at least $5.00 per share.
+With that, we will now open the call to your questions.
+Q&A
+Operator
+[Operator Instructions] Your first question comes from the line of Katy Huberty with Morgan Stanley. Please proceed.
+<Q - Katy Huberty>: Good morning. Léo, you talked in your opening remarks about companies that will fail because
+they protect legacy businesses. And with two guidance resets in a row, is it time, in your view, for HP to reconsider
+whether you really need to participate in some of the businesses that are dragging down performance? Or do you think
+you can invest fast enough in new growth segments to offset declines that we're seeing, like in PCs right now?
+<A - Léo Apotheker>: Yes, good morning. At HP, we do a regular portfolio review to assess the performance of each
+one of our businesses. And we assess these businesses according to their contribution to the business and their
+contribution to our strategy and the value it can generate to our customers.
+It's interesting that you point out PCs. If you look at the performance of PCs, it has a two-faced approach and a
+two-faced execution. On the one hand on the commercial side, we see a continuous demand for PCs, 12% growth
+again, and we are the market leader in this business. And we see some weakness on the consumer side.
+We believe that we have a great strategy to execute towards our connectivity approach, and we are very excited about
+our TouchPad coming out in particular in the summer. And as we all believe that there will be a convergence of these
+different form factors over time, TouchPads, PCs, et cetera, and in particular notebooks, we believe that it is a great
+opportunity for HP to participate in this. Of course, we will continue to assess the value of each element in the portfolio
+as we continue to look at our business. But right now, I believe we have a balanced portfolio.
+<Q - Katy Huberty>: And just as a follow-up to that, any sense for timing as to when we could see you step up and
+make some acquisitions?
+<A - Léo Apotheker>: We are, at the same time as we look at the portfolio, of course are looking at acquisitions as
+well, in particular in areas we want to growth faster such as software. But we will not abandon our prudent M&A
+approach. We want to make sure that we are financially prudent and strategically wise and that we are mindful of
+shareholder value. But we are scanning the market we are actively engaged in. As in the past, we will be looking at
+acquisitions for the portfolio or at organic growth or at both.
+<Q - Katy Huberty>: Thank you.
+<A - Steven Fieler>: Let's move to the next question, and I'll remind the analysts to let's keep it to one question, please.
+Operator
+Your next question comes from the line of Ben Reitzes with Barclays. Please proceed.
+<Q - Ben A. Reitzes>: Yes, thanks a lot. Léo, you recently laid out a $7.00 earnings figure for 2014 after doing $5.00
+this year. I think it takes12% EPS growth each year to get there; so my question is can you still get there based on what
+we've heard today, and how?
+And then I just was hoping Cathie could clarify the near-term guidance. It seems like the cut for 3Q versus the Street is
+two-thirds services, one-third Japan and consumer. I just wanted to clarify that. Thanks.
+<A - Léo Apotheker>: So let me answer your question first. We are making tough decisions today to set us up for the
+future. And in the long term, we have multiple levers to drive our EPS growth. The investments we are making today
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 8 of 15
+will help create sustainable growth, including sustainable EPS growth. And we are focused on an improved business
+mix and continued operational excellence, including a better mix in each one of our businesses; for example, in
+Services as demonstrated by today's public decision. Our long-term model is to grow operating profits faster than
+revenue and EPS faster than operating profit. So yes, I can confirm that we are maintaining our $7.00 EPS target.
+Cathie?
+<A - Catherine A. Lesjak>: I'm sorry, Ben. I forgot the second part of your question? You wanted to basically get a
+bridge on the guidance? Is that what you were asking for?
+<Q - Ben A. Reitzes>: Yes. When you do the math on the cut in services, it seems like there's $0.09 to $0.10 due to
+services versus the Street, and then there's $0.05 or $0.06 left over. I just wanted to confirm that that math is in the
+ballpark of how you guys were thinking of it.
+<A - Catherine A. Lesjak>: So let me talk a little bit about revenue and EPS bridges. So we continue to be prudent in
+our Q3 and our FY '11 revenue outlook, and there are a couple main reasons for that prudence. The first one is that we
+are expecting this temporary near-term impact to revenue and operating profit as a result of the events in Japan. We do
+expect revenue to decline as a result of reduced demand in Japan as well as certain supply chain constraints that are in
+our printing hardware and supplies business. The total impact for the half is roughly $700 million of revenue, company
+revenue, or about 1% for the half of revenue; and two-thirds of that impact is going to hit in Q3. Then in the past
+quarter, we also saw consumer PC growth or decline more exaggerated than what we had expected when we gave our
+guidance at the end of Q1. And this continued softness in consumer PCs is now reflected in our revenue guidance.
+From an EPS standpoint, we factored in both the impact from the revenue guidance and the associated profits, as you
+would expect, that relate to Japan and the PC consumer weakness. And then in addition, we've got incremental supply
+chain costs across the company that are related to securing parts; and also the fact that we will increasingly use air
+freight as opposed to sea shipments in order to meet customer demand.
+And then we've also revised our expectation around profitability for our Services business. And as I mentioned in my
+prepared remarks, you should look at an operating margin in Services in Q3 of roughly 13.5% to 14% of revenue. And
+then going into Q4, it should get a bit better.
+<Q - Ben A. Reitzes>: Thanks a lot.
+Operator
+Your next question comes from the line of Richard Gardner with Citi Investment Research. Please proceed.
+<Q - Richard E. Gardner>: Okay, great. I'd just love to get a little bit more detail on the reduction in the Services
+operating margin assumptions for the third quarter. Could you provide a little more detail on how much of that is new
+deal ramps versus the investments that you're talking about? And then maybe talk about how long, Léo, you think it
+will take to execute this transformation in services and whether it's going to be organic or at least partly acquisition led.
+<A - Catherine A. Lesjak>: So let me start with some of the headwinds that we see in the Services margins for the
+second half. Really, as we talked about last quarter, revenue in the Enterprise Services business has really not grown as
+fast as it can or should. And as we start up new ITO [Infrastructure Technology Outsourcing] deals, we do defer some
+of the revenue and costs associated with the data center transformation. But ultimately, there's a mismatch between the
+revenue and the cost in the early phases of the project, and so the margins are significantly depressed in these early
+phases. And then we've got – much of the strong ITO signings have been renewals, which obviously come with
+additional price concessions and, in some cases, additional runoff.
+The second factor is unfavorable mix, and we talked a little bit about this last quarter as well. The revenue and signings
+have been heavily weighted to the lower margin ITO business, and we have not been ramping up the value-added
+Application Services business basically fast enough. And that's why we are making some of these decisions this quarter
+to reset the margins and make investments. So finally, included in our plan is the continued investment in building our
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 9 of 15
+delivery and sales capabilities and also enhancing our portfolio in these higher value-added solutions. As an example,
+in our Application Services business, we will be increasing our bench or the number of people who are available on
+accounts to basically sell add-on Application Services business. And it will allow us, obviously, to respond better to
+customer demand. And this has left us with – the sum total of these has really left us with a higher fixed cost structure
+than what was expected originally in Services, and frankly not a very rich margin until some of these ITO deals get
+through the transformation and transition phase.
+<A - Léo Apotheker>: Let me just pick up where Cathie left it and try to answer the other part of your question. As
+you can see, we are about to engage in a significant transformation of the Services business. And to be totally candid
+with you, in fact we are now going to execute the strategy that was outlined on the Services business years ago. It
+should have been happening quite some time ago that we should have been moving into these higher value-added
+businesses than it did ultimately in the past. So it will happen now, there's no doubt about that. So we will execute
+starting as of today. There are a number of things that we have already planned that we can talk about in our
+organizational setup. For example, we have started a search for a new EVP for our En [Enterprise] Services
+organization. That person will report to me. Ann Livermore, who is here today as well, will be the interim head of
+Services.
+Our Technology Services will move together with our ESSN business under the leadership of Dave Donatelli. We
+formed a Business Solutions and Industry Services group, led by two very senior executives. The Business Solutions
+group will be developing industry specific IP that will be taken to the market and sold as IP or delivered as a service by
+the Industry Services group.
+So all these steps are being taken; it has a bit of an impact on the margins, as Cathie has just outlined, in the second half
+of this year. And going forward, it is going to be a solid business that will perform. And by the way, just to make sure
+that you all have a good benchmark, even after the reset of the margins, we compare favorably with our main
+competitors in this business from a margin perspective. And going forward our Services business, in particular as of FY
+'12, will be a solid, strong, additive business to our mix. And we look forward to see the value that is going to be
+generated there.
+<Q - Richard E. Gardner>: Léo, could I just ask you to address the questions regarding how long the transformation
+might take and whether it's organic versus acquisition driven?
+<A - Léo Apotheker>: We're talking about an essentially organic change. All of the things that we're talking about will
+be organic. There might be a small acquisition here or there, but consider it essentially as an organic change. And
+Services transformations take some time, which is why we give you clear guidance on the second half of the year. And
+we'll be happy to talk to you again in September when we do the analyst meeting.
+<A - Steven Fieler>: Next question, please.
+Operator
+Your next question comes the line of Toni Sacconaghi with Sanford Bernstein. Please proceed.
+<Q - Toni M. Sacconaghi>: Yes, thank you. I just wanted to follow up on the Services expectations. It sounds like
+these are largely Professional Services transformations. So your PS business, which is about half of your Services
+business, feels largely unaffected. And organizationally, you're actually migrating it, so that would be supportive of the
+fact that it's unaffected. So my sense is you're calling for maybe a 200 or 250 basis point reduction in operating margins
+on half of your Services profit. So that's about a 500 basis point decline on your Professional Services side of the
+business, which I think probably has single-digit margins today. That seems like a pretty dramatic reset. So one, can
+you confirm that TS is unaffected and that my interpretation of the reset is indeed the case?
+And then perhaps you can – I'm still not sure whether this is because of deals that you've signed recently that need time
+to ramp, which doesn't feel like a change, or it's because you're going to make substantial investments to the tune of
+400 or 500 basis points on a go-forward basis. Perhaps you can clarify that.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 10 of 15
+<A - Catherine A. Lesjak>: So Toni, I can confirm that the TS business is unaffected by the changes that we're
+making right now on what we call the Enterprise Services side of the house. But it is important to understand that the
+TS business is not half of the total Services business. It's a smaller percentage of that.
+<Q - Toni M. Sacconaghi>: Of the gross margins?
+<A - Catherine A. Lesjak>: Pardon me?
+<Q - Toni M. Sacconaghi>: Not of revenues, of gross margin – of operating margins, it's not close to half?
+<A - Catherine A. Lesjak>: Actually, that's a better – it's a different question.
+<Q - Toni M. Sacconaghi>: Okay. That was the assertion. It's half of the operating margins. And therefore, the
+reduction that you're calling for in overall Services margins for the remainder of the business is double that, which is
+about 500 basis points.
+<A - Léo Apotheker>: Let me maybe step in here for a second, and Ann can chime in as well. Our Enterprise Services
+business has higher margins than what you seem to alluding towards. We usually don't discuss that, but I can assure
+you that it runs at a higher margin than what you are describing.
+Let me maybe try to give you some color on what's really happening, and then you can draw your own conclusions.
+The reason why we're taking action is not because we can't continue driving the business as it is today. We could
+probably do this for a certain number of quarters going forward. And then we would probably be sitting here with a
+business that is running out of steam, and that's certainly not something we intend to do. So we are taking action to
+align our Services business model to our long-term Enterprise strategy. And we want to offer our customers higher
+value-added solutions. And we want to help them migrate to and manage a [ph] hybrid (42:20) cloud with a traditional
+environment.
+Our current Enterprise Service mix is weighted to slow growing, and I insist on that, the slow growing and relatively
+lower margin areas of the Services market. And we need to add some higher IP and intellectual capital content. And we
+need to use the automation using our HP technology, so that if we do all of this, we expect to change the mix of our
+Services business to the faster growing and higher margin areas of the services market. And if we do all of this, then we
+will position this business well. We will grow it at or at above market while delivering unprecedented value to our
+customers and better return for our shareholders. That is our strategic intent, and that is what we are still going to
+execute.
+<Q - Toni M. Sacconaghi>: Thank you for the clarification, Léo. I was just trying to probe a little further on the
+magnitude of the investment because if it's unaffected in TS, that suggests a substantial investment, and I'm trying to
+understand. Is it really incremental investment in terms of new businesses and feet on the street, or is it some of the
+things that Cathie appeared to be alluding to on previous questions about where you signed a bunch of ITO deals
+recently and they're low margin and they're going to take some time to climb higher? That actually doesn't feel like an
+investment. That just feels like a life cycle thing. So I'd appreciate a better clarification of what's going to cause this
+pretty significant depression in margins in the near term.
+<A - Léo Apotheker>: So what Cathie was describing are the root causes of why we need to make some changes. And
+what we are going to do, and I will give you some color on that, is that we are going to make some investments in order
+to move towards higher margin areas. Ann, would you like to comment?
+<A - Ann M. Livermore>: Sure. Toni, to your point, we do have, as a result of the great ITO signings that we've had,
+these upfront investments. So there is an aspect that are the life cycle costs for where we are on some of these deals and
+how many we've had starting up.
+There's also an aspect in the ITO market. We want to make some additional investments around building out further
+security capabilities because we have huge demand here. That's an area we'll be investing in with some additional
+resources, and also some of our cloud-based services inside ITO. And those are the higher margin additional services
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 11 of 15
+we can sell on top of or alongside ITO deals, so that's one area of investment and also some comments on your life
+cycle point. The other investments are – Léo had mentioned investments in our industry focused solutions, both in the
+services aspect as well as in some intellectual property we're developing around our industry-based solutions.
+And then finally with the Applications Services market, that's a big, attractive market for us. And we've been
+performing very well in the Applications Management part of that market, but we have strong customer demand and
+not enough capability yet today in other aspects of that market. So we're taking some actions to redouble our focus
+there and make some investments in it. We've added some new people to the team in terms of the leadership. And we're
+also investing to have more capabilities in apps modernization and our cloud work around the application space and
+mobility and things like business analytics. So these are resource and capability development investments that we're
+making.
+And then you also heard the comment that Cathie made about investing in the bench. We actually had too tight a bench
+in our Application Services business. We needed more people on the bench. We had customer demand, but we couldn't
+sell into it because we couldn't immediately address that demand. And what we figured out was we actually need to run
+with a little heavier bench. And we know that this is a practice that many of our competitors do that allow us to do
+more of the short-term signings. So all of those are actions we're taking that I would consider investments in addition to
+just where we are in the ITO deal.
+<Q - Toni M. Sacconaghi>: Thank you.
+<A - Steven Fieler>: Next question, please.
+Operator
+Your next question comes from the line of Scott Craig with Bank of America Merrill Lynch. Please proceed.
+<Q - Scott D. Craig>: Yes, thanks. Good morning. Maybe to switch gears and go over to the Printing business for a
+minute, when you look at the supplies revenue, it seems stuck in the mid-single-digit area year over year despite the
+fact that you're seeing really solid hardware growth, especially in commercial. So typically I would have expected some
+acceleration by now. So has something changed in the supplies buying pattern or pricing or usage or anything like that
+that you can point to? And do you expect to see an acceleration maybe over the next couple quarters given the
+hardware placements? Thanks.
+<A - Catherine A. Lesjak>: So Scott, I think if you go back to other calls that we've had, we've basically said that we
+think that the long-term growth of the Services – not the Services, the Supplies business is low to mid-single digits.
+And so this being in the mid-single digits is, in fact, maybe a bit higher than we had expected on a sustainable basis at
+7%. But we talked about low to mid, and that's really what we think is what the Supplies growth you guys should think
+about on a long-term basis. And again, from quarter to quarter, we may have things that are a bit higher, a bit lower, but
+that's how we think about the business.
+<A - Steven Fieler>: Thanks, Scott. Next question, please.
+Operator
+Your next question comes from the line of Keith Bachman with Bank of Montreal. Please proceed.
+<Q - Keith Bachman>: Hi, guys. Sorry about the background noise, but maybe you can go back to Services for a
+second. And Ann, maybe this is for you. When I hear about the deployments and investments you're making, Services
+is a long lead time turnaround. It sounds more – the activities that you're pursuing would help in mid-FY '12 since the
+sales cycle on a Services deal is a long time. So I just wanted to see if you could give some clarification around what
+the potential timing impact is.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 12 of 15
+And related to that, Ann, you alluded to the fact that you're doing things that your competitors have been doing. How
+does this really position HP in competitive advantage? It sounds more like you're striving for competitive parity.
+<A - Ann M. Livermore>: So on a couple of your points, all of the actions that we're taking are within the guidance
+that Cathie has provided for you in terms of expected revenue and EPS; and not just EPS but operating profit for
+Services. So we've taken into account the amount of time some of these investments and actions take to ramp in the
+guidance that you've got. And some of them, of course, provide shorter return than others. In some cases where we're
+adding resources, in the Security space, there's immediate demand for those resources, so it's a lot shorter return for us
+and in areas like that, so we feel very good about that. We've hired a number of people inside our Services organization
+from across the industry over the last year. And when they come into HP, they're almost in awe of the portfolio and
+capabilities we have; and in fact are surprised by in our Services business how much capability we have.
+What we're talking about now is being able to invest in a lot of the new areas that our competitors don't have a better or
+stronger position than we have today. If you look at the areas like the services we can do around security and the
+software assets we have, it's a huge differentiation. So one of our Services areas of differentiation is very closely tied to
+the technology and applications and IP that HP has inside our Software business, inside our Product business. So I
+think that's a very differentiated position that I would stand up against anybody. And it's the combination of those
+software assets, those products, and the services we can build around them that gives us a very differentiated capability.
+The other thing we've got is we've got an installed base of customers who want to buy more from HP and are very
+interested and eager for us to provide these additional services. And many of our competitors don't have that. We've got
+an installed base who want us to provide more of these services. So I think those are quite differentiated opportunities
+for HP. And particularly the IP that we're developing around the industries and that we have based on our software
+portfolio is quite differentiated.
+<A - Catherine A. Lesjak>: I think the other thing to remember in the Services business that doesn't show up in the
+Services segment is a lot of the pull-through that we get because of the relationships that we've got within those
+accounts. And the pull-through again this quarter was up significantly in the double digits. So we continue to see good
+improvement in the pull-through that helps our entire portfolio.
+<Q - Keith Bachman>: So, Cathie, just to clarify...
+<A - Steven Fieler>: Thanks, Keith; next question, please?
+Operator
+Your next question comes from the line of Bill Shope with Goldman Sachs. Please proceed.
+<Q - Bill C. Shope>: Okay, great. Thanks. Given that you've determined that you've previously underinvested in
+Services and you're appropriately increasing investments to address this, can you comment on how you're thinking
+about other elements of the Enterprise business? Do you believe historical investment levels were appropriate in these
+segments, and are you comfortable with your current investment levels there?
+<A - Léo Apotheker>: Let me try to answer that question. So as I said in my opening comments, we have been
+looking at all of our businesses rather carefully, including Services, and have reached the conclusion that you've just
+heard about. The good news is that if I look across the HP business, there are other businesses where we are doing
+really well and where we had made some of the good decisions, and we are actually now getting some of the benefits of
+that.
+Let me just give you two good examples for that. One is networking, where we see great performance happening, and
+where we outgrow our competition. We produce much better product at a significantly better price performance ratio
+than anyone else, and that's why we're winning so much. We're adding a lot of innovation there as well with new
+products, including our FLEX network software. And as we're adding IP to our various businesses, we are creating a
+differentiation.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 13 of 15
+Let me point out another business where we're doing extremely well that hasn't been talked about too much today, our
+Software business. And while we talk about the overgrowth of the Software business, as you know very well, you
+should measure Software businesses by the growth in licenses. And there we grew by 29%, which shows that once you
+start going into differentiated aspects of the business, you start to invest in IP, you reap the benefits of it. So overall, I
+think we were in line.
+<A - Steven Fieler>: Thanks, Léo. Thanks, Bill. Next question, please?
+Operator
+Your next question comes from the line of Shannon Cross with Cross Research. Please proceed.
+<Q - Shannon S. Cross>: Thank you, a question for Ann and Léo. I'm just curious as to how the decisions that are
+being made on the Services side mesh with the $1 billion charge that you took back in June. And I know, Léo, you
+weren't there at the time, but I'm just curious as to if there were things that were incorporated within the restructuring
+that you did in Services that you're backtracking on. Or was that just one of the steps in getting to a more optimized
+business?
+<A - Catherine A. Lesjak>: Let me just provide some context. So there were really two components of the
+transformation, the charge that we took for the transformation last June. There's a labor element and a non-labor
+element. In terms of the non-labor investment or actions that we took, including data center consolidations and network
+rationalizations, we're a bit ahead of plan. On the labor side, we are a bit behind in the plan. And what we're doing is
+we are evaluating migration basically contract by contract to make sure that we're getting the right return on those
+migrations, and this is taking longer than we had originally intended. But there are certainly aspects of this
+transformation that are very much in line with the actions that Léo has talked about that we need to continue to do.
+<A - Ann M. Livermore>: Yes. I think Cathie summarized that well. Another part was the standardization of some of
+the tools that we actually use in our IT delivery, and that's something that is on track and we're pleased with as well.
+<A - Catherine A. Lesjak>: I would also say there's more in this area that we had planned to do in 2012. And we
+certainly would love to be able to pull some of that forward and are looking at what we can pull forward so that we can
+get done more quickly. But there is just a lot of activity on the Services side, both on continuing to focus on the cost
+structure and making sure we've got the right cost structure in the right locations, as well as the investments that we
+need to make to get us into more higher value-added services that tend to be the higher growth areas within the services
+market.
+<A - Steven Fieler>: So, operator, we'll take two more questions here.
+Operator
+Your next question comes from the line of Brian Alexander with Raymond James. Please proceed.
+<Q - Brian G. Alexander>: All right. I guess using the midpoint of your third quarter and your full-year outlook, it
+implies that the fourth quarter revenue is up about 10% sequentially, which is in line with historical seasonal trends.
+And it implies operating margins are up about 100 basis points, which is also, I think, seasonally normal. So it looks
+like you're anticipating just a one quarter reset followed by business as usual. I understand Japan is temporary and
+maybe some of the improvement in the October quarter is due to less of a drag from Japan. But what gives you the
+confidence that beyond the July quarter it will be business as usual given what appears to be more of a multi-quarter
+transformation in the Services business, where you don't even have a leader in place to set the direction?
+And I realize you're not guiding for next year. But back to Keith's question, as you think about the Services business
+next year, are you assuming that it grows low single digits in line with your long-term trends? And are you assuming
+margins will be no worse than the 13.5% to 14% you talked about today? Thanks.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 14 of 15
+<A - Léo Apotheker>: You say that very correctly. We are not giving guidance for FY '12 or forward, but I just want
+to reiterate a few points we made earlier. First of all, we reconfirmed the target we set out for ourselves during the
+Summit of $7.00 EPS for FY '14. We maintained that target. And the reason why we believe we will achieve this is,
+among others, the adjustments we are making today in the Services business.
+The Services business can be levered, in particular as I mentioned before, through our IP. And we will need to add IP to
+our Services business, on the one hand as IP, and on the other hand as intellectual capital that differentiates ourselves
+from others. I believe that we can achieve this over the next coming quarters. And we have the delivery capability and
+the service capability to bring this successfully to customers. There is demand out there. It dovetails really well with
+our cloud strategy and the huge demand that we see in the market for cloud migrations, cloud adoptions, and cloud
+transformations. So we are dovetailing into this.
+We are also generating new revenue streams. I mentioned software earlier on. There are others that are coming. So I
+believe that we are well positioned. And as we are making these changes today, we will be able to capture the wave
+tomorrow; i.e., in FY '12. And we will be able to discuss this in much greater detail when we meet in September for the
+analyst meeting.
+<A - Catherine A. Lesjak>: And if I can just be a little more tactical; so in Q3, I said the Services margins would be
+13.5% to 14%, and then what I said for Q4 is that it's a bit better. It does not get back up to the high 15% to 16% range
+that we saw in the first half.
+<Q - Brian G. Alexander>: But Cathie, does it get a bit better next year off of that Q4 level?
+<A - Catherine A. Lesjak>: I'm sorry, pardon?
+<Q - Brian G. Alexander>: Does it get a bit better off of the Q4 level next year?
+<A - Catherine A. Lesjak>: So we will talk about next year when we have our securities analyst meeting.
+<A - Steven Fieler>: So operator, actually we're out of time here, so I think I'll hand it over to Léo for some final
+comments here, and we'll the call.
+Léo Apotheker
+Thank you, Steve. HP delivered a solid quarter in Q2 with earnings and cash flow expansion, driven by aggressive
+execution and continued success with our customers. Looking forward, we see a world where technology is changing
+and significant market opportunities are been created. And as we outlined today, we are making the right decisions to
+best position HP for the long term, including a deliberate focus on accelerating the higher value mix of our Services
+business. I'm excited about our future and look forward to updating you on our progress. Thank you.
+Operator
+Ladies and gentlemen, this concludes our call for today. Thank you.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2011-05-17
+Event Description: Q2 2011 Earnings Call
+Market Cap: 38,822.07
+Current PX: 19.97
+YTD Change($): +5.72
+YTD Change(%): +40.140
+Bloomberg Estimates - EPS
+Current Quarter: 0.810
+Current Year: 3.467
+Bloomberg Estimates - Sales
+Current Quarter: 28157.000
+Current Year: 113062.120
+Page 15 of 15
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

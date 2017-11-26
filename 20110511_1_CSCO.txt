@@ -1,0 +1,1271 @@
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 1 of 23
+Q3 2011 Earnings Call
+Company Participants
+• Laura Graves
+• John T. Chambers
+• Gary B. Moore
+• Frank A. Calderoni
+Other Participants
+• Jeff Kvaal
+• Tal Liani
+• Mark Sue
+• Simona Jankowski
+• Ittai Kidron
+• Nikos Theodosopoulos
+• Paul Silverstein
+• Ehud A. Gelblum
+• Brian Modoff
+• Brian J. White CFA, MBA
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to Cisco Systems third quarter and fiscal year 2011 financial results conference call. At the request of Cisco
+Systems today's conference is being recorded. If you have any objections, you may disconnect. Now I would like to
+introduce Ms. Laura Graves, Senior Director of Global Investor Relations for Cisco Systems. Ma'am, you may begin.
+Laura Graves
+Thank you very much, operator. Good afternoon, everyone. Welcome to our 85th quarterly conference call. I'm joined
+today by John Chambers, our Chairman and CEO; Frank Calderoni, Executive Vice President and Chief Financial
+Officer; and Gary Moore, Executive Vice President and Chief Operating Officer.
+Our Q3 fiscal year 2011 press release is on the U.S. high-tech Marketwire and on the Cisco website at
+newsroom.cisco.com. I would like to remind you that we have a corresponding webcast with slides. In those slides, you
+will find financial information that we cover during this call as well as additional financial metrics and analysis that
+you might find helpful.
+Additionally, downloadable Q3 financial statements will be made available following the call, which will include
+revenue by geography and as well as product categories. Income statements, full GAAP to non-GAAP reconciliation
+information, balance sheet and cash flow statements can be found on our website in the Investor Relations section.
+Click on the financial reporting section of the website to access these documents.
+A replay of this call will be available via telephone from May 11th through May 18th at 866-357-4205, or
+203-369-0122 for international callers. A webcast replay is available from May 11th through July 22nd on Cisco's
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 2 of 23
+Investor Relations website at investor.cisco.com.
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results. The financial
+results in this press release are unaudited. The matters today include forward-looking statements and as such are subject
+to the risks and uncertainties that we discuss in detail in our documents filed with the SEC specifically the most recent
+reports on form 10-K and 10-Q and any applicable amendments which identify important risk factors that could cause
+actual results to differ materially from those contained in the forward-looking statements.
+Unauthorized recording of this conference call is not permitted.
+With that out of the way, now I would like to turn the call over to John for his commentary on the quarter.
+John T. Chambers
+Laura, thank you very much. I would like to start off our call today by crystallizing for you where Cisco stands at this
+point in time. The network is driving the future of the core internet and has clearly become one of the most valuable
+assets in IT. Cisco is extremely well positioned to lead this change. In short, Cisco is a very strong company in a
+healthy market with a few problematic areas and that we are taking comprehensive action to address.
+The first of these is simplifying actions that we're going to do and focus on our organization and operating model. As
+we announced last week, we are streamlining our organization and overhauling our business model dramatically. We
+are making it easy for our customers and partners to do business with us and speeding up internal decision making.
+Second, aligning our cost structure given the transitions in the marketplace. We will take out $1 billion in costs from
+our FY12 expense run rate. We also expect changes in how we do business will assure a lower cost base going forward.
+Third, divesting or exiting underperforming operations. As we have already started to do this, we are examining our
+operations through the filter of the five company priorities as well as our own comprehensive metrics.
+Fourth, delivering value to shareholders. We are working on both the financial and operational fronts to realize value
+that rewards our shareholder for their investment and their support. We have initiated a quarterly cash dividend. We are
+continuing our stock repurchase program, and we are focused on making changes that improve our operations in order
+to realize consistent profitable growth, and assure the most appropriate use of our domestic available cash.
+We are moving quickly and will continue to implement our action plan to fix what is broken and solidify our
+foundation for the future. Gary will continue to lead that effort. We will be in a position to outline the next phase of our
+transformation when we report Q4 earnings. As a result, while Q3 met expectations, Q4 will continue to show
+weakness while we do the hard work behind the scenes to be able to execute these changes and we will provide for Q4
+guidance that reflects that lag.
+We know what we have to do. We have a clear game plan. We are a company with a track record of constant
+market-shaping innovation. We've had to make big changes before, and each time we have made these changes, we
+have emerged even stronger. We are embarking on a course that will address our challenges while building on our
+foundational strengths.
+Now, for more on the format of today's call. First, we will share our perspective on our current environment, how we
+are moving forward aggressively with an action plan to address challenges we are seeing while staying focused on our
+long-term vision and strategy in areas that we are working well across Cisco. Second, we will share with you the areas
+of our business that are under pressure including what we view to be market driven versus what we think are within our
+own control. Third, a discussion of what is going well across Cisco; and fourth, the specific plan and actions we have
+taken and will take going forward to strengthen Cisco. Gary Moore will cover much of this during your portion of the
+section.
+We will then cover Q3 business and financial highlights followed by our guidance for Q4. I will cover the business
+highlights and Frank will cover the financial highlights and Q4 guidance and finally we will outline our expectations
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 3 of 23
+going forward and move into Q&A.
+Starting with the current environment. As we make these changes we will stay very focused on five company priorities:
+leadership in our core, i.e., routing, switching and services which includes comprehensive security and mobility
+solutions; second, collaboration; third, data center virtualization and cloud; fourth, video; and fifth, architectures for
+business transformation. These five company priorities are the key drivers of the future of the network and core
+internet.
+Our customers know Cisco is uniquely able to deliver in these areas to support their business success. These strategic
+priorities are the constants that will guide us. They offer the most significant and certain opportunities to increase value
+for our shareholders. At this time, we have acknowledged our challenges and the need for speed. With progress already
+underway, we are intensifying our focus and accelerating our pace to the level I know we are capable of and we have
+clearly demonstrated in the past. This is exactly what we are addressing now.
+Moving on to areas of concern, as we have discussed before, we've had several areas of our business come under
+pressure: consumer, traditional set top boxes, switching, and our public sector customer segment. We have taken action
+in our consumer business and are executing well with our next generation of video delivery and IP set top boxes, so I
+will focus on the two remaining primary areas that impact our business today, switching and the public sector.
+First, switching. The switching market is in the midst of a significant transition. Across the industry, prices at each
+speed have been driving down price per port along with significant transitions from 1-G to 10-G where we're at the
+forefront of this innovation. This is good for our customers as it will enable faster and more efficient infrastructure long
+term and will enable even faster adaptation of cloud-based solutions. As we have said previously, in the short term, this
+has placed pressure on our revenue opportunities across the market as customers have begun to adopt these new
+technologies.
+Specific to Cisco, our gross margins have come under pressure due to the transition of our own products at the high end
+of our switching portfolio as customers adopt the Nexus 7000. The gross margins of the remaining Catalyst and Nexus
+switching product lines have continued to improve over the course of this fiscal year to our traditional switching gross
+margin levels. In order to address this shift, we have introduced a new series of innovative products in our switching
+portfolio over the last couple of quarters, our largest ever product portfolio refresh in such a short time period;
+introduced and seen traction in our architectural approach addressing the convergence of service providers and
+enterprise customers. We are the only skilled player in these two customer segments and are uniquely positioned to
+address this opportunity. We are transforming both our cost and organization structure that will make us more efficient.
+Gary will be discussing this shortly with you.
+From a product capability and innovation perspective, we are positioned well. As a skilled market leader with the
+broadest switching portfolio of products to serve our clients, we are highly leveraged to benefit as this market
+stabilizes. With all the appropriate caveats, we feel we are also well positioned to get our fair share of any market
+growth.
+Now on to public sector. We are seeing a broad focus on cost reductions in public spending in almost every developed
+market around the world. We shared our initial concern about public sector spending in the U.S. state and local
+government several quarters ago. We are in almost every sector of government, every category of public sector, and
+with the vast majority of our business being new every quarter, we tend to experience challenges and opportunities
+quicker than others.
+You may be starting to see these public sector challenges, granted in earlier stages from some of our industry peers.
+While we maintain our strong market share position in this customer segment, we are rapidly focusing our resources on
+share of spend within these government environments with emphasis first on data center evolution, especially as it
+relates to cloud and second collaboration. And these are the areas where our customers are telling us they want the
+innovation and are where we have to go in terms of they have budget to spend.
+Public sector historically has been approximately 20% of our business. Routing and switching represent our largest
+market share in this segment, and we must address very aggressively the dramatic spending changes that will occur. We
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 4 of 23
+have seen significant declines in the growth rate of our public sector business since the beginning of our fiscal year
+going from over 30% year-over-year four quarters ago to declines in the current quarter order growth rate of 8% in Q3.
+No excuses. We must adjust quickly. We are and we will.
+Now there are many areas that are going well and that's what we're going to focus on at this point in time, including
+solid sales growth across our key markets, market share improvements in some of our key product areas and in a
+number of cases, actions to continue to drive improvements in gross margins. Cisco is the leading network provider for
+our customers and the network has clearly become one of the most valuable assets in IT.
+Let me just focus on some key areas in terms of the opportunities and current momentum. First, let's start with
+collaboration, which is already at a $4 billion pace from both revenue and order perspectives. Our year-over-year
+revenue growth in collaboration has been consistently strong over the last five quarters, exceeding 25% growth in every
+quarter, and in Q3 at 39%. These include the benefits of our TANDBERG acquisition. With collaboration, our
+TelePresence flagship products continue on a very strong growth path. Our TelePresence solutions reached an annual
+revenue run rate of $1.15 billion with product revenue growth in Q3 at approximately 25% year-over-year as
+normalized for TANDBERG.
+Second, data center virtualization and cloud which is approaching a $1.5 billion annualized revenue run rate growing at
+31% year-over-year and an order run rate of $1.8 billion growing at 61% year-over-year in Q3. Our UCS server
+experienced strong momentum and pipeline growth across almost all of our geographies and customer segments. We
+grew our UCS customer base by 1,570 customers to approximately 5,400 customers during Q3, with product orders
+now at an annualized run rate of $900 million. We are rapidly gaining market share in the data center as networking,
+storage and compute comes together.
+Third, emerging markets continues to be an opportunity for Cisco. While results will always vary with geopolitical
+factors such as those that you are seeing today, our largest emerging countries are doing extremely well. For example,
+in the BRIC countries Brazil grew at 18%, Russia grew at 14%, India grew at 44% and China grew at 16% from an
+order perspective in Q3 year-over-year.
+Fourth, Asia Pacific continues to have very consistent and strong results with Q3 product order growth at
+approximately 14% year-over-year.
+Fifth, global enterprise and commercial continues on a very strong pace especially in the U.S. In Q3, total global
+enterprise grew at 12% year-over-year and commercial grew at 14% year-over-year in terms of orders. The U.S. grew
+even faster in both categories than the global total.
+Sixth, we continue to gain both mind share and architectural leadership in many of our global service provider
+customers. In key areas that are very important to them such as cloud, convergence and the network, storage and
+compute, new business models, video, mobility and security, we are positioned extremely well. Service provider video
+remains a key priority for Cisco and for the service provider business. The development and delivery of our Videoscape
+platform and solutions will not change. Our service provider video strategy has been and will remain network centric
+and will continue to include in home connected devices such as next generation set-top boxes.
+Seventh, services, which represent approximately 20% of our total revenue, grew 14% year-over-year. Gary, nice job.
+Now on to our plan going forward and actions that we have and will take. We are taking very specific steps to address
+our challenges and we are moving quickly. We are identifying key areas of work over the next several quarters:
+simplified, focused and more efficient organization and operating models; aligning cost structure given the transitions
+occurring; managing our portfolio where we either eliminate or cut back on lower producing areas.
+What we have done to date: aggressively addressed our organization and operating model, first, by appointing a COO;
+second by reorganizing sales, engineering and services; third, moving away from a broad council and board structure,
+implementing clear decision-making responsibilities while strengthening the connection between strategy and
+execution across functional groups; and finally, continuing to streamline operations across the company.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 5 of 23
+We've addressed noncore elements of our portfolio in the consumer business closing Flip and restructuring home
+networking, cutting lower performing programs. I asked Gary Moore to become Cisco's Chief Operating Officer with a
+specific mission to drive strategic prioritization and accountability within Cisco, with a laser focus on simplifying
+operations. I would like to turn the call over to Gary to discuss how we are addressing our action plans.
+Gary B. Moore
+Thank you, John. Let me walk through some of our plans to address the three key areas of work that John outlined. As
+we look at our portfolio, the first step is aligning our resources with Cisco's five priorities...
+John T. Chambers
+Tongue-twister, isn't it?
+Gary B. Moore
+It sure is.
+[Laughter]
+That is aligning our people and our investments so that we can move with speed and agility in the highest impact areas.
+We will also simplify the way we run our business, prioritizing investments to run, grow and optimize our business.
+For example, a comprehensive portfolio review has begun starting with the consumer business where you have already
+seen us take significant actions. We are looking at our portfolio from the perspective of both current and long-term
+market potential and return perspective, and you will see us make choices and tradeoffs in the months and quarters
+ahead. We will keep you posted on these decisions.
+In terms of simplifying our organization and operational model, we have already taken aggressive steps by reorganizing
+the major functions of sales, engineering and services as well as moving away from a broad council and board
+structure. Under this new organization structure we will be accelerating the pace of innovation and our technology
+refresh cycles as well as driving clear accountability for top and bottom-line performance.
+Our more than $5 billion R&D budget will be focused on accelerating our leadership in our core products and next
+generation technology platforms while employing world class product development processes. To achieve this, we are
+focused on speeding up the time to innovation by reducing the complexity of decision making and allowing for greater
+agility on the part of our engineering leadership. We have appointed two seasoned leaders who now have clear
+functional leadership and accountability for our world-class engineering team.
+To align our cost structure, we will focus on a number of areas. First, we will achieve gross margin improvements
+through product simplification, aggressive value engineering, maximizing commodity pricing opportunities, and
+enhanced supply chain strategies. From an expense reduction perspective, we are also looking across the business with
+an emphasis on actions where we can lower costs and improve operating margins.
+As John mentioned, we will take approximately $1 billion out of our annual expense run rate, using Q4 as our base, the
+majority of which will be executed upon by the end of Q1 fiscal year '12. Expense reductions will come from the
+consolidation and streamlining of our processes, portfolio rationalization and simplification of our operating model and
+an enhanced focus on workforce deployment levels.
+As we look at our workforce, our first step was to reorganize our major functions. We are now taking the next two steps
+in parallel. We're continuing the process of assessing our portfolio and what's needed to fuel the growth of our
+prioritized opportunities. We are strategically reviewing and determining where we need to reduce, align and redeploy
+our existing workforce, to support our priority areas. To be clear, we do anticipate a work force reduction on a global
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 6 of 23
+basis affecting both our full-time and contractor workforce. We are taking the time needed to do what's right for our
+business and for our people.
+Outcomes from these two parallel moves alongside a review of initial steps taken like the early retirement program that
+we recently announced, will provide us with a solid view of the next actions we need in order to plan for a head count
+reduction that we can execute with precision. The decision to include head count reduction of our full time and
+contractor workforce as a way of reducing expense was difficult. It is not something we take lightly and we will
+communicate exactly what these decisions mean to our employees by the end of summer.
+Decisions will be made in compliance with all laws governing labor practices in any affected location around the
+world. As our people would expect from Cisco, we will treat our employees and contractors with respect, support and
+fairness. Our values here are very clear.
+Again, we are taking these broader steps and expense reductions to address our challenges quickly as we reinforce our
+strengths. On the other side of these changes, you will see that we are, one – or we have, one, reset our expense base to
+align our financial model with our growth and driven operating leverage in the business; two, established clear
+accountability that is aligned to our top priorities; three, simplify our cross-functional model so our people can put
+greater focus on our customers; four, improve the ease of doing business for our customers and our partners; five, more
+tightly align to our global operations; and finally, number six, clarify and empower decision making for improved
+competitiveness and agility.
+At this time, I would like to turn it back to John.
+John T. Chambers
+Gary, nice job and good the first time through. We will update you as appropriate during our Q4 call, and you can
+expect a broader dialogue around our business model and capital structure at our financial analyst conference for
+shareholders in September.
+Now I'd like to move on to discussion of Q3 business momentum and Q3 highlights in Q3. As Laura said at the
+beginning of the call, there will be an accompanying set of slides covering much of the additional data we have covered
+in prior calls. So I'll cover this one, Laura, at a little bit higher level and we will provide that so everyone can see the
+detail that many people have asked about in the past.
+So from a high level geographic perspective, which is the primary way we run our business, this analysis will be done
+in terms of orders and as a reminder, by comparison, our Q3 this year included one less week than Q3 of last fiscal
+year, 2010.
+First, the U.S. was approximately flat with the strength in enterprise and commercial offset by the public sector and the
+reductions in our consumer business. Second, European markets were mixed, again doing better in the Northern region
+than the Southern region, with strength in enterprise offset by weakness in the public sector. Third, as we discussed in
+detail earlier, our emerging countries are performing extremely well, especially the BRIC countries. Fourth, Asia
+Pacific continued to be our most consistent performer with enterprise, service provider and commercial all growing in
+the mid to upper teens. Nice job, Edzard and team.
+From a customer perspective in terms of year-over-year growth, global product orders, Cisco total grew in terms of
+products 4% year-over-year, enterprise grew 12%, public sector decreased 8%, service provider grew 3%, commercial
+grew 14%.
+From a product revenue perspective on year-over-year basis, routing grew 7% with high-end routing growing 12% and
+mid-range routing decreasing by minus 2%, while low end routing decreased by minus 4%. High end routing accounts
+for approximately 70% of our total routing business.
+New product revenue grew 15% year-over-year with collaboration at 39%, the data center at 31% from a revenue
+perspective, security at 2%, wireless at 32% and video connected home decreasing by 5%.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 7 of 23
+In terms of a couple of new products that may be of interest to you, our Nexus 2000 and 5000 grew 105% and 29%
+respectively year-over-year. ASR 1000 grew at 46%, ASR 5000 grew at 353% and ASR9000 at approximately 140%.
+Now let me turn it over to Frank for a discussion on Q3 financials and Q4 guidance. Frank, to you.
+Frank A. Calderoni
+Thank you, John and good afternoon, everyone. As John just mentioned, our comparison for Q3 FY11 does include one
+less week than the 14-week base than we had in Q3 FY10.
+During the quarter, we increased total revenue to $10.9 billion, up 5% from the prior year. Our total product revenue
+was $8 billion which $3.3 billion was switching. This represents a 5% quarter-over-quarter increase in revenue, while
+our switching product transitions continue to gain traction as evidenced by the performance of our Nexus product line
+and the new fixed switching products in the data center and campus. We did see a 9% decrease in switching revenue
+year-over-year.
+Routing revenue was up 11% quarter-over-quarter and 7% year-over-year to $1.9 billion. The growth reflects continued
+acceptance of the new CRS in our core. Overall strength in our edge ASR product families and the stability in access
+routing with increased adoption of ISRG2.
+The new products category, totaling $3.3 billion, increased 15% year-over-year and 2% quarter-over-quarter. Total
+service revenue was $2.2 billion and that was up approximately 14% from the prior year. We did experience
+year-over-year growth of 12% in technical support services and approximately 19% in advanced services.
+Looking at our result by theater, revenue increased across all geographic segments on a year-over-year basis ranging
+from 11% in emerging markets to 3% in our Asia Pacific markets. U.S. and Canada and our European market both
+came in with 4% year-over-year revenue growth and beginning in the first quarter fiscal 2012, we will report based on
+the three new geographic segments that were announced in our press release on May 5th.
+Total product book to bill was approximately 1.
+Our Q3 FY11 non-GAAP total gross margin was 63.9%, up 1.5 percentage points quarter-over-quarter and down 1.3
+points year-over-year. Non-GAAP product gross margin for the third quarter was 63.1%. That was up 2 points from
+last quarter. The increase was primarily due to cost savings and the impact of certain non-recurring items. We also saw
+some benefit from the higher volume and mix driven by the lower consumer business in the quarter. These effects were
+partially offset by pricing and discounts. On a year-over-year basis, our non-GAAP product gross margin was 63.1%,
+down 2.2 points primarily driven by pricing and discounts and product mix, which was partially offset by cost savings
+and volume. We saw a consistency quarter-over-quarter in our non-GAAP service margin of 67%, up from 64%, 64.8%
+in Q3 FY10. For total gross margin by geographic segment, please refer to the accompanying slides.
+Turning to the expense slide, our third quarter non-GAAP operating expenses were approximately $4 billion, which
+represented 36.7% of revenue. Our non-GAAP expenses increased $44 million from prior quarter or 1%. This past
+quarter, our expenses, which were lower than anticipated, are a result of expense savings due to a significant reduction
+in hiring, lower variable compensation and sales commission and discretionary expense spending.
+Non-GAAP operating margins for the quarter was 27.2%, our non-GAAP net income for the third quarter was $2.3
+billion, a decrease of approximately 5% year-over-year. As a percentage of revenue, non-GAAP net income was
+21.6%. GAAP net income for the third quarter was $1.8 billion as compared to $2.2 billion in the third quarter of fiscal
+year 2010. Non-GAAP tax rate was 21% for Q3 FY11.
+Our non-GAAP earnings per share on a fully diluted basis were $0.42. That was flat year-over-year and our GAAP
+earnings per share for the quarter were $0.33 versus $0.37 in the same quarter of fiscal year 2010.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 8 of 23
+During Q3 FY11, we did recognize restructuring charges to our GAAP financial results with a pre-tax impact of
+approximately $150 million, and this was in connection with our consumer business. This included the announced exit
+of our Flip video business and included charges related to inventory, supply chain, severance and other items.
+Now moving on to our balance sheet. We did close the quarter with a total of cash, cash equivalents and investments of
+$43.4 billion. That was up $3.1 billion from last quarter which included net additional borrowing of $1.5 billion as well
+as continued strong operating cash flow of $3 billion. Of this balance, $4.6 billion was held within the U.S. at the end
+of the quarter.
+Accounts receivable balance at the end of Q3 was $4.4 billion with a DSO of 37 days as compared to 40 in the second
+quarter. We ended the quarter with total inventory of $1.4 billion with non-GAAP inventory turns of 10.3, which was
+up 0.3 compared to last quarter. We had inventory purchase commitments of $4.3 billion, which was up approximately
+10%, or $382 million quarter-over-quarter and this increase in purchase commitments was driven primarily by securing
+supply components in Japan, which contributed approximately $300 million of that increase.
+John T. Chambers
+Frank, on a quick net on that, our Japan team did an amazing job within two areas after the earthquake occurred: not
+only were we watching out for our people, the supply chain crisis management team kicked into gear and we went
+through all the tiers of our delivery cycle, and I just want to congratulate them. I thought it was just amazing what
+Angel and team did there.
+Frank A. Calderoni
+Excellent job, I agree, John.
+John T. Chambers
+And also on the team, I just want to say [indiscernible] (32:25), he did an amazing job with our employees. I just want
+to make sure they hear that as well.
+Frank A. Calderoni
+With an increase of 14% -
+John T. Chambers
+Sorry, didn't mean to get you off stride.
+Frank A. Calderoni
+That's good. I think that was an important comment.
+With an increase of 14% year-over-year, we ended the third quarter with deferred revenue of $11.7 billion, $3.7 billion
+of which was deferred product revenue and $8 billion of deferred services revenue with increases of approximately 6%
+and 17% year-over-year respectively.
+This quarter included share repurchases totaling $1 billion of 54 million shares and our first quarterly dividend payment
+of $329 million.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 9 of 23
+At the end of Q3, our head count was totaling 73,408. This was an increase of 473 from last quarter, approximately
+40% of which were from acquisitions and the remainder were critical hires in sales and services in support of our
+partners and customers.
+Let me now provide a few comments on our outlook and our guidance for fourth quarter. Before I get to the numbers,
+let me remind you again that our comments include forward-looking statements and actual results could materially
+differ and as a reminder, Cisco will always be affected by major economic change, capital spending patterns, new and
+existing competitors, potential issues affecting our suppliers, our ability to execute or not on our strategy and risk
+factors discussed in our SEC filings.
+The guidance is based on our current pipeline and our view of the business trends based upon the information that we
+have available today and this could be above or below our guidance if any changes do occur.
+As John mentioned we will take approximately $1 billion out of our annual expense run rate using Q4 FY11 as the base
+and the majority of which will be executed upon by the end of Q1 FY12. In connection with these actions, we expect
+there to be future restructuring charges to our GAAP financial results. Given where we are in the process, the extent of
+the additional restructuring charges relating to these activities are not currently known.
+In the third quarter, we did recognize charges relating to our first steps in support of our plan by restructuring our
+consumer business. We expect to take further restructuring charges in Q4 as related to our consumer business of
+approximately $40 million, bringing the total aggregate pre-tax charge for Q3 and Q4 to approximately $190 million.
+In Q3, we also identified an opportunity to allow for a segment of our population in the U.S. and Canada to take
+advantage of a voluntary early retirement program similar to the program that we introduced in 2009. We do expect
+pre-tax charges to our GAAP financial results relating to the program in Q4 in the range of $500 million to $1.1 billion.
+The extent of the charge will be dependent upon the number of employees who voluntarily elect to participate in this
+program.
+During the quarter, it is our goal to grow orders faster than revenue as we have experienced in prior fourth quarters. So
+for Q4, we expect revenue growth to be in the range of flat to up 2% on a year-over-year basis. Our non-GAAP
+operating margin is expected to be in the range of 24% to 25%. And our non-GAAP tax provision rate will be
+approximately 22% in the fourth quarter.
+Our Q4 FY11 non-GAAP earnings per share is expected to be in the range of $0.37 to $0.39 per share and we
+anticipate our GAAP earnings will be $0.14 to $0.23 per share lower than our non-GAAP EPS. This range includes our
+typical differences as well as an impact of $0.06 to $0.13 per share as a result of our anticipated restructuring associated
+with our consumer business and the early retirement charges. Please see the accompanying slides of this webcast for
+further detail.
+For the quarter, we anticipate non-GAAP total gross margin to be approximately in the range of 62%. Our gross margin
+outlook will vary as a result of factors including product mix, cost savings and pricing and of course, we will adjust our
+guidance accordingly.
+Other than those quantified items noted above, there are no other significant differences between GAAP and our
+non-GAAP guidance. This guidance assumes no additional acquisitions, asset impairments, restructuring and tax or
+other events which may or may not be significant. As a reminder, Cisco will not comment on its financial guidance
+during the quarter unless it is done through an explicit public disclosure.
+In closing, we are moving quickly and we'll continue to implement our action plan that we have more lasting
+implications. The guidance I just reviewed for the fourth quarter reflects that we will continue to show some weakness
+while we work through these changes.
+So with that, let me turn the call back over to John.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 10 of 23
+John T. Chambers
+Thank you, Frank. Moving forward, we would like to give you some perspective on fiscal year '12. While we don't
+think our Q4 guidance is indicative of our growth rate next year, we also recognize that the growth rate that we've
+sometimes talked about in the past of 12% to 17% long-term growth outlook is not reflective of the environment either.
+Our portfolio positions us for growth next year and we will communicate both our targeted operating model and our
+long-term growth expectations as part of our September financial analyst conference with our shareholders.
+We do not underestimate the transition in front of us, or the importance to rapidly simplify our organization to deal
+with the competitive challenges facing us in switching and the shift in public sector spending. We are completely
+committed as a leadership team to make the required fundamental changes to our operating model as well as to make
+the tough decisions necessary to position Cisco to leading in tomorrow's market.
+I have always believed that our strategy and direction starts and stops with our customers and the partners that serve
+them. Having spent a lot of time with customers and partners, I am confident that we are well-positioned in their minds
+in terms of our leadership. We are taking the network where our customers need it to be. No one has the breadth and
+scale of Cisco in networking. No one has Cisco's breadth of innovation, the scale and reach of our customer delivery
+model, or our talent and experience of our employees.
+Cisco's value to our customers is differentiated and it is very simple. We are globally delivering to them
+network-centric platforms that make them more competitive and allow them to achieve their business goals. Our
+customers are dealing with the same level of complexity as they grow, and we are sharing our plans with them as we
+simplify our own operating model. Innovation has never been an issue for Cisco, but simplification and making it easy
+for our customers to work with Cisco and for our employees to do their work at Cisco is something that we must
+change quickly, boldly and decisively and Gary, I'm really asking to you play the key leadership role here. You're off to
+a great start.
+Our employees are ready for this change, and they know what an energized Cisco is capable of achieving. Throughout
+our history, Cisco has adopted and evolved to meet both challenges and opportunities. This time is no different.
+Although our path to get to the end goal may be different
+We have done it before, and we will do it again now. Make no mistake about it, all of our efforts we're putting in place
+are focused on driving shareholder value. I want to thank our shareholders, employees, customers and partners as we
+transition to a reinvigorated Cisco, the aggressive, focused and simplified Cisco as you have come to expect over the
+years.
+With that, Laura, let me turn it over to you for Q&A.
+Laura Graves
+Thank you John, Gary and Frank. We will now open the floor to Q&A. We still request that sell side analysts please
+ask only one question. We're ready to go, operator, please go ahead with your first question, please.
+Q&A
+Operator
+[Operator Instructions]. Our first question comes from Jeff Kvaal with Barclays. Your line is open.
+<Q - Jeff Kvaal>: Yes, thank you very much.
+<A>: Hey.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 11 of 23
+<Q - Jeff Kvaal>: Gary, I was wondering if you would spend a little bit of time on switching in particular, down 9%
+and that may be picking on one of the worst numbers, but if you could help us understand what has shifted in the
+switching landscape and then how long you think you will need to correct that and get back to where you would like to
+be in switching?
+<A - John T. Chambers>: Gotcha. Jeff, it's no problem asking the tough questions. Those are one of our two
+problematic areas that we have to address. Let me start with the most basic elements.
+I'm very pleased with the new products we have introduced over the last year. We're extremely competitive at the low
+end with the Catalyst 3000-2000, at the mid-level with the Nexus 2000 and 5000 and if you look where we are, we
+need a little bit of work on our high-end at the 7000 to be very candid.
+If you watch what we just announced in terms of organizational alignment from an engineering perspective, under
+Gary's leadership and now Padma and Pankaj leading the engineering team, for the first time in many, many years, we
+have all of our resources together so you will be able to share those switching resources across engineering and one
+priority to be able to work together as we do this.
+You will see us be able to also look at how we bring products to market faster. Instead of thinking about a product
+cycle of five years plus, we're going to be thinking three years. Instead of thinking gross margin improvements in the –
+if you will, what we have traditionally seen, Frank, say two, three, four years to play out, we're now thinking of how we
+do it in one to two in terms of the direction.
+If you, Jeff, want some additional data, we didn't share it, but our orders for the switching category, the fixed orders
+were up 8%. The modular were down 10%. So we have seen a little bit of balancing here, and too early to call it a
+trend. We want to watch it into Q4 and Q1. As we have traditionally done when we get hit with new competitors, we
+get back on our heels a little bit and we adjust. We have got the product breadth here that feels very good.
+Our problem is, you can now do with a 2000 what you used to do with a 3000 or more, which is a nice way of saying
+we are coming down Moore's Law, but faster than Moore's Law which means our sales force has to sell two to three
+times as much. Our customers would tell you in the enterprise environment and many of our government accounts,
+we're not losing share, but they would tell you in that environment, they wouldn't focus on how much did our revenues
+go up or down. Clearly, we have some share challenges in a few areas, but overall, our port position is very, very solid.
+Bottom line, I like the progress we're making. You didn't ask about gross margins that go with that. Our gross margin
+challenge is candidly at the very high end. It's to transition the 6000 to the 7000. Gross margins on the prior generation
+2000 and 3000 and actually our new generation are within a couple points which is pretty good at this stage and I want
+to congratulate our Nexus team on the 2000 to 5000, the middle, you have seen improvements in gross margins by
+almost ten points this year.
+So a lot of what Gary talked about was good, but we are going to take it to a different level as we move forward and
+streamline this and this is what Kathy is going to be leading for us with Randy in terms of some of the direction. So
+Jeff, a long-winded answer to your question, I apologize, but it's the one on people's mind along with public sector.
+<A - Laura Graves>: Thank you, Jeff. Operator, next question, please.
+Operator
+Next question comes from Tal Liani with Bank of America Merrill Lynch.
+<A - John T. Chambers>: Hey, Tal.
+<Q - Tal Liani>: Hi, guys. First, thanks very much for the very clear disclosure about your plans. It makes life easier.
+John, I would like to ask about the next quarter guidance, but before that, just clarification; you did not address in your
+comment, your long-term growth target that you used to be 12 to 17% and whether you have any plan to change it. My
+question is not about that. My question is really just about the components of the next quarter. The revenue growth is
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 12 of 23
+pretty healthy sequentially, but then the margins you expect it to go back to the difficult last quarter. While gross
+margin this quarter was pretty good. So the margin you guide down to 62%. So I'm just wondering about the dynamics.
+Why do we see revenues growing sequentially nicely, but then gross margins going back down again next quarter?
+<A - John T. Chambers>: Gotcha. So a couple of questions and let me maybe try to summarize. During Q4, it's
+traditionally our strongest quarter. Our sales force is strongly incented there and actually we have incentives in place
+for those that may not be in position to achieve their goal. It's a quarter that we traditionally grow well but usually, it
+comes toward the back end of that quarter.
+Second, during this quarter, we had a very good booking UCS quarter as you all saw: 61% growth. It was clearly – we
+did not get a lot of those shipped so that's why you saw 31% in revenue. Q4 is going to be a very solid quarter for us in
+the data center. You're starting to see cloud activity take off. You are seeing us take on the big guys in that
+environment. I'm very comfortable with where we are in terms of the data center strategy, but you are clearly going to
+see in that quarter more influence from some of our areas that don't have as high a gross margin.
+We will provide, in our September analyst conference, an update in terms of where we see the long-term guidance
+being. We clearly are taking 12% to 17% off the table on that. We ran at that pace for, I don't know, a number of
+quarters, but no excuses. Here's where we are. Here's what we see our growth rate going forward and we are going to
+do that one quarter at a time.
+So as we go, we're going to show you that we deliver on Q4. During that time, we are going to do behind the scenes the
+very heavy lifting that our shareholders fully expect us to do to bring expenses back in line with revenue, and we expect
+to grow revenue faster and Gary, if we do our job well, by a lot faster than we do expenses as we look out three, four,
+five quarters out and then we will show you the progress.
+If we do our job right with all the appropriate caveats, each quarter next year and as you make these changes in Q4, Tal,
+it takes a while to really drive those through the organization. By the time you do the easy stuff, such as the consumer,
+such as the early retirement, then you change the organization structures, you put your first layer in, then you put
+additional layers in below that and as people get responsibility for their area, then they are able to input in terms of
+where we prioritize resources and then you're able to take the expenses out in a constructive way.
+That is hard and it is heavy lifting and communications is challenging on it. We're going to do that over the next 120
+days very crisply and when you do that, candidly, it slows down your momentum in the quarter you do it. I'm not
+making any excuses on that, we are going to focus on driving our orders very, very aggressively and if you were
+watching momentum coming out of Q4, I would watch book to bill coming out of Q4 and I would watch our booking
+growth.
+<A - Laura Graves>: Frank, did you want to comment? There was a question with the delta between Q3 and then the
+Q4 gross margin guidance.
+<A - Frank A. Calderoni>: John covered it as it primarily related to mix if you look at it from Q4 also looking at the
+strong UCS ramp that we see, which does have an impact on margin.
+And the other thing, Tal, I just wanted to add which I did mention in the prepared comments, is if you look at Q2 to Q3,
+we did have a few non-recurring items which did provide a benefit in Q3 that do not continue in Q4. Balancing that
+along with the mix that John just talked about, that's taken into consideration with the approximate 62% that we
+provided from a guidance standpoint.
+<A - John T. Chambers>: Sorry, I'll try to keep my answers a little shorter, Laura.
+<A - Laura Graves>: Next question, operator.
+Operator
+Thank you, our next question comes from Mark Sue with RBC Capital Markets.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 13 of 23
+<Q - Mark Sue>: Thank you. John, the decision criteria in the past to move into a new market was dependent on
+whether or not Cisco could be number one or number two.
+<A - John T. Chambers>: That is correct.
+<Q - Mark Sue>: Conversely, as we divest and refocus the business do these same rules apply, or should we look at
+the business model instead from a margin contribution or ROI calculations, and does the understanding of the
+challenges change the behavior of and can we accelerate the behavior change which points to a quick reorg and
+restructuring since the concern from investors that large companies, once they start down this path may perpetually
+restructure?
+<A - John T. Chambers>: Okay, so about five questions. In order of sequence, overall rule is we enter markets with
+the goal of being number one or number two within that. These are markets, however that are very tightly interfaced
+and so when you think about it from the data center, the convergence of compute, storage and networking across any
+combination of networks to any device by data, voice, video, across enterprise and service provider environment with
+mobility built into that and video built into that and security built into it, those are areas that you must have an
+architectural approach.
+If you don't have an architectural approach, candidly, to the second part of your question, you don't have good margins,
+you're not able to make a difference in your customer environment, and you get relegated to somebody providing
+infrastructure that often may be purchased from a cloud in terms of the future direction.
+To your other point, I think you are going to see us, and it's one of the things Ned is going to lead for us, really look
+hard along with Frank on our margin components and say where do we really need to make a difference here? Which
+markets do we really want to focus in on or not? But if they are not strategic to us and if they don't architecturally tie
+together and we're not able to move into the one or two position, by definition, not only should we be trimming back,
+what we're asking and Gary's going to lead for us, we will really cut back and so we've got to make the tough decisions
+there and we are signaling a signal in behavior.
+Now, Mark, each time we have done this in the past, we've done it crisply and we've emerged out of it stronger. We've
+always shared that with our shareholders. We do it once and very aggressive and then we take our actions off of it. Our
+employees know we're going to make this change. This is not going to be a surprise to them today. In fact, they're
+anxious. They want us to get it out and tell them what it is. We want to do this surgically as opposed to with a blunt
+instrument. We want to do it in a way that brings full value to our shareholders. We want to do it with maintaining our
+number one leadership as we move forward and as you can tell from my comments, I'm not only energized, our whole
+group is moving with tremendous speed.
+I mean, Gary, we were all here for the last couple of weeks, 9:30 at night although the pizza wasn't too good, the other
+things were very focused and we're ready, and you know, we got knocked down. We get right back up and we give you
+our plan of action. Nice of way of saying, Mark, I doubt it. I think you are going to see us make these changes crisply.
+We'll make a few mistakes as we do it and we'll fix those, but you will look back a year from now and two years from
+now and you'll find a much stronger Cisco that moved through that $40 billion bump that many large companies hit and
+focus about how we move on to much longer.
+The nice thing about what we're seeing is these are healthy markets. There's no problem with market availability and
+this is why you see our peers coming at us because the network is enabling most all of this. It's video. It's cloud. It's
+collaboration. It's an architectural play and not pinpoint products and if you think about our competitors, how many of
+our pinpoint product competitors really end up keeping up with where the market goes in terms of direction?
+So this consolidation and this architectural play in the market is going to happen. We will do it once crisply if we do
+our job right. Now, Mark, you never say never, and that's exactly what we said in 2001, but in 2001, we went through
+this extremely well. This is going to be a different path but very much in control of our destiny and very much united
+with our board in terms of what we do for full shareholder return, very much united with our senior leadership on what
+we need to do and very much united with our employees who are a family even during the tough times and even though
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 14 of 23
+we know some of us will be affected by that in terms of where we go.
+<A - Laura Graves>: Thank you, Mark. Operator, next question, please.
+Operator
+Thank you. Our next question comes from Simona Jankowski with Goldman Sachs.
+<Q - Simona Jankowski>: Hi, thank you so much. John, I just wanted to ask you about one of your five priorities
+now, namely video. Obviously we all would agree that is a really big part of the future and you guys have been very
+early in identifying that and I think part of the thesis for you has been that there is a significant infrastructure
+investment that comes along with something like TelePresence. But what I wanted to ask you about is there are a
+number of offerings now that are popping up, you know, say from like a video or even like a Skype which is now part
+of Microsoft that seem to be significantly lower cost and obviously they don't offer anywhere near the quality, but
+maybe for a large part of the market, they will be good enough and won't necessarily come along with that
+infrastructure attached to them. So how do you view that? And how much do you think that even if you are right on
+video as a big trend, it may not play out as positively for you in terms of the infrastructure attach?
+<A - John T. Chambers>: Okay. Series of questions. First, we bet on video five years ago. We said video would be
+the next voice. You begin to invest and it's often three or four years after you bet before people begin to see it.
+Secondly, video will not be standalone streaming through dumb pipes. It's about the ability to put underneath of it a
+fabric in our words and I apologize for getting technical, medianet, that enables you to build upon it to be able to
+translate what is the voice within there, to be able to push that to communities of interest, to be able to search upon it,
+because video is a mess if you can't search on it. Merely transport of information is of nominal value to companies.
+That saves you travel. It allows you to do meetings, but the ability really to bring that together architecturally with
+areas, such as TelePresence combining with what we're doing with our Quad which is the equivalent of YouTube and
+Facebook type capabilities within the enterprise with proper security, etcetera, is sustainably different.
+However, to your point, which is a fair challenge, you are seeing a number of peers announce they're going to focus on
+video, i.e., we had a five-year lead, but this is a big growth market and you are going to see a lot of good competitors in
+that. Now a lot of what Skype does is also to consumers and candidly, what you do in this environment you load
+networks big time.
+Back to a question earlier, a lot of our emerging technologies might sell, let's say, one dollar, but they load networks $3
+to $4 to $5 with what they do within that and so as you think about the implementation here, I love anything that loads
+networks. Now our service providers are going to say to us, Cisco, John, Gary, Frank, how do you monetize this stuff
+going over the networks? So if you can't do this intelligently if you haven't got intelligent pieces throughout the
+network, if you're not able to control your destiny in the cloud as these service providers deliver this capability in the
+new format, if you're not able to prioritize the traffic and be able to differentiate it and charge for it, if you're not able to
+allow this to any open device – any open device, to any content with proper security and manageability then that is a
+different scenario.
+Nice way of saying it's a healthy market. We're going to get a lot of good competitors. Every video loads networks so
+whether it's competitors or ourselves, I'm comfortable with that and I think it's going to be a great market load for us.
+It's different than switching. Switching, it's hard to load those ports fast given the price performance coming down, i.e.
+the challenge of revenue; routing, a different scenario. Routing revenues were up 7%. We're positioned very well with
+service providers over this next year.
+Okay. I thought you said 10%. And we're very well – sorry. We're very well positioned with the service providers on
+how we partner with them as they move into the cloud and move into the transport. So I think we're well positioned
+here, but if you haven't got good big competitors and good startups, you're in the wrong market. The good news is we
+have got a lot of competition in almost all of our markets, which is a nice way of saying we're in healthy markets
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 15 of 23
+<A - Laura Graves>: Next question, please, operator.
+Operator
+Thank you, our next question comes from Ittai Kidron with Oppenheimer.
+<Q - Ittai Kidron>: Hi, John and guys. John, I want to follow up on the switching strategy. You've talked about
+accelerating project cycles and trying to reduce costs and trying to plug some product gaps through the new
+introductions that you just mentioned and probably some more to come. But what you haven't talked about is your
+strategy within switching and just listening to your commentary, it doesn't seem like that has changed in the context of
+port share is still the priority in that business and if that continues to be the case, why should we assume that the margin
+profile of that business will change any time soon? Is there a room or ability to reconsider the balance you draw
+between port share and margin? Are you more willing to lose share in order to maintain margin? How do we think
+about your strategy in this business changing?
+<A - John T. Chambers>: A very fair question and candidly, very tough ones. First of all, let's talk about switching
+and then I am going to expand to the areas that you covered. In terms of switching, if you're standalone switches and
+you are just in the background, you are going to have a tough time over the next five years. We saw that coming a
+decade ago. We went to an end-to-end architecture and within our switching, you put in a card, it's the number one
+router. You put in another card, it's the number one IP telephony player. You put in other capabilities, you really go
+into security. You put in another card, you become the number one wireless player and that is within the physical
+framework.
+As you virtually tie together those switches to the data center, and the switches to the device type, you have an
+architecture that no one else in the industry reaches across enterprise and service providers, no one else reaches across
+the video all the way to the cloud. No one else has the partnerships like we do and the capability in the cloud to do
+storage and the networking and the compute capability and distribute that across the whole network. So our switching
+strategy in that way has not changed. It is an architectural play. It's an integrated play physically and virtually.
+Second part; port share is one of the key factors on it and we said we were holding our own in port share in a market
+with a whole bunch of competitors coming at us and interestingly enough, several of those competitors who are coming
+at us, making great inroads, we learned how to compete. Whether it's on price and we are going to go after them, or
+whether it's on issues such as low latency, we're starting to win our first financial accounts back, thank you very much
+team with our new announcements on the 3000, and we are going to adjust within that with a faster speed.
+Now, that speed, because for the first time, you already know, I've never had my engineering teams all together with
+one group on switching. That makes it much easier for ASICs to development, much easier to realign priorities of
+resources and directions on it.
+So I would think about it as port share, much as we did at the Wells Fargo conference, in one category. In another
+category, market share in terms of revenue. In another category, margin comparison and in another category, what your
+revenue growth wants to be. And actually, those are four variables in the equation that you can tweak and modify
+within it.
+Now what you have seen us already start down using the Nexus 2000 and 5000 as an example, we're clearly improving
+our gross margins there and just a great job by Mario, Prem and Luca, now run by David Yen, it's an amazing job what
+they have done in terms of margin improvements over the last year.
+Our Catalyst 2000 and 3000 we said earlier had pretty solid margins. They got a couple of points below what our
+traditional Catalysts are but that's not bad for this stage in the development. We have a long ways to go on our margins
+on the 7000. That's where the price per port and that's where, you know, you used to buy a 6000, you buy 4000 now or
+where you might buy one 7000 for two 6000s. The 6000 clearly has very high gross margins. The 70000 Nexus is
+below that by almost in the high teens in terms of gross margins.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 16 of 23
+So to answer your question, we think of it as four variables. We're positioned well in terms of where we are from the
+competitive product perspective, but we've got to move faster both in design cycles and otherwise. But port share,
+probably one of the key factors on the direction and it will be interesting to see how we do over the next three to four
+quarters in terms of total market share on switching, but I do look at it, what's my value return for our shareholders and
+let me repeat that theme throughout here.
+It's about for value return for our shareholders and that is a balance in that because you can maximize profits in the
+short run and growth and cost yourself an awful lot later on in terms of shareholder value. While we're very much
+aware of short-term implications on profitability, we also want to make and will always make the right long-term
+decisions as well. We won't compromise it. I'm sorry. I talked a little bit long on that one.
+<A - Laura Graves>: That's okay. Thanks, Ittai. Next question, please
+Operator
+Thank you, our next question comes from Nikos Theodosopoulos with UBS. Your line is open.
+<A - Laura Graves>: Hi, Nikos.
+<Q - Nikos Theodosopoulos>: Hello, you can hear me?
+<A - John T. Chambers>: Yes, we can.
+<Q - Nikos Theodosopoulos>: Okay. My question is around OpEx. I just want to make sure I captured everything
+here. So looking at the guidance that you gave for the fourth quarter, it looks like OpEx is going to be about $4.1 billion
+give or take a little bit and the annual savings of $1 billion off that, so that's about $250 million. So should I think about
+OpEx next year being about $15.5 billion if I take about $250 million off the next quarter and run rate that throughout
+the year? So that would be the first part of the question.
+And then the second part related to that, when you mention that there would be a $1 billion charge or so from the
+severance, is all the OpEx savings that you talked about going to be related just to the severance, or is there upside to
+the OpEx comments you gave? Thank you.
+<A - John T. Chambers>: So let me take it and I will take the easiest part. Nikos, I always tend to make it very
+simple. Let's assume our run rate is about $4.2 billion, multiply it by 4 and that's $16.8 billion is what run rate we
+would be on if we did not change it going into next year
+We clearly have an expense run rate that was based upon a much higher projection which we thought was going to
+happen strongly in terms of our revenue growth. When it doesn't, you have got to bring expenses strongly back in line
+but given the pressure on margins, you have to bring expense growth slower and potentially much slower than you do
+on the top line growth and really focus on return for our shareholders on it. So I would take $4.2 billion, multiply it by
+4, $16.8 billion and take $1 billion off of that and that would be the run rate we'd be at in Q3 and Q4. You have to stair
+step into it. It takes a while to do that and so this will be a multiple quarter process.
+Now, Frank, how close did I get on that answer? And you can answer the second part.
+<A - Frank A. Calderoni>: That was perfect. And I think, Nikos, the second part of your question as it relates to
+restructuring, as I mentioned, the restructuring associated with that $1 billion would be in our GAAP results and not in
+our non-GAAP results as we pro forma that out. We have not identified that as we work through the plan over the next
+couple of months. That will be part of the purpose of the plan. As we get more refined on that and we'll identify it as
+soon as we do know that.
+Of the restructuring charges that I mentioned for this quarter and last quarter, those are restructuring charges that are
+part of the consumer announcement that we made several weeks ago that had an impact total of about $180 million
+between the two quarters. Again, that is something that's going to be in the GAAP results and not in the non-GAAP
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 17 of 23
+results.
+And then the other thing which would be part of that $1 billion or the restructure associated with it, would be the early
+retirement, but right now, the program is open and so we don't know how that will turn out. We still have several weeks
+left for employees to make their decisions on that. The range that I gave which is probably in the range of $0.5 billion
+to $1 billion of charges associated with that would also be pro-forma'd out, but we don't know what that is. I just gave a
+range based on the participation low to high levels and we'll again have a clearer view on that at the end of Q4 and
+provide that on the call.
+<Q - Nikos Theodosopoulos>: Okay. Just to clarify and maybe I didn't ask it properly. What percentage of the $1
+billion OpEx...
+<A - John T. Chambers>: Try again. I'm sorry, Nikos.
+<Q - Nikos Theodosopoulos>: What percentage of the OpEx $1 billion savings next year do you think will be
+delivered by just the early retirement plan?
+<A - John T. Chambers>: Nikos, we have our own internal modeling on that. The minute you start to break this into
+pieces, we, in essence, will be talking about the total head count. We owe it to our employees to do it step by step. We
+made the easy decisions first which were candidly the consumer and I think you all – we made a run at it and candidly
+we missed and back to one of your colleague's questions earlier, I think it might have been Tal who asked the question,
+we said we can't be number one or two, we don't have sustainable differentiation here. The market moved in a different
+way and we exited.
+The second easiest thing to do is early retirement, that treats people with class. It allows us, candidly, to organize
+around that and allows people who are within a certain time of retiring to do that in a way that also benefits and brings
+down our expenses.
+We will then look at what the delta is in many areas, part of it will be contractors. Part of it will be our own employees.
+Part of it will be other sector services and we will balance within that how we take that out. That will roll out and be
+announced to our employees first. That is the way it deserves. We've got management meetings next week with our top
+leaders. We've got the week after that with the top 3,000 people. We have employee meetings and regular
+communications.
+We're going to keep that internal and this is where, for the shareholders, we're going to take that out. There's no doubt
+that we're going to do it, but we are going to do it surgically and we're going to do it based on the input of each group
+and we're not going to create more questions than we have answers by throwing a number out at that and then people
+begin to slice and dice what does this mean to each group. We have got to allow the teams to execute, Gary, which you
+are doing great on, on the five stages that you are driving through the company on that and – pardon me?
+<A - Gary B. Moore>: I said, right.
+<A - John T. Chambers>: Okay and then how you drive it through. This is heavy lifting. To do it right surgically,
+we'll make some mistakes, but we're not going to make a broad mistake of just doing a haircut. You have got to
+organize the structure first, then you have got to offer that structure, drive it down through each layer and very directly
+address that. So that's how – it's a nice way of saying that that will be shared with our employees first and it will be
+shared later in this 120-day cycle not within the short time period. But we will get those expenses out, the three of us
+are very much committed to doing that. Very much.
+<Q - Nikos Theodosopoulos>: Thank you.
+<A - John T. Chambers>: Next question please.
+Operator
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 18 of 23
+Thank you, our next question comes from Paul Silverstein with Credit Suisse.
+<A - Laura Graves>: Hi, Paul.
+<Q - Paul Silverstein>: John, can you hear me?
+<A - John T. Chambers>: Yes, I can, Paul.
+<Q - Paul Silverstein>: I'm sorry to do this, but I need to return to the margin question.
+<A - John T. Chambers>: I don't mind at all.
+<Q - Paul Silverstein>: It's regarding the long-term structure. I'm trying to understand, first off, whether the pricing
+pressure and the product gross margin decline you have seen has just been HP and switching, or it is also a function of
+Huawei and ALU and Juniper and others?
+Related to that, you used to give us your emerging market – well, all of your regional gross margin and I didn't hear it
+during the call. My question is, did you see further decline, in particular, in your emerging market and Asia-PAC gross
+margins which have been down over 500 basis points over the past year?
+The final question related to this, is – again, I heard your commentary, but I'm trying to understand how you negotiate
+the dilemma of maintaining share via lower price at the cost of lower margin or maintain your margins in losing share?
+I'm not sure I understand in terms of the long-term model how you negotiate that.
+<A - John T. Chambers>: The answer going in reverse order: very difficult.
+The question on lower price translating to automatically lower margin, I don't buy and the numbers and I went through
+it very fast and I apologize and I know you will sometimes ask me a clarifying question, our gross margins on our prior
+generation 3000 and 2000 and our current generation of 3000 and 2000 are within a couple points. We done a very
+good job there in terms of gross margins and by the way, done a pretty good job on port share given the competition
+and how they're coming after us, but it does need to be multiple variables. We are going to be aggressive in winning
+key architectures and to your point in emerging markets, if you don't get the market early, you often don't get it three
+years later. So we are not going to back off of direction on that.
+Now in term of competitors, I wish it were just one competitor. We're going to get hit by HP and Huawei on price.
+Consider that a given. We are going to get hit by some traditional players who do their own ASICs, their own software
+and hardware, like Cisco, that is also a given. You will have other players who will do this a vertical stack. Perhaps an
+IBM, top-to-bottom type of approach and you see other peers thinking about it. Hopefully some of those we'll partner
+with. We'll see over time whether we do or do not, such as what Oracle is doing or what IBM is doing in the arena.
+You have other players who are going to come at us with silicon – merchant silicon, they're going to put software on
+top of it and they are going to come ride right down that silicon curve, and by the way, we can do the same thing with
+our own ASICs if we execute well, Gary, and I think Padma and Pankaj would agree. The problem is, the price per port
+drops so rapidly it's hard to load on switching and then you are going to have other players who will do this purely as a
+software play.
+So you are going to have a lot of people come at us from different directions. Bottom line, we are going to maintain our
+leadership in switching. We are going to maintain the vast majority of the market. We know our barriers to entry are
+low. By the way, they've been low for 20 years.
+<Q - Paul Silverstein>: Frank, can you share with us what the regional gross margin was?
+<A - John T. Chambers>: That's a nice way of saying I didn't answer that part of the question.
+<A - Laura Graves>: It's on the slides that are on the webcast.
+<A - Frank A. Calderoni>: If you look at – you mentioned emerging markets, Paul, the margins went up several
+points. The current margin right now for Q3 was 64.3%. So the combined margin, products, services, as well as
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 19 of 23
+financing. And that was up, you know, several points, as I said, quarter on quarter.
+<Q - Paul Silverstein>: Asia-Pac?
+<A - Frank A. Calderoni>: Asia-Pac went from 61.2% to 62.5% so they improved quarter on quarter. All the other
+theaters, as well, U.S. and Canada went from 62.2% to 63.7% and Europe went from 65% to 65.2% and of course, the
+overall total 62.4% to 63.9%.
+<Q - Paul Silverstein>: John, one related if I might, is your public sector business from a margin perspective any
+different than your enterprise in general?
+<A - John T. Chambers>: It's better and we have much larger market share. So in routing and switching and public
+sector and the development around the world we are the number one player by a much higher percentage point, well in
+excess of 70% in switching and well in excess of 80% in routing. The reason is we help them solve their business
+problems. We do it secure, we do it architecture, etcetera. So we get hit disproportionately both on margin and revenue
+growth when they slow.
+To answer the indirect part of your question on public sector we do not think we have a major competitive
+differentiation here. There are always competitors changing the game there. We are very effective on maintaining the
+majority of our market share. That doesn't mean in one area of state and local government, on E-rate, it might not an
+issue and others it may. We need to think about it in terms of that tone, Paul, for the balance. Sorry, a little bit long on
+that.
+<A - Laura Graves>: Okay, I am going keep us moving to be fair. Next question please, operator.
+Operator
+Thank you, our next question comes from Ehud Gelblum with Morgan Stanley.
+<A - Laura Graves>: Hi, Ehud.
+<Q - Ehud A. Gelblum>: Hi, guys, how are you? Thanks for the question. First, just a couple of quick clarifications
+and then my question. The gross margin was strong this quarter, and I know you described the gross margin down next
+quarter on mix, partly due to UCS and partly due to some one-time issues. Frank, can you just give us a sense as to why
+gross margin was strong this quarter and how much of it was from these one-time issues? It would be helpful just to
+understand that.
+Another clarification, Flip as it is now, is it – it's not a discontinued operation. Was it in the numbers for this quarter
+and is it in next quarter? How should we look as to what that revenue did?
+John, you mentioned in a previous question, you mentioned in the answer something about the gross margin on the
+Nexus 7000. Did I hear you say high gross margins?
+<A - John T. Chambers>: Low gross margins on that.
+<Q - Ehud A. Gelblum>: I'm sorry. Did you say high teens, was it really high teens for the gross margin for the 7000,
+or was that relative to something else?
+<A - John T. Chambers>: So let me answer the questions and we will take them in sequence. Occasionally, I speak a
+little bit fast. Please forgive me for that, and I'll also want to hear very directly the areas we need to improve on.
+Switching is clearly one that if you look at – seeing that decline, that's one that we need to improve on also.
+Now to answer the question, the gross margins at the low end 2000 and 300 are very close, a couple of points below
+what our original 2000 was. The Nexus 2000 and 5000, which are new, have come up very well over the last year.
+That's just classic Cisco execution.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 20 of 23
+On the high end, our 6000s had very good margins. Our Nexus 7000 is below that in the high teens. So I'm just being
+very open with you for you to be able to do the math on why you see the pressure on margins. We have one product
+area that has very high margins with the product it's replacing as well as the classic 2-to-1 leverage point in terms of
+double or triple the price performance which means you have to sell two to three times the number to get the same
+capability.
+On Flip, Flip was in the results for part of the quarter, but it's out for next quarter and so in your modeling, that's about
+one percent of our total business that is gone. So when you think about growth, take one percent out for next quarter in
+terms of the growth because we will not have revenue on that.
+The first part on the gross margin mix, Frank.
+<A - Frank A. Calderoni>: Let me just, very high level, if you look at it from Q2 to Q3. I would say that three major
+categories that I would identify from a margin standpoint, as you know, the margin improvement overall was 1.5
+points. About half of that was related to these non-recurring items and another portion was related to the consumer,
+primarily around Flip in the delta quarter-on-quarter. One had to do with the lower volume as it relates to the
+performance in exiting the business and the second has to do with removal of some of the inventory impacts that we
+had seen in the previous quarter, and then the third piece is a combination of services margin improvement quarter on
+quarter as well as some slight improvement in the other base business which is a combination of some mix as well as
+overall margin improvement. So going into Q4, you don't have the non-recurring and the consumer from a
+quarter-on-quarter gets to be a bit more consistent.
+<A - Gary B. Moore>: Next question, please, operator.
+Operator
+Thank you, our next question comes from Brian Modoff with Deutsche bank.
+<Q - Brian Modoff>: Hi, guys. John, so just to be clear, you're saying the 7000 gross margin is in the high teens?
+<A - John T. Chambers>: No, no. Thank you. Let me reword that. What he's saying – and he's right, I did a poor job
+explaining that Please forgive me. Gross margins for the 6000 are at a very high level, you all know where they are.
+Gross margins for the 7000 are below that, let's say by 18 points, to be very specific and so as you think about the math,
+that's the delta between the two, and I did a very poor job of saying that. Brian, thank you for correcting me in a way
+that the audience clearly understands. Is that your question?
+<A - Laura Graves>: You get another question now, Brian.
+<A - John T. Chambers>: Operator, you cut Brian off?
+Operator
+He's open, sir.
+<Q - Brian Modoff>: Okay, can you hear me now?
+<A - John T. Chambers>: Yes, I can.
+<Q - Brian Modoff>: I'm sorry, that was a clarification. The question is around – going back to switching again. Can
+you talk about port shipments? How did they do on a year-on-year basis? Revenue is down. How did port shipments
+do? Can you break it down between data center and campus, please.
+<A - John T. Chambers>: I'm not sure we have it that way, Brian. We might need to do it as a follow-up. Let me
+perhaps give you an idea in terms of the revenues. I think the revenues were down 5% on the – if I'm remembering
+right. Let me verify it here before I state it. Down 5% in terms of the fixed and as I said earlier, the orders were up
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 21 of 23
+about 8% year-over-year.
+In terms of the actual port shipment breakout, I don't have it. We ran that analysis when I was looking at share of
+market – Brian, a nice way of saying I don't have the data to answer your question.
+<A - Laura Graves>: Brian, we will follow up with you after the call. We are expecting just the preliminary market
+share data is just coming in now and the full market share will come in over the next couple of weeks.
+<A - John T. Chambers>: Since I didn't answer the question, do you have one more?
+<Q - Brian Modoff>: Yeah. Councils, so you went from 5 to 3, so you are streamlining them, but are you
+contemplating perhaps eliminating them altogether? Do you think more of a direct line management structure might be
+a better structure for the firm to get more direct accountability to the various divisions?
+<A - John T. Chambers>: Let me have Gary go through it in just a second. Let me be very explicit. We went from
+nine counsels to three counsels and we went from 42 boards to 15 and we moved the decision making clearly into
+engineering and into sales for the decisions. We used the councils by customer segments which are enterprise, service
+provider and emerging and that to connect our strategy to connect it with our operations. Clear decision making is back
+in the functional groups and Gary is just doing an amazing job. So Gary, take us down one more level.
+<A - Gary B. Moore>: Yeah. So at the high level, John hit it quick. So to come at it in a different way, the key
+message here is we moved to functional leadership driving the three councils we have left. So Padmasree Warrior, who
+is one of the co-heads of all of engineering along with Pankaj, the two of them own the number, along with in Rob's
+organization that he announced, Nick Adamo, aligned to Pankaj, drive our customer-facing business with service
+providers globally. They make the decision and they own the number. So it's not a group thing anymore.
+That group, that council is there so we can stay close to those customers, collaborate across the different functions that
+support them but more importantly, get that feedback into engineering from a product point of view as well as when we
+talk to you about our service provider business. We have to be aligned and competitive against – in the service provider
+business.
+Same thing in enterprise, and so Padmasree Warrior and Paul Mountford will co-lead that council and they both have
+decision making responsibility for both sales and engineering.
+The third council that we left in place is also customer-facing from the point of view it is our emerging countries
+council, and that council is, again, helping to drive the transformation we're doing. We're setting up legal entities. We're
+doing a lot of work at Cisco to get things done to be able to operate in countries where we haven't had the
+infrastructure. I thought it was important to let that work continue on. There's a lot of good people that are driving that.
+So again, we're holding the country leadership accountable to drive that, but we're giving them a forum to reach into.
+So elimination of six councils and 31 boards that we did is not the headline here. The headline here is the way we have
+changed the way that we're operating to drive simplicity and agility into the organization. As John said, we're going to
+drive our earnings faster than our revenue. This is the way we have to do it.
+<A - John T. Chambers>: So simple take-away and summary. We simplified our organization and operating model.
+That's what we just did and we did it both with engineering, sales and also our services. We are using the councils and
+boards purely as how you connect the strategy to the execution, which, by the way, you need architecturally. We also
+recognize the strength during one stage of your development, i.e., developing individual products to compete with each
+other during the '90s become your weakness later. Councils and boards, we didn't evolve quick enough where we
+needed to go on that.
+It allows us to align cost structure. It allows us to make better decisions in terms of who has ownership on divestment
+of underperforming assets the way we're set up and bottom line, it brings more value to our shareholders and that's what
+we're really focused on short and long-term.
+<A - Laura Graves>: Operator, I think we have time for one more question, please.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 22 of 23
+Operator
+Thank you, our last question comes from Brian White with Ticonderoga. Your line is open.
+<A - Laura Graves>: Hi, Brian.
+<Q - Brian J. White CFA, MBA>: Hi, John. Just, you talked a lot about UCS. It obviously has pretty strong
+momentum here. I'm wondering if you can talk a little bit about VCE with the Vblock solution. There's a lot of buzz
+inter-op around that. Maybe if we can get some metrics around VCE and Vblock?
+<A - John T. Chambers>: Got you. I think, once again, Cisco, along with our partner, EMC and VMware called a
+market transition well ahead of what actually has occurred and you had to because our movement in the cloud when
+Padma came here two and a half years ago, we didn't have a good cloud strategy and Padma did an amazing job there.
+So the combination, and this is why it has to be architectural plays, not only within the data center with various
+products but also within our customers changing buying behavior as they begin to see the ability to buy by the drink
+within that, the relationship with VCE is extremely important. We are making very good progress on that and our
+pipeline is looking more and more – I'm not sure what I have. I probably don't have authorization to share that because
+we have to coordinate with VMC and VMware.
+But our pipeline looks very good. If I were to just talk federal government alone, we had to move from just traditional
+routing and switching and we moved quickly to collaboration and we needed to move into cloud and yet we're still
+seeing the declines but the pipeline is almost doubling every quarter in terms of large cloud opportunities and this type
+of relationship has tremendous power for our group, but again, it's an architectural play and not pinpoint products. If
+you are a pinpoint product player you are going to get commoditized over time or just put into infrastructure.
+So good momentum on it. And Michael Capellas is doing a very good job of leading that group and creating both the
+understanding from customers and the integration, and I think I speak for Joe Tucci and myself and Paul Maritz in
+saying we're very pleased with where we are on it, good momentum. I think this is a market – the question is, our peers
+are now starting to come at it the same way with their own development. So we've got to be able to pull it back
+together.
+And so Laura is very nicely saying that I'm coming up on the time constraint.
+<A - Laura Graves>: Do you have closing remarks?
+John T. Chambers
+Yeah, I do. You know, my normal approach would be to talk about all the positives and there are a lot of areas here. I'm
+going to focus on the two areas that are problematic for us, and it's important to understand in switching and in public
+sector that gives us challenges on our growth number that we have to be able to move faster in terms of our
+organization structure, but also bring expenses not only in line with top line growth, but grow top line growth faster and
+potentially dramatically faster than you grow expenses.
+We're going to approach this very simply: first, by simplifying our focus on the organization and operating model;
+secondly, by aligning the cost structure given the transition-- these transitions that are occurring; third, by divesting or
+exiting underperforming operations; and fourth, a fanatical approach to delivering value for our shareholders. Our
+board, our leadership team, our employees are united in this type of an approach.
+We're going to move very decisively in control of our own destiny and by the way, how many times have we not in the
+past? And while the path this time will clearly be different, every time we have gone through this, we emerged as a
+stronger player. Nice way of saying if I were a competitor, this is a tough company to bet against, whether you are
+talking switching, routing, data center, UCS, mobility, video, collaboration, overall in terms of the approach.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2011-05-11
+Event Description: Q3 2011 Earnings Call
+Market Cap: 91,839.58
+Current PX: 17.0615
+YTD Change($): -3.1685
+YTD Change(%): -15.662
+Bloomberg Estimates - EPS
+Current Quarter: 0.392
+Current Year: 1.702
+Bloomberg Estimates - Sales
+Current Quarter: 11010.938
+Current Year: 45198.056
+Page 23 of 23
+There are areas that we must do different and the buck stops here. It's my responsibility. I get it. We're going to move
+rapidly in terms of the direction. And so take away from this call: we want to thank you, especially the shareholders, for
+your supporting us. We need to really focus on getting you the return both short-term and long-term, and that's our
+commitment as a leadership team. With that, Laura, let me turn it back to you
+Laura Graves
+Thank you, John. We remind our audience that Cisco's next quarterly conference call which will reflect our fourth
+quarter and annual fiscal 2011 results will be on Wednesday, August 10, 2011 at 1:30 PM Pacific Time, 4:30 PM
+Eastern Time.
+As a reminder, downloadable Q3 FY11 financial statements are available following this call including revenue
+segments by product and geography. Income statements, full GAAP to non-GAAP reconciliation information, balance
+sheets, cash flow statements can all be found there on the Investor Relations website. Click on financial reporting.
+I would like to remind you that in light of regulation FD, Cisco plans to retain its long-standing policy to not comment
+on its financial guidance during the quarter unless it is done through an explicit public disclosure. Please contact any
+member of the Investor Relations team with any follow-up questions from this call. We thank you for your
+participation and your continued support. This does conclude our call.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2011, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
