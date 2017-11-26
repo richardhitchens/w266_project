@@ -1,0 +1,816 @@
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 1 of 15
+Q2 2010 Earnings Call
+Company Participants
+• Stephen C. Davidson, Vice President-Investor Relations
+• Duncan L. Niederauer, Chief Executive Officer
+• Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice President
+• Lawrence Leibowitz
+Other Participants
+• Roger Freeman
+• Michael Carrier
+• Richard Repetto
+• Celeste Brown
+• Howard Chen
+• Edward Ditmire
+• Alex Kramm
+• Kenneth Worthington
+• Rob Rutschow
+• Johannes Thormann
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day ladies and gentlemen, and welcome to the Second Quarter 2010 NYSE Euronext Earnings Conference Call.
+My name is Josh, and I will be your operator today. [Operator Instructions] We will be facilitating a
+question-and-answer session toward the end of this conference call. [Operator Instructions]
+I would now like to turn the call over to Stephen Davidson, Head of Investors Relations at NYSE Euronext. Please go
+ahead, sir.
+Stephen C. Davidson, Vice President-Investor Relations
+Thank you, Josh. Good morning, and welcome to the NYSE Euronext second quarter 2010 earnings conference call.
+Before I introduce today's speakers, let me remind you that comments on the call may contain forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act. These statements are based on NYSE
+Euronext current expectations and involve risks and uncertainties that could cause NYSE Euronext actual results to
+differ materially from those in the statements.
+These forward-looking statements speak as of today, and you should not rely on them as representing our views in the
+future. Please refer to our SEC filings for a full discussion of the risk factors that may affect any forward-looking
+statements. Except for any obligation to disclose material information under the federal securities laws, NYSE
+Euronext undertakes no obligation to release publicly any revisions to any forward-looking statements to reflect events
+or circumstances after this call.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 2 of 15
+We will discuss non-GAAP financial measures during this call. These non-GAAP measures are fully reconciled and the
+tables attached to the text of the earnings press release that we issued earlier today. We believe that these tables provide
+investors useful information about our business trends. However, our non-GAAP measures do not replace and are not
+superior to GAAP measures.
+For the call today, Duncan Niederauer, Chief Executive Officer, will review the highlights for the quarter and our 2010
+priorities, walk you through several technology wins and conclude with a refresher on our corporate strategy and an
+update on the regulatory landscape. Michael Geltzeiler, Chief Financial Officer, will then review the financial results
+for the quarter. We will then open the line for your questions. Also on the call today for the Q&A session is Larry
+Leibowitz, Chief Operating Officer.
+When we go to the Q&A session, please limit your questions to one to allow for broader participation. We are
+incorporating slides to the call today, which are available for reviewing on our website, and Duncan and Mike will refer
+to the slides during their remarks.
+With that, let me turn the call over to Duncan.
+Duncan L. Niederauer, Chief Executive Officer
+Thanks, David, and good morning, everybody. Thanks again for joining the call this morning. Just an early notice; we'll
+be doing the next one of these from Paris, so look for us to do the third quarter earnings review from there. The good
+news for all of you is we won't be doing it at 8:00 a.m. Paris time. We'll probably continue to do it at 8:00 a.m. New
+York time.
+I'm going to start with Slide 3 in the deck and just hit a few highlights on that slide.
+I think you can see from the slide and from the press release this morning, we had a very strong second quarter. We're
+growing our Derivatives business. We're stabilizing our Cash Equities business, and we're providing innovative
+technology solutions in that business. Our results, which reflect the continued trend of improving financial
+performance, were driven by stronger trading volumes, increased revenue generation from our new initiatives and
+continued cost discipline.
+We recorded a 25% increase in EPS, the $0.64 per share, and a 15% increase in operating income on 7% increase in net
+revenue with incremental margins of 76%. These results reflect the growing earnings power from our three primary
+businesses and the inherent operating leverage in the model.
+Firstly, our Derivatives segment benefited from record trading volumes, as well as the addition of NYSE Liffe
+Clearing. During the month of May, we executed an average of 13 million contracts per day across our global
+Derivatives businesses, driving a 34% increase in net revenue with an increase in our operating margins of 62%, up
+from 42% the prior year. We were the largest U.S. equities options exchange for the second consecutive quarter.
+Turning to Cash and Listings. In the first half of 2010, we continue to see strong demand for our Listing venues, both in
+terms of transfers and new listings. On the Execution side, we are continuing to focus on stability and profitability of
+this business. In the U.S. our market share in Tape A is at 37%, up from 35% in the first quarter. And our share in
+Europe is holding steady at 74%.
+Additionally on July 13, we've launched trading on Tape C stocks on an Unlisted Trading Privilege basis over the
+NYSE Amex platform. Trading began with 10 issues and now has expanded to approximately 675 NASDAQ-listed
+issues, and we've seen some positive market share developments.
+Lastly, our Technology business benefited from the addition of NYFIX and improved Software sales, driving a 29%
+increase in revenue and an increase in operating margin to 19%. I will walk you through the profiles of several deals
+that we've signed in the past few months later in the presentation. They are representative of the enterprise-level
+dialogues that we are having with market participants, encouraging them to leverage our technology to help them run
+their businesses more efficiently. As we invest in our future growth and drive our revenue generation, we are
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 3 of 15
+maintaining strong expense discipline as well. Our fixed operating expenses in the second quarter on a constant dollar
+basis were down 29 million or 7% from the prior-year period.
+Before I move to Slide 4, let me touch briefly on a few select business highlights for the quarter. Building upon our
+success with the launch of NYSE Liffe Clearing last July, we have announced our intention to build two new
+clearinghouses in London and Paris for our European Derivatives and Cash businesses.
+The economics for Clearing are very favorable, and it is our intention to have the new clearinghouses live by
+mid-to-late '12. We continue to await regulatory approval of our NYSE Amex options and NYTC semi-mutualizations.
+In terms of NYPC, we now have a full management team in place. The intensive regulatory review and approval
+process for NYPC continues to make progress, and we appreciate all the regulatory agencies for the substantial
+resources they are committing to thoroughly really analyze this innovative, new Clearing model.
+Given the recent focus on clearinghouses and risk in the newly enacted financial regulatory reform bill, regulators are
+being appropriately diligent in their analysis, and we are still hoping for regulatory approvals later in the fall. Our
+agreement with FINRA under which they assume responsibility for performing the market surveillance and
+enforcement functions, previously conducted by NYSE regulation, is effective. And we believe this agreement is an
+important step towards consolidated market surveillance, the need for which was highlighted in the events of May 6.
+I am pleased to report that our data center migration is on track. We are establishing the liquidity hubs of the future, and
+Mike will address the timing of the incremental depreciation and amortization for the second half of 2010. Lastly, as
+we committed to on our last quarter's call, we have continued to de-lever. And year-to-date, we have reduced our
+outstanding debt by more than $0.5 million.
+In summary, while we are pleased with our strong results for the quarter, driven by higher volumes across most of our
+venues and a growing base of recurring Technology Services revenue, we still have much to do. We are focused on
+executing against our long-term strategy of operating the most meaningful capital markets, creating even broader and
+deeper networks of connectivity and delivering innovative products to our expanding client base. We have and will
+continue to redefine what an exchange is in the 21st Century.
+Please turn to Slide 4. The priorities on this slide highlight our goal of creating a community premium using our scale
+and scope to the benefit not only our own business, but our customers' businesses as well. We can achieve this through
+initiatives and offerings like co-location, co-branding, advocacy and our global distribution network. At the center of
+the company and in support of our three businesses is UTP our globally integrated and scalable trading platform, an
+unrivaled global connectivity network and customer gateway. Our focus on Clearing, which will take on an even
+greater importance in '11 and '12 and two brand new world-class data centers set for launch in September and October
+of this year.
+Turning to Slide 5, we have several recent NYSE Technology wins, which reflect the growing interest in our full
+managed solution capabilities. The Technology business, as I alluded to earlier, has performed well to-date, and
+approximately 80% of the revenues in this business are recurring.
+On the Exchange Partnerships side of the business, we continue to land large client deals. As you will recall, last year
+we singed a partnership with the Qatar Exchange to build their cash and derivatives platforms. And just a few weeks
+ago, we singed a multiyear, eight-figure deal with the Warsaw Stock Exchange to migrate WSE's Cash and Derivatives
+markets to NYSE Technologies Universal Trading Platform. In addition, we plan to collaborate with the WSE on other
+mutually beneficial business initiatives.
+Regarding the more traditional client side, you will note on the chart a few examples of deals that we've recently
+signed. Despite reports of slowing Technology spend, we are seeing strong interest from the broker-dealer community,
+investing in leading-edge trading technology. This is welcome sign, especially after a slow 2009 that saw a decent
+pullback in Technology spend.
+Our customers are looking to leverage our full solution set. We believe the deals shown on this slide represent just the
+beginning of our ability to deliver innovative products, and these opportunities will only get larger as we deliver.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 4 of 15
+Supporting many of these deals are our data centers. There is a lot of customer focus on the upcoming Mahwah and
+Basildon go-live dates set for later this year.
+On Slide 6, we've included a simple strategy statement to help you better understand where we're going. Our aspiration
+is to lead our industry and redefine what it means to be an exchange in the 21st Century. To achieve this, our mission
+will be simply to empower the world's capital markets communities to innovate and collaborate. To achieve this, our
+core objectives will be to operate the most important capital markets, connect the members of the community through
+our ever-growing network, deliver innovative products to our continually expanding client base. And to enable
+customers to run their businesses more profitably by using our technology and the scale the UTP and the data centers
+deliver.
+We have already gone a long way towards redefining what an exchange is, and we've moved from being just an
+operator of markets to much more. As many companies and other industries have done, we are moving across the value
+chain to improve our competitive position. The more customers and partners we have, the greater the network effect,
+which further validates the relevance of our community.
+In short, it is about getting more customers for our products and services and more products and services for our
+customers. From our perspective, we think the sum of the parts is being undervalued because we believe that our
+unique collection of assets and global reach offers us great revenue and cost synergies, which will ultimately yield the
+community premium that I mentioned earlier.
+Finally for me on Slide 7, you will see a number of current issues where we are doing our best to demonstrate
+leadership. We will not go through each of these bullets individually this morning, but we'll highlight a few important
+ones. While Congress considered financial regulatory reform legislation, we were very active in advocating for
+ourselves and more importantly, on behalf of our listed companies. We believe that the Dodd-Frank Act will solidify
+and bolster our opportunities for future growth, particularly in Derivatives.
+Going forward, the Act mandates hundreds of agency rule-makings, and we are already analyzing and prioritizing these
+rules and expect to play an active advocacy role on behalf of our clients. But also are committed to being an active
+participant with the regulators who are going to have to write all these rules.
+In terms of market structure, the events of May 6 put a spotlight on the need for improvements to our equity markets.
+This has created opportunities for us to demonstrate the benefits that the NYSE model brings to issuers, investors and
+the markets. We testified twice before Congress on market structure matters, and we spent considerable time with the
+SEC, the CFTC and the Joint Advisory Committee. We believe these opportunities have enhanced our standing with
+legislative and regulatory policymakers.
+More broadly, our efforts to advocate on behalf of our issuers and to be an influencer of public policy continue to be an
+important part of our value proposition. We're working hard to represent our listed companies on issues like corporate
+governance, proxy access and Sarbanes-Oxley reform. As well as our continued opposition on a tax on transactions to
+ensure that investors' interests are protected as well.
+Turning to Europe, regulators are also embarking on a plethora of legislative initiatives on both market structure and
+financial regulation. Two years after its implementation, European policymakers are working on a comprehensive
+review of MiFID, although we don't expect firm proposals until early next year. We are hopeful that officials in Europe
+will learn some important lessons from the market fragmentation that has occurred in the U.S. and will avoid heading
+down the same path.
+We will also be working with European legislators to ensure an adequate assessment of the increasingly high level of
+non-transparent trading. We believe that a proper analysis of this issue calls for priority to be given to a more
+transparent price formation process and increased investor protection.
+Derivatives regulation is also a key issue in Europe, as has been the case in the U.S. The European Commission will
+publish legislative proposals in September in keeping with the G-20 commitments before central clearing of OTC
+derivatives trades. It is our understanding that the Commission will present proposals next year as part of the MiFID
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 5 of 15
+revision to bring more OTC Derivatives onto central Liffe platforms.
+That concludes my remarks. I'll now turn it over to Mike for a review of our quarter's financial results. Mike?
+Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice
+President
+Thanks, Duncan. Slide 8 provides comparative GAAP results for the second quarter. Total revenues were flat
+year-over-year and up 15% versus the first quarter. Net revenue, profit and diluted EPS are all up year-over-year and
+quarter-over-quarter. The $0.70 EPS posted in the second quarter was the company's highest quarterly EPS since Q3
+2008. Unless otherwise noted, all of our financials are presented in accordance with GAAP.
+As we progress through latter stages of the post-merger integration, staff reduction and system harmonization efforts,
+we continue to incur high levels of severance charges, asset write-offs and real estate disposition costs. These discrete
+items are reported in merger and exit costs. Once we move into the new data centers and exit our legacy premises, we
+expect the occurrence of these costs to decline significantly.
+This quarter, we reported a $32 million charge in merger and exit costs. This consisted of 14 million in cash charges,
+primarily for severance related to the FINRA transaction, reengineering the structure of local offices and the U.S. VRIP
+[Voluntary Resignation Incentive Program]. The remainder is related to real estate lease cancellations and disposal of
+legacy system applications.
+Last year's merger costs of 442 million was principally for the NYSE Liffe Clearing payment, which drove the GAAP
+loss for the quarter. In the quarter, we reported a $54 million gain from asset disposals, primarily related to the sale of
+our 5% stake in the National Stock Exchange of India.
+Now a review of financial results from this point forward will exclude the impact of merger expenses and exit costs,
+just referenced, as well as the gains from disposal activities during the quarters.
+Slide 9 provides a more detailed look at our financial results for the second quarter. Excluding merger and exit costs
+and the assets sales, diluted EPS for the quarter was $0.64, up 25% on prior year's $0.51. Year-to-date EPS of $1.18 is
+up 26%. Q2 earnings performance was driven by a 7% increase in net revenues and another quarter of solid expense
+management.
+Operating income was 247 million, up 15% compared to the second quarter of 2009. Operating margin rose to 38% this
+quarter and is 36% year-to-date. This compares with a full-year operating margin of 32% for 2009. Our focus for 2010
+is revenue growth and margin expansion, and we are pleased with our progress on both fronts. We continue to grow
+EBITDA margin as well, posting a 48% mark for the quarter. The relatively fixed expense base, we have significant
+operating leverage on our incremental revenue and volume growth.
+Slide 10 provides our segment results on a currency-neutral basis. The U.S. dollar strengthened this quarter versus both
+the euro and British pound. For the quarter, 48% of our net revenue was denominated in either euros or pounds.
+Currency impact was unfavorable, 19 million versus prior year, and 22 million versus prior quarter. On a
+currency-neutral basis, second quarter net revenues grew 10% and operating income 20% versus Q2 prior year.
+Operationally, our Derivatives segment grew 38% and Technology segment grew 33% versus Q2 prior year. Cash
+Trading and Listings revenue declined by 8%, attributed to lower revenues from BlueNext, our carbon trading venture,
+and lower U.S. volumes and revenue capture in Europe. Our Derivatives and Technology profits nearly doubled versus
+Q2 prior year.
+On Slide 11, we show our 2010 year-to-date net revenue split by business activity and segment, with comparisons from
+the first half of 2009. The company continues to benefit from a diversified revenue base. 51% of our net revenues were
+generated by Transaction and Clearing fees in the first half of 2010. This is slightly higher than last year because of the
+strong Q2 volumes in 2010, and the addition of NYSE Liffe Clearing. We saw the contribution from Technology
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 6 of 15
+Services showed the most meaningful increase during the first half of 2010, with specific gains stemming from NYFIX,
+growth in our SFTI Europe network and recent Software and Infrastructure sales.
+Turning to our segments, Cash Trading and Listings comprised 48% of our net revenues in the first half of 2010. But
+the Derivatives segment continued to be the fastest growing segment, contributing 35% of our net revenues; up from
+27% in the first half of 2009. Followed by the Technology segment, which grew from 14% to 17% of revenues. Again,
+this is consistent with our revenue guidance and where we have invested in new initiatives.
+Slides 12 and 13 detail the financial performance for our global Derivatives segment. I'm not going to go through these
+slides in detail, but simply touch upon a few points. Our global Derivative franchise continues to grow. Net revenues
+were 226 million in the second quarter, an increase of 57 million or 34% versus Q2 prior year, and about 38%
+year-to-date.
+The increase was primarily driven by a $51 million increase in Trading and Clearing revenues due to strong volume
+growth in European Derivatives and U.S. Options, increased market share for U.S. Options and the addition of NYSE
+Liffe Clearing. Both our European Derivatives and U.S. Options venues experienced record volume days in the second
+quarter. For the quarter, volumes rose 38% and 57%, respectively, versus Q2 prior year.
+For one day in May, we handled over 16 million Derivative contracts globally. NYSE Euronext was the largest U.S.
+equity options exchange operator in the marketplace for the second consecutive quarter with a market share of 26%.
+The revenue captured for European Derivatives, ex-Bclear was $0.64 per contract in the second quarter. This was up
+versus the second quarter of last year due to the addition of NYSE Liffe Clearing, but down slightly versus the first
+quarter because of the stronger dollar.
+Rate per contract in U.S. Options was $0.17 per contract in the second quarter. This is down versus both the prior year
+and prior quarter. The reason for the decrease is largely attributable to an increase in penny-pilot issues traded on
+NYSE Arca, and minor pricing changes which were offset by market share gains.
+Our global Derivatives segment increased its margins to 62% in Q2, as we were able to leverage volume and revenue
+growth on a lower cost base. The first half of 2010, this segment accounted for 50% of our operating income.
+Similarly, Slides 14 and 15 show the financial performance for our Cash Trading and Listings segment. Cash Trading
+and Listings net revenue was 321 million in the second quarter of 2010, down versus last year, but up sequentially
+versus the first quarter. The year-over-year decrease was driven by a $21 million decline in net transaction revenue and
+a $14 million decline in other revenue.
+Decline in net transaction revenue was attributed to pricing reductions of European cash in 2009 and lower trading
+volumes in U.S. cash. This was somewhat mitigated by an 18% increase in European volumes during the quarter.
+Decline in other revenue was principally due to a decrease in volumes on BlueNext, our environmental trading
+exchange. However, we are actively looking at opportunities to build upon our BlueNext franchise and bolster our
+carbon trading operations.
+Market share in the Euronext primary markets was up slightly to 74% in the second quarter but below the 79% in the
+second quarter of 2009. Revenue capture for U.S. cash was $0.03 or 100 shares, in-line with expectations and recent
+trends. Revenue capture for European cash was $0.65 per transaction versus $0.90 in the prior year. The decline was
+attributed to the stronger dollar and a less favorable mix, in part due to higher volumes.
+NYSE Euronext global Listings franchise gathered momentum in the first half of 2010. Total of nine companies with a
+combined market capital of over 30 billion have transferred from other exchanges to NYSE. Some of these companies
+include Knight Capital Group, Charles Schwab, Paragon Shipping. Furthermore, a total of 55 IPOs, the total proceeds
+of 13 billion listed on our markets during the first six months of the year.
+Operating margin for the Cash Trading and Listings segments was 39% in the second quarter, up from 34% in Q1 and
+virtually flat with the second quarter of 2009.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 7 of 15
+Slide 16 details the financial performance for our Information Services and Technology Solutions segments.
+Information Services and Technology Solutions net revenue was 107 million in the second quarter, an increase of 24
+million or 29% from Q2 prior year. The increase was primarily driven by the NYFIX acquisition, growth in SFTI
+clients and some large Software and Infrastructure sales. Revenues were slightly behind Q1, and on a currency-neutral
+basis grew 2%.
+Operating income was 20 million, a 67% increase to prior year and a 18% increase from the first quarter of 2010.
+Operating margin was 19% compared to 14% in the second quarter of '09, and 15% in Q1. Adjusted EBITDA margin
+was 26%. Advanced cabinet reservations for our new U.S. and U.K. data centers continue to be strong, with both data
+centers nearly fully subscribed for cabinet space.
+Co-location revenues will begin to accelerate in the fourth quarter and reach their annualized level in Q2 2011 once we
+complete the application migrations to the new data centers. Data centers are set to go live in Mahwah in September
+and Basildon in October.
+Slide 17 provides a harmonized view of fixed operating expenses. We continue to make excellent progress in lowering
+our cost base in real terms, while funding incremental investments to grow the business. Q2 expenses were $20 million
+below the first quarter. After adjusting for favorable impact of the stronger dollar and for incremental data center
+integration spending, fixed costs were 15 million below Q1 on an apples-to-apples basis.
+Second quarter operating expenses were up 10 million versus last year on a reported basis. Q2 2009 included a
+one-time $10 million benefit curtailment related to the changes made to our retiree benefit plan. After adjusting for this,
+FX and the impact of acquisitions such as NYSE Liffe Clearing and NYFIX, fixed operating costs were down 29
+million or 7% from the second quarter 2009.
+Looking at the first half of 2010 on a constant-dollar, constant-portfolio basis, our underlying fixed expenses were
+down 71 million or 9% compared to the first half of 2009. Continue to make good progress, and are focused on
+efficiency and productivity improvements that will further reduce operating expenses for NYSE Euronext.
+Slide 18 provides an update to our annual expense guidance. In March, when we provided fixed expense guidance for
+2010, we indicated that this guidance was predicated on the average FX rates for 2009. These were $1.39 for the euro
+and $1.57 for the pound. Given the direction of rates in the first half, we felt it appropriate to adjust our full-year
+guidance to reflect a scenario more in-line with current currency trends. Applying the rate of 1.30 for the euro and 1.50
+for the pound, our revised fixed cost range is now between 1,685 and 1,729 million. Likewise, should these rates be
+applicable for 2011, our prior guidance of cost to be below 1,650 million, would be adjusted accordingly.
+In the second quarter, 60% of our operating expenses were denominated in dollars, 20% in euros and 20% in pounds.
+Although we have adjusted the cost range solely for currency, our first-half expense performance of 834 million,
+coupled with efficiency initiatives in the pipelines, provides us increasing comfort that we will achieve our cost
+guidance for 2010.
+Our staffing level as of June 30 is 2,993 full-time positions, which is 374 positions, or 11% below year-end levels.
+Approximately 165 of these reductions relate to the recent outsourcing of certain regulatory activities of FINRA.
+Approximately $11 million per quarter in compensation expense related to this head count transfer will now be
+reflected in Professional Services line. For the most part, the social plan and U.S. VRIP programs have now been fully
+executed and are complete.
+We continue to pursue a number of process efficiency improvements, which will further reduce expenses into 2011.
+That said, we do expect costs to rise somewhat in the second half, attributable to migration into our new data centers,
+investments in our new European clearinghouses and launching of interest rate futures in the U.S. In addition to the
+integration and transition costs, we expect to begin depreciating the new data centers as they go live in the latter part of
+the third quarter, adding incremental depreciation costs of approximately $15 million in the second half. Over time, this
+will be mitigated as we exit some legacy data centers.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 8 of 15
+Slide 19 details our cash and debt position as of June 30, 2010. After investing a significant amount of capital towards
+building two state-of-the-art data centers, insourcing Liffe Clearing, restructuring operations and investing in other
+avenues of growth, we indicated late last year that our focus will be on de-levering our balance sheet. In just six
+months, we have made significant progress towards these goals, and are now operating well within our long-term target
+leverage levels.
+Our debt leverage this quarter has declined to slightly below 1.9 times debt-to-EBITDA versus 2.6 times at year-end
+2009. This improvement is the result of double-digit growth in EBITDA, coupled with significant debt repayment.
+During the second quarter our growth debt declined 434 million to 2.2 billion. Proceeds from the disposition of NSE,
+coupled with strong operating cash flows, enabled the sizable repayment of short-term debt. Cash and other financial
+instruments was 419 million at the end of June 2010. This compares favorably to our short-term debt, which is now
+below 300 million.
+The second quarter of 2010, capital expenditures were $70 million, of which 26 million was for building out our data
+centers. Having reached our comfort zone with regard to the leverage, we are revisiting how best to allocate capital
+going forward besides just paying down debt. This will entail investing for growth and possibly returning excess cash
+flows to our shareholders.
+We are comfortable with the dividend at current levels, as the payout ratio remains above pre-crisis levels. But we still
+have an outstanding share buyback authorization. We are currently rated AA-minus by S&P and A3 by Moody's. The
+S&P rating is under credit watch, which we expect will be addressed shortly. And finally, last week, the board declared
+a $0.30 quarterly cash dividend for the third quarter of 2010, which is payable on September 30.
+With that, let me turn the call back to Duncan for some closing remarks, and then we'll take your questions.
+Duncan L. Niederauer, Chief Executive Officer
+Thanks Mike. So just to recap, we're obviously very pleased with our results for the quarter. I think they were strong,
+driven by record trading volumes on our Derivatives franchise and year-over-year growth in Technology Services
+revenue from NYFIX. I think we also continued to show cost discipline during the quarter, and we remained focused
+on proceeding with our company-wide efficiency efforts that will address globalizing our operations, reducing process
+complexity and streamlining organizational constructs. We are on the cusp of concluding a multi-year project with the
+lighting up of our new data centers, which we expect will serve as a cornerstone of our Technology Services growth
+story.
+We are signing more major client deals and establishing more commercial exchange partnerships than ever before,
+based on the superior quality and breadth of technology assets that we have brought together with our organic
+development and acquisition the past couple of years. And we have several other new initiatives that are in the wings
+that will drive our future growth, including NYPC and our European Clearing initiatives, set for later on in '11 and '12.
+With these initiatives, we are indeed redefining what it means to be an exchange in the 21st Century.
+So with that, we'll wrap it up, and we'd like to open the line for your questions. Thanks for listening.
+Q&A
+Operator
+[Operator's instructions] And our first question comes from the line of Roger Freeman of Barclays Capital. Roger, you
+may proceed.
+<Q - Roger Freeman>: Oh, hi. Good morning. I guess – let's see, for my one question; tough to pick one. I guess
+going back to May 6, what role, maybe Duncan and/or Larry, did market data sort of, would you say, play in the whole
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 9 of 15
+thing in terms of any lag in that? Because it seems like pretty much all the other exchanges declared self help against
+Arca, and it sounded like maybe there were some delays in Wombat. And I'm guessing – my question is, do you have
+spending to do to enhance capacity there, or is that getting taken care of with the new data center?
+<A - Lawrence Leibowitz>: So first, not all the exchanges declared self help against Arca. I think that's just flat out
+wrong. What happened was NASDAQ declared self help against Arca, which lasted 20 minutes. We believe that was
+due to a server latency on about 20 symbols that lasted five minutes.
+<A - Duncan L. Niederauer, Chief Executive Officer>: Tape C.
+<A - Lawrence Leibowitz>: In Tape C. The other exchanges didn't. BATS declared self-help for about seven minutes.
+That was due to the fact that some of the prices they were sending us violated our price band. And when we spoke to
+them on the phone, they cleared that up relatively quickly.
+Our direct feeds did not experience latency, as far as we know, in terms of market data. There were some issues
+potentially on the SIP, meaning the consolidated feed. But probably about 85 or 90% of our volume actually comes
+from direct feeds. That's another misinformation that's generally in the market, which is that in general, consolidated
+feeds go to retail customers. And people who are viewing it with their eyeballs, most volume actually is generated from
+direct feeds.
+That said, that period we experienced a tripling of quotes and trades during that burst of about five minutes when the
+May 6 event occurred. Those were record volumes of message traffic. And I think that we always keep an eye on
+capacity and have made – we're actually in the process of some capacity expansion on the May 6 date that has
+subsequently been completed. I think it's something that we're always careful about. Volumes are down a bit. Again,
+after the second quarter, I think everybody has seen July, but that's partly seasonally. But I think it's something that
+we're just always cognizant of and always reviewing.
+Operating: And our next question comes from line of Michael Carrier of Deutsche Bank. Michael, you may proceed.
+<Q - Michael Carrier>: Thanks, guys. Just a question on the expense side, obviously a great quarter. And you guys
+continue to take down expenses, and you got a little bit of help on the FX side. I think the one thing we struggle with is
+when we look at the top line growth, when you look at sequentially, when volumes are up 10 to 30% across products.
+The top line growth was like 1%; if you ex-out the FX, maybe 4 or 5%. It just seems like it might be a while until we're
+in an environment where we see the volumes that we saw in the second quarter.
+So just trying to understand, when you look over the next, call it four quarters or so, where do you see the most I guess
+non-volume growth? And maybe on the data center or the Tech side, if you can just give us any clarity on those Co-lo
+revenues on an annualized basis once we get into the second quarter of 2011? Like where we should be or what we
+should expect, just so we can understand where some of the growth will come from? Thanks.
+<A - Duncan L. Niederauer, Chief Executive Officer>: All right. Yeah. Thanks for the question. Mike, why don't
+you address sort of what the year-on-year numbers actually were, with and without the currency, because I think
+whether it was 7% or 10% on equity. We'll ask Larry to talk about. Obviously, it's hard to predict revenues out four
+quarters when we don't know volumes and volatility and currency rates. But I think we can at least talk about where we
+think some of the new sources of revenue are going to going come from on the data center side, Co-Lo, et cetera.
+<A - Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice President>: Sure.
+<A - Duncan L. Niederauer, Chief Executive Officer>: So, Mike -
+<A - Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice President>: Yeah. So our – as we
+mentioned, our reported revenues grew 7% and – over this quarter last year, and on a currency-neutral basis were up
+10%. And we did indicate when you compare our Q2 revenues versus Q1 revenues, it was a $22 million dollar negative
+FX. When you factor that in, Q2, we're sizably ahead of Q1. So it think -
+<A - Duncan L. Niederauer, Chief Executive Officer>: You want to talk about it on revenue...
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 10 of 15
+<A - Lawrence Leibowitz>: Sure. I mean, I think in terms of Technology Services, obviously Co-Lo will be a larger
+revenue source in the future. We have not been as granular on Co-Lo revenues, but think of it this way. First, Arca was
+out of space for Co-Lo. It will no longer be out space. And second of all, New York – the NYSE Classic side didn't
+actually have Co-Lo. So we're adding a new Co-Lo revenue source. And likewise in Europe, the whole Co-Lo concept,
+particularly on the cash side, is relatively new. So those are clearly sources of growth.
+But what they're also fueling along the way, as you saw in some of the deals we outlined, is a general turning to the
+market centers for infrastructure support. While it's on their trading hub and their market data hubs, some of that is
+related to Co-Lo, but a lot of it really is just a matter of helping them outsource those capabilities to us.
+Operator
+And our next question comes from the line of Rich Repetto of Sandler O'Neill. Rich, you may proceed.
+<Q - Richard Repetto>: Yeah. Good morning, guys.
+<A - Duncan L. Niederauer, Chief Executive Officer>: Good morning, Rich.
+<A - Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice President>: Rich.
+<Q - Richard Repetto>: Yeah. My one question is on guidance, I guess, and if you'd pull the guidance up. So you've
+outlined some wins on the Technology side. But I'm just trying to see how that – how is that progressing against the 1
+billion and 30% margins in 2015? And in this guidance, like the guidance on expenses of 2011, any color there? My
+one question.
+<A - Lawrence Leibowitz>: So – thanks, Rich. In terms of the Technology side, Dominique Cerutti is not on our call
+this morning, so I'll make promises on his behalf. He made the statement, 1 billion over three to five years. We don't
+see anything that would change that horizon. We're confident and, in fact if anything, we get growing confidence that
+this business model action makes sense. That we can – we see that there is the need on the sell side in particular to help
+manage these processes as they help manage their own cost basis. Now we just have to execute and deliver on it, and
+that's our jobs to do. But I think that we're feeling good about all of that.
+And I think as time rolls out, we'll probably be even more transparent about the different avenues of those businesses
+and where they're coming from. But I think that the deals that we showed you on the slide, as well as Warsaw, are
+meant to be sort of case studies of the sorts of things that we can do. And in some ways, each of these deals is we – it's
+sort of the tip-of-the-iceberg deal, which is you start by managing a particular service for a client. You show that you
+can actually do it. You show that your technology works. You show that you give good enough service. And then you
+should be able to expand the kinds of services you can do for them because they're sort of related into their value chain.
+<A - Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice President>: To follow up for a
+second, as well. I mean I think we threw out some large deals and some numbers. But the revenue recognition of these
+is over time. For instance, the Warsaw transaction is mostly a 2011 transaction; very – very little benefit this year, even,
+because it's a long-term agreement.
+And I think secondly, by showing the margins at 19%, as we had indicated, we should start to see the margins get
+closer to our goals even before we get to the $1 billion of revenue. And I think we made some progress this quarter.
+On 2011 expense guidance, your other question, I mean basically always right out there is previous guidance was less
+than 1,650. You can extrapolate that we took our bands down by 38 million. For this year, we didn't really redo the
+1,650. But what we're saying is that there would be – if the currency stayed at today's levels, which is lower than when
+we – the levels that we're at when we indicated the 1,650, we will be that much below the 1,650 as well. We just didn't
+want to – we just didn't restate it or recalculate that at this stage.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 11 of 15
+Operator
+And our next question comes from the line of Celeste Brown of Morgan Stanley. Celeste, you may proceed.
+<Q - Celeste Brown>: Hi, guys. Good morning.
+<A - Duncan L. Niederauer, Chief Executive Officer>: Good morning.
+<Q - Celeste Brown>: Once you got regulatory approval for NYPC, how long will it take you to launch the service?
+<A - Duncan L. Niederauer, Chief Executive Officer>: I don't think it'll take that long just to; manage your
+expectations, two or three threads here. One is, obviously, the Technology build that had to be done, that's been going
+at pace. That's ahead of schedule now that the regulatory approval's been a little bit slower than we would have
+anticipated a few months ago. So the Technology work for this is well underway and will be delivered, I would say
+now comfortably, ahead of any approval we would get. Because remember, the comment period will be roughly 90
+days.
+So assuming that there's no glitches there, which we don't anticipate, and that the clients we want connected or who are
+already in the process of connecting are connecting, we'd be able to turn this on very, very quickly after approval.
+Realistically, I think we have to start thinking about this in our own minds as a January of 2011 event because even if
+we went out for comment this month and got all the requisite approvals by the end of the year, I wouldn't anticipate that
+we would launch something like this the first or second week of December. I think we'd probably get advice from our
+clients that would say, let's come out of the gate after the new year ready to go.
+So we would suggest that other than the kind of calendar stuff I just talked about, the Technology and connectivity,
+which would be the other two things you would want to have ready, will absolutely be ready by the time we get the
+approval.
+Operator
+And our next question comes from the line of Howard Chen of Credit Suisse. Howard, you may proceed.
+<Q - Howard Chen>: Hi, everyone. Good morning.
+<A - Duncan L. Niederauer, Chief Executive Officer>: Howard.
+<Q - Howard Chen>: Switching gears to the European cash, was just hoping you could give a bit more color on what
+drove the revenue capture trends during the quarter? And now that we're past a lot of the craziness within Europe, what
+you'd anticipate in terms of what we'd sort of see there going forward?
+<A - Lawrence Leibowitz>: Well, I think what was driven in terms of the year-over-year comparison is really the fact
+that we had made some pricing changes over the year. And, in fact, there's some tiering mix issues and things like that.
+And that's always the challenge. I think what we're trying to do, both in Europe and particularly in the U.S. going
+forward, is have our tiering float more appropriately with market volumes to try to insulate both us and our clients, to
+be honest, from getting stuck in a higher tier if volumes drop off. And likewise, get pushed into a lower tier if volumes
+explode and try to sort of mitigate some of that. And we've implemented that.
+In addition, by the way it's evolved over time, the European pricing model is overly complex because we have this
+whole agency-principal designation. It's a very complicated system. And we're working right now with our clients on a
+way to make that simpler because it'll make them – easier for them to make their routing decisions and figure out how
+they're going to run their business because the reality is what they want is to be able to understand what their rates are
+going to be. And not have them just come out in a certain place based on either volumes or mixes of business or
+likewise.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 12 of 15
+In terms of volumes, obviously, we don't – we can't do any forecasting there. Your guess is as good as ours. What we
+kind of note, particularly in the U.S. is, while July was down versus the previous month as we've seen. On one hand,
+June is always a very seasonably busy quarter because of Russell and other things. And July for 2010 was higher than
+July of 2009. So what conclusions you can draw from there are beyond me.
+Operator
+And our next question comes from the line of Ed Ditmire of Macquarie. Ed, you may proceed. Ed, your line is open.
+You may proceed.
+<Q - Edward Ditmire>: Sorry about that. Just wanted to ask a question on the operating margins. At the Investor Day
+earlier this year, you said that you should be able to hit a 40% margin within a couple of years. And I know we're
+actually quite close to that today. Any changes to your margin outlook, either as far as timing to that target or what you
+see beyond that?
+<A - Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice President>: Yeah. I said – I mean at
+the time when we presented that, we said for 2009 we were at 32% margin. Think we have a slide that went through
+both our revenue growth outlook for our three segments, as well as our margin expansion for those three. And we used
+the word medium. If you extrapolate that, medium, although we didn't say 40, people have been calculating that; it's
+about 40% by 2011.
+As I mentioned, we're at 36% year-to-date for this year. We're definitely focused on growing revenues and reducing
+costs, which would certainly help your margins. And we're at 38% this quarter. So I wouldn't say we're changing that
+outlook. I mean you're going to have quarters where the volumes are strong and your margins are going to be that much
+stronger. I wouldn't extrapolate the second quarter as being our run rate because we did have pretty strong volumes. But
+with 36% year-to-date, I think we're on track to higher margins than we had last year, and certainly are moving in the
+direction of our guidance.
+<Q - Edward Ditmire>: Thank you.
+Operator
+And our next question comes from the line of Alex Kramm of UBS. Alex, you may proceed.
+<Q - Alex Kramm>: Hey. Good morning. I want to shift gears quickly to maybe your over-the-counter strategy. I
+mean, you mentioned the Dodd-Frank Act earlier. So I'm wondering how you could really fit in here. If I look at maybe
+the short-term opportunities; Clearing, you don't really have any sort of real assets at this point. So maybe at least
+trading or new-listed products. And then perhaps – and maybe this is like a real potential for you as well here is the
+technology side. Is there maybe an opportunity to run some of these swap execution facilities or host them in the data
+centers? So maybe in general, how are you thinking about your way to participate in the over-the-counter exchange
+migration?
+<A - Duncan L. Niederauer, Chief Executive Officer>: Yeah. Alex, it's Duncan. I think you've got three interesting
+topics, probably, and I would put them in their reverse order in terms of near-term relevance for us. I think given the
+success we're having hosting various facilities and components of other firms' infrastructure in the liquidity centers, I
+would say there's a good near-term opportunity for us to at least be a provider of some Technology Services there.
+On the Listings side, I suppose there's an interesting near-term opportunity to list some of these products. I don't know
+how near term it's going to be because I think it's going to take a while for all this to be codified. But also, I continue to
+be of the belief that there's opportunities in Clearing and market data before there are opportunities in trading. So I
+think there might be some kind of a data opportunity for us, but I don't know how much of an opportunity there's going
+to be for listing these various products. I don't think they're going to be that actively traded in the near term.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 13 of 15
+Lastly, you're absolutely right. I think our view is to be a force in OTC to Derivative Clearing. You need to own the
+assets. I think we're on the way to owning potential assets with the clearinghouse build-outs in Europe and the NYPC
+build-out here in the U.S. But we've said publicly before, short of actually owning those assets, it's difficult to play
+overall if you don't have the clearinghouse assets. So as you would correctly expect, that's part of the reason behind us
+trying to build out some of these Clearing assets because it's then limitless to products we can clear in those houses.
+Operator
+And our next question comes from the line of Ken Worthington of JPMorgan. Ken, you may proceed.
+<Q - Kenneth Worthington>: Hi. Good morning. I know this is a small business for you, but market share and cash
+equities have stabilized in the U.S. Do you think you're generally at equilibrium? And if so, what does it take to see
+market share shifts from here? And in Europe, how close are the cash markets to price and market share equilibrium?
+<A - Lawrence Leibowitz>: Sure. That's a good question. I think that we're at a temporary equilibrium where you sort
+of swing a couple percentage points in either direction in the U.S. But there are new entrants coming in, in terms of
+models. NASDAQ just announced their – or put through their Philly model. There are going to be innovations around
+there. This is a competitive business, and we don't sit here and assume that we are where we are. We know that this is
+just going to be a fight that doesn't end.
+I think in Europe, it's much more of a developing situation. It'll depend partly on the results of the MiFID review. It'll
+partly depend on developments in Clearing, whether that's consolidation or interoperability. And so that – we're earlier
+in the game there. So I think that that's how we view both of those markets.
+<A - Duncan L. Niederauer, Chief Executive Officer>: Right. And the only thing I might add on the U.S. side to
+what Larry said is I suppose there's a greater than zero chance that with the concept release out for a comment and
+everyone still assessing what happened in the wake of May 6, it's possible, Ken, that you could see a couple of – I don't
+think they'd be monumental changes. But I think you could see a couple of incremental changes that certainly would
+help change that equilibrium a little bit, potentially in our favor. But we're not sitting here expecting any major changes
+that would kind of create a new order.
+Operator
+And our next question comes from the line of Rob Rutschow of CLSA. Rob, you may proceed.
+<Q - Rob Rutschow>: Hey. Good morning. You've done a nice job cutting head count down, I think, over 500
+year-over-year. Can you give us an idea of once you get through all of the data center build-out and to more of an
+equilibrium I guess type business model, what sort of head count should we expect? And what might be some of the
+movement between the different business lines and geographically?
+<A - Duncan L. Niederauer, Chief Executive Officer>: Well I'll start, and then I'll ask Larry to add a little bit on the
+Technology side. But I think, Rob, what we said to our board most recently is the head count of the overall company on
+a pro forma basis is – has gone from north of 5,000 to around 3,000. I could see it going down a little bit from here. I
+wouldn't expect much movement the balance of this year because remember, as we finish the UTP migration and we're
+lighting up the new data centers, which then puts us in position to decommission the older data centers. I wouldn't
+expect too much change in the status quo on our head count now for the balance of this year.
+I think there is a possibility that when UTP is done and when all the data center migration and decommissioning is
+done, you could see another leg down. But I don't think we want to anticipate that because at the same time, we've got a
+Technology Services business that is growing and does require a different kind of potentially consultative sales force.
+So you could see us add some people there. So I would say in the near term, those trends kind of offset.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 14 of 15
+Now a lot of the operational efficiency gains that were talked – that I referenced earlier in my remarks, I think could
+lead to some head count changes on the margin. But a lot of those initiatives are simply just streamlining processes that
+don't really impact head count at all. But Leibow, what would you add to that on the Tech side, anything?
+<A - Lawrence Leibowitz>: I agree. I think this year there won't be much. Although to be really honest, I had set a
+aspirational goal for the team about two years ago. And at the time, I got some icy stares from the Technology guys,
+and they've actually achieved it. I think that we will be going down further as the data centers finish, as UTP finalizes
+and as we're globalizing operations, remember. We have the Belfast initiative. A lot of that is going to hit the consultant
+head count where – so the mix of employees versus consultants will probably change a bit, swinging a little bit more
+towards employees.
+But we're constantly looking for, and it will be in the realm of process reengineering, simplification and globalization
+towards reducing head count. It's not our primary goal. Our primary goal is cost. And the heads that are coming out as
+this year progresses and as we hit the end of the data center projects, et cetera, really are built into Mike's cost
+guidance. So that's – while we haven't given a head count guidance; that was kind of where we were headed for cost.
+And to be honest, not all of those are head count, either. That's not really our primary focus. But clearly, as you
+simplify systems, that's a natural result.
+<A - Duncan L. Niederauer, Chief Executive Officer>: Right. But I mean I think the message for all you on the call
+is, pro forma head count's down 40%. I think that's pretty substantive. I wouldn't be looking for another big leg down.
+That's our point; not our focus.
+Operator
+And our next question comes from the line of Johannes Thormann of HSBC. Johannes, you may proceed.
+<Q - Johannes Thormann>: Hi, everybody. Just a quick question on the share buyback. Under which conditions
+would you start the share buyback again, considering your reduced net debt level, although it's partly FX driven?
+<A - Michael S. Geltzeiler, Chief Financial Officer & Group Executive Vice President>: I'll take that, Johannes. I
+mean remember that said my remarks is we are operating currently this quarter at sort of our target level of leverage.
+We do want to maintain strategic flexibility and a strong balance sheet, so we are – our priorities are first, stay within
+that level; second to invest in the business and invest in growth. If the opportunities obviously, meet our desired return
+levels.
+And then should we determine that we have excess cash flows and cash flow outlook says business is strong, we would
+look to dividend and share buyback. So really like – rather not comment further at this stage. We do have a share
+buyback authorization outstanding. We haven't been executing on it since the financial crises. And it's something that
+we'll continue to be looking at, as we've now de-levered; we're at the levels that we're comfortable with.
+<Q - Johannes Thormann>: Okay. Thanks.
+Operator
+At this time, we are showing no further questions available. You may proceed.
+Duncan L. Niederauer, Chief Executive Officer
+All right. Josh, thank you for your help and everybody, thanks for listening. As always, those of you who would like
+access to Michael and Stephen and Erik and team here, I'm sure they'll set up meetings with you throughout the day. So
+any other questions you didn't get answered, feel free to chime in. We thank you for support, and thanks again for
+listening. Enjoy the rest of your summer. Thanks a lot everybody. Cheers.
+Company Name: NYSE Euronext
+Company Ticker: NYX US
+Date: 2010-08-03
+Event Description: Q2 2010 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.569
+Current Year: 2.317
+Bloomberg Estimates - Sales
+Current Quarter: 728.778
+Current Year: 3105.333
+Page 15 of 15
+Operator
+Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect.
+Have a great day.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

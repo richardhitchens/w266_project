@@ -1,0 +1,811 @@
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 1 of 15
+Q3 2010 Earnings Call
+Company Participants
+• Tony Takazawa, Vice President, Global Investor Relations
+• David Goulden, Executive Vice President and Chief Financial Officer
+• Joseph M. Tucci, Chairman, President and Chief Executive Officer
+Other Participants
+• Aaron Rakers
+• Daniel Ives
+• Brian Marshall
+• Ittai Kidron
+• Rajesh Ghai
+• Amit Daryanani
+• William Choi
+• Mark Moskowitz
+• Jason Ader
+• Maynard Um
+• Ben Reitzes
+• Kaushik Roy
+• Louis Miscioscia
+• Keith Bachman
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome, and thank you for standing by. All participants will be on listen only until the question-and-answer session
+of today's conference. As a reminder the conference call is being recorded. If you have any objections, please
+disconnect at this time. I'd like to turn the call over to our speaker, Mr. Tony Takazawa. Sir, you may begin.
+Tony Takazawa, Vice President, Global Investor Relations
+Thank you, Jo.
+With me here in Hopkinton, we have David Goulden, EMC Executive Vice President and CFO. David will provide a
+few comments about the results that we released this morning. He will highlight some of EMC's activities this quarter
+and discuss our updated outlook for the rest of 2010.
+Joe will then spend some time discussing his view of what is happening in the market, EMC's execution of the strategy
+and how EMC is positioned to help customers on the journey to the cloud. After the prepared remarks, we will then
+open up the lines to take your questions.
+I would like to point out that we will be referring to non-GAAP numbers in today's presentation unless otherwise
+indicated. The reconciliation of our non-GAAP comments to our GAAP results can be found in the disclosure today in
+our press release, supplemental schedules and the slides that accompany our presentation. All of these are available for
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 2 of 15
+download within the Investor Relations section of emc.com.
+As always, we have provided detailed financial tables in our news release and on our corporate website. These include
+a lot of financial detail so we do encourage you to take a look at them. The call this morning will contain
+forward-looking statements and information concerning factors that could cause actual results to differ can be found in
+EMC's filings with the U.S. Securities and Exchange Commission. And lastly, I will note that an archive of today's
+presentation will be available following the call.
+With that, it's now my pleasure to introduce David Goulden. David?
+David Goulden, Executive Vice President and Chief Financial Officer
+Thanks, Tony.
+Good morning, everyone, and thank you for joining us today. I'm very pleased to report that EMC had another great
+quarter. We achieved record revenues of over $4.2 billion, up 20%; record Q3 non-GAAP net income of $649 million,
+up 35%; non-GAAP EPS of $0.30, up 30%; record year-to-date free cash flow of $2.2 billion, up 22%; and non-GAAP
+operating margin of 21.5%, up 80 basis points sequentially.
+We continue to execute on our triple play. With strong double-digit growth in storage security and virtualization, it's
+clear we continue to gain share in these key areas of the market, areas where we're already the market leader. With the
+announcements of VMware View 4.5, storage efficiency technologies like FAST v2 and FAST Cache and the
+acquisition of Greenplum, it's clear we're investing for the future, and more importantly these investments are bearing
+fruit.
+And with non-GAAP gross and operating margins up 40 and 80 basis points, respectively, quarter on quarter, we
+continue to improve profitability. We expect to continue this triple play over the long-term because of how well we
+positioned ourselves to capitalize on the fundamental shift to cloud computing.
+Now, let me start by taking a few minutes to discuss what's driving our good results. The industry generally agrees the
+shift to cloud architecture is no longer a question of if but of when. The answer is it's happening now, albeit at different
+speeds for different companies. But all companies go through the same three phases to transform their traditional
+physical infrastructures to true cloud architectures and to take full advantage of the ability to offer IT as a service.
+Phase one is the virtualization of IT-owned applications, which also requires simple, efficient VM integrated storage.
+Phase two is the virtualization of business critical applications. This is where SLAs around performance availability,
+workload availability, recoverability and security really matter. Phase three realizes the full benefit of cloud by taking
+advantages of phases one and two, together with IT automation, provisioning and chargeback to offer IT infrastructure
+as a service for the entire enterprise. It's at this phase that you have an elastic cloud of compute networking storage
+resources and are also seamlessly drawing on compatible cloud services where it makes sense.
+So let's look at what EMC offers for each one of these phases. The first phase typically tends to involve small
+deployments. Typically it involves the IT department's virtualizing applications they own and manage. For these
+implementations, which require virtualization and simple and efficient storage, EMC has VMware's VSphere, our
+unified storage products. With the majority of customers currently in this first phase, our unified storage product line
+has grown rapidly, and others are benefiting from this trend in the mid-tier as well.
+Where we're really distinguishing ourselves in this phase is with efficiency technologies like SSDs, FAST and FAST
+Cache, as well as with tight integration with VMware. For example, one well-known online brokerage firm in the
+quarter selected EMC's unified product in large part because of FAST Cache. Its ability to accelerate performance to
+address unexpected workload spikes could not be matched by either of the other two vendors competing for this deal.
+In the second phase, where virtualization extends to business critical applications, SLAs become very important. In
+fact, customers are telling us they want better SLAs after they virtualize. Also if customers selected to deploy business
+critical applications on enterprise storage for high SLAs in the physical world, they're not going to deploy them on
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 3 of 15
+mid-tier as they virtualize. In the second phase, customers look to technologies from VMware like vCenter AppSpeed
+and vSphere Storage and Network IO Control to help control performance SLAs at the application, storage and network
+levels. Likewise, they demand that their storage infrastructure extend these capabilities and support these SLAs.
+For example, EMC's FAST works with storage IO control to deliver industry leading distributed resource scheduling
+for storage, make the enterprise apps perform two and a half times better for the same cost. Customers also look to
+things like VMAX, VPLEX, Deduplication and Security to meet these SLAs deeper in the infrastructure.
+In phase one, a ray-based snap and replicate is suitable for backup, but in phase two tight integration of high
+performance backup like EMC's Avamar with vStorage APIs and with V sensor provides much higher service levels.
+For example, in Q3 a large manufacturing customer who wanted to reduce space and power consumption in a data
+center, and at the same time virtualize their service and desktops selected VMAX. We won another deal at a
+well-known global cosmetics company. In this case the customer is expanding its VMware implementation and will use
+active-active VM teleportation with VPLEX to raise availability and federate across data centers at distance.
+These are great examples of the sophisticated enterprise class technology required in this phase, and in these cases it
+happened to be technology our competitors could not match. In fact, in phase two implementations, larger competitors
+tend not to have all the necessary best of breed technology, and our mid-tier competitors don't have the portfolio to
+really provide a full solution.
+Phase three is when you really get to IT as a service. This involves things like integrated stacks, management up and
+down from physical to virtual and usage monitoring, all of which EMC offers. Our VCE coalition enables hybrid
+clouds with Vblocks. Our UIM, Unified Infrastructure Manager, offers cross-domain provisioning, change and
+configuration managements. vCloud Director offers self provisioning of virtual machines in a multi-tent environment,
+and VPLEX facilitates seamless data mobility between private clouds and external providers.
+Illustrating this, a very large pharmaceutical company this quarter decided it was taking them too long to provision
+their virtual machines and turned to EMC. Now as they implement their VMware road map they're moving forward
+with Vblock with VMAX, UIM and will use VPLEX for an active-active data center architecture. What these examples
+demonstrate is that there does not tend to be any one typical cloud deal. Companies' infrastructure requirements are as
+varied as the companies themselves. This why it's so important to have a broad and deep range of products and
+services, and as each company develops its cloud infrastructure road map EMC can meet their needs through every
+phase, from the departmental to enterprise wide from tier 0 to the back of an archive.
+Now, a common question in the investor community is whose storage works best in virtualized environments? We
+think the best way to find out is to go ask customers which vendors they trust. As you can see from the results of these
+surveys, which come from separate sources, EMC consistently rises to the top when it comes to providing
+infrastructure for virtualized environments.
+Now there is one smaller competitor claiming to have a lead in virtualized environments, but the facts simply don't bear
+it out. Rather note it tends to be the bigger, more established companies with broader offerings that come in behind
+EMC. Customers realize that the journey to a cloud infrastructure can be complex, requiring a broad range of services.
+As a result, they go with companies like EMC that can provide more.
+Public cloud providers are also building the infrastructure on EMC for a number of reasons. With virtualization being
+the foundation for public cloud service, VMware is key. With the vast amounts of data being stored and managed by
+public cloud providers, scalability is critical. For example, VMAX's x86-based scale architecture offers this at petabyte
+scale.
+With multitendencies, security is critical, and the ability to attest to that security is just as important, particularly for a
+public cloud provider. RSA Cloud Security solution offers this accountability. And enterprise customers need data
+mobility for true seamless hybrid cloud, and VPLEX enables the advanced federation of resources into and out of the
+enterprise.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 4 of 15
+This quarter we announced that several service providers are taking advantage of these technologies for offering public
+cloud services to their clients, and this number continues to ramp. Joe will give you more color on some of these wins
+in his comments. The various examples I referenced are just a few of the deals we closed in Q3 with customers looking
+to start or continue to build out their cloud infrastructures, both private and public. Our Q3 cloud wins span verticals
+including government, healthcare, media, manufacturing, energy, services and academia, and all of our product line,
+across VMware, Security and Storage including high-end and mid-tier block and file.
+Now that I've given you a sense of what's behind our strong results, let's look at the numbers in more detail. Revenue in
+the quarter grew 20% to $4.2 billion in Q3. The increasing value customers received from our products and services is
+driving improvements to our business, with non-GAAP gross margin of 60.5%, up 40 basis points sequentially. This
+improvement was driven primarily by higher storage product margins, thanks to the faster growth of our higher-margin
+storage products.
+Ongoing operating improvements helped drive non-GAAP operating margins of 21.5%, up 80 basis points sequentially
+and non-GAAP earnings per share of $0.30, up from $0.28 last quarter and from $0.23 a year ago. Free cash flow is
+strong, and year-to-date was $2.2 billion, up 22%, and $427 million greater than our non-GAAP net income for the
+same period.
+We ended the quarter with $10.5 billion in cash. Of this, a total of $6.2 billion was held in the U.S. with the remainder
+overseas. We spent $500 million on acquisitions in the quarter and $283 million buying back 15 million shares of EMC
+stock, bringing us to $800 million on EMC share repurchases so far this year. We still expect to spend $1 billion on
+EMC stock by the end of the year. In addition, EMC spent $92 million buying VMware shares, and VMware spent 131
+million on VMware shares. Looking at VMware's pivotal role as the cloud data center operating system of the future,
+we feel strongly that these relatively small purchases to maintain our ownership level are an excellent long-term
+investment.
+Now looking at our geographies. We saw balanced double-digit growth around the world with strongest growth in our
+BRIC plus 13 emerging markets. Joe will provide some more color here. The negative impact of currency on our
+year-on-year revenue growth in Q3 was 60 basis points. Assuming rates stay at September 30 levels, there should be no
+impact in currency on our full year revenue results. Now, turning to a few details about our various products and
+services.
+Overall storage related revenues grew 16% with or without acquisition effects. We believe that we continue to gain
+share in key segments of the storage markets. We are the number one storage due in large part to our technology
+leadership, and this is what continues to define us today. We are the leader in the most important technologies in
+information infrastructure. For example, we were the first to introduce SSDs in enterprise storage and the automated
+tiering software to leverage it. The ability to marry solid-state and spinning drives leads to enormous performance in
+efficiency improvements. We unveiled this destructive technology almost three years ago, and we're clearly benefiting
+from our leadership here in both high-end and mid-tier storage systems.
+This past quarter we continued to reap the benefits of our innovation as our Symmetrix product revenues were up a
+robust 23%. The VMAX infrastructure leverages standard x86 processing, it's highly scalable in terms of both
+performance and capacity and includes advanced high value functionality like virtual provisioning and FAST. It is
+these capabilities, which are driving our gains, not only in the traditional high-end deployments but also in large
+consolidation plays, private cloud infrastructures and increasingly public cloud environments.
+I think that the success and brand tradition of Symmetrix leads many to think just in terms of traditional high-end
+storage, and of course, we continue to set the pace there. However, I would encourage you to think more broadly
+regarding how this new architecture has been designed to be ideally suited for the new information requirements of
+virtual infrastructures in cloud environments. It's this combination of our existing leadership position and the rapid
+penetration of these new cloud-focused environments that's driving our strong results.
+A great example of this success is a Q3 win at a major global healthcare company. In this deal, VMAX's virtual
+provisioning and FAST with the ability to tier to scatter drives were key features as these enabled the customers to
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 5 of 15
+increase utilization, simplify their environment and reduce CapEx and OpEx. In this case, where the customer was
+deploying VMware, our competitor required three times the amount of hardware to perform equivalently to two
+VMAX engines. This is a clear example of how VMAX is winning in large VMware consolidations. In this case the
+customer wanted a storage system that could support 2,500 virtual machines and growing to 6,000.
+In fact, VMAX has proven itself to be so cost effective and flexible that in many instances customers have consolidated
+multiple mid-tier storage platforms onto one VMAX. This is happening with both EMC and competitive mid0tier
+storage platforms. As a couple of proof points, we swept the floor of a mid-tier competitor's products with the VMAX
+at the global healthcare customer I just mentioned and also in another win of one of the world's leading media and
+entertainment companies. As customers are moving towards the cloud, EMC is best able to help them along every step
+of the journey, and these are just two more examples.
+Our mid-tier storage business continued to show good growth again in Q3, increasing 22% year on year. The software
+capabilities we announced last quarter for our CLARiiON and Celerra platforms, Unisphere, FAST v2, FAST Cache
+and block compression for primary storage are being embraced by customers. Percentage of systems shipping with
+SSDs in the mid-tier continues to increase, helped in part by the availability of FAST v2 and FAST Cache. These
+features were definitely a factor in several of the deals we won this quarter, including where we beat out a mid-tier
+competitor in a well-known west coast university.
+In addition we won a project to remove an incumbent's mid-tier products, and we also beat two other vendors at a
+well-known U.S.-based retailer based upon the strength of our VMware integration and significantly better capacity
+utilization. Another key benefit of the breadth and depth of EMC's business is that we have a leadership position in
+some of the hottest areas of technology today.
+These technologies and products act as wonderful door openers for EMC. This was the case in a recent government
+project where we leveraged Data Domain's relationship to highlight the CLARiiON capabilities in our VMware
+environments. CLARiiON integration with VMware was a deciding factor in the purchase of several CLARiiON
+systems as initial footprints in a deployment that will eventually scale to several petabytes. That's in addition to the
+large Data Domain purchases happening this quarter. This is just one great example of the synergy and success of our
+model.
+Our backup recovery systems business continues to grow at a high pace. We expect BRS's extraordinary growth
+opportunities to play out for a long time. This will clearly lead to more success for BRS as the clear leader in the space,
+but it will also drive additional opportunities for EMC to help customers in other ways.
+As we announced, we've added a new division and a whole new set of opportunities to our portfolio. Greenplum, which
+we announced in July, is the foundation of our new Data Computing Products division. Its first new products, the EMC
+Greenplum Data Computing Appliance offers the industry's best price-performance ratio, three times more scalability
+and up to four times as many database calls and competitive systems and data input speeds up to five times that of our
+competitors. Our DCA integrates database, compute and storage into an enterprise class, easy-to- implement system
+that can meet petabyte scale big data requirements. We are very excited to pursue this incremental market opportunity
+by offering yet another leading edge solution to customers as they increasingly seek the best analytic tools to derive
+business values from their massive volumes of data.
+Our RSA Security revenue growth accelerated in Q3 to 22% year on year. Our GRC and SIEM products did well, as
+customers need a way to manage their multitude of discrete security devices. The combination of these capabilities
+enables customers to have an easy-to-use governance layer that can oversee and manage other security products
+throughout their environments. As security and compliance become increasingly important to all customers and as
+more infrastructures move towards the cloud, this unique governance and management layer is a key differentiator and
+enabler in the marketplace. This was the reason we won an important security operation center's project at a very large
+financial services customer this quarter.
+Revenue from our Information Intelligence Group was relatively flat against last year's Q3. The xCP platform
+continues to be very popular, and IIG won a number of significant new customers in the quarter.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 6 of 15
+Clearly the rollouts of virtual infrastructures and the buildouts of private and public clouds drove the strong growth of
+VMware in the quarter, up 46%. The excitement around VMworld with over 17,000 attendees is a great example of the
+impact VMware has on the industry. At VMworld, we made a number of announcements, including vCloud Director,
+VMware View 4.5, vShield and vFabric.
+We also made a number of announcements around how other EMC products are being integrated with VMware,
+including Unified Infrastructure Manager 2.0, which when deployed with vCloud Director and Vblocks creates what's
+essentially a vCloud in a box. Other announcements include an EMC storage infrastructure with secure authentication
+which when combined with View 4.5 sets a storage efficiency record of $38 per client, the best in the market due to
+tight integration of all these various technologies. We also announced a strong RSA VMware cloud security and
+compliance solution, another industry first that will help ease the security concerns of customers as they move towards
+the cloud.
+Because virtualization is the foundation of cloud computing, a key to success with VMware is bringing the virtual
+infrastructure and the information infrastructure together. And while we encourage others to work with VMware, we
+work harder than anyone else to integrate the virtual and information infrastructures. With over 60 different integration
+points now between EMC and VMware, including support for all the VMware APIs, we lead in VMware integration.
+Recognizing the difference such tight integration makes in performance, a global medical technology company
+purchased both the CLARiiON and Celerra system in the quarter. It was the combination of the VM plug-ins, unified
+architectures and features like FAST and FAST Cache, all from one vendor, that drove this deal for us.
+Our result this quarter and for the last several are great indicators of the strength of our strategy and business model.
+The move to cloud is underway. All of IT is moving in this direction, and while customers are moving they're spending
+towards these new architectures at varying speeds, the tidal wave of change is definitely real.
+We are leading in the hottest areas of the move to the cloud, and we have the broadest portfolio across all the key
+customer requirements from virtualization to storage to security to information governance. And while we cannot
+control the economy or IT spending, we believe that we will certainly continue to grow and gain share due to our
+leadership position in this rapidly growing opportunity.
+So looking at the environments, the opportunity ahead, our unique competitive position and the strength of our strategy
+and model, we are once again raising our expectations for 2010. We now expect to achieve $16.9 billion in revenue,
+non-GAAP operating margins of 21 to 22% and non-GAAP EPS of $1.25. This reflects revenue growth of 20% and
+EPS growth of 39%, very robust growth and even better leverage.
+As you can see, strong growth with leverage in investments have been the standard for us since 2004, and with the
+results and outlook we're reporting today, it's clear we're continuing on this trajectory. But what's most exciting is the
+fundamental shift to cloud architectures is only in the early stages, and we believe we are better suited than anyone else
+to capitalize on this trend as it unfolds over the next several years. We fully expect that the triple play of share growth,
+investment for the future and financial leverage we're delivering this year can be maintained over the long-term.
+So in summary, our strategy's clear, the business and operating model are in place, our investments continue to pay off,
+and the cloud opportunity is very big. As a result, we expect to continue to deliver double-digit revenue and
+double-digit earnings growth for the next few years. I'll now turn the call over to Joe who will provide some more color
+on the quarter and what we see through the end of the year. Joe?
+Joseph M. Tucci, Chairman, President and Chief Executive Officer
+Thanks, David, and a warm welcome to everyone attending today's conference call.
+As always, thank you for your interest in EMC. As Tony said, I am currently in Beijing and thus actively participating
+in today's earnings call from approximately 6,000 miles away from my colleagues, but I trust the marvels of
+communication technologies will make the mechanics of this call appear seamless.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 7 of 15
+Overall, I was very pleased with our performance in Q3. In fact, our topline revenue was the best in EMC's history as
+we posted solid growth on both a year-on-year and sequential basis. I am also proud to report that we continue to create
+leverage in our P&L while investing in the future. To this end, in Q3 we added approximately 1,700 professionals to
+consolidated EMC in the areas of sales, emerging high growth markets, R&D and VMware. Our goal is to develop
+more innovative products and maintain strong growth.
+And most importantly we established EMC and VMware as clear thought leaders with substantial momentum in
+private, public and hybrid cloud computing. We firmly believe cloud computing, which enables IT as a service, is the
+next big transformational wave that is shaping the information technology landscape. Our success in Q3 would not
+have been possible without the hard work and dedication of the 47,000 people of EMC and VMware around the world.
+I want to thank them for their leadership and congratulate them on their accomplishments.
+I would now like to make a few comments on the global economy and more importantly our view on IT spending
+trends. On the economic front on a consolidated global basis, we continued to see a slow recovery, albeit with a few
+bumps in the road. Pretty much in line what we have been saying all year, and looking forward, we expect this trend to
+continue.
+Closer to home in IT spending terms, we are seeing real strength in rapid growing and emerging geographies; moderate
+growth in the U.S, Japan, most of Europe, albeit with a bit of chopiness in a few countries; and solid growth in
+countries such as Australia, Canada, Mexico and South Africa. Additionally across all markets the very good news is
+that the demand for virtualization, information storage, information protection and information security and
+governance, areas where EMC/VMware is the leader are growing considerably faster than the IT average. This is
+evidenced by the fact that in Q3 we grew on a year-on-year basis 21% in the U.S.; 28% in APJ, 22% in constant
+currency; 14% in Europe, 19% in constant currency; and approximately 30% in emerging markets. This balanced
+geographic growth demonstrates that we are focused on IT markets that are growing much faster than the IT market as
+a whole, and more importantly we are clearly taking share.
+Additionally what drove this demand is the ever continuing growth of information and the innovative uses of this
+information by our customers as they drive for higher and higher levels of productivity while meeting the mandate for
+risk mitigation and adherence to proper governance and compliance policies. What adds to our confidence in our future
+is the thought leadership, innovations and strong product road map we have in a new big wave of IT, cloud computing.
+It is our firm belief that cloud computing will transform enterprise IT shops as the customers migrate their IT data
+centers into private clouds. This transformation will also happen in the service provider community as they build out an
+expensive number of very large enterprise class public clouds.
+Additionally, the actualization of private and public cloud computing will provide our customers a massive benefit,
+mainly the ability to run applications more flexibly with a lot more automation at a significantly lower cost, while
+assuring that the attendant policies and service levels are adhered to.
+But even lower costs and more flexibility can be achieved as customers take advantage of both private and public cloud
+computing by federating or operating their various application loads between their own private clouds and the public
+clouds of their chosen service provider partners. We call this cloud implementation the hybrid cloud.
+I assure you the mast majority of our R&D budgets, our acquisitions, our go-to-market motions and the buildout of our
+partner ecosystem is aimed at leading and winning in this game-changing hybrid cloud opportunity. The importance of
+having a world-class partner ecosystem cannot be overstated. I firmly believe no one IT company could possibly
+possess all the IT resources to go it alone. And very importantly, every single customer I speak with wants – in fact,
+demands – best of breed and choice.
+To this end, our partnership with Cisco is deepening and our VCE coalition is gaining significant momentum in the
+market. As proof, I am again pleased to report that our Vblock sales are well ahead of plan. Our partnerships with
+system integrators such as Accenture, CSC, Capgemini, Wipro, TCS, Deloitte and others continues to grow
+strategically and technically.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 8 of 15
+And last, on the service provider front, we are building a number of very deep alliances with many of the leading telcos
+and service providers around the world. In Q3, we announced partnerships with the following companies: France
+Telecom's Orange Business Services, SingTel's Alphawest, Saudi Telecom, Cable and Wireless, and Terremark. And
+you can expect many more announcements over the coming weeks and months.
+In summary, EMC is executing well in today's IT market. We have a great product and technology portfolio and the
+go-to-market prowess to capture the opportunity that the private, public and hybrid cloud computing wave offers. Thus,
+I reaffirm our belief that we can achieve double-digit growth rates over the long-term, and to help you better understand
+why we are so confident in our future, we will host an investor and analyst day in Q1.
+I'd now like to turn it back to Tony to moderate today's portion – Q&A portion of today's call.
+Tony Takazawa, Vice President, Global Investor Relations
+Great. Thanks, Joe.
+Before we open up the lines for your questions, as usual, we ask you to try and limit yourself to one question, including
+clarification. This will enable us to take as many questions as possible. Thank you all for your cooperation in this
+matter.
+Operator, can we open up the line for questions, please?
+Q&A
+Operator
+[Operator Instructions] Our first question, Aaron Rakers of Stifel, Nicolaus Investment Advisors. Sir, your line is open.
+<Q - Aaron Rakers>: Yeah, thanks, guys, and congratulations on the good quarter. So my question is going to be
+around basically the cloud strategy as a whole. You guys lay out obviously a clear picture of where you're going from a
+strategic perspective. Can you help me understand where clustered NAS fits into your thought process around cloud or
+the market that you guys look to address going forward?
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: Sure, Aaron. Basically, we have a very
+successful high-end NAS product with Celerra. There's a lot of developments that we are investing in there,
+development activity that we're investing in there, with products coming to market.
+Cluster NAS is really all about how do you handle the global name space. We have really solid plans in that area, and I
+feel comfortable with our road map. As always, I like to keep some surprises, so we don't – I don't want to tell you
+exactly when we'll release new products, but I will say we have a very robust product line for 2011.
+<Q - Aaron Rakers>: Thank you.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks. Next question, please.
+Operator
+Daniel Ives of FBR. Sir, your line is open.
+<Q - Daniel Ives>: Yeah, thanks. Can you speak to the federal in the quarter relative to expectations?
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Yeah, Daniel, sure. We – in federal,
+we saw a good quarter-on-quarter growth in the quarter, as expected, but relative to the rest of business, it wasn't quite
+as strong, again, as expected. So good sequential growth and pretty much in line with where we expected to come out.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 9 of 15
+<Q - Daniel Ives>: Congrats again. Good quarter. Thanks.
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Thank you.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks, Daniel. Next question, please.
+Operator
+Our next question, Brian Marshall of Gleacher & Company. You may ask your question.
+<Q - Brian Marshall>: Hi, thanks, guys. I'd like to echo the nice quarter. Looking at, I mean, it appears most of your
+business lines are fully optimized at this point. I guess I'd like to focus on the one that doesn't appear to be, the
+Information Intelligence Group, the old Documentum. I was wondering if we could get an update here, kind of what
+you see out there from this business unit and how strategic this is going forward, relative to kind of the focus on the
+hybrid cloud. Thank you.
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Okay, Brian, sure. A couple of
+things, first of all, when we think of the hybrid cloud, one of the big phenomena there is big data. And big data is going
+to come in a couple different forms. It's going to come in the structured form, and that's obviously where Greenplum
+and the DCA that we just announced are important, and it's also going to come in the unstructured form, again, which is
+why Documentum is still a very important part of the overall strategy.
+Now within the IIG business, there's a couple things happening underneath the surface. That business is transitioning
+from a large enterprise license type business to a smaller application dependent business, so we're moving from the
+traditional ELAs to the kind of smaller XTP application-oriented rollouts. So underneath the surface you're seeing that
+churn occur, and that's why you're seeing the topline relatively flat. But strategically it still has a great role in the cloud
+strategy.
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: David's right, Brian, there's a lot of
+moving pieces, and we are in the transition through our xCP strategy which will make the Documentum platform a lot
+more lightweight, a lot more SaaS enabled, and as we get through that transition, we expect we'll see better growth.
+<Q - Brian Marshall>: Thanks, Joe.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks. Next question, please
+Operator
+Ittai Kidron of Oppenheimer. Sir, you may ask your question.
+<Q - Ittai Kidron>: Thanks. A question for David, and first, here again, congrats on the numbers. With regards to the
+gross margin in your core EMC business, 55.5% this quarter, I can't even remember the last time you've got such high
+gross margins, and with some of your larger competitors making a lot of acquisitions and trying to accumulate a lot of
+assets after years of nonactivity in your area.
+How should we think about gross margins in your core business going into next year? And also, VMware provided
+some initial growth thoughts on 2011 last night. Would you care to do the same with regards to your business?
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: First of all, no, we're not going into
+2011 at this point in time, other than to reiterate my comments I said earlier that we are looking to execute our triple
+play over the long-term, and certainly next year, we'll be looking at double-digit revenue growth and double-digit
+earnings group, and those are the only cows, if you like, stakes I'm putting in the ground right now relative to 2011.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 10 of 15
+Relative to gross margins, I mean yes, we have seen nice expansion in the non-VMware side of the business. As I
+mentioned during the quarter, what we're seeing is a mix shift towards our higher gross margin products. So we're
+doing very well with things like our NAS products, like our VMAX, like our Dedup products and some of our storage
+software, and that mix shift is helping the margins grow sequentially.
+I would point out to you gross margins, we equate that as an indicator of kind of value you're providing to the
+customer, and the more value you're providing to the customer, the better gross margins are going to be within the
+business. So that's what's happening beneath the service there.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks, next question, please.
+Operator
+Rajesh Ghai of ThinkEquity LLC. Sir, your line is open.
+<Q - Rajesh Ghai>: Yes, thanks. Thanks for taking my question. So a number of your large competitors have
+announced integrated appliances for the cloud. I wanted to understand what your views were on this competitive
+activity, and whether you believe that your Vblock strategy was an adequate response?
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: Well, I don't think Vblock strategy was
+a response. I think we started it. Kind of the first integration of taking the cloud OS VMware, the connectivity and
+network, the server and the storage and putting it together was pioneered by us. So I don't think we're reacting at all. I
+think others are reacting to us.
+We – us and Cisco, we're not giving out numbers yet, but what I've told you is true. Our – we set what I thought was a
+pretty aggressive plan for Vblocks, and I'll repeat what I said. We are well above our plan that we set for ourselves,
+both last quarter and this quarter and for the year. So it's going well.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: All right. Thank you, next question, please.
+Operator
+Amit Daryanani of RBC Capital Markets. Sir, your line is open.
+<Q - Amit Daryanani>: Thanks. Good morning, and thanks for taking my question. Just a question on your – 3PAR
+was acquired by HP amidst a bidding war. How do you guys think PAR being at HP changes the landscape in high-end
+storage, especially for VMAX, I guess, given HP's sales and services?
+And then secondly how do you think the EMC-Dell relationship goes further given their keen interest I think on other
+storage assets versus reselling CLARiiON?
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: I don't think that 3PAR changes the
+landscape at all. We've been – 3PAR is 10 years old, we've been competing with it for quite a while.
+From HP, will they make 3PAR more successful? I'm sure they will, but I think what you're going to see there is in
+large substitution for their high-end EVAs and for business that they previously funneled to Hitachi. So I really don't
+see that changing the landscape as all.
+As far as the Dell relationship, obviously, we took a step back as Dell went after 3PAR. And obviously cooled things
+off. We are again in discussions to see if we can do something more meaningful and lasting. Both companies would
+like to do that, but the key is it's got to be meaningful, and it's got to be lasting for me to tell you that it's back on track.
+So I can't tell you that yet, but I can tell you we are in serious discussions, and there is intent on both parties to do that.
+But obviously 3PAR moved from Dell was a setback to the relationship.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 11 of 15
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks, next question, please.
+Operator
+Our next question, William Choi of Jefferies & Company. Sir, your line is open.
+<Q - William Choi>: Okay, thanks. Need a quick clarification first. Storage grew 16%, you said Symm up 23, mid-tier
+up 22%, so what within storage was below 16%?
+And then the question is really if you could talk about the low-end products, you guys have talked about bringing that
+out in Q1, what would be kind of the margin and revenue ramp profile of this? I would imagine these things would
+certainly have higher software integration to them?
+And related to that if you could update us on how you're doing with channel push there, how many partners you've
+been able to add and what kind of metrics we could talk about? Thanks.
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: All right, Bill, I'll start that. I'm going
+to pass it over to Joe for the second part.
+So in terms of storage, you're right. The total storage business was up 16% – Symm 23, mid-tier 22.
+Remember that in the storage business, well, first of all, those numbers I gave you for Symm and mid-tier are product
+only numbers. In the storage business, there's also products and services, maintenance and professional services, and
+also there are a number of other products in there, including some of the third party products that we sell through like
+the Connectrix switches and our Select line. So that's the difference between the 16 and the 23 and the 22.
+And for updates on mid-tier, I'm going to pass that over to Joe.
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: Yeah, obviously, we said, and I'll repeat
+it, that we think we have a very, very competitive – very excited about it – low-end product coming in Q1. We'll
+announce that in early Q1. It is on track. It is in beta now. It is doing very well, and again I'm very excited so stay
+tuned. We'll announce that in Q1.
+It is the fastest growing market in storage, and again we're excited to be – very excited about the prospects of entering
+that market in a big way. In a big, big way.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks. Next question, please.
+Operator
+Mark Moskowitz of JPMorgan Chase. Sir, your line is open.
+<Q - Mark Moskowitz>: Yes, thank you, good morning. I wondered if you could give us an update on the backup
+recovery business, in terms of revenue run rate? Previously you commented [inaudible] $1 billion, see if there's an
+update there. Maybe also talk about the cross-selling opportunities in the heritage Data Domain accounts.
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Mark, I got the first part of the
+question in terms of the run rate. Can you repeat the second part, please?
+<Q - Mark Moskowitz>: Yeah, the other piece was if you could just talk about the cross-selling opportunities within
+the Data Domain accounts in terms of heritage Data Domain? What kind of pull through are you seeing there for
+[inaudible] products?
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Okay. Great, got it. Mark, so on the
+run rate, we mentioned that in the third quarter, Data Domain and Avamar lines combined had reached the $1 billion
+run rate, which was ahead of plan. We said we'd get to that level in 2010. We got there in Q1.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 12 of 15
+And that's continued to increase sequentially into Q2 and then again into Q3. So we're not going to go break that out
+again, once we got beyond our $1 billion run rate. But we are continuing to see sequential growth, and obviously the
+run rate's now higher.
+In terms of cross-selling, some nice opportunities. I mentioned, for example, in my prepared comments where we'd
+cross sold into a Data Domain account a large CLARiiON project that's going to scale up to petabyte type scale, and of
+course there's good BRS opportunities into the EMC accounts.
+So the good news is that when we look at BRS, A, it's opening new doors for us, and B, we're also able to increase our
+footprint inside of the EMC account. So it's working both ways. It's certainly a win-win from that point of view.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks, next question, please.
+Operator
+Jason Ader of William Blair. Sir, your line is open.
+<Q - Jason Ader>: Yeah, thank you very much. My question is on the implied sequential growth guidance for the
+topline for the core business for the information infrastructure. It's around 14%, if my math is right. That seems slightly
+stronger than seasonal, so given your comments on the economy being sort of in a slow recovery, I was wondering if
+you could add any color on why you think that's going to be as strong as the implied guidance suggests?
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: Actually, Jason, are you talking Q3 to
+Q4 sequential growth? Seasonality?
+<Q - Jason Ader>: The five-year average is something like 13%, and this implies around 14%, so it seems like a little
+bit better than the kind of historical.
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Yeah, Joe, Jason is talking excluding
+VMware, just to clarify his comment.
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: It's close, Jason. I mean basically what
+we're doing is like we do all the time. We get bottoms of forecasts. We could put a little bit of management wisdom
+hopefully on those forecasts, and we've been pretty accurate through the year, and this is where we're coming up and so
+we're telling it to you as we see it.
+So we don't see the market slowing down. We think there's good opportunity out there for IT and especially in the areas
+we are – virtualization, storage, information protection, information security. Those areas are hot, and I suspect they
+will remain hot for the foreseeable future.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks, next question, please.
+Operator
+Maynard Um of UBS. You may ask your question.
+<Q - Maynard Um>: Hi, thanks, in terms of the three phases to get to true cloud, can you just talk about what inning
+we're in in phase one rollouts? And as we move from phase one to two, do you think we get a pause because of either a
+hesitancy to move to mission critical apps or maybe because we have to digest before we start consuming again, or do
+you think this is a seamless transition between the two phases? Thanks.
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: I think it's pretty seamless. Customers
+are seeing phenomenal reliability. The VMware OS continues to get the highest marks in the industry for stability and
+high quality in their platform. And of course, with the advent of Nehalem servers, would give you that six to eight cores
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 13 of 15
+and tremendous power.
+Customers are seeing the reliability, the capability, and they are definitely, definitely moving to phase two without a
+pause. And I think phase two will be very successful.
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: And Jason (sic) [Maynard], just to
+pick up on that comment, as I mentioned, the requirements and the benefits that customers change from the phases.
+Phase one is really about consolidation cost reduction. Phase two, customers are looking for costs, they're actually
+looking to increase their SLAs as they virtualize, which requires a whole set of technology to drive the optimization
+around those SLAs.
+So it really changes the game very much from a VMware point of view, but also from a storage point of view. The
+requirements in phase two are very, very different, and that's why I gave you some examples in my script because the
+ability to seamlessly reach phases one and phases two really sets us apart.
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: By the way, speaking from firsthand
+experience, our own IT shop, we have moved a substantial number of our mission critical apps, matter of fact, all of our
+CRM apps from – to this world, and we're seeing great opportunities so we are clearly kind of drinking the Kool-Aid
+and getting a very good taste.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Great. Thanks, next question, please.
+Operator
+Ben Reitzes of Barclays Capital. Sir, you may ask your question.
+<Q - Ben Reitzes>: Yeah, I want to focus a little bit more on the fourth quarter guidance. I mean, clearly you guide up
+versus Street expectations for the fourth quarter end earnings. I just was wondering, Joe, you said you did a bottoms up
+forecast, but what is going better than expected and included in that guidance? Is Symmetrix number look pretty strong
+vis-à-vis expectations, maybe, what are we missing potentially that had you raise guidance that's better than expected?
+It seems like a pretty strong outlook Thanks.
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: Well, clearly on the storage side the
+stars of the show would be, VMAX and our BRS, Data Domain and Avamar products. And the other star of the show is
+our NAS business, our Celerra NAS business is also growing tremendously faster than our major competitor. So those
+would be the stars of the show. Obviously, information security is incredibly important, and you see the growth in our
+RSA divisions business. So those are going great, and our – our new entry into Greenplum is showing a lot of progress
+and a good pipeline. That's not going to be a major impact, obviously because of its size, but still got great growth. So
+we have several areas that are – I would call hot, and of course you mentioned you wanted the II side, but VMware
+continues to – they raised their guidance also. So pretty good strength across major product lines, and then, of course,
+we've got some – in Q1 we're going to enter a new phase with our low-end products so we're in pretty good shape
+going forward, in very good shape going forward.
+<Q - Ben Reitzes>: Thanks, Joe.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Thanks, next question, please.
+Operator
+Kaushik Roy of Wedbush Morgan Securities. Sir, your line is open.
+<Q - Kaushik Roy>: Congratulations on the quarter. One of the concerns during Q3 was if customers are waiting for
+the unified CLARiiON and Celerra anticipated next year. Can you comment on what you saw in the CLARiiON
+product line or what to expect there? Thanks.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 14 of 15
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: Well, obviously, I didn't mention
+CLARiiON as a star. But it's holding its own. What we did do, which customers are loving, is as I said, as we did with
+our VMAX platform and before, we have released a lot of the key software on the older platforms ahead of the new
+announcements. So Unisphere, FAST Cache, FAST v2, new compression technology are being very well received by
+customers, and that's having an effect. Obviously CLARiiON is also affected by Dell moving on to EqualLogic. So
+CLARiiON had a lot to overcome. Our new whole mid-tier strategy, we think, is back on track and we're looking
+forward to the future. So I think it'll continue to not be a star in Q4, but it will prod along and do okay.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: Great, thanks. Next question, please.
+Operator
+Lou Miscioscia of Collins Stewart. Sir, you may ask your question.
+<Q - Louis Miscioscia>: Okay. I guess I was going to ask about Europe, as to why it was, I guess growing less than
+some of the other geographies. But also, since you mentioned it, that your competitor in the NAS area that you're
+growing faster than them. I think in their hardware area last quarter, they grew 50% year-over-year last quarter, maybe
+you could give us some comparable numbers to also take a look at your numbers within the mid-tier area for you.
+<A - Joseph M. Tucci, Chairman, President and Chief Executive Officer>: Well, think of it like this – I'm not
+going to give you new numbers, but I understand their growth rate. And I said that our – if you looked at our Celerra
+alone, it grew faster and I say that again. So obviously our Celerra is aimed at – Celerra NAS is aimed at the higher
+end. And that's a good space to be, and we're going to do a lot of expansion there as I answered to the first question.
+However, where they're growing extremely fast is an area we're not in, which is the low end, which I told you we
+started addressing in early Q1. So that's kind of the macro statement around that.
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Yeah, and then Lou, just to pick up
+on your question about Europe, as Joe mentioned in his comments, if you look at Europe in constant currency, you
+actually grew it 19%, so where we did have a currency headwind – in my script it was about 60 basis points for the
+quarter, basically all the headwind was in Europe, and 19% current currency is pretty good growth.
+<A - Tony Takazawa, Vice President, Global Investor Relations>: All right, we have one time for one question, and
+Joe will have a few closing comments.
+Operator
+Our last question, Keith Bachman, BMO Capital Markets. Sir, your line is open.
+<Q - Keith Bachman>: Hi. Thank you. David, could you talk a little bit about cash flow and free cash flow? As you
+think about Q4 specifically, what are the objectives that you have? And you mentioned '11 double-digit revenue and
+earnings growth, how should we be thinking about free cash flow particularly since it – on the consolidated basis it
+slowed down a little bit this quarter in terms of the growth rate?
+<A - David Goulden, Executive Vice President and Chief Financial Officer>: Yeah, Keith, a few comments on free
+cash flow. First of all, I think it's – the one metric that's least helpful to look at on a quarter-by-quarter basis because of
+the ebbs and flows in timing, the working capital investments and even some CapEx buildups. So I comment that free
+cash flow for the year so far, it's up 22% year-to-date; it's over $400 million higher than our non-GAAP net income.
+Looking forward to Q4 and the year and looking forward to 2011, we continue to strive to have our free cash flow be
+higher than our non-GAAP net income.
+Joseph M. Tucci, Chairman, President and Chief Executive Officer
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2010-10-19
+Event Description: Q3 2010 Earnings Call
+Market Cap: 49,020.89
+Current PX: 22.39
+YTD Change($): -2.91
+YTD Change(%): -11.502
+Bloomberg Estimates - EPS
+Current Quarter: 0.417
+Current Year: 1.855
+Bloomberg Estimates - Sales
+Current Quarter: 5619.156
+Current Year: 23423.056
+Page 15 of 15
+So again, thank you for joining us, we very much appreciate it. And in closing I want to reiterate that we are executing
+well. Our strategy for the private, public and hybrid cloud is solid and gaining traction. We have a product road map
+that is well aimed and, again, very exciting. And we have the go-to-market and alliance partners necessary to bring
+these innovative products to market. But most importantly we have 47,000 plus great people in EMC and VMware who
+believe in our vision and our future. Thanks for joining us, and we look forward to seeing you in the future, talking to
+you soon. Thank you very much. Bye-bye.
+Operator
+That concludes today's teleconference. All lines may disconnect. Once again, that concludes today's call.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
