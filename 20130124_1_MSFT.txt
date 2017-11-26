@@ -1,0 +1,636 @@
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 1 of 12
+Q2 2013 Earnings Call
+Company Participants
+• Chris Suh
+• Peter S. Klein
+Other Participants
+• Philip A. Winslow
+• Walter H. Pritchard
+• Rick G. Sherlund
+• Adam Holt
+• Heather A. Bellini
+• Kash Gopalan Rangan
+• Brent Thill
+• John S. DiFucci
+• Colin W. Gillis
+• Brendan Barnicle
+• Gregg S. Moskowitz
+• Raimo Lenschow
+• Ed Maguire
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to the Microsoft Fiscal Year 2013 Second Quarter Earnings Conference Call. [Operator Instructions] Today's
+call is being recorded. If anyone has any objections, you may disconnect at this time. I would now like to turn the call
+over to Chris Suh, General Manager of Investor Relations. Chris, you may begin.
+Chris Suh
+Thanks, operator, and thanks, everyone for joining us this afternoon. This does feel like a bit of a homecoming. Some
+of you may remember I was in IR a number of years ago. I'm excited to be back and looking forward to working with
+all of you. With me today are Peter Klein, Chief Financial Officer; Frank Brod, Chief Accounting Officer; and John
+Seethoff, Deputy General Counsel.
+On our website, microsoft.com/investor, is our financial summary slide deck which is intended to follow our prepared
+remarks and provides a reconciliation of differences between GAAP and non-GAAP financial measures.
+As a reminder, we will post today's prepared remarks to our website immediately following the call until the complete
+transcript is available. Today's call is being webcast live and recorded. If you ask a question it will be included in our
+live transmission, in the transcript and any future use of the recording. You can replay the call and view the transcript at
+the Microsoft investor relations website until January 24, 2014.
+During this call we will be making forward-looking statements that are predictions, projections or other statements
+about future events. These statements are based on current expectations and assumptions that are subject to risks and
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 2 of 12
+uncertainties. Actual results could materially differ because of factors discussed in today's earnings press release, in the
+comments made during this conference call and in the risk factors section of the Form 10-K, Form 10-Qs and other
+reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any
+forward-looking statement.
+Before I hand the call over to Peter I'd like to remind you all that all growth comparisons we make on the call today
+will relate to the corresponding period of last year. Also unless specified otherwise all impacted numbers for the current
+quarter have been adjusted for the cumulative effect of the revenue deferrals and recognition related to Windows,
+Office and Xbox video games and the details of the adjustments can be found in our financial summary slide deck and
+press release.
+And with that, I'll turn it to Peter.
+Peter S. Klein
+Thanks, everyone, for joining us. I'm pleased to welcome Chris as the new Head of Investor Relations. Chris has been
+with Microsoft for over 16 years and has been in diverse finance roles, which gives him a good background for this
+role. I also want to thank Bill for all he has accomplished over the past four years and congratulate him on his new role
+as the CFO of the Skype division.
+This quarter we had record revenue of $22 billion and record earnings per share of $0.81. It has been an exciting
+quarter with the launch of Windows 8 and Windows Phone 8. In the enterprise we continue to see solid demand for our
+business products and services with particularly strong growth in multiyear licensing. Multiyear licensing revenue
+benefited from healthy renewals of enterprise agreements as customers continue to make long-term commitments to the
+Microsoft platform. Our robust portfolio of enterprise products and services enables CIOs to build efficient
+infrastructure, unlock business insight, improve productivity and support bring your own device.
+In the data center recent releases of Windows Server 2012 and System Center 2012 are driving customer wins and
+strong renewals. Our Cloud OS roadmap uniquely positions us to support the hybrid infrastructure needs of CIOs by
+providing one consistent platform that can span their own data center, a partner's data center or Windows Azure with
+ultimate flexibility, portability and scale.
+On the data platform we are growing our revenue share as enterprises continue to move mission-critical workloads to
+SQL Server and deploy it for their business intelligence solutions. In productivity we are excited about the upcoming
+launch of the new Office and how it redefines the user experience with mobility, social and cloud features. The new
+Office features a fast, fluid design that takes full advantage of the new Windows interface. With Skype and Yammer
+integration it unlocks new experiences for communication and collaboration and brings social directly into productivity
+scenarios.
+With Windows 8 businesses will now be able to give their employees thin and light devices without compromising on
+security or manageability. Windows 7 momentum in the enterprise continues and today over 60% of enterprise
+desktops worldwide are on Windows 7.
+We've talked about Windows 8 as Windows re-imagined from the chipset to the user experience. As we undergo this
+transformation it is important for us to bring the entire ecosystem along with us. With the launch in October we
+collectively took the first of many steps in changing the way people use technology at work and at play. Since then the
+number of Windows 8 certified systems has nearly doubled. The number of apps in the Windows store has quadrupled
+and Windows users have downloaded over 100 million apps.
+To date, we have sold over 60 million licenses of Windows 8. Our partners including OEM hardware manufacturers,
+app developers and retailers have worked hard to get us to where we are today. It's early days and an ambitious
+endeavor like this takes time. Together with our partners we remain focused on fully delivering the promise of
+Windows 8.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 3 of 12
+As part of our work to advance the ecosystem we launched Surface Windows RT last quarter. Surface is one part of the
+overall Windows 8 story. With tight integration across hardware and software, Surface highlights the unique innovation
+enabled by Windows 8. We launched it exclusively in our stores and in select geographies and are expanding our retail
+and geographic footprint.
+As we look forward we strive to deliver seamless experiences across hardware, software and services. Windows 8,
+Windows Phone 8 and Xbox 360 provide a similar look and feel to users. This consistency, complemented with our
+cloud services like Bing, SkyDrive, Xbox Live and SmartGlass unifies the consumer experience. In the enterprise we
+continue to design and deliver world-class cloud solutions that allow our customers to move to the cloud on their own
+terms. The compelling experiences we deliver across our devices and services as well as our large partner and customer
+base uniquely positions us for sustained future growth.
+In summary, this quarter the strength of our product portfolio delivered record revenue and earnings per share. As we
+enter calendar year 2013 there's tremendous opportunity for our partners, developers and customers to leverage the
+capabilities and scenarios our significant product releases have enabled.
+With that, I'm going to hand it back to Chris to provide more details on our results.
+Chris Suh
+Thanks, Peter. First, I'm going to our review overall results and then I'll move on to the details by business segment.
+Revenue for the quarter was up 5% to $22 billion. Operating income was $8.3 billion, up 4% and earnings per share
+was $0.81 also up 4%. Foreign exchange had a $200 million or one percentage point negative impact to revenue this
+quarter and a $154 million or two percentage point negative impact to net income. From a geographic perspective we
+saw growth return in developed markets and saw mid-teens growth in emerging markets.
+Bookings were strong growing 11% as we continued to see customers making long-term commitments to our products.
+You see the results in the following metrics. Multiyear license revenue grew 15%. Unearned revenue grew 13% to
+$17.4 billion and our contracted not billed balance was over $21 billion.
+Moving to Windows, this quarter total revenue grew 11%. Within that, OEM revenue outperformed underlying x86 PC
+market reflecting increased demand in our distribution channel. While inventory levels ended the quarter at slightly
+higher levels than the prior year we believe them to be in a healthy range given the recent launch. Non-OEM revenue
+grew over 40% driven by Windows 8 upgrades, sales of Surface and double-digit growth in volume licensing.
+Within the x86 PC market we saw similar trends to prior quarters with emerging markets outperforming developed
+markets and business outperforming consumer. The consumer segment was the most impacted by the ecosystem
+transition as demand exceeded the limited assortment of touch devices available.
+Next I'll walk through our Server & Tools business which posted another solid quarter with 9% revenue growth.
+Product revenue grew 9% and within that multiyear license revenue grew 17%. On the strength of both new and
+existing customers, bookings grew a solid 15%.
+For the modern data center we continue to be on the forefront of innovation with our Cloud OS road map which
+provides a flexible platform for CIOs to manage their infrastructure, applications and data. With the launch of
+Windows Server 2012 in September we delivered a cloud optimized operating system and have continued to gain share
+in virtualization. To further strengthen our Cloud OS platform we have introduced a steady stream of innovation in
+Windows Azure including virtual machines, media services, website services and mobile services.
+Our management product, System Center, continues its momentum and delivered 18% revenue growth. In our data
+platform business SQL Server revenue grew 16% driven by strength in SQL Server Premium. Revenue growth
+continues to outpace the market as customers increasingly use SQL Server for mission-critical application and business
+intelligence needs making it the most pervasive data platform.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 4 of 12
+On the BI side we're delivering on our strategy to enable analysis of all types of data while also accelerating time to
+insight. We're empowering organizations to realize the power of big data as Hadoop is now compatible on Windows
+Server and Window Azure. With SQL Server 2012 we took the next step forward in advancing in-memory capabilities
+and see tremendous opportunities ahead.
+Now I'll move on to the Microsoft Business Division where revenue grew 3%. Consumer revenue declined 2% with
+x86 PC market dynamics being partially offset by gains in attach. Businesses are choosing Microsoft as their
+productivity platform for the future. This is evidenced by the healthy 18% bookings growth and near historical high
+renewal rates for Office. Business revenue grew 4% and within that multiyear licensing revenue grew 10%.
+Our productivity server offering continued to perform well and again this quarter Exchange, SharePoint and Lync
+collectively grew double digits. Lync revenue grew at an impressive rate of 35% as customers continue to be drawn to
+both the enhanced productivity that it enables and also the economic benefit of our solution.
+Next I'll move on to the Online Services Division where revenue grew 11%. Online advertising revenue was up 15%
+driven by significant search rate improvements offset in part by a decline in display revenue. With revenue growth and
+ongoing expense management we delivered another quarter of operating performance improvement.
+In the Entertainment & Devices Division revenue declined 2%. In the important holiday season Xbox continued its
+leadership position in the U.S. console market. Halo 4 launched in November and has already become the best-selling
+title of the critically acclaimed gaming franchise. We did defer $380 million this quarter for games where the buyer has
+rights to receive content in the future. The video game deferral was included in the Q2 guidance and we expect it to be
+recognized in Q3. We also continued to expand the content available on Xbox Live, further solidifying Xbox Live as
+the premier entertainment service in the family room.
+Windows Phone saw strong growth both in phone and patent licensing revenue. In November we launched Windows
+Phone 8 with our strongest lineup of both carriers and devices. Windows Phone sales were over four times higher than
+they were last year and at CES this year more partners were announced as the Windows phone ecosystem continues to
+grow.
+Skype had 138 billion minutes of calls on its network this quarter which was up 59%.
+Now I'll cover the remainder of the income statement. Cost of goods sold increased 1% due to the full quarter of Nokia
+platform payments, Surface and growth in cloud infrastructure partially offset by declines in Xbox console. Operating
+expenses grew 10% to $8 billion, primarily related to marketing for product launches. This quarter our tax rate was
+approximately 18% and finally we returned $3.5 billion to shareholders in buyback and dividends.
+Now I'll turn the call back over to Peter for our outlook.
+Peter S. Klein
+Thanks, Chris. For the remainder of the call I'll discuss our expectations for the third quarter and full fiscal year 2013.
+Looking ahead with Windows we know that our growth depends on our ability to give customers the exciting hardware
+they want, at the price points they demand and a wider range of apps and services to meet their diverse needs. We are
+hard at work with our partners to meet these goals.
+One of our biggest partners, Intel, not only delivered the Clover Trail chip this year, they said they will deliver their
+next generation chip, Haswell, in 2013 which will enable even more advances in the device market. This is just one
+example of the innovation we are seeing from our chip partners.
+We also need to continue to work with our hardware partners as they create thin and lightweight devices on both x86
+and ARM chipsets that offer compelling touch experiences that bring Windows 8 to life. We started to see the next
+wave of Windows devices at CES and collectively we will work to ensure that we have the most compelling devices
+and the right mix of devices in the marketplace.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 5 of 12
+During the quarter we launched the first device in our Surface family of products. We recently increased production
+and expanded distribution to third-party retail partners. Next month we will make Surface Windows RT available in 14
+additional countries. At the same time we will also launch Surface Windows 8 Pro, which provides the power and
+performance of a laptop in a tablet package. With the broadening of the Surface lineup we will continue to highlight the
+power of Windows 8 tightly integrated with fantastic hardware.
+On the app front we are deepening our engagement with developers. While the number of apps in the Windows store
+has quadrupled since launch we clearly have more work to do. We need more rich, immersive apps that give users
+access to content that informs, entertains and inspires.
+While there is a lot work ahead of us we are incredibly excited by the opportunity to both broaden and enrich the
+Windows ecosystem. With the launch of Windows 8 and Windows RT we are positioned for growth across a massive
+addressable market from tablets to laptops and Ultrabooks to all-in-ones. We will continue to work closely with our
+partners through this transformation as we collectively re-imagine Windows.
+As you update your models remember that the Windows upgrade offer expires at the end of February. At that time we
+will recognize $1.1 billion which is all of the remaining deferred revenue related to the upgrade offer.
+Within Server & Tools product revenue, including transactional and multiyear licensing, is about 80% of the division's
+total revenue and enterprise services is the remaining 20%. We expect product revenue to grow low teens for the third
+quarter and low double digits for the full fiscal year and we expect enterprise services to grow mid-teens for the third
+quarter and the full fiscal year.
+In the Microsoft Business Division multiyear licensing revenue, which is approximately 60% of the division's total,
+should grow low double digits for both the third quarter and full fiscal year. Excluding the Office deferral, transactional
+revenue, which is the remaining revenue in the division, should outperform the x86 PC market in the third quarter and
+for the full fiscal year.
+As a reminder, when updating your Q3 models we expect to recognize between $250 million and $300 million of
+revenue related to presales into the channel and the Office offer. We expect most of the remainder of the deferral to be
+recognized at the expiration of the program in the fourth quarter of fiscal year 2013.
+In the Online Services Division we look to build upon improvements in share and search monetization. For the third
+quarter and full fiscal year we expect revenue growth to be consistent with the dynamics seen in the second quarter
+with search revenue growth partially offset by lower display revenue.
+Moving on to the Entertainment & Devices Division, in the third quarter we expect to recognize $380 million related to
+the video game deferral. Excluding recognition of deferrals we expect revenue to grow high teens in the third quarter
+and low single digits for the full fiscal year.
+Switching to overall cost of goods sold for the company, COGS growth will continue to be impacted by the changing
+mix of revenue as we have seen in the past few quarters. As we look forward, excluding Surface, we expect COGS to
+grow high single digits for the full fiscal year.
+We are reaffirming our full fiscal year guidance for operating expenses of $30.3 billion to $30.9 billion. Other income
+and expense includes dividend and interest income offset by interest expense and the net cost of hedging. In the current
+low interest rate environment we expect these items to generally offset one another for the remainder of the year. We
+expect our effective tax rate to be 17% to 20% for the full fiscal year and we expect capital expenditures to be about
+$3.5 billion for the full fiscal year. For the third quarter, excluding the impact of deferrals, unearned revenue should
+roughly follow historical seasonal patterns.
+In summary, we delivered solid financial results for the second quarter. We have good product momentum in the
+market and are excited about the opportunity to help our customers take advantage of the advancing trends in
+technology.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 6 of 12
+With that, I'll turn the call over to Chris and we'll take some questions.
+Chris Suh
+Thanks, Peter. We want to get questions from as many of you as possible so please just stick to one question and avoid
+long or multipart questions. Operator, please go ahead and repeat your instructions.
+Q&A
+Operator
+[Operator Instructions] And our first question comes from Philip Winslow with Credit Suisse. Your line is open, sir.
+<Q - Philip A. Winslow>: Hi. Thanks, guys, and congrats on a good quarter in a pretty tough macro environment. Just
+want to spend a moment on Surface. Obviously you talked about ramping up production and distribution of that. Just
+what are some your goals as you look at Surface RT and Pro for this year? And then within that context how should we
+think about the profitability of the Surfaces? Thanks.
+<A - Peter S. Klein>: Thanks, Phil. As we said we think of Surface as one part of the overall Windows 8 story.
+Certainly this quarter it was a contributing factor to the revenue growth in the Windows business and what it does is it
+highlights some interesting innovation that can happen to demonstrate the power of Windows 8 when tightly integrated
+with hardware and software and some new categories of devices. And we're – obviously had some limited distribution
+this quarter in our stores and as you know we're excited about expanding that. And so our goal is to continue to build
+that business to highlight the incredible power of Windows 8 in an interesting set of devices. And we're going to
+expand geographically, we're going to expand the product lineup, we're going to expand retail distribution and capacity.
+And so we look forward to continuing the growth of that business.
+<A - Chris Suh>: Okay. Thanks. Next question, please.
+Operator
+And our next question comes from Walter Pritchard with Citigroup. Sir, your line is open.
+<Q - Walter H. Pritchard>: Hi, thanks. Just wondering, Peter, if you could talk about obviously one of the big
+differences here between your devices in the market and some of the competing devices I think is price point of touch
+machines. Windows devices are much higher and I'm wondering if you could just talk about what you've learned here
+in the first three or four months of the Windows launch? How important price is to the customer base in terms of
+driving units and what do you think the outlook is in terms of getting price points down on the devices in aggregate in
+order to potentially drive some demand?
+<A - Peter S. Klein>: Yeah, thanks, Walter. We learned a lot this quarter. We learned a lot about types of experiences
+and scenarios and to some extent the price points customers are looking for from their devices. We saw some really
+great demand for some of the touch devices that we brought to market. In some cases we didn't have the supply that we
+needed to satisfy that demand.
+I think from a price point we learned I think what we've always suspected which is there's segmentation and
+differentiation. One of the powers of the Windows ecosystem obviously is the variety of devices and form factors and
+experiences at a variety of price points. And I think we learned that, that continues to be important. And, as I said, we're
+working very closely with both our chip partners as well as the OEMs to bring the right mix of devices, which means,
+to your point, the right set of touch devices at the right price points depending on the unique needs of the individual. I
+think we learned a lot about that and one of the things you'll see is a greater variety of devices at a bigger variety of
+price points that meet the differentiated needs of our consumers.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 7 of 12
+<A - Chris Suh>: Okay. Thanks, Walter. We'll take the next question, please.
+Operator
+And your next question comes from Rick Sherlund with Nomura. Your line is open.
+<Q - Rick G. Sherlund>: Thank you, and, Chris, welcome back to IR.
+<A - Chris Suh>: Thanks, Rick.
+<Q - Rick G. Sherlund>: MBD – I just want some clarification because the revenue growth is a little slower than I
+would have thought, but it looks like what we're seeing is a transition in the business. It looks like it's more – instead of
+business transactional it's more multiyear licensing and the bookings growth would suggest that, that business is
+changing to be more revenue over time versus up front. I just want a clarification if I'm thinking about that correctly?
+<A - Peter S. Klein>: Yeah, thanks, Rick. You're thinking about it absolutely correctly. We've seen big increases in the
+multiyear annuity business. Bookings growth was very strong and so you are seeing that transition to a long-term
+commitment to the business. Secondarily this quarter obviously in a pre-launch quarter, cyclically you tend to see a
+slowdown in the transactional business as well but that was secondary to this longer-term trend of transition to a
+multiyear commitment.
+<A - Chris Suh>: Okay. Thanks, Rick. Next question, please.
+Operator
+Our next question comes from Adam Holt with Morgan Stanley. Sir, your line is open.
+<Q - Adam Holt>: Hi, great. Thank you. Sorry to ask a model question. My question's about cash flow and I guess two
+factors around cash flow. Can you just drill in a little bit into the delta between bookings growth and billings growth in
+the quarter and then could you also just touch on the inventory in the quarter. It looked like it was a little above what it
+normally is? Thank you.
+<A - Peter S. Klein>: Well, as always, the difference between bookings growth and billings growth is going to be a
+function of the mix of long-term agreements, right, because our multiyear licensing agreements are three-year
+agreements and so bookings will include all of the revenue from those agreements and then typically those are billed a
+year at a time so the billings growth will be that one year of billings. And so to the extent we see this growth in the
+multiyear licensing business you're going to see a buildup of bookings growth is going to be fast. You're going to see a
+buildup of the deferred revenue and that will then hit the billings and then the recognitions in the income statement over
+time. So to the extent we continue to see this transition to long-term commitments you'll expect to see that trend
+continue.
+Your second question was on inventory. When you say inventory, you mean on the balance sheet?
+<Q - Adam Holt>: Yes.
+<A - Peter S. Klein>: Yeah, the inventory's a function of both what's happening in the Xbox business and Surface.
+They're sort of offsetting impacts this quarter. Some of it is from Surface and then some of it is from the Xbox
+business.
+<Q - Adam Holt>: Terrific. Thank you.
+<A - Peter S. Klein>: Thanks, Adam.
+<A - Chris Suh>: Yeah, thank you. Next question, please.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 8 of 12
+Operator
+And your next question comes from Heather Bellini with Goldman Sachs. Your line is open.
+<Q - Heather A. Bellini>: Great. I had a question about, Peter, you mentioned the renewal rates in MBD continue – I
+guess they're at a record and continue to move higher. I'm just wondering if you can share with us what's driving the
+increase in the renewal rates and how much runway do you have left there and then actually I had a follow-up on
+Adam's question about inventory because it usually goes down in the December quarter, obviously you have Surface
+now so it jumped up, but did we see the traditional Xbox work down of inventory that we normally see? So should we
+be looking at the fact that the delta between the draw down that you normally see and the fact that I think it went up or
+was roughly flat this quarter was the result of Surface? Thank you.
+<A - Peter S. Klein>: Okay. I'll start with your first question which was MBD annuity...
+<A - Chris Suh>: Renewal rates...
+<Q - Heather A. Bellini>: Renewal rates, yeah.
+<A - Peter S. Klein>: I think it's a combination of things. Heather, as you know, over time we've been broadening the
+notion of how we think about productivity and so I think it's a combination of a couple things. One is just the product
+set. Lync is a big driver, SharePoint, Exchange, so the connection between the collaboration and communications
+technology and the enhancements to just the productivity applications themselves. I think Office 365 and the roadmap
+to the cloud is really exciting to customers and part of the reason they're making a long-term commitment to MBD and
+to the Office and related products is because they really – our roadmap to the cloud really resonates with them and how
+they get there over time and how that works.
+And I think also our roadmap from a capability perspective in what's coming in the new Office with social again
+advances in the cloud is really driving a roadmap that's compelling to customers and so that's why they're making
+long-term commitments to the platform. So that's great to see.
+And in inventory, yes you're thinking about it right. I think we saw the normal draw down from the Xbox business and
+any offsetting increase there was related to Surface.
+<Q - Heather A. Bellini>: Thank you.
+<A - Chris Suh>: Thank you, Heather. We'll take the next question, please.
+Operator
+Kash Rangan with Bank of America Merrill Lynch. Your line is open.
+<Q - Kash Gopalan Rangan>: Hi. Thank you very much, and happy New Year. It's already quite a bit into the year.
+But what I was wondering was in the holiday season post a launch for Microsoft typically we get a big effect of the PC
+industry. It's happened every cycle. And I guess we had some competition from tablets and whatnot. We didn't quite
+see that kind of whiz-bang effect with a typical Windows launch. I'm curious to get your take on what is it that the
+media and the industry seems to have gotten it wrong? What are the misperceptions about Windows 8 and how do you
+think the year is going to play out as far as Window 8 receptivity in the consumer market and business market? Thank
+you very much.
+<A - Peter S. Klein>: Yeah, thanks, Kash. Windows 8, as I talked about, Windows 8 is a big bold re-imagining of
+Windows across the whole ecosystem. And I think this was the start of that process. I think we all collectively learned a
+lot about – from the user interface to the touch devices and as I tried to give context on the call, there's a lot of things
+we're working on with our partners that I think continues to drive this process forward over the next several quarters
+whether it's the chipset, whether it's with developers with the kinds of applications that people want and certainly for
+the kinds of touch devices at the right price points that consumers want. I think all of that is continuously improving,
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 9 of 12
+we're continuously learning and happens over time. But this is a big, ambitious re-imagining of Windows and this
+quarter was the first step in that process.
+<Q - Kash Gopalan Rangan>: Got it. So the traction, the ramp should get better over time and we should not be
+judging the cycle by the December quarter necessarily?
+<A - Peter S. Klein>: I highlighted the things that drive that, exactly.
+<Q - Kash Gopalan Rangan>: Okay. Thank you.
+<A - Chris Suh>: Thank you. Next question, please.
+Operator
+Brent Thill with UBS. Your line is open.
+<Q - Brent Thill>: Peter, just on the gross margins, they've been under pressure in the last several years and there's a
+lot of components that go in that you get to see but certainly we don't get to see. Can you give us just the puts and takes
+of perhaps is there any change later in the year where you start to see some of the components of the COGS start to –
+expenses start to come off or not?
+<A - Peter S. Klein>: Well, COGS is always going to be a function of the mix of the types of revenue and so it's really
+going to depend on what your underlying assumptions are about the different components of the revenue whether that's
+hardware related revenue in Xbox and now in Surface, whether it's multiyear licensing business in consumers and
+enterprises and what's online services. And so at any point in time it's really going to depend on that mix of revenue
+which is just going to cycle over time. So we tried to give you some sense for the rest of the year how we see that
+playing out in total at Microsoft. And again that's going to be a function of the mix we see between various
+components.
+<A - Chris Suh>: And reiterating Peter's guidance, excluding Surface. I think, Peter, just high single digits COGS for
+us, excluding Surface.
+<A - Peter S. Klein>: That's right. Thanks.
+<A - Chris Suh>: Thanks very much. Next question, please.
+Operator
+John DiFucci with JPMC. Your line is open.
+<Q - John S. DiFucci>: Thank you. Peter, you said that the Windows OEM revenue outperformed the x86 PC market
+and your comments imply some Windows inventory build in the channel, which I believe you normally see during a
+quarter with a Windows launch as OEMs build inventory in preparation for the launch. Would it be accurate to assume
+that the Windows outperformance was primarily – I mean relative to the PC market, was primarily due to the inventory
+build? Or was there something else there happening? Was there anything else? You used to give us at that bridge,
+which you haven't for a while now, but I was just wonder if any of those other factors had a big influence?
+<A - Peter S. Klein>: Yeah. The three biggest components of the 11% total revenue growth and that 11% adjusted for
+the recognition of the deferrals in the Windows business, were the retail upgrade, the sales of Surface and then
+multiyear licensing agreements within enterprises. To your point, there was some tailwind from inventory, which was
+normally, as you highlighted, kind of what we see in a launch quarter, and as Chris said, it's within sort of the healthy
+range that we typically see but that was some tailwind. But the three big impacts all up on the Windows revenue were
+the retail upgrades, sales of Surface and the enterprise annuity business, which continues to grow double digits.
+<Q - John S. DiFucci>: Any detection of any piracy effects or changes?
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 10 of 12
+<A - Peter S. Klein>: We're on the same long-term trend on piracy that we've always been. I wouldn't highlight
+anything sort of specific this quarter, but as always, we're fighting piracy across all the dimensions and the long-term
+trend should be good but that will cycle up and down in any given quarter.
+<A - Chris Suh>: Thank you. Next question, please.
+Operator
+Colin Gillis with BGC Financial. Your line is open.
+<Q - Colin W. Gillis>: Hey, Peter. The trend in OSB, in terms of the smaller losses, is that a run rate that we can think
+about going into the March quarter? And also when you talked about the improvement in revenue per search, is there
+any more color or quantification you can put around that?
+<A - Peter S. Klein>: On the first question, look to the guidance we gave on the revenue. We continue to work hard on
+the cost structure, but certainly as we highlighted, the dynamics on revenue will be relatively consistent to what you've
+seen this quarter.
+In terms of the monetization, it's what we've been very focused on. Part of it is the work we've done with our
+partnership with Yahoo! and part of it's the quality of the searches that we've been doing. It's sort of the realization of
+all the work we've been doing on both the search engine as well as the ad platform to make sure it's finely tuned to
+deliver the best economic result. And that's what we've been – we've been talking about this for, gosh, a
+year-and-a-half, two years, we've been really focused on that with our best talent. You start to see that paying off and
+that's what's driving monetization.
+<A - Chris Suh>: Great, thank you. Next question, please.
+Operator
+Brendan Barnicle with Pacific Crest Securities. Your line is open.
+<Q - Brendan Barnicle>: Thanks so much. Peter, you highlighted the market share gains you guys are seeing in SQL
+Server and specifically you talked about BI and mission-critical applications. I was wondering if you could give us any
+more color on the use cases and applications where you guys are particularly seeing the biggest gains and any impact
+that pricing may be having in that. Thanks.
+<A - Peter S. Klein>: Yeah, the biggest impact is the capabilities that we've delivered with SQL Server 2012, and in
+terms of the use cases there's a couple things that sort of fall into that, those buckets of mission-critical and BI.
+In terms of mission critical, we're seeing large enterprise customers re-platform on SQL for any number of things,
+underneath their ERP, underneath what other majors of LOB apps they have that sort of drive their business. And that's
+really an emerging trend with 2012 and what that does. That's really advanced, and I would add that that's been one of
+the drivers of our transition to multiyear licensing because now we're seeing customers commit more and more to SQL
+as part of their multiyear enterprise agreements as well.
+On the BI side, the combination of SQL as well as SharePoint and Excel is really compelling to customers in terms of
+the business insights they can generate from their line of business application systems. And I think really the
+combination of the types of what you see front end on Excel on top of the SQL database has really been a powerful
+driver for both businesses frankly. And that's a lot of what's driving the multiyear licensing business up for both MBD
+and [ph] SPV (37:42).
+<A - Chris Suh>: Thanks, Brendan. We'll take the next call, please, operator.
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 11 of 12
+Operator
+Gregg Moskowitz with Cowen & Company. Your line is open.
+<Q - Gregg S. Moskowitz>: Okay. Thank you. You had mentioned that over 60% of enterprise desktops now are
+running on Windows 7. Looking forward, how do you expect the cadence of migration activity to unfold from now
+until the termination of XP support in early to mid-2014? Does it continue at a similar pace for a while? And at what
+point do we probably see this moderate?
+<A - Peter S. Klein>: Well, the one thing I would say is not only are over 60% on Windows 7, but about 90% have
+expressed they have a plan to do that. And so I expect to see sort of a steady drumbeat between now and the end of life
+for XP support in April 2014, for that to continue because the incentive is there and the expressed desire to do that has
+been expressed by our customers. So I would expect that to see that continue over the next year, year and a quarter.
+<Q - Gregg S. Moskowitz>: Great. Thank you very much.
+<A - Peter S. Klein>: Thank you.
+<A - Chris Suh>: Great. Operator, I think we'll have time for two more questions, please?
+Operator
+Thank you. Our next question comes from Raimo Lenschow with Barclays. Your line is open.
+<Q - Raimo Lenschow>: Yeah, hey. Thank you. Thanks for taking my question. Just to follow-on on that one. You
+had one quarter of Windows 8 now. What was the feedback that you had from the enterprise so far? I mean, obviously,
+they're still in the middle of the Windows 7 upgrade as well, but what's the point that they liked about Windows 8?
+Thank you.
+<A - Peter S. Klein>: Yeah, there's a couple of things. They like the ability to get thin, lightweight devices with the
+kind of security and manageability that they're used to, to manage their businesses. And also there's early interest in
+new applications being developed with the Windows 8 interface, which is a new way for their users to interact with
+their business applications. I think you'll see those two things are early information in driving sort of business interest
+in Windows 8.
+<Q - Raimo Lenschow>: Okay. Thank you.
+<A - Chris Suh>: Thank you. And final question, please?
+Operator
+Yes. Our last question comes from Ed Maguire with CLSA. Sir, your line is open.
+<Q - Ed Maguire>: Thank you. Good evening. I wanted to follow up on Rick's question about the transition from the
+transactional to multiyear deal. How much...
+<A - Chris Suh>: I think we lost the question.
+Operator
+I'm sorry. Mr. McGuire, please press star one. Mr. McGuire, your line is open.
+<Q - Ed Maguire>: Thank you. How much of your – this is going back to Rick's question. Regarding the transition of
+transactional to multiyear revenues, what in your business reflects the transition in purchasing of on-premise to hosted
+Company Name: Microsoft
+Company Ticker: MSFT US
+Date: 2013-01-24
+Event Description: Q2 2013 Earnings Call
+Market Cap: 438,412.65
+Current PX: 55.43
+YTD Change($): -.05
+YTD Change(%): -.090
+Bloomberg Estimates - EPS
+Current Quarter: 0.642
+Current Year: 2.762
+Bloomberg Estimates - Sales
+Current Quarter: 22130.895
+Current Year: 92059.304
+Page 12 of 12
+or cloud offerings like from Office to Office 365 or Server to Azure and other similar transitions?
+<A - Peter S. Klein>: Well, the – a cloud purchase will sort of mirror a multiyear annuity purchase. It's a very similar
+way to accomplish the same thing. You're making a long-term commitment; the revenue is going to be recognized in a
+similar fashion. Today we see a hybrid where customers are buying their multiyear enterprise agreements. They'll also
+add on some cloud services with that, but it'll manifest itself in our financial results in a very similar way.
+Chris Suh
+Okay. So that'll wrap up our Q&A portion of today's earnings call. We look forward to seeing many of you at the
+numerous events and conferences which we'll be participating in this quarter. For those of you unable to attend in
+person, these events will generally be webcast and you'll be able to follow our comments at Microsoft.com/investor.
+Please contact us if you have any additional questions or details. Thanks again for joining us. Take care.
+Operator
+Thank you for your participation on today's call. The call has concluded. You may disconnect at this time. Thank you.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2016, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
