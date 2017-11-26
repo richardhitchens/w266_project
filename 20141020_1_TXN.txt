@@ -1,0 +1,862 @@
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 1 of 16
+Q3 2014 Earnings Call
+Company Participants
+• David Pahl
+• Kevin P. March
+Other Participants
+• John W. Pitzer
+• Ambrish Srivastava
+• Stacy Aaron Rasgon
+• Harlan L. Sur
+• Craig A. Ellis
+• Stephen Chin
+• Joseph Moore
+• Vivek Arya
+• Mark J. Lipacis
+• Blayne Curtis
+• Ross C. Seymore
+• Doug Freedman
+• William Stein
+• Tore E. Svanberg
+• C.J. Muse
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, and welcome to the Texas Instruments' third quarter 2014 earnings call. At this time I would like to turn the
+conference over to Dave Pahl. Please go ahead, sir.
+David Pahl
+Thank you. Good afternoon and thank you for joining our third quarter 2014 earnings conference call. As usual, Kevin
+March, TI's Chief Financial Officer, is with me today.
+For any of you who missed the release, you can find it in relevant non-GAAP reconciliations on our website at
+ti.com/ir. This call is being broadcast live over the web, and can be accessed through TI's website. A replay will be
+available through the web.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to
+differ materially from management's current expectations. We encourage you to review the Safe Harbor Statement
+contained in the earnings release published today, as well as TI's most recent SEC filings for a more complete
+description.
+The third quarter was another quarter that marked strong progress. Our core businesses of Analog and Embedded
+Processing grew again with combined revenue up 10% from a year ago. Revenue of $3.5 billion came in solidly in the
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 2 of 16
+upper half of our expected range we had communicated to you in July. Earnings per share of $0.76 was at the top of our
+range as profitability was strong in the quarter.
+Our cash flow from operations was $1.4 billion. We continue to believe that free cash flow growth is most important to
+maximizing shareholder value in the long-term, especially on a per share basis.
+Free cash flow for the trailing 12 month period was almost $3.5 billion or 27% of revenue consistent with our targeted
+range of 20% to 30% of revenue. This is a 300 basis point improvement from a year ago period. We believe this
+reflects our improved product portfolio and the efficiencies of our manufacturing strategy, which includes our growing
+300-millimeter output and purchasing assets ahead of demand at distressed prices.
+We also continue to believe that free cash flow will be valued only if it's returned to shareholders, or productively
+invested in the business. Over the past 12 months, we've returned $4.2 billion of cash to investors through a
+combination of stock repurchases and dividends paid.
+In the third quarter, TI revenue grew 8% from a year ago with growth in both Analog and Embedded Processing.
+Analog revenue grew 11% from a year ago, led by Power Management. High Volume Analog and Logic, High
+Performance Analog, and Silicon Valley Analog also grew. Embedded Processing grew 6% from a year ago due to
+microcontrollers, connectivity and processors, each of which grew by about the same amount. Embedded Processing
+delivered its eighth quarter in a row of year-on-year growth. In our Other segment, revenue was about even from a year
+ago, as a decline in Legacy Wireless products was mostly offset by growth in DLP products.
+Turning to distribution, resales increased 10% from a year ago consistent with our combined revenue growth in Analog
+and Embedded Processing. Weeks of inventory were unchanged at a historically low level of just over four and a half
+weeks. This level is low because we've structurally changed how inventory is managed in the distribution channel with
+our consignment program.
+This quarter, we continued to convert more of our distribution sales to consignment and now support about 55% of our
+distribution revenue on consignment, up about 10 percentage points from a year ago. With this program, inventory sits
+on TI's balance sheet and revenue is recognized when distributors pull products from our consignment inventory that is
+stored at distributors' locations. This program minimizes changes in demand due to distribution channel inventory, and
+most importantly allows us greater flexibility to meet customer demand.
+From an end market perspective, TI revenue growth from a year ago was due to communications equipment, industrial
+and automotive, each of which grew by about the same amount. Enterprise systems was also up, while revenue in
+personal electronics declined due to Legacy Wireless products.
+Now Kevin will review profitability, capital management and our outlook. Kevin.
+Kevin P. March
+Thanks, Dave, and good afternoon, everyone.
+Gross profit in the quarter was $2.04 billion or 58.4% of revenue. Gross profit increased 15% from the year ago quarter
+and gross profit margin hit another new record. This gross profit reflects higher revenue and an improved product
+portfolio focused on Analog and Embedded Processing that benefits from our efficient manufacturing strategy.
+Moving to operating expenses, combined R&D and SG&A expense of $795 million was down $38 million from a year
+ago. The decline primarily reflects the targeted reductions in Embedded Processing in Japan that were previously
+announced, as well as continued cost discipline across TI.
+Acquisition charges were $83 million, almost all of which were the ongoing amortization of intangibles, a non-cash
+expense. Restructuring and other charges were a $9 million benefit, primarily due to the gains from sales of assets.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 3 of 16
+Operating profit was $1.18 billion, or 33.6% of revenue. Operating profit was up 39% from the year ago quarter. Net
+income in the third quarter was $826 million, or $0.76 per share.
+Let me now comment on our capital management starting with our cash generation. Cash flow from operations was
+$1.38 billion in the quarter. Inventory days were 108, consistent with our model of 105 to 115 days. Capital
+expenditures were $103 million in the quarter. On a trailing 12 month basis, cash flow from operations was $3.82
+billion, up 17% from the same period a year ago. Trailing 12-month capital expenditures were $367 million, or 3% of
+revenue. As a reminder, our long-term expectations for capital expenditure is to be about 4% of revenue.
+Besides inexpensively adding capacity ahead of demand, we have focused on delivering higher levels of customer
+service. By combining this capacity with continued improvements in how we manage inventory, we're able to keep our
+lead times consistently low while continuing to deliver on time.
+Free cash flow for the past 12 months was $3.45 billion, or 27% of revenue. As we've said, we believe strong cash flow
+growth, particularly free cash flow growth, is most important to maximizing shareholder value in the long-term and
+would be valued only if it's returned to shareholders or productively reinvested in the business.
+In the third quarter TI paid $319 million in dividends, and repurchased $670 million of our stock for a total return of
+$989 million. As we've noted, our intention is to return all of our free cash flow, plus any proceeds that we receive from
+the exercises of equity compensation, minus net debt retirement.
+Total cash returned in the past 12 months was $4.16 billion, which was 9% higher than a year ago. In the quarter we
+announced a 13% dividend increase in our quarterly cash dividend from $0.30 to $0.34 per share, or $1.36 annualized.
+This marked our 11th consecutive year of increasing dividends, and our 52nd year of continuous dividend payments.
+Outstanding share count has reduced by 3.5% over the past 12 months and by 39% since the beginning of 2005. These
+returns demonstrate our confidence in TI's business model, and our commitment to return excess cash to our
+shareholders.
+Fundamental to our commitment to return cash, are our cash management and tax practices. We ended the third quarter
+with $3.19 billion of cash and short term investments up from $2.80 billion at the beginning of the quarter.
+TI's U.S. entities own 81% of our cash. Because our cash is largely onshore it is readily available for a variety of uses
+including, paying dividends and repurchasing our stock. TI's orders in the quarter were $3.34 billion, up 6% from a
+year ago. And our book-to-bill ratio was 0.95. This ratio would have been a bit higher except for the impact of the
+conversion to consignment of some products sold to distribution. While book-to-bill still would have been below one,
+this is consistent with the pattern that we have seen for the past four years.
+Turning to our outlook, we expect TI revenue in the range of $3.13 billion to $3.39 billion in the fourth quarter. At the
+middle of this range, revenue would increase 8% from a year ago.
+We expect fourth quarter earnings per share to be in the range of $0.64 to $0.74. Restructuring charges will be
+essentially nil. Acquisition charges, which are non-cash amortization charges, will remain about even and hold at about
+$80 million to $85 million per quarter for the next five years. Our expectation for our effective tax rate in 2014 remains
+about 28%. This is the tax rate you should use for the fourth quarter.
+In summary, the third quarter demonstrates the growing strength of TI's business model. Our strategy is anchored in
+Analog and Embedded Processing, and is bolstered by an efficient manufacturing operation, and a broad sales channel.
+The result is diverse, and long lived positions in many markets. We remain intent on excellence in execution,
+disciplined in allocating our capital, and firm believers that free cash flow per share is the best long-term indicator of
+shareholder value.
+With that, let me turn it back to Dave.
+David Pahl
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 4 of 16
+Thanks, Kevin. Operator, you can now open the lines up for questions. In order to provide as many of you as possible
+an opportunity to ask your questions, please limit yourself to a single question. After our response, we'll provide you an
+opportunity for additional follow up. Danny?
+Q&A
+Operator
+Thank you, sir. [Operator Instructions] Our first question comes from John Pitzer with Credit Suisse. Please go ahead,
+sir.
+<Q - John W. Pitzer>: Good afternoon, guys. Thanks for letting me ask the question. Kevin, I guess my first question
+will be on OpEx. Clearly you're well ahead of your expected annualized savings of $130 million with the restructuring
+actions. How do you think OpEx will trend sequentially into the December quarter? And if you look at R&D as a
+percent of rev now below 10%, is that just a structural change in the model? And how worried should I be at what scale
+level you should be investing on R&D for future growth? I understand that you're still spending absolutely a lot more
+money than most of your peers, but tough to see someone with your gross margins and R&D as a percent of revenue
+below 10%.
+<A - Kevin P. March>: Okay. John, I think there were a couple in there. Let me see if I can remember them all.
+Starting with OpEx and trends, the – clearly OpEx was down quarter-over-quarter largely as a result of some of the
+restructuring actions we previously announced, as well as just ongoing cost discipline in all the various businesses
+across TI.
+As you look into the fourth quarter, if you just go back and take a look at the year ago that's probably your best gauge
+to take a look at, fourth quarter and even the first quarter for that matter. We typically see that OpEx is lower in the
+fourth quarter due to holidays and vacations. In addition, this fourth quarter we expect a further benefit of another $15
+million of costs to come out as a result of the restructuring that we announced in Embedded Processing. That's part of
+that $130 million of annualized savings that you were mentioning, John, and in fact, we're probably running ahead of
+that $130 million of annualized savings right now. We probably are going to come out beyond that.
+From the total R&D spend as a percent of revenue, again, I think what's more important is not how much you spend,
+but how well you spend it. And I think the best indicator of how well you're spending it is what's happening to your
+market share as a result of the products you're introducing into the market.
+In our case, if you take a look at 2006 through 2013, the last full year periods that we've reported on, our total R&D
+spend is up 77% over that period. But most importantly, that R&D has resulted in products where we have continually
+gained share. Again, I think, John, it's less a question of how much you spend it, and a lot more how well you spend it.
+And spend it on things that customers really care about.
+<A - David Pahl>: That's good. John, do you have a follow up?
+<Q - John W. Pitzer>: Yeah, guys, quickly, just, I know you don't give segment guidance for revenue, but when I look
+at the Embedded business in the September quarter, it was up only about 1.1% sequentially, which is a little bit weaker
+than I had been modeling and I'm kind of curious as to what you think might have driven that and given that some of
+your peers have talked about sort of a slowdown in the second half of September from a macro perspective, did any of
+that play into the Embedded business in the September quarter? Thank you.
+<A - David Pahl>: Okay. So let me take that, John. I think if you look at the growth rates between Analog and
+Embedded Processing you can see a lot of quarters they won't grow the same. And I think if you look at both of those
+businesses, they have different end market exposures and really it's those end market exposures that will explain most
+of the differences in those numbers.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 5 of 16
+So and the second part of your question was? Yeah, just basically is the overall environment impacting the growth that
+we've seen there? And I'd just say no, that really isn't in those numbers. Basically that forecast is given off of the orders
+that we received from our customers.
+So thank you, John. Can we go to the next caller, please?
+Operator
+Yes, sir. Our next caller is Ambrish Srivastava with BMO Capital Markets.
+<Q - Ambrish Srivastava>: Hi. Thank you very much. Just on the overall demand environment, there is a lot of
+confusion out there but it seems like things have slowed down. So just wanted your perspective, in the past you guys
+have given us certain things as you look at such as cancellations and so on and so forth. So and also within that frame
+of reference, Dave, if you could please just walk us through your disti consignment versus non-consignment and then
+how would you compare it to somebody who claims that they are sell-through so they see a slowdown before – a
+quarter or so before others. And then I had a very quick follow-up.
+<A - David Pahl>: Okay. So a couple of points in there, Ambrish. The first is, is that I'd just point out that all of our
+distributors provide us with a point-of-sale reporting. And we get that information on a very regular basis. So regardless
+of how the revenue is recognized, we see what's going on from a distributor resell standpoint.
+The second thing is, you touched on the current environment and we really want to be guarded on trying to take a
+position for the industry on where that's going. But we can really point to just what we see.
+So if I kind of step through those, our inventory on our books is at 108 days, it's within our target model. If you look at
+our channel inventories, those were essentially unchanged from last quarter. They're at a very lean level at just over
+four and a half weeks. Our lead times have been consistent and I'd say low. Our cancellations and reschedules remain
+very low, so nothing changing on that front. And then probably as we have grown over these last few quarters we've
+been able to support that growth and keep delivering our products on time at very, very high service levels. So
+operations continue to execute at that high level.
+So and then I'll get to the last part of your question was what percentage of our revenue goes through distribution and
+what percentage is supported by consignment. So the first one is about 55% of our revenues go through the distribution
+channel and about 55% of that is supported on consignment and as we pointed out in our prepared remarks, that has
+increased by about 10% from a year ago as we've had a couple of conversions go on this year. And I would say that
+we're not done with that. We actually expect that additional conversions will happen over the next year or so, so we
+expect that percentage will actually increase.
+So, Ambrish, do you have a follow up?
+<Q - Ambrish Srivastava>: Yeah, quick follow up, Dave. On the Embedded operating margins you guys have had a
+steady increase. What's the right way to think about how do you get to north of 20%? Is it just a matter on focusing on
+the right product mix and getting that ramped-up or is it something beyond that? Thank you, Dave.
+<A - David Pahl>: Sure.
+<A - Kevin P. March>: Ambrish, I'll take that one. On Embedded Processing, clearly the margins have been
+continuously improving over these last few quarters and we'd expect further improvement. Recall I just mentioned
+earlier in the call that we expect another $15 million or so of cost to come out of the fourth quarter, and most of that
+will come out of Embedded Processing.
+I would add that from this point going forward, and we've talked about this the last couple quarters, the amount of
+spend inside Embedded Processing is sufficient. It doesn't need to increase anymore. What really the focus is, is
+revenue growth, and that's what it's really all about. That entire team has been very focused on that. I believe they just
+recorded their eighth quarter in a row of year-over-year revenue growth, so they clearly are working on the right
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 6 of 16
+metrics to really make that business start to deliver profitability at the levels we expect it to at TI.
+<A - David Pahl>: Okay. Thank you, Ambrish. We'll go to next caller, please.
+Operator
+Our next question is from Stacy Rasgon with Sanford Bernstein.
+<Q - Stacy Aaron Rasgon>: Hi, guys. Thanks for taking my questions. First I want to dig into the Embedded
+Processing margins again just a little bit. You had about $26 million in OpEx come out from Q2 to Q3. You had
+revenue in the group up a little bit, but mostly flat. Margins were only up a little bit. Given all of that cost in theory I
+would have expected to come out of Embedded Processing, why weren't the Embedded Processing margins up more? It
+doesn't seem like all of those cost savings actually flowed through to margins this quarter.
+<A - Kevin P. March>: Actually, they all flowed through to margins, Stacy, but not through Embedded Processing.
+Recall those actions incorporate both Embedded Processing as well as actions in Japan...
+<Q - Stacy Aaron Rasgon>: Ah.
+<A - Kevin P. March>: ...which flowed through our margins as well. Even with that, at the EP level, you did see about
+a 72% fall-thorough on that delta revenue. So you're seeing it come through. But do keep in mind the Japan stuff is
+spread around some of the other businesses as well.
+<Q - Stacy Aaron Rasgon>: Got it. Got it. That's helpful. For my follow up, if I can dig into the gross margins a little
+bit, I think both for this quarter and next quarter, so for this quarter you came in a little bit high. I guess was that only
+the revenue upside or was there something else in terms of mix or other cost savings that pushed it up? And then for
+next quarter, depending on how far you're guiding OpEx down, it feels to me like you're guiding gross margins
+implicitly flat to up in Q4 in a quarter where revenues are down and typically your gross margins would be down in Q4
+as well. So, if you can give us a sort of feeling for what the gross margin drivers for next quarter ought to be in terms of
+mix offsetting revenue declines that would be very helpful.
+<A - Kevin P. March>: Sure, Stacy. I think that clearly the extra revenue came through and it was quite rich. We also
+had a slightly better mix of overall products that were shipped in the quarter. So that combined gave us that new record
+gross profit margin of 58.4%.
+As we look into fourth quarter, I would not characterize our guidance as suggesting that margins go up. We will be
+reducing loadings some in the fourth quarter on a seasonal basis, and so you can expect that margins will be down a bit.
+Not very much, but down just a little bit. So depending how you're building your model there, I wouldn't assume
+margins increasing in the fourth quarter.
+<Q - Stacy Aaron Rasgon>: Got it.
+<A - David Pahl>: Yep, thank you, Stacy. And we'll go to the next caller.
+Operator
+Our next caller is Harlan Sur with JPMorgan.
+<Q - Harlan L. Sur>: Thank you for taking my question and congrats on the solid quarterly execution. The markets
+have been focused on Europe and China as sources of potential weakness. At the same time, the team has done a solid
+job on diversification, and maybe that's what it is. The diversity affords you a more stable revenue profile. But at the
+margin, can you just talk about the overall health by geographies? Have you seen any signs of weakening above the
+normal seasonal trends that you would normally expect here in Q3 or Q4?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 7 of 16
+<A - David Pahl>: Yeah, sure, Harlan. I'd say if you just look at what happened regionally, year-over-year, Asia and
+Europe were both up while the U.S. was even and Japan was down a little bit. And sequentially all the regions were up
+with Asia and Europe up the most. And if you look specifically inside of China and how resales had done there, we had
+looked into that and I'd just say that resales really just continued to be solid as we closed out the quarter. So that's
+basically what we saw.
+Do you have a follow up?
+<Q - Harlan L. Sur>: Yes, absolutely. Thank you for that. You gave us some trends in OpEx into the fourth quarter.
+How should we think about OpEx as we move into the first half of next year?
+<A - Kevin P. March>: Harlan, I won't comment on first half but I will give you some thoughts on first quarter. Your
+best way to analyze that is just go take a look at what happened from fourth quarter to first quarter of the most recent
+year coming out of 2013, 2012. We do have seasonal increases in OpEx as we go from fourth to first, typically because
+of an absence of vacations that we have in fourth and the partial implementation of our annual pay and benefit increases
+that occur in first. So they will, you should expect those to be up, and you can take a look at, again, this past year to get
+a rough idea as to about how much that increases by in percentage terms.
+<A - David Pahl>: Yes. I'd just add, Harlan, that as we indicated before, Kevin pointed out that we're expecting about
+$15 million more of savings in fourth quarter. At that point, we'll be essentially complete on those announced actions.
+So we'll basically be, just have those seasonal impacts that Kevin had mentioned.
+All right. Thank you. We'll go to the next caller please.
+Operator
+Next caller is Craig Ellis with B. Riley.
+<Q - Craig A. Ellis>: Thanks for taking the question. I'll start off with a bigger picture question, Kevin. The company's
+done a very good job of looking forward and being proactive. Taking action to either prune lower margin revenue
+streams such as wireless or identifying opportunities for cost savings such as the optimization program this year. As
+you look ahead, how much further room is there for a similar such optimization efforts? Are we really at a point where
+the TI model is getting very close to being optimized?
+<A - Kevin P. March>: Yes, Craig. I think that as we look forward from an optimization standpoint, I think the ones
+you've talked about so far have been more about where we might have trimmed in areas that had opportunities perhaps
+not quite as attractive as other areas. I think perhaps one of the areas least appreciated, as people look at TI on a
+go-forward basis, is the impact that continued delta revenue on 300-millimeter Analog is going to have for us. The cost
+structure to build on 300-millimeter is very attractive. And so incremental revenue going forward on 300-millimeter we
+expect to produce not only higher margins but also higher levels of total cash on that delta revenue.
+<A - David Pahl>: Do you have a follow on, Craig?
+<Q - Craig A. Ellis>: Yeah, I do thank you. Dave, you mentioned the strength in Analog Power Management on a
+year-on-year basis. Was it similarly strong sequentially, and what specifically is driving that strength?
+<A - David Pahl>: Yes. So on a sequential basis, if you look at our Analog business, it was up primarily due to High
+Volume Analog, and Logic, as well as Power Management. Though we did see growth really from all four businesses,
+High-Performance Analog and Silicon Valley, also grew. So you see a little bit of difference there sequentially, but
+again Power continued to be strong in both comparisons.
+Okay. Thank you, Craig. We'll go to the next caller, please.
+Operator
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 8 of 16
+Our next question comes from Stephen Chin with UBS.
+<Q - Stephen Chin>: Hi. Thanks for taking my questions. Just wanted to drill down a little deeper on the Embedded
+Processing segment, in particular between microcontrollers, and I guess DSPs and application processors, could you
+talk about some of the trends that you saw in Q3, especially from any, I guess, communications equipment exposure
+that you have?
+<A - David Pahl>: Okay. So Embedded Processing as you know, grew 6% from a year ago. That was driven by
+microcontrollers, connectivity, and processors each growing by about the same amount. And again, as Kevin pointed
+out, that was the eighth quarter in a row of year-over-year growth. Sequentially revenue was a little better than even.
+Connectivity was up, and processors and microcontrollers were about even sequentially.
+Do you have a follow-on Stephen?
+<Q - Stephen Chin>: Yes. In terms of gross margins, I'm just wondering if this year there's an opportunity for you to
+take advantage of building any strategic inventory for certain products that you know have good turnover, and hence
+maybe further optimize gross margins a little bit in the seasonally slower quarter? Thanks.
+<A - Kevin P. March>: Yes, Stephen. We do that on an ongoing basis. That's one of the ways that we're able to keep
+the lead time for the overwhelming majority of our parts to six weeks or less. Is that in fact we build to stock, not
+necessarily build to order. Meaning we maintain a stock of inventory such that we can always have short lead times for
+our customers. So from a strategic standpoint that is done. It does have a little ebb and flow as you point out. When we
+have lower loading in certain quarters, it gives us a chance to build up on a few extra parts on that. But I don't think
+there's a whole lot of opportunity to do that just to impact the gross margins. I think we're really doing that to impact
+customer service.
+<A - David Pahl>: Yeah, and I'd also add, Stephen, that if you take the combined way that we're managing inventory
+now and we're being very intentional with specific targeted programs, depending on how quickly that inventory turns,
+but you take that plus the open capacity that we've got and the combination of those two things and we've really been
+able to execute at very high levels and deliver our products on time to customers. And so we think not only having low
+lead times but also delivering products when you make a commitment to a customer, the combination of those things
+are what customers would like to have.
+Okay. Thank you. We'll move on to the next caller, please.
+Operator
+Next we have Joe Moore with Morgan Stanley.
+<Q - Joseph Moore>: Great. Thank you. Can you talk about where your fab utilizations are now just qualitatively?
+And if there's still an underutilization charge as part of these numbers?
+<A - Kevin P. March>: Joe, on the underutilization charges the answer is yes, there are but we're not really talking
+about those anymore and the reason is really kind of straightforward. We've found that analysts and some investors
+were drawing the conclusion that because we had underutilization that increasing our utilization would be the
+maximum amount by which we could increase our overall profitability if we put revenue into those factories and that's
+really an incomplete answer.
+I'll remind you that our stated strategy is to invest in our capacity ahead of demand. By definition that means we will
+have open capacity and underutilization costs. Our purpose though for buying ahead of demand is to purchase that
+capacity with as little cash as possible. So the underutilization charge is mostly a non-cash charge and it tends to miss
+the point that our objective is to be maximizing free cash flow.
+So for that reason you haven't really heard us commenting on or quantifying underutilization charges these past few
+quarters and unlikely to in the future unless there's some material change that causes a better understanding of what's
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 9 of 16
+going on.
+<A - David Pahl>: Yeah, and, Joe, I'll just add the last time we had stated our end to end capacity it was in the $18
+billion range, so if you want to get a qualitative feel of where capacity is, you could annualize our quarterly revenues
+and put it against that number and it will get you into the ZIP Code.
+So do you have a follow on, Joe?
+<Q - Joseph Moore>: Yeah, thank you for that. In terms – could you give us an update on the base station market? I
+know you had said last quarter that continued to be strong. Just anything that you're seeing from that end market?
+<A - David Pahl>: Well, yeah, if I just look at the communications market overall, and I would – from a year-on-year
+standpoint it was up primarily due to wireless infrastructure while sequentially it was down. And basically we just saw
+that in – as a seasonal pause in the fourth quarter.
+So thank you very much and we can go to the next caller, please.
+Operator
+Our next caller is Vivek Arya with Bank of America Merrill Lynch.
+<A - David Pahl>: Hi, Vivek.
+<Q - Vivek Arya>: Hello. Thank you for taking my question. You mentioned a very interesting thing on the improving
+output from your 300-millimeter fab and I was wondering if you could give us some more color around what
+percentage of your starts are moving to that fab, and more importantly what that implies for gross margins? For
+example in the past you have mentioned about 75% fall-through on gross margins. So as you increase the loading on
+300-millimeter, what does that do to that number over the next several quarters or years?
+<A - Kevin P. March>: Yeah, Vivek, I don't know that I'm prepared to give you a detailed quantification of that
+nature. What I would just say is as we've talked in the past about, just from the geometries alone, that the chip cost
+itself was about 30% lower on 300-millimeter than it is on 200. Not to mention that you also get better yield results and
+so on, so you get a number of different benefits.
+So what we're seeing happening is proportionately more and more new products that we're releasing are being released
+onto 300-millimeter which means as we look over the next year, two or three or four years, more and more of our
+revenue will be sourced off of 300-millimeter which inherently means it's got lower cost which should allow us to
+incrementally increase our gross margins as well as importantly our free cash flow.
+Beyond that, I don't have any specifics I'll give you at this point in time, but I do want to introduce that concept to
+people because I think it's being underestimated as to how important that is to TI's continued progress.
+<A - David Pahl>: Do you have a follow on, Vivek?
+<Q - Vivek Arya>: Yes. Dave, the question is on the end market mix. I believe you mentioned comms was strong on a
+year-on-year basis. Was wondering if you could just give us your end market mix overall for Q3 and how do you see
+those trends playing out in Q4? Thank you.
+<A - David Pahl>: Sure. Yeah, so on a year-on-year basis, our revenue growth was due to comms equipment,
+industrial, and automotive, as I mentioned before, each of which grew and contributed to that growth by about the same
+amount. Our Enterprise Systems was also up while revenue in personal electronics declined due to legacy wireless
+products.
+So if you kind of go down one step on each side, inside each one of those, industrial we've got about a dozen sectors
+inside of industrial. And as we've talked to different investors over the last few months and as we're traveling around, it
+becomes clear to us that our definition of industrial probably isn't as well understood.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 10 of 16
+And we've got – years ago we used to define it as what it wasn't, meaning it wasn't comms equipment, or it wasn't
+automotive, or it wasn't other things. But now we've got very intentional definitions. We've got about a dozen different
+sectors that make that up. So things like appliances, and building automation, and displays, and point-of-sale products,
+factory automation, industrial transportation, medical healthcare, fitness, lighting, motor drives, power infrastructure,
+things like that, so very, very broad but very specific.
+So when you look on a year-on-year basis, we had growth in nearly all of those sectors with most of the sectors actually
+providing double-digit growth. It was actually led by medical and healthcare fitness and factory automation, but again
+we saw that growth very broad based.
+Automotive we've got five sectors inside of that. And I'll also just point that those sectors are actually out on our
+website if people interested. But we've got double-digit growth in all the sectors but led by passive safety and
+infotainment.
+Comms equipment, as I mentioned, was up due to wireless infrastructure. Personal electronics was down due to legacy
+wireless products. And if you take that out, we did see growth in PC and notebooks and mobile phones and that was
+partially offset by some weakness that we saw in gaming. And then the Enterprise Systems, part of that is where our
+DLP products will sit. And that was up due to projectors. So, I'll stop there.
+So thank you, Vivek. Do we have a follow-up question?
+<Q - Vivek Arya>: No. That was my...
+<A - David Pahl>: Yep. Thank you very much. We'll go to the next caller. Thanks so much, Vivek.
+Operator
+Our next caller is Mark Lipacis with Jefferies.
+<Q - Mark J. Lipacis>: Thanks for taking my question. The first question is, historically when you saw lead times
+stretch for some of your competitors, not only, even if your own times stayed stable, you would see not only double
+ordering at your competitors but also double ordering at Texas Instruments as well. And I'm wondering if you think
+something has changed structurally with how you guys are running the business or how the industry operates that might
+have changed that dynamic?
+<A - Kevin P. March>: Yeah, Mark, I don't know that I'll speak for the industry but I'll speak for TI and kind of go
+back to the comments we made earlier. As a result of us taking an approach whereby we intentionally invest in capacity
+before we need it, and therefore always have more capacity than what's needed for that quarter's business, it allows us
+to be able to build inventory in a much more thoughtful fashion than we have in the past. The consequence of that has
+been that not only have we been able to maintain lead times for the preponderance of our products at six weeks or less
+for several years now, we've also been able to maintain a very high level of on time delivery to our customers against
+those lead times.
+So when you put that together, what you've really got for TI is just a different way whereby we are managing our
+manufacturing footprint and how we utilize that manufacturing footprint for purposes of managing inventory.
+As it relates to double ordering, again one of the biggest things that tends to be evident when double ordering begins to
+pop up, is you start seeing cancellations or reschedulings beginning to ramp up. We do not see that and we have not
+seen that for some time now. So I think the strategy whereby we have capacity ahead of demand and we use that
+thoughtfully to make sure that we can maintain relatively low lead times is serving well to satisfy our customers at least
+as it relates to demand for our products.
+<A - David Pahl>: Do you have a follow up, Mark?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 11 of 16
+<Q - Mark J. Lipacis>: Yes, I do. And that's helpful, Kevin. And the follow up is actually on that topic about the lead
+times. I think earlier in the script you said you're delivering – you're focused on delivering higher levels of customer
+service. And then I think you followed that up with saying we're keeping lead times consistently low. So I guess I'm
+trying to reconcile when you say delivering higher levels of customer service do you think your lead times over maybe
+a longer period of time have come in? That they're just structurally shorter? Or are you just delivering them more
+consistently at a shorter time? So I'm just trying to reconcile when you said what is the higher level of customer
+service? What has the improvement been? Thank you.
+<A - David Pahl>: Yeah, thanks for that clarification. I think it's a real good question. So when we refer to that, we
+look at a bunch of different customer service metrics. One is just how many line items are we shipping on time. And
+we've had some very intentional initiatives that have been set up to be able to ensure that that is a good solid number
+and we're taking advantage of both the capacity and our inventory to ensure that we're consistently delivering on time.
+And so that's one of the metrics that we look at and that's what we mean by customer service. It's not really changing
+those lead times but keeping them stable and then delivering products when we say that we'll deliver them. It's really
+the combination of those two things.
+So thanks, Mark, and we'll go to the next caller please.
+Operator
+Our next question comes from Blayne Curtis with Barclays.
+<Q - Blayne Curtis>: Hey. Good afternoon. Thanks for taking my question. Just going back, Kevin, on gross margin if
+you can go through what drove the upside versus your guidance then you're obviously sustaining that going forward? Is
+there anything that doesn't repeat in such that – it sounds like you can grow it off this base. I just wanted to make sure I
+heard that right.
+<A - Kevin P. March>: Yeah, Blayne, the guidance actually we're up a little bit from guidance, not a huge amount.
+But really what we had was a little bit more revenue come through but importantly we also had a slightly better mix of
+product that we shipped to our customer. So combined that gave us a slightly higher gross margin than previously
+expected. And then on a go-forward basis, again, that mix continues to be in our favor as we go forward. And so
+consequently as we look into fourth quarter our margins will continue to be quite strong. And importantly, because of
+the rather unique situation that we have with 300-millimeter analog manufacturing capacity, we have significant
+opportunity to continue to drive, not just improve margins, but importantly, improved cash flow.
+Again, I'll remind you of some of the things that we're doing. We've got 300-millimeter Analog. I do want to make that
+point if I haven't yet. We've got a lot more of our revenue coming from catalog parts, which inherently tend to have
+more attractive margin characteristics. We have increasing portions of our revenue coming from industrial and
+automotive spaces, and those three concepts are pretty important. Catalog parts, industrial, automotive, tend to have
+very nice long revenue streams which means we have plenty of time to figure out and maximize our cost efficiency
+from a production standpoint and maximize our revenue and cash flow off that.
+We've got increasing customer diversity. So our dependence on any one customer and therefore the risk to our loadings
+or our cash flow generation are diminished. And perhaps also very importantly, we have a sales force that we estimate
+to be three to four times larger than our nearest competitors and those folks are becoming increasingly productive. And
+so we're beginning to get a lot more revenue per salesperson, which means we can grow revenue without having to
+grow OpEx as fast as revenue is growing. So those things combined not only will help our margins but also definitely
+help our cash flow.
+<A - David Pahl>: Okay. Blayne, do you have a follow-up question?
+<Q - Blayne Curtis>: Yeah, thanks. Just from a big picture level, I think you already answered this but I wanted to
+make sure I didn't miss anything. I mean we have seen some companies reference pockets of weakness. I mean I would
+say your results are normal if not even better than normal. Are you seeing any areas that are weak and you're offsetting
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 12 of 16
+that with share gains or strength elsewhere? I'm just curious your perspective or are you not seeing any weakness at all
+anywhere?
+<A - David Pahl>: Well, yeah, I'll let you draw the conclusions from the numbers. I think that obviously the results are
+solid. I think that the outlook is consistent with the orders and our visibility into what customers are telling us they want
+from a consignment standpoint. And, yeah, so from a share gain standpoint, I think that we've had multiple years now
+where we have gained share. I think it's always hard to tell in any one particular quarter that you're picking up share but
+I think when you look back over a year, you can see that trend. So we believe in our numbers there's share gains, but I'd
+be careful on any one quarter to be able to point that out.
+So thank you, Blayne. We'll go to the next caller please.
+Operator
+Our next question comes from Ross Seymore with Deutsche Bank.
+<Q - Ross C. Seymore>: Hi, guys. Thanks for letting me ask a question. I guess the one segment nobody's asked about
+thus far is Other. It did a bit better than I had expected. Dave, you broke down what was the year-over-year and
+sequentials with the sub buckets in the other two segments. Can you do that for the Other segment as well and if it is
+DLP, give us a little description on is there some seasonality in that that we need to appreciate going forward? Thanks.
+<A - David Pahl>: Yeah, sure. Thanks, Ross. So on a year-on-year basis again, Other was even. We saw a decline in
+legacy wireless products and that was mostly offset by the growth in DLP products. On a sequential basis, well, let me
+just finish year-on-year. If you look beyond that, calculators as well as the custom ASIC business were up and royalties
+were down just slightly.
+So sequentially, revenue was up due to growth in calculators and DLPs. Royalties were flat and custom ASIC was
+down a little bit. So I'd say that all those businesses are performing well. And if you look at DLP, they're typically
+stronger in the back half of the year, in third quarter. But I would say that that business is just executing well. When we
+look at that business longer term, I'd describe that it's got several wild card growth opportunities. If you look at most of
+the business today, it will be centered up in the front projectors that you'll typically see in offices and schools and
+government buildings. But, and it also has a solid cinema business. But from a broader standpoint it's got some
+opportunities inside of automotive as well as some Embedded opportunities there as well.
+<A - Kevin P. March>: Mention the Pico as well.
+<A - David Pahl>: Yeah, the Pico Projectors as well. So thanks, Ross. Do you have a follow up?
+<Q - Ross C. Seymore>: I do. Kevin, you were helpful in giving us some bounds around the OpEx in looking at prior
+years and how things have dropped seasonally due to vacations, et cetera, in both the fourth and then the first quarter
+doing the other direction. Can you give us a little bit of a harder number on what that typical percentage change is
+quarter-to-quarter? Looking back in the past you guys have had a number of restructuring programs that make it a little
+bit difficult to parse out what's seasonality and what is restructuring driven in both the fourth and the first quarter.
+Thank you.
+<A - Kevin P. March>: Yeah, Ross, that's – I actually pointed to the last fourth to first transition with the idea that
+that's a good one for you to look at. Because in fact, the timing of the announcement for the Embedded Processing and
+Japan restructuring, you may remember we announced that in January this past year, so we hadn't even begun activities
+yet inside the first quarter. So the underlying cost in there is fairly clean from a comparative standpoint between fourth
+and first. And so I'd use that as your figure of merit for trying to figure out where we're going in 2015.
+<A - David Pahl>: Okay. Thanks, Ross. That was helpful clarification. And we'll go to the next caller please.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 13 of 16
+Operator
+Our next caller is Doug Freedman with RBC Capital.
+<Q - Doug Freedman>: Great. Thanks for taking my...
+<A - David Pahl>: Hi, Doug.
+<Q - Doug Freedman>: Hi, guys. Thanks for taking my question. Congrats on the real strong results here. If I could,
+Kevin, maybe attack a really high level one. You guys have been in the past very acquisitive, so much so that you
+really rebuilt your whole business model through acquisitions. Can you maybe talk about your appetite to maybe add
+some debt onto your already leveraged balance sheet? And what it would take for you to look at another significant
+deal?
+<A - Kevin P. March>: Okay, Doug. It sounds like maybe there's two ideas in your question there, one on M&A and
+one on debt. Clearly on the M&A front, as you point out, we have been quite willing to take on M&A activities when it
+makes sense. And our definition of what makes sense is first it has to be a strategic fit. Meaning that it really has to
+make sense for where we want to take the company. As we look at potential M&A in the future it's most likely to be
+biased towards Analog and probably towards items with catalog parts or that service the industrial or automotive
+spaces. There may be others but those are the most likely areas that we would look at.
+If it turns out that it checks off from that strategic fit standpoint, then of course we have to take a look at the numbers
+and make sure that the price that we would pay, what I mean by that is not necessarily what its market cap is, but the
+markup we probably have to pay on top of that, that that total cost would be accretive to our WACC, our weighted
+average cost of capital, in a two to four timeframe. So there's several tests that we go through when we make a
+determination on an acquisition.
+As it relates to debt, as you know we have taken on debt to support acquisitions in the past. We think having the
+balance sheet available to support those kind of strategic initiatives are important, and a worthwhile thing for us to
+maintain for maximum flexibility as we move forward. And so as we look out in time, even if you look at the last
+couple of years, while we have been issuing new debt we've also been retiring older debt, and retiring a little bit faster
+than we've been issuing so that we're taking our total debt levels down. And that's having the result of generally slowly
+opening the balance sheet back up to make itself available for any other opportunity that might present itself at some
+point in the future.
+So that's how we're looking at M&A and that's how debt rolls inside that look.
+<Q - Doug Freedman>: Great. Thanks for all that color.
+<A - David Pahl>: Do you have a follow up?
+<Q - Doug Freedman>: Yes. I guess if I could, can you guys – pretty much along the same ideas on the balance sheet
+and how you look at cash return, I might have missed it. Did you happen to give out the share price at which you
+bought back shares this quarter? And would you moderate going forward given the share price pullback that we just
+saw, how we should think about share count going forward?
+<A - Kevin P. March>: Let's see. We bought back $670 million worth of shares this quarter, a total of 14.1 million
+shares, so that's an average price of about $47.62. I would point out that over the last – since the end of 2004, beginning
+of 2005 we've reduced our total share count by 39%. That the average price of those shares that we bought over that
+time I believe were about $30.62, give or take. When we look to buy-back shares, as we've talked about in the past,
+when the intrinsic value, we believe, is higher than what the market value is, then it makes sense to buy back on a
+steady, if you will, dollar cost averaging kind of basis. That's what we've done for many years and that's what you've
+seen us do here recently. In fact, the recent pullback in price is just allowing us to buy back a few more shares with the
+same number of dollars. So that's kind of an around the world look at share repurchase, if you will. I hope I answered
+your question on that, Doug.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 14 of 16
+<A - David Pahl>: Yes. Okay. Thank you, Doug. We'll go to next caller, please.
+Operator
+Following Doug, we have Will Stein with SunTrust.
+<Q - William Stein>: Great. Thank you for squeezing me in. I'm hoping you can quantify a comment that you made
+earlier about the portion of sales on 300-millimeter today, and that, that could increase over time. Kevin, could you talk
+a little bit about where that number is now, and where you'd see it going over the next couple of years?
+<A - Kevin P. March>: Will, I think we're going to try to just hold back, and say it is proportionately more than it has
+been, each period that goes by, it's proportionately more. But I think that we'll hold a little while longer until we can
+give more comprehensive look and a better understanding for everybody on how to think about that 300-millimeter
+going forward. I just do think it's at the highest level, it's a fairly straightforward computation. 30% lower die cost,
+which means about 15% lower total IC cost. And as we get proportionately more revenue going on there, that will
+incrementally benefit our margins and our cash flows as we go forward in time. And that is something I've become
+aware of in talking to investors in the last couple quarters, that is under-appreciated on what's going on inside the
+portfolio itself.
+<Q - William Stein>: That's helpful. I appreciate it. As my follow-up, another comment that was made earlier was
+about, I think, the relative strength of Analog versus the Embedded segment this quarter. And I think there was a
+comment about end markets, the end market mix helping. I'm wondering if you can clarify that. Maybe help us
+understand a little bit better. I know Analog is very diversified relative to Embedded. Maybe talk about if there were
+maybe some end markets that were a bit more challenging that affected the Embedded segment a bit more?
+<A - David Pahl>: Yes. I think if you look at Embedded, it will have a high exposure to really three different markets.
+It's communications equipment, industrial, and automotive. And like you said, our Analog business has a much broader
+exposure including exposure to personal electronics. It has obviously a good exposure to industrial and automotive as
+well. But it's really those types of differences that will explain that performance.
+If you look at Embedded Processing, and you look back at the growth rates between the two businesses, you'll note that
+oftentimes they will grow at different rates but if you look over an eight quarter period, that Embedded Processing has
+been growing year-over-year, the growth rate for both of those businesses are essentially exactly the same. So it kind of
+works out that way over a longer period of time.
+So thank you, Will, and we'll go to the next caller, please.
+Operator
+The next question comes from Tore Svanberg.
+<Q - Tore E. Svanberg>: Yes. Good afternoon, Dave and Kevin. My first question is on sort of the general
+environment. You know, Q4 is obviously a seasonally down quarter anyway. It's hard to get a read on what's going on.
+As we sort of – as you talk to your customers and we compare – now let's say versus 12 months ago, would you
+classify the forecast and the environment as better, weaker or about the same?
+<A - Kevin P. March>: Tore, I guess I'd probably say that it's about the same. I wouldn't classify it as better or weaker.
+I say it's about the same in that, again, we have had the same lead times for several years and customers are ordering
+consistent with that, generally speaking. You get some that need to expedite from time to time because they've
+under-ordered or had surprise demand on their end but that was true a year ago and it's probably true today. And we
+continue to see customers manage their inventories of our products, I'd say very lean. As was mentioned earlier, in the
+distribution channel, we're at all-time lows of four and a half weeks of inventory. That's the same last quarter and this
+quarter. That's very low.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 15 of 16
+From a customer standpoint we see them, again, ordering lead time and consistent ordering patterns so that tells us
+they're keeping their inventories very low. So I think overall I'd probably characterize it as relatively the same kind of
+customer demeanor today as what we saw a year ago.
+<Q - Tore E. Svanberg>: Yes, thanks, Kevin. That's very helpful. My follow-up question, Dave, if I have one...?
+<A - David Pahl>: Sure. Sure. Please.
+<Q - Tore E. Svanberg>: Yeah, so your Analog growth 10% year-over-year, is that sort of the goal internally to
+continue to grow the Analog business 10% every year? Or was there anything unusual here in the last 12 months that
+kept that growth rate so high?
+<A - David Pahl>: Well, I would say that internally we have very aggressive goals to grow the businesses. And I'd just
+describe it as we want to outgrow the market significantly in Analog. So we've got all of the business units that are
+focused up on that.
+We do look at the performance of the product lines at every quarter and we really look at a three-year compounded
+annual growth rate and stack that up against all the other businesses both inside of TI as well as competitors externally.
+And that's how we measure it. So again, as I said earlier, that 10% we believe would represent some share gains but be
+real cautious to look at any one quarter and draw the conclusion or try to dice out what percentage of that growth would
+be from share gains.
+So okay, thank you, Tore, and we'll – operator, I think we've got time for one more caller.
+Operator
+Yes, sir. And we have C.J. Muse with ISI Group.
+<Q - C.J. Muse>: Yeah, hi. Thank you for taking my questions, fitting me in. I guess first question is a point of
+clarification. On the OpEx outlook for Q4 down $15 million, is that all restructuring and then there's gravy on top of
+that in terms of seasonal savings or does that $15 million include the seasonal savings?
+<A - Kevin P. March>: C.J., the thing to do is take a look at a year ago. Third quarter to fourth quarter there was a
+seasonal decrease. On top of that will be another $15 million as the last of the EP restructuring is completed.
+<Q - C.J. Muse>: Okay. That's helpful. And then I guess second question, was hoping you could talk about inventories
+downstream. Clearly relatively healthy on your books, but would love to hear what your thoughts are in terms of, in
+particular, at the disti level.
+<A - David Pahl>: Yeah, our inventories really from a days standpoint, have remained unchanged at what I would just
+describe historically low levels at just a little over four, four and a half weeks. Again, that number is low because of the
+consignment programs that we've put in place.
+Beyond our distributors and then to our customers, we do have a good percentage of our revenues on consignment
+overall and, in fact, if you combine what we ship through distribution as well as what we ship to OEMs on
+consignment, that represents about 50% or about half of our revenues where we actually, there is no inventory sitting in
+front of us in that manufacturing line for those inventories. So we know that inventory number and it is at zero. So we
+have very good visibility into that portion.
+And we do have a balance of the business that's kind of the classic, I'll describe it as a book-ship type business, where
+they give us an order, it goes onto a backlog, and we ship it at lead time. So, and there we haven't seen any reports of
+large inventory pockets from customers. We're going through and racking up this quarter's results and we'll see what
+happens on that front. But we're not aware of any big pockets that are downstream.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2014-10-20
+Event Description: Q3 2014 Earnings Call
+Market Cap: 47,410.14
+Current PX: 44.41
+YTD Change($): +.50
+YTD Change(%): +1.139
+Bloomberg Estimates - EPS
+Current Quarter: 0.681
+Current Year: 2.628
+Bloomberg Estimates - Sales
+Current Quarter: 3249.677
+Current Year: 13019.371
+Page 16 of 16
+David Pahl
+So, okay. Well thank you very much C.J. for your question. Thank you all for joining us today. And a replay of this call
+will be available on our website. Good evening.
+Operator
+Ladies and gentlemen, this does conclude today's conference. We appreciate everyone's participation.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
