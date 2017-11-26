@@ -1,0 +1,1762 @@
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 1 of 31
+Q2 2012 Earnings Call
+Company Participants
+• Sarah M. Youngwood
+• Jamie Dimon
+• Douglas L. Braunstein
+• Michael J. Cavanagh
+Other Participants
+• Glenn Schorr
+• Matt D. O'Connor
+• Betsy L. Graseck
+• Nancy Avans Bush
+• Richard N. Ramsden
+• Ed R. Najarian
+• Andrew Marquardt
+• Mike L. Mayo
+• Richard Christopher Whalen
+• Moshe Orenbuch
+• Brennan Hawken
+• Chris M. Kotowski
+• Vincent Anthony Breitenbach
+• Todd L. Hagerman
+• Paul J. Miller
+• Gerard Cassidy
+• Michael Lipper
+• Chris Lafayette
+• Matt H. Burnell
+• Dave B. Sochol
+• John Eamon McDonald
+• Eric L. Veiel
+• James F. Mitchell
+MANAGEMENT DISCUSSION SECTION
+Sarah M. Youngwood
+[Abrupt Start] joining us early in the morning. Few announcements: please turn off your cell phones. All materials are
+now available on our website. We will now open the floor – we will open the floor to Q&A at the end of the
+presentation.
+During the Q&A sessions a few things that will be important because some of the people are in the room: please wait
+for the microphones and say your name to make sure that the people on the phone know who is speaking. Please be
+cognizant of others in terms of follow up. If you have several follow ups we may have to come back to you towards the
+end. And then we'll go to questions to the telephone. And last point, we know that Wells Fargo is having their call at
+10:00. We have set up a room, 207 on this floor, and a few breakout rooms for those who want to listen from here.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 2 of 31
+With that, are we on in terms of the audio? Please take a look at the forward-looking statements and I'm going to turn it
+to Jamie.
+Jamie Dimon
+Sarah, thank you very much. I appreciate you all coming today. So we have a whole bunch of presentations to take you
+through and I'll start with me. I'll try to cover some of the high points. Unfortunately, I think you might have seen this
+morning that we announced a restatement of the first quarter. Doug will describe it in detail, and Mike, we don't take it
+lightly. We talked to our best advisors, accounting and legal and tried to do what we thought was right and the most
+conservative thing to do. Hopefully this is what the SEC Chairwoman herself would have done if she had seen all the
+same facts at the same time.
+Today I'm going to cover – just give you a quick overview. I'm going to talk about a whole bunch of significant events,
+items in the quarter, which we break out for you right in the front of the press release, give you an update on the
+synthetic credit portfolio, talk a little bit about Treasury and CIO. There's some questions about it, so I'm going to
+answer some of those. Our capital plans, I'm going to turn it over to Doug who is going to take you through what I
+would call the regular earnings presentation, though it's got a slight – more disclosures. And then Mike will give you an
+update in the CIO task force. It's kind of the anatomy of the problem, all the good, the bad, the ugly of it.
+The review is continuing I should point out. It's been guided by the board and if we find out more, which is always
+possible, or anything different or material we will let you know as appropriate. If we do find out more, we will do the
+right thing like we always try to do.
+One thing which I would love people to focus on a little bit at one point is to actually look at the businesses, the fixed
+businesses. They have really good underlying performance. And that to me is why we are here, the main reason why
+we are here.
+We've significantly reduced the total synthetic credit risk in CIO. It's down substantially I'm going to give you real
+numbers and describe how we're going to be managing that going forward including the risks that are going on there.
+We've substantially – taken all remaining synthetic credit positions transferred them to the IB. We put them there
+because the IB has the people, the expertise, the capacity, the trading platforms, the market franchise to effectively
+trade and manage these positions, and importantly, they can do it within their historical VaR and stress risk limits
+levels. This is what they will do. It's going to let the rest of the Firm go back to do what it should be doing.
+We have closed down synthetic credit trading in CIO. We will no longer be doing it. Let me tell you one exception of
+one short position we're keeping there. Our fortress balance sheet remains completely intact, in fact, I would call it
+un-dented. An extensive review has been conducted. Mike will take you through that.
+Very importantly, all of CIO management has changed; Matt Zames is here. While you may know him professionally,
+but he obviously brought in a lot of additional risk people, traders, finance officers to help manage the CIO area and
+they've been through it top-to-bottom, all the governance, reporting limits, etcetera in CIO. We do believe these events
+are isolated to the CIO and Mike will talk about it a little bit more.
+These types of events are terrible, but there's one gratifying thing in them, is you find out that people come and bring
+their best every day. We've had hundreds of people kind of working around the clock now for three months to get this
+thing fixed and wrestled down. And I think we've mostly accomplished that. And then now we can focus our energy on
+what we do best which is growing our businesses and serving our clients and communities around the world. Hopefully
+after this is over we will be a stronger company for it.
+We did report net income of $5 billion for the second quarter. That would have been $4.6 billion had it not been for the
+restatement, earnings of $1.21. For the first half we'll have earned $9.9 billion that is not – obviously unaffected by the
+restatement and the balance sheet and capital ratio is not affected either. In the second quarter let me take you through
+each one of these items a little bit slowly.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 3 of 31
+CIO trading losses, that's the synthetic credit book, $4.4 billion. But, in the first quarter, it was about $1.6 billion. Not
+hiding that. We're not doing that. That's $1.6 billion in the first quarter, which removed $600 million by the
+restatement, $4.4 billion this quarter. Corporate CIO securities gains we'd announced that actually when we told you
+the first time about this problem. We did not take additional securities gains. All I want to point out here is these are
+always broken out in the P&L. So you can never hide them. And we take them generally for investment decisions. Do
+you want to own or not own that security? We don't generally take it to offset something like that. And I've pointed out
+before that taking gains is generally tax inefficient. It doesn't mean you shouldn't do it. It's just generally tax inefficient.
+Loan loss reserves came down by $2.1 billion. That's mostly in mortgage and credit card. And that's exactly the same
+conservative principles we've used before. The good news is charge-offs and delinquencies are coming down. And so,
+reserves had to come down. Doug's going to give you a little bit more information on that.
+The Investment Bank had $750 million of DVA gains. You all know we don't really consider that earnings. On
+Corporate, we expect a full recovery in the Bear Stearns note. Some of you may remember when Maiden Lane was
+done, where the Fed took on $30 billion of Bear Stearns assets, we guaranteed the first $1 billion of loss. Okay?
+Maiden Lane, they completely repaid the Federal Reserve. We've now been paid $200 million. I think we get another
+$300 million sometime in a couple weeks. We expect full recovery of the $1.2 billion plus interest and that's just
+writing the note back up to what we expect to get in cash plus interest over a little bit of time.
+I won't go through the capital ratios here, kind of talk about them a little bit later. With the synthetic credit portfolio, the
+only thing I would mention too, of the losses in synthetic credit, it is kind of costly. The worst part of this whole thing
+is when we started this thing is that we knew we had these large illiquid type of things to manage down and we had $2
+billion plus at the time. The way to figure this we is we basically – have been reducing the risk substantially. I'm going
+to go through these numbers but it's costly to do. It's costly to do. I'm going to give you the final ultimate risk here but
+we did get it down I think a little bit faster than we thought we might be able to.
+Number one, we're transferring about – these are – I'm going to give you rough crude measures of risk here. I mean
+they generally are accurate but this is in the trading book so we're not going to disclose specific positions. The
+risk-weighted asset transferred to the IB and this is a fairly decent measure of risk is about $30 billion. So their
+risk-weighted assets go up by $30 billion. It's down substantially from the peak and it's about probably where it was on
+December 30th so it went way up. It's come way down.
+We've significantly reduced net notionals and credit spread sensitivities. We show you the credit spread sensitivities.
+The CS01 is how much you would gain or lose if credit spreads widened by one basis point. You can see it's down
+from the peak of $51 billion to $7 billion. $7 billion is closer to what I'd call a norm.
+We have a significant reduction in the on-run and the off-the-run basis. That's part of what we all read about all the
+time about the IG9. The IG9 itself is down 70%. We've reduced the basis risk between high yield and high-grade risk in
+Europe and the United States. These are the kind of risks that got built up, complex risks that we kind of wished we
+didn't have when we realized it was there. They're down by 70% and what remains is not in my opinion that big a deal.
+The residual portfolio that's transferred over to the IB is largely a delta-hedged tranche portfolio. It's stuff they know
+how to do. They're better at it than CIO is. But it's still large. We're not saying it's not large. It still could obviously lose
+money or possibly make money. Some of the positions are currently cheap; they're theoretical. It's not how they were
+when we inherited them.
+When that Matt Zames joined us – and I'm giving you one number, here. Extreme, simulated scenarios indicate
+potential loss between $800 million and $1.7 billion. This portfolio can make money. The extreme, simulated losses are
+things like a Eurozone crisis, a credit crunch, and the 99.9% statistical stress would have a loss of about $1.4 billon. So
+we do think this is a box and I hope we don't have these losses at all. To help us a little bit in the quarter, we will have
+about a $900 million gain on swaps we've terminated against some of our TruPS. So we think we're pretty much done
+with the financial loss of this if you can look at that gain too.
+I've already mentioned that we transferred it to the IB and why and they are already more actively trading it than we
+were. If you look at the combined IB and synthetic credit portfolio risk within the IB historical, the RWA I mentioned
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 4 of 31
+went up by $30 billion, so not that significant to them. Their VaR, I think it will be disclosed that the IB VaR on the
+end of the month – the spot VaR was $74 million. The next day when we transferred it over, July 2, it went to $113
+million, well within numbers we're used to and comfortable. We've gone as high as $200 million. The remaining
+portfolio that we left at CIO is simple. It's an $11 billion short of basically fairly liquid indexes. It's identified to offset
+some potential losses in a much larger AFS portfolio. They're asymmetric. One is mark-to-market and one is not so
+we're not worried about this.
+The gain in the one will far offset the loss in the other, vice versa but we need to make separate decisions, do we want
+to own those investments or not own those investments. We thought now was a rational time to keep the hedge on
+certain credit exposure around the world, particularly with what you see going with the Eurozone. This hedge will
+come down over time. We don't intend to keep it there necessarily forever. Obviously we'll make those decisions as we
+see fit. It will show a VaR, remember there's $11 billion will have its own VaR because it's not hedged against anything
+and it's asymmetric. It'll have a huge VaR like $135 million, coming down over time and on its own, it's about $34
+billion of risk-weighted assets.
+So the next page, I going to talk about some Treasury and CIO activities. And kind of go through this. First of all, I
+should point out Treasury and CIO have been and always will be, subordinated to the needs of the rest of the company.
+They can only invest when, where, how, why for the needs of the company. And that involves their – the duration they
+invest in, that involves the credit they invest in, it involves where they invest in around the world. So it's not a [ph] –
+that's the thing (11:07) portfolio. It's a logical portfolio.
+Why do we have it at all? We have $1.1 trillion in deposits. We've got $700 billion in loans. Now that would generally
+be considered totally conservative. We like making loans, by the way. But between our acquisitions and the fact we're a
+money center bank, we get a lot of deposits in, we end up with a lot of extra deposits. The extra deposits of $423
+billion, plus equity, plus some other net liabilities, give us $522 billion that's not being lent out that we have to invest.
+We actually split it in two pieces. Some companies do it differently, some combine Treasury and CIO. Most have
+functions like this. The first piece is $199 billion, which we call Treasury deployment. We're going to make a
+disclosure. It's on the balance sheet. It shows up as cash and due with banks and sometimes as government repo. Most
+of that money is very short duration. Most of it is at central banks around the world, some is in government repo and
+we have it there just for liquidity because we have a lot of money that comes in and out of this company every single
+day. We bank member nations, sovereigns, sovereign wealth funds, large companies, who can easily swing $5 billion,
+$10 billion, $20 billion a day.
+Treasury CIO has $323 billion. It's down a little bit because we haven't been reinvesting in the last – we're waiting to
+give Matt a little bit of time to figure out what he's got before he starts reinvesting. But it has an average rating of AA
+and an average life of 3.7 years. I'm going to show you a little more detail on the next page.
+Funds Transfer Pricing, we take all the assets, all the liabilities, generated by the company, so take loans and deposits,
+they're constantly dynamically evaluated for their risk pricing, their duration and liquidity and we generally then pay
+units market prices on what they did. So they're paying market prices, they have the right kind of incentive to grow, but
+not grow their balance sheet. They do not get gains – securities gains or excess returns in CIO. They get kind of market
+rates and steady income.
+If you go back in the years, you saw we had a lot of income in CIO. Back then we told you that was going to get very
+high rates. We didn't pass on to the businesses, because it wasn't going to continue. So CIO invests to achieve a desired
+asset liability duration. We can obviously change this all the time. All the companies worry about this. I should point
+out our two biggest exposures are credit and interest rates. This is the place we kind of manage for the most part the
+interest rate exposure.
+Currently, if you asked to be duration neutral, like to the best of our ability to offset all interest rate exposure, we'd have
+to invest this portfolio at an average interest duration of 3.7 years. It is invested currently at an interest duration of 1.2
+years. What that means is that our balance sheet will reprice quicker, the assets will reprice quicker than the liabilities.
+That is disclosed in a disclosure we made called Earnings and Risk that says if interest rates go up 100 basis points, our
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 5 of 31
+earnings would go up by $2.4 billion. So that's how you generate that kind of number. Obviously, you could change
+this over time. I would put this in the conservative category.
+Obviously the composition of our balance sheet will change over time, loans will go up. We need to meet the new LCR
+and Basel III requirements. CIO has reinvestment a year of $40 billion. They have to invest every year probably if you
+want to estimate it, an additional $20 billion to $30 billion of additional deposits. That flow will be invested in the
+things that we think have the most logic for the company in terms of liquid asset buffers, return on risk weighted assets,
+etcetera.
+Loans would be our priority by the way. This is not our priority. We want to grow our businesses, but we do have this
+money to invest. Obviously, the more liquid assets buckets you buy, you might reduce NII a little bit, but it also
+reduces RWA. They're not a complete offset, but it's close. And also over time there's a pretty good chance we'll
+increase duration. If rates ever go up again, you'll probably see us go long on the curve and earn back more NII. So this
+is where we try to manage that all the time, and to do the right, fairly conservative thing for the Company.
+The next page shows you the investments. I've already mentioned the green line at the top, the Treasury Deployment
+and the cash and deposits at banks is mostly central banks. Reverse repo, I told you government securities, they do have
+some very short-term AFS securities. And then you can see below how we break out this. I'm not going to go through
+the detail here. If you want later on, you can call Investor Relations and get some more detail.
+I just want to point out two things. 80% of it is either government backed, U.S. government agency credit or better. The
+only other thing I want to point out is that every investment has risk. This concept that somehow you can buy
+Treasuries and think you might not lose money; you can buy credit, you might not lose money; you can buy mortgages
+and you might not lose money; any of them, you have to make a decision of where you want to put your company in
+this, and the future is always different. So now that we have Basel III, you might know that Basel III accumulated –
+what's it called? OCI goes into your capital. So obviously you have to invest being careful about how much capital
+might swing around. So as time goes on, we will be reorienting this book a little bit. We still think it's fairly
+conservative.
+On the capital planning side, the first column shows you net income that we just reported, $4.96 billion. But if you look
+across the top, these are your analyst estimates now. I'm just taking your estimates for the company for the third quarter
+and fourth quarter, and you can see your estimates for the 2013 and 2014. I just want to point out, we hope to beat all of
+them, all those numbers on that page, but we can't promise that, but we hope to.
+The next line down, RWA, is our estimate. We are constantly estimating Basel 2.5 with NPR, etcetera in there, and we
+have run-off and model mitigation, a whole bunch of things. That's our best estimate today. But if you look at the
+bottom line, our Tier 1 common goes from 7.9% today, there is no stock buyback – no stock buyback, 8.5% the third
+quarter, 8.8% in the fourth quarter, 10.5% by the end of 2013, 12% by the end of 2014, i.e., we have a lot of capital
+generation. That's why we think it's a logical thing to buy back stock.
+You could buy back – if you said – if you were my Board of Directors and you said how much stock do you want to
+buy back? We can get to 9% Basel III by the end of 2013 and buy $23 billion. We can get to 9.5% and buy $15 billion.
+So clearly we have the ability.
+What are we going to do? We would like to buy back stock, but after discussions with the Federal Reserve, and we
+need to work with the Federal Reserve, the board is determined not to buy back stock until two things take place, until
+we finish the board review, which I think is a logical thing. So we come to a conclusion of the board review and we
+find no other major stuff, which I don't expect to find, and that we submit a new plan, capital plan to the Fed, only as to
+repurchase not as to dividends, the dividends are sacrosanct.
+Hopefully, if all goes well, we can start buying back stocks early in the fourth quarter. The dividend will continue to be
+30%. In the past we've said to you all we hope to have a 30% payout ratio. It is possible, when you look at these
+numbers, strategically you might raise that ratio some years down the road, but we will decide that when we get there.
+We are on a strong trajectory to meet the 9.5. We have plenty of capital and plenty of capital generation.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 6 of 31
+In spite of this accident, this event does not change what I think has been the bedrock of JPMorgan Chase for the last
+five or six years. We believe in a fortress balance sheet. I've given you – and conservative balance sheet management.
+We always believe in high capital. Through this whole crisis you never saw our capital go down. We believe in
+conservative funding. I won't go through the detail there; a lot of liquidity.
+Here it says strong reserves. I will tell you we believe generally in conservative accounting principles. We don't like to
+deceive ourselves about whether we're earning money or not and obviously this thing is also a little bit of an exception
+there. And I already mentioned at the bottom the fairly conservative balance sheet management and asset liability
+management.
+Our earnings, the real reason we are here is to grow a company. We think we have a strong and diversified business
+model that's been a source of strength for this company, not a source of weakness, particularly in the storm. We have
+greater earnings power. We still think the earnings power if you adjust for all kinds of ins and outs about $24 billion a
+year. We think we have some the best franchises in our businesses in the world almost every single one of them. They
+might not be the best but I think they're damn close.
+And we think we have a very disciplined and detailed management team. All of whom are sorry that we missed this
+thing. But we think the way we run our business day-to-day we have pretty good businesses and management teams.
+This slide I like to look at because it just shows the buildup over the last six years of our book value on a tangible book
+value. I think our book value is clean with strong reserves and strong accounting and good loans, and all of good assets
+and things like that. You can see throughout this whole crisis, this never stopped growing. So we were able to grow in
+difficult times and I think that's a sign of strength not a sign of weakness and it was driven by diversified businesses,
+constant investing in the businesses, building what we consider market-leading franchises and maintaining our
+conservative principles.
+So to wrap it up, we are not proud of this moment but we are proud of our Company. We not making light of this error
+but we do think it's an isolated event. One of the reasons you do hold capital is for known and unknown events.
+Obviously this one we shot ourselves in the foot but that is one reason you have capital, for things you are surprised
+about.
+We've learned a lot. I can tell you this has shaken our Company to the core. And what happened here is that most of the
+management team went back and said let's redouble our efforts to make sure we're running a great company, granular,
+thoughtful, disciplined in every way possible. We could never say that you won't make mistakes. We operate in a risk
+business. So say you're doing – we think it is nice if it does not make mistakes. Hopefully they will be small and few
+and far between.
+We have great franchises, we never stopped growing in this crisis, serving our clients through tough times. And we
+think we have great growth opportunity going forward.
+So with that, it will turn it over to Doug Braunstein, who will take you though the regular earnings presentation. Thank
+you.
+Douglas L. Braunstein
+Thanks, Jamie. So I'm going to go through the earnings deck so if you turn to that. On Page 1, Jamie really covered this
+page. Just to highlight, $5 billion of net income, $1.21 per share. We did announce this morning that we are restating
+our first quarter earnings, as Jamie said.
+The restatement is really based upon recent facts that we have uncovered regarding the CIO traders' intent as they were
+marking the book and as a result we question the integrity of those trader marks. We felt as a result of that it was both
+prudent and a conservative approach to restate our first quarter.
+We've also, as a result of that, determined we had a material weakness in CIO's internal controls over the valuation of
+the synthetic credit portfolio as of March 31. We believe however we've substantially remediated that weakness at the
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 7 of 31
+end of the second quarter. Mike's going to provide you the details on how we uncovered trader intent, but from a
+financial point of view let me give you four facts and then we are going to move on.
+The first is the loss of the portfolio prior to the restatement for this quarter would have been $5.1 billion, after the move
+to $4.4 billion, in total year-to-date $5.8 billion in losses. Second, we effectively moved $460 million after-tax to the
+synthetic credit portfolio from the second quarter into the first. Third, year-to-date earnings, $2.41, unaffected by the
+restatement, the restated earnings of $1.19 in the first quarter, $1.21 this quarter effectively a move of $0.12
+approximately per quarter. And then the last, as Jamie said, year-to-date revenues, year-to-date net income, year-to-date
+capital, year-to-date balance sheet are not impacted by the restatement.
+So with that, let me turn you to page 2 and I want to focus on the $22.9 billion of revenue. If you excluded the
+significant items that impact revenue in the quarter, revenue would actually have been $25 billion for the quarter. That
+revenue strength really came from some strong performance across a number of our client-facing businesses, as Jamie
+talked about. Let me highlighted a couple of factors.
+First is we had positive loan growth again. We have added $40 billion in loans on an absolute basis in the last year.
+That's after almost $23 billion of runoff in our mortgage portfolio that we had told you we had intended to do and are
+doing every quarter.
+We had record commercial bank loan balances this quarter, up 17%; Business Banking origination up 14%; small
+business loans up 35%; mortgage originations up 29%; strong growth in AM up 36% year-over-year; trade finance
+loans in TSS up 28% year-over-year, so good underlying fundamental loan growth. We've also had some favorable
+franchise trends that continued: we continue to be the number one in global IB fee provider this quarter; deposit
+balances in CBB up 8% year-on-year; sales volume in card up 12% year-on-year, so very good underlying
+fundamentals. Return on tangible common equity for the quarter was 15%.
+If you turn to page 3, the Investment Bank, we've circled net income of $1.9 billion for the second quarter that's on $6.8
+billion. As we've done the last couple quarters because we've had significant item related to DVA I'm going to talk
+about it excluding the $750 million gain in DVA. $6 billion in revenue for the quarter, $1.4 billion net income, return
+on equity of 15%. IB fees were $1.2 billion this quarter, down 35% year-on-year, that largely reflects declining
+transaction volume and activity in the quarter. But as I said and you see in the appendix, page 23, we maintained our
+number one share.
+Markets revenue, $4.5 billion, down about 15% year-on-year, 30% quarter-on-quarter following what, as you know,
+was a very strong first quarter; Fixed income revenue of $3.5 billion. That largely reflected the weaker market
+conditions but we did have strong client flows in the quarter. Equity revenue of $1 billion, that reflects cash volumes
+that were weak. We had strong results in our Equity Derivatives business and Prime Services, despite low spreads, had
+a good quarter.
+If you look at the expense number it's down but it's primarily driven by compensation expense. Comp-to-revenue ratio
+was 35% year-to-date which is consistent with the guidance we had given you at the start of the year. And just a
+reminder, as Jamie mentioned Q3 will have the impact of the synthetic credit portfolio in VaR for the IB.
+If you turn to page 5, Consumer and Business Banking, circled net income of $950 million, that is down about 14%
+year-on-year, flat essentially quarter-on-quarter; net revenues of $4.3 billion. Revenues primarily were impacted by
+Durbin on a year-over-year basis but again there were some very favorable business trends. So I said balances were up
+8%, we believe that is significantly above the industry averages.
+Business banking originations were up 14%. Actually June, the month of June, we had our highest production month in
+a number of years in Business Banking and our loan pipeline in Business Banking today is at its highest point in
+history. Client investment assets are up 5% in this business. We opened year-over-year a million more checking
+accounts, 2.5 million more active mobile customers, 45,000 new clients in CPC so real strong underlying fundamental
+growth.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 8 of 31
+Expenses continue to be impacted by all the investment spend we've been doing and I think as you look forward to
+overhead ratio in Q3 we are likely to return to the ratio we had in Q1 rather than this quarter.
+Deposit margins were down this quarter six basis points. We continue to see that margin pressure. We've talked about it
+for a number of quarters. That's a function of the lower reinvestment environment opportunities that we have. It's
+consistent with the $400 million in net income guidance that we said for the full year related to this deposit margin
+pressure. But the aggregate NII was actually flat quarter-on-quarter and that really reflects the margin decrease being
+offset by deposit growth.
+If you turn to page 6, Mortgage Production and Servicing: circled net income of $600 million; Production revenues, so
+three parts production revenue of $1.6 billion; volumes of $44 billion, up almost 30% year-on-year; record retail
+originations largely driven by refinancing activity including HARP. Margins are down on a quarter-over-quarter basis.
+We expect them to continue to trend lower. It could be another 25 to 50 basis points really depending on the rate and
+refinancing environment.
+You will see repurchase losses in the quarter of $10 million. Settlements were $225 million in the quarter and that's a
+function of reduced repurchase demands in mortgage, reduced pipeline of demands and an improvement in the
+repurchase rates that we experienced this quarter. Based on this and our lifetime estimates for repurchases which was
+$3.2 billion going into the quarter, we really believe we have reached an inflection point that we had talked about and
+was inevitable over time and as a result of that we reduced our reserves for repurchases by about $215 million this
+quarter and if these current trends in our estimates for projected repurchases continue we'd expect the net repurchase
+number to be approximately zero for the next several quarters.
+On the servicing side, you see pre-tax income of $65 million. It continues to reflect very high levels of servicing costs.
+We have not seen the decline that we had expected in terms of default servicing expense for a number of reasons. But
+that was offset this quarter by some of favorable MSR risk management results.
+If you turn to page 7, the Real Estate Portfolio, net income of approximately $700 million for the quarter, revenues
+down 15% year-over-year. It's in line with the estimates that we had given you. It is a function of that runoff, the $23
+billion year-over-year. Charge-offs, circled number of about $700 million. The charge-off rate is down 28 basis points
+quarter-on-quarter. Delinquencies have continued to decline and a result of that is that we reduced our loss forecast
+going forward. We released $1.250 billion in reserves this quarter and I'll talk about that a little bit more detail in a
+couple of pages. We are also reducing our guidance for net charge-offs going forward to $750 million or below on a
+quarterly basis.
+Page 8, Card Services and Auto, consolidated net income of $1 billion for the quarter. That is down about 7%
+year-on-year. It's on revenues of $4.5 billion in the quarter. We are continuing to see some positive underlying trends in
+this business. I said sales remained strong, up 12% year-on-year on new product sales. So for Freedom, Sapphire and
+Ink, sales volume up 20% year-on-year and we continue to believe we are gaining market share in the Card business;
+auto originations, up 7% year-on-year and very strong merchant processing revenue growth, up 13% year-on-year.
+Credit cost for the quarter, $730 million. That reflects $750 million reserve release. That release incorporated a policy
+change for our Troubled Debt Restructured loans, TDRs. As a result of that, we moved forward our charge-offs on
+these loans to 120 days from 180 and that resulted in an acceleration of charge-offs of about $90 million in the quarter.
+No P&L impact because we are fully reserved for those loans.
+But if you include that policy change, charge-off rate circled at the bottom is 4.32% if you exclude it, it was a little over
+4%, 4.03%. Delinquencies also in that circled number on the quarter, 2.13%, and I – we went back as far as 2003. This
+is the lowest rate we have experienced in delinquencies during that period of time.
+So with that, I do want to take a moment on the next page, page 9, to talk about the credit trends. So we put here second
+quarter, first quarter and a year ago and then provided at the bottom trends around net charge-offs. So we continue to
+see positive trends. Charge-offs are down $260 million in mortgage, $550 million in Card year-over-year and those
+trends are demonstrated on the chart at the bottom and delinquencies as I said are down.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 9 of 31
+The reserve actions that we took, as Jamie said, were effectively necessary to remain neutral given that improved credit
+environment and the reduced expectations that we have for losses. And if you look at the one number that I think is
+particularly interesting is loan loss reserves to annual net charge-offs. That's this quarter's charge-offs multiplied by
+four. And those essentially stayed flat quarter-on-quarter even after the reserve releases.
+So we think we continue to be appropriately and conservatively reserved on these two portfolios and across all of our
+portfolios but if the current trends continued, we would expect to see further reductions in the mortgage book reserves
+and just remember a normalized credit environment you would expect to see about 12 months of charge-offs. You can
+do the math and we are substantially in excess of that number today. As it relates to Card, I think given where we are in
+the cycle you can expect reserve releases to be at or near an end.
+Commercial Banking – oops, oops, I pressed that button, if we could go back up. Thank you. Commercial banking we
+had net income of $670 million in the quarter, that's on record revenues of $1.7 billion. That is driven by those record
+loan balances that I talked about, higher year-over-year deposits, and that's marginally offset by the spread compression
+we have experienced in our deposit taking businesses. Loan growth, we think continues to reflect both improvements in
+our customer base as well as real market share gain. So our C&I growth year-over-year is up 24%. We think that is
+almost double the industry rate.
+Record middle market loan balances I think the ninth consecutive quarter of growth, up 18%. And while utilization still
+remains modest, we actually saw this quarter a modest uptick in utilization, so a little bit of additional activity. The
+credit environment in the Commercial Bank remains benign. Excluding recoveries, net charge-offs in the quarter would
+have only been 13 basis points.
+Treasury & Securities Services on page 11, net income here of $460 million. That's up almost 40% year-on-year, 32%
+quarter-on-quarter. Revenue is up 11% on very positive underlying trends. Liability balances year-over-year up 15%;
+assets under custody up 4%; international revenue increased 12%; and expenses were only up 3% year on year, as we
+start to benefit from some of the technology and expense initiatives that we have been talking about in previous
+quarters. The result is fairly positive operating leverage for the quarter, pre-tax margins of 34% for TSS this quarter,
+but do remember we get a little positive impact of seasonality in our WSS business from our ADR business. So we
+have stronger second and fourth quarters on the revenue side.
+Asset Management on page 12, circled net income of a little under $400 million. That is up slightly quarter on quarter
+on revenues of $2.4 billion. Assets under management were effectively flat year-over-year, down quarter-on-quarter as
+a function of markets. We continued to actually see liquidity outflows this quarter in AM, but it was offset by our 13th
+consecutive quarter of long-term inflows in AM.
+If you go to page 13, Corporate and Private Equity, we reported here as a result of the CIO activities, $1.8 billion in
+losses for the quarter. Jamie walked you through the specifics of the portfolio. What we're going to do going forward is
+report this as three distinct items: Private Equity, a Treasury/CIO line item and then Other Corporate. We are going to
+try to give you a little bit of incremental, updated guidance.
+For Treasury/CIO for the next quarter, you would expect to see us generate $200 million plus or minus in losses. And
+that is a function of the reinvestment opportunities and our need to redeploy at this point but it will all so depend on our
+reinvestment strategies for that, and the number can vary quite materially, up or down an additional $200 million.
+Other Corporate we expect to be a positive $100 million on average, but it can be very volatile. That's even before
+significant items. So you saw that this quarter, so tax runs through here, real estate, other small litigation can run
+through this line item. So there is a variety of items, but on average it should be about $100 million for the next several
+quarters.
+On page 14, you see what will be now contained in the supplement of our additional disclosure on CIO and on Treasury
+on a combined basis. So we will have both the revenue and the net income line. I would draw your attention to the
+bottom right, which as Jamie talked about, the VaR in the IB. At the end of the quarter the VaR in CIO was 180 for this
+hedge position. It is now 123, so again, coming down over the last several weeks.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 10 of 31
+On page 15, fortress balance sheet. Jamie talked a little bit about our coverage ratios, but let me just spend a moment
+more on the 7.9% that we reported for the quarter, just to clarify. That is reported with the full impact of Basel III, both
+the new 2.5 rules, as well as the published NPR as if it were adopted. That however is our best estimate at this point in
+time and obviously things can change as we continue to refine and work with the regulators on the application of those
+rules.
+If you actually look on a comparable basis to how we reported our second quarter, our Basel III ratio was up modestly.
+We also, in the appendix, I'm not going to go through it. We added a walk for you on both Basel I and Basel III. So on
+Basel I, if you add the impact of 2.5 rules to Basel I, it would reduce our Basel I reported ratio by 150 basis points. If
+you took the NPR as written, it would add an additional reduction of 100 basis points. So we're obviously with the
+industry in discussions with the regulators around the interpretations of that NPR. We are going to continue to report
+Basel I as is until the first quarter of 2013 when the new rules take effect.
+The last thing I'd just remind you on this page, actually put it on, we're going to keep this on now. As you think about
+returns on balance sheets given the different business mix, we internally look at returns on RWA relative to our
+competitors to sort of set different balance sheets on a comparable basis since RWA is only reported reliably on a Basel
+I basis. We're doing that comparison. And you see we had a positive 1.6% return on our risk-weighted assets for the
+quarter comparable to the first quarter, and we think we'll compare very favorably to our peer group for the quarter.
+Outlook on page 16, I've covered most of the items here but I really want to cover two in specific. The first is in
+corporate Private Equity. Jamie mentioned it. As a result of the TruPS redemption we're going to book in the third
+quarter about $900 million in gain associated with swap terminations that were related to the TruPS that we are
+redeeming. In addition to that, you see the net income impact, NIE impact from that redemption. That assumes no
+refinancing and obviously that number would change depending on how much incremental financing we do against
+those redemptions.
+The second is an update on expense, and if you look to the bottom right, on firm-wide guidance, we expect our adjusted
+expense number for the second half of the year to be flat with the first half of the year. And if you compare that to what
+we said at Investor Day, that would be up somewhere in the order of $1.5 billion to $2 billion relative to that guidance.
+There's really two reasons for it. About three-quarters of that difference is associated with mortgage and that gets
+broken down half-and-half. Half of the increase in expense in mortgage is associated with incremental revenue and
+production. So it's good expense, and it's made good profits, but we didn't anticipate that at the time of Investor Day.
+The other half is associated with those high-elevated costs in servicing related really to the Consent Order, the IFR, and
+a variety of other matters.
+We expected that to come down sooner. It has not. But you should think about this as timing as opposed to absolute
+difference in expense. It will come down over time as we work through these issues. About a quarter of the expense is
+associated with the environment we're in, which is we've had higher legal, higher compliance, higher FDIC than we had
+anticipated, and that has run through a variety of the businesses.
+Page 17, the final sort of piece of Corporate in terms of guidance, we've added this core NIM page as you know a
+couple of quarters ago. Core NIM declined by 10 basis points this quarter. For someone who's going – I figured given
+other topics, no one's going to jump right in with the NIM question first off so I figured I'd give you the answer now.
+NIM is down 10 basis points really on the lower rate environment, the mix change in our loan portfolio and the
+important impact this quarter was actually accounting from FAS 133 hedge ineffectiveness. That was really the primary
+driver both in our investment securities yield portfolio as well as in our long-term debt portfolio. And if you'd just focus
+on the security sales that were associated with the $1 billion of gains, that actually did not have a material impact on the
+portfolio for the quarter.
+Last comment is really on page 18, which is our European disclosure as it relates to the periphery. $6.3 billion of total
+disclosure – total exposure rather, at the end of June. That's down from $12.5 billion at the end of March. And what I
+want to caution everyone is the significant portion of that is really a function of hedging activity on that exposure which
+we may or may not do on a go-forward basis and the net exposure I think you should expect to return to the levels more
+consistent with where we were at the end of the first quarter. We do continue to be active with our clients in the region,
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 11 of 31
+but we're clearly being more cautious given the environment today and focused, really, on helping those clients do
+business in the market.
+So with that, I am going to stop, turn it over to Mike, and then, after Mike, we'll be back for questions. Thanks.
+Michael J. Cavanagh
+Thanks, Doug. So I hope everybody's coffee's kicked in and mine as well. We're going to spend a little while here
+going through the task force update. So for those on the phone or on the web, if you go to the next section is what it's
+called.
+So, in the room here, I'll dive right in on slide #1 which describes the management review that's been underway for the
+past two months. So my job has been to lead this firmwide response and conduct a rigorous review of the events
+leading up to the losses, assess what went wrong and mobilize the company to make the necessary fixes happen. And
+while some work remains, I'm glad to say that the scope and intensity of what we've already done allows me to give
+you today what I think is a very clear picture of what happened and what we've done about it.
+I have to say that it's been an incredible effort by many people and I just want to thank everyone who's been involved in
+getting this work done to get us here. So now what I'm going to do is go through this presentation in three sections.
+First, we're going to spend a bunch of time just walking through some facts, then we'll go through observations and
+implications of those facts and then finally I'll bring it to a close with the remediation actions that we've taken in
+response to all this.
+So if you start – let's begin on slide 2 and that is just a summary of the key findings of the review. So there are five key
+observations. The first is the actual cause of the losses and the other observations are things that, had we done them
+better, may have reduced the size of the losses, allowing us to detect issues earlier.
+So the first one, which is the cause, is that CIO judgment, execution and escalation were poor in the first quarter;
+second, the level of scrutiny of CIO did not evolve commensurate with its increased complexity; third, the designated
+risk management team supporting CIO was ineffective in dealing with the challenges of this portfolio; fourth, that risk
+limits in CIO were not granular enough; and fifth, that the model – the approval and implementation of a synthetic
+credit VaR model, that we'll talk about happened in the quarter, was poorly done.
+So with that overview of these observations, now let's slowly go through the pertinent facts that these support, so on
+slide 3, some historical context on synthetic credit portfolio itself. So the portfolio's primary purpose had been to
+provide a partial offset to losses we would suffer elsewhere in CIO and the company in a stressed credit environment.
+The portfolio got started about five years ago. It was generally short credit, but also included some long positions in
+order to reduce the cost of carrying credit protection and consistent with its objective, the portfolio produced gains in
+the stress period of 2008 to 2010 and was breakeven or positive each year from 2007 to 2011. And all-in, it generated
+about $2 billion in gains during that period.
+So next, on slide 4, now we get into a summary of the first quarter 2012 transformation of the portfolio that led to the
+losses. In late 2011, CIO was directed to reduce the synthetic credit portfolio's risk and risk-weighted assets. That
+direction came as part of the annual budgeting process in which we developed the Firm's capital plan including our
+glide path to Basel III.
+Now in the second bullet, I will attempt to explain what it appears the synthetic credit team and CIO hoped to do and
+that was to move their portfolio's risk position from a net-short position to a neutral one while reducing risk-weighted
+assets in the process. They also hoped to retain some tail protection against corporate credit defaults, which was the
+synthetic credit portfolio's historical mission. So they had a lot of things going on that they were trying to accomplish
+and found it difficult to find a balance that they liked.
+To simplify what they did, it amounted to them going long investment grade indices, while increasing short positions in
+junior tranches and high-yield indices. And the size of the portfolio grew dramatically as they continued to add
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 12 of 31
+positions later in the quarter when they were struggling to balance the portfolio as the market began to move against
+them.
+So the question of why they didn't just pursue an outright reduction of the portfolio? It appears, and that's all it is, an
+appearance, that they thought about it a bit, but they believed that it would be more expensive than the approach they
+chose, which obviously proved to be wrong, and were focused on thinking about high execution costs to reduce the
+portfolio in size and the lost carry of a reduced portfolio, so they went ahead with the approach they had. That's my best
+shot at describing what it seems they were trying to do.
+Now you move to the third bullet, where you see what we now know, which is what they did do was increased the size
+and complexity of the portfolio dramatically in the first quarter. And along with it, the sensitivity to a variety of risks,
+which you can see listed there, all of which contributed in some part to the losses, and Jamie touched on some of these
+earlier on.
+On slide 5, I just give a graphic presentation of basically the same thing, which is the growth of the portfolio in the first
+quarter. On the left, you see the total notional size of the portfolio with the red dots being the net of long and short
+notionals, which as you can see, tripled in the first quarter. You can't look at this slide and fully understand the risk of
+the portfolio. What it does show is that the significantly increased size and complexity of the portfolio left little margin
+for error when the expected pricing relationships across the portfolio began to break down and generate losses. It was a
+very risky approach they took, that should have been discussed and vetted at more senior levels, but it was not.
+So now for the next three slides, what I am going to do is lay out some key events that happened during three sequential
+time periods. The first one, slide 6, covers the first period. And that is from the beginning of 2012 to late March, March
+23, by which point the cake was fully baked on this thing and essentially all the loss-making positions were already on
+the books.
+During this period, what you see on this slide is three key events I want to talk about. So the first one was that certain
+CIO level risk limits got exceeded and how those excessions were handled. These types of business level limits are
+common across the company, and when they are exceeded the independent business unit risk managers are responsible
+for reviewing the reasons for the excess and either granting relief or ensuring that action is taken and to get back inside
+the limits.
+Specifically, two CIO level credit-spread widening limits were exceeded over the course of the quarter. In January, a
+measurement of the impact of credit spread widening that ignored correlations across instruments exceeded its limit.
+This was reviewed by CIO's Market Risk Officer, who granted relief from the limit on the basis that the measure was
+an unsophisticated tool for measuring risk in these circumstances. Secondly, the other one there was on March 23. The
+second CIO level credit spread widening limit was exceeded, and this was obviously of little use as a control measure,
+since it occurred after the positions were already put on.
+Now, the second event that you see on the slide here in the middle bullet was the approval of a new synthetic credit
+VaR model in late January. This was approved by the independent model review group in Corporate Risk Management.
+For the week before the new model was implemented, John Hogan, the new Chief Risk Officer, and Jamie were asked
+to signed off on a temporary increase of firm wide VaR in an e-mail which noted that a CIO VaR model was soon to be
+approved, which was expected to lower VaR, and they assented and went ahead with that approval. But the problem
+with the second event here, which is why it's on this slide, relates to the model approval itself. Again, this was done by
+the model review group, despite reasons for concern about the weak operational environment supporting the model,
+which we will come back to later on.
+The third event on this slide was the February 29 CIO business review with folks from Corporate. The CIO attendees at
+that meeting indicated that the portfolio, the synthetic credit portfolio was well positioned and that RWA reduction was
+on track and raised no other issues.
+That's it for the key events up to the period of March 23, and that is the period by which all the positions were
+substantially on the books that led to the losses and the portfolio transforms.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 13 of 31
+So now let's go on to Slide 7 and move onto the next time period I just wanted to talk about, and this is the period from
+then March 23 then to the April 13th Earnings Call. First, the portfolio experiences losses in late March and early April.
+Around this time, market visibility of the synthetic credit positions becomes a concern, particularly after press reports
+on April 6. At that point Doug and Jamie asked for a review of the portfolio in preparation for the earnings release a
+few days later.
+Ina spearheaded the review with engagement by John Hogan, Doug Braunstein and others. The main output of that
+review was forward scenario analysis that produced a probable P&L range for the second quarter on the portfolio from
+positive $350 million to negative $250 million with a bias to the positive end. So at that time, the group got
+comfortable that the portfolio's risk was manageable though in need of heightened attention going forward and
+assurances to that effect were provided to Jamie and Doug.
+Now let me just make a few additional points about this review. First, that analysis was led by Ina, which made sense
+as she was very capable of driving a review of an activity in her area of responsibility. If there was a question about
+something like this in TSS, for example, I'd fully expect [indiscernible] (54:24) to lead the charge on bottoming it out,
+as would other operating committee members for their businesses.
+And the second point is that Ina in turn relied on the managers and traders responsible for the portfolio and who knew it
+best to produce the supporting analysis at that stage over those few days and in hindsight, obviously, their views may
+have been unduly influenced by their conviction that the market's awareness of their positions was causing aberration in
+pricing that would reverse.
+I will also just say here that the VaR model was not a focus during the pre-earnings release review because there was
+no indication at that stage that it wasn't working properly. It's a backward-looking indicator and actual losses had
+already prompted demands for the forward-looking scenario analysis that was being done. And so on April 13, this
+period ends and we announce our first quarter results.
+Now, moving on to slide 8, this is a set of facts for the period between the earnings release and the launch of the
+management review. So in late April, losses pick up and the heightened monitoring that followed the earnings call gets
+taken to another level when a senior team from corporate risk is sent to examine the portfolio from the bottom up.
+So they begin providing daily updates and construct an independent analysis of the portfolio that becomes the basis for
+risk measurement that the new CIO team picks up a few weeks later. It's during this period that problems with the new
+VaR model are discovered. We use the old model for the VaR number in the 10-Q and disclose that we had used the
+new model on April 13. This event has caused us to tighten up our procedures around model change disclosures going
+forward, by the way.
+We filed the first quarter 10-Q on Thursday, May 10 and held the investor call that evening with an update on the
+synthetic credit portfolio and finally on Monday, May 14, Matt Zames is announced as the new CIO and our
+management review is launched. So that's it for the facts.
+On slide 9 we transition from those facts which you just see summarized on the left to the observations they support on
+the right which is what I covered at the beginning. And now let's spend a little time going through each one of those
+observations in a bit more detail.
+So on slide 10 is the first one, which is the observation that CIO judgment, execution and escalation were poor. So first,
+the trading approach itself was poorly conceived, reviewed and executed. As we saw in the facts the portfolio grew to a
+perilous size with numerous embedded risks that the team did not understand and were not equipped to manage.
+The second bullet on the page is about insularity. Even within CIO the discussion of the portfolio stayed in the chain of
+managers with direct responsibility for it. A robust review among peer leaders in CIO would have provided for a
+discussion and challenge on the business side which is what I am accustomed to seeing across the management teams
+in this company and it did not happen here.
+And this was again compounded by the failure to surface issues related to the synthetic credit portfolio in the February
+business review with corporate. And then finally, the CIO led review and analysis of the portfolio in advance of the
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 14 of 31
+April 13 earnings call was poorly managed resulting in the view that potential losses were manageable, that the
+portfolio was balanced and would recover.
+So now before leaving you to these findings I'm just going to comment quickly on the remediation actions that relate to
+it that we will get to later. And for this one those fixes are the people changes that have been made in all the relevant
+CIO roles and the complete revamping of the management processes in CIO.
+So the second observation is that the level of scrutiny that CIO faced did not evolve as the complexity of the synthetic
+credit portfolio increased. Some of the contributing factors here was the belief and experience that the core activities of
+CIO were managed appropriately, contributing to the unit's successful track record. Second was the capability and
+experience of Ina herself and third was the modest but positive results of the synthetic credit portfolio historically. As a
+result, we collectively ended up with a level of scrutiny that fell short of the high standards we apply to our client
+businesses, especially as the complexity increased.
+Moving on to slide 12, the third observation is that CIO Risk Management was ineffective in its responsibilities for the
+synthetic credit portfolio. I would acknowledge some factors that presented challenges for the CIO Risk Management
+team, including what in hindsight was a lack of quality resources and a less robust risk committee supporting the risk
+team. Nonetheless, the CIO risk team failed to meet reasonable expectations in my mind.
+First, a primary responsibility of the business level risk team is establishing adequate risk limits. In this case tighter,
+more appropriate limits would have forced more discussion and debate about this portfolio, and if needed, would have
+prompted escalation to more senior levels. In fairness to the CIO risk team, they had an effort underway to improve risk
+limit structure for CIO, but it was too late to matter.
+Second, the CIO risk team did not perform adequately when it came to the VaR model approval and implementation. I
+will cover that in a couple slides.
+Third, CIO risk wasn't forceful enough in challenging the front office, and they never developed a sufficient
+understanding of the risk of the portfolio to escalate concerns to senior risk leaders outside CIO during the first quarter.
+To remediate this, we've added new people in key roles. We have also significantly strengthened the risk committee
+framework that covers CIO and other corporate sector activities.
+On slide 13, observation number 4, which is that risk limits in CIO were not sufficiently granular. This is a critical one,
+and we saw it in the facts on slide 6 that we gave ourselves too few opportunities to engage risk or other senior people,
+as would have been the case if we had a well-designed limit structure around this portfolio.
+First, there were no risk limits specific to the synthetic credit portfolio. The limits applied to more aggregated
+portfolios, often at the level of CIO, which was clearly inadequate. Obviously though, what was needed was granular
+position level limits for the portfolio itself.
+I would just say that in our Investment Bank Credit Derivatives business, the limits are already very granular. I believe
+that had the synthetic credit portfolio been risk managed under equivalent standards, it would not have experienced the
+unchecked transformation and growth that led to the losses. As for remediation here, we now have granular risk limits
+for all CIO and verified that they are in place where needed across the firm.
+Moving to slide 14 is the final observation is that the synthetic credit VaR model approval and implementation were
+inadequate. There has been some speculation here that this model was approved abruptly and by CIO alone, but that is
+not true. The fact is that CIO began working in consultation with the independent model review group in corporate risk
+in mid-2011 to upgrade the VaR model used for synthetic credit to a more accurate model that captured correlation risk
+as required for Basel 2.5 compliance, which we did not have with the old model and we obviously wanted to get. The
+expectation of all parties involved in the model approval was that the new model would lower measured VaR on the
+basis of the improvement of the calculation methodology together with the infrequent band breaks of the old model,
+which suggested that it produced conservative calculation of VaR.
+A fundamental problem with the VaR process was a lack of clarity on the roles and responsibilities for each element of
+the process across the model review group, the CIO risk group and the CIO front office. The primary problem in the
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 15 of 31
+end though, was sloppiness and bad execution in implementing the new model, operational problems which included
+incorrect data feeds and certain calculation mistakes resulted in a VaR that was lower than what the approved model
+would have produced. A properly implemented model would still have lowered VaR compared to the old model, but
+not by as much. So it would still have taken us a bit of time to catch the overall problems, but as we said, it probably
+delayed us a little bit. To remediate here, we've strengthened the procedures around significant model approval and
+implementations.
+So slide 15, another transition here. So now we've just finished up reviewing the observations on the left side of the
+slide, and now we'll touch in a little more detail on a couple of the major remediation actions that I've foreshadowed a
+bit.
+So on slide 16, moving to that, first we have what is effectively a complete revamping of the CIO unit itself. On the
+people front that includes new CIO management team members including Matt himself, plus the head of CIO Europe,
+the Chief Risk Officer, and the Chief Financial Officer. All of them are very highly regarded and have substantial
+experience at our company.
+In terms of governance, the new team has instituted a robust committee structure, new review processes, and better
+reporting which will provide for better discussion and debate to ensure mistakes like this one – that occurred here don't
+happen again.
+And in terms of CIO's mandate, Matt is refocusing on the core mission of managing the AFS investment portfolio. The
+synthetic credit activity has been shut down and the liquidated portfolio transferred to the Investment Bank where it
+will be better managed.
+On slide 17, you see a summary of the risk management remediation actions both for CIO and the firm. For CIO, as
+I've mentioned, we have a new Chief Risk Officer and have added resources to support his efforts. This new CIO will
+have responsibility for all the areas of the corporate sector, not just CIO. As we learned from this event, all activities
+outside our client businesses need robust risk management coverage and by broadening the mandate of this new Chief
+Risk Officer we've accomplished that.
+Next is risk governance, as I've said, we've created a much more robust risk committee for all activities in corporate
+that is modeled after the committees in our client businesses. It includes significant representation by senior executives
+and subject matter experts from outside CIO. The committee has already met numerous times and has completed
+detailed reviews of the activities of CIO ensuring risk parameters are consistent with the newly refocused mandate.
+And as for risk limits, we've introduced proper limits on all other CIO activities. Across the rest of the firm, we
+thoroughly reviewed the market risk limit structures to see if we lacked granularity elsewhere and found them to be in
+good shape. And finally, we've bolstered the policies for dealing with risk limit excessions by requiring higher levels of
+escalation and more frequent reviews.
+Slide 18 summarizes the remediation of the model approval and implementation, and monitoring processes. So here
+we've clarified the roles and responsibilities between the firmwide model review group and the line of business risk
+management functions. For the model review group which sits in corporate, in addition to reviewing and approving the
+VaR calculation framework which is their core activity, the group must also assess now the quality of the analytical
+testing and the soundness of the model operating environment whoever it is that's responsible for that.
+We've also formed up a new team inside model review that will monitor model-related responsibilities across the risk
+management function firm wide. They've been underway and they've already reviewed all market risk VaR models and
+confirm that data integrity and operating environments are sound. And then for the lines of business, we've clarified
+their responsibilities across all aspects of model governance including post-implementation monitoring. And we've
+heightened the expectations for model oversight through the line of business risk committees.
+So finally on remediation, I'd just say that – I just reviewed the remediations that – the ones that directly address the
+observations from the management review of CIO. But I should add that we've picked up a lot of other learnings along
+the way during this work and that we're acting on those things as well to make the company better.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 16 of 31
+So now just to wrap it up, on slide 19, I'll wrap it up by saying that based on everything the team and I have examined
+and reviewed in the past two months I believe that the synthetic credit event is an isolated failure. That's both because
+the circumstances in CIO were unique, but also because of the thorough shakedown of the whole company that we did
+to be certain that we weren't making similar mistakes elsewhere.
+I'd say in closing that our management team has always been and continues to be very highly focused on managing risk
+and this event has caused us to step up our game everywhere. So thanks, for listening to this. We're going to move to
+Q&A now and while Jamie and Doug rejoin for that, I'm just going to get it started with a couple of topics that you see
+here to get Q&A going.
+So to just pick up where we – Doug already covered a lot on the restatements, I just want to link it back to the work that
+I've done. So this slide gives some supporting information on the restatements that Doug covered earlier. All his
+numbers are the ones that are in there.
+So the context is because it's really the management review effort that has created the highly unusual circumstances we
+were faced with in the making the decision to restate the first quarter. Remember we started the management review on
+May 14, which was a couple days after we – all the work supporting the 10-Q filing on May 10 was completed. But as
+I've described, the management review fact-finding has been very exhaustive. We have done obviously lots of e-mails
+being reviewed but also tens of thousands of voice tapes, many of them in foreign languages and so it's taking time to
+work our way through and work continues.
+But it brought us to the determination in the past few days that, as Doug said, we don't have sufficient comfort that for
+the first quarter the trader marks met the requirements of being where the traders thought they could exit their positions,
+I'll just point out though, that's even though the marks were generally within the bid ask spread, which is what
+otherwise is acceptable for GAAP. So given the unusual circumstances, we have taken the conservative approach to
+restate, bringing the marks to the VCGF mix of external mid-market benchmarks.
+Next, I just want to say a few things on the people side. So first on claw backs. So employee related actions for CIO
+managers here, slide 22. Now Jamie is going to talk about Ina in a minute. I'll talk about several other managers, all of
+the managers in London with direct responsibility for synthetic credit portfolio are now separated from the firm. None
+are receiving severance and no 2012 incentive compensation. We've made the decision to claw back compensation
+from each of these individuals and that amount is the maximum permitted. We have invoked that. It represents
+approximately two years of total annual compensation for each individual covering stock and options.
+We took into account or what was taken into account was a broad set of factors. I'll just make the point that the balance
+of factors for any individual in this balances differently, but all ended up with the same result of a full claw back. The
+board's reviewed all of these decisions.
+I just say further because there may be questions on people actions, what's covered here is the three London managers
+with direct responsibility for synthetic credit but there are several other changes in senior people in CIO, some of whom
+have been reassigned to more appropriate roles and others who will be leaving the Firm. We believe we are taking all
+the appropriate people actions in a timely manner, but beyond what I've said, I've told you here we're not going to be
+providing more detail on people actions and obviously not going to be talking about individuals.
+And then finally on 23, I've got a board statement to read on compensation determinations. And forget the three people
+I just covered and as I said Jamie will cover Ina. Advancing the slide here. So now, for all other individuals and that
+includes Jamie, the 2012 performance year compensation and claw back, if appropriate, will be determined in the
+ordinary course, considering, among other things, the factors you see listed, which is company, unit and individual
+performance on absolute and relative basis, the achievement of non-financial objectives, which of course are the same
+things we would always consider in a total picture on compensation. Of course involvement in and responsibility for
+the CIO matter will be included in that and just an added point, we're only going to make public information about
+what we do on claw backs if it's required.
+Now let me hand it over to Jamie, who wants to make a comment about Ina and then we'll go to Q&A.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 17 of 31
+Jamie Dimon
+Thanks, Mike. So let me just say a word about Ina Drew. I have enormous respect for Ina as a professional and as a
+person. She has made some incredible contributions to this Company. When she decided to retire I got several letters
+from former chairmen who talked about her contribution. One even said she saved the Company in his judgment.
+In my experience she has acted with integrity and tried to do what was right for the Company at all times even though
+she was part of this mistake and I believe that's true here as well. In that spirit Ina came forward and offered to give up
+a very significant amount of her past compensation, which is equivalent to the maximum claw back amount.
+So with that, we will turn it over to Q&A. Sarah, are you going to run the Q&A?
+Q&A
+<Q - Glenn Schorr>: Glenn Schorr from Nomura. Thank you very much. That doesn't count as a question right? So in
+the past couple of Investor Days you've shown us a slide on the earning power of the Firm being in the range of $24
+billion pre-buyback over the cycle earnings. I'm curious on post the CIO-related changes how you think about that? I
+do appreciate that you showed us $2 billion over the last four years in the synthetic credit portfolio earnings. Is that it?
+Is that how should we think about it?
+<A - Jamie Dimon>: This does not affect the earnings power of the Company at all. The $24 billion will still be
+accurate, and we can probably show those numbers – we didn't put them up there, but we could probably show you the
+numbers almost the same we showed you last time. A lot of that is where we are today minus the burden in mortgage.
+<Q - Glenn Schorr>: Okay, so no other big changes to the investment philosophy in CIO. Okay, good, thanks. On the
+European exposure slide that you have in one of the slides, I guess I'm looking for a net comp or net take away. Has the
+situation in Europe gotten any better? Because it hasn't from a lot of people's view. And then maybe your level of
+confidence around your exposures hedges and what you are doing behind the scenes to potentially prepare for the
+potential redenominations?
+<A - Jamie Dimon>: We think – we have been fairly consistent. We've kind of had a roller coaster ride here. You see
+progress two steps forward, one step back. We still think they're going to muddle through, but it may not be in the form
+or fashion or the timetable we all would prefer. The number is up there. We went from $12 billion to $6 billion of net
+exposure. We think it's a rather good number. We stress test what we think our risk is. We talk about a potential loss of
+$3 billion. In a bad scenario it could be worse, in a complete extreme scenario, like a falling apart of the whole
+European Union. The important thing to us is that we continue to conduct business there. We have a lot of clients. We
+have been in Italy and Spain for 100 years or so, and we are going to do that carefully. And obviously we have been
+doing more hedging of the exposure there, and that's a decision we make periodically over time.
+<Q - Glenn Schorr>: Last one, maybe – I don't know if there's a point of clarification, because I think everyone
+appreciates the full run through and disclosure on the CIO, but coming into today I was saying, wow, it would be great
+if they could tell me what the loss was? What they think the expected loss is? And what percent is gone or left? You've
+got us on the loss side. You got us on the full run through, but I'm not sure I'm clear on what's left? How much of it is
+gone? Or how much of it is still with you? Thanks a lot.
+<A - Jamie Dimon>: I think we showed a lot of numbers. Showed the risk itself is down two-thirds, 70%, 80% so
+depending on how you measure it. It's moved the IB. It doesn't have to lose money at all. We said the extreme stress
+scenarios, simulated stress scenarios, which means in a Euro crisis, a credit crunch, a 99.9% statistical analysis could be
+as high as $1.6 billion or $1.7 billion. That does not mean we expect it. I'd be surprised if it got that big.
+<A - Sarah M. Youngwood>: Matt O'Connor.
+<Q - Matt D. O'Connor>: Matt O'Connor, Deutsche Bank. I'm going to ask the same question that Glenn started off.
+Just as we think about longer-term earnings power, how can we completely ignore that there's some profit from the
+macro hedges? There's going to be some de-risking of the securities book. So I kind of want to ask the same question
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 18 of 31
+again and try and get some numbers around it?
+<A - Jamie Dimon>: There's $2 billion of profit in this book over a four or five-year period. We didn't assume any of it
+going forward at all, so it's not like we're taking a lot of risk and assuming big profits. We were not. That was not in our
+numbers. It doesn't change the $24 billion or anything like that. We are not de-risking the AFS portfolio. When it's fully
+invested, it's about $350 billion, it has a 2.6% yield. You can go buy Ginnie Maes or Fannie Mae today at 3.25%. So
+you could easily extend duration. We're very short duration, extend duration, earn more NII. I think the portfolio is
+actually conservative. It will be a source of higher earnings, if and when rates go up. This will not affect the earnings
+power of the Company at all.
+<Q - Matt D. O'Connor>: As we think about the core businesses and specifically the Investment Bank, you've talked
+about looking through, rechecking all the risk, bringing down some limits potentially. Will we see any of that impact
+going forward?
+<A - Jamie Dimon>: The Investment Bank is doing what it's supposed to do. They were not asked to take on any other
+risk because they took on synthetic credit. They're good at managing synthetic credit, because that's what they do, but
+the rest of the business is running exactly the way it was before. They constantly manage their own risk exposures.
+<Q - Matt D. O'Connor>: Separately, I don't know if this is – if you can say anything specific to JPMorgan or just
+overall, but LIBOR obviously has been in the news quite a bit. If there's anything that you can say? Or even when will
+we know what we don't know? If you have a sense of timing?
+<A - Jamie Dimon>: All I can say is like all of these things, there are a lot of people doing exams. We'll be totally
+open with regulators and investigators. The other thing, I would be a little patient if I were you. Not everything is the
+same. It's going to take a while, and not all companies are in the same position. I just wouldn't make too many
+assumptions at this point.
+<A - Sarah M. Youngwood>: Betsy Graseck.
+<Q - Betsy L. Graseck>: Jamie, hi. Betsy Graseck, Morgan Stanley. So two questions, one on capital. You indicated
+that you think that you've got a strong trajectory to 9.5%. We're getting two numbers for the starting point there. Either
+it's the starting point is the 9.1% post mitigation or the 7.9%. Which one are you referring to?
+<A - Jamie Dimon>: Yes. So the 7.9% is we fully phase in everything upfront.
+<Q - Betsy L. Graseck>: Right.
+<A - Jamie Dimon>: What we're saying for the 9% is you actually fully phased in the runoff stuff and some of the
+models we know we're going to do, we would get another one point back within the next two years so I'm just trying to
+show apples-to-apples.
+<Q - Betsy L. Graseck>: So but your 9.5% that you're saying is the trajectory to, is by what timeframe?
+<A - Jamie Dimon>: That 9.5% was the end of 2013 and it was like 10.5% or something at 2014. If we don't buy back
+stock it's like 10.5% and 12.5% – go right to that slide, you can see it. That's without a stock buyback. That's not taking
+– it's only taking advantage of mitigating items the year they actually happen.
+<Q - Betsy L. Graseck>: And then separately, a little bit of a follow-up on the LIBOR question, so one of the concerns
+that people have had is that clearly with a large London presence and with what had happened in the CIO, there's a
+question around controls in that region. And so, it gets to people thinking about, gee, if the CIO office didn't have the
+controls in that part of the world why should we believe that the rest of the organization did? And so, I think that's
+what's on people's minds as they're hearing today the CIO trade is all boxed and wrapped up. But looking forward, next
+six months, how do we know it's not going to come up in some other area?
+<A - Jamie Dimon>: I can never prove a negative, okay? And so Mike went through our expense controls and
+disciplines which we feel pretty good about. We can't prove to you that because you're not going to see it. We think this
+is isolated. We think the controls in Europe are just as – Mike was referring to the controls around the country, around
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 19 of 31
+the world. We think they're pretty good.
+<A - Sarah M. Youngwood>: Nancy Bush.
+<Q - Nancy Avans Bush>: Yes, Nancy Bush, NAB Research. Jamie, two questions for you. Your underlying trends
+were very positive this quarter and there just seems to be a disconnect between what you're seeing in your underlying
+trends and what we're hearing about the economy which seems to be softening, everybody's gloomy, things are terrible,
+etcetera, etcetera. Could you just flesh that out a little bit?
+<A - Jamie Dimon>: You're making a good point because Doug showed the numbers like eight quarters of continuous
+Middle Market loan growth. Anecdotally, I hear that from other companies too. Not all other banks but a lot of the
+banks. I hear from a lot of the banks, small business loan growth. The fact is the underpinnings of the American
+economy aren't that bad. Corporate America, middle market companies, small businesses are okay. There's a lot of
+liquidity. There's not a huge order book so sales aren't growing dramatically. So we have slow, modest growth and
+you're starting to see it in our calculations. Some of what we're getting is market share gains. So remember we did
+Middle Market. We weren't doing Middle Market banking in California. Now we do. We weren't doing small business
+in California. Now we do because of the WaMu acquisition. So we are gaining share in some of our businesses through
+credit card, middle market, small business, IB's holding share.
+<Q - Nancy Avans Bush>: Second question, not a lot of discussion about litigation reserves in your commentary
+today. Could you just comment broadly about, with the CIO matter, with upcoming whatever may happen with LIBOR
+etcetera, what you guys think about your litigation reserves at this point?
+<A - Jamie Dimon>: Yeah, so I think, last time I spoke about mortgage. We think it's kind of well – we've really done
+a good job there and it could change over time. We put away a lot of – we put a lot away from mortgage over time.
+This quarter, when you see the 10-Q, as you get to see the 10-Q, it will show litigation expenses of like $300 million.
+So we try to keep up with reserving for things we know about. This quarter of course we had some big ins and outs. It
+isn't like just one thing that happens.
+<A - Sarah M. Youngwood>: Richard Ramsden.
+<Q - Richard N. Ramsden>: Yeah, Jamie, can you just take us through what the process is for reapplication for the
+buyback. Do you have to resubmit a full CCAR? Are the assumptions going to be the same as what they were for the
+first one? And what a reasonable timetable for that is going to be?
+<A - Jamie Dimon>: We're going to be resubmitting in a week or two.
+<A - Douglas L. Braunstein>: Yes.
+<A - Jamie Dimon>: And we're getting instructions about what that process is going to be.
+<A - Douglas L. Braunstein>: Monday.
+<A - Jamie Dimon>: What kind of – whatever it is, we think we can accommodate it and get it done and resubmitted.
+And like I said, I hope that both the Board of Governors, and the board is doing its review so I can't tell you when the
+board is going to end its review. But I'm hopeful that the board review, and the capital plan, are done in such a way that
+by early in the fourth quarter we can buy back stock if we want.
+<Q - Richard N. Ramsden>: Okay. And with the stock trading where it is, does this change your waterfall in terms of
+buyback versus dividend, i.e., a dividend increase next year versus a buyback?
+<A - Jamie Dimon>: I wrote in my Chairman's letter that at tangible book value I think our stock is a great buy.
+<Q - Richard N. Ramsden>: Thanks.
+<A - Sarah M. Youngwood>: Ed Najarian.
+<Q - Ed R. Najarian>: Richard's question was my question, so you've got it. Thank you.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 20 of 31
+<A - Sarah M. Youngwood>: Andrew Marquardt.
+<Q - Andrew Marquardt>: Thanks. Just on the GIIPS exposure again, you've previously talked about max losses, if
+all things fail of $3 billion after-tax. Is that still valid or is there a new number there?
+<A - Jamie Dimon>: The $3 billion was my estimate after tax. It was $5 billion pre-tax. I did it with my own
+methodologies. I said it was a bad outcome. It's not the worst outcome. If you said that Europe unraveled, the Euro falls
+apart, I think it could be worse than that. The IB just recently, IB is constantly looking at these for the company. So
+TSS does it. Their number recently would be more like $3 billion. We have a Euro command center. We've got a lot of
+– we know exactly what we are doing. If something goes wrong, we are prepared to deal with it. We don't have to
+necessarily have losses at all. The issue with Europe and the complexities with Europe are what contracts apply, how
+they apply, who leaves the Euro, what currency are you paid in, what does it do for losses in the country. So there are
+these complex things, but those numbers would still be rough estimates of a bad outcome, but not the worst outcome.
+<Q - Andrew Marquardt>: Thank you. And then separately in terms of your outlook slide, something that wasn't
+there was the real estate portfolio. It's still coming down 10% to 15%, you've said in the past $500 million drag NII on a
+year-over-year basis.
+<A - Jamie Dimon>: Yes.
+<Q - Andrew Marquardt>: Is that still valid for this year and maybe a similar amount next year, is that an ongoing
+issue?
+<A - Douglas L. Braunstein>: You can assume at this pace, same change, same assumptions.
+<Q - Andrew Marquardt>: Thank you.
+<A - Sarah M. Youngwood>: Mike Mayo.
+<Q - Mike L. Mayo>: Mike Cavanagh had a statement saying the level of scrutiny did not evolve commensurate with
+the increased complexity. He was referring to CIO, but I wonder if that statement could apply to the Firm as a whole. I
+mean on February 28 we were all here, eight hours of presentations, over 200 slides, no mention of CIO. And then we
+had the CIO event, a risk model that didn't capture the risk, a new risk model that wasn't accurately tested before. Some
+checks and balances that might've been possible with the investment bank seemed a little siloed. So I'm wondering if
+the Firm as a whole has reached some sort of tipping point when it comes to bigness or complexity that makes it more
+difficult to manage than in the past?
+<A - Jamie Dimon>: No.
+<Q - Mike L. Mayo>: Okay. What can you say to further reassure us? I mean, you know you're here in person, have
+you lost a step? Has the focus gone off?
+<A - Jamie Dimon>: I'm getting old. We have – Mike, this company is the same company that went through 2006,
+2007, 2008, 2009, 2010, 2011, assimilated Bear Stearns, bought WaMu and we had record earnings the last year. We
+had record earnings the year before. It's likely, if you look at your own estimates, we'll have record earnings this year,
+that we have gained market share in Investment Banking, in TSS and Asset Management, our Commercial Bank in
+Small Business and Middle Market. We are just not doing a great job in marketing the company, we are going to sit
+back some other time and make this a more attractive company for you all. We made a mistake. We completely
+disclosed the mistake. We have denuded ourselves in front of you. We are in better shape than we were before.
+Our CIO is not a place we expected a mistake. We made the mistake and I can't prove a negative. So you all can ask me
+all day long, I cannot prove a negative. We believe we have got very good controls and very good people in place.
+<Q - Mike L. Mayo>: I mean you've gotten the results...
+<A - Jamie Dimon>: I mean look at the results by the way.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 21 of 31
+<Q - Mike L. Mayo>: Yeah, I know. The results, if we did not have the details here, it would be okay, but we saw how
+the sausage is made and that just makes me wonder if I might get food poisoning sometime in the future? What would
+you say as you talk to a portfolio manager and you have 20 seconds to say why it won't happen again, what would you
+say to that portfolio manager?
+<A - Jamie Dimon>: Because we have very granular limits. We've got risk committees, credit committees, audit
+committees. We do try to do a very good job. I think it's silly for anyone in the business world to think you are not
+going to make mistakes. It is not possible in the real world. That's only possible in a fictional world. I just think the
+mistakes should be small and few and far between, this being an exception.
+<A - Sarah M. Youngwood>: Chris Whalen.
+<Q - Richard Christopher Whalen>: Chris Whalen from Tangent Capital Partners. First, just quickly on the CIO,
+does the nature of these instruments, these over-the-counter instruments, make you reconsider whether or not all of the
+controls and risk management and everything else you are putting in place can be effective?
+<A - Jamie Dimon>: It's not the nature of the instruments. A lot of these things are traded on exchanges, most of the
+indexes you can go buy and sell in the marketplace easily. Most are on clearinghouses and if you still want to see, you
+can see them. So I think this portfolio became very big and very complex. That is true. It should never ever, ever have
+gotten that big and that complex. And on May 10, the first I said it was too big, it was un-vetted, it shouldn't have been
+done. It was illiquid. It was bad. We should've caught it earlier.
+<Q - Richard Christopher Whalen>: Right. But that's kind of my point. When you have an instrument that doesn't
+have a clear basis, and the basis may shift, the correlations may shift very quickly. Can you manage that risk?
+<A - Jamie Dimon>: That's true for all financial instruments.
+<Q - Richard Christopher Whalen>: Right. Three quick regulatory questions, on Basel, to what extent does the
+Volcker Rule implementation limit your ability to manage the AFS portfolio?
+<A - Jamie Dimon>: None at all. The AFS portfolio is held for sale. So it's mark-to-market in the equity account but
+not mark-to-market. We think you should be allowed to portfolio hedge. We are not going to do something like this
+again, but we think pure portfolio hedging is not necessarily a bad thing. So we all talk about Europe, one of the quick
+ways you want to go hedge Europe, right now you get on the phone and you can buy $1 billion of protection on
+European, 100 or 120 European credit names. That is a good thing if you want to protect yourselves from Europe. It's
+not that complex. So Volcker changes the future for a whole bunch of things. We will adapt to that, whatever that is.
+<Q - Richard Christopher Whalen>: On Basel III, how do you expect Basel III implementation to affect your
+mortgage business?
+<A - Douglas L. Braunstein>: On a Basel III basis, it's not material. The real issue is the NPR on Basel I, and that is a
+work in progress, but all the numbers that you see there in the projections we have, just assume continued growth in the
+mortgage business. So we will get some benefit. That runoff portfolio is going to liberate a substantial amount of Basel
+III capital, and as a result RWA and as a result free up some capital.
+<Q - Richard Christopher Whalen>: Right.
+<A - Jamie Dimon>: As a business matter, we'll be fine with whatever the Basel III numbers are. It is a little complex.
+It does create other things about mezzanine pieces, how securitization is going to work, what's the FICO score? FICO
+at 660 would be very bad under Basel III. Everyone will have to modify their business plan because of Basel III. It
+won't change the mortgage – our ability to be in the mortgage business.
+<Q - Richard Christopher Whalen>: Last question, how do you feel about the extension of the FDIC transaction
+account guarantee program?
+<A - Jamie Dimon>: I'm not sure what you're talking about.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 22 of 31
+<Q - Richard Christopher Whalen>: The extended coverage to non-interest bearing transactions, [ph] deposits from
+the crisis (1:29:57)?
+<A - Jamie Dimon>: I'm not going to comment on that.
+<A - Sarah M. Youngwood>: Moshe Orenbuch.
+<Q - Moshe Orenbuch>: Thanks. Doug had mentioned about the material weakness related to the CIO office. The
+comments about the resubmission of the CCAR and the timeframe into the early fourth quarter, does that contemplate
+resolving all of the regulatory inquiries that are ongoing in addition to the board? And do you anticipate orders coming
+out of it? How should we think about the news flow from that standpoint?
+<A - Jamie Dimon>: We are hopeful that when the board finishes the review, the regulators get to look at everything
+that Mike has said and done, ask their questions, file the CCAR. We're hopeful that by the first quarter we will be able
+to buy back stock. We think the numbers justify it. We think the performance of the company justifies it, but we want
+to go through that process. It's a prudent thing to do. If something stops that from happening, then so be it.
+<Q - Moshe Orenbuch>: Thank you very much.
+<A - Sarah M. Youngwood>: Brennan Hawken.
+<Q - Brennan Hawken>: Brennan Hawken, UBS. I appreciate that you guys didn't include some of the synthetic gains
+in your estimates of earnings power, but it might help if when we're looking at these past CIO gains and net income, if
+we can know how much of that was attributed to the synthetic? So you've got $2 billion over 2007 to 2011. Clearly a
+portion of that is in that $9.2 billion from 2009 to 2011. Can we have – is most of that $2 billion there in the 2009 to
+2011? Can you give us an idea there?
+<A - Michael J. Cavanagh>: I think it was about $1.4 billion of $2 billion was in 2008 to 2010.
+<A - Jamie Dimon>: Was that pre-tax or after-tax?
+<A - Michael J. Cavanagh>: Pre-tax.
+<A - Jamie Dimon>: It was pre-tax. Those numbers are after-tax that you're looking at.
+<Q - Brennan Hawken>: Okay, so that's apples – all right, great. And then do you know if with the CCAR
+resubmission is the scenario going to change? Or is it going to be the same?
+<A - Douglas L. Braunstein>: They are refreshing and updating their scenarios. We're going to run a new scenario
+pursuant to their guidelines.
+<Q - Brennan Hawken>: Okay. And the discussions, I would assume, Jamie, your confidence that 4Q can get it
+started, that is reflective of what you've heard back from the Fed as well?
+<A - Jamie Dimon>: What I said is we are hopeful and I've been wrong before.
+<Q - Brennan Hawken>: Fair enough. And then my last one, I don't know if you can comment on this, but it would be
+helpful to know, do you guys have specific controls that separate communications between derivatives traders and the
+LIBOR rate submission employees?
+<A - Jamie Dimon>: We're not going to comment on anything like that right now.
+<Q - Brennan Hawken>: Okay. Thanks.
+<A - Sarah M. Youngwood>: Ed Najarian.
+<Q - Ed R. Najarian>: Yeah, a question for Doug, you talked about some of the net interest margin pressure coming
+from hedge ineffectiveness. Could you quantify of the 10 basis points how much you think that is? And do you expect
+that to revert in the third quarter? And then just generally, given the really oppressively low interest-rate environment
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 23 of 31
+that we're in right now, maybe some sense of your view on the net interest income trajectory of the company?
+<A - Douglas L. Braunstein>: So on the first, it was several basis points of the impact. It's going to vary quarter on
+quarter, and it has varied quarter on quarter. So part of the difference this quarter is we had some positive results last
+quarter and negative results. The swing is what's reported from a NIM standpoint.
+On the NII, in aggregate, we have some portfolio runoffs and we've been – we've provided you some guidance around
+that. We continue to build our balances and build our loan portfolios so the question is going to be which exceeds the
+other here.
+<A - Jamie Dimon>: And one disclosure you're going to see is that this AFS portfolio is yielding 2.6% but this quarter
+it's going to be -
+<A - Douglas L. Braunstein>: 2.47%
+<A - Jamie Dimon>: 2.47%. That is hedge ineffectiveness. It's really still yielding 2.6%. So it isn't that we did
+something like that, it's just that hedge ineffectiveness when it goes against the asset.
+<Q - Ed R. Najarian>: And then as a quick follow-up, you talked about potentially getting – being close to zero in
+terms of mortgage repurchase costs through – at least though the income statement over the next several quarters. Can
+you give us maybe a little more commentary around that? Are you seeing a significant decline in claims starting to
+come in? And then secondarily can you make any comments in terms of your sense of what's going on in the private
+label side of mortgage repurchases either in terms of claims or with respect to litigation?
+<A - Douglas L. Braunstein>: Yeah, so the real differential, there has been a modest decline, the real differential is
+our cure rates. Because as these demands go deeper into the securities, they are taking more mortgages that have been
+paying for longer and the result of that is that we've been decreasing the amount of demands we actually have to
+repurchase. That's really been driving in part the analysis. On the private label side you will see in our supplement we
+had a modest increase in demand but much of that is going to make it's way through litigation.
+<Q - Ed R. Najarian>: So your statement about zero really excludes any thoughts about that litigation?
+<A - Douglas L. Braunstein>: That's separate, separate and distinct.
+<Q - Ed R. Najarian>: Okay, thanks.
+<A>: Chris Kotowski.
+<Q - Chris M. Kotowski>: Yes. Also for Doug, I wonder if you could walk us through a little bit on the changes in the
+Basel III ratio. At the end of March you reported 8.4%, this is 7.9%. Obviously the NPR must have had an impact there
+and I was wondering if you could break down what the bigger chunks of that impact are. Is it the treatment of home
+equity loans or...?
+<A - Douglas L. Braunstein>: Sure. Actually 20 basis points was refinement of our earnings as a function of the
+restatement so there was a move from the restatement, actually about 10 basis points. The remaining 30 basis points
+you can think about that principally as the CRM minimum that was added to the Basel 2.5 rules. That's the bulk of the
+RWA. It's an increase of about $40 billion for our portfolio. We would estimate, because that is subject to model
+approval and you need at least 12 months of operation model approval from the first quarter of 2013 so we're hopeful
+that $40 billion comes back into and it's included in some of those projections that Jamie showed you, coming back as
+reductions. So we were pretty close on our Basel III estimates.
+<Q - Chris M. Kotowski>: Okay. Now the way I read it though in the home equity loans in particular it looked like for
+over 80% loan to values that you were going to have a 1.5 times capital charge -
+<A - Douglas L. Braunstein>: That's Basel I.
+<Q - Chris M. Kotowski>: Okay.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 24 of 31
+<A - Douglas L. Braunstein>: That's Basel I. Basel III rules didn't really change very much for the mortgage portfolio.
+<Q - Chris M. Kotowski>: Okay. Great. Thank you.
+<A - Sarah M. Youngwood>: Vince Breitenbach.
+<Q - Vincent Anthony Breitenbach>: Hi. Thank you. I understand from your information that one of the reasons for
+the losses here was that perhaps the success of the unit led to some complacency in overall governance of the unit. And
+as I look through some of the discovery information it seems that the risk management profile here was one that
+excluded certain basic tenets of risk management, granular levels of asset, concentration risk, etcetera. So I guess that
+begs the question: was this unit ill-conceived from a risk management perspective from day one and it took five years
+to reach the end result or were there are perhaps some small successive lapses in credit management over time that
+ultimately, and perhaps we can look at the new VaR model as inadvertently being one of those, that ultimately led to
+this result?
+<A - Michael J. Cavanagh>: So I would say it is something that the complexity of synthetic credit was there over five
+years and there were things that obviously we could have caught it sooner but it didn't, until the circumstances of the
+first quarter, get us. But the overall mistake was allowing something that wasn't like the rest of the ALM type of
+activities to get housed inside CIO that had one form of risk management structure and then put something new in that
+required a whole different type of risk wrapped around it and didn't do it at the time.
+<A - Sarah M. Youngwood>: Todd Hagerman.
+<Q - Todd L. Hagerman>: Yes. Good morning, Mike and Jamie. Mike you talked a lot about the VaR model and
+some of the changes. Jamie, you've talked in the past about your feelings one way or the other in terms of the
+usefulness of VaR, if you will. What I'm curious about is with all the discussion on VaR, if you will, what changes
+have been made in terms of the dependence on the models themselves and how that relates back to the risk
+management and the model group and what other control tools you may have put in place to again make this a more
+robust process if you will?
+<A - Jamie Dimon>: First of all, I don't run a business on models. If you do run a business on models, you will be
+dead. It doesn't work. VaR is one model. We use tons of other models, and I think Mike pointed out the right way to do
+it is have lots of other granular limits, notional amount limits, credit spread limits, single name limits, all these things.
+VaR is just one. VaR does not capture underlying changes in [indiscernible] (1:39:34). It doesn't capture changes in
+correlations. It's only backward looking. So it's a data point that helps you manage your business, that's all it is. Now,
+having said that, Mike, we've got to do a better job implementing some of these models.
+<A - Michael J. Cavanagh>: Right. It's the process of [ph] running (1:39:29) models, not the models themselves that
+is defining there. And the granular risk. Those are the two big takeaways if you look at the findings that I would say is
+get the right limits around the activity, one. That's not necessarily a VaR model or any one given type of activity, but if
+we're going to put things in, we've got to have belts and suspenders to make sure we're approve for the right reasons
+and have the right operational support around it.
+<Q - Todd L. Hagerman>: Just as a follow-up, it's my understanding as an example with the CCAR process and the
+review of the trading operation specifically, a lot of the dependence was placed on the models in terms of that review.
+What are you sensing now in terms of given the event that has transpired, how that evaluation is going to change on a
+go-forward basis, particularly as we think about next year's CCAR process in light of this event?
+<A - Michael J. Cavanagh>: I think we have certainly put a lot of attention on it ourselves, and I think that the
+takeaways that we saw was just bolstering all processes around model of governance, implementation, approval, a new
+team, we took a 25-year veteran risk manager in charge of a new group that's really going to lead up, watching model
+activities, all parts of the process. Because really the mistake we made here was roles and responsibilities.
+So whereas I would say we are very good in particularly our Investment Bank, which is the heaviest user of models.
+We have got a very robust in-business market risk teams that have the handoff of dealing with parallel testing, back
+testing, running the operational model themselves. CIO is weaker in that regard. So when we have interaction between
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 25 of 31
+the independent model review group and the market risk teams in the business, again a particular mistake here. But
+that's a policy and procedure thing that we've tightened up, and John Hogan has done a lot in the past two months.
+<A - Jamie Dimon>: CCAR is not VaR dependent. It's stress testing. We do – I would say stress testing is more
+important than most of the other stuff. So we do extensive stress testing. And so to me, you've got to get that right. So
+CCAR has embedded in it is one test. We do 100s of stress tests, and obviously we should have done stress testing in
+this particular portfolio better too.
+<A - Sarah M. Youngwood>: Paul Miller.
+<Q - Paul J. Miller>: Thanks. Jamie, the 10-year today is right around 1.5. We keep on hoping as banking analysts
+that it keeps on going up, but every quarter it goes down. The ten-year, the flat year curve, which is really starting to
+weigh on a lot of people's net interest margins. Your net interest margin was down like 13 or 14 basis points. It really
+feels like this 10-year is not going to move and we're going to live with a flat yield curve longer than anybody wish,
+maybe in the 2014 or 2015. How do you as a bank position yourself for that environment, even if it goes down as a lot
+of people are thinking to 1% at this point?
+<A - Jamie Dimon>: I'm not talking about going down to 1%, but we are getting near the end of the margin
+compression from the yield curve. So if I remember correctly, about a year or two to go, we might lose another $400
+million or $500 million. And then it flattens out. If the 10 goes down more, it's even more. We're short. Most banks
+have a much longer duration than we do. So we could easily today change what we are doing and put on $50 billion in
+mortgages at 3% and earn a lot more. If you really believe that, we could change our structure to earn back some of that
+income, and in fact far more than we might lose on the 10-year.
+<Q - Paul J. Miller>: Take a bigger step back, if we're going to be living with this flat yield curve, banks like to live
+with a steep yield curve. That's what we've all been raised on for the last three or four decades, but if we are going to
+live in this environment, how do banks operate? How do you position your institution to go forward with a continued
+flat yield curve? You can adjust the balance sheet, that's a one-time issue, but going forward, how would you run this
+institution?
+<A - Jamie Dimon>: As I was telling you, I don't think – most of the effect of the yield curve has gone away. If it stays
+like this forever we're still going to earn about what we're earning. So it isn't like you have to deal with a negative every
+year after every year. It will – obviously how you do your loans and your deposits and a lot of things in our balance
+sheet which earn very little because we're almost doing it as a service to clients, you might do less of that. So you set up
+$200 billion of treasury assets we have we're earning five basis points on that. We don't need to keep those deposits that
+we may modify that but you will change your pricing, your products, your services to try to earn a fair return on capital.
+<A - Sarah M. Youngwood>: Gerard Cassidy.
+<Q - Gerard Cassidy>: Gerard Cassidy, RBC Capital Markets. Doug you touched on the LCR ratio under Basel III do
+you guys have an estimate of where that is today? The liquidity ratio?
+<A - Jamie Dimon>: Yeah, we've, so basically, if you did the number today it might show a gap but that gap is easy
+for us to fix by just changing our asset mix. So we will be LCR compliant by reinvesting the AFS portfolio or doing a
+slight different things. We want to see the final rule before we start swinging the balance sheet all over the place. We'll
+be fine. We are a very liquid company.
+<Q - Gerard Cassidy>: And following up on the yield curve commentary that you just made Jamie. Are the returns
+acceptable? As you pointed out there is not any incremental negative impact for you guys if the yield curve stays this
+way, but are the returns on equity acceptable or would you try some other strategy, possibly shrinking the balance sheet
+and buying back even more stock?
+<A - Jamie Dimon>: We ask that question all the time but we're actually believe it or not getting good returns right
+now. When you look at the returns in our businesses, the 15% return in tangible equity, the record earnings, so could
+you do more? What we'd like to do is build the business. Bankers, services, clients, execution of services to grow our
+business over time and we have been doing that so that's what we focus on and we'll modify pricing, products and
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 26 of 31
+balance sheet to get a fair return.
+<Q - Gerard Cassidy>: And then finally, maybe your comments on what you are seeing in Europe and how they are
+progressing on solving some of those problems, do you want add any color to that?
+<A - Jamie Dimon>: It's very hard to add to the debate you read about it every day. You now are reading about what
+they kind of need to do and they need to do all of them. One of the banks have their European bank regulator or
+European bank scheme to stop bank runs, to have some facility that can finance the Italian and Spanish sovereign debt
+in the meantime and a fiscal union that people believe in. We figure to see that kind of in fits and starts over time. And
+just be prepared for the roller coaster.
+<A - Sarah M. Youngwood>: Michael Liper.
+<Q - Michael Lipper>: Good morning, Jamie.
+Operator
+[Operator Instructions]
+<Q - Michael Lipper>: On those assets and 76 liabilities. Two questions. Can you tell us how much of those are netted
+from the same counterparty? And second, how much of those numbers was the CIO numbers in that at the end of that
+quarter?
+<A - Jamie Dimon>: We'll do the second one first. I think it is a very small – CIO is a very small part of that number.
+<Q - Michael Lipper>: Okay. I would agree.
+<A - Jamie Dimon>: And so that's number one. And number two, there are very complex lending rules, which I don't
+want to go through here, about derivatives but we did do a presentation at one point showing exactly how derivatives
+net by counterparty and we would be happy to share that with you and take you through it.
+<Q - Michael Lipper>: Thank you.
+<A - Jamie Dimon>: Yeah.
+<A - Sarah M. Youngwood>: Let me make an announcement for the phone. If you are on the phone please put
+yourself on the queue at this point and we're going to take a few more questions in the room and then we're going to
+move to the phones.
+Operator
+[Operator Instructions] There are no questions via the phone line.
+<A - Sarah M. Youngwood>: Okay. So then let's continue. Nancy again.
+<Q - Nancy Avans Bush>: Hi, Nancy Bush, again. Mike, a question for you. Looking at your slide number 8, the
+events in late April, you say senior corporate risk management team began on site bottom-up engagement on April 27.
+Had a senior risk management team done an on site bottom-up engagement in the CIO before and is that now sort of an
+established part of risk management?
+<A - Michael J. Cavanagh>: You know that's a good question, Nancy. What we referred to there is that in late April
+that's the stage at which John Hogan over there and a team of folks from outside CIO and across business went into to
+really sit on site and pick the book apart. Prior to that, there was obviously work being done with Senior risk folks, but
+looking through the lens of the CIO risk team. So it took it to a different level of intrusion.
+<A - Jamie Dimon>: The CIO risk team did an inadequate job.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 27 of 31
+<A - Sarah M. Youngwood>: Chris Lafayette.
+<Q - Chris Lafayette>: One critique of the industry has always been the incentive structure. I'm just wondering if in
+the CIO review there was any conclusions based on if incentives were aligned with long-term shareholder interest?
+<A - Michael J. Cavanagh>: Sure. Obviously we looked at all that. None of the people in CIO are on any form of
+formulas. The business is not on a formula. We obviously looked at compensation for what we were doing in CIO
+relative to what you would see pay related to running a $350 billion fixed income portfolio. I can't obviously get in the
+minds of the individuals that have been making individual decisions but we looked for evidence of particular things that
+were problematic around our compensation schemes and found no particular issues.
+<A - Sarah M. Youngwood>: Matt Burnell.
+<Q - Matt H. Burnell>: Good morning, Matt Burnell from Wells Fargo Securities. A couple of quick questions for
+you, Doug. First of all, you mentioned that the net interest margin effect of the AFS gains or the securities that were
+sold to generate the gains this quarter had no effect on this quarter's NIM. Does that imply any effect on future quarters'
+NIM as well, depending on when the sales were done.
+<A - Douglas L. Braunstein>: No.
+<Q - Matt H. Burnell>: No? Okay.
+<A - Douglas L. Braunstein>: More a function of reinvestment.
+<Q - Matt H. Burnell>: Fair enough. Okay, and then in terms of the Investment Banking and Sales and Trading
+results, those appear to be, even if you strip out the DVA, reasonably strong. Could you give us a sense as to what your
+outlook is for those numbers, to the extent that you can guess it? And what the drag from Europe is on your outlook
+there for the next quarter or two?
+<A - Jamie Dimon>: Yeah, first of all, as you know Investment Banking revenues are unpredictable by their nature.
+And whenever they come in with a low number, I would say, well it could be much higher. So right now it looks
+similar to what it was last quarter. That can change at any one point in time. Obviously I think you see everywhere
+business in Asia and Europe are down. America remains to be seen.
+<Q - Matt H. Burnell>: And then one final question, given all the information that Mike provided to us, how much of
+that information or will there be more information not only provided to the regulators but some of your friends on
+Capitol Hill?
+<A - Jamie Dimon>: We share a lot of information with people who ask. The regulators are completely up-to-date on
+all of Mike's information, right? They've been through this several times.
+<A - Michael J. Cavanagh>: Yes, absolutely, more than absolutely.
+<A - Sarah M. Youngwood>: David Sochol.
+<Q - Dave B. Sochol>: Thank you. Dave Sochol, Levin Capital. Maybe from the perspective of a buy-sider and a
+long-suffering shareholder and my clients, I would like to follow-up on Mike Mayo's question and also reference a
+KBW report that looked at the potential of splitting off the Chase Consumer Bank with auto and credit and having a
+standalone JPMorgan commercial bank, Investment Bank, trust, and TSS and the point being not just the tipping point
+or actual diseconomies of scale and even if there are economies of scale, the stock market refuses to acknowledge it in
+terms of the multiple continuing to come down. I look at the track record over the past year or so and notwithstanding
+the great performance relative to a pretty low bar, but still a good performance, but we've had the mortgage servicing
+issues, mortgage foreclosure issues, the military veteran issues, energy, commodities, sales practices, now this
+inexcusable, just unbelievable CIO debacle, now potential LIBOR. And I think about what has to happen for you as a
+management team, or you as a board to finally say, we are a great institution and we own a lot of great businesses, but
+we have reached that point where we are too big to manage and in the interest of our shareholders, there is a different
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 28 of 31
+corporate structure that would better serve your owners? Thank you.
+<A - Jamie Dimon>: I beg to differ. Okay. There is huge strength in this company that the units get from each other.
+So we don't have the strategy that we're guessing at things. The Investment Bank or the Commercial Bank, the TSS
+gives huge order flow to the investment bank. We think there is an enormous amount of cross sell. And we do just as
+much as anybody else out there between the Consumer Bank, small business, private wealth management, credit card,
+mortgage. Our job is to do a great job serving clients, grow the business and eventually the stock will reflect it. And so
+I think also people splitting off companies, my whole life there's people who splits it off as a higher fee, lower fee,
+that's very short-term stuff. Have a strategy, execute on it, build the business, that's how you build value. We don't feel
+great that we haven't done a great job for shareholders recently. That we completely acknowledge. But we're going to
+keep on building the company and one day the stock will reflect it. If the board ever thought there were better strategies
+then that will be considered at the time.
+<Q - Dave B. Sochol>: Right. I would respectfully say that certainly the cross sell is very obvious and that's why I
+would not look at separating it into numerous companies. But I'm just wondering at what point it does become more
+apparent that there are diseconomies and is there potential that – is it possible that had CIO been part of a smaller
+institution it would have gotten the management look that it required?
+<A - Jamie Dimon>: Hundreds of small banks have gone bankrupt. Okay. Monolines went bankrupt.
+<Q - Dave B. Sochol>: I'm not comparing you with those.
+<A - Jamie Dimon>: You could argue the other way. There's a huge source of strength in how strong this company is
+through all these storms, can do Bear Stearns and WaMu, do all these wonderful things. CIO was a mistake and we're
+sorry.
+<A - Sarah M. Youngwood>: Glenn Schorr.
+<Q - Glenn Schorr>: Hi. Two very quick follow-ups. One, I just want to make sure on the LIBOR issue, I understand
+all the things that you can't talk about mid-investigation. But I'm assuming this has been going on for a while that
+you've had three, six, maybe more months of internal investigations. Is there anything you can tell us and comment on,
+give...
+<A - Jamie Dimon>: No.
+<Q - Glenn Schorr>: All right. One last try. Doug, on the commentary...
+<A - Douglas L. Braunstein>: No.
+<Q - Glenn Schorr>: All right. Mike – on the expense commentary, second half from first half, it's just technical
+question. Does that exclude the $3 billion or so of litigation reserves billed in the first half or is it all-inclusive?
+<A - Douglas L. Braunstein>: We talk about the adjusted expense excludes that.
+<Q - Glenn Schorr>: Okay. Thanks.
+<A - Sarah M. Youngwood>: Operator, I think we have a question from John McDonald.
+<Q - John Eamon McDonald>: I actually had two, and Glenn, just stole them both. But the – I guess just one more
+slight attempt on the LIBOR, do you have any sense of how long the issue will overhang on the industry and whether
+we'll get some kind of clarity about the investigations over the summer? Or is this something that could drag on for a
+long time? Any insight in when we'll get some more information on it?
+<A - Jamie Dimon>: We have no special insight. Okay?
+<Q - John Eamon McDonald>: Okay. Thanks.
+<A - Sarah M. Youngwood>: Richard Ramsden.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 29 of 31
+<Q - Richard N. Ramsden>: Just a quick follow up either for Jamie or Mike, was the process of valuing positions in
+the CIO book different to the Investment Bank? Or was it just the application of the valuation technique and I'm
+referring specifically to the Q1 restatement? Thanks.
+<A - Michael J. Cavanagh>: It's the application of policies are the same across businesses, different applications.
+<A - Sarah M. Youngwood>: Ed Najarian.
+<Q - Ed R. Najarian>: Jamie, quick follow-up on sort of your perspective on capital. So since investor day in
+February, it seems like the world's gotten a little bit of a – to be a scarier place in terms of we're more concerned about
+Europe. We have the LIBOR thing has cropped up. We're talking more about global economic slowdown. I know you
+mentioned you'd love to buy back the stock at one times tangible book. But is there anything about the last several
+months of events, just from a macro standpoint, that make you want to drive to higher capital ratios or get to 9.5% on
+Basel III Tier 1 common equity faster than you might have thought you wanted to back in February?
+<A - Jamie Dimon>: A little bit and you know what those things are. It's Europe, the fiscal cliff in the United States,
+it's all those things that make you be a little more cautious. But again, I think we're going to earn money next year
+regardless of those things, whatever happens.
+<A - Sarah M. Youngwood>: Gerard Cassidy.
+<Q - Gerard Cassidy>: Mike, you gave us a very thorough, detailed disclosure on how you attacked this problem with
+the CIO and you're very confident that you have your arms around it. Do the regulators have that same confidence?
+Have they shared that with you that they feel very good that you guys have licked this problem?
+<A - Michael J. Cavanagh>: I can't speak for the regulators. But certainly they've been – we've spent a lot of time
+with them to keep them informed and obviously wanted to guide our work from the get-go in a way that was going to
+satisfy a lot of different constituencies.
+<A - Jamie Dimon>: They're going to do their own work as they should and come to their own conclusions.
+Remember the board, as an independent group, are still guiding this task force and will come to its own conclusions
+too.
+<A - Sarah M. Youngwood>: Brennan Hawken.
+<Q - Brennan Hawken>: Mike, when you went through your review, do you think that maybe the idea that there was
+no formula for comp in CIO might have led to some of the trouble and the stretching? And then on a go-forward basis,
+as the follow-up, which is probably more important, how are you guys thinking about structuring comp in the CIO
+office over the next few years?
+<A - Michael J. Cavanagh>: No. I don't think – when we talk about formulas, individuals getting a cut of revenue,
+none of that existed, and I don't think that's a good thing. I think the kind of practices that are common in CIO are the
+same as what we do in our investment bank, it's taking the totality of managers' subjective judgment of performance
+and a multiyear view of how good a person is in a job over multiple years. All that together with the pay practices of
+how we defer compensation, all are sound policies and it's the application, obviously, that you have to get right. Matt,
+who is now running CIO, I'm sure will just bring his own individual management style into doing that, but we didn't
+walk away with the feeling that there was anything different about that unit of the company or that the company
+broadly should be doing differently around administering compensation.
+<Q - Brennan Hawken>: And the idea now that we don't have synthetic in CIO, clearly that's going to mean we
+should probably just assume more volatile results out of that business, particularly in times when credit is getting a little
+funky?
+<A - Jamie Dimon>: No, no.
+<Q - Brennan Hawken>: Obviously with the recent quarter as an exception.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 30 of 31
+<A - Jamie Dimon>: I showed the portfolio, AA plus. It's an AFS portfolio. It's not marked-to-market in the P&L. It's
+got a 3.7 year average life, 80% government, government guaranteed or government type of entity guaranteed. You're
+not going to have more volatility in it.
+If we have a small hedge there, if we are so – and you see we hedge more in Europe, that's why we need the ability to
+hedge. But really it has very little to do with AFS. AFS is subordinate to the rest of the company. Nothing would please
+us more than to reduce AFS and make some more great loans. So they can't say, be paid just on the revenues and their
+profits, because they're not there for that. They are there to manage this portfolio. We need some very good people. It's
+$350 billion. It operates, I forgot, out of how many countries under multiple currencies, so it is – we need some very
+good people managing that book, just like we would at PIMCO or BlackRock, big fixed income portfolio.
+<A - Sarah M. Youngwood>: Eric Veiel.
+<Q - Eric L. Veiel>: Doug, can you just help us understand why the default servicing expenses aren't coming through
+as fast as you thought? And when they might start coming through?
+<A - Douglas L. Braunstein>: Yeah, so I mentioned three things. Obviously the operation of the consent order.
+Second, is this independent foreclosure review, those costs are larger and are going on longer than we expected. And
+third is we just continue to have a lot of default properties that we are processing through. Those will come down over
+time, but they haven't. They remain at a level. So our expectation is we had thought we would see more movement in
+the second, third and fourth quarter. It's more likely that's a 2013 event.
+<A - Sarah M. Youngwood>: Do we have any additional questions on the phone?
+Operator
+We do, from the line of Jim Mitchell with Buckingham Research.
+<Q - James F. Mitchell>: Hey, good morning. Doug, this is a question for you on the margin. I just wanted to help if
+you could flesh out why we saw a decline? It seems like in the trading assets you had securities borrowed turn negative
+in terms of the yield. Other trading assets understood that you have a lower rate environment, but on the flipside the
+cost of the trading assets on the liability side seemed to go up. Is that the hedging impact? Or can you explain a little
+more detail on why we are seeing this dynamic of a negative spread in securities borrowed and other issues?
+<A - Douglas L. Braunstein>: You know what, I will get back to you on that.
+<Q - James F. Mitchell>: Okay. I'll follow up. Thanks.
+<A - Sarah M. Youngwood>: Any other questions on the phone?
+Operator
+No, ma'am, not at this time.
+<A - Sarah M. Youngwood>: Any other questions in the room?
+Jamie Dimon
+Folks, thank you very much for spending time with us. Better news next time.
+Operator
+This does conclude today's conference call. You may now disconnect.
+Company Name: JPMorgan
+Company Ticker: JPM US
+Date: 2012-07-13
+Event Description: Q2 2012 Earnings Call
+Market Cap: 157,268.41
+Current PX: 41.40
+YTD Change($): +8.15
+YTD Change(%): +24.511
+Bloomberg Estimates - EPS
+Current Quarter: 1.140
+Current Year: 4.659
+Bloomberg Estimates - Sales
+Current Quarter: 23962.286
+Current Year: 96334.238
+Page 31 of 31
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2012, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
