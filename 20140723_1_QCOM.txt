@@ -1,0 +1,827 @@
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 1 of 15
+Q3 2014 Earnings Call
+Company Participants
+• Warren Kneeshaw
+• Steven M. Mollenkopf
+• Derek K. Aberle
+• George S. Davis
+Other Participants
+• Mike Walkley
+• Tim Long
+• Brian Modoff
+• Kulbinder S. Garcha
+• Simona K. Jankowski
+• Ehud A. Gelblum
+• James E. Faucette
+• Stacy Aaron Rasgon
+• Romit J. Shah
+• Timothy Arcuri
+• Tal Liani
+• Mark Sue
+• Rod B. Hall
+• Anil Kumar Doradla
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Qualcomm third quarter fiscal 2014 conference call.
+At this time all participants are in a listen-only mode. Later we will conduct a question-and-answer session. [Operator
+Instructions] As a reminder, this conference is being recorded July 23, 2014. The playback number for today's call is
+855-859-2056. International callers please dial 404-537-3406. The play back reservation number is 63935250.
+I would now like to turn the call over to Warren Kneeshaw, Vice President of Investor Relations. Mr. Kneeshaw, please
+go ahead.
+Warren Kneeshaw
+Thank you, Brent, and good afternoon, everyone. Today's call will include prepared remarks by Steve Mollenkopf,
+Derek Aberle and George Davis. Steve is joining us from Beijing where he is attending the U.S. China CEO Dialogue
+co-convened by the U.S. Chamber of Commerce and the China Center for Economic Exchanges. Murthy
+Renduchintala and Don Rosenberg will join the question-and-answer session. An internet presentation and audio
+broadcast accompany this call, and you can access them by visiting our website at www.qualcomm.com.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 2 of 15
+During this conference call if we use non-GAAP financial measures as defined in Regulation G, you can find the
+related reconciliations to GAAP on our website. I'd also like to direct you to our 10-Q and earnings release which were
+filed and furnished respectively with the SEC today and are available on our website.
+During this conference call, we will make forward-looking statements regarding future events or company results.
+Actual events or results could differ materially from those projected in the forward-looking statements. Please refer to
+our SEC filings, including our most recent Form 10-Q which contains important factors that could cause actual results
+to differ materially from the forward-looking statements.
+And now I would like to introduce Qualcomm's Chief Executive Officer, Steve Mollenkopf.
+Steven M. Mollenkopf
+Thank you, Warren, and good afternoon, everyone.
+We are pleased to report another very strong quarter with record revenues and earnings per share, driven by
+broad-based demand for our 3G and multimode 3G/4G chipsets. In QCT, we shipped a record 225 million MSM
+chipsets, well ahead of expectations, driven primarily by strength in emerging regions. We continue to benefit from our
+tiered road map and diversified customer base, as revenues in MSM chip shipments were up 17% and 31%
+year-over-year respectively.
+Total 3G/4G device demand in the March quarter was stronger than our expectations; however, QTL total reported
+device sales and revenues were down from our prior guidance expectation as a result of a dispute with a licensee,
+underreporting by certain licensees in China and sales of certain unlicensed devices in China. Derek will discuss this
+more fully, including the actions we are taking to address this situation. We will also give a brief update on the ongoing
+NDRC investigation.
+We began the year with several key objectives. First, we set out to compete effectively across all tiers in the LTE
+rollout in China while driving the modem and AP roadmap to maintain our competitive lead. Second, we developed
+plans to focus our investment on adjacent opportunities that adopt our core technologies as well as technologies that
+address the 1000x data challenge and drive IOE adoption. Third, we set challenging OpEx targets to achieve greater
+operating leverage from our scale. And finally, we committed to materially increase our return of capital. As I will
+explain further, I'm very pleased with our results to date on all of these elements.
+I will begin with the operational front where we are executing against our initiatives to drive productivity. We remain
+committed to exiting our fiscal year at an overall operating expense run rate lower than our exit from last year. Our
+team is executing to this while making critical investments in our roadmap and supply chain initiatives.
+We also continue to make progress on our efforts to focus our new business initiatives across the company. As part of
+that effort, we are accelerating our transition from the current generation Mirasol display technology to the licensing of
+the next generation, with a focus on wearable devices. However, we will continue to make and sell the current
+generation Mirasol displays to support certain existing customer requirements.
+As a result of this new plan, we expect to significantly lower spend in our QMT division in fiscal 2015, providing an
+expected annualized savings of more than $125 million. The actions related to these changes resulted in an impairment
+to the QMT business this quarter, which George will cover in more detail.
+Adding to our portfolio of important technologies, we recently completed a few noteworthy acquisitions. First, we
+acquired Wilocity, a leader in the development of 60 gigahertz chipsets based on the IEEE 802.11ad standard, also
+known as WiGig. We have been working closely with this team for many years and see this technology as important to
+the new high bandwidth use cases we expect. The Black Sand acquisition supplements our RF team and expands our
+RF360 roadmap. And finally, we acquired leading digital still camera technology from CSR, which further enhances
+our differentiation in the important area of image processing.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 3 of 15
+On the product front, the first device based on our Snapdragon 805 and fourth generation multimode 3G/4G modem
+was launched, the Samsung Galaxy S5 broadband LTE A. The Snapdragon 805 processor is the first mobile processor
+to offer system level Ultra HD support, 4K video capture and play back, and when coupled with our industry-leading
+Gobi modems, enables users to stream and watch 4K content over LTE. The fourth generation Qualcomm Gobi 9X35
+is the first 3G LTE modem to commercially ship in smartphones that supports global carrier aggregation deployments
+of up to 40 megahertz with both LTE TDD and FDD Category 6.
+QCT has seen very strong design traction across its tiers with the emerging China customers. It is worth noting that our
+success to date in China is based on chipsets that were launched last year, and we are on track this quarter to
+commercialize our new low cost architecture with our Snapdragon 410. We believe the launch of Snapdragon 410 and
+our follow-on LTE chipsets raise the competitive benchmark and improve product cost.
+With our Wi-Fi and RF360 solutions, we continue to pursue growing our share of content in devices. Both product
+lines continue to ramp, with our overall Wi-Fi unit volumes on track to grow more than 40% this fiscal year, as our
+attach rate in mobile continues to grow significantly.
+We now have over 100 devices launched or in design incorporating RF360, including the first launch of a device to
+feature the Envelope Tracker, antenna tuner and power amplifier. Looking forward, the continued rollout and growth of
+multimode 3G LTE is a significant opportunity for the company. According to the GSA, 300 operators have deployed
+LTE and more than 200 more have committed to deploy LTE.
+In addition, over 55 operators have or are planning to deploy LTE Advanced services, including carrier aggregation.
+We are now positioned to help enable this opportunity with our LTE leadership position, including chipsets across
+multiple product tiers, and we expect to launch the Snapdragon 810, the world's first premium tier integrated SOC with
+Category 6 for smartphones later this calendar year.
+To date, over 2,000 multimode 3G LTE devices have now either been launched or are in design based on our chipset
+solutions. The LTE feature set continues to evolve with features such as LTE Broadcast and LTE Direct. LTE
+Broadcast has been commercialized in Korea and has been demonstrated in the U.S., Europe, and Australia. We have
+also announced an LTE Direct trial in Germany in collaboration with Deutsche Telekom.
+Although still early in the adoption cycle, opportunities in the automotive, healthcare and wearable segments are taking
+shape. Our automobile pipeline continues to add OEMs and design wins. Our leadership in LTE is an advantage in this
+segment as it moves from 3G to multimode LTE, and this quarter we saw General Motors launch OnStar LTE. In
+addition, new Android Wear devices were recently announced and Snapdragon 400 is enabling devices offered by
+Samsung and LG. Adjacent opportunities allow us to build off our core investments into new growth segments. We
+expect to see an increasing impact of this over time.
+In closing, we are making substantial progress on the key objectives we set for the company. We delivered a record
+quarter and see significant opportunities ahead. Our portfolio of multimode 3G LTE chipsets has strong design traction
+which positions us well, and we are working hard to address the near-term challenges in our licensing business.
+That concludes my remarks, and I will now turn the call over to Qualcomm's President, Derek Aberle.
+Derek K. Aberle
+Thank you, Steve, and good afternoon, everyone.
+We continue to see healthy end user device demand spurred by, among other things, the transition to 3G LTE in China.
+In fact, we now believe 3G/4G device demand, excluding TD-SCDMA GSM devices for calendar 2014 will be at the
+high end of the 1.22 billion to 1.3 billion device range that we provided last quarter, reflecting strength in both
+developed and emerging regions.
+Turning to China, China Mobile has launched LTE service in over 300 cities, with over 300 LTE device models and
+has seen increased data usage and ARPU from its LTE subscribers. In addition, LTE FDD trial licenses have now been
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 4 of 15
+granted to both China Unicom and China Telecom. Both operators are launching hybrid LTE TDD and FDD trial
+networks in 16 cities. We expect those trials to expand to additional cities throughout the year. We are working closely
+with the operators to help them optimize their networks and our chipset solutions which support both the TDD and
+FDD modes of LTE, provide the mode, band and hand-off combinations they require for their 3G and LTE networks.
+As Steve mentioned, we continue to have strong LTE chipset design momentum with manufacturers in China and we
+are seeing significant demand for our multimode 3G LTE chipsets. Here in the U.S., we have also seen positive trends
+as a result of competition amongst the carriers. In addition, promotions tied in to the World Cup have shown success in
+Latin America, and we have seen positive 2G to 3G migration trends in Southeast Asia as well.
+Despite this healthy 3G/4G device demand environment, we have reduced our financial outlook for QTL for this fiscal
+year to reflect some challenges in China that could prevent us from collecting royalties in the near-term on the full
+3G/4G device demand. First we have a dispute with a licensee that is that has a resulted in that portion of that licensee's
+shipment activity being excluded from our fiscal third quarter results and fiscal fourth quarter outlook. Like other
+disputes we have had in the past, we expect to resolve this situation and are in active discussions with this licensee.
+However, the timing of a potential resolution is uncertain.
+Second, as we have previously said, the timing of the LTE launches in China as well as device composition at China
+Mobile has been a bit difficult to forecast. Although we have signed more than 70 single mode LTE licenses with
+Chinese OEMs, we still need to sign agreements with a number of other Chinese OEMs in order to be able to collect
+royalties on all three-mode devices in China. Given the time it will take to complete the remaining single mode LTE
+licenses in China, we expect to experience a delay in the timing of our collection of royalties on these devices.
+Third, we recently have seen an increase in sales of lower tier 3G connected tablets by a number of Chinese OEMs, and
+we expect sales of these devices to continue to grow. This is a positive sign for 3G/4G attach rates in tablets, but the
+tablet OEMs are largely not the same companies that have been supplying handsets in China and therefore in most
+cases they are not currently licensed. We are in the process of negotiating licenses with this new base of potential
+licensees, but those discussions will take some time to complete.
+Fourth, we believe that some of our Chinese licensees are underreporting and may continue to underreport a portion of
+their 3G/4G device sales. As we have explained in the past, we have a robust and active compliance program in [audio
+gap] (13:44) a priority for the business going forward. We are taking steps to confirm the underreporting and to work
+with the licensees to resolve the issues.
+In summary, primarily as a result of these four items, our revised QTL fiscal year outlook reflects a reduction of
+approximately 8% in total reported device sales for the second half of fiscal 2014. The timing of the resolution of these
+items is uncertain, and we will update you on our progress next quarter.
+For the calendar year 2014 3G/4G device forecast, we now expect the total unit demand will be at the high end of our
+prior unit estimate or approximately 1.3 billion devices. However, we currently expect that QTL will not participate
+near-term in the full device demand based on the four items we just explained.
+We now expect that between 1.04 billion and 1.13 billion 3G/4G devices will be reported to us for sales during
+calendar 2014. We estimate the impact from these four items on total reported device sales on a percentage basis to be
+between 6% and 9% for calendar year 2014. The percentage reduction in units is greater than in total reported device
+sales because the units are expected to be lower priced devices.
+Although we have these near-term challenges, we continue to expect to collect royalties on all LTE devices globally,
+including three-mode devices sold in China, and have executed more than 110 single mode LTE licenses in addition to
+our more than 260 3G licenses which cover multimode 3G/4G devices. We have had disputes in the past and have a
+good track record of successfully resolving those disputes. It is also not uncommon for a licensor to experience some
+delays in collecting royalties while they negotiate license agreements covering new entrants or new products. Finally,
+we are closely monitoring and in discussions with companies that we believe are underreporting or operating without a
+license, consistent with our long-standing compliance activities around the world.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 5 of 15
+Let me now move on to discuss the status of the investigation in China. As previously disclosed, the China National
+Development and Reform Commission, or the NDRC, is conducting an anti-monopoly investigation of certain aspects
+of the company's business, primarily the company's licensing business and certain interactions between the company's
+licensing business and our chipset business. We have met with and are continuing to fully cooperate with the NDRC as
+it conducts its investigation but the timing and outcome of any resolution remains uncertain, as does the impact on our
+future business in China.
+That concludes my comments and I will now turn the call over to our Chief Financial Officer, George Davis.
+George S. Davis
+Thank you, Derek, and good afternoon, everyone.
+We are pleased to be reporting strong operating and financial results this quarter, primarily driven by record QCT
+performance. Fiscal third quarter revenues were a record $6.8 billion, up 9% year-over-year, and 7% sequentially.
+Non-GAAP operating income of $2.43 billion was up 19% year-over-year and non-GAAP earnings per share of $1.44
+was up 40% year-over-year and up 10% quarter-over-quarter. Overall, non-GAAP earnings per share were $0.24 above
+the midpoint of our guidance range.
+Our results included a $164 million charge, or $0.08 per share, related to the transition of our Mirasol business, as well
+as a $208 million gain, or $0.12 per share, for a reversal of expenses related to the favorable ruling in the ParkerVision
+litigation. Excluding these two items, non-GAAP earnings per share would have been $1.40, $0.20 above the midpoint
+of our prior guidance range.
+In QTL, total reported device sales by our licensees were $58.1 billion, and we estimate that 250 million to 254 million
+3G/4G-based devices were reported by our licensees for the March quarter at an average selling price of $228 to $234,
+up approximately $7 sequentially at the midpoint. QTL's ASP in the fiscal third quarter reflected strength in mid to
+high tier devices, as well as the absence of lower ASP devices associated with the licensing challenges summarized by
+Derek.
+In QCT, revenues, earnings before tax and MSM shipments were all quarterly records as demands strongly exceeded
+our prior expectations. QCT shipped 225 million MSMs, 12 million units above the high end of our prior guidance
+range, primarily driven by shipments to Chinese manufacturers for 3G and 3G LTE devices. Implied revenue per MSM
+was approximately $22, slightly lower sequentially on the mix of demand. QCT operating margin was 23%, also above
+our prior expectations, reflecting the stronger than expected MSM demand as well as some favorable impact as a result
+of the ParkerVision ruling.
+Non-GAAP combined R&D and SG&A expenses grew 7% sequentially, in line with our prior expectations. Investment
+income was strong this quarter, adding $0.06 in EPS relative to our prior guidance. Strength in the financial markets
+and changes in asset allocation to lower long-term risk in certain of our investment portfolios drove this contribution.
+Looking ahead, we forecast fiscal fourth quarter investment income to be in the range of $200 million to $250 million,
+which is down sequentially on lower realized gains. Cash flow from operations was strong at 39% of revenues, and we
+ended the quarter with cash and marketable securities of $32.7 billion. During the quarter, we returned almost $2.1
+billion to stockholders, including approximately $700 million in dividends and $1.35 billion in stock repurchases. At
+the end of the quarter, we had approximately $6.5 billion remaining on our buyback authorization. Our non-GAAP tax
+rate was 13%, and lower than expected on business mix and the effects of the ParkerVision reversal.
+Now turning to our guidance. We are updating our financial forecast for fiscal 2014 to reflect our fiscal third quarter
+results and increased outlook for QCT, partially offset by our lower estimates for QTL. We estimate fiscal 2014
+revenues to be in the range of approximately $26.3 billion to $27.2 billion, up approximately 8% year-over-year and
+unchanged at the midpoint from our prior guidance. We expect fiscal 2014 non-GAAP earnings per share to be in the
+range of $5.21 to $5.36, up approximately 17% year-over-year at the midpoint and up $0.14 per share from our
+previous guidance midpoint on the strength of our fiscal third quarter.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 6 of 15
+We are increasing our estimate for the reported fiscal 2014 QTL average selling price to approximately $222 to $228
+which is $2 above our prior $223 estimate at the midpoint, again, reflecting the absence of the mix impact of
+underreported and disputed devices. We expect combined non-GAAP R&D and SG&A expense to grow approximately
+5% to 6% year-over-year and, as Steve indicated, we are still on track to exit the fiscal year below the run rate at the
+end of the last fiscal year.
+Turning to the fourth fiscal quarter, we estimate our revenues to be in the range of approximately $6.5 million to $7.4
+billion, up approximately 7% year-over-year at the midpoint. We estimate non-GAAP earnings per share in our fourth
+fiscal quarter to be approximately $1.20 to $1.35 per share, up approximately 21% year-over-year at the midpoint. We
+anticipate fourth fiscal quarter non-GAAP combined R&D and SG&A expenses will be between 2% lower and flat
+sequentially.
+In QTL, we forecast total reported device sales of $53 billion to $59 billion, down approximately 4% sequentially at the
+midpoint, reflecting the uncertain timing of potential resolution of the licensing matters.
+In QCT, we anticipate MSM shipments of approximately 230 million to 245 million units during the September
+quarter, reflecting continued strong demand across all tiers with particular strength in low and mid-tier chip sets for
+Chinese OEMs. We expect QCT operating margin to exit the fiscal year above 20% as previously forecasted as a result
+of solid execution on spending and supply chain initiatives. We continue to expect 3G/4G channel inventory to remain
+within the normal 11 to 16-week range through this calendar year, with China related inventory increasing on LTE
+channel fill.
+That concludes my comments. And I will now turn the call back to Warren.
+Warren Kneeshaw
+Thank you, George. Operator, we are ready for questions.
+Q&A
+Operator
+[Operator Instructions] Your first question comes from the line of Mike Walkley with Canaccord Genuity. Please go
+ahead with your question.
+<Q - Mike Walkley>: Great. Thank you. Derek, just going back, if you take the midpoint of the units now excluded
+roughly 215 million units, can you help us maybe break it down between the four reasons you gave for excluding those
+units, and is the one licensee dispute, is that a meaningful piece of that 215 million excluded now from your outlook?
+<A - Derek K. Aberle>: Sure, Mike. Yeah, it's a little bit hard, you know, we have a pretty wide range on the units
+because of the uncertainty of the timing of the resolutions, and they're all kind of different in kind. But the licensee
+dispute is a meaningful contributor to that number during this timeframe, and of course if that particular licensee were
+to gain more share or lose share, that could impact the estimate that we have at this time. But, they're all meaningful
+contributors to the numbers that we put out for the year.
+Operator
+Your next question comes from the line of James Faucette – I'm sorry, your next question comes from the line of Tim
+Long with BMO Capital Markets. Please go ahead with your question.
+<Q - Tim Long>: Thank you. If I could just follow-up on the China piece here. Maybe if you could talk to us a little bit
+about the complexion of some of these customers and what Qualcomm can do. Do some of them sell outside of China
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 7 of 15
+where you might have a little bit more leverage? Are they chipset customers where maybe you also have some leverage
+on the supply side? And then related to that, do you – are you concerned about this spreading maybe to some of the
+other Chinese?
+And also there's been some stories about some Google initiatives in India with a few handset companies that are not
+Qualcomm licensees. So maybe can you just talk a little bit about this as potentially being a broader issue than just
+these OEMs in China? Thank you.
+<A - Derek K. Aberle>: Sure. Tim, this is Derek. Yeah, again, there are kind of multiple factors here so let me try to
+break them down. On the dispute, I think that's something that we've we have had a – we've had several of these in the
+past, as you know, over the years, and our typical process is to try to engage with the licensee, and see if we can resolve
+it through negotiation, which we usually are pretty successful at. And then when that doesn't work, things need to take a
+different course, and even in that route, we've, I think, had a history of pretty successful results there.
+On the other OEMs, so it's really a mixed bag. In the white box or the lower end tablet space, it's really a set of kind of
+a new set of suppliers that, at least today, are, I think, primarily focused in China and then maybe some of the other
+emerging regions. And much like the mid to smaller size companies in China in the past, we have had a lot of success
+in getting those companies to sign licenses over time. It's really just a timing question, I think, in my mind, because
+we're, you know, kind of at the outset of this growth in a new segment and its new suppliers so it's going to take some
+time to get those licenses in place. The same is really true for, you know, for the three mode volume, I think it's, from
+our perspective, more of a timing question in terms of getting the remaining licenses in place.
+And then around the under-reporting, it is, again, we are at the pretty early stages of trying to confirm sort of the extent
+of this and engage directly with the OEMs in China, but our typical process is, you know, we will – we will uncover
+something and then we will work with the licensee through the compliance and also an audit process which takes some
+time to try to get what we believe is a compliance situation. And when that doesn't work, obviously we have different
+mechanisms we can pursue under the agreements themselves. So I think it's, you know, again, I think we have a
+number of avenues available to us which have proven successful in the past, and we just have with a little bit of more
+uncertainty right now in China, we have a period where we need to push these things and it's going to take a little time.
+In terms of things spreading, I'm actually – my sense is that the units that are supplied even into the local brands in
+India are really supplied primarily today out of China. And so it would be sort of a similar set of suppliers as we have
+discussions with for supply in China and the other emerging regions. In other words, it's not a new set of suppliers
+cropping up in India that aren't supplied elsewhere from the licensee base.
+Operator
+Your next question comes from the line of Brian Modoff with Deutsche Bank. Please go ahead with your question.
+<Q - Brian Modoff>: Yeah, guys. So let's do a little bit of math. So we're talking about 215 million units for the year
+that are essentially you're dealing with this licensing collection issue. Approximately?
+<A - Derek K. Aberle>: Approximately. That's the midpoint of the range that we gave.
+<Q - Brian Modoff>: All right.
+<A - Derek K. Aberle>: Yeah, Brian, from a TRDS standpoint, though, the range is more like 6% to 9%. So it's about
+half the percentage effect that the units would imply.
+<Q - Brian Modoff>: Okay. And then if these are lower end products, you're probably looking at royalties on an ASP
+of say $100 or maybe even lower depending on what the product is. Is that correct?
+<A - Derek K. Aberle>: I mean, these are lower, yeah, these are lower priced devices that we believe are kind of in
+this bucket generally.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 8 of 15
+Operator
+Your next question comes from the line of Kulbinder Garcha with Credit Suisse. Please go ahead with your question.
+<Q - Kulbinder S. Garcha>: A question for Derek again. Not surprisingly today, Derek, I guess I'm trying to
+understand how this whole thing came about and what I'm getting at is you mentioned the whole thing about connected
+tablets taking off. Were you previously assuming in your guidance you would license them and now you can't? I'm
+surprised you even included that I guess is my point.
+And then the additional thing I was just thinking is in terms of the same thing applies to new licensees you were
+targeting but you weren't able to close them. I'm surprised that caused you to revise your estimates down. That would
+be an incremental upside if it ever occurred. And so what I'm getting at, is it just a – is the main driver this major
+licensee that's not reporting – not paying you now and the under-reporting generically by everyone? Because a $200
+million number out of the Chinese market is a really big number out of that market, frankly. And so I'm trying to
+understand how this kind of came about and why suddenly it hit you now or were there warning indicators for the last
+six months about this? Any kind of context around that would be helpful.
+<A - Derek K. Aberle>: Okay, Kulbinder, this is Derek. Let me try to break that down a little bit. So first of all, the
+$250 million is the midpoint of, as I said, a relatively wide range. And the reason we gave a relatively wide range is just
+because the number of factors involved and the uncertainty around the timing of each one of those potential resolutions.
+The dispute that we have with the licensee, as I said, is a significant contributor to these units. It's not all of their units.
+We have a dispute around some of them. And frankly, I don't think it's a question of whether they're going to end up
+paying royalties, it's just a question of the timing of trying to resolve it and what that resolution will look like. On the
+white box tablets, we've been monitoring that. We've been in discussions with a number of those companies. Frankly,
+just the acceleration of the growth that we expect to see over this period is faster now than we expected a few months
+ago or even before that. And that is a contributor but I'm not going to suggest that that's the largest contributor of the
+units. It's just a piece of it.
+On the under-reporting, again, if you think back through calendar 2013 as we've been monitoring this and I know
+you've asked questions about this periodically, we've been really on top of the compliance aspects in China. And really
+isn't – the first time we're really seeing a meaningful impact of this is in the current quarter that we're reporting. And it's
+really a relatively recent phenomenon, and part of it is really just trying to understand where this will go in terms of a
+trend. And we've provided a relatively wide range on that for that reason.
+Again, the typical process is when we notice things that look suspicious, we will engage with the licensees quickly and
+then usually move to an audit process, which takes some time to get the data and then work through the issues. But
+once we get through that process, we're able to typically get a resolution.
+So again, I think there's just a number of factors that came together at the same time. Obviously we're also seeing a
+ramp in the LTE volumes from China Mobile, which is a good market phenomena, but there given some of the
+uncertainty there right now and the discussions around the LTE licenses, although they've been ongoing and we've been
+progressing and increasing the numbers, has been a little slower than we had anticipated. So it's taking longer now to
+get to some of these agreements. And so we believe we will get there, it's just a question of timing, and it's just
+uncertain in terms of when that will be.
+Operator
+Your next question comes from the line of Simona Jankowski with Goldman Sachs. Please go ahead with your
+question.
+<Q - Simona K. Jankowski>: Hi. Thank you. I just wanted to see if you can give us a little bit of color, Derek, on of
+the 70 licensees you have in China, what percent of the total volumes in China do those cover? And then is there a
+distinction in terms of your collection of Chinese made devices that are sold in China versus those that are sold
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 9 of 15
+overseas?
+<A - Derek K. Aberle>: Yeah, it's really hard for us to pinpoint a – or give a range even for the percentage of the units
+that will be supplied over the calendar year where we're giving these projections from the licensee base that are
+currently licensed for LTE. There are significant companies in the group of companies that have signed licenses for
+three-mode devices and LTE generally, but there are a number of other meaningful suppliers in China that haven't yet
+signed up, which is why you're seeing the impact; and those negotiations are continuing and I suspect will get
+concluded it's just a question of when they will be concluded.
+Operator
+Your next question comes from the line of Ehud Gelblum with Citi. Please go ahead with your question.
+<Q - Ehud A. Gelblum>: Hey, guys. Thanks. I appreciate it. Well actually sorry about that. I was messing up my
+phone. Thank you. A couple of questions, again trying to get this straight. First of all, on the NDRC, could a possible
+conclusion of that investigation be something that relates to the royalty rates that you will end up having with your
+licensees in China? Or is that completely separate and the negotiations you do with the licensees, that will – and the
+royalty rates that come out of that will be totally separate from what the NDRC conclusion is?
+And then again just to understand a few other specific things, I just want to confirm that the dispute that you're having
+is with a Chinese vendor and that it is with handsets, as Simona said before, both that they sell within China as well as
+ones that they sell outside of China because going back to some of the other questions, we can't get to a player large
+enough in China to be a significant player of the – of that 215 million if we only consider their Chinese handsets. So
+just trying to get a frame of that.
+And if I could sneak one more in, these vendors who are not paying – or who are either under-reporting or not paying
+you now, are these ones that were licensed in the past and therefore had paid you in the past and are not now? Or are
+these new vendors that had never paid you? Sorry for all the questions.
+<A - Derek K. Aberle>: Yeah, okay. A little hard to – hopefully I got all of them scribbled down there. So, Ehud, I
+think here on the NDRC, I think we've made a pretty robust – not a pretty robust, a very robust disclosure in our 10-Q
+in terms of the range of potential outcomes that could come out of a decision from the NDRC, and so at this point we're
+continuing to fully cooperate, as I said, and try to work through this but we can't comment specifically on what – what
+any particular outcome may be from that – from that proceeding. In parallel, we are in negotiations with a number of
+licensees, as is typical for the business, and there's a little bit, I would say a little bit of a more complication or a little
+bit slower pace of those negotiations given the backdrop of the investigation which is having some amount of impact.
+As to the units kind of inside versus outside China, yeah the 215 million midpoint or the overall range would not
+necessarily be limited to sales – in fact, likely is not limited to sales just for China. You know a number of these
+suppliers, as you know, supply worldwide, and so really it's a phenomena that's right now we believe unique to Chinese
+OEMs.
+And as to the ones that are – that we believe are under-reporting, it's not a question of companies that have stopped
+paying or reporting entirely. I think it's just as we look at the market data that's available to us, which is a very
+extensive process we have, we now believe that there is a gap between what we expected to be reported to us and what
+actually was reported to us in the third quarter and what we expect for the fourth quarter and for the remainder of the
+calendar year, unless and until we can get resolution on some of these issues.
+So it's really companies that are under agreement and the typical process I outlined before is to go through sort of the
+compliance discussion which has started already and then from there if it's not resolved, we move to audits, and if
+ultimately if that's unsuccessful, we have other mechanisms to pursue it under the contracts themselves that they've
+signed.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 10 of 15
+Operator
+Your next question comes from the line of James Faucette with Morgan Stanley. Please go ahead with your question.
+<Q - James E. Faucette>: Thanks a lot. Just a quick follow-up to that then, Derek. I think you mentioned that you felt
+like some of the negotiations with potential new licensees were being impacted by the NDRC investigation, et cetera.
+Do you feel like that some of the compliance issues with existing licensees are also being impacted by that same
+investigation? And then just a quick question maybe for Steve, on the overall market for chips into China and the
+emerging markets is that clearly you're seeing good success, and that's evidenced by the large volumes you shipped last
+quarter, but just wondering how you're feeling about the competitive environment and anything that you need to do
+from a pricing or promotion standpoint to continue to take share that you'd like to in those developing markets?
+Thanks.
+<A - Derek K. Aberle>: Sure, James. This is Derek. Yeah, I mean it's clear to us that the investigation, among other
+things, is creating an increased level of uncertainty, I think, with the licensee base in China right now. I guess the way I
+would answer that is we believe the investigation will be resolved at some point. We're working hard to try to see that
+through. And once that is resolved, I do believe some of the challenges we've had in the near-term will become easier.
+<A - Steven M. Mollenkopf>: And, James, this is Steve. With regards to your questions about chips, it's been an area
+of strength for us actually, shipping chips into the Chinese customer base. Not all of those, by the way, are being sold in
+China as well. We've had actually some strength in the 3G portfolio over the last quarter for devices headed to Latin
+America and the rest of the world. So I think it's, in general, been a very strong picture, and I would say we feel very
+good about where we sit competitively. And I think if you look at kind of the guide, it's consistent with that view.
+Operator
+Your next question comes from the line of Brian Modoff with Deutsche Bank. Please go ahead with your question.
+<Q - Brian Modoff>: Yeah, guys. Where I was going with that line of questioning earlier was if you assume 215
+million units and you assume probably an ASP of around probably $100, given this is China, and a 3% royalty rate,
+we're talking about say 645 million, 650 million of revenues in royalties and you pull back over time once these
+disputes get settled. Is that kind of a good way to look at it?
+And then the second question for you, Steve, you're doing a lot of work around you've got 28-nanometer RF getting
+ready to start shipping in October, you've got a ton of 14-nanometer tape-outs occurring with Samsung. Can you talk a
+little bit about how some of these advances you're doing on the substrate side will help you from an economies of scale
+and margin standpoint against the competitors as you push forward aggressively into these areas? Thanks.
+<A - George S. Davis>: Hey, Brian. This is George. I'll take a shot at the sizing issue. I think your basic math is, in
+general, right. The way I would look at it in terms of these are lower priced devices on average, less than 50% of the
+average for the overall ASP for the company that we report. And I think one of the things you can do is, this is a very
+strong year relative to our expectations on the QCT side for the year. Now, we talked last quarter about there being a bit
+of a lag just because of the timing of the ramp in QCT that QTL wouldn't fully participate this year, all things being
+equal, but it was really good momentum going into 2015, so I think if you look at the – if you want to try to size the
+impact, I think you would have started to see this impact more fully realized in the third quarter calendar quarter, fourth
+calendar quarter.
+And if you look at what the year-over-year looks like there, we're down about 3% year-over-year on QCT. This quarter
+it widens out a little bit. Next quarter, basically – QTL, excuse me, not QCT. Obviously QCT was up significantly year
+over year. So I think you can size it. We would have expected and expect this when this is resolved that this will be
+strong momentum for QTL as well.
+<A - Steven M. Mollenkopf>: And, Brian, on your question about the substrates and different technologies that we're
+going through, there are a couple of things I think. One is it has clearly been an advantage to have the scale that we
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 11 of 15
+have and to have that scale across multiple foundries. It has helped us with supply. It's helped with us pricing. It's
+helped us with a number of items. And then I think probably the most important thing is from a design perspective,
+your ability to go to advanced nodes and to integrate a number of different technologies onto the same dye, and
+increasing those technologies are RF technologies, that's been a competitive advantage for us. And we think it's going
+to continue to be a competitive advantage moving forward.
+So we continue to push that. That's one of the things that I mentioned in my script that we were pleased that we're able
+to even execute on that strategy while cutting back on the OpEx as well. So it's – we feel like we're positioned well
+from the product perspective.
+Operator
+Your next question comes from the line of Stacy Rasgon with Sanford Bernstein. Please go ahead with your question.
+<Q - Stacy Aaron Rasgon>: Hi, guys. Thanks for taking my questions. I have two. The first one, 250 million, 215
+million units out of your forecast seems too big to me to be strictly a 4G in China situation. So can you give us some
+feeling for, I suspect this is beyond 4G, this is 3G as well. So do you actually have 3G licensees that were paying who
+are now underreporting, is this leaking out?
+Secondly, on the NDRC, I know in your Q you talked about there would be likely a probable impact, but you're – a
+financial impact, but you're unable to size it at this point. Can you talk about what some of the possibilities are,
+anywhere from a fine to business model transitions? Is there a possibility that there could be an adverse change to your
+business in China? And if there is, how do you stop that adverse change from leaking out of China into the rest of your
+regions and impacting your royalty business overall?
+<A - Derek K. Aberle>: Stacy, this is Derek. Yeah, so on the 215 million midpoint, again from the TRDS impact, you
+know, you will see significantly less than that. The reason I tried to kind of break it down into four different buckets is
+because the underreporting bucket that you mentioned that we believe is going on right now is broader than just the
+LTE. It would include 3G volumes as well. And so that's when we look at the market in terms of both China and
+devices flowing outside of China to other parts of the world, that's encompassing a broader technology set than just 4G.
+On the NDRC, really, I don't think I can say much more than I said in response to a prior question, other than yes, we
+did change the disclosure to indicate that we believed some loss would be probable, but given the many factors that are
+involved there, we're really not in a position to be able to estimate what that might look like. We just believe whatever
+the resolution may be will likely include some form of payment.
+Operator
+Your next question comes from the line of Romit Shah with Nomura. Please go ahead with your question.
+<Q - Romit J. Shah>: Thanks. A couple. Derek, first on this NDRC investigation, should we expect some resolution
+this year? Or should we be bracing for this thing to spill into 2015?
+The other question I had was just on the strength in MSM this quarter you mentioned emerging. Can you talk a little bit
+about how your Tier 1 customers influenced the performance here in June and your outlook for September? Thanks.
+<A - Derek K. Aberle>: So this is Derek. I'll take the first one. Yeah. Again, it's pretty difficult to determine timing on
+the NDRC resolution. As I've said in the past, we're – this is obviously a large priority for the company to resolve it,
+and we're cooperating and actively engaged with the NDRC to try to get it resolved as expeditiously as possible.
+<A - Steven M. Mollenkopf>: And on the second question, you know I think this last quarter we really benefited from
+our diversified customer base and our strength across tiers, and that continues to be something that we think will be a
+good part of the business. What we are seeing in China, and I think most people probably don't realize all the time, is
+that it is very much a multi-tiered market, and we are seeing, you know, strength across the tiers, and then what's really
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 12 of 15
+interesting is that you're seeing a lot of the OEMs in China going international as well, and I think that's helping us on
+the chipset business as well.
+One other thing that I wanted to mention and it wasn't in my script is that we will be focusing I think more and more of
+our chipset road map and energy on increasing the pace in which we refresh that road map, and I think that will benefit
+us as well moving forward in the customer base.
+Operator
+Your next question comes from the line of Timothy Arcuri with Cowen & Company. Please go ahead with your
+question.
+<Q - Timothy Arcuri>: Thanks a lot. I had two. First, Derek, of the 215 million units, can you somehow put those into
+each of the four buckets, the dispute, the tablets, the three mode and then the underreporting?
+And then a question for George. George, I'm trying to get the pro forma op margin for QCT. It looks like it's about
+19%, and if that's right, I'm surprised it wasn't a little better, given the revenue upside, so I wanted you to comment on
+that. Thanks.
+<A - Derek K. Aberle>: Tim, this is Derek. Yeah, again, you know, the 215 is a midpoint of a relatively wide range of
+units. And a number of different assumptions in terms of potential outcomes are baked into sort of the high end versus
+the low end of that. And so it's really hard to break down the bucketing of that. As I said, I think probably the smallest
+contributor in this timeframe would be the tablet space, which shouldn't be surprising, and kind of the other three are all
+pretty meaningful contributors.
+<A - George S. Davis>: Tim, I'm not sure I followed that. The operating profit percentage that was reported was at
+23% for QCT, very strong, certainly above the expectations. We said we're going to exit the year above 20%. If you put
+all those together, then – and look at our 18% to 20% range for the year, we're clearly at the high end of that. And I
+think that's fully in keeping with our outlook for the year and benefiting a little bit more from the upside in MSM units.
+Operator
+Your next question comes from the line of Tal Liani with Bank of America Merrill Lynch. Please go ahead with your
+question.
+<Q - Tal Liani>: Hi, guys. Before I go to the main question, just a few housekeeping items. Implied royalty rate was
+higher than you said last quarter. Last quarter you said it's going to be 3.1% and you reported 3.24%, if you can go over
+it. Also the ASPs were higher. Is this just related to the elimination of China in the numbers that were – or part of China
+that we're talking here about? Or is it also related to other things? Also, financial expenditures...
+<A - Derek K. Aberle>: Could you repeat that question? We – I think we're – you got it? Okay. Go ahead.
+<Q - Tal Liani>: Sure.
+<A - Derek K. Aberle>: Go ahead.
+<Q - Tal Liani>: Should I repeat the question?
+<A - Derek K. Aberle>: No, it's okay. He got it.
+<Q - Tal Liani>: It's okay. Half of the outperformance this quarter outside of the revenues was higher financial
+income, lower taxes, what's going on there, if you can discuss? So these are all the P&L items.
+One question that I have on the issues on the – the licensing issue is what I want to understand is, is it – is it related to
+MediaTek not reporting anymore the numbers to you so you have more limited way to audit the numbers that the
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 13 of 15
+vendors are reporting? Or is it more related to new technology and vendors basically making a very broad kind of claim
+saying on this kind of technology we're not paying, which is a – there's a difference in the difficulty to convince them to
+pay in one scenario versus another. Thanks.
+<A - George S. Davis>: Maybe I'll jump on the P&L items first and the implied royalty rate. So I think we're looking
+at different numbers. We reported – the reported number would be 3.1% which was right on top of what we had guided.
+So if you've got some more questions on that, maybe check in with the IR team, and they can go through the
+calculation.
+In terms of tax, what you saw is actually last quarter we reached a settlement which lowered our outlook for the tax rate
+for the year. We got an additional benefit this quarter as well from the effects of the reversal of the ParkerVision
+judgment, and so that was a – it didn't carry tax with it so it had the overall effect of lowering our tax rate.
+And as we've been reporting, we are seeing higher investment income on gains in the portfolio. As we have started to
+implement higher return of capital, we have had a program to reduce some of the volatility in higher risk assets that are
+in our long dated portfolio, just to keep our risk levels in line, and so that's led to gains. And the gains turned out to be a
+little bit higher than we thought in the quarter because it's just been such a strong financial market. As we've sold those
+down, we've had greater benefit.
+<A - Derek K. Aberle>: Tal, this is Derek. On the ASP for the quarter, I think really the primary driver was the fact
+that we got, we had less volume in than we expected at the lower tier devices in China. That's really the primary driver.
+On your second question, really the under-reporting, it's not an issue of kind of a new technology issue as you
+described it, meaning licensees taking a position that they don't owe royalties on a particular product or technology
+under their agreement. We really think it is just as we dig into this, we believe we will find that they're only reporting
+something less than 100% of their sales and hoping they're going to be able to get away with it.
+And again, we've always been very clear that the effort involved in making sure we collect on everything in China is
+significant, and we have a lot of resource in that. And we triangulate a lot of different information, and the information
+that we get from MediaTek is one element. And certainly having less information makes things a little more difficult
+than having more information, but that, we don't believe, is the primary indicator for what's going on here.
+Operator
+Your next question comes from the line of Mark Sue with RBC. Please go ahead with your question.
+<Q - Mark Sue>: Thank you. Gentlemen, historically, when Qualcomm worked and settled with the Korean vendors,
+the Japanese or even the European vendors, we've always had a subsequent resolution and subsequent recovery. And
+along the way there was a little bit of give or take which then sets a precedent. China just seems like a whole new
+animal in terms of the size and the scope, so conceptually, should we think about just kind of the different structural
+rate going forward considering that there's a balance of bargaining power that seems to be shifting? And then how do
+we kind of containerize what happens in China so that it's not reflected by others as a precedent? And also,
+additionally, is there additional OpEx that we should be thinking about in terms of the cost of doing business in China?
+Auditing the extra data, for example. Thank you.
+<A - Derek K. Aberle>: Yeah, I'm not sure, again, I think the way that we've been handling China is very similar to
+the way that we've addressed our licensing program worldwide, very consistent. You are right that I would say the
+typical resolution of these things when there's a period of uncertainty and a period of time where amounts are not being
+paid to us that we believe are recoverable, that resolution usually carries with it some kind of recovery for past, and I
+have no reason to believe wouldn't also be the case with the items that we've outlined.
+Again, we look at the compliance activity very carefully, and that's a meaningful part of the program. It has been for
+several years. The number of audits that we do has increased pretty much every year, but we do have, I think we do
+have a reasonable amount of resource on that and we have that in the plan. I don't see a significant increase in OpEx
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 14 of 15
+that would be needed to address the issues.
+Again, our best assessment is that these are near-term challenges that, given the period of uncertainty we have, may
+take some time to resolve, but will get resolved, and we'll just have to see how this plays out as we move forward.
+Operator
+Your next question comes from the line of Rod Hall with JPMorgan. Please go ahead with your question.
+<Q - Rod B. Hall>: Yeah, hi, guys. Thanks for the question. I guess I had a couple. Derek, I wondered if you could
+talk a little bit about the likelihood this turns into a collective bargaining situation or if it is already there and if that's
+the case, who the negotiator on the other side of the table would be? Would it be a consortium of these companies or
+some representative of them? So if you could just kind of talk about how you expect this to play out. Is it a single deal
+you do with all of the companies, or do you do individual deals with everybody?
+I also, I wanted to go back to the question on the reports that – or the question on the chips and the involvement of the
+chips in this. I mean, it seems clear that that 215 million number involves people pulling CDMA royalties from you that
+they had already agreed to pay. So why wouldn't chips at some point get involved in this? If the negotiation drags on, is
+there any good logical reason why that wouldn't happen? Just be curious to hear that.
+And then lastly, given it's – the fun place that China is to do business, we've also got these reports, the government's
+talking about limiting high-end marketing spending from the carriers. I wonder if maybe, Steve, since you're there,
+could you comment on what's going on with that. Is that a real issue? Is that something that's going to impact high-end
+smartphone demand over time? Be interested in some color on that. Thanks.
+<A - Derek K. Aberle>: Rod, hey, this is Derek. Let me try to take the first two, and then Steve can cover the last one.
+So again, our – we have sort of two things, right. We have – we do have the NDRC investigation ongoing and as we've
+said, we're actively engaged with them to try to find a resolution. We don't know exactly what the impact or the
+resolution will look like, both looking backwards or looking forward. We're just continuing to try to work that one and
+get to a resolution.
+Beyond that, we don't anticipate that there will be sort of a need or a movement to collective negotiation with
+companies in China. That's not been the practice that we've followed successfully over the last many number of years.
+And that continues to be the way that we were operating. We're basically in discussions with individual companies
+which – every company has different needs, different business models, et cetera. And so, a collective deal really isn't
+typically appropriate in any event. So I expect going forward we'll continue to negotiate like we have in the past,
+individually with the various companies and that won't be a change.
+On the chip side, I'm not sure I fully understood your question but let me try to answer it as best I can. Certainly if you
+look at the magnitude of the number of units that we have, kind of in this range, there are – we do expect that there will
+be products in that mix that aren't reported to us for a period of time that could include our chipsets. Our typical
+practice when that has happened in the past, is to engage with the licensee and try to work it out and find a resolution
+and pursue payment under the license, without an impact on the chip side. And that's what we would plan to do here as
+well.
+<A - Steven M. Mollenkopf>: And, Rod, this is Steve. There have been reports about the level of subsidy changing in
+China. I don't know to the degree that we're seeing that reflected in the demand. I mean, if you look at the raw number
+of dollars that are actually authorized, it's quite a number. And I would say I would characterize our demand across
+tiers to be fairly robust. So I'm not sure we're seeing a downstream impact on that, of that concern.
+Operator
+Your next question comes from the line of Anil Doradla with William Blair. Please go ahead with your question.
+Company Name: Qualcomm
+Company Ticker: QCOM US
+Date: 2014-07-23
+Event Description: Q3 2014 Earnings Call
+Market Cap: 136,763.52
+Current PX: 81.60
+YTD Change($): +7.35
+YTD Change(%): +9.899
+Bloomberg Estimates - EPS
+Current Quarter: 1.381
+Current Year: 5.166
+Bloomberg Estimates - Sales
+Current Quarter: 7120.063
+Current Year: 26619.194
+Page 15 of 15
+<Q - Anil Kumar Doradla>: Hey, guys. If I recall, Derek, some time ago you talked about maybe all the licensees not
+due until 2017. I think that was a comment you made maybe in a year or a year and a half ago. Can you give us an
+update on that from beyond the Chinese guys? And as a follow-up, Broadcom obviously is exiting the baseband
+business. They talked about even writing down all of that stuff. What immediate impacts have you seen in your
+business with them getting out of baseband? Thanks.
+<A - Derek K. Aberle>: Anil, this is Derek. So I think – straining my memory a little bit, but let me try. Going back
+several years ago we did talk about, at one point in time, we had basically five WCDMA licenses that had to get
+extended before that timeframe that you mentioned, 2017, 2018. And then we kind of knocked all of those off some
+time ago. We haven't really updated that or given color as to whether there are other agreements that need to be
+extended beyond that, so that's a little bit of a dated number, and I don't think we're prepared to update that today.
+Warren Kneeshaw
+I'd like to thank each of you for joining us here today. Brent, we're ready to wrap up the call.
+Operator
+Thank you, ladies and gentlemen. This concludes today's conference call. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

@@ -1,0 +1,712 @@
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 1 of 13
+Q2 2014 Earnings Call
+Company Participants
+• Patricia Murphy
+• Martin J. Schroeter
+Other Participants
+• Bill C. Shope
+• Toni M. Sacconaghi
+• Kathryn Huberty
+• David M. Grossman
+• Ben A. Reitzes
+• Louis R. Miscioscia
+• Steven M. Milunovich
+• Tien-Tsin Huang
+• Sherri A. Scribner
+• Brian J. White
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome, and thank you for standing by. At this time, all participants are in a listen-only mode. Today's conference is
+being recorded. If you have any objections, you may disconnect at this time.
+Now, I will turn the meeting over to Ms. Patricia Murphy, VP of Investor Relations. Ma'am, you may begin.
+Patricia Murphy
+Thank you. This is Patricia Murphy, VP of Investor Relations for IBM. I'm here with Martin Schroeter, IBM's Senior
+Vice President and CFO, Finance and Enterprise Transformation. I want to welcome you to our second quarter earnings
+presentation.
+The prepared remarks will be available in roughly an hour, and a replay of this webcast will be posted by this time
+tomorrow. I'll remind you that certain comments made in this presentation may be characterized as forward looking
+under the Private Securities Litigation Reform Act of 1995. Those statements involve a number of factors that could
+cause actual results to differ materially. Additional information concerning these factors is contained in the company's
+filings with the SEC. Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+Our presentation also includes certain non-GAAP financial measures, in an effort to provide additional information to
+investors. All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC
+rules. You will find reconciliation charts at the end of the presentation, and in the Form 8-K submitted to the SEC.
+Now, I'll turn the call over to Martin Schroeter.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 2 of 13
+Martin J. Schroeter
+Thank you for joining us today. Our second quarter and first half results reflect the stability of our overall business
+model as we transform the company. Looking at the dynamics of our portfolio, we're continuing to drive double-digit
+growth in the parts of our business that address the emerging trends in enterprise IT. We had stability in our core
+franchises where we continue to drive innovation. We're dealing with secular shifts in parts of our hardware business
+and as we shift to higher value, we have the impact of a divested business.
+Overall, our year-to-year revenue performance improved from last quarter at actual rates, and was fairly consistent at
+constant currency. We expanded margins and we grew earnings per share. The profit dynamics also reflect the actions
+we've taken to transform our business. I'll get into that shortly.
+In the first quarter, you'll remember that we announced a number of initiatives that support the shift to our strategic
+areas of data, cloud, and systems of engagement. These included the launch of Bluemix, which is our cloud
+platform-as-a service for the enterprise. It included a $1.2 billion investment to globally expand SoftLayer cloud hubs,
+and it included a $1 billion investment to bring Watson's cognitive capabilities to the enterprise.
+In the second quarter, we made progress to implement these initiatives, including in June, Bluemix became generally
+available, we opened new SoftLayer data centers, we started to ship POWER8, and expanded the OpenPOWER
+consortium, and we completed substantially all of the divestiture of our customer care business.
+More recently, we announced additional actions to continue our shift to higher value. You saw last week that we're
+investing $3 billion over the next 5 years in research and in early stage development to create the next generation of
+chip technologies. Those will fuel the systems required for cloud, big data and cognitive systems. And just a couple of
+days ago IBM and Apple announced a strategic global partnership to provide a new level of business value from
+mobility, for enterprise clients.
+The underlying theme of all of this from the expansion of our cloud platforms and capacity, to the OpenPOWER
+consortium, to the partnership with Apple for enterprise mobility, to next generation chip technologies, is that we're
+leveraging our unique strengths in innovation and enterprise capabilities to maintain our differentiation in the emerging
+areas of enterprise IT. While some of these actions impact our results in the short term, they better position our business
+for the long term.
+For the quarter, we delivered revenue of $24.4 billion and operating earnings per share of $4.32. Our revenue was
+down 2% or down 1% at constant currency adjusting for the customer care divestiture. We improved gross margin by
+10 basis points, the 22nd consecutive quarter of operating gross margin expansion. Our pre-tax and net margins are up
+significantly.
+Last year's profit base was lower due to a workforce rebalancing charge of about $1 billion. We took a charge of a
+similar size in the first quarter of 2014, and so on a six-month basis, the charges are fairly neutral to profit growth. On
+the bottom line, we reported operating earnings per share of $4.32 in the second quarter, which is up 34%, and we
+generated $3 billion of free cash flow, which is up $300 million over last year.
+Let me spend a minute on the first-half performance. The revenue performance for the half is very similar to the second
+quarter. Through six months, we had double-digit revenue growth in strategic initiatives, stable performance in our core
+franchises and the impact of some secular trends in parts of hardware and from the divested business.
+Looking at profit, we expanded gross margin 50 basis points, pre-tax margin by 70 basis points and net margin by 50
+basis points, all while shifting investment to key areas. Operating earnings per share for the first half were up 9.5%. We
+generated free cash flow of $3.6 billion, which is down $800 million, though up $400 million without the higher level
+of cash taxes we paid in the first half.
+So now, I'll get into the details of the quarter starting with revenue by geography on a constant currency basis.
+Americas' revenue was up 1% year-to-year, a three point sequential improvement from the first quarter rate. From a
+regional perspective, the U.S. rate also improved three points and we had another great quarter in our Latin America
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 3 of 13
+region. The improvement in the Americas was driven by the strong System z mainframe performance. EMEA declined
+this quarter. Within Western Europe, we had continued growth in Germany and Italy, though the U.K. and France were
+down. Eastern Europe also declined.
+Our performance in Asia-Pacific was pretty consistent with last quarter. We had another good quarter in Japan, our
+seventh consecutive quarter of revenue growth in the country. Asia-Pacific outside of Japan declined at a double-digit
+rate.
+In total, major markets were down 1% while growth markets were down 4%. Within the growth markets, the BRICs
+were up 1% which is a seven-point sequential improvement from the first quarter rate. The improvement was driven by
+Brazil, India and China, each up between 9 points and 10 points sequentially. Brazil grew over 20% year-to-year,
+driven by large deals in the financial sector, and India returned to growth. Our revenue in China was down 11%,
+effectively halving the rate of decline from the last couple of quarters. So this is a change in trajectory in China but we
+haven't yet seen improvement in the other Asia-Pacific countries. Put it all together and we had modest sequential
+improvement in our growth markets' performance.
+Turning to the segment perspective, our Services revenue was up 1% adjusting for the sale of the customer care
+business. Global Technology Services performance at constant currency was similar to last quarter with growth in
+cloud and a ramp in the large outsourcing contracts we signed last year. Global Business Services once again had very
+strong growth in the practices that address the digital front office, however, performance in the globally integrated
+enterprise offerings lagged.
+In Software, middleware is up 3% while operating systems were down, resulting in modest reported growth for total
+software. We're continuing to drive strong results in strategic areas like mobile and security as well as in some of our
+core franchises like our app servers and distributed databases. While still down, our hardware year-to-year revenue
+performance improved significantly from the first quarter rate, driven by our System z mainframe, System x and
+Storage.
+Looking at the gross profit, in total, our operating gross margin improved modestly. The increase was driven by margin
+improvement in Global Technology Services and an improving mix. This was mitigated by margin declines in Global
+Business Services and in Systems & Technology. When you look at gross profit dollars, the year-to-year decline was
+driven entirely by our Systems & Technology business. Aside from STG, our gross profit is flat, even after a $70
+million impact from the divested customer care business and while we transition to some of the emerging areas where
+the profit and margins will benefit from scale.
+Our total operating expense and other income was better by 14% year-to-year. Acquisitions over the last 12 months
+drove two points of expense growth. And for the last three years, acquisitions have contributed between one points and
+three points of expense growth each quarter. Currency drove one point of expense growth. So base expense, which is
+total expense less the impact of acquisitions and currency, was down 17 points.
+There is one large item that is impacting the year-to-year expense dynamics. As I mentioned earlier on the call, we had
+a $1 billion workforce rebalancing charge in the second quarter of last year. This impacted the base performance by 12
+points. So without the impact of that item, our base expense would have been better five points year-to-year. This is a
+better indication of the productivity in the base.
+The other item I'll mention is the gain of over $100 million from the sale of our customer care business associated with
+the country closings we completed in the second quarter. This is in other income and expense. Keep in mind, the
+divested business removed about $70 million gross profit. Within our base expense, we're also continuing to shift our
+spending to drive our strategic imperatives and differentiated offerings. The substantial investments we're making in
+cloud, which includes Bluemix and Watson and in chip innovation are examples of this.
+Now, let's turn to the segments and we'll start with Services. This quarter, the Services business generated $14 billion in
+revenue, which was down 1% at constant currency. This is where we see the impact of the customer care divestiture in
+the year-to-year results. So adjusting for that divestiture, total Service revenue was up 1% year-to-year. Services
+pre-tax profit was up 26% and margin improved over four points. I'll discuss the profit drivers within the brand details.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 4 of 13
+Total backlog was $136 billion. We've reduced backlog by nearly $4 billion when we divested the customer care
+business in January. Adjusted for the divested business, total backlog was down 1% at spot rates.
+Global Technology Services revenue was $9.4 billion, down 1% as reported but up 2% at constant currency adjusted
+for the divestiture. SoftLayer contributed about one point to GTS revenue growth in the quarter. We're expanding our
+footprint, and in the second quarter, we opened a cloud data center in Hong Kong and followed that with London
+earlier this week. We'll continue to roll out additional capacity in the third and fourth quarters.
+GTS Outsourcing, one of our core franchises, continued to improve with revenue growth of 2% at constant currency,
+adjusted for the divestiture. Revenue growth was driven by the substantial new contracts we brought on in 2013 and we
+expanded gross margin.
+GTS pre-tax profit was up significantly in the quarter. The profit performance was driven by several key factors. First,
+we're continuing to make investments in key growth areas such as mobility, security and cloud. These investments
+result in a differentiated set of capabilities that complement our clients' systems of record, and are a good example of
+how we continue to evolve our core franchises. Second, profit reflects the gain from the completion of several country
+closings in the customer care divestiture, partially offset by the profit lost from the divested business. Finally, we have
+the benefit from the past rebalancing actions. The year-to-year growth also reflects the absence of workforce
+rebalancing charges compared to last year.
+Turning to Global Business Services, revenue of $4.5 billion was down 2%. Consulting and Systems Integration grew
+1% and flat at constant currency. We had strong double-digit growth in our practices that address the digital front
+office, particularly in cloud, analytics and mobile. This was offset by declines in our traditional packaged application
+implementations. As our digital front office offerings become a larger part of the portfolio, they will contribute more
+meaningfully to top line performance.
+Two days ago, we announced a strategic partnership with Apple to deliver a new class of enterprise-ready MobileFirst
+business applications for iOS. With this partnership, IBM's consultants and other client-facing specialists will help
+expand mobile device productivity, enabling big data and analytics at the point of contact.
+Application Outsourcing was down 9%, in line with last quarter's results. Our performance continues to reflect pricing
+pressure and client contract renegotiations, as well as a reduction in elective projects. GBS pre-tax profit grew 34%
+year-to-year and reflects both year-to-year benefit in workforce rebalancing charges and the impact of lower revenue on
+a relatively fixed cost base.
+Software revenue of $6.5 billion was up 1% and flat at constant currency. Middleware grew 3%, and within that, the
+branded middleware was flat at constant currency on a tough compare from last year. We had good growth in several of
+our strategic areas: cloud, big data and analytics, mobile and security. Across our software brands,
+software-as-a-service offerings are growing very quickly. This quarter, our SaaS offerings grew by nearly 40%.
+Looking at our results by brand, WebSphere had another good quarter, up 5% at constant currency, led by app server,
+commerce and mobile solutions. Both on premise and SaaS offerings contributed to WebSphere growth, with the
+majority of WebSphere growth coming from on-prem solutions.
+Our Application Server business delivered strong growth with an increase in demand for on-premise software that was
+driven by mobile and analytics workloads. We continue to have strong growth in MobileFirst, leveraging over 5,000
+mobile experts and our expanding capabilities. Supporting our partnership with Apple, our Software Group will
+develop unique enterprise cloud services needed for iOS to deliver the full enterprise class mobile experience from
+analytics to cloud storage and data security.
+Information Management Software was down 2% at constant currency. Once again, relational database grew, though
+some product areas in the brand faced tough compares. Tivoli revenue was up 3% at constant currency, driven by
+security software. This is the 11th consecutive quarter of growth in security software with most of those quarters up
+double digits, so also every quarter since we acquired Q1Labs and built our security division around that acquisition
+supplemented by additional analytics capabilities.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 5 of 13
+Workforce Solutions declined 8% at constant currency as we transition from on-premise Notes to our SaaS offerings.
+Across software, we are transitioning our portfolio to capture growth areas and we continue to drive innovation in our
+core franchises. We're growing and building capabilities in emerging areas like software-as-a-service, mobile and
+security, and also in more traditional areas such as application server and relational database as new growth areas drive
+the need for on-premise capabilities. This quarter, we faced a difficult compare. We expect our revenue growth to
+accelerate in the second half.
+Systems & Technology revenue of $3.3 billion was down 11%. This is a significant improvement in the year-to-year
+performance compared to last quarter. The improvement was driven by System z as well as sequential improvements in
+System x and Storage. This together with actions to align our structure to the demand profile resulted in progress in
+stabilizing our profit.
+Looking at our results by brand, System z revenue was down 1% on flat MIPS, which is significant performance in the
+seventh quarter following the product announcement. In the quarter, we had large deals in the financial sector in China,
+the United States and Brazil. When you compare this cycle to-date versus the prior cycle, we have shipped 25% more
+MIPS and the STG revenue and gross profit are each about 98% of the previous cycle net of currency.
+The System z platform is one of our core franchises benefiting from IT trends. The value proposition for z becomes
+stronger as the scale of data and transactions grow as well as the need for security of that data and those transactions.
+Power revenue declined 28%. The year-to-year performance reflects fundamental changes in the business, and as we
+have talked about in past calls, we have taken actions to align our structure to the demand profile, while investing to
+address where we see opportunity in the future. First, we launched entry-level, or scale-out POWER8 in June, and had
+a good start compared to previous cycles. Keep in mind that entry-level is a small portion of the Power business.
+POWER8 will be introduced into the mid-range and high-end segments over the remainder of the year.
+And second, we expanded our OpenPOWER consortium, doubling the number of alliance members in the second
+quarter. At the end of June, we had 36 members across 10 countries including 9 in China, so, globally diverse. The
+membership is across the stack, from chip designers, to hardware component OEMs, to system vendors, to middleware
+and software providers. With this alliance, members have access to high end technology, as the Power architecture is
+available for open development and to integrate new designs into their hardware platforms. For example, alliance
+members can design and control their own encryption.
+Our System x revenue was down 3%, which is an improvement from last quarter when revenue was down 18%. As you
+know, we're in the process of divesting this business to Lenovo and are awaiting regulatory approvals. Storage
+Hardware revenue was down 12%, a sequential improvement from the rate in the prior quarter. We saw strong growth
+in our Flash Systems as we doubled our revenue over last year, and in our StorWize portfolio, which was up
+double-digits. However, this was more than offset by weakness in high-end disk, and the continued wind-down of our
+OEM business. We had a number of launches this quarter including the V7000 update to our StorWize portfolio and
+Flash-enabled DS8K.
+As we have discussed over the last couple of earnings calls, our focus for STG in 2014 is to stabilize the profit base,
+and after the first half, we are on track. Within that envelope, we will continue to make investments in this business to
+remain the leader in high-performance, high-end systems. Our announcement last week to invest $3 billion over the
+next five years to tackle the challenges of the post-silicon era demonstrates our commitment to innovation and to
+leading in the new era of enterprise IT.
+Moving on to cash flow in the quarter, we generated $3 billion of free cash flow, which was up $300 million
+year-to-year. Through the first half, our free cash flow of $3.6 billion was down $800 million year-to-year. This
+performance was impacted by the significant increase in cash taxes in 2014, which I talked about earlier this year.
+Without the impact of cash tax payments, our free cash flow was up $400 million year-to-year.
+Looking at the uses of our cash in the first half, we spent $600 million on acquisitions including Silverpop and Cognea
+in the second quarter. We returned $13.9 billion to shareholders. Of that $11.8 billion was in gross share repurchases,
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 6 of 13
+and at the end of June, we had $3.1 billion remaining in our buyback authorization. In June, we reached a milestone.
+We finished the month with fewer than a billion shares outstanding. Let me put this in perspective. We started our share
+repurchase program in 1995 when we had more than 2 billion shares outstanding.
+So we've reduced our share count by more than 50% and the average price we've paid from the start in 1995 through
+June 30 of this year is less than $100 per share. We took our dividend up 16% in April and through June we paid out
+$2.1 billion this year. This is the 19th consecutive year that we raised our dividend and 11th year in a row of
+double-digit increases. With our cash flow performance in the first half, we are on track to generate $16 billion of free
+cash flow for the year.
+Turning to the balance sheet, we ended the quarter with a cash balance of $9.7 billion. Total debt was $46.5 billion,
+which includes over $29 billion to support our financing business. The leverage in our financing business remains at
+seven to one. Our non-financing debt was $17.1 billion and our non-financing debt to capital was 56%. As I mentioned
+last quarter given the skew of free cash flow, we expect our debt to cap to be in the 50%s through the third quarter and
+roughly flat year-to-year at the end of the year. We continue to have the financial flexibility to support our business
+over the long-term as we transition to the new areas of enterprise IT.
+So now let me wrap up the discussion of the first-half results and put it in the context of what we discussed at our
+investor day in May. We have a set of offerings that address the strategic areas of data, cloud and the way our clients
+are engaging. We said that the model was to deliver double-digit revenue growth for these areas with high software
+content. Our first-half results were consistent with that part of the model. Our business analytics revenue was up 7% on
+a large base and cloud revenue was up over 50%, with our as-a-service business doubling once again. Our security
+revenue was up over 20% and we more than doubled our revenue in mobile. Together, the revenue in our strategic
+imperatives was up double digits, and about half of the content was in software.
+At the same time in May, we discussed our core franchises where we continue to innovate. These include our
+longer-term services business, our recurring software business and mainframe business with our large-capacity clients.
+The model has a stable revenue base and we are on track here too. Finally, we have transactional businesses that are
+shifting to higher value. We're continuing to evolve the portfolio, investing in capabilities in some areas while divesting
+businesses that don't support our shift to high-value. In the first half, we completed the sale of our customer care
+business and announced the sale of our industry-standard server business to Lenovo. These impact our top line
+performance but are clearly the right moves for us for the long term.
+We continue to drive the shifts. Let me summarize what we've gotten done in the first half of this year. We took
+Bluemix live, we're adding new SoftLayer cloud hubs and we're ramping our investment to commercialize Watson.
+We've introduced POWER8 for big data and cloud at the entry-level and are expanding our OpenPOWER consortium.
+And we've committed $3 billion to drive chip innovation while launching an important new partnership with Apple to
+extend IBM's position in the enterprise mobile space.
+When you put all of this together, for the half, revenue was relatively flat at constant currency, adjusting for the
+divestiture. Pre-tax margin expanded by 70 basis points and net margin by 50 basis points, and operating earnings per
+share were up 9.5%. As we look to the full year of 2014, we expect to deliver at least $18 of operating earnings per
+share, and we still expect to deliver at least $20 of operating earnings per share in 2015. These are points along the way
+to delivering performance and shareholder value over the long-term.
+Now Patricia and I will now take your questions.
+Patricia Murphy
+Thank you, Martin. Before we begin the Q&A, I'd like to mention a couple of items. First, we have supplemental charts
+at the end of the slide deck that provide additional information. And second as always, I'd ask you to refrain from
+multi-part questions.
+Christine, please open it for questions.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 7 of 13
+Q&A
+Operator
+Thank you. [Operator Instructions] The first question comes from Bill Shope with Goldman Sachs. You may ask your
+question.
+<Q - Bill C. Shope>: Okay. Great. Thanks. Can you comment on how you're currently thinking about the potential for
+stabilization and perhaps even growth in the Asia Pac ex-Japan region? Obviously, you saw some improvement in
+China, but in terms of the overall region, how should we think about the revenue and profit trajectory from here? And
+then, I guess related to that on the profit side, can you walk us through some of the permanent changes you're making
+to your cost structure in that region specifically?
+<A - Martin J. Schroeter>: Sure, Bill. Good afternoon. I guess I'd say a couple of things. As you noted, we did see a
+pretty good sequential improvement in China and in India as well in the second quarter. But as we noted in the prepared
+remarks, we did not see that sequential improvement in AP. And notably within that, I would say we saw degradation
+in both Australia and Korea within that AP geography. Now when we look forward in China, we still see a continued
+improvement in the sequential performance out of China.
+Now, it's important to note I think, it's important to note in China even though we were still down year-to-year,
+sequentially not only did we see a year-over-year improvement but our business in China was about an $800 million
+business in the first quarter, and in the second quarter, it was over $1 billion. So we see a very typical sequential skew
+in China which is growth in the second. So again, as we see that year-to-year sequential improvement in China that we
+expect, this is still a substantial business for us.
+Now, we did not see and we do not see yet a material change in the trajectory in the rest of Asia Pacific. As I noted,
+Australia and Korea were slow in the second and we don't see that. Outside that area, I'll comment also on some of the
+other growth markets. Latin America as an example, as you heard in our prepared remarks, had another strong quarter
+again led by Brazil, which was up double-digit. And although they're going to wrap on a strong second-half from last
+year, we still see good performance coming out of Latin America.
+From an investment perspective, we have made substantial commitments to those growth markets, and we see good
+opportunity to deploy the IBM platform and we would – and we continue to invest in those growth markets to get that
+IBM platform deployed across the growth markets.
+<A - Patricia Murphy>: Thanks, Bill. Let's go to the next question, please.
+Operator
+The next question comes from Toni Sacconaghi with Sanford Bernstein. You may ask your question.
+<Q - Toni M. Sacconaghi>: Yes. Good afternoon, Martin. I appreciate all the investments and the pace of change that
+IBM is undertaking and accomplished so far in the first half. I guess the question that I hear a lot from investors is, is
+that change big enough to offset what appears to be deterioration or secular pressures in the core franchise? So very
+specifically coming out of last quarter, you did not have a good Software quarter. You were optimistic that Software
+would be notably better this quarter. It was worse. It was flat at constant currency. Similarly when I look at Services,
+which is really the other big core part of your franchise, Services signings are now down 33% for the first half. The
+signings this quarter were the lowest in more than six years in absolute term and you've gone nine straight quarters with
+negative revenue growth in services.
+So very specifically, can you address what was the shortfall in software this quarter relative to much more positive
+expectations you had coming in? And secondly, when you look at services given the preponderance of data I just
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 8 of 13
+offered to you and given the leading indicator of signings being so weak, what secularly is going on there and how does
+the business get better from here?
+<A - Martin J. Schroeter>: Sure. Thanks, Toni. There's a lot there so let me try to talk a bit about Software first and
+talk a bit about Services next. So first on Software, my view 90 days ago was that Software would get – would
+accelerate through the remainder of the year and I still feel like in second half, we will see Software acceleration back
+to mid-single-digit growth.
+Now in the second quarter, we saw a couple of things. One, the headwind that we have in that total Software segment
+from the operating system content was three points and that's kind of the high point, if you will, of the headwind in –
+that we expect from that operating system content. So that headwind diminishes a bit. And then secondly, we continue
+to see very good Software performance coming from our kind of typical enterprise license agreements as we go through
+the second half again to drive that mid-single-digit revenue.
+On Services, Services we said 90 days ago that we would see revenue performance kind of consistent with what we
+saw in the first quarter and we still feel that way. Services was, when you adjust for the divestiture, Services was up a
+point and we continue to see that. Now as you noted, we had a weak signings quarter in the second. Now that was on
+the back of first quarter last year of – signings growth first and second quarter of last year of north of 30%. So we had a
+difficult compare. We knew that in the first half, but we do see getting that signings content growing again in the third.
+And so when we look at the revenue streams for Services, again we expect them to be consistent with what we have
+seen to date. I think we feel as though the yield we're getting out of the in-period revenue is a bit better than what you
+would normally do if you just ran it mathematically, we're getting a better yield. Two, we have outside of the backlog,
+you see we have content – the transactional content like our cloud business, which continues to grow. And then third,
+we will, as I mentioned, get additional third quarter signings growth that will deliver the rest of that pretty modest 1%
+growth on an adjusted basis without the divestiture going forward.
+<A - Patricia Murphy>: Thanks, Toni. Let's go to the next question, please.
+Operator
+The next question comes from Katy Huberty with Morgan Stanley. You may ask your question.
+<Q - Kathryn Huberty>: Thanks. As a follow up to the last question on the weaker software and signings numbers,
+did you in fact see deal push-outs in the quarter? And if so, what do you think caused that? And have you been able to
+close the business in the third quarter?
+<A - Martin J. Schroeter>: There were deals, Katy – good afternoon, by the way – there were deals that come in. I
+don't know. I would not characterize it as a deal push-out. There are a few phenomenon though that I think are worth
+noting. In our key branded-middleware business, it's a mix of both transactional content as well as subscription and
+support, which comes in over time. So it's a mix of transactional content and subscription support, but very heavily
+transaction content. In our total middleware business, so in the other middleware that comprises that total middleware
+business, we have a mix as well, some transactional content and some subscription content but the mix is kind of
+flipped in that case. So there's a lot more subscription content.
+What we see in any given quarter, you can see this kind of mix shift. We saw much higher transactional content in that
+total middleware line and then the key branded middleware quarter-to-quarter behaved very similarly as what we saw
+in the first quarter. So last year in key branded middleware, first to second quarter we grew that content just under $800
+million quarter-to-quarter. And that delivered 10% growth by the way. This year, we grew that same key branded
+middleware a bit over $800 million, so a bit more than last year, but because of the strong compare, that drove a flat
+year-to-year performance. So we have a phenomenon of different mixes between transactional and subscription support
+and we have quite frankly a tough compare in key branded middleware.
+<A - Patricia Murphy>: Thank you, Katy. Can we go to the next question, please?
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 9 of 13
+Operator
+The next question comes from David Grossman with Stifel, Nicolaus. You may ask your question.
+<Q - David M. Grossman>: Thanks. Martin, I think you had mentioned that free cash flow is down $800 million
+year-over-year for the first six months and I think the math suggests that about $1.2 billion of that $2 billion cash tax
+headwind is reflected in that figure. So assuming that $18 in earnings is a good number, how much visibility do you
+have on the change in working capital at this point in the year and your ability to hit that $16 billion free cash flow
+target for the year?
+<A - Martin J. Schroeter>: Sure. Thanks, David. Good afternoon. I'd say there are a couple of phenomenon that are
+going to drive that free cash flow. First, as you pointed out, when we make earnings – I guess I'd say it this way, when
+we make earnings, we'll make the free cash flow number. And I think that phenomenon that drives that, obviously
+there's profitability skew in the second half here that drives, on an absolute basis, that drives that. And secondly, within
+the sales cycle working capital component, the other phenomenon is our enterprise license agreement cycle we're in.
+That software content drives a substantial amount of free cash flow as well. So between again the profit and the mix
+toward the second half as well as the phenomenon of the cash structure, if you will, of our ELA cycle, I think we have a
+very strong statement to say when we make profit, we'll make cash flow.
+<A - Patricia Murphy>: Thanks David. Can we go to the next question, please?
+Operator
+The next question comes from Ben Reitzes with Barclays. You may ask your question.
+<A - Patricia Murphy>: Ben, we can't hear you. Are you on mute?
+Operator
+Please check your mute button.
+<Q - Ben A. Reitzes>: Can you hear me now?
+<A - Patricia Murphy>: Yes, we can.
+<Q - Ben A. Reitzes>: Great. I'm sorry about that. Thank you. How about I wanted to ask about hardware and, sorry, a
+two parter but Mainframe down only 1% was a very big improvement from last quarter. So what happened there? And
+is that sustainable? And then, there are some reports out there and I know you're aware of them about what you might
+do with your chip making capabilities and you announced a very large investment commitment to your chip making
+R&D during the quarter or during this month, so can you just reconcile that? I think you understand what we're hearing
+out there and what is the commitment to the chip making business as well? Thanks so much.
+<A - Martin J. Schroeter>: Sure, Ben. A couple things. First on Mainframe, we did have a very strong Mainframe
+quarter, as you noted, just down 1%. And in the seventh quarter of a cycle, down 1% is quite good. Now in the first
+half, we were kind of down in the mid-teens, right. In the first quarter, we were down pretty healthy double-digit, down
+one in this quarter gets us to a down mid-teens, and that's very typical. That performance, that mid-teens is very typical
+of where we would expect the next couple of quarters to be, again, given the cycle.
+Now, I think the reason that the mainframe continues to do so well and we had in the prepared remarks that in this
+cycle, the revenue and the GP is roughly 98% of where it was in the prior cycle. This continues to be not only a core
+franchise for us, but it is a critical infrastructure that drives still 70% of the world's enterprise data. And as our clients
+are moving toward new systems of engagement and mobility and they what the most secure platform, the Mainframe
+remains the premier platform on which to drive a world-class enterprise structure. So I don't expect that we're going to
+see a minus one going forward, but I think that first-half performance is consistent with what we would expect.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 10 of 13
+And then on the semiconductors, as you said, we did announce a $3 billion investment in semiconductor research and
+development. And as we've said a number of times, it was in our chairman's letters to shareholders, we've been very,
+very vocal about our goal to remain the leader, the absolute leader, in high-performance and high-end systems. We're
+the leader today and we would expect with this kind of investment, we can continue to maintain that leadership. Now
+this R&D investment is clearly focused on the distant future where we have to figure out how to scale semiconductors
+to 7 nanometers, that's a big challenge, and then obviously we're also thinking about, as we indicated, what the
+post-silicon world looks like. So we remain committed to being the leader of high-performance and high-end systems
+and we have not changed our view on that at all. We've been very vocal about it and will stay on that path.
+<A - Patricia Murphy>: Thanks, Ben. Let's go to the next question, please.
+Operator
+The next question comes from Lou Miscioscia with CLSA. You may ask your question.
+<Q - Louis R. Miscioscia>: Okay. Maybe if I could link something about China and also your x86 business. I guess
+the question is, I continuously hear that the Chinese government is pushing away from big U.S. tech companies, but
+obviously the x86 business bounced back and it sounded like China bounced back. Is the sale of that helping the
+situation there? I guess I'll leave it at that.
+<A - Martin J. Schroeter>: Thanks, Lou. I guess, again, we saw a sequential improvement, as I noted earlier, in China
+quarter-to-quarter. And as I also noted, we would expect that sequential improvement to continue. Now interestingly, I
+would not characterize that sequential improvement as driven solely by x86 or any other of the single brands. In fact, it
+was across all of our segments, Global Technology Service, GBS, Software Group, STG, all showed sequential
+improvement in China and, in fact, when we look at our strategic imperatives content that sits in China, that was up a
+very solid double digit as well, which is consistent with the overall performance in our strategic imperatives, so really
+no difference from what we're seeing in our success in China from what we're seeing anywhere else in the world.
+<A - Patricia Murphy>: Thank you, Lou. Can we go to the next question, please?
+Operator
+The next question comes from Steven Milunovich with UBS. You may ask your question.
+<Q - Steven M. Milunovich>: Thanks. A couple of odds and ends, Martin. First of all on the share repurchase, you did
+I think $11.8 billion through the first half. Does that mean you have roughly $3 billion to do in the second half? And
+then second on emerging markets, I think in the annual report, that you guys suggested you would see emerging market
+revenue growth in the second half. Is that correct and does that still stand?
+<A - Martin J. Schroeter>: Good afternoon, Steve. On share repurchase, we have about $3 billion left in our
+authorization, and as we said in the past, we would expect to spend about what we did last year, maybe a little bit less. I
+don't think – I haven't changed my view on that capital allocation, but we do have about $3 billion left in our
+authorization. On growth markets, as I mentioned earlier, I would say that we would see a continued sequential
+improvement in growth markets, and as I noted earlier, LA is going to ramp on a strong second-half but continues to do
+quite well. AP, we do not see that sequential improvement yet.
+And I guess the other thing I'd point out that's worth noting particularly in the growth markets, we are in the process, as
+you know, of divesting our industry standard server business and that's going to have an impact on our revenue growth,
+and that's a profound impact in the emerging markets as well. So when we sell that content, that's going to be a pretty
+big headwind to growth for the emerging markets notwithstanding the sequential improvements that we see in the
+business.
+<A - Patricia Murphy>: Thanks, Steve. Let's go to the next question, please.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 11 of 13
+Operator
+The next question comes from Tien-Tsin Huang with JPMorgan. You may ask your question.
+<Q - Tien-Tsin Huang>: Great. Thanks, Patricia. Thanks, Martin. Just wanted to ask about the GBS portion of
+services. I saw revenue accelerated and margins contracted a bit. Curious how much of this is cyclical versus secular? I
+heard pricing pressure and [ph] package limitation (41:14) weakness, did you adjust your workforce last quarter to
+address these themes? Just trying to sketch out what the second half might look like given this trend.
+<A - Martin J. Schroeter>: Yeah, sure. Thanks very much. So a couple of things on GBS. So there are secular shifts
+going on in this space and we've been talking about our – how we're shifting toward, we refer to it as the digital front
+office or to talk about it as our cloud and our analytics and our mobile. That was – when we see that flow in our clients
+and we're obviously shifting both our resources, our skills, our training to that. We see very solid double-digit growth.
+We saw that in the second quarter.
+And in fact, we look at our pipeline going forward and over half of it is that kind of content. So there is absolutely a
+secular shift going on in that GBS space and we are in the middle of it and we are very competitive in that space. On
+the ERP implementations and some of some of the custom development work, I guess that what we are seeing is kind
+of fewer of those large rollouts and that combined with the large rollouts that do occur, we're seeing them being broken
+up into small pieces so they're not as large as they used to be.
+So I don't know if I would consider that secular or cyclical. Within that, our clients – where those back-office
+workloads are stable, our clients are still looking for additional productivity. And so obviously, we are in a bit of a
+battle to win there but they're looking for productivity and so we're still competitive. But other than the absolute secular
+shift toward cloud and analytics and mobile, which we're playing in and which we have very solid double-digit growth
+in, we'll have to wait to see if the rest is secular or cyclical.
+<A - Patricia Murphy>: Thanks, Tien-Tsin. Can we go to the next question, please?
+Operator
+The next question comes from Sherri Scribner with Deutsche Bank. You may ask your question.
+<Q - Sherri A. Scribner>: Hi. Thank you. I wanted to dig a little bit into what you're hearing in terms of global
+demand and thinking about the second half of the year. Are you hearing that businesses are starting to get a little more
+confident? I think you made some comments about the developed markets being a little bit better. And then thinking
+about that in terms of how it translates into the second half of the year, do you think you could start to see some flat or
+potentially some growth in revenue? Thanks.
+<A - Martin J. Schroeter>: Sure. So if we look at our major – we'll start with our major markets performance since
+I've talked a bit about the growth markets already. In major markets, we were flat year-to-year when we exclude our
+customer care business, which was an improvement sequentially in North America. And we also did quite well in North
+America in our Mainframe business and we saw sequential improvements in some of our other platforms as well
+including Power and Storage and x.
+So there is a sequential improvement story, if you will, in our North America business that we certainly benefited from
+in the second. In Europe, we saw a decline at constant currency, but we did see within that growth in our Services
+business. And so I would say that Europe is – I would expect Europe to see sequential improvement going forward, but
+it is a challenged environment from our experience.
+And then in Japan, we had a very solid performance again in Japan. This is our seventh consecutive quarter of growth
+in Japan as we noted in the remarks. Our Japan team does quite well and I think it's more than just macro. I think our
+Japan team is doing quite well. And then as I mentioned in the growth markets, we do expect to see sequential
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 12 of 13
+improvement going forward. And then again, all of this is in context from our own headwinds here in IBM. We do have
+– we have closed on our customer care divestiture, which is a headwind for the rest of us for the year for a bit over a
+point. And then as I noted earlier in my growth markets commentary, if we're able to close our industry-standard
+server, our xSeries divestiture, that'll also have a pretty substantial headwind for us as well.
+<A - Patricia Murphy>: Thank you, Sherri. Can we please take one last question?
+Operator
+The last question comes from Brian White with Cantor Fitzgerald. You may ask your question.
+<Q - Brian J. White>: Great. Martin, when we think about the Systems & Technology business, the profitability has
+swung from looks like $1.6 billion in 2011 to negative $300 million in 2013. Could you just delve into what was the
+biggest driver of that decline? And I also just want some clarity, do you think this business will be profitable in 2014?
+Thank you.
+<A - Martin J. Schroeter>: We're still focused, as we talked about in the beginning of the year, we're still focused on
+stabilizing the STG profit base for the year, right, the Systems & Technology Group profit base for the year. And I
+believe we are absolutely, absolutely on track to do that, to stabilize that profit base. The impacts against that profit
+base, when we look at last year and what we're trying to stabilize, there are, one, some cyclical issues. We have
+certainly seen this downturn in the emerging markets, which has an impact on hardware. And we've talked about that
+on prior calls, the mix of our STG business in the growth markets is higher than other places and therefore that
+emerging market slowdown had a more pronounced effect on STG. And so there is some cyclical issues there, and then
+we've talked about the mainframe cycle already a number of times.
+But in addition to that, we've had this secular issue around Power and trying to reposition that. And we've taken action
+pretty aggressively to make that platform the most viable for the future, including we just released POWER8, as an
+example, which is a Power platform built for the world of big data and analytics, and quite frankly built for the world of
+cloud. And then, we've also had a lot of success with our OpenPOWER initiative, which we've been able to expand
+again the alliance of those who will use and build on top of that.
+So a mix of cyclical and secular within that STG performance. But as we said at the beginning of the year, and we are
+confident with the actions we've taken both to address the secular and also we've taken a fair bit of cost out of that
+business to better suit the demand profile. We still see that business stabilizing and profit on a full-year basis.
+<Q - Brian J. White>: Thank you.
+Martin J. Schroeter
+Okay. So I'm going to wrap up the call. And I guess, first, I'll start with what we saw in the first half. We had very
+strong performance in the strategic imperatives, a lot of software content within that. And as we talked about at investor
+day, that's very important for our business model. The core franchises were relatively stable and that's also, as we said
+at investor day, important for our business model and we made some progress in addressing some of those secular
+issues in Power. I talked a little bit about that in the answer to a question.
+In the second half, we see, as I noted on an earlier question, we see our Software revenue growth accelerating to
+mid-single digit and we see our Services profit growth of mid-single digit driven by productivity in the base. And then
+on STG, as I just noted, we see that profit stabilization still.
+So when I think about the second half and how that plays out, as we did 90 days ago, I said that I think EPS in the
+second half will be a bit faster in the fourth than in the third. So kind of a double-digit fourth quarter EPS and a
+single-digit third quarter EPS. And bear in mind that that single-digit EPS growth even in the third because of
+seasonality kind of translates to no more absolute EPS than what we get in the second. So we still see that same mix
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2014-07-17
+Event Description: Q2 2014 Earnings Call
+Market Cap: 192,105.02
+Current PX: 192.49
+YTD Change($): +4.92
+YTD Change(%): +2.623
+Bloomberg Estimates - EPS
+Current Quarter: 4.423
+Current Year: 17.874
+Bloomberg Estimates - Sales
+Current Quarter: 23274.765
+Current Year: 97523.667
+Page 13 of 13
+skew toward the fourth quarter when we have the benefit of very strong software performance when the productivity
+hits and helps our margin in Services and we get that transactional benefit from STG.
+Well, thanks very much, everyone. Thanks for joining us, and have a good evening.
+Operator
+Thank you for participating on today's call. The conference has now ended. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

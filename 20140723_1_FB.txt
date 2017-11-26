@@ -1,0 +1,910 @@
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 1 of 17
+Q2 2014 Earnings Call
+Company Participants
+• Deborah Crawford
+• Mark Elliot Zuckerberg
+• Sheryl K. Sandberg
+• David M. Wehner
+Other Participants
+• Eric J. Sheridan
+• Heather A. Bellini
+• Douglas T. Anmuth
+• Ross A. Sandler
+• Justin Post
+• Mark S. Mahaney
+• Arvind Bhatia
+• Neil A. Doshi
+• Ken Sena
+• Brian T. Nowak
+• Brian J. Pitz
+• Colin A. Sebastian
+• Ben Schachter
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good afternoon. My name is Jay, and I will be your conference operator today. At this time, I would like to welcome
+everyone to the Facebook Second Quarter Earnings Conference Call. All lines have been placed on mute to prevent any
+background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions]
+Thank you very much. Ms. Deborah Crawford, Facebook's Director of Investor Relations, you may begin.
+Deborah Crawford
+Thank you. Good afternoon and welcome to Facebook's second quarter earnings conference call. Joining me today to
+talk about our results are Mark Zuckerberg, CEO; Sheryl Sandberg, COO; and Dave Wehner, CFO.
+Before we get started, I would like to take this opportunity to remind you that our remarks today will include
+forward-looking statements and actual results may differ materially from those contemplated by these forward-looking
+statements. Factors that could cause these results to differ materially are set forth in today's press release, and our
+quarterly report on Form 10-Q filed with the SEC. Any forward-looking statements that we make on this call are based
+on assumptions as of today, and we undertake no obligation to update these statements as a result of new information or
+future events.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 2 of 17
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to
+non-GAAP measures is included in today's earnings press release. The press release and an accompanying Investor
+Presentation are available on our website at investor.fb.com.
+And now, I'd like to turn the call over to Mark.
+Mark Elliot Zuckerberg
+Thanks, Deborah, and thanks everyone for joining us today.
+This was a good quarter for us and a good end to the first half of the year. We've continued to grow our community in
+size and engagement, with 1.32 billion people now connecting on Facebook each month and 63% of them visiting
+daily. Our momentum remains especially strong on mobile. There are now 829 million people using Facebook every
+day, with more than 650 million people using our services on mobile every day.
+One thing that's exciting is that there's still so much room to grow. On average, people on Facebook in the U.S. spend
+around 40 minutes each day using our service, including about one in five minutes on mobile. This is more than any
+other app by far. But overall, people in the U.S. spend about nine hours per day engaging with digital media on TVs,
+phones and computers. So, there's a big opportunity to improve the way that people connect and share across how we
+all engage with the rest of media as well.
+Now when it comes to our business, we continue to be pleased with our growth. This quarter, our total revenue grew to
+over $2.9 billion, and advertising revenue grew by 67% from a year ago. Mobile now accounts for 62% of our
+advertising revenue, which is a good sign of how the growth of our community on mobile is also producing better
+business results for our partners.
+The results this quarter show our continued focus on improving our core product and business. We're going to continue
+investing aggressively in areas that are important for our mission and long-term strategy, but we're also going to stay
+focused on our core product and business. This is the best way for us to continue creating value for our community.
+Now let's talk about how we're making progress in our three big company goals: connecting everyone; understanding
+the world; and building the knowledge economy.
+Our strategy for connecting everyone has two basic approaches. Our first approach is Internet.org, our effort to bring
+affordable Internet access to every person in the world. Our second approach is about giving everyone more tools for
+connecting, so they can share all the different kinds of content they want with the right people. Instagram, Messenger
+and our Creative Labs apps are a part of the second approach.
+So, with Internet.org this quarter, we've continued to deepen our partnerships with mobile operators and lay the
+foundation for running tests in more countries. Already, our initial partnerships in the Philippines, Paraguay and
+Tanzania have helped around 3 million people connect to the Internet who had no access before. We're really proud of
+these early results.
+In June, we acquired Pryte, which has a lot of expertise bringing affordable Internet access to communities, by
+partnering with mobile operators, app developers and content providers. Later this year, we expect to launch a broader
+set of free basic Internet services in a number of other countries as well.
+In our app efforts, we're continuing to build momentum with messaging. People now send more than 12 billion
+messages a day on Facebook; and in April, we reached 200 million monthly actives on Messenger.
+Last month, we announced that David Marcus will be joining us from PayPal to lead our messaging efforts. We expect
+David to continue growing Messenger, building out new experiences to serve our community, and ultimately to build
+Messenger into an important business.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 3 of 17
+Instagram continues to make great progress in giving people new ways to share their stories through photos and videos.
+Last month, we made one of the biggest updates ever to Instagram by adding new creative tools that allow people to
+refine exactly how their photos look and feel. This is an important part of building out Instagram's capabilities as a
+platform, and serving the creativity of the Instagram community.
+Next, let's talk about understanding the world. As of last month, on average, more than 1 billion search queries are
+made every day on Facebook. This is a great milestone, and it shows we're in a unique position to answer a lot of
+questions for people. But this is just a start, and over the next few years, as we make progress on building out search
+and our broader efforts in Artificial Intelligence, I expect us to deliver even greater utility for people.
+Our progress on public content is also very promising. As part of helping people better understand the world, we want
+to help you connect around important public moments and personalities. And now, nearly 800 million people on
+Facebook are connected to public figures. These connections are driving conversations at a huge scale. During the
+World Cup, over 350 million people made over 3 billion interactions on Facebook.
+To enable even more of these conversations, we've improved the ranking of videos in News Feed and launched new
+APIs to help TV and media organizations use Facebook content in their productions. Public content will continue to be
+a growing focus for us over the coming months, and we plan to invest in building more great product and partnerships
+in this area.
+Now, building great social experiences to serve our community isn't something we do alone. Supporting developers is a
+key part of our strategy, and at our f8 Conference in April, we announced new ways to help mobile developers build,
+grow and monetize their apps.
+Over 1 billion people use Facebook on their phones every month, and more than 80% of the top apps on iOS and
+Android now use Facebook logins, so we think we're in a great position to be the cross-platform platform that lets
+developers build great apps across every platform.
+So far, we're very encouraged by the reaction from developers. App Links, our new method of deep linking to specific
+content in any app, is now being used by hundreds of apps across iOS, Android and Windows Phone, with links to
+more than 1 billion individual destinations in these apps.
+We also launched our Audience Network, our first big effort to help developers monetize on mobile, and we've
+received a lot of interest from developers. We're rolling out the Audience Network gradually; we're going to continue to
+ramp this up over the coming months and are excited by the opportunities ahead.
+Finally, let's talk about our efforts to build the knowledge economy. This has been a strong period for us, and we've
+reached some new milestones in the business. Now more than 30 million small businesses use Facebook pages to
+connect with their customers, and more than 1.5 million of them are active marketers on Facebook.
+To continue delivering the best returns for marketers, we've been very focused on improving the quality of the ad
+experiences for our community. Our goal here is to make ads as interesting and useful as your friends' content on
+Facebook.
+We're investing heavily in this area, and this quarter, we launched a number of efforts to improve the quality and
+relevance of our ads, including our new ads preferences tool, interest-based advertising, and improvements in News
+Feed designed to reduce low-quality content.
+In some countries, our surveys indicate that our ads are getting close to the quality level of organic content. But in most
+developed countries, we still have a lot to do. We expect to continue focusing on this for a long time.
+So that's my update on how we've been executing over the last quarter. It's been a quarter with good performance and
+continued momentum. So, I want to thank everyone who works at Facebook and is part of our community, including
+our shareholders and partners. Because of your efforts, we're continuing to make progress towards our mission to help
+connect the world, and we're improving hundreds of millions of people's lives every day. I'm grateful for your support
+and to have the chance to work with all of you.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 4 of 17
+Thanks, and now here's Sheryl.
+Sheryl K. Sandberg
+Thanks, Mark, and hi, everyone. As Mark said, we had a strong second quarter. Ad revenue grew 67% year-over-year
+to more than $2.6 billion. Mobile ad revenue grew 151% year-over-year and now makes up 62% of our ad revenue.
+We continue to focus on three key areas in investment: capitalizing on the shift to mobile; growing the number of
+marketers using Facebook; and building our ad products. These investments continue to generate broad-based growth.
+All geographies and all marketer segments performed well this quarter.
+Our team has a really strong belief in what we're building; the world's first ad platform that delivers personalized
+marketing at scale. But we believe it's still early days. We're pleased with the progress we're making, and I want to join
+Mark in congratulating our global teams on their continued execution.
+Today, I'm going to focus on two of our key marketer segments; small business and brand marketers, as well as cover
+some of the investments we're making on the product and Ad:tech front.
+We believe that personalized marketing at scale can drive results for all types of marketers. Just a few weeks ago, I was
+in India and I hosted our first India SMB Roundtable. One of the entrepreneurs I met, Vivek Prabhakar, sold his house
+just a few years ago to raise the money to start his and his wife's stream business, Chumbak, a company that makes
+India-inspired products.
+Facebook is Chumbak's leading marketing channel and is responsible for 35% of online revenue and 38% of their
+website traffic. Their Facebook ads deliver a 5x return on advertising spend and have helped the company grow to
+more than 150 employees in three offices.
+We have more than 30 million active small business pages, and over 19 million of these are active on mobile. We think
+we have a big opportunity to help SMBs like Chumbak grow their businesses, and I'm pleased to announce today that
+we have over 1.5 million active advertisers. We're also ramping up our engagement with this community.
+In the U.S., we're hosting Facebook Fit workshops in cities like New York, Chicago and Miami to help small
+businesses. And we're doing this globally, including forming our first European SMB Council.
+We're also making great strides in our work with larger brands to increasingly recognize how our scale, targeting and
+measurement capabilities can drive great results. For example, P&G's Gillette worked with us and agencies, IBS and
+MediaCom to launch its Vector 3 Razor to men in India. 80% of the 100 million Facebook users in India are on mobile,
+and a majority of these are using feature phones. This was our first feature phone-only Facebook campaign in Asia. It
+reached 60% of Gillette's target audience and generated significant lift in both message and ad recall.
+As we work with brand marketers around the world, we focus on how they can leverage our technology platform to
+build their brands to create a storytelling. We saw many great examples of this at the recent Cannes Lions Festival. We
+were excited that campaigns that make Facebook a key part of their effort took home prestigious awards.
+The World Cup also provided a great opportunity for brand-building on Facebook. Facebook was an important part of
+this global event, with 350 million people joining the conversation, generating 3 billion interactions. The final was the
+single most talked-about sporting event in Facebook history, generating 280 million interactions from 88 million
+people; brands such as Visa, Nike, Ford, and McDonald's capitalized on this global conversation.
+McDonald's worked with agencies, OMD, Framestore and ARC sponsorship, as well as Facebook's Creative Shop, to
+produce 30 videos that used French Fries as players. FryFutbol recreated the most spectacular World Cup moments and
+ran it as videos the very next day, with the French Fries acting as the players. This campaign reached 125 million
+people in 158 countries.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 5 of 17
+We also remain committed to investing in products development to drive higher returns for all of our marketers. Our
+Custom Audiences' capabilities which enable better targeting are being adopted quickly, and are now being used by 91
+of the Ad Age 100.
+Earlier this year, we launched website Custom Audiences, which enable marketers to target recent visitors to their
+websites. This is likely targeting, but it's even more effective because it works across both web and mobile. We're
+pleased with the early reaction from marketers.
+We also introduced premium auto-play video ads this year. Video on Facebook helps brands extend their TV
+investments by combining traditional reach-focus campaigns with our unparalleled targeting abilities.
+Today, we run about a dozen campaigns, and the early data show promising results. We'll continue to roll this product
+out slowly and carefully. Similarly, we're seeing positive early demand from marketers for ads on Instagram, and we're
+rolling these ads out carefully as well.
+In all of this, we remain focused on the transition to mobile. Our recently launched Audience Network lets advertisers
+use Facebook targeting, while extending their campaigns beyond Facebook. This can improve the relevance of ads
+people see both on and off Facebook, and we're encouraged by the early response.
+Finally, earlier this summer, we announced the acquisition of LiveRail, a leading online video advertising platform that
+enables customers like MLB.com and A&E Networks to monetize their video inventory efficiently. We have a lot to do
+here; but with LiveRail, we're investing in tools that can improve the relevance of video ads across the web.
+In summary, we're pleased with our performance and the progress we're making. We're the first platform that can
+deliver personalized marketing at scale, and marketers are increasingly recognizing the great results we can drive for
+them. Staying focused and executing will remain a major theme for us moving forward. Our teams know that our future
+success depends upon our continued execution, and our plan is to stay focused.
+Thanks. And now here's Dave.
+David M. Wehner
+Thanks, Sheryl, and good afternoon, everyone. Q2 was a good quarter for us across our key operating and financial
+metrics. We generated strong revenue growth and operating margins, and delivered $872 million of free cash flow. And
+we continued to make investments to drive our core business as well as to support our long-term strategic priorities.
+Let's start with a review of our network. We are executing well on our ongoing mission to connect everyone. 829
+million people use Facebook on an average day in June, up 130 million from a year ago. This represents 63% of the
+1.32 billion people that use Facebook during June.
+Mobile continues to be a strong driver of our growth, with over 1 billion people using Facebook monthly on mobile. At
+the same time, we're enabling more ways for people to connect and share beyond the core Facebook app. For instance,
+both Instagram and Messenger have each passed over 200 million MAU and continue to grow nicely.
+Turning now to the financials; total revenue in the second quarter was $2.9 billion, up 61% or 59% on a constant
+currency basis. Total ad revenue was $2.7 billion, up 67% or 65% on a constant currency basis. Ad revenue growth was
+strong around the world, with each of our four geographic regions growing by over 60%. Mobile ad revenue was
+approximately $1.66 billion or 62% of ad revenue compared to approximately $660 million or 41% of ad revenue last
+year. Desktop ad revenue was up 8% year-over-year.
+In Q2, the average effective price per ad increased 123% compared to last year, while total ad impressions declined
+25%. The decrease in ad impressions continues to be driven by the shift towards mobile usage, where people are shown
+fewer ads compared to desktop. The increase in the average price per ad was primarily driven by an increase in the
+percentage of our ads being served in News Feed. The price volume trends were generally consistent across all four
+reported geographic regions.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 6 of 17
+Total payments and other fees revenue was $234 million, up 9% versus last year. As we have noted in the past, we
+believe the more meaningful comparison that better reflects the organic growth rate of the payments business comes
+from looking at payments volume from games specifically, which was up 1% in Q2 versus last year.
+Our current games payment revenue comes entirely from desktop usage, and we are seeing declines in the number of
+people using Facebook on desktop, a trend that will make growing this business challenging going forward.
+Turning now to expenses; our Q2 GAAP expenses were $1.5 billion, up 22%, and our non-GAAP expenses were $1.2
+billion, up 18%. Note that cost of revenue grew 2% on a GAAP basis and 1% on a non-GAAP basis, mainly driven by
+unusually high expenses in 2013 related to the transition of certain lease data centers. This flatness in cost of revenue
+was the primary reason, overall expenses grew relatively slowly.
+Operating expenses, excluding cost of revenue grew 33% on a GAAP basis and 31% on a non-GAAP basis. We ended
+Q2 with 7,185 employees, up 36% from last year.
+Our Q2 GAAP operating income was $1.4 billion, representing a 48% operating margin, up from 31% last year, and
+our non-GAAP operating income was $1.7 billion, representing a 59% non-GAAP operating margin, up from 44% last
+year.
+Our GAAP and non-GAAP tax rates were 43% and 36%, respectively. GAAP net income was $791 million or $0.30
+per share, and non-GAAP net income was $1.1 billion or $0.42 per share.
+In Q2, we spent $469 million on CapEx and generated $872 million of free cash flow. We ended Q2 with
+approximately $14 billion in cash and investments. This excludes the impact of the Oculus acquisition, which was
+closed earlier this week and included an approximately $400 million cash payment.
+Now looking forward, let me start by noting that the forward-looking comments I'll share today for 2014, include the
+impact from the recently closed acquisition of Oculus, but exclude except where otherwise noted, the impact from
+WhatsApp, which we continue to expect will close later this year.
+In terms of expenses, we expect that our total 2014 GAAP expenses, including cost of revenue and stock compensation,
+will likely grow in the neighborhood of 30% to 35%, and that our total non-GAAP expenses, including cost of revenue,
+but excluding stock compensation, will grow at a similar rate. These rates are slightly lower than our prior expectations
+due to efficiencies in areas like cost of revenue and G&A. However, we believe that we are still in the early days of
+building out all of the services to maximize Facebook's impact on the world, and we intend to continue to invest
+aggressively in people, products and infrastructure in the second half of 2014 and beyond.
+Though it is premature to give a specific outlook for 2015 expenses, I wanted to note that we expect significant
+stock-based compensation and amortization expenses as well as substantial incremental operating costs related to the
+acquisitions of Oculus and WhatsApp. These will add to our overall expenses in 2015 and subsequent periods. These
+costs will be incremental to core Facebook expenses, which will continue to grow significantly in 2015 as we ramp
+investments in people, products, and infrastructure.
+For taxes, we expect GAAP and non-GAAP rates for the rest of 2014 to be similar to our Q2 rates, although these could
+vary widely depending on our international revenue and expense mix and other factors, most notably the impact from
+acquisitions, including the expected closing of WhatsApp later this year.
+We continue to anticipate that 2014 CapEx will be approximately $2 billion to $2.5 billion. We expect shares
+outstanding to grow from around $2.6 billion at the end of 2013 to approximately $2.9 billion at the end of 2014, again
+assuming WhatsApp closes by the end of the year.
+Turning last to revenue; as we saw in Q2, our year-over-year growth rate declined from 72% in Q1 to 61% in Q2 or
+59% on a constant currency basis. This is consistent with our comments on the Q1 call when we indicated that over the
+course of 2014, the year-over-year growth rates in revenue would decline meaningfully as the comps became more
+difficult. We expect this trend to continue over the course of the second half of the year.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 7 of 17
+While we are excited about the long-term potential of our ads initiatives like Instagram, auto-play video, and the
+Audience Network, we are still in the early days of building these businesses and expect their revenue contribution to
+remain small in the near-term.
+We remain optimistic as ever about the long-term opportunity to grow revenue by improving the quality and relevance
+of our ads and increasing the value we bring to marketers through our products, tools, and technologies.
+In summary, we're very pleased with our overall performance in Q2, and in particular, the continued growth of our
+mobile audience, the strength of our ads business, and the investments we're making to build long-term shareholder
+value.
+With that, Jay, let's open up the call for questions.
+Q&A
+Operator
+We will now open the lines for a question-and-answer session. [Operator Instructions] Your first question comes from
+the line of Eric Sheridan with UBS. Please go ahead.
+<A - Deborah Crawford>: Should we go to next question?
+Operator
+Next, we have Heather Bellini with Goldman Sachs. Please go ahead. We have our question from Eric Sheridan. Your
+line is open. Please go ahead.
+<Q - Eric J. Sheridan>: Sorry about that. I don't know if you've heard the question but, Sheryl, one on sort of
+Audience Network and LiveRail. Maybe you can just give us a little better sense of the depth of the conversations with
+advertisers, and what that might do for the platform longer-term 2014 and beyond, in terms of broadening out
+Facebook's advertising effort. And second question, Dave, on the Oculus and WhatsApp, is there any way to get a
+sense of employee count at the companies, or the pressure that we might see from OpEx going forward? Thanks.
+<A - Sheryl K. Sandberg>: So, I'll start. One of the goals we have, we talk about in all of these calls, is to make ads
+more relevant for people and marketers. And increasingly with the Audience Network, we have a goal to do that for
+publishers as well. Video is really important, it's one of the fastest-growing ad mediums out there on both desktop and
+mobile, so LiveRail has a leading online video advertising platform, and we think we can use it to effectively expand
+video ads to marketers and to publishers outside of Facebook, and offer greater audience-reaching ability to sell to
+video advertisers.
+When you look at the Audience Network, we're still in really early days and we only have some publishers in our
+network, but we see this as an opportunity to provide greater reach for Facebook marketers and developers, again to
+improve the relevance of the ads people see both on and off Facebook.
+<A - David M. Wehner>: Thanks, Eric. On Oculus and WhatsApp, we're very much in investment mode on our
+overall business, and we expect to continue to ramp investments in the core business through 2015.
+And like I said, we'll be layering on top of that costs related to Oculus and WhatsApp. But we're not getting into more
+specifics on the exact headcounts on those, but we believe those are significant opportunities in the long run and so
+we're going to be investing aggressively accordingly.
+Operator
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 8 of 17
+Your next question comes from Heather Bellini with Goldman Sachs. Your line is open.
+<Q - Heather A. Bellini>: Great. Thanks again for the question. Two quick questions for me. First would just be, if
+you could share with us any qualitative commentary about the breadth of mobile ad revenue. There's always a lot of
+debate back and forth about how big mobile app installs are, and if there's anything you could share with us about, how
+the breadth of these – the breadth of mobile has kind of been changing over the last year or so?
+And then the follow-up question would just be related to how your conversations with advertisers are changing. As
+people start to think collectively about their TV and video budget together, I'm just wondering if you're starting to see
+your conversations with the big TV advertisers start to change somewhat over the last six months or so? Thank you.
+<A - Sheryl K. Sandberg>: So, when you think about our mobile ads, and I'm really glad you asked this question, I do
+think sometimes people think that mobile app install ads are all other revenue or a great majority of the revenue, and
+they're not. They're only part of the mobile ads revenue.
+Our mobile ads revenue is broad-based. We have large brand advertisers, small SMBs, direct response advertisers, as
+well as developers, using our mobile ads. The mobile app install ads, which are run not only by developers, but also by
+large companies that want to get people to install apps, are growing. They remain a good part of our mobile ads
+revenue, and we're excited about the opportunities there. But we see our opportunities in mobile ads as much broader
+than just installing apps.
+To the second question, I do think one of the things that's happened in the last really year, year and a half on Facebook,
+is people understanding how strong the creative opportunity is. We've built out the technology platform and made our
+product investments, and we've really created, particularly with the move to mobile on our ads in News Feed, an
+opportunity to do great creative storytelling. A great recent example is Progressive's Baby ads, if you've seen them.
+They're really engaging and really fun, but they're making a really important point, which is, people should be buying
+their own insurance. But the ability for them to do that ad is based on the technology we've created, and also the great
+work they've done with Arnold Worldwide, their agency, on the creative part.
+And so, I think for a long time, people have thought TV was for creative storytelling and online ads were for more
+targeted [indiscernible] (27:45) results. And I think we're seeing that change, which means that the way people
+approach TV, they'll also approach Facebook and are starting to, which makes those budgets work much better
+together.
+Operator
+Your next question comes from the line of Douglas Anmuth with JPMorgan. Your line is open.
+<Q - Douglas T. Anmuth>: Great. Thanks for taking the question. Two things I wanted to ask. First, Mark, there's
+been talk, I know it was on your blog, about testing a buy button within the platform, so I was hoping you could talk
+about how important you think commerce is to Facebook going forward and then perhaps also payments as well.
+And then secondly, Sheryl, you mentioned some of the major brands that advertised during the World Cup. Can you
+talk about how you get the follow-through from those brands now that that major event has passed, and how you keep
+those ad dollars on Facebook? Thanks.
+<A - Sheryl K. Sandberg>: So, on the buy button, we launched a small test in the U.S. only, which enables people to
+hit a buy button, and on pages or in page post ads on Facebook. It streamlines the process of buying from our clients.
+No one's buying from us, we're just streamlining the process of buying from our clients.
+I think commerce is really important and is a growing important part of our business as our marketer segments are
+growing, but I don't think people should confuse that with Facebook selling things directly. The more people buy
+online, the more people buy things they discovered through their mobile phones, the more people discover things from
+a News Feed and go on to purchase, the more important we are in driving e-commerce, and I think we are increasingly
+important. That doesn't mean we're going to or have to sell products.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 9 of 17
+<A - Mark Elliot Zuckerberg>: Yeah. And then I'd just add to that, because some of the question was about
+payments, but we will clearly do work in payments to accept payments for advertising and on platform and other things
+that we do. But just because we'll do that doesn't – we still basically view ourselves as a partner to other companies in
+the payment space, rather than trying to compete directly for that. Our main business is advertising. And I think we're
+mostly to the extent that we do payments, it's going to be supportive to that.
+I wanted to make one more point just related to that, because I think some of the questions around payments are
+connected to what we're planning on doing in the other apps outside of Facebook, right? So, things like Messenger and
+WhatsApp over time, when that closes and Instagram. And I really do just want to emphasize that there's a lot of work
+to set up the foundation for having a good business community and ecosystem in those that we think is going to be
+years of work before those are huge businesses for us.
+And I kind of, I liken where we are now on something like Messenger to where we were on Facebook in like 2006 or
+2007, where it was primarily consumer products at the time where you really only communicated with friends. And a
+bunch of people asked us and said that we should put ads in; but before we did that, we wanted to create really good
+organic consumer experiences for people to interact with different entities. So, we created pages, so people could
+interact with organic businesses. And then in order to make it that businesses and public figures and folks would create
+pages, we offered Insights and different products and we gave all those things away for free.
+Pages were free and continue to be free and that's partially why we have 30 million businesses today using pages on the
+platform. And Insights, we kind of gave away for free in order to enable more folks to use pages. And only after we had
+a good kind of organic interaction that people could and would want to interact with these different businesses and
+entities, did we really layer ads on top of that and start to build the business that we have today.
+So, I just think it's worth emphasizing this, because we've said in a number of comments that we think that some of
+these newer initiatives are going to ramp over time. We really do mean that and we are serious about doing this the
+right way and building up these ecosystems. And I think that for some of these other apps, we're just going to build all
+the infrastructure that we need to make it be something that's scalable over time rather than trying to have this be an
+impact that you'll notice in the next – I don't know, short-term period of time.
+<A - Sheryl K. Sandberg>: To the World Cup part of your question, brands certainly used the World Cup and big
+events like this to launch things that they continue those ad campaigns. They also have other big events that come along
+as well as their own events around product launches. And so, we think obviously not every day is the World Cup, but
+there are lots of opportunities throughout the year and through the product cycle to work with brand advertisers in big
+ways.
+Operator
+Your next question comes from Ross Sandler with Deutsche Bank. Your line is open.
+<Q - Ross A. Sandler>: Great. Thanks. I had one question for Mark on the product side and then one for Dave. Mark,
+so App Links just launched. If you go out a few years, how much do you think something like deep linking could
+increase engagement or ad effectiveness for Facebook? And for those 1 billion links that you have up and running
+already, what are you seeing in those early tests?
+And then, Dave, we know you don't break out the price versus volume metrics for mobile, but just directionally, could
+you give us some color on how the ad impression growth in mobile compares with the 31% MAU growth in mobile?
+Thanks.
+<A - Mark Elliot Zuckerberg>: Sure. So, I don't have much color that's useful to share here on App Links. It's still
+early. People have marked up a bunch of apps with this metadata that allows us to search for it. But search for
+Facebook is going to be a multi-year voyage. And there's just so much content that is unique to the Facebook
+ecosystem that you – we can answer questions for you that really no other service can. I mean, just like the other day, I
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 10 of 17
+was curious about finding out which of a person – which of one of my friends like worked at a company. And it's like I
+don't know any other service where you can just go do that query but on Facebook you can.
+And the secret to this is going to be basically just over a long period of time indexing all of the different content that's
+on Facebook in every different way. So, we started off with people. There's obviously a need to be able to find people
+in order to use the product and add friends and just have our core kind of ecosystem work. But we're indexing more of
+the connections and now we're getting into more of the content and it's a huge amount of content. I think there's more
+than a trillion posts, which some of the search engineers on the team like to remind me is bigger than any web search
+corpus that's out there.
+But that's just kind of a one part of the data and we're going to keep on doing more and more. We're going to start off
+focusing on stuff that's unique to Facebook that you couldn't really answer those questions elsewhere.
+App Links by definition of being outside of Facebook are not going to be unique to Facebook. So, we'll get to that over
+time. I think it'll be a valuable part of the ecosystem. But honestly, we're mostly interested in that to enable value for
+other developers and pushing distribution to them than we are for our own search.
+It's going to enable interesting ways for a developer to be able to make it so that people and their apps can share content
+on Facebook and then link directly to the right part of the app. It enables some engagement ads, so that way a developer
+can say, a person was using my app and they were going to buy something but they dropped out of the check-out flow,
+so now I'm going to have an ad that helps them link right back to the check-out flow, so that they can complete their
+conversion and you want deep linking to be able to enable things like that, but it's going to take a while for this to play
+out in search.
+<A - David M. Wehner>: Yeah. And, Ross, on your question on mobile ads – mobile DAU is ramping nicely, 39%
+growth and we're seeing it grow nicely across all of our geographic regions. Of course, mobile ads are ramping as well.
+In terms of pricing, we don't break it out but on the reported pricing trend, as I think I made clear, the 123% increase in
+price was driven by mix shift with a higher percentage of News Feed ads. And News Feed ads are really effective for
+marketers and that includes mobile News Feed ads as well. They deliver a lot of value for marketers. That's why they're
+getting a higher price in the auction, [indiscernible] (36:20) really correlates to the value that they create and we
+continue to focus on making those ad units better and better – more relevant and targeted for the people who use
+Facebook as well as for marketers. And we're seeing good results. Marketers are getting good ROIs and they're coming
+back and spending more with us. So, we're pleased about all of that.
+Operator
+Your next question comes from Justin Post with Merrill Lynch. Your line is open.
+<Q - Justin Post>: Great. I'd like to follow-up a little bit on the ad pricing. Obviously up 123%. Sheryl, maybe you can
+comment a little bit about the organic growth – like-for-like ads there? And do you see opportunities to continue to see
+nice pricing growth as you look out the next couple years? And then as you think about the new ads formats – video
+and other things, would you think that could continue to drive pricing higher meaning new ad formats could drive even
+more value than the existing ads that you have on Facebook? Thank you.
+<A - David M. Wehner>: Hey, Justin. It's Dave. Yeah. Just following up on that, in terms of the pricing, as I said, it's
+really about the mix shift towards the News Feed. News Feed ads is what's driving the overall reported pricing trends,
+but we are focused on making our ads all better and driving better returns for our marketers and we see that reflected in
+the price.
+There's other things, for instance, we're making our right hand column ads more effective by changing the format of
+those. Those will be higher value to our marketers, because they'll drive more engagement, but there'll be fewer of
+them, so that will impact pricing.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 11 of 17
+But everything that we're doing is about trying to drive more value for our marketers as well as trying to drive more
+relevant ad experiences for the people who use Facebook. And if we're successful in doing that, we'll drive ROI for the
+marketers, we'll drive good experiences and we'll get good pricing.
+Operator
+Your next question comes from Mark Mahaney with RBC Capital Markets. Your line is open.
+<Q - Mark S. Mahaney>: Thanks. Two questions please. Anything you could share with us regards to China and
+efforts to develop more of a presence there? And then maybe a follow-up question on David Marcus coming over and
+it's something with a huge payments background running the messaging product. It's kind of like hiring signing a messy
+up to the Miami Heat, like it's a little bit of an odd transition. Are we looking at it wrong? Is there any particular reason
+why he wouldn't be more focused on payments? Thank you.
+<A - Sheryl K. Sandberg>: So, I'll talk about China. Our mission is to enable everyone in the world to share and
+connect. And so, we've been studying and learning about China for a number of years and we remain very interested.
+We are seeing Chinese-based companies use Facebook to reach a global audience and we think we have an important
+opportunity just with their export market and we're focused on that for now.
+<A - Mark Elliot Zuckerberg>: Yeah. And on Messenger and David, I think he's just a real talented product
+generalist. He's done a number of different things including in the past, he ran and built a messaging company. Most
+recently, clearly, he ran a very important company and I think was pretty successful in helping get really good results
+there. Messenger will have over time – there will be some overlap between that and payments, but I guess, what I'm
+just trying to say is two things.
+One is that the payments piece will be a part of what will help drive the overall success and help people share with each
+other and interact with businesses, but we're really focused on the interactions overall rather than the mechanisms; and
+David shares that view.
+And the second thing is just that there's so much groundwork that we need to do in order to make it, so that people are
+communicating with businesses and public figures and entities in these other apps that we're building, which is part of
+the business ecosystem.
+And I really can't underscore this enough that we have a lot of work to do and we could take the cheap and easy
+approach and just try to put ads in or do payments and make some money in the short-term, but we're not going to do
+that.
+So to the extent that any of your models or anything reflects that, we might be doing that; I would strongly encourage
+you to adjust that because we're not going to and we're going to take the time to do this in the way that we think that's
+going to be right over multiple years.
+Operator
+Your next question comes from Arvind Bhatia with Sterne, Agee. Your line is open.
+<Q - Arvind Bhatia>: Thank you very much. Just a quick question on WhatsApp. I realize it hasn't closed yet, But,
+can you give us any indications to us on kind of the user trends and engagement, et cetera? Sheryl, you mentioned India
+where we see a lot of usage coming out of there for WhatsApp in particular. Any comments there would be helpful.
+<A - Mark Elliot Zuckerberg>: No. I mean the deal hasn't closed, we have nothing to say.
+Operator
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 12 of 17
+Our next question comes from Neil Doshi with CRT Capital. Your line is open.
+<Q - Neil A. Doshi>: Great. Thanks, guys. Sheryl, I think attribution could be a very big opportunity, especially for
+local businesses to help them realize ROI, people going from online to offline; with 30 million businesses now on
+Facebook, how are you helping those businesses realize the online to offline conversion through Facebook in order to
+drive more dollars going to local businesses? Thanks.
+<A - Sheryl K. Sandberg>: I agree strongly that this is a huge opportunity. Our goal with all of our clients from the
+biggest to the smallest is to drive their business results, and that's usually selling a product, sometimes online but often
+in stores. We've done a lot of work over the last year or two on measurement. We talk about measurement in all of
+these calls and that's because investing in measurement and connecting not just from online to online, but online to
+offline is super important, because if we can prove those results to our marketers, large and small, they'll continue to
+invest.
+We think we have a real advantage here, that we have real identity. We have real identity across the desktop and across
+mobile. And we have found ways, and very privacy protective ways, to work with third parties, third-party users of data
+to connect offline and on – offline sales to online ads, and those investments remain a very big focus for us.
+Operator
+Your next question comes from Ken Sena with Evercore. Your line is open.
+<Q - Ken Sena>: Thanks. So, you mentioned over a billion users, 80% of app developers use the Facebook login on
+iOS and Android. When we think about Facebook as a platform, can you provide any stats on the number of developers
+who are starting to build their experience on Facebook? And then how integrated do they need to be to see things like
+app linking, native formats, auto-play video or other? Thanks.
+<A - Mark Elliot Zuckerberg>: So, we've shifted to this model on mobile, where developers aren't really building
+their apps inside Facebook, right? So, we're not an operating system. We had a little bit more of this dynamic with
+candidates on desktop, but now we've shifted the strategy to helping developers with three things; build, grow, and
+monetize their apps. And we have a number of services that developers can plug into their apps to help out with all
+three of those.
+So for example, we have – when we're helping people build their app, we do things like login, and when we have
+services like Parse that help developers build apps more easily, that stuff is all great for helping folks build social apps
+in a way that's faster than they could have otherwise.
+In terms of growth, I mean we offer tools like sharing and messaging that people can enable – or a developer can
+enable their users to be able to organically spread the app. We also have things like app installs and engagement ads to
+make it so that developers can pay to increase that.
+And then on the monetize side, we are rolling out the Audience Network and then I guess on Canvas we have things
+like payments to help developers monetize, and that's an increasing focus as well.
+And Audience Network is new and it's getting started. So, again, it's one of these things that will be pretty slow for a
+while, because we really want to do it right, but that's going to be an important part of this as well.
+So, I think that's kind of how you want to think about developers. And right now, we're really proud of that 80% of the
+top developers see value in touching a part of our platform. We obviously want to get the last 20%, but we're excited
+about the progress so far.
+<A - Sheryl K. Sandberg>: And in terms of those developers using our different ad products, as we say, we rollout
+slowly, and slowly usually means we pick a handful of advertisers to work with. That's certainly what we've been doing
+on auto-play video ads, but [indiscernible] (45:27) our goal is to make our ad products available to all of our marketer
+segments and that's what we'll work on. So over the long run, any developer, any small or large business, whether
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 13 of 17
+they're using other parts of our platform or not would be able to purchase any type of our ads.
+Operator
+Your next question comes from Brian Nowak with SIG. Your line is open.
+<Q - Brian T. Nowak>: Thanks for taking my questions. I have two. The first one is on the video ads. You mentioned
+it's the early days on video advertising and – just wondering, if you could talk to some of your early learnings and what
+you're pleased with. And where you see areas for improvement? And which metrics you're engaging to kind of
+determine when to undergo a broader rollout?
+And then secondly, I think you mentioned a larger higher quality right rail desktop ads. There's been some changes in
+experimentation around the inventory. How has the advertiser receptivity been to those ad units compared to the old
+right rail? And where are those dollars coming from? Is that new dollars to the platform? Or are they shifting from old
+sponsored stories or old right rail? Thanks.
+<A - Mark Elliot Zuckerberg>: So, I'll talk about video and then Sheryl can turn on the right-hand column. The
+biggest thing that we want to make sure is that quality is really good as we roll this out. And that's going to be the same
+on all of these different initiatives. And one of the reasons why we're optimistic about video ad is – sorry in auto-play
+specifically as a format for both organic and paid content is that you're scrolling through feed and if the content catches
+your eye and you like it, then it's playing and it's loaded and you can just easily continue watching it or otherwise the
+person has complete control and if they don't like it, they can just keep on going through it. So, the content has to be
+really good and we think that that's going to be a really high quality experience.
+There's still a number of things that we really want to prove and make sure that we're doing well here. We want to
+make sure that when people see an auto-play video that's not only paid content we want a lot of that to be organic
+content as well. So, we're trying to ramp up the amount of good public content and content that people share at the
+same time as we're ramping up on the auto-play video ads.
+We also want to make sure that this doesn't consume a lot of people's data. So, we're just being really careful about how
+we handle that and getting that really right across different markets, that's going to be a different thing that we want to
+be really sensitive to.
+So, it really just – in a word, this all comes down to quality and we're more focused on just making sure this is the right
+and best thing over time than something in the near-term. And that I think is a theme of a lot of the areas that we've
+talked about, whether it's the new apps that we're building, things like Messenger or Instagram and what we're doing
+there or things like Audience Network which we just announced or video ads.
+There's just a lot of things that we're super excited about and we obviously will talk about them publicly, because we're
+working with partners and we're excited to talk about them here as well, because we do really think that these are going
+to be great things to help build businesses over time. But we want to make sure that we don't get ahead of ourselves,
+because these things are early and quality is the most important thing for growing this the right way over time.
+<A - Sheryl K. Sandberg>: On the right-hand column redesign, the redesign was driven by making the ads more
+consistent with News Feed, which results in fewer but larger ads. [indiscernible] (48:42) from any one place, and I
+think when you think about Facebook's growing part in the ad ecosystem, you really have to think about ad dollars
+shifting online as the majority of the driver of budget shifting and ad dollars coming on to mobile. We are pleased that
+we see higher engagement rates from the people that were shown the new ads compared to the old, which makes us
+optimistic that these are more valuable.
+Operator
+Your next question comes from Brian Pitz with Jefferies. Your line is open.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 14 of 17
+<Q - Brian J. Pitz>: Great. Thanks for the question. Maybe a question in different direction regarding privacy and
+maybe you could just walk us through your current thoughts. The reason I ask is, because Facebook recently introduced
+the Anonymous Login product at f8 this year, and new services like save or hidden from friends unless users
+specifically opt in. Can you just give us a sense of this kind of a change of strategic shift in thinking or tone with
+regards to privacy? Thanks so much.
+<A - Mark Elliot Zuckerberg>: It's a really important question. I think something that's misunderstood about
+Facebook. One of the things that we focused on the most is creating private spaces for people to share things and have
+interactions that they couldn't have had elsewhere. So, if you go back to the very beginning of Facebook, rewind 10
+years, I mean there were blogs and things where you could be completely public and there were e-mails, right? So, you
+could circulate something completely privately. But there was no space where you could share with just your friends,
+right? I mean it wasn't a completely private experience, but it's not completely public and it's 100 or 150 of the people
+that you care about.
+And creating that space which was a space that had the kind of privacy that no one had ever seen before was what
+enabled and continues to enable the kind of interactions and the content that people feel comfortable sharing in this
+network that don't exist in other places in the world.
+So, we're constantly looking for new opportunities to create new dynamics like that and open up new different private
+spaces for people where they can then feel comfortable sharing and having the freedom to express things that you
+otherwise wouldn't be able to. It's one of the reasons why I'm personally so excited about messaging, because like right
+now I think at some level there are only so many photos that you're going to want to share with all of your friends. I
+mean we still think that there's more to do there.
+But like the amount of messaging and how quickly we see that growing is crazy, because like there's just a lot more that
+people want to express and that they need the tools to express with smaller groups of people, not just one person at a
+time, but smaller groups as well.
+Things like Anonymous Login totally unlock different behaviors, right? How many times do you want to sign into an
+app, but you don't necessarily want to share a lot of information with that app. But if you can do it anonymously we
+think that's going to unlock a lot of different interactions and experiences that people want to have.
+So, we view our job as like very fundamentally providing people with these spaces and tools, which I think is very
+different from how a lot of people think about what Facebook is. But it's an important thing to think about how we do
+our product development.
+Operator
+Your next question comes from Colin Sebastian with Robert Baird. Your line is open.
+<Q - Colin A. Sebastian>: Thanks. I have a couple of questions as well. First on mobile advertising and ad loads, just
+curious what you are seeing in terms of the ad load threshold? So, you're at the point now where the relevancy and
+quality of ads means that you can tick that up perhaps a little bit?
+And then secondly on Oculus and Virtual Reality Applications, how should we think about the pace of development of
+this technology and the potential integration with Facebook's applications? Thank you.
+<A - David M. Wehner>: Thanks.
+<A - Mark Elliot Zuckerberg>: Sure. Go for it.
+<A - David M. Wehner>: I can take care of the mobile ad load question. So, ad load is really one of dozens of factors
+that we focus on. Others are of course the quality, the relevance and then the prominence of the ads. And we monitor
+the sentiment and engagement of people engaging in News Feed. And we're really pleased with the strength of
+sentiment and engagement as we've ramped up News Feed ads. And we feel like we're in a good position, given where
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 15 of 17
+we are with that to continue to grow the advertising business, while driving good user experience. So, we're in a good
+place on that.
+<A - Mark Elliot Zuckerberg>: Yeah. I can talk about Oculus. So, we're really excited about this. The acquisition just
+closed earlier this week and we're really excited to welcome that team. They're extremely talented and have pulled off
+something that people have been talking about for a really long time and now it's possible given the technology that this
+team has developed.
+And this hits on a different part of our strategy, the way that I organize my remarks every quarter are around these
+10-year goals and themes that we have for the company, connecting everyone, understanding the world, helping to
+build the knowledge economy and these future platforms.
+So when I'm talking about how I think things like the businesses that we're talking about are further out than you think,
+I think that this stuff is actually even further out than that, right? And but there are huge opportunities to build the next
+generation of computing platforms. When mobile was getting defined, we were basically just getting founded, right? I
+mean 2004, the first smartphone came out in 2003 and we've mostly been a company that has played on top of the
+different mobile foundations that other companies have built.
+And one of the things that I care really deeply about on kind of a 10-year arc for the company is having a different
+relationship to whatever the next set of computing platforms are and investing accordingly now to make sure that when
+the next set of computing platforms get defined, we can help define what the next generation of computing is going to
+be.
+So, I think virtual reality, augmented reality, vision, some of the AI work that we're doing is all going to play into this
+in an important way. And I just think, while I was emphasizing that we're early on some of those businesses and we're
+not going to rush those, the flip side of the coin is to emphasize that we're also going to spend a lot and invest very
+heavily in a bunch of these things to do it right over the long term.
+And so I think, Dave pointed out that we expect to continue investing heavily and that our cost will increase. And I just
+want to underscore that as well, because I expect that's going to continue to be true. And it's not that we're necessarily
+going to go out and have a lot more new strategic priorities, but we expect to go very deep on the priorities that we
+have to make sure that we completely nail them all whether it's a 5-year or a 10-year timeframe.
+<A - Deborah Crawford>: Operator, I think, we have time for one last question.
+Operator
+Your last question will come from Ben Schachter with Macquarie. Your line is open.
+<Q - Ben Schachter>: Thanks for taking my question. Mark, you talked about a focus on public content. Does that
+include a focus on exclusive content and should we expect that you'll pay for or have revenue shared agreements for
+exclusive content with some key public figures?
+Then separately, on search, I think you still have quite a large team working on improving search; but from our vantage
+point, we haven't seen many changes since the original data graph as part of launch. So, when should we expect to see
+those improvements? And how would you rank search in terms of your priorities?
+And finally just a quick housekeeping question, Dave, has the D&A continued to trend down over the past few
+quarters. Why is that happening and should we expect that to continue? Thanks.
+<A - David M. Wehner>: I can take the D&A question first, if you'd like. So, ultimately depreciation is going to track
+more closely against the CapEx, so in the first half of the year, we've been aggressively investing in the things we want
+to invest in. That includes infrastructure, so CapEx is up 40% in the first half of the year.
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 16 of 17
+There are some investments that we're making notably in the Iowa data center also the new headquarters we're building
+where those facilities have not gone into service, so they're not hitting depreciation yet. So, we're making the big
+investments in CapEx that will ultimately flow through in depreciation. So, I think, in short, the answer to your
+question is, we'll see depreciation come up as those things come online.
+<A - Mark Elliot Zuckerberg>: And I guess I can answer the others. So, on public content, we actually do get a lot of
+exclusive content. We don't pay for it, but so this week for example, I think, Shakira hit her 100 million fans moment
+on Facebook and part of the reason why some of these public figures and political leaders and folks have such big
+following is because they're constantly providing insight into their lives and unique types of content that other folks
+that you can't get anywhere else.
+And there's a format that I think makes sense for Facebook. You're not going to come to Facebook to watch a movie or
+watch a whole TV show. That's really long form stuff. But in the mode that we have today in our service that kind of
+attracts and is the best place for a number of types of content like this that we're starting to see that we get.
+So, we're mostly focused on driving success for partners, whether they're news organizations that are publishing
+content that people share or public figures and individuals who are engaging directly on Facebook. Our view is that the
+more success in distribution and engagement we can drive for them, the better the content and the quality that they're
+going to invest in and build in for Facebook.
+And tied to search, I think the – I mentioned in my opening remarks that this quarter I think for the first time we are
+over on average 1 billion searches a day, which is awesome and it's something that we're really proud of and have
+worked a lot on, especially given that we've generally found that people search a little bit less on average on mobile.
+So, we went through a period where in order to have that increase we had to do some really good work and make it a
+lot faster and improve ranking and do a lot of the basic things that needed to get done. There's just so much more
+content that needs to get indexed.
+If you want to go find that Shakira video that I was just talking about, I don't know if today the product fully delivers
+on that, but we will soon and in the next six months we're going to be able to do that and then if we do well and then a
+year later we're going to have more content in the system and be able to index that better.
+So, it's an ongoing thing. There's huge potential. There are a lot of questions that only Facebook can answer that the
+other services aren't going to be able to answer for you. We're really committed to investing in that and building out
+this unique service over the long-term.
+And I think at some point, there's going to be an inflection where it starts to be useful for a lot of use cases. But there
+may still be years away, but we're just committed to doing this investment and then making this right.
+Deborah Crawford
+Great. Thank you for joining us today. We appreciate your time and we look forward to speaking with you again.
+Operator
+This concludes today's conference call. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+Company Name: Facebook
+Company Ticker: FB US
+Date: 2014-07-23
+Event Description: Q2 2014 Earnings Call
+Market Cap: 198,655.08
+Current PX: 76.77
+YTD Change($): +22.121
+YTD Change(%): +40.478
+Bloomberg Estimates - EPS
+Current Quarter: 0.396
+Current Year: 1.619
+Bloomberg Estimates - Sales
+Current Quarter: 3106.737
+Current Year: 12239.262
+Page 17 of 17
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

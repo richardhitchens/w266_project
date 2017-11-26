@@ -1,0 +1,879 @@
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 1 of 16
+Q2 2014 Earnings Call
+Company Participants
+• Rob Binns
+• Meg Cushing Whitman
+• Catherine A. Lesjak
+Other Participants
+• Keith F. Bachman
+• Toni M. Sacconaghi
+• Katy Huberty
+• Ben A. Reitzes
+• Amit Daryanani
+• Sherri A. Scribner
+• Brian G. Alexander
+• Kulbinder S. Garcha
+• Bill C. Shope
+• Rod B. Hall
+• Jim Suva
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the second quarter 2014 Hewlett-Packard earnings conference call.
+My name is Ellen and I'll be your conference moderator for today's call. At this time, all participants are in a listen-only
+mode. We will be facilitating a question-and-answer session towards the end of the conference. [Operator Instructions]
+As a reminder, this conference is being recorded for replay purposes.
+I would now like to turn the presentation over to your host for today's call, Mr. Rob Binns, Vice President of Investor
+Relations. Please proceed.
+Rob Binns
+Good afternoon. Welcome to our second quarter 2014 earnings conference call with Meg Whitman, HP's Chief
+Executive Officer; and Cathie Lesjak, HP's Chief Financial Officer.
+Before handing the call over to Meg, let me remind you that this call is being webcast. A replay of the webcast will be
+made available shortly after the call for approximately one year. Some information provided during this call may
+include forward-looking statements that involve risks, uncertainties and assumptions. If the risks and uncertainties ever
+materialize, or the assumptions prove incorrect, the results of HP may differ materially from those expressed or implied
+by such forward-looking statements.
+All statements other than statements of historical fact are statements that could be deemed forward-looking statements
+including but not limited to, any projections of revenue, margins, expenses, earnings, earnings per share, HP's effective
+tax rate, cash flow, share repurchase, currency exchange rates or other financial items, any statements of the plans,
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 2 of 16
+strategies and objectives of management for future operations and any statements concerning the expected
+development, performance, market share or competitive performance relating to products or services.
+A discussion of some of these risks, uncertainties and assumptions is set forth in more detail in HP's SEC reports,
+including its most recent Form 10-Q. HP assumes no obligation and does not intend to update any such
+forward-looking statements. The financial information discussed in connection with this call, including any tax-related
+items, reflect estimates based on information available at this time and could differ materially from amounts ultimately
+reported in HP's second quarter Form 10-Q.
+Revenue, earnings, operating margin and similar items at the company level are sometimes expressed on a non-GAAP
+basis, and have been adjusted to exclude certain items including, amongst other things, amortization of purchased
+intangible assets, restructuring charges and acquisition-related charges. The comparable GAAP financial information
+and a reconciliation of non-GAAP amounts to GAAP are included in the tables and in the slide presentation
+accompanying today's earnings release, both of which are available on HP's Investor Relations webpage at
+www.hp.com.
+I'll now turn the call over to Meg.
+Meg Cushing Whitman
+Thank you, Rob. And thanks to all of you for joining us today.
+With the first half of fiscal 2014 closed I'm pleased to report that HP's turnaround remains on track. As you would
+expect in a turnaround of this scale, there are some businesses performing better than we expected, and others with
+more work to do. We've made significant progress in putting the systems and structures in place to more effectively
+manage the business, and we are focused on putting the right talent in place to lead the next leg of the turnaround. Most
+of all, we've stabilized the top line and we're starting to see the benefits of our focus and investments in key
+technologies.
+We have more work to do to improve the consistency of our execution and lower our cost structure to drive overall
+profitability, but I believe we're well-positioned as we enter the second half of 2014. Rest assured, sustained, profitable
+revenue growth remains our top priority.
+Innovation is at the heart of our strategy to turn HP around. And in the second quarter you saw the launch of several
+critical elements of our innovation agenda. In cloud we launched HP Helion, a portfolio of products and services that
+enables the next phase of our enterprise customers' cloud journey. Helion is changing the game in cloud by allowing
+the integration of public, private, managed cloud and traditional IT environments on an open and secure platform. We
+are addressing a major pain point for the enterprise customers with Helion, and the early interest has been very positive.
+We also announced further significant business model innovation in our Server business, with the creation of a joint
+venture with Foxconn. Together we're creating a new line of cloud-optimized servers specifically targeting service
+providers. This partnership brings together the high volume, design and manufacturing expertise of Foxconn with the
+compute, services, brand and go-to-market leadership of HP. Together, we will redefine the infrastructure economics of
+the world's largest service providers.
+In big data we unveiled the HP Shark system for SAP HANA. This new converged system is designed to deliver higher
+levels of performance and availability for in-memory computing at up to twice the speed of other solutions. We saw
+strong sequential growth in our HANA offerings in the second quarter.
+And we introduced OpenNFV, a comprehensive network function virtualization program. This new program is
+designed to help telecom customers launch new services faster with less expense and lower risk. NFV is one of the
+most significant shifts the telecommunications industry has experienced in the last 20 years, and represents an
+important opportunity for HP.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 3 of 16
+As I have said before, we continue to see an acceleration of the massive shifts that are transforming the way customers
+buy, pay for and consume technology. This reality is creating both opportunities and challenges for HP and every one
+of our competitors. To win, we have to continue to focus and make HP a more nimble, lower cost and more customer
+and partner-centric company. We've made a lot of progress to that end over the past two years, but we still have more
+work to do in our structure, our systems and our go-to-market.
+In the second half of 2014 we will be accelerating these activities to ensure that we have the right structure in place as
+we enter 2015. As a result we now expect up to an additional 16,000 employees will leave the company under the
+previously announced 2012 restructuring program. This will bring the total number of employees leaving under the
+program to as many as 50,000.
+No company likes to reduce their workforce, but the reality is that HP must be maniacally focused on continuous
+improvement in our cost structure. We believe this further alignment, along with the expected increased investments in
+innovation and infrastructure set us up as a force to be reckoned with in the rapidly shifting markets where we compete.
+Turning to the second quarter, HP delivered $0.88 in diluted non-GAAP net earnings per share, at the high end of our
+previously stated financial outlook of $0.85 to $0.89 per share. For the second consecutive quarter, total revenue for the
+company was approximately flat in constant currency and we once again delivered very strong cash flow, generating $3
+billion in cash flow from operations.
+Now let me turn to our Business Group performance in the quarter. Overall, results in Q2 were driven by solid
+performance in Printing, Networking and Personal Systems as well as disciplined cost management across all of our
+businesses. In Personal Systems we had a very strong performance with revenue up 7% over the prior year. Overall
+we're seeing a slowing market contraction and signs of stabilization, particularly in commercial PCs. This is coupled
+with support from a refresh of an aging install base and the expiration of Windows XP.
+HP executed well in the quarter, particularly in our commercial PC segment. Overall, PSG operating margins improved
+and we gained share with good growth in Europe and Japan. We reclaimed the number one position in both commercial
+PCs and in desktops, all against a backdrop of a declining market.
+Looking forward, I'm excited about the strength of our product lineup and we will remain focused on profitable growth
+and continuing to drive further action on our end to end cost structure.
+For the fourth consecutive quarter our Printing business once again outperformed the market and saw unit placement
+growth and we held or gained share in every major printing category and region on a year-over-year basis, all while
+delivering another quarter of excellent profitability.
+In Enterprise Services, as expected, revenue was down 7% over the prior year as delayed key account revenue runoff
+from FY13 continued. The operating profit margin in ES was flat over the prior year and up sequentially. We expect to
+see a continued ramp in margins in the second half and Cathie will elaborate further on this in a moment.
+We remain focused on our proactive sales efforts in ES and are in the early stages of this transition, but I can feel the
+increased confidence from our customers.
+While total signings were down over the prior year, strategic Enterprise Services bookings growth is encouraging and
+we saw good new wins in the quarter.
+For example, the U.S. Department of Homeland Security awarded HP a cyber-security contract worth up to $32
+million. And Belgium's Flemish government awarded a seven-year €500 million contract to HP and Belgacom to offer
+ICT services to all local and provincial government entities. The program will give citizens access to information and
+services through a virtual private cloud solution.
+We've made progress, but opportunities remain for improvement in services bookings, and we need to move faster in
+ramping-up our cost savings and productivity initiatives. However, I'm confident that the leadership team has taken the
+right steps to get Enterprise Services back on track.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 4 of 16
+In the Enterprise Group, revenue declined 2% over the prior year, driven by lower technology services and storage
+revenue, as well as the expected decline in Business Critical Systems. This was partially offset by growth in
+Networking and Industry Standard Servers.
+We continue to see a very competitive market in enterprise infrastructure. I'm confident that the changes we've made in
+the leadership and go-to-market execution, coupled with cost saving opportunities and our investment in innovation
+have put this business back on the right path. However, we expect it will take a few quarters for these changes to
+consistently take hold.
+In addition to the new products that I discussed earlier, I'm very excited about some of the innovations that we'll be
+rolling out in the second half of the year from our server, cloud, storage, technology services and converged systems
+teams. We're doubling-down on innovation in EG, because we believe that is how we're going to differentiate in these
+markets.
+In Industry Standard Servers revenue grew for the third consecutive quarter. The team continues to make progress on
+stabilizing this business and improving our cost structure and go-to-market. We continue to see good customer interest
+in Moonshot with over 100 beta customers and engagements through our Discovery Labs, and over 40 partners in the
+program. While we are seeing a ramp in Moonshot revenue, we don't anticipate this will become material in the near
+term. However, we believe Moonshot is on its way to becoming a disruptive product in a new category of servers.
+The decline in Business Critical Systems moderated in the quarter. Revenue was down 14% over the prior year and up
+1% sequentially. Storage revenue was down 6% over the prior year as customers appeared to pause to assess new
+products and market innovations. Despite the market, we still expect to gain a point of share overall. We have work to
+do to improve our go-to-market in this business, particularly our execution in the Americas. We've invested in
+additional storage sales specialists, but these take time to ramp to full productivity. Overall, we remain very confident
+in our Storage business. We believe our converged storage portfolio is well-positioned to address shifting market forces
+with products like 3PAR, StoreVirtual and StoreOnce.
+Networking performed well with an acceleration of growth. Revenue grew 6% over the prior year with strength in
+switching and routing and we saw growth across all of our regions.
+As I have said many times, in a turnaround having the right people in the right place at the right time is critical. To that
+end, we recently announced that Antonio Neri has assumed management responsibility for the Networking business, in
+addition to his current role leading the Server team. Antonio is a proven leader who has done an excellent job guiding
+our Server business over the past several quarters, and our Technology Services business before that. Integrated
+Systems are becoming increasingly prominent in the data center. And Antonio's new role will help us better align our
+compute and networking product strategies.
+In Technology Services, revenue declined 5% over the prior year. The nature of this business means performance
+typically lags hardware sales overall, so we expect revenue to stabilize in line with the progress we've made in our
+hardware sales. The leadership team in TS has done job an excellent job managing this business, and we continue to see
+very good customer adoption of our new services, and margins remain strong.
+In Software revenue was flat over the prior year. Performance in the quarter was driven by growth in Autonomy
+licensing and strong double-digit growth in Security and Vertica, offset by softness in our traditional IT management
+business. Looking forward we will continue our transition to SaaS, while rejuvenating our core portfolio and investing
+in operational improvements across this business.
+In addition, I've asked George Kadifa to take on a new role as Executive Vice President of Strategic Relationships. In
+this role George will be responsible for leading growth initiatives and alliance programs with key partners, service
+providers and our largest customers. After leaving HP Software, George has gained a unique perspective on our
+strategic priorities of cloud, big data, security and mobility. He understands both the customer requirements and the
+partner ecosystems that must be built to realize the potential of these technologies.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 5 of 16
+Robert Youngjohns will take over for George as the Executive Vice President and General Manager of HP Software.
+Robert is a very seasoned technology executive with more than three decades of experience. He joined the company
+last year to lead the turnaround of HP Autonomy after serving as President of Microsoft North America.
+Overall, I'm very pleased with the progress we've made, but we still have a lot more work to do. Our focus continues to
+be driving innovation, simplifying our organizational structure to speed decision-making, and reducing cost. These
+initiatives are particularly important as we continue to navigate a rapidly shifting marketplace.
+Against that backdrop, our Q3 outlook for non-GAAP diluted net earnings per share will be $0.86 to $0.90. And for the
+full year the outlook will be $3.63 to $3.75.
+So now let me turn it over to Cathie for a closer look at our performance in the quarter. Cathie?
+Catherine A. Lesjak
+Thanks, Meg.
+As Meg said, we feel good about where we are overall as we reach the midpoint of the turnaround. In Q2 total company
+revenue was in line with expectations, with pockets of strength in PCs and Networking. Enterprise Group revenue was
+somewhat lower than expected as storage revenue fell, although Converged Storage Solutions continued to outperform
+the market.
+Total revenue for the quarter was $27.3 billion, down 1% year-over-year and approximately flat in constant currency.
+By region, Americas revenue was $11.7 billion, down 6% year-over-year, or down 4% in constant currency. In the
+U.S., revenue was impacted by key account runoffs in Enterprise Services, plus softness in laser jet printing and in
+most EG business units. This was partially offset by strength in commercial PCs and Networking.
+In Brazil, we experienced weakness across all of our businesses. EMEA revenue was $10.3 billion, up 4%
+year-over-year, or up 2% in constant currency driven by growth in mature Western European economies. We
+experienced double-digit growth in Personal Systems in EMEA partially offset by declines in printing.
+APJ revenue was $5.3 billion, up 1% year-over-year, or up 6% in constant currency. We experienced revenue growth in
+China primarily on the strength in Enterprise Group and printing. In Japan, Personal Systems revenue was very strong
+due to the XP migration.
+Gross margin for the quarter was 24.2%, up 0.5 points year-over-year, and up 1.4 points sequentially. Year-over-year,
+strength in Printing and improvements in Enterprise Services were partially offset by pressure from the strong revenue
+performance in Personal Systems, and weaker Enterprise Group margins due to a competitive pricing environment.
+Sequentially, most of our businesses improved their gross margins due to good cost management and pricing discipline.
+Total non-GAAP operating expenses for the quarter were $4.3 billion, up 3% year-over-year, primarily associated with
+incremental R&D investments. Sequentially, OpEx was up 6% on higher R&D investments as well as a tough compare
+due to the real estate gains we reported in fiscal Q1.
+As a result, non-GAAP operating profit was $2.3 billion or 8.6% of revenue, flat year-over-year and up 0.1 points
+sequentially.
+We recorded $174 million of expense on the Other Income and Expense line, with a 22% tax rate and a weighted
+average diluted share count of 1.916 billion shares. We delivered second quarter non-GAAP diluted net earnings per
+share of $0.88.
+Second quarter non-GAAP earnings primarily excludes pre-tax charges of $264 million for amortization of intangible
+assets and $252 million for restructuring charges.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 6 of 16
+Now turning to the business units, in Printing we saw very strong profitability and further traction in key initiatives like
+Ink In the Office and Ink Advantage, as well as in Graphics. However, weak toner sales continue to be a headwind as
+the hardware install base remains under pressure. We are focused on placing value-added units to support the installed
+base throughout the rest of fiscal 2014. Total Printing revenue was $5.8 billion, down 4% year-over-year, driven by a
+decline in supplies revenue primarily related to lower toner sales.
+Commercial hardware revenue was $1.4 billion, down 1% year-over-year while consumer hardware revenue was $566
+million, up 1% year-over-year. Total hardware unit shipments grew 1% year-over-year. Ink In the Office and Ink
+Advantage units and revenue each grew double digits, and we grew share in both ink and laser hardware units. Supplies
+revenue was $3.9 billion, down 6% over the prior year period, and made up 66.3% of Printing revenue. Although the
+mix is down a point year-over-year, ink is a greater part of the Supplies mix, which helped offset the negative impact of
+lower supplies on overall Printing profitability.
+Total Printing operating profit was $1.1 billion or 19.5% of revenue, up 3.6 points year-over-year. We saw a positive
+currency benefit of approximately 1.5 points in second quarter margins, plus we realized some of the benefit from our
+focus on reducing non-labor costs and disciplined OpEx management. We expect to reinvest back some of these profits
+in value-added hardware units.
+Supplies channel inventory levels remain very slightly above our target range. This was primarily due to softer toner
+sales in Europe, but we did make progress reducing overall toner channel inventory in the quarter.
+The Personal Systems Group had a strong quarter despite a contracting PC market. Revenue and Personal Systems was
+up 7% year-over-year at $8.2 billion, driven by strong growth in commercial desktops and notebooks.
+Commercial sales grew 12% year-over-year, with consumer sales down 2%, although consumer notebook revenue
+grew slightly for the first time since the fiscal 2010 third quarter. Total unit shipments grew 10% year-over-year with
+growth in both commercial and consumer. Each segment outperformed the market. Total channel inventory remains
+well within acceptable ranges. Personal Systems operating profit was $290 million or 3.5% of revenue, up 0.3 points
+year-over-year, driven primarily by favorable mix, partially offset by competitive pricing.
+Enterprise Group revenue was $6.7 billion, down 2% year-over-year or down 1% in constant currency, driven primarily
+by declines in Technology Services, Storage and Business Critical Systems. Operating profit in the quarter was $961
+million or 14.4% of revenue, flat sequentially and down 1.4 points year-over-year as a result of the continued
+competitive pricing environment and increased investments, primarily in R&D.
+By business, ISS revenue was $2.8 billion, up 1% year-over-year, with strength in EMEA and APJ. Sequentially,
+revenue declined on lower hyperscale mix after we completed shipping a large deal in the first quarter. Lower
+hyperscale mix and good pricing discipline drove gross margins up sequentially again this quarter. While the server
+market remains very competitive, we believe we are taking the right actions to improve our go-to-market, strengthen
+our channel, and align our cost structure.
+Technology Services revenue was $2.1 billion, down 5% year-over-year. TS revenue continues to be impacted by past
+declines in hardware sales, but the strategy we have in place remains unchanged and the team is making progress.
+Penetration rates were up year-over-year driven by Storage and Networking attach, and we're seeing strong growth in
+our newer offerings like proactive care and data center care. Profitability in this business continues to be strong.
+Networking performed well in the quarter, revenue was $658 million, up 6% year-over-year, with strength in switching
+across all regions and we once again outgrew the Networking market leader. Storage results, however, were
+disappointing. Revenue was down 6% versus the prior year period at $808 million. Converged storage declined 3%
+year-over-year and 3PAR plus EVA plus XP also declined, but continued to outperform the market.
+While it's clear we aren't alone in experiencing weakness in the storage market, we also have an opportunity to improve
+execution, particularly in the U.S. We still expect converged storage to become greater than half of all storage revenue
+later this year, but we expect Q2 results to pressure overall storage revenue for the full year.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 7 of 16
+Business Critical Systems revenue declined 14% year-over-year to $230 million as strength in mission critical x86
+helped offset the continued impact from the UNIX declines.
+Enterprise Services revenue was $5.7 billion, down 7% year-over-year, primarily driven by continued key account
+runoff. By business, IT outsourcing revenue was $3.6 billion, down 7% year-over-year and Applications and Business
+Services revenue was $2.1 billion, down 8% year-over-year. Operating profit for ES was $144 million, or 2.5% of
+revenue, flat year-over-year. Sequentially operating margins were up 1.5 points driven by ongoing cost management
+and continued improvement in our under-performing accounts.
+We expect to see continued progress in both of these areas in the second half of the year, as well as better top line
+trends as key account runoff tapers, driving a full-year operating profit margin within our outlook range of 3.5% to
+4.5%. Although total signings were down year-over-year, strategic Enterprise Services signings were up double digits
+once again and we saw encouraging improvement in win rates. Our trailing 12 month book-to-bill was slightly lower
+sequentially as we exited Q2.
+Signings can be lumpy, but we anticipate improvement in this metric during the second half of the year. Overall we're
+making progress on our sales transformation, and are seeing a better mix of new logos, but we still have more work to
+do to successfully pivot to a more proactive sales approach.
+In Software, revenue was roughly flat over the prior-year period at $971 million with better license revenue due to
+continued strength in our key focus areas of security and big data, offset by lower support revenue. License revenue
+grew 8% year-over-year with strength in ArcSight, Fortify, Vertica and Autonomy. Support revenue declined 4%
+year-over-year as past license revenue declines continued to create a headwind. Professional Services sales grew 1%
+year-over-year driven by strength in security and big data. SaaS revenue grew 6% over the prior year period and we
+had strong bookings growth in IT Management and Autonomy.
+Operating profit was $186 million or 19.2% of revenue, up 0.6 points year-over-year primarily driven by continued
+gross margin expansion in professional services, partially offset by increased investments in R&D.
+We completed a small software acquisition in the quarter. Shunra provides network virtualization technology and had
+no material impact on our financial results in Q2, and isn't expected to materially impact the full year.
+HP Financial Services revenue was $867 million, down 2% year-over-year. Operating profit was $99 million, or 11.4%
+of revenue. While revenue continues to be impacted by financing volume shortfalls from fiscal 2013, new financing
+volume grew 12% year-over-year. The health of our portfolio of assets remains strong and return on equity was 18.2%.
+Turning to cash flow and capital allocation, we had another strong quarter generating $3 billion in operating cash flow
+and $2.3 billion in free cash flow. We continue to focus on working capital and brought our cash conversion cycle
+down to 13 days in the quarter, helped by a favorable mix with strong Personal Systems revenue and the expansion of
+our factoring program.
+Consistent with our efforts to improve our payment terms with key partners that I've talked about in previous quarters,
+we increased net utilization in our factoring program by approximately $750 million in the quarter. However, we
+believe many of our customers would have taken advantage of early payment discounts, so we estimate the actual
+benefit to cash flow to be approximately one to two days to our cash conversion cycle.
+For the year we continue to expect some upside to our original cash flow forecast, as I talked about last quarter, driven
+by working capital efficiencies. We further expect the expanded factoring program to provide some additional benefit.
+In Q2, we accelerated our return to shareholders by repurchasing 26.7 million shares in the quarter and paid $298
+million in dividends. In total we returned approximately $1.1 billion to shareholders in Q2 and we are still committed
+to our plan to return at least 50% of free cash flow to shareholders in the form of share repurchases and dividends for
+the full year. We improved our operating company net cash position by approximately $1 billion for the ninth quarter in
+a row and ended Q2 with operating company net cash of $2.7 billion.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 8 of 16
+Now looking forward to Q3, in Printing, we'll continue to focus on placing value-added units and expanding our
+innovative Ink, Laser and Graphics programs. We expect that toner will remain under pressure for the rest of the year.
+In Personal Systems, we expect the market to remain challenging and that the upward pressure from higher component
+costs may limit our ability to pursue upside deals as we focus on profitable growth. Also, don't forget about the Uttar
+Pradesh deal from last year that will make for a tough revenue compare in Q3.
+In EG, we have a strong team in place that is focused on aligning our cost structure, managing our margin profile, and
+improving our go-to-market execution across the businesses while investing for long-term success. And yes, as I talked
+about, we expect the ongoing actions we're taking to improve our cost structure and our underperforming accounts,
+along with the tapering of revenue runoff, to result in better profitability in the second half of the year.
+In Software, we expect to see continued traction in key growth areas like big data and security, while we invest in the
+business and manage our portfolio's transition to SaaS.
+Across all of our businesses, competing and winning in today's challenging environment requires lean organizations
+with a focus on strong performance management. We're optimizing our workforce and re-engineering our business
+processes to both build a strong operational foundation and create capacity for investments to drive future growth.
+Through this ongoing focus, we've identified incremental opportunity as I have signaled in the past quarters, and we
+now expect approximately 45,000 to 50,000 people to leave the company under our announced 2012 restructuring
+program. This is up from our previous estimate of 34,000. We expect a total of approximately 41,000 people to leave
+by the end of fiscal 2014 with the remainder in 2015. We expect this to create additional run rate savings in fiscal 2016
+of approximately $1 billion per year on top of what we've previously laid out, although we expect some of this will be
+reinvested back into the business.
+In fiscal 2014, we expect approximately $0.02 to $0.03 of incremental savings, an estimated incremental charge of
+approximately $500 million, and an additional cash flow impact of approximately $200 million in the second half of
+fiscal 2014. We will provide further clarity on the specific FY 2015 impact to P&L and cash flow when we provide our
+outlook for the next year at our Security Analyst Meeting in October. As we said, we won't do additional restructuring
+at a corporate level after this program is complete. However, each business will continue to drive workforce
+rebalancing and we'll account for those changes within the segment P&L.
+With that context, we expect full year fiscal 2014 non-GAAP diluted net earnings per share to be in the range of $3.63
+to $3.75. For fiscal 2014 Q3, we expect non-GAAP diluted net earnings per share in the range of $0.86 to $0.90. From
+a GAAP perspective, we expect a full year GAAP diluted net earnings per share to be in the range of $2.68 to $2.80,
+and GAAP diluted net earnings per share for fiscal Q3 is expected to be in the range of $0.59 to $0.63.
+With that, let's open it up for questions.
+Meg Cushing Whitman
+Thank you, Cathie. Before we go to questions I'm sure you all noticed that earlier today the HP press release with
+earnings went live before the appropriate time, and we are sorry about that and will make sure that that doesn't happen
+again.
+So now we'll go onto questions.
+Q&A
+Operator
+[Operator Instructions] The first question is from Keith Bachman with Bank of Montreal.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 9 of 16
+<Q - Keith F. Bachman>: Yes. Thank you. I have two if I could. The first one, Meg, you're taking some incremental
+cost out of the system with the additional head count targets. It clearly says that you're – it would seem to suggest that
+you're disappointed in some areas. Where specifically is the head count coming out of in the system? Where are the
+targets? And then I have a follow-up please.
+<A - Meg Cushing Whitman>: Yeah, sure. So you'll recall that this program goes back to FY 2012. We've actually
+increased the number of people who will leave the company a couple of times during this program. And actually on
+earlier calls we actually signaled that there might be more opportunity. And I'm actually not disappointed at all with
+how we're doing. We just see more opportunities to lower our cost structure, streamline our operations, without
+impairing our effectiveness. In fact, making us a more nimble and decisive company. The longer I've been here, I see
+opportunities where we can become even better.
+So that's the genesis of the program. It will be across almost all the business units and across all the geographies. And
+particularly in some of the functional areas that sort of help the businesses grow. So listen, I'm not at all disappointed. I
+think it's the natural course of what makes sense in a turnaround of this size and scale.
+<Q - Keith F. Bachman>: Okay.
+<A - Catherine A. Lesjak>: The other thing that I'd add real quickly is just it's going to create more capacity to invest.
+I think that's really important to HP. Because as Meg has talked many times, the turnaround and our success in this
+turnaround is going be on the strength of the innovative products and solutions that we bring to market.
+<Q - Keith F. Bachman>: Okay. On my follow up then if I could, I wanted to turn to the printing business. I was a
+little surprised to hear you say the install base seems to be declining with the good unit placements that you had for the
+last three to four quarters. It really speaks to the supplies. The Supplies I thought was disappointing this quarter, and it
+sounds like you're saying it's going to continue to be under pressure. If you could just flesh out a little bit more some of
+your comments on the printing business in particular. Thank you.
+<A - Meg Cushing Whitman>: Yeah, let me start with the comment about the installed base largely relates to laser
+hardware and the softness in supplies largely relates to toner. Actually ink is doing reasonably well. This actually goes
+back a number of years. You'll recall that we, for about seven years, didn't probably make the necessary product
+innovations in terms of the next generation of these machines in terms of multi-function printers. And it's also
+important, our managed print services business we were late to that market and we're catching up fast.
+So we're going to place the right units. We now have the right products, not only for multi-function printers to direct
+customers into the channel, but also importantly for managed print services. I think as Cathie said, we'll see some
+softener in toner through the rest of the year and then I think we'll start to see more normal patterns. And I think Cathie
+wants to add one thing to that.
+<A - Catherine A. Lesjak>: I think the absolute size of the installed base is one dimension but it's also the quality of
+the installed base. So if we place a unit today that has a much higher usage like an Ink In the Office unit or Ink
+Advantage unit, and that's replacing a unit that didn't have as high usage, we actually are doing exactly what we want to
+do. So we've got be focused on the size of installed base as well as the quality.
+<Q - Keith F. Bachman>: Okay, great. Thank you.
+<A - Rob Binns>: Thanks for your question, Keith. If we could have the next question, please?
+Operator
+We have Toni Sacconaghi with Sanford Bernstein. Your line is open, sir.
+<Q - Toni M. Sacconaghi>: I'm sorry. I wanted to follow-up on the last question in terms of the restructuring and
+anticipation of this. It just strikes me as odd that you have a 2012 restructuring plan that is doing significant
+incremental work force restructuring in 2015. My understanding originally was 27,000 was what was needed to
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 10 of 16
+right-size the company. Then it went to 29,000 then it went to 34,000. And now it's going to 50,000. And to me, it feels
+like a whole new restructuring effort and a whole new outlook on the business. And I can't help wondering why
+something so significant has come up relatively suddenly.
+Moreover, I'd like to get your input on your confidence for 2015 because clearly $1 billion in incremental savings is
+significant and should be applauded. But is that a message that you're not as confident that you can grow EPS in 2015
+without these workforce rebalancings? So in other words, do you think HP will grow in 2015? And is the reason for
+this incremental workforce rebalancing because you've lost confidence, or you don't have as much confidence in the
+company's ability to grow top line in 2015?
+<A - Meg Cushing Whitman>: So, Toni, let me take that and I'll let Cathie talk about guidance, because we're not
+actually going to give guidance today for 2015. But this actually has nothing to do with our confidence in the business.
+This has to do with really now understanding the opportunities that we have to make this company better. You've got to
+remember, this company was built over many years by acquisition, has five major business units, we sell through
+150,000 VARs, we operate in 166 countries.
+And as you look at our processes, as you look at how we go to market, as you look at things like sales ops and
+marketing, and frictionless e-commerce, there are so many opportunities to improve this company. And we went after
+the ones that were immediately obvious, but the longer I'm here and this management team is here, the more
+opportunities we see, and we think that's goodness. That's goodness because it makes us easier for customers to do
+business with. It makes it easier, frankly, for employees to get things done here. And by the way, has an added benefit
+of making us lower cost, so we're better able to compete in a new world order.
+But my view is, I've done a number of turnarounds in my career, not at this scale I will say, but they are always, you
+see more opportunities the deeper that you get in. I'm actually quite excited about the opportunities it provides. And
+Cathie said it well, it does give us the capacity to bring money to the bottom line, but frankly also invest in the things
+that are going have this company grow in a sustainable way over the future.
+<A - Catherine A. Lesjak>: Toni, I would add, we actually tried to signal this at the Security Analysts Meeting and
+then on the earnings call last quarter, because we knew we were working feverishly to understand the re-engineering
+possibilities and what kind of ramification that would have for the head count that we need to run this company. And
+really what I view us doing now is just finally getting to the point of quantifying for you all what that looks like. But it's
+been work that's been ongoing since last year.
+<A - Meg Cushing Whitman>: I'll just say, in terms of revenue. I think the good news is, we've seen revenue
+stabilization in the last three quarters. It wasn't that long ago where this company was declining 7%, 6%, 9%
+quarter-over-quarter, and we've had three quarters of basically flat growth. To me that's encouraging, because you've
+got to stabilize before you can grow. And you can see the improvement in virtually all the different businesses.
+<A - Rob Binns>: Great. Thanks for the question, Toni. Next question, please.
+Operator
+We have Katy Huberty with Morgan Stanley.
+<Q - Katy Huberty>: Thanks. Given Services signings are coming in slower than expected, is this an area where it
+makes sense to acquire for growth? And then just as a follow-up to that, full-year Services margin guidance requires
+you to exit the year around 6%. Cathie, can you just talk in more detail around where that meaningful improvement
+comes from over the next couple of quarters?
+<A - Meg Cushing Whitman>: Let me speak to the signings and the revenue growth. I think as we said at SAM and as
+we said quarter-over-quarter, we're in the early innings of the sales transition to drive a much more proactive sales
+approach. And while total signings were down a bit year-over-year, the places that we want to grow, what we call
+strategic Enterprise Services signings, were up double digits once again and we saw a very encouraging improvement
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 11 of 16
+in win rates, and actually signed over 200 new logos which is actually a big turnaround for the sales organization over
+there.
+So we've got more work to do, but I'm feeling confident that we're pivoting the sales organization to be more proactive,
+and I think we're being invited to a lot more bids, if you will, than we had in the past. Because I'm seeing it every day,
+customers are much more confident in HP and much more confident in our Services business.
+<A - Catherine A. Lesjak>: And, Katy, let me address the margin question. We have made good progress in
+improving both our under-performing accounts as well as really realizing good savings out of productivity initiatives,
+and we expect that this progress will continue in both of these areas throughout fiscal 2014. And then if you couple that
+with better top line trends, we do expect that we will operate – have operating profit margins in the 3.5% to 4.5% for
+the year.
+Again, we've got to continue to execute well. We've got to take advantage of the restructuring that we – the previous
+restructuring that, by the way, is a bit accelerating as well as this incremental program. But we are starting to get labor
+out of some of the protected geos, which tend to be higher cost. And we're also focused not just on labor savings but
+also on non-labor savings that come from better efficiency across processes, consolidating service centers, looking at
+data center automation. All of which that will help us reach these margins of 3.5% to 4.5%.
+<A - Rob Binns>: Thanks, Katy. Next question, please.
+Operator
+We have Ben Reitzes with Barclays.
+<Q - Ben A. Reitzes>: Hi. I've got to just ask you to clarify your answer to Toni's question, because with you hitting
+$0.40 in run rate savings by 2016, with such a big increase in the head count reductions, I mean, what are we supposed
+to do here? I mean, are we supposed to raise our out-year numbers? We can't just wait for the analyst day. We kind of
+need to know what you guys are thinking. The $0.40 in 2016 kind of means we have to raise our estimates unless
+something really changes with the top line. So I know you want us to wait for the analyst day, but a lot of us have got to
+make a decision by tomorrow. So we really need some clarity there.
+And then I just would also like to know on the free cash flow side your preference for buybacks versus acquisitions at
+this point of outperformance. Thank you.
+<A - Meg Cushing Whitman>: Ben, I'm not exactly sure how to answer that question. You know that we don't
+provide guidance for the future until we get to our Security Analyst Meeting. And that's really no different than what
+we've ever done. What I will say is that the gross savings of $1 billion is incremental to the $3.5 billion to $4 billion
+that we announced for the 34,000. Those are gross savings. There is a cost to migrate some of that work. And so those
+are not the net savings. In fiscal 2014, we do expect that the net savings from this incremental program is $0.02 to
+$0.03. And stay tuned for fiscal 2015's update at the Security Analyst Meeting.
+<Q - Ben A. Reitzes>: Great.
+<A - Rob Binns>: Thanks, Ben. Next question, please?
+Operator
+We have Amit Daryanani with RBC Capital Markets.
+<Q - Amit Daryanani>: Thanks a lot. Good afternoon, guys. I just have a question on the PC side. You've had, you
+seen nice growth the last two quarters in a row, especially on the commercial side. Could you maybe just talk about
+how much of that growth you think is run by Windows XP going end of life versus maybe more other factors in play as
+you go through the rest of the year?
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 12 of 16
+<A - Meg Cushing Whitman>: Yeah, I mean, for the market overall, we're seeing some good signs of stabilization,
+particularly in commercial PCs, which was up 2% year-over-year. And by the way, there's some strength in EMEA, flat
+year-over-year for the first time in seven quarters. So the market's definitely stabilizing. I think we are benefiting from
+the migration from XP to Windows. We saw that in spades in Japan. We had a very, very strong quarter in Japan as that
+migration took place. We actually think that migration's going to extend for some period of time, maybe another 12 to
+18 months. But we also see some momentum in what I would call a long overdue PC refresh. And frankly the fact that
+companies are realizing there's a need for a productivity tool that's different than just a tablet.
+So listen, I think we expect over time this is still to be a low growth to slightly negative growth category. But I think we
+actually have a bit of wind at our backs over the next year to 18 months.
+I also actually have to call out credit to our team, our leadership team led by Dion Weisler. They have focused on
+profitable growth, creating incredibly compelling products, very crisp market segmentation, leveraging our distribution
+strength in commercial and go to market and really focusing on only doing profitable growth, not share for share's sake.
+So it's a combination of all those things, I think.
+<Q - Amit Daryanani>: That's helpful. Let me just follow-up on the cost-cutting initiative that you're expanding now
+this quarter. What's the comfort level that this is the final number and there shouldn't be another expansion for this?
+Because since you started in May of 2012, this number has close to doubled in terms of head count, so maybe just start
+with the comfort that this is it. And secondly, how does this play out for the morale of the company given the head
+count cuts seem to almost accelerate a little bit every six months?
+<A - Meg Cushing Whitman>: Listen, I don't anticipate an additional program. And after the end of this program,
+obviously we are in the process of building productivity into the HP DNA, into our business unit and function DNA.
+And so that productivity, that ever ongoing quest for efficiency, will be borne by the P&L of each of these different
+business units.
+But again, I would just say that this company had been through a lot: the acquisition of Compaq, the acquisition of
+EDS, 11 to 20 software acquisitions, a lot of change and part of what we're doing is we are integrating, we're
+streamlining, we're putting in new ERP programs, we're investing in systems and technology to automate processes that
+frankly had not been done in a while. And so I actually think this is good news that we are continuing to take advantage
+of the opportunities that we see. But what I will tell you is, I don't anticipate an additional program after this.
+<A - Catherine A. Lesjak>: And let me address Ben's – the second part of Ben's question. I apologize, I didn't catch
+that one. So Ben, I think your question was around capital allocation and how are we thinking about that. We are still
+committed to the capital allocation approach that we outlined at our Security Analyst Meeting, which means that
+between dividends and share repurchases we do anticipate returning at least 50% of our free cash flow to investors in
+fiscal 2014, and we will see the timing of the share repurchase activity levels will vary quarter-to-quarter. But I think
+it's really important that given the attractiveness of the valuation of HP shares as well as our anticipated cash flow
+generation levels, our approach to capital allocation will have a bias towards share repurchases.
+When we then shift to, kind of, what about M&A, as we've talked about, we will evaluate any M&A using a returns
+based framework, and any of the near-term considerations in terms of what types of things we might be interested in,
+are absolutely going to be in our strategic focus areas such as cloud, security and big data.
+<A - Meg Cushing Whitman>: And, Amit, let me answer your question about morale. So listen, no company likes to
+decrease the workforce, and we recognize that it is difficult for employees. What I will tell you is, I think our
+employees live it every single day, the environment that we're in. Our employees know that there's ways we can be
+more efficient. They are in some ways the biggest source of ideas on what we can do differently.
+So I think everyone understands the turnaround we're in, everyone understand the market realities, everyone
+understands the need to create financial capacity to invest in innovation which will be our point of difference and
+making sure that we have the right sales force coverage in every geography. So I don't think anyone likes this, but I
+think actually we've done a good job of explaining where we are in the turnaround, what the strategy is, and what's
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 13 of 16
+going be required to get HP to where we all want it to be in the industry.
+<A - Rob Binns>: Okay. Thanks for that, Amit. And just a reminder, if we can try and keep the follow ups to a
+minimum so we can get through more questions, that would be helpful. Can we have the next question, please?
+Operator
+We have Sherri Scribner with Deutsche Bank.
+<Q - Sherri A. Scribner>: Hi. Thank you. I wanted to get a little more detail on the pause in the Storage business. You
+did give us some detail, but I guess I was a little surprised to hear that the converged piece actually saw some
+deceleration. So maybe some more detail on, do you think you're losing share or do you think there's something more
+systemic that's going on in the industry right now? Thanks.
+<A - Meg Cushing Whitman>: So we actually think we'll gain a point of storage in this market. I think what's going
+on here, and listen, I'm not sure anyone has total clarity on this. But as I have talked to customers, here's what I've
+learned and I've talked to our sales team, is effectively, there's an efficiency thing going on here around compression
+and thin provisioning. And then of course, flash is on the horizon in a much more important way than it has been in the
+past. And then what's interesting is, the high end, you can now get high-end performance for mid-tier pricing.
+And so there's I think a lot of choices now in front of storage buyers, whether it's small- to medium-size to the big
+enterprises. So my sense of the situation is, there's a pause, trying to figure out what the right thing to do is, and that
+this market will come back in the second half. Obviously we have to wait to see that happen, but that is what most of
+our customers and our partners are telling me. And the good news is, we are completely perfectly positioned for where
+this market is going. And 3PAR is the exact right product, the flash product is exactly the right product, and we are – I
+think we're really well-positioned for where the market is going.
+Obviously no one knows exactly what's going to happen. If the market doesn't rebound in the next half then there's
+another situation that we're facing, but I don't actually think that's the case. And again, we'll gain probably a point of
+share in this calendar quarter.
+<Q - Sherri A. Scribner>: Thank you.
+<A - Rob Binns>: Thanks for the question, Sherri. Next question, please.
+Operator
+We have Brian Alexander with Raymond James.
+<Q - Brian G. Alexander>: Okay. Thanks. Good afternoon. Maybe back to the M&A question. Given the stronger
+cash flow outlook that you expect this year, I'm just curious how that impacts the appetite to make larger acquisitions
+than what you previously discussed. I think you said in the past, small- to medium-size. But with the cash flow
+continuing to outperform, how should we think about deal size now? Thanks.
+<A - Meg Cushing Whitman>: Well, first and foremost, I'll just reiterate what I've said, is we expect to be returns
+focused in our approach to acquisition. And as I said before, we don't feel the need for large transformative
+acquisitions. We haven't put a specific size range or limits on this but I'd say they are most likely in the range from the
+small, low hundreds of millions to mid-size deals. And will largely be in the area of the strategic focus for HP, which
+would be largely cloud, security, big data that we think will advance our positions in those businesses.
+<A - Rob Binns>: Thanks, Brian. Next question.
+Operator
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 14 of 16
+We have Kulbinder Garcha with Credit Suisse.
+<Q - Kulbinder S. Garcha>: Thank you for the question. And again on the restructuring, I guess for Meg, maybe if I
+ask the question this way, has your revenue visibility for this business over the medium term or the growth outlook that
+you've had, whatever that might have been in any way significantly changed in the past six months that may have
+prompted some of this incremental restructuring you are pursuing?
+And then linked to that, previously you made it very clear both you and Cathie that you were going to reinvest in a
+large part of the initial round of savings. Would the retention of savings be significantly higher on this next round or are
+you at this stage still evaluating that?
+<A - Meg Cushing Whitman>: Yeah, so I'll tell you my outlook has actually not changed in terms of where we are in
+the turnaround, what my view is of the revenue trajectory. We obviously live in a market that's shifting at warp speed.
+This is the fastest market shift I've seen in my career and by the way you knew I grew up mostly in the consumer space,
+which tends to move faster than the enterprise space.
+I would actually say I'm feeling more confident because we have seen a stabilization of revenue. The very high single
+digit declines are over. We've had three quarters of pretty good stabilization and I really like our product road map.
+Many folks who have been around HP for a – many, many years have said this is the best product lineup we've had in a
+decade. So I feel confident in it.
+What I will say is that we need to run this company more efficiently, not only for the benefit of cost, which is good
+because then we can reinvest in things that will make us strongly but frankly in terms of ease of doing business, ease of
+working here and faster more nimble decision making. We're going to have to be quicker and faster and more nimble to
+compete in this new world order and by the way, having a lower cost structure is an added benefit to that.
+Cathie, do you want to add anything to that?
+<A - Catherine A. Lesjak>: No, I think you're exactly right.
+<A - Rob Binns>: Thanks, Kulbinder. Next question, please.
+Operator
+We have Bill Shope with Goldman Sachs.
+<Q - Bill C. Shope>: Okay, great. Thanks. I have a question on the printing segment. Even excluding the end tailwind
+you discussed, your operating margin strength was fairly substantial given a 6% decline in supplies. Can you give us a
+bit more detail on the components of the printing margins and particularly what's occurring within hardware margins? I
+understand you have more ink mix on the supplies side. But what's going on within hardware margins and what do you
+view as sustainable outside of the yen impact?
+<A - Meg Cushing Whitman>: Thanks, Bill. So the increase in margins year-over-year are 3.6 points. The currency is
+about 1.5 points and then the rest is really strong cost management and it's across the portfolio. It's not a hardware
+comment versus a supplies comment. It is a comment about making sure that we've got the right cost structure. And
+then offsetting that a little bit is unfavorable mix but it's really important that we step back a bit and we talked about it
+at the Security Analyst Meeting in October the fact that we expected from IPG $0.07 to $0.11 of incremental EPS and
+that was before incremental investment that we talked about at the time of it being $0.12 across the company and now
+we've upped it to $0.14. So we've got to stay – we've got to remain focused on investing for the long term in this
+business. That means placing units. That means continuing to invest in R&D.
+We think there's a real opportunity to increase the amount of print specialists across the world. So we're focused on
+doing that. And it's also really exploiting these new business models, Ink Advantage, Ink In the Office, our
+multi-function printer lineup and our managed print services. Those are all really important points that we've got to stay
+focused on.
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 15 of 16
+And then finally I'd say that we've got to continue to be very competitive. The market is tough. We've got Japanese
+competitors who have an even bigger war chest as a result of the yen depreciation. And so we will be more aggressive
+where we need to be.
+<A - Rob Binns>: Thanks, Bill for the question. Next one, please?
+Operator
+We have Rod Hall with JPMorgan.
+<Q - Rod B. Hall>: Hi, guys. Thanks for taking the question. I just wanted to ask you guys if you could talk a little
+about the R&D increase. I know you gave a little bit of color, but could you give us a little bit more color in that area?
+What you're increasing, what you're focusing on with the additional R&D.
+And then I know this question's been asked a bunch of times, but the $0.02 to $0.03 that you expect to realize in net
+savings here in the last part of this year, can you talk to us about the phasing of the savings over the period? Is most of
+that $0.02, $0.03 coming in fiscal Q4, or is it coming linearly across the two quarters? Just help us understand how
+that's ramping through the back end of the year? Thanks.
+<A - Catherine A. Lesjak>: Okay. So let me start with that last question. Those $0.02 to $0.03, there's a little bit that
+happens in Q3 and a little bit that happens in Q4. If you actually go and look at the guidance that we provided for EPS,
+the midpoint would suggest that – and we've got it flat sequentially – normal seasonality would suggest it would be
+down about a point. The restructuring savings are actually bringing it to being flat sequentially. So that will give you a
+little indication of what's going on from a Q3 perspective. And I'm sorry I've lost track of your first question. R&D,
+sorry.
+In terms of R&D, the increase in R&D year-over-year is actually very broad-based. Just about every business that we
+have is increasing R&D on a year-over-year basis. Obviously it's focused in strategic areas. cloud, big data, security,
+page-wide array, 3D printing, kind of across the board we're increasing R&D. So it's really not a specific comment for a
+particular business.
+<Q - Rod B. Hall>: Okay.
+<A - Meg Cushing Whitman>: I'd just say that actually we've increased R&D in Servers. We love our road map. We
+love the opportunities there, and we're pretty excited about some of the innovation that's coming down the pike there.
+<A - Catherine A. Lesjak>: Yeah, so we've got R&D increases in EG. In Storage – within that, we've got Storage,
+we've got industry standard servers. So it's really broad-based that we're making incremental R&D investments
+year-over-year.
+<A - Rob Binns>: Thanks for that one, Rod. One final question, please.
+Operator
+We have Jim Suva with Citigroup.
+<Q - Jim Suva>: Thank you very much. Meg, when you think about how a lot of things have changed in the industry
+on the server side, you've got Lenovo purchasing the IBM x86 series, it seems like there's a lot of disruption going on
+and an opportunity for HP to gain share in Servers, as we're seeing a lot of CTOs kind of confused and not sure how
+that will all pan out. Can you help us confirm if indeed you expect to gain some shift? Not to be blunt, it would kind of
+seem like a blatant missed execution step if HP doesn't take advantage of this in the very near term as an opportunity.
+<A - Meg Cushing Whitman>: So we're focused on this. And there's some early signs that show that we're making
+some progress. And as we've seen an increase in win rates attributable almost directly to the uncertainty in the
+Company Name: Hewlett-Packard
+Company Ticker: HPQ US
+Date: 2014-05-22
+Event Description: Q2 2014 Earnings Call
+Market Cap: 60,226.94
+Current PX: 31.78
+YTD Change($): +3.80
+YTD Change(%): +13.581
+Bloomberg Estimates - EPS
+Current Quarter: 0.895
+Current Year: 3.713
+Bloomberg Estimates - Sales
+Current Quarter: 27100.750
+Current Year: 111113.517
+Page 16 of 16
+marketplace around the IBM business moving to Lenovo, and we're building pipelines for future incremental deals. So
+good win rates, good pipeline. Feeling good about this. It's a longer sales cycle than you'd think, particularly in blades
+and some of these other areas. This takes a bit of time, but I think we have got the sales team focused on this. They're
+pretty excited about it. It's an open door that we're running through.
+<A - Rob Binns>: Great. Thanks for that, Jim, and with that, I think we'll conclude the questions.
+Meg Cushing Whitman
+Great, thank you very much for joining us today.
+Catherine A. Lesjak
+Thank you.
+Operator
+Ladies and gentlemen, this concludes our call for today. Thank you.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
