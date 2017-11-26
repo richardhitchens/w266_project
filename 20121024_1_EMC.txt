@@ -1,0 +1,879 @@
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 1 of 16
+Q3 2012 Earnings Call
+Company Participants
+• Anthony T. Takazawa
+• David I. Goulden
+• Joseph M. Tucci
+Other Participants
+• Aaron C. Rakers
+• Ittai Kidron
+• Shebly Seyrafi
+• Brian Marshall
+• Kulbinder S. Garcha
+• Alex Kurtz
+• Bill C. Shope
+• Maynard J. Um
+• Scott D. Craig
+• Amit Daryanani
+• Abhey Lamba
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning, and welcome to the EMC Third Quarter 2012 Earnings Conference Call. All parties are in a listen-only
+mode until the question-and-answer portion of the call. As a reminder, this conference is being recorded. If you have
+any objections, you may disconnect at this time. I would now like to introduce your host Mr. Tony Takazawa, Vice
+President, Global Investor Relations of EMC.
+Anthony T. Takazawa
+Thank you. Good morning. Welcome to EMC's call to discuss our financial results for the third quarter of 2012. Today
+we are joined by EMC Chairman and CEO, Joe Tucci; and David Goulden, EMC President and COO. To kick things
+off, David will comment on our results and how these tie with the execution of our strategy. He will also discuss our
+outlook for the rest of 2012. Joe will then spend some time discussing his view of what is happening in the economy
+and IT, EMC's vision and strategy, and how EMC is helping customers navigate the massive transformation happening
+in IT regarding cloud, big data and trust. After the prepared remarks, we will then open up the lines to take your
+questions.
+Please note that we will be referring to non-GAAP numbers in today's presentation unless otherwise indicated. The
+reconciliation of our non-GAAP comments to our GAAP results can be found in the disclosure in today's press release,
+supplemental schedules and the slides that accompany our presentation. All of these are available for download within
+the Investor Relations section of EMC.com.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 2 of 16
+As always, the call this morning will contain forward-looking statements and information concerning factors that could
+cause actual results to differ can be found in EMC's filings with the U.S. Securities and Exchange Commission. We are
+also providing you with an update to our projected financial model for 2012. This model lays out all of the key
+assumptions and discrete financial expectations that are the foundation of our 2012 outlook. We hope that you find this
+model helpful in understanding our assumptions and context and ensuring that these expectations are correctly
+incorporated into your models. This model is available as background in today's slides available for download in the
+Investor Relations section of EMC.com.
+With that, it is now my pleasure to introduce David Goulden. David?
+David I. Goulden
+Thanks, Tony. Good morning, everyone, and thank you for joining us today. This morning we reported continued
+growth in revenue and earnings per share in Q3 with revenue up 6% and non-GAAP EPS up 8% over last year's Q3.
+Free cash flow grew 16% year-on-year.
+The environment in Q3 turned out to be more cautious than we had expected. There were several issues weighing on
+customers' minds including uncertain global economic growth and the U.S. Presidential election. The macro challenges
+translated into more spending scrutiny, longer deal cycles, additional approval requirements and the resulting delay in
+IT deals.
+While the macro factors caused EMC's growth to be less than expected, I am pleased that we did show growth in this
+challenging environment and as tech industry results are reported I believe EMC will be one of the stronger big
+companies and that we certainly gained share.
+We also showed EPS leverage and achieved a number of Q3 quarterly records including record revenues, record
+non-GAAP operating income and record non-GAAP EPS. In the face of such headwinds I believe that our strategy,
+balanced portfolio, operational model and ability to execute are paying off near-term and position us well for the
+long-term.
+While we need to navigate the shorter-term economic challenges the longer-term secular changes offer an opportunity
+to be really successful. The shifts to cloud, big data and trusted IT bode well for us as we've been at the forefront for
+these for some time. These trends are in full force because they enable companies to capture a better return on dollars
+invested in IT than ever before. Cloud architectures make the infrastructure more agile and efficient whilst big data
+enables new insights that can help grow the top line and all this must be done in a trusted way.
+At EMC we understand the company that can best deliver this ROI wins and we continue to invest to make this happen.
+The result is innovative, practical, customer focused additions to our product lines.
+And during times when spending is tight our focus on high priority areas of the data center like virtualization, security
+and storage serve us well. Customers needing to be extra cautious about where they spend their budgets first direct their
+dollars to high impact areas and the most cost efficient technologies in those areas, in other words, to best of breed
+offerings like our own.
+The drive for greater efficiency and business value from IT extends beyond economic cycles and is gaining momentum
+as more customers shift more of their spending toward cloud architectures: private clouds, public clouds and hybrid
+clouds. Running cloud infrastructure means leveraging pools of network and storage and server resources that are
+dynamically allocated to new and existing applications based on demand.
+This is not easy and as a result most companies building clouds, either private or public, have neither the full set of
+resources nor the IT to build these architectures themselves. A few do but the rest seek an infrastructure that can get
+them there without having to compromise on important enterprise class features. These include capabilities like
+replication to ensure data availability and business continuity; efficiency features like tiering, de-duplication and
+compression; backup with best in class recovery points and recovery time objectives; security that's agile and risk
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 3 of 16
+based; and virtualization, a key component for achieving the control, efficiency and choice clouds can deliver.
+Our approach to using our own internally developed software integrated with industry-standard hardware that has been
+tested and tuned enables us to deliver value to the customer that we believe is unparalleled amongst our peers. This
+formula is in lockstep with the transition to hybrid cloud and should keep us at the forefront of data center
+infrastructure.
+While we saw somewhat slower growth across the board due to the economy in Q3 we believe we are better positioned
+than our competitors to deliver value to our customers. As companies look to invest in the data center technologies that
+will support hybrid cloud architectures they prefer storage solutions that have been optimized for the task at hand. We
+saw evidence of this in Q3 as our portfolio of complementary network storage platform products was up 2% over last
+year's Q3.
+Having different storage functionality for different application and workload needs is an important part of our strategy
+and we've worked diligently to create a full complement of scale-out block, scale-out NAS, unified and backup
+solutions. Companies in all sectors, of all sizes and with all sorts of IT challenges can look to us for a solution, which in
+many cases is several different storage technologies within the same customer.
+While demand for various technology may ebb and flow quarter to quarter this broad portfolio enables us to stay
+engaged with customers as they work to solve their problems and it helps to drive our business over time. Our high-end
+storage products grew 5% over Q3 of last year. Our Symmetrix scale-out block solution had its first full quarter of
+availability for the refreshed family of VMAX 10K, 20K and 40K and customers are embracing it. The new software
+functionality leverages the powerful standards-based hardware to deliver high-end reliability, availability and
+serviceability via an easy-to-use Unisphere interface. This transition to a new family continues to ramp well and we
+expect it to be essentially complete by year-end.
+Our mid-tier storage comprised of our scale-out file unify and backup solutions was flat year-over-year for Q3 and up
+over 10% year-to-date. This quarter, results were driven by the Isilon scale-out NAS business. Isilon continues to do
+well in its traditional areas of strength such as media and life sciences, while it's expanding its presence in more
+traditional enterprise environments.
+The upcoming new Isilon OneFS operating system, Mavericks, which is on track to ship before year-end is designed to
+drive Isilon into new verticals and expanded use cases. For unified block and file environments, customers continue to
+rely on the simple efficient architecture of our VNX family. Revenue in Q3 was down in the mid-single digits year on
+year. Given the environment, demand for the family was pretty good, however, due to the later than expected timing of
+some channel-related orders, we couldn't ship these orders in Q3 and had to move them to Q4.
+What was encouraging though, is that the overall growth to our channel products continued driven in part by the
+popularity of VSPEX. In addition, our recently announced partnership with Lenovo will provide an incremental
+channel for the VNX family over time starting in China.
+Our purpose built backup appliances, Data Domain and Avamar grew in Q3. It's worth noting that this business had a
+tough compare year on year and also suffered a bit from some delayed procure decisions by customers. While a push
+out of these orders had an impact on Q3, we have already closed several of these deals early in Q4.
+Customer need comprehensive and leading edge backup solutions as part of their next-generation data centers. A good
+example of how important a full backup portfolio is for the customer is Ochsner Health System, which has gone
+tapeless with its combination of Avamar, Data Domain, NetWorker, Data Protection Advisor and Disk Library for
+mainframe backing up their storage environment which is based on VMAX and VPLEX.
+The strategic value of having a strong information storage portfolio is clear as we see customers adopting a broad range
+of EMC solutions to optimize their application environments. In Q3, we won a deal with a government administration
+that needed to accommodate 80-terabytes of VM storage and 850-terabytes of scientific data, a combination of VNX
+with 6-terabytes of flash capacity and Isilon provide the best value and the most efficient scalable and easy to manage
+solution.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 4 of 16
+We closed another deal in Q3 with a large healthcare company where having the full portfolio of storage solutions
+made the difference to the customer. This company needed a solid storage infrastructure to roll out several new
+applications in 2013. However, their old and failing storage infrastructure left them no room to grow and their backup
+solution was severely lacking. A combination of VNX, Data Domain, Isilon and RecoverPoint handily beat the storage
+technology proposed by the incumbent server vendor.
+One of our more rewarding customer wins illustrating the full value of the portfolio was with Cancer Research U.K.
+with a combination of VFCache, VNX with flash drives, vSphere, Data Domain, and NetWorker, Cancer Research
+U.K. increased performance, improved efficiency, and their disaster recovery capabilities.
+This example demonstrates the value flash can add across the infrastructure and we've made flash everywhere a central
+tenet of our data center strategy. We first introduced SSDs on storage arrays back in 2008. We followed soon after that
+with the introduction of FAST software to automate the placement of data on to flash for hot data and onto different
+types of disk for warm or cold data.
+And now four years after their introduction, these hybrid arrays have become the norm. Over half our arrays now ship
+with flash drive and our FAST software. These intelligent tiered network storage arrays provide a rich set of data
+services for data management, data efficiency and data availability. These intelligent arrays enable customers to derive
+more value, better performance, higher application availability and a lower total cost of ownership from their storage
+infrastructure than ever before.
+We extended our flash capability with the development of VFCache, which is focused on turbocharging existing line of
+business applications in conjunction with storage arrays. In the case of Cancer Research U.K., adding VFCache to their
+Oracle CRM application allowed them to reduce database query time by a factor of six and increase throughput by a
+factor of three, allowing them to complete four fundraising campaigns in the time it used to take them to complete one.
+We continue to innovate here as recent enhancements to VFCache demonstrates. The additions to VFCache we
+introduced last quarter include cache de-duplication for server flash – the first in the industry – interoperability between
+VFCache and VMotion, enhanced integration with VMAX and expanded capacity VFCache PCIe cards as well as
+multiple PCIe cards per server for larger cache sets and greater performance.
+While VFCache is a focused cache use case for server-based flash, it provides impressive and tangible performance
+benefits for customers' enterprise applications and the number of VFCache customers approximately doubled last
+quarter.
+There is much more to come as we continue to rollout our flash everywhere strategy. As we've previously stated next
+year we expect to bring to market new technologies. We plan to broaden our focus on server-based flash by introducing
+best in class capacity and cost optimized PCIe attached DAS for performance intensive applications that don't require
+storage data services.
+We'll introduce Project Thunder, an all-flash storage appliance that attaches to the server network and allows the
+sharing of flash resources across multiple of these performance intensive applications. Project Thunder leverages the
+same software we're developing for VFCache.
+We'll also introduce Project X, our innovative all flash scale-out storage array designed to offer the full data services of
+a storage array and the sub-millisecond performance provided by flash. This is ideal for applications where 100% of the
+data is hot or where data is highly de-dupeable such as VDI or database test and dev environments.
+The customer access programs for these upcoming flash technology are going very, very well and generating a lot of
+interest and excitement. Across all our flash products, the magic that brings flash to life is our software. A great
+example of this is FAST, which automates the migration of data across tiers of storage based on patterns of use both
+within a hybrid array and even across the interconnect to the server tier. FAST is so efficient that in some cases 1% to
+2% of the total capacity in flash within a hybrid array can process over half the IOPs of the entire array.
+Our foundational play in big data, Greenplum, continues to help customers exploit the growing potential of big data
+analytics. Wins in Q3 include a deployment of web analytics for a large government organization, website analytics for
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 5 of 16
+one of the largest retailers in the U.S. and at one of the largest mobile telecoms in the U.S., a large-scale
+implementation to decrease the cost of data transformations in billing analytics. In this case the customer was able to
+displace the incumbent data warehouse it was using for ETL with a far less expensive Hadoop map reduced framework
+on Greenplum.
+Long-time EMC customers are also eager to capitalize on the data that they own as a large win at a global financial
+services company attests. As part of a purchase that also included Vblock, VNX, SourceOne and Centera, this customer
+selected Greenplum for analytics of their email. Greenplum continues to grow at strong double-digit rates.
+We're excited to have Paul Maritz spending a lot more of his time on our big data and next generation application
+initiatives and I look forward to expanding these initiatives in ways that will enable customers to take the full
+advantage of the potential big data offers.
+Like big data, security is also an area of focus with customers. As perimeter-based approaches to security become
+increasingly ineffective, customers are seeking new technologies that can help them better understand risk and defend
+against today's advanced threats. RSA continues to benefit as a result with revenue up 6% year-on-year in Q3. Revenue
+from our security management and compliance business grew over 30%. The ability to manage risk and defend against
+advanced threats inside a network is an extremely hot area right now. Our SMC business provides the security analytics
+and GRC solutions to address these challenges that just about every organization is facing.
+Our Identity and Data Protection business was impacted by two factors specific to our SecurID business. The
+slowdown in overall hiring and employment, especially in Europe and Asia, was a stronger headwind and we expected
+while last year's remediation of tokens disrupted the normal renewal cycle more than we expected. A cycle of product
+introductions expected in early 2013 will enable us to deliver new form factors of authentication and better address the
+authentication needs for mobile and cloud computing. Customer movements toward risk-based approaches and to
+security delivered other service present great potential for our IDP business.
+We are more confident than ever that our security strategy, which is centered on agile solutions to combat emerging
+threats, is the right one. Revenue from our Information Intelligence Group was down 2% in Q3. License revenue
+continued to grow sequentially. IIG is innovating creating solutions that are easy to deploy, easy to use and highly
+aligned with customers' needs. We've been leveraging the services expertise developed in specific verticals to create
+content management enabled solutions tailored to industry-specific requirements.
+A recent example is our integrated patient record solutions, which enables healthcare organizations to access, share and
+transform disparate patient data regardless of format or location and importantly, lower costs in doing so. Our software
+developed especially for engineering plant and facilities management is also gaining traction.
+VMware revenue grew 20% over last year's third quarter as companies continue to expand their virtual infrastructures
+to reduce the overall cost of their IT infrastructures and to put them on the path to cloud computing. We continue to
+enhance our integration with VMware and this is making a difference with customers. As you can see here the
+percentage of customers surveyed who prefer EMC for their virtualized environments has increased significantly in just
+the past six months.
+This affinity will continue to be important as VMware moves in the direction of the software defined data center which
+is emerging as the clear path to cloud computing. While software defined data center enables the dynamic creation of
+virtual infrastructure to leverage the underlying physical infrastructure, continued innovation in the infrastructure
+elements is essential in order to realize the full potential of a software defined data center. We're excited to work
+toward reducing IT's complexity and cost via the automation that the software defined data center enables.
+Our go-to-market model continues to evolve as customers' options for how to leverage IT expand. We offer three
+avenues to get our customers to hybrid cloud: best-of-breed infrastructure components, proven infrastructure through
+VSPEX and converged infrastructure with Vblocks. Our services organization uses all three of these approaches as they
+continue to transition customers to cloud architectures. While customers deferred some discretionary consulting
+projects last quarter and revenue from implementation services was impacted by lighter storage product revenue, our
+services team continues to demonstrate its value to EMC's business strategy.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 6 of 16
+Among the major EMC services wins achieved in Q3 was a five year enterprise-wide IT and consolidation initiative
+based on Vblock, VMAX, VNX, Data Domain and Avamar. This win at a global pharmaceutical company completely
+displaced the incumbent server vendor and storage vendors with solutions from EMC and VCE and qualifies as one of
+the largest professional services deals ever.
+Our channel partners are also leveraging all three paths to the cloud and VSPEX is becoming especially popular. With a
+variety of configurations to allow partners to accommodate customer preferences including technology from Citrix,
+Microsoft, HP, Cisco, Brocade and VMware, VSPEX partners have a lot of freedom to create solutions they need and
+provide a lot of value for their end-user customers. In its first full quarter of availability since launching VSPEX in
+April partners have sold well over 300 VSPEX systems and because VSPEX solutions are simple, predictable and
+profitable we expect that number to continue to ramp.
+We have made enormous progress in truly teaming with our channel partners and as a result our channel program
+continues to earn accolades. In Q3 EMC was named a rising star by the Global Tech Distribution Council and we won
+four company of the year awards by CRM. With continued partner-centered innovation, like the Q3 enablement of the
+Velocity Distribution Partners to assemble VSPEX for resellers, we expect to remain a favorite amongst our partners.
+Our service provider program is an important part of our strategy to get customers to public cloud and we continue to
+make progress here with revenue from service provider program partners up over 40% from Q3 of last year. In Q3,
+CSC extended their well-established EMC powered BizCloud offering into a new vertical. Terramark, a Verizon
+company, completed their first EMC powered public cloud offerings on Vblocks. Telstra expanded their cloud services
+in the quarter on EMC infrastructure and Rackspace recently extended its global relationship with us to include
+Australia and New Zealand markets.
+EMC is the only external storage platform offered in Rackspace's new Sydney data center as Rackspace continues to
+make considerable investments in our storage technology. Our family of storage products from Atmos through to
+VMAX resonates with service providers as it enables them to offer a full range of service levels to their customers with
+EMC as their infrastructure partner with deep technology and support capabilities.
+Finally, accelerating a customer's journey to the cloud is the aim of our joint venture VCE. VCE continues to do very
+well with demand up approximately 30% year-on-year and approximately 20% quarter-on-quarter. This was obviously
+helpful to our year-on-year growth in Q3 as revenue from our components of every Vblock sold increases our storage
+and virtualization revenue. Vblock continues to gain traction both in enterprise data centers as well as in service
+providers and we saw this in Q3.
+A U.S.-based chemical company purchased four Vblocks as part of a solution that also included Data Domain, Avamar
+and Atmos. A European insurance company purchased a Vblock alongside several VNXs and a large construction
+equipment maker purchased Vblock with Data Domain and Avamar for data protection. Among service providers, CSC
+continues to expand their build out of Vblocks to power their public and private cloud businesses. Additionally, the
+second-largest telco in Japan, Softbank, will standardize on Vblock for their cloud-based offerings. Softbank is already
+using the Vblock systems for internal IT operations. In fact, 10 out of the top 15 global telcos are now Vblock
+customers.
+In sum, our go-to market model enables us and our partners to make the right tool for the job available to many kinds of
+customer in the way that makes most sense for them.
+Our Q3 financial results were supported by our strong competitive position. While macro headwinds increased during
+the quarter we still grew the overall business by 6% year-on-year. Within this North America grew 9%, EMEA was
+flat, APJ grew 5% and Latin America grew 19%. Currency negatively impacted year-on-year revenue growth by about
+150 basis points in Q3.
+Now let's turn to the income statements. We've once again put together a waterfall analysis to show how various
+income statement items contributed to the non-GAAP EPS growth we achieved in Q3 of this year compared to Q3 of
+2011.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 7 of 16
+Gross margin continues to be an important factor. This quarter non-GAAP gross margin was 64.1%, up 110 basis
+points from last year's Q3. The improvement here was driven by the increase in revenue mix and margin rate from
+VMware. As you can see in the waterfall chart, increase in gross margin dollars was the biggest contributor to our EPS
+growth.
+Non-GAAP operating margins were 24.3%, up 30 basis points from Q3 of last year. Within the operating expense line
+SG&A expenses grew more slowly than revenue, as we were careful with expense growth in the quarter. R&D grew
+faster than revenue as we continue to invest in our leading edge product portfolio. So investment in OpEx offset much
+of the gains we achieved from gross profits.
+Two other items had a meaningful impact on EPS growth but effectively offset each other. Non-operating expense was
+$54 million dollars non-GAAP, down approximately $16 million from last year's Q3. And our tax rate was 23.5%, up
+from 22% in Q3 of 2011. We now expect our tax rate for the full year to be 22.5% reflecting a higher mix of profits in
+the US. This is assumes the U.S. R&D tax credit is passed in Q4.
+Non-GAAP EPS was $0.40, up 8% from last year, two points higher than revenue growth. Free cash flow was a solid
+$1.1 billion, up 16% and about $250 million higher than non-GAAP net income for Q3. Contributing to this was
+growth in deferred revenue, up 26% year-on-year at $7.2 billion. Deferred revenue has become an increasingly
+important part of the financial picture for us improving the stability and predictability of at least a portion of our
+revenue stream and enhancing cash flows.
+Along with our ability to consistently generate strong cash flow comes the responsibility of allocating that capital
+wisely. We continue to make investments to keep us well positioned for the longer term while maintaining financial
+flexibility and returning cash to shareholders. Along those lines we closed Q3 with $10.6 billion in cash and
+investments. Of this, $4 billion was U.S. cash excluding VMware.
+We spent approximately $1.3 billion in the quarter on acquisitions that will greatly enhance our ability to make hybrid
+cloud a reality for our customers. We returned $150 million of our cash to shareholders via the purchase of EMC stock
+in Q3 and we continue to expect to buy back $700 million worth of EMC shares in 2012. We see this balanced
+allocation of capital as the correct formula right now given the opportunities we have ahead of us, however, we revisit
+it often and will revise it accordingly when the time is right.
+Looking forward we do not expect the economy to get better this year but we do like how we've positioned the
+company near-term and long-term. We have a strategy that is built to leverage the three major waves of change in IT:
+cloud, big data and trust. And we have what it takes to execute on this strategy with leadership positions in storage,
+virtualization and security, a best of breed product portfolio with breadth and depth that's unique in the industry, a
+global EMC team that is second-to-none and a solid operational and financial model that has demonstrated success
+across cycles.
+These advantages are critical to success regardless what the spending environment turns out to be. For the moment, this
+is not very clear and in light of this uncertainty we're updating our revenue and earnings expectations for 2012.
+For the full year 2012 we expect to achieve revenue in the range of $21.6 billion to $21.75 billion and non-GAAP
+earnings per share between $1.68 and $1.70. If the caution that characterized the end of Q3 continues through Q4 then
+we'd expect to be at the lower end of this range. If we experience the seasonal strength typical of a Q4 we'd expect to
+come in at the higher end of this range.
+In either case, we feel very good about the opportunity for our business. With the continued ramp of new products like
+VMAX, with the continued expansion for out channel partners with innovative offerings like VSPEX, with the
+penetration of EMC infrastructure into VMware environments, with the expansion of VMWare's capabilities within
+these virtualized environments and with the overall value proposition of the EMC portfolio we believe we can continue
+to grow faster than our addressable markets whilst reinvesting in our business and delivering leverage in earnings per
+share. We're confident we gained share in the first three quarters of 2012 and confident we'll continue to gain share in
+Q4.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 8 of 16
+With that, I will turn it over to Joe who will give you more color on the macro, the quarter and opportunities that lie
+ahead of us. Joe?
+Joseph M. Tucci
+Thanks, David, and a warm welcome to everyone attending today's earnings call. We appreciate your interest in EMC.
+I would like to begin my formal remarks by clearly stating that we were disappointed that we did not quite meet our
+internal revenue expectations in Q3 and that we interrupted our string of 10 consecutive quarters of double-digit top
+and bottom line growth.
+With that said I do believe that given the significant uncertainties that permeate the global stage right now and its
+negative impact on IT spending we more than held our own. In fact when all reporting is in I'm quite sure you will find
+that EMC gained share across the major IT markets in which we play.
+I know how hard my 55,000 plus colleagues at EMC and VMWare worked, how dedicated they are to the success of
+our customers, how much they believe in our strategy, direction and future prospects. And for this I want to deeply
+thank them and let them know how much I appreciate them.
+I would now like to comment on the uncertainty I just mentioned. First, there is economic uncertainty as demonstrated
+by the fact that most major markets around the world exhibited at least slightly lower GDP growth rates in Q3.
+In fact, one is hard pressed to find a major country that grew faster in Q3 2012 than it did last quarter in Q2 or it did in
+Q3 of 2011. This economic uncertainty has a twin brother called political uncertainty. Confidence in governments
+around the world to make productive and timely decisions on real pressing issues like deficit reductions and tax policies
+is at a low point. Collectively, these economic and political uncertainties are affecting business confidence and this is
+affecting IT spending rates.
+In Q3 we found an air of caution in IT spending. Decisions were being subjected to far more scrutiny and this caused
+our bookings to be more back-end loaded than expected resulting in more late orders, some too late to ship and some
+slippage out of the quarter. That said, to be clear we still believe that IT spending in the second half of this year will
+show some year-on-year growth albeit at a slower rate than was experienced in the first half of this year.
+To put growth rates around that statement last quarter we said we expected overall 2012 IT spending to be around 3%,
+possibly a tick less. We now expect 2012 globally IT spending to be approximate 2%.
+Looking forward and assuming political cooperation and reasonableness prevails, we do expect that in Q4 IT spending
+has the potential to grow over Q3 in a fairly normal seasonal pattern. Obviously this growth will now be coming off a
+lower Q3 baseline and again we believe that the overall IT market will exhibit some growth year-on-year in Q4.
+As customary, we will comment on 2013 IT spending on our January earnings call but I will tell you that as we put
+together our 2013 business plan our forecast calls for modest growth in the IT market as a whole.
+Net-net against this backdrop in Q3 we grew our business year-over-year in North America by 9%. In APJ by 5%, by
+19% in Latin America and our business in EMEA was essentially flat. And as in past quarters we saw our highest
+growth rates in our rapid growth economies. Across our BRIC plus 13 countries we grew over 10% in Q3 versus the
+same period last year.
+A few minutes ago, I expressed confidence that EMC is and will continue to gain market share. So a fair question is
+why? Why the confidence?
+The first answer to that question is because we have confidence in our innovative strategies and products and we have
+all-important momentum. As a proof point let's quickly review the key innovative strategies of EMC and VMware.
+We have a software-defined data center strategy that dramatically extends the benefits of virtualization. I truly believe
+this software technology will spark a revolution in the data center market through the tight integration and automation
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 9 of 16
+of compute, storage, network and security infrastructure assets. This will help customers receive unmatched efficiency,
+control, choice and agility.
+We have an end-user computing strategy called Horizon that helps our customers manage and secure their end-user
+computing environments in a multi-device, post-PC world.
+We have a storage strategy for tomorrow's software defined data centers and hybrid cloud environments. Storage that
+combines both flash technology and hard drives coupled with true automation for tiering and seamless flexible
+information management and protection.
+We have a cloud foundry strategy for working with developers on new approaches to building new applications as well
+as ones for helping customers renew and cloudify existing ones.
+We have a strategy for big data. One that will harness the vast sea of information in real-time to help customers make
+better decisions faster. This new approach works with both structured and unstructured information, not only from
+within one's own enterprise but from public and semi-public data sources.
+And we have a strategy for security that is pervasive across all of our offerings. In other words, built-in. Built-in for
+today's era of cloud computing. So you can see why we are confident. In fact, I have never been more excited about our
+future growth prospects.
+But these compelling strategies alone are insufficient. What makes me even more confident in our future is our
+leadership team and the talent EMC and VMware has behind them. Pat Gelsinger has assumed the reins of VMware
+and he's being very well received and doing a stellar job. David Goulden is leading EMC's information infrastructure
+business to new heights. David's grasp of the business and his leadership style is exemplary. Paul Maritz's innovative
+brilliance will help take our developers' platform and our big data business to the next level. Both of these areas are
+high growth opportunities for us. And the best news is our broader leadership team, which Pat, David, Paul and I are
+blessed to work with, is very strong, very talented and very focused.
+To help give you a clearer view of our innovation and strategies and for you to get to know our leadership team better it
+is my pleasure to invite you to join us for a strategic forum which we will host for analysts and investors in Q1 of next
+year. We will get you the specifics of this forum ASAP.
+I would now like to address one more topic before I turn it back to Tony to moderate the Q&A portion of today's call. I
+would like to comment on our relationship with Cisco and the future of our VCE joint venture. For the record, EMC
+and Cisco have benefited from a decade-long partnership. My close personal relationship with John Chambers goes
+back over 20 years and we enjoy a friendship of trust and confidence in each other that is reflected in the way our teams
+work together.
+Some have called into question the viability of our relationship with Cisco and VCE because of VMware's entrance
+into the networking space. The reality is that software defined networking complements the network infrastructure and
+EMC has no plans to drive deeper into networking by acquiring a network hardware company.
+We believe continued innovation in network infrastructure by the partner ecosystem will enable higher performance
+transmission of data in next generation data centers. In short, we are committed to work closely and cooperatively with
+Cisco, our premier partner.
+VCE is a top strategic priority for EMC. We continue to ramp investments in VCE which continues to meet and exceed
+our business objectives approaching a $1 billion run rate in less than three years. There are now over 500 VCE
+customer deployments including many in large Fortune 500 companies. These customers demanded and are receiving
+the benefits of rapid deployment, higher performance and a high availability. And very importantly, they are getting
+these benefits at a lower total cost of ownership. In short, we believe VCE represents the fastest and most cost effective
+way for organizations to build out their cloud infrastructures and we are committed to VCE success.
+Thank you. And now back to Tony.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 10 of 16
+Anthony T. Takazawa
+Thanks, Joe. Before we open up the lines for your questions as usual we ask you to try and limit yourself to one
+question including clarifications. This will enable us to take as many questions as possible. We thank you all for your
+cooperation in this matter. Evan [ph], can we open up the lines for the first question, please?
+Q&A
+Operator
+Yes, sir. Our first question today comes from Aaron Rakers with Stifel, Nicolaus. Your line is open.
+<Q - Aaron C. Rakers>: Yeah, thanks, guys. A quick question on just the outlook and some of the – on the outlook or
+tying to the outlook, the midrange business you referenced obviously some late quarter channel dynamics that were
+unable to ship. If we look at that relative to your guidance ex-VMware you're really guiding more or less a 12%, 13%
+sequential growth which I think historically would be a little bit below seasonal. Can you try and triangulate those two
+data points? On a like-to-like basis are you assuming a below seasonal quarter if some of those deals actually do ship in
+the current quarter?
+<A - David I. Goulden>: All right. Aaron, thanks. Let me take this. So first of all, yes, you're right. We highlighted the
+fact that in the mid-tier we saw a higher than expected level of late orders which means that we will have those orders
+shipping in early Q4. And actually to pick up on your point, when we look at our outlook, when you take into account
+those late Q3 orders that will ship in Q4 and if you then from Q3 assume a fairly normal seasonal progression of spend
+into Q4, that gets us to the higher end of the outlook looking at all the averages over the last six or seven years. And
+obviously if the caution that we saw right at the very end of Q4 – sorry Q3 – continues into Q4 that's how we get to the
+lower end of the outlook.
+So to answer your question it really is the shipments of those late Q3 orders plus a seasonal normal gets us to the higher
+end.
+<Q - Aaron C. Rakers>: Thank you.
+<A - Anthony T. Takazawa>: Thank you, Aaron. Next question, please.
+Operator
+Our next question comes from Ittai Kidron with Oppenheimer. Your line is open.
+<Q - Ittai Kidron>: Thanks, and good execution given the environment. What I wanted to talk about was your
+geographical mix as you've laid it out – the year-over-year growth rates. Can you talk about Asia-Pacific? 5% seems
+like a low growth rate for that region. I would have expected that to do a little bit better and on the flipside, Latin
+America clearly very strong. Any color on what's driving that will be greatly appreciated.
+<A - David I. Goulden>: All right. Let me start again. So just a couple of pieces to understand the color of what
+happened and how the different geos were impacted. So we mentioned that we had some orders that we expected to
+close that got pushed out, again, principally focused on the mid-tier and those occurred principally in North America
+and Asia-Pac. So that impacted a little bit of our growth rates in Asia Pac relative to our expectations. And then relative
+to Latin America a smaller market but a strong bounce back. We had not quite such a strong growth quarter in Q2 and
+then a big bounce back in Q3. Relative to the countries in Asia-Pac, Joe, you want to comment on those?
+<A - Joseph M. Tucci>: Yeah, we saw good strength in China and a very good growth there but we saw a slowdown
+in Australia and New Zealand, a slowdown in Japan and slowdown in India, and the rest of the countries were okay. So
+stronger in China, and I gave you ones that are weaker so it's kind of color across those countries.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 11 of 16
+<Q - Ittai Kidron>: All right. Good luck.
+<A - Anthony T. Takazawa>: Thank you, Ittai. Next question, please.
+Operator
+Our next question comes from Shebly Seyrafi with FBN Securities. Your line is open.
+<Q - Shebly Seyrafi>: Yes. Thank you very much. Can you elaborate on the high-end growth? It was up only 5%. You
+just had this VMAX refresh just recently and my own checks indicated your 40K, VMAX 40K, was selling quite
+briskly. Can you talk about why up only 5%? And were you down sequentially? And maybe you can touch on the
+competitive dynamics versus HDS and IBM? Thanks.
+<A - David I. Goulden>: Sure. So relative to the 5% I think in this environment we actually feel quite good about that.
+The VMAX transition is happening nicely. Over 50% of the new systems we sold in the quarter were actually the new
+family. We expect that transition to be essentially complete by the end of the year. A phenomenon that we're seeing in
+the high end is particularly when customer's accounts scrutinizing the budgets, they're really looking for TCO and cost
+savings. We do see a phenomenon of consolidation of multiple mid-tier systems into the high end so that helps as well.
+In terms of sequentially, yes you're right but it wasn't the only part of the business that was down sequentially from a
+product point of view. The macro and the facts as we talked about impacted basically most parts of the business, so
+there's nothing really unique about the high end in terms of being down sequentially. Typically we would be more like
+flat sequentially in the product arena from Q2 to Q3.
+<A - Anthony T. Takazawa>: Thank you, Shebly. Next question, please.
+Operator
+Our next question comes from Brian Marshall with ISI group. Your line is open.
+<Q - Brian Marshall>: Great. Thanks. We've been following three trends, kind of what we view as some of the best
+secular growth trends in enterprise infrastructure, namely: SDN, Hadoop as well as enterprise cloud storage and at the
+end of the day I think a lot of these trends are actually deflationary in technology for the large incumbents. Some of
+these use X86 commodity servers or JBoss and off the shelf NFS file systems. So I guess the question is, if you
+subscribe to that line of theory, how does EMC plan to grow with some of these secular growth trends and offset what
+is somewhat deflationary for some of the tech incumbents? Thank you.
+<A - Joseph M. Tucci>: Brian, this is Joe, and David can add a little color also. I think one of the things you'd be
+missing in those trends is how big the private cloud is going to be. As David said, there are probably less than a handful
+of companies that are truly capable of having the resources to take components and build their own private cloud like a
+Google could, for instance. So obviously what we're doing with the journey of virtualization into the software defined
+data center is we're building that technology and that's going to be I think a great driver for us.
+Also, our highest growth area if you looked at it kind of on a vertical basis would've been in the service providers. You
+heard on the VMware call yesterday where they said second to Amazon Web Services, there's the most number of apps
+running by far and whoever is third is way, way, way behind that running on VMware infrastructure. Most of those
+infrastructures also run EMC's infrastructure, those service provider companies.
+So again, we are riding well on those two trends. Big data is a big growth area for us and we don't see that as
+disruptive. A lot of these data mining applications did not run on our technology yesterday. So we think we could be a
+net winner there and when you look at some of the things that are happening on private clouds, or excuse me, public
+clouds and on the service provider front, a lot of what they're attacking there is kind of shadow IT and that was never a
+big win for and in some test and dev. So test and dev impacts us a little bit but again we're picking that up with our
+service provider partners and we never were a big winner with shadow IT, so I think we're in pretty good shape going
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 12 of 16
+forward here. I think we're very good shape going forward and if you look at the six strategic areas that I outlined
+which, again, we will talk to you more about next quarter, in real depth, our future is incredibly bright in my opinion.
+<Q - Brian Marshall>: Thanks, Joe.
+<A - Anthony T. Takazawa>: Thanks. Next question, please.
+Operator
+Our next question comes from Kulbinder Garcha with Credit Suisse. Your line is open.
+<Q - Kulbinder S. Garcha>: Thanks. Just a question on the midrange slowdown. I understand there's been a macro
+impact maybe there as well but could you comment on was there mis-execution with the channel or was it just late
+orders? And then I guess just in terms of the deceleration you've see here, what confidence can you give that just
+maybe this market – this end segment isn't decelerating or that your ability to gain share pace you once did has slightly
+changed because of the competitive dynamic? Any insight there would be helpful. Many thanks.
+<A - David I. Goulden>: Sure. Kulbinder, let me take that question. So I wouldn't say that it was our execution impact
+on mid-tier. It really was the macro that was relative to our expectations and the mid-tier product growth sector – there
+were two things that happened. One is that we had more late orders than we expected, which means there were more
+orders that we couldn't ship in the quarter than we expected. That's going to help us in the fourth quarter.
+Similarly but a little different we had orders that we were expecting to win that got pushed out to the fourth quarter
+because customers putting the extra decision cycle pushed those orders out. So again as those orders close and some of
+them already have particularly in the BRS area, will also help a little bit in the mid-tier. So it's really the macro more
+than any execution issue and for some of the factors that I just mentioned we do think we're going to have a rebound in
+the mid-tier in the fourth quarter as a sector.
+And then relative to the overall market we feel good at the top level. When we look at our 6% growth versus IT
+spending we actually gained market share relative to the storage business. We think that from what we saw in the field
+with our win rates both at the high-end and mid-tier we think that we'll still be a net share gainer there and you look at
+our network storage product revenues against those that others have either reported or have out there for consensus and
+we feel pretty good about that aspect of our growth. So every way we look at it we are think we're a net share gainer
+and it's the macro here as opposed to any micro issues.
+<Q - Kulbinder S. Garcha>: Thank you.
+<A - Anthony T. Takazawa>: Thank you, Kulbinder. Next question, please.
+Operator
+Our next question comes from Alex Kurtz with Sterne, Agee. Your line is open.
+<Q - Alex Kurtz>: Yeah, thanks for taking the question. Joe, just when you exclude the channel miss on VNX and you
+look at different verticals and different customer segments – enterprise versus channel, was there any thing that really
+stood out from you when you talk about missed execution this quarter that you can give a little more color on?
+<A - Joseph M. Tucci>: I think on the plus side well, well north of the average. We showed as I said really good
+strength in service providers. And we also – which is, I think, a little counter to some of our competitors, but we also
+showed a strong quarter in federal. But on the weaker side, weaker than average we did see a pause in financial services
+and that is our biggest vertical. We have pretty good balance across our verticals. We play in every vertical. As a matter
+of fact, almost every vertical we have a double-digit share in – more than 10% of our revenues I should say, so we got
+good balance but financial services is the biggest and we did see that fare weaker this quarter.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 13 of 16
+<A - David I. Goulden>: Let me just add a point relative to the mid-tier because that's where you started, I think, your
+question. Remember we made this comment last call that when you look at our geographic mix, Europe is more heavily
+weighted towards the mid-tier market just as a market and of course in terms of our profile there as well. So slowness
+in general in Europe impacts the mid-tier disproportionally highly, which is a fact we mentioned to you last quarter as
+well.
+<Q - Alex Kurtz>: Thanks for the clarification.
+<A - Anthony T. Takazawa>: Thank you, Alex. Next question, please.
+Operator
+Next in queue is Bill Shope with Goldman Sachs. Your line is open.
+<Q - Bill C. Shope>: Okay, thanks. Now that you're mid-cycle and the Symmetrix is refreshed, can you give us some
+color on what you're seeing in terms of the margin dynamics for the new products and what kind of services and
+software attach rates are you seeing versus past cycles? And I guess extending that, how should we think about what all
+of that means as we exit the year and hopefully get into a better spending environment overall?
+<A - David I. Goulden>: Yeah, Bill, we're actually very pleased with first of all how the business did in the quarter
+from gross margin point of view generally given the macro environment. Relative to the high-end transition, we see a
+software and services attach rate that's comparable to our prior high end systems on the 40K. If anything a little higher
+because of the hyper consolation opportunities we're looking at, at that side of the marketplace. So the kind of secular
+trends that the new product lines tend to carry a richer software content and the larger systems carry richer software
+content – those are all still working in our favor.
+<A - Joseph M. Tucci>: I think the other thing that I would add to that, Bill – if you looked at some of the things
+David alluded to that are coming – he talked about Mavericks for Isilon being introduced at the very end of this year,
+which means its kind of impact will be next year. He talked about real terrific enhancements to VFCache. He talked
+about a new line we call Project Thunder. He called a new line of all flash called Project X. We have major extensions
+to our mid-tier line. All of those products kind of get reported in mid-tier so when you look at our cycle of refresh and
+you look at next year, that also bodes very well for us and we'll lay more of that out for you when we see you next
+month.
+<Q - Bill C. Shope>: Okay. Thank you.
+<A - Anthony T. Takazawa>: Thanks. Next question, please.
+Operator
+Our next question comes from Maynard Um with Wells Fargo. Your line is open
+<Q - Maynard J. Um>: Hi. Thanks. I was hoping you could talk a little bit about these new products and product
+cycles for Isilon. You talked about the extended opportunities into new verticals. I presume from the improvement in
+the write capability within Mavericks. But more generally can you talk about the qualification process for a lot of the
+new products, where we are? I'm just curious when we should expect some of these to start ramping. Is that one quarter
+after the launch? Is it two? If you can just shed a little bit of color on that? And just what you have embedded into your
+guidance I guess for some of these new product ramps in the mid-tier? Thanks.
+<A - Joseph M. Tucci>: Maynard, if we did that we wouldn't need a meeting next quarter. So that's going to be a lot of
+firepower. We're going to give you great detail and give you some hands-on and show you real in-depth what we're
+doing and we are excited about it but it really is a next year event.
+<Q - Maynard J. Um>: Okay.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 14 of 16
+<A - Joseph M. Tucci>: And I know you want to know when next year and which exact features and that's what we're
+going to tell you soon.
+<Q - Maynard J. Um>: Okay. Then can I try a different question just on the OpEx side?
+<A - Joseph M. Tucci>: Sure, go ahead. I kind of spoiled your question, so you get two.
+<Q - Maynard J. Um>: Thanks. Okay. Can you just talk about what levers you have there to potentially offset if the
+environment were to get weaker? What areas you would cut to spend? I know you've talked about staying committed to
+the R&D spend but just sort of the levers you have there? Thanks.
+<A - Joseph M. Tucci>: I'll let David – let me just – I just want to emphasize what you said. I mean I do not, will not,
+cut R&D. What we're working on is too exciting. With that said, there is always ways we can tighten our belt and I'll let
+David handle that.
+<A - David I. Goulden>: Yeah, Maynard, you actually saw us doing some of that in Q3, so if you look, for example,
+our SG&A expenses excluding VMware are kind of flattish year on year and a couple factors. Clearly there was some
+FX benefit from an expense point of view but also going into the quarter we recognized it was an uncertain
+environment and we were more cautious with our discretionary spending, areas that we've looked at before, things like
+travel. We also had some favorable benefits in the quarter of fringe vacation, things like that. But we do recognize it's a
+more cautionary spending environment. We're being more careful with the investments in OpEx but particularly in the
+discretionary areas which we've demonstrated before we do a good job in when we focus and pull them back.
+<A - Anthony T. Takazawa>: Thanks. Next question, please.
+Operator
+Next in queue is Scott Craig with Bank of America Merrill Lynch. Your line is open.
+<Q - Scott D. Craig>: Hey. Thanks. Good morning. David, can you talk about the gross margin but more from a
+quarter over quarter perspective? It went down a little bit but I would've thought with the high-end ramp and sort of the
+hard disk drive pricing getting better and then mix with VMware especially, that gross margin might have gone up. So
+could you talk about it on a quarter to quarter basis? Thanks.
+<A - David I. Goulden>: Yes. Sure, Scott. We saw a 30% reduction, as you know, in gross margin quarter-on-quarter,
+all that was due to EMC ex-VMware which was down 50 bps sequentially. So let me explain to you what was going on
+there. So from a competitive point of view I'd say the pricing pressures were consistent with normal, so no massive
+difference in the landscape on a competitive point of view. What we did see is we saw some incremental impact from
+our customers as they applied extra scrutiny and worked their transactions harder, so for those additional customer
+pressure and we did see continuing benefits from mix, as you mentioned.
+Specifically relative to quarter to quarter, two factors that drove the reduction. One is that, if you remember back in Q2
+we had some benefits as we have closed out the RSA situation and reversed to what was left of the charge, some of that
+went to operating margins – to gross margin, sorry. That gave us about 20 bps improvement. And also
+quarter-on-quarter there was some additional amortization of capitalized software. You factor those out and gross
+margins would've been flat quarter-on-quarter and then if your volumes had been kind of where we thought they would
+be at the start of the quarter, you'd have seen an increase in gross margin sequentially, so that's the story of what's going
+on there.
+<Q - Scott D. Craig>: Okay. Thank you.
+<A - Anthony T. Takazawa>: Thank you. Next question, please.
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 15 of 16
+Operator
+Our next question comes from Amit Daryanani with RBC Capital Markets. Your line is open.
+<Q - Amit Daryanani>: Yes. Thanks a lot. I was just wondering, guys, if you could just talk about if Isilon and
+Avamar combined are still on track to achieve a $1 billion run rate by the end of the year? And then, very specifically,
+maybe talk about on Isilon, are you starting to see some slowdown ahead of the OneFS Mavericks refresh that should
+happen, I guess end of next quarter? Thanks a lot.
+<A - David I. Goulden>: Well, actually, it's the end of this quarter, the quarter which we're currently in. So we do
+expect Isilon and Atmos to be at the $1 billion run rate, or if not, exceptionally close to it. So we feel good about that.
+And no, we don't see a slowdown in anticipation of Mavericks, because Mavericks is a software release, so customers
+with a valid maintenance agreement will be able to upgrade to Mavericks. So obviously, if they're waiting for the
+functionality, well they wouldn't be buying the product in the first place.
+So in today's use case, Isilon is still very competitive, the use case expands with Maverick, existing customers get it, so
+we don't see that being a factor. We just see that being a factor that will enable us to open the aperture a little wider for
+where we can play with Isilon.
+<Q - Amit Daryanani>: Thank you.
+<A - Anthony T. Takazawa>: Thank you. We have time for one more question and then, we will have some closing
+comments from Joe.
+Operator
+Our final question comes from Abhey Lamba with Mizuhou Securities. Your line is open.
+<Q - Abhey Lamba>: Yes. Thanks. You talked a little bit about Isilon and its impact. You're not expecting any
+slowdown ahead of it, but can you talk about what are the other industry verticals outside of its traditional verticals that
+you expected to gain traction? And what was the spending environment in Q3 for those? And how should that trend
+over the next couple of quarters?
+<A - David I. Goulden>: Okay. So relative to Isilon, they're going to be many new capabilities in the Mavericks
+release and we'll tell you much more about them when we get together when the product is actually in the marketplace.
+Today a lot of Isilon sales is in the media, entertainment, life sciences verticals. One of the areas that you'll see us
+enhancing the solution with Mavericks, is adding many more audit and compliance features, so in more regulated
+industries, financial services sector, public sector, the scale-out file opportunities that we can't go after with Mavericks
+today – sorry, with Isilon today, we'll be able to go after them with Mavericks. So that's one area that you'll see
+enhancements. And Joe mentioned really what's going happen in those verticals.
+The other area mentioned before, is more performance enhancements so it'll be a better general purpose file system, but
+I'll still tell you that the primary use of Isilon across all these verticals is still going to be in the larger scale-out, big data
+type of file oriented applications.
+Joseph M. Tucci
+This is Joe, again. And in summary, first of all, I'd like to thank you for being with us again.
+In summary, I'm sure you got a real sense today that we deeply believe in our strategic direction. We have strategies
+that are laser focused on key high-growth IT market opportunities. Our customers and our prospective customers, are
+more and more inviting us in and viewing us as a key source of innovation to help them plot their future to private and
+public cloud computing and IT as a service. I could tell you our people inside of EMC and VMware are very excited
+Company Name: EMC
+Company Ticker: EMC US
+Date: 2012-10-24
+Event Description: Q3 2012 Earnings Call
+Market Cap: 51,911.84
+Current PX: 24.735
+YTD Change($): +3.195
+YTD Change(%): +14.833
+Bloomberg Estimates - EPS
+Current Quarter: 0.530
+Current Year: 1.715
+Bloomberg Estimates - Sales
+Current Quarter: 6144.333
+Current Year: 22008.353
+Page 16 of 16
+about our future and they are charged up and ready to succeed.
+And again, we look very forward to sharing our vision, our products and our go-to-market prowess with you at our
+upcoming strategic forum. So I wish you all the best and thank you again and see you soon.
+Operator
+This concludes today's conference. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2012, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

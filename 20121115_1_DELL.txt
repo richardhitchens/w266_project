@@ -1,0 +1,798 @@
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 1 of 15
+Q3 2013 Earnings Call
+Company Participants
+• Robert L. Williams
+• Brian T. Gladden
+• Stephen J. Felice
+• Michael S. Dell
+Other Participants
+• Scott D. Craig
+• Bill C. Shope
+• Toni M. Sacconaghi
+• Steven M. Milunovich
+• Ben Alexander Reitzes
+• Maynard J. Um
+• Shannon S. Cross
+• Jim Suva
+• Katy Huberty
+• Mark A. Moskowitz
+• Keith F. Bachman
+• Peter Misek
+• Kulbinder S. Garcha
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good afternoon, and welcome to the Dell, Inc. Third Quarter Fiscal Year 2013 Earnings Conference Call. I'd like to
+inform all participants, this call is being recorded at the request of Dell. This broadcast is the copyrighted property of
+Dell, Inc. Any rebroadcast of this information in whole or part without the prior written permission of Dell, Inc. is
+prohibited. As a reminder, Dell is also simulcasting this presentation with slides at www.Dell.com/investor. Later, we
+will conduct a question-and-answer session. [Operator Instructions]
+I'd like to turn the call over to Rob Williams, Head of Investor Relations. Mr. Williams, you may begin.
+Robert L. Williams
+Thanks, Regina. With me today are Michael Dell, Brian Gladden and Steve Felice. The web deck and our DellShares
+Vlog with Brian and Steve featuring more insights on the quarter are posted to our website in advance of the call. I
+encourage you to review these materials for additional perspective.
+Next, I'd like to remind you that all statements made during this call that relate to future results and events are
+forward-looking statements that are based on current expectations. Additional results and events could differ materially
+from those projected in the forward-looking statements because of a number of risk and uncertainties, which are
+discussed in our annual and quarterly SEC filings and in the cautionary statement in our press release and web deck.
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 2 of 15
+We assume no obligation to update our forward-looking statements.
+Please also note that we will be referring to non-GAAP financial measures including non-GAAP gross margin,
+operating expenses, operating income, net income and earnings per share. Historical non-GAAP measures are
+reconciled to the most directly comparable GAAP measures in the web deck posted in the investor relations section at
+Dell.com and in our press release and 8-K filed today. I encourage you to review these documents.
+Please also note that unless otherwise mentioned all growth percentages refer to our year-over-year progress.
+Now I'd like to turn it to Brian.
+Brian T. Gladden
+Thanks, Rob.
+Four years ago this month we embarked on our strategy to deliver end-to-end solutions to our customers with a scalable
+design point. Since then we have made great strides in executing this strategy and continue to add to our capabilities. In
+the third quarter, our Enterprise Solutions & Services business revenue was $4.8 billion up 3%, led by 11% growth in
+our Servers & Networking business. These businesses, which were about $14 billion in FY 2008, are now at an annual
+run rate approaching $20 billion. Year-to-date they are up 4% and have generated more than 50% of our non-GAAP
+gross margin over that period of time.
+Year-to-date we have added AppAssure, SonicWALL, Wyse, Make, Clerity and Quest bringing enhanced capabilities
+to a portfolio of software and services that address many of our customers' most pressing needs including security,
+cloud, data backup and protection, systems management and application modernization. Specifically the addition of
+Quest Software during the quarter provides us with a foundational asset for our software business, which will
+contribute to a higher mix of solutions with more predictable revenue and margin streams.
+While there is no question that we are in a challenging global IT demand environment, especially in the core PC
+business, we are fully committed to our strategy. We continue to make key investments to drive our transformation and
+we are seeing important progress in building a strong enterprise franchise as we move through the year.
+Moving to the quarter, we delivered revenue of $13.7 billion, down 11% and at the low end of the revenue range we
+provided in August. I will refer to non-GAAP financial measures going forward. Our gross margin was 22%, down 60
+basis points sequentially. As a reminder gross margins in the second quarter benefited from approximately $70 million
+or 50 basis points, primarily resulting from a vendor settlement. When you normalize for this benefit the mix to ES&S
+is helping stabilize margins as we see incremental margin pressure in our client business.
+We continue to be disciplined in managing our discretionary spend. OpEx dollars were down $20 million sequentially
+to 15.5% of revenue as we absorbed about $60 million of OpEx associated with Quest and another $90 million of
+strategic spend in R&D associated with recent acquisitions and organic investments.
+Operating income was $886 million or 6.5% of revenue. Earnings per share of $0.39 declined 28%. We generated
+strong cash flow from operations of $1.3 billion with an ending cash and investment balance of $14.2 billion. Our cash
+conversion cycle of negative 32 days improved two days sequentially driven by better inventory and receivables
+management.
+Our cash flow will continue to benefit from the changes in our business model as we migrate to more software and
+services-based solutions. With our solid cash flow and commitment to a strong balance sheet, we have invested $4.7
+billion this year to acquire new capabilities and intellectual property. We paid out a $139 million dividend distribution
+in the third quarter and including our stock repurchase program we've returned almost $900 million to shareholders
+year-to-date.
+Turning to our lines of business, our Servers & Networking business grew 11% representing the 12th consecutive
+quarter of growth. Servers increased 4% driven by strong growth in our hyper-scale data center solutions business and
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 3 of 15
+continued traction with our 12th generation servers. 12G servers now represent two-thirds of our server revenue at
+ASPs and margins that are a premium to our previous generation servers. Collectively, our differentiated intellectual
+property and solutions has resulted in a growing share position.
+Our Networking business increased 40% as it continues to benefit from the 12G servers and native 10-gigabyte
+Ethernet on the motherboard. During the quarter we launched our active infrastructure converged offering. This brings
+together Dell hardware, software and services under a common design architecture that offers customers a robust and
+easy to manage data center infrastructure for applications, virtual desktop infrastructure and cloud deployments. By
+making these deployments simpler and easier to manage, we are addressing a key customer need in this growing
+market opportunity.
+Dell Storage was down 3% to $378 million in a challenging environment and this was below our expectations. Over the
+past six months, we've introduced enhancements to the portfolio including new backup, recovery and replication
+solutions, new storage compression and dedup technologies, improved Compellent management software, two new
+converged data center solutions, and NAS capability on the fiber channel. We believe these enhancements position us
+well when industry demand in this important business segment improves.
+The services business was down 1% year-over-year and flat sequentially at $2.1 billion and 5% growth in Support &
+Deployment and 16% growth in our Security business. Our services backlog increased 2% to $15.8 billion. Gross
+margin percent increased sequentially for the sixth consecutive quarter as we continue to improve our cost structure and
+focus on higher margin areas of the services landscape.
+In Apps & BPO we continue to make progress on improving profitability, which is having a short term impact on our
+revenue growth. Our Dell Software business continues to introduce innovative solutions focusing on security,
+applications, systems management and business intelligence. For example, we sold more SonicWALL SuperMassive
+next-generation firewalls during the quarter than at any time before. With 96 cores, SuperMassive's full deep packet
+inspection provides the highest level of malware detection and elimination than any firewall in the market. We also
+updated our security management tool enabling the management of up to 5,000 firewalls from this single console.
+Finally, Quest, vFoglight Storage 2.0 is an integrated solution that provides application to disk performance monitoring
+and enables server and storage teams to jointly resolve virtualization performance issues. These all represent
+competitively differentiated capabilities we did not have a year ago.
+Our third-party Software & Peripheral revenue was down 11% driven by the contraction of Desktop and Mobility
+products. Our Desktop and Mobility business was down 19%. Our results here were mixed. Our Desktop business held
+share relative to last year while notebooks lost share and did not perform to our expectations.
+We are launching new cloud-based client solutions based on our Wyse IP. Last week we unveiled the Wyse Cloud
+Client Manager, which gives IT managers the ability to expand beyond the firewall to manage multiple mobile and thin
+client devices regardless of the operating system. This provides customers the ability to more effectively and securely
+manage BYOD implementations.
+Going forward we are focused on selling client and virtualization solutions to our commercial accounts. We enhanced
+our focus on our client acquisitions business including a simplified pricing strategy and we are driving more than $1
+billion in cost out initiatives specific to the client business.
+Now I will turn it over to Steve Felice to give an update on business segment results.
+Stephen J. Felice
+Thank you, Brian. Large enterprise revenue was down 8%. Enterprise Solutions & Services grew 5% including 14%
+growth in Servers & Networking. Operating income was down 170 basis points sequentially to 7.8% of revenue. Here
+we saw a reduction in the number of client opportunities as many large commercial customers continue to defer
+purchases of discretionary IT hardware. We are seeing success in winning new business but given the long-term nature
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 4 of 15
+of these opportunities they will not impact revenue in the short-term.
+Our public business was down 11%. We did see the expected end of fiscal year ramp for the U.S. federal business, but
+also as expected, we saw a significant contraction in spending in October. We continue to see budgetary constraints in
+Western Europe government spending and global state and local government spending. But despite this we remained
+disciplined as sequentially we were able to increase gross margin percent and reduce OpEx spend. Public operating
+income was down 10 basis points sequentially to 9.2% of revenue.
+SMB continues to be the most stable customer set for Dell as revenue declined 1%. Similar to large enterprises we saw
+Enterprise Solutions & Services growth of 15% including 22% growth in services and 16% growth in Servers &
+Networking. Operating income was down 110 basis points sequentially to 10.6% of revenue. This business continues to
+exemplify the progress of our transformation and despite the macro backdrop we feel it's important to invest through
+this macro cycle. Enterprise Solutions & Services mix has improved for six consecutive quarters with expanding
+margins over that period of time.
+The consumer business continues to be a challenge with revenue down 23%. The operating loss of $65 million or
+minus 2.7% of revenue. Industry growth in this space continues to occur predominantly in the low value and entry level
+desktop and notebooks, where we've chosen not to participate, and in tablets.
+With the launch of Windows 8, we have new tablets and convertibles including the XPS 10, XPS 12 and Latitude 10. In
+addition we have two touch enabled all-in-one desktops. While it's too early to share specific demand numbers, we are
+encouraged by the initial customer interest in our touch enabled computing.
+With that, I'll turn it back to Brian to discuss our outlook.
+Brian T. Gladden
+Thanks, Steve.
+Consistent with our comments last quarter and with what you are hearing from many other technology companies, we
+continue to see a challenging global macroeconomic and IT spending environment which is clearly impacting our
+results. We don't expect that to improve much in the fourth quarter.
+For revenue, we expect sequential growth of 2% to 5%. You should also remember that last year's fourth quarter
+included a 14th week.
+For the full year we continue the outlook at least $1.70 in earnings per share on a non-GAAP basis, which works out to
+a least $0.38 for the fourth quarter. This incorporates a one to two cent dilutive impact from the inclusion of Quest
+Software for the fourth quarter. We expect our full year non-GAAP tax rate to be approximately 20%.
+Before we take questions let me close with a couple few summary points. We are pleased with the Enterprise Solutions
+& Services business. With a revenue run rate approaching $20 billion growing at roughly mid-single digits and strong
+profit, this is a business where we will continue to invest and accelerate our growth.
+In end user computing, we have work to do but are encouraged by early interest in our new Windows 8 touch portfolio
+and the new opportunities we see in our commercial and consumer businesses. As always, we will be balancing
+liquidity, profitability and growth to optimize the company for long-term success.
+Now let me turn it over to Rob.
+Robert L. Williams
+Thanks, Brian. Just a quick reminder to limit your questions to one with one follow up. Regina, can we have the first
+question?
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 5 of 15
+Q&A
+Operator
+[Operator Instructions] Your first question will come from the line of Scott Craig with Bank of America.
+<Q - Scott D. Craig>: Hey, thanks. Good afternoon. Can you guys maybe walk us through the consumer business?
+The operating profit there was obviously challenged this quarter and I know you guys have been more selective
+recently but can you maybe give us your thoughts on restructuring that business or maybe walking away from more
+business there?
+And then my second question goes around the large enterprise side and what sort of margin pressure are we seeing
+there on the PC business? Thanks.
+<A - Brian T. Gladden>: Yeah, Scott. I will start on consumer and Steve can jump in. Clearly, in consumer, it has
+been a more challenging environment. Emerging markets have slowed, they've moved to lower valued products. We
+also saw in the quarter expected channel dynamics around the Windows 8 launch. I would say we are sticking to our
+focus on mid to high value segments of that business and not really chasing the lower end of that space. We said last
+quarter that we didn't think the consumer market would improve until after the Windows 8 launch and definitely we
+have seen that.
+So we are committed to the strategy here. We understand the importance of the business and the importance of scale
+that comes with that. As we've talked about and Jeff Clarke talked about this summer, we continue to focus on cost
+reductions that are important to stay competitive here. So maybe Steve can give a couple comments.
+<A - Stephen J. Felice>: Yes. I totally agree with Brian. We don't see a need to change from the strategy. We certainly
+see a few things that happened in the last quarter that we don't really believe are sustainable changes. For example,
+unlike some of the prior declines in the economy, we saw a bigger decline in emerging markets and that is different
+from the past and China being in negative growth, India being in negative growth, Brazil being in negative growth. We
+don't think that's going to stay that way. We do believe that that's relatively short term although we don't know exactly
+when that's going to pull out but we do already see signs that China is doing better.
+We also think that there was earnings pressure because of this transition to Windows 8. That is another thing that we
+think will ease itself out but as you may recall, we thought that after – in last quarter's earnings discussion, we thought
+the industry inventory was high and that would take some working out and especially that's exacerbated by Windows 8.
+So we think there are some certain short-term things that will not continue. We certainly do see a challenging
+environment in Europe and so we don't see that improving very much, but we are hopeful that the emerging markets
+will start to show some recovery.
+<A - Brian T. Gladden>: Yes, Scott. On the large enterprise, I would say, clearly some pressure on the client side. We
+saw some nice growth in Enterprise Solutions & Services, they grew at 5%. We saw 14% growth in Servers &
+Networking in that space. This is clearly a place where we are seeing commercial customers defer discretionary
+spending in this sort of environment. That's clearly something that we've seen work its way through. Not clear that
+there's going to be – I mean, there continues to be a big opportunity around the Windows 8, a Windows 7 refresh that's
+not completed yet and that's still out there and we expect that to continue as we head into next year.
+<Q - Scott D. Craig>: Thank you.
+<A - Stephen J. Felice>: On the client side, we saw in the industry, unit growth down about 9% in the commercial
+space so you are just seeing some additional competitive behavior and while we are staying committed to the strategy
+we're also going to defend our turf here. So I think we are in good shape with our customers and we are showing that in
+cross-selling ability because we are selling a lot of Servers & Networking and services into this space. So we have a
+healthy relationship with the customers and we view this more as just normal macro competitive environment.
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 6 of 15
+<A - Robert L. Williams>: Thanks, Scott.
+Operator
+Your next question will come from the line of Bill Shope with Goldman Sachs.
+<Q - Bill C. Shope>: Okay, thanks. Can you comment more specifically on the drivers of the client margin pressure
+overall and how we should think about that going forward? And I believe you just said that you wanted to defend your
+turf or that was part of the reason why you saw some margin pressure on the client and the enterprise business, does
+that signal somewhat of a change in strategy to where you are sort of drawing a line in the sand in terms of how much
+market share you're willing to give up specifically in the enterprise category?
+<A - Brian T. Gladden>: Well, I think we are not changing the strategy. We are focused on profit share here. There
+clearly are some places where we're going to defend our turf and important parts of our business, enterprise for us is
+critically important and we've shown that we can grow in that space.
+When you look at client margins, one thing obviously we had the vendor settlement impact in the business that affected
+the second quarter and gave us a benefit in the second quarter. That for us gives us a little bit of a challenge
+quarter-on-quarter when you look at gross margins. But it is clear there has been client pricing pressure as a result of
+the competitive dynamics and a weaker demand environment and that is something that we expect probably will
+continue for a period here.
+<Q - Bill C. Shope>: I guess as a follow-up to that, can you give us an update on component pricing trends and how
+you're thinking about that as we close out the year?
+<A - Brian T. Gladden>: Components generally have been about as we expected. I mean as we teed it up coming into
+the year it's basically what we've seen. We had some moderate deflation in the quarter, I would say not what would've
+been historical deflation but basically what we would have expected coming in. We are expecting more or less the same
+situation as we head through the fourth quarter.
+<Q - Bill C. Shope>: Okay. Thank you.
+Operator
+Your next question will come from the line of Toni Sacconaghi with Sanford Bernstein.
+<Q - Toni M. Sacconaghi>: Yes, thank you. I wanted to revisit the client question. I appreciate the fact that the market
+is very difficult but it's clear that you are losing overall client share and even if we back out consumer certainly on the
+mobility side, you were down in the 20s on the corporate side for mobility. So it's clear that Dell is losing share.
+If we think about that impact on the business, we have seen the consumer business descale as a result and you are
+starting to see pressure on margins. When you lowered your guidance for this year I think that was largely a reflection
+of the fact that you've descaled. Not that your gross margins have gone down but that you've descaled.
+So against that backdrop, why wouldn't you tilt the balance or do something a little more radical here going forward?
+And what I mean by that is why not be a little bit more aggressive and give up some gross margins to preserve volume
+so you don't run that descaling risk that we're starting to see signs of or why is there not a more – a stronger focus on –
+and a very deliberate and material focus on taking out costs?
+<A - Brian T. Gladden>: Well, look, Toni, I think there are, I mean the effort around cost is clearly a priority for us.
+We think we are in a position right now where our scale is competitive and given the size of the business but also the
+higher value elements of our business, the fact that the buy we have with our supply base tends to be a higher-end buy
+given our commercial mix. We think it positions us well from a scale standpoint. Clearly, were not going to go and
+shift our overall strategy in this sort of an environment and we think that this is more of a short-term macroeconomic
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 7 of 15
+set of dynamics that we are facing that as it works its way through, we will see PC demand improve and as it improves
+you will see the scale return. So that's really how we're thinking about it.
+<A - Stephen J. Felice>: Yeah, and we did, Toni, we did have some good wins on longer-term client buys in the
+quarter. And as I said in my comments, you won't see them in the current quarter but we had better wins than we have
+seen in a while.
+So I think we are starting to get some of this business back over the longer-term and the other thing I will point out is
+that I will go back to the emerging markets point because that had a bigger effect than we've seen in the past and these
+are areas where we have a strong position with customers and we really do believe it was more short term or I should
+say macro-oriented. Whether it's short term or not depends on how they pull out of it but we did not lose customers but
+we did see a big slowdown in their purchases.
+We are working on a few things to get more competitive and to make things simpler for our customers. We have
+introduced a dramatically simplified pricing strategy in the U.S. just in the past week or so and I think as people go on
+to dell.com and look on the commercial side, you will see that where it's very easy to determine what our pricing is
+across any of the businesses.
+We are also aggressively continuing to work on the $1 billion cost out in the client area. We believe we're making good
+progress there and that it will enable us to play in a broader range of price bands next year. So we hear you on some of
+these things and we are intending to go after a broader part of the market but we want to do it under the same strategy
+of being profitable and delivering value. We're not just going to go after the low price bands if we don't see a value
+proposition where it's sustainable with customers.
+<Q - Toni M. Sacconaghi>: If I could use my follow up just to continue that discussion, if I look over the last several
+quarters, last eight to ten quarters, Dell has been growing five to ten points slower than the market on the client side. So
+even if client growth does return and I understand the cyclical points and pressures that the business is under, even if it
+returns and it's a low single-digit business, that still suggests low single on the unit side. That still suggests if your
+relative share position is going to be the same that you are going to be down in unit terms and then there may be pricing
+pressure on top of that.
+So how do you think about that equation going forward? Do you think that market growth will be higher or what
+substantially is going to change in terms of your relative share on a go-forward basis to what we've seen over the last
+five or eight quarters?
+<A - Brian T. Gladden>: Toni, I don't think we're in a position to make a call on overall PC demand as we move
+forward. I do think that the position of our business and the strength of our commercial franchise in the client space as
+well as the broader portfolio, they continue to be important assets for us and they are well-positioned. We think we can,
+as you know, there's a whole set of lifecycle profits that really come from having those customer relationships and the
+profitability that drives across the support business and our SMB business and our financing. So, it's important that we
+drive that part of our business where we can capture that value and maintain a strong share position and it really does
+help the other parts of the portfolio. So that's I think what you'll see us continue to focus on.
+<A - Stephen J. Felice>: Yeah, if I could just add a little bit on the product side. Clearly we are starting to see a lot of
+receptivity to virtualized clients and that drives a more profitable client business for us, but it also has a big drag along
+effect on the enterprise. And so, with the addition of Wyse we are seeing really good progress out of that, and the
+synergies it has with the rest of our business.
+We also are starting to see a lot of receptivity to the way we've approached the tablet market from a commercial
+perspective. I have been meeting with lots of customers who continue to say that they are needing to prioritize security
+and manageability as they try to rollout tablets in their environment. Specifically, products like the Latitude 10 that has
+things like security built into it with a smartcard feature and even something like a replaceable battery. These are things
+that are resonating well on the commercial side.
+So those opportunities are going to broaden that commercial business for us and that should help us get back to growth.
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 8 of 15
+<Q - Toni M. Sacconaghi>: Thank you.
+<A - Robert L. Williams>: Thanks, Toni.
+Operator
+Your next question will come from the line of Steve Milunovich with UBS.
+<Q - Steven M. Milunovich>: Thank you. First, a clarification. You said that as your business shifts towards software
+and services it improves cash flow. You previously said that as you move away from the client business to the
+enterprise business that actually could kind of hurt your cash conversion cycle. Could you just clarify that comment?
+<A - Brian T. Gladden>: Yeah, there are big parts of the software and some elements of the services business where
+it's a cash upfront business. And deferred revenue balance as you've watched it over the last several quarters has
+continued to grow for us. That has obviously contributed cash flow in that model. And as that becomes bigger with
+Quest and some other key assets in the portfolio, that's going to be a good thing for us.
+<Q - Steven M. Milunovich>: Okay. On the enterprise side, certainly when one talks to your competitors, they are
+pretty dismissive of Dell in the enterprise. You are showing some good early results. What are they missing? Where do
+you think you differentiate versus traditional competitors? I know you've talked about a flatter and cheaper architecture
+but maybe you could talk a little about some of the architectural approaches in markets that are a bit different from
+what your traditional competitors are doing?
+<A - Michael S. Dell>: We hope they continue to take that approach to not understanding what we're doing. Point out
+that this is roughly a $20 billion business and growing pretty nicely. If we look at x86 servers, which are really the core
+of the business for us, we have achieved leading share in North America and we were the only company among the top
+three to grow in every region of the world in that space.
+We are really innovating in the enterprise without having to protect a legacy of mid-range and mainframe products that
+we believe that is a highly differentiated approach and the combination of what we are doing in networking, storage,
+and the ability to combine those and manage those, I believe, is resonating very well with our customer. So, you saw
+last quarter, Servers & Networking grew 11% year-over-year and particularly a lot of success with our 12th generation
+PowerEdge which is sort of the crown jewel of the portfolio. We have beat our competitors to market and in the highest
+volume category, we have really outdone our competitors here in terms of the capability of those products.
+For example, we have a product right in the core of this product line that has 63% more storage capacity than our
+principal competitors. So you think about applications like Hadoop, Big Data, SharePoint, Exchange, all the growth in
+hosting activity and cloud activity that's going on with things like OpenStack, Dell's incredibly well positioned to serve
+those customers. In fact, our DCS Server business grew 126% year-over-year, which is markedly faster than overall
+market.
+So I think we're very well-positioned in the enterprise and our services portfolio is very well-aligned to help customers
+transition from those legacy architectures to x86.
+<A - Robert L. Williams>: Thanks, Steve.
+Operator
+Your next question will come from the line of Ben Reitzes with Barclays.
+<Q - Ben Alexander Reitzes>: Yeah, thanks a lot. Maybe for Michael and Brian, on your analyst day, you guys were
+one of the first companies to kind of put out some realistic numbers for PC growth and then you said there could be a
+downside scenario of negative 5%. Does the performance in this quarter and what you're seeing into the next kind of
+change that view? Does it mean that we're at the negative 5% and that's what it should be? Just is there any other
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 9 of 15
+thoughts around that long-term growth rate? And should we assume that it's hitting – it is hitting that worst-case
+scenario now and could be negative 5% for a long time? Any perspective? Thanks.
+<A - Brian T. Gladden>: Yeah, but I think it's a – I think you have to look at it over a longer window of time. The
+reality is I mean we're in a pretty noisy market in terms of the transition of the operating system, in terms of the
+inventory dynamics that are playing out there, as well as the macro. If you take a look at the industry over a longer
+period of time, there still are some significant positive trends that I think bring this back and difficult in this sort of
+environment to make a call around the long-term dynamics of the client business.
+<Q - Ben Alexander Reitzes>: Okay. And then just as a follow up, with regard to your guidance, 2% to 5% growth, it
+looks like almost $500 million in revenue, I kind of get $100 million from Quest, can you just tell us where you get the
+growth sequentially? Is that normal seasonality? Or is there something else that should pick up that we should key on?
+<A - Brian T. Gladden>: Yeah, it's generally the normal seasonality and the consumer mix that you would expect to
+see around the holiday season that drives fourth quarter to be bigger than the third quarter. Quest for us should be
+actually more than that. It should be approaching $180 million, $200 million of sequential revenue. And then you have
+the seasonal impact of the consumer business.
+<Q - Ben Alexander Reitzes>: Okay. Thanks a lot, guys.
+<A - Brian T. Gladden>: Thanks, Ben.
+Operator
+Your next question will come from the line of Maynard Um with Wells Fargo.
+<Q - Maynard J. Um>: Hi, thanks. Just the first question is a clarification just on the gross margins, last quarter you
+talked about, in your 10-Q, any potential vendor change in sales program impacting you. Was there anything that
+happened this quarter that impacted your gross margins? And then I have a follow-up.
+<A - Brian T. Gladden>: Yeah, nothing material, Maynard.
+<Q - Maynard J. Um>: Okay. And then just on the storage side, I was wondering if you could just be maybe a little bit
+more specific, if this is a function of the macro, something in the competitive environment, or maybe an impact from
+your server improvements? And then if you could just remind us where the EMC business is now? Has that pretty
+much reached levels where that won't be declining going forward? Thanks.
+<A - Michael S. Dell>: Storage was down 3% year-over-year, which is likely in line with market growth. We have a
+number of enhancements to the portfolio, and I think another important element here is that the line that separates
+servers and storage is really blurring. We have a large customer that we've now installed over a exabyte of storage in
+for their cloud and it's one of the most recognized companies in the world. But that exabyte of storage is all contained
+within Dell servers, so none of it shows up in our storage revenue.
+And as I mentioned earlier, we have a server that has – a two-use server that supports 38 terabytes of storage. You'll
+note that, that's right in the heart of the mid-range storage capacities. By the end of this month, that same server will be
+available with 50 terabytes of storage. So the lines here are really blurring with converged infrastructure and our overall
+Enterprise Server, Storage, Networking business is kind of growing in the mid-single digits and I think well positioned.
+<Q - Maynard J. Um>: And the EMC piece?
+<A - Michael S. Dell>: EMC is de minimis.
+<A - Brian T. Gladden>: Yeah, fini.
+<Q - Maynard J. Um>: Thank you.
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 10 of 15
+Operator
+The next question will come from the line of Shannon Cross with Cross Research.
+<Q - Shannon S. Cross>: Thank you very much. I wanted to ask first about the public business? What are you hearing
+from governments? You noted a slowdown in October in the U.S. How should we think about what the federal
+government in the U.S. is doing as we move toward this fiscal cliff and just in general, I'm curious as to what – if there
+has been any signs of improvement maybe in China or Europe or if it just remains relatively muted?
+<A - Stephen J. Felice>: Well, I think in the U.S. we are in the same position everybody else is. We are waiting for
+decisions to be made and it will affect public budgets. But right now, with the uncertainty that is remaining, there's not
+a lot of budget available so as soon as the September month ended and they got their approved budget spending out of
+the way it shut down quite a bit. Until there is clarification it's hard to predict where that's going to go.
+Western Europe, we continue to see weakness in the public sector, as you would expect with their debt crises going on
+there, and that one also does not show any near-term signs of improvement. The rest of it is spotty. Asia does show
+some signs of recovery, although as I pointed out earlier, it's been one of the biggest changes I think from previous
+financial economic downturns is the fact that you saw BRIC countries slow down as much so while it is stabilizing and
+coming back it's still below what would be a normal expected growth rate.
+So I do think, again, looking at what's going on in China, for example, that we would expect that economy to return and
+that we could see improvements but we're not sure exactly when.
+<Q - Shannon S. Cross>: Okay. And then as a follow up, I'm curious from a capital structure perspective or at least
+from a use of cash perspective, given the stock is under pressure after hours, obviously it's been under pressure for
+quite a while, is there any thought to be more aggressive with share repurchase at these levels or how are you thinking
+about the cash balance that you are holding given some of the changes I guess that have occurred in the marketplace?
+<A - Brian T. Gladden>: Yes, Shannon, I would just reiterate what we said this summer. We are committed to deliver
+– to return between 20% and 35% of our free cash flow to shareholders. We're going to be pretty disciplined about that.
+We are over that on a year-to-date basis and on a rolling 12 month, a trailing 12 month basis. As you know, we did a
+substantial amount of acquisitions this year, $4.7 billion and we're going to continue to manage to that in a disciplined
+way.
+<Q - Shannon S. Cross>: Thank you.
+Operator
+Your next question will come from the line of Jim Suva with Citigroup.
+<Q - Jim Suva>: Thank you very much. When we look at the tablets out there and the industry looks like there's some
+pretty aggressive pricing going on, not only from some of the Asia companies but some of the other ones also. Just a
+question, can you make profitable money in the tablet sector and is it comparable to your PC margins or higher or
+lower because the concern may be that the tablet industry may structurally need a permanent shift to lower
+profitability?
+<A - Stephen J. Felice>: Well, our focus on tablets has primarily been in the commercial side and the feature set that is
+required there matches up with a richer configuration and we do think that there is a profit stream there. It also has a
+lifecycle profitability attached to it in terms of services agreements and other add-ons that we think is attractive to us.
+So you know, we continue to hear a lot of noise from CIOs about having to deal with the added cost and complexity of
+not having a standards-based product as a tablet. And so we are pretty encouraged by the reaction to the Latitude 10
+and we do see this as a profitable product in the commercial space.
+<Q - Jim Suva>: Great. And then my follow up on the stock buyback question, if you are going above that in the first
+half of the year of your stock buyback and if I read the cash flow statement correctly, it looked like you did not buy
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 11 of 15
+back stock this quarter. Maybe I misread that. Is it fair to say for this quarter you pretty much exhausted your capital for
+your stock buyback or with the stock under pressure I guess it was a little surprising that you didn't take advantage of
+that?
+<A - Brian T. Gladden>: I would just again reiterate the commitment that we have and the fact that from a
+year-to-date standpoint and we look at it over a longer period of time. Some quarters we will be above the range, some
+quarters will be below. The reality is as you know we had a large acquisition in the quarter, $2.4 billion, and
+year-to-date we are ahead of the commitment.
+<Q - Jim Suva>: Thank you so much for your clarity, gentlemen. I appreciate it.
+<A - Brian T. Gladden>: Yep.
+Operator
+The next question will come from Katy Huberty with Morgan Stanley.
+<Q - Katy Huberty>: Thanks. Good afternoon. How do you gain confidence that the acquired storage businesses
+aren't losing momentum given the growth rates are now closer to the market, you are no longer are taking share? And is
+that where some of the $90 million of investments in acquired businesses, is that were some of that's going?
+<A - Michael S. Dell>: Well, look, I think there are definitely opportunities to improve some of those businesses. The
+pipeline is pretty healthy when I look at the demand. What we also see is we are growing fast in the part of the product
+line that has a pretty long tail of revenues. So pretty encouraged with what we see there. And we are just introducing a
+whole range of new products this week, in fact, at our Dell Storage Forum in Paris. So I think we are in a reasonably
+good position there. We have been adding sales capacity and investment in the sales specialists to be able to drive that
+business further but it's definitely an area where we are going to be looking for higher growth rates.
+<Q - Katy Huberty>: And then on gross margin, Quest should drive a nice boost sequentially. Is there any reason that
+the October quarter, Brian, wasn't a trough in gross margins over the longer term? Is there any risk that PC volumes and
+pricing would offset the Quest benefit?
+<A - Brian T. Gladden>: Quest helps and clearly the faster growth on the enterprise side with higher gross margins is
+a good thing that over time will continue to push gross margins up. I think in the next quarter, I'd highlight two
+challenges. One is just mix as you have a bigger consumer business that typically plays out in the fourth quarter. And
+there is some pricing pressure on the client business side. So we will manage through that but there are some good
+macro trends that are driving margins up over time.
+<Q - Katy Huberty>: Thank you.
+Operator
+Your next question will come from the line of Mark Moskowitz with JPMorgan.
+<Q - Mark A. Moskowitz>: Thank you. Good afternoon. Michael or Steve, I'm just trying to get a sense here in terms
+of the enterprise growth. How much of that is related to customers who are new to Dell and they look to your PC
+business as a loss leader? I'm just trying to understand the value of retaining the PC business longer-term if these newer
+customers driving the enterprise growth aren't buying your PCs, why keep the PC business?
+<A - Stephen J. Felice>: Well, for several reasons. First of all, we continue to see a need with the trends in technology
+to have an end to end solution. When you think about the trends going on in bring your own device and virtualized
+desktops and cloud computing. All of these things leave Dell as a trusted advisor with a lot of customers to give them a
+solution from end to end. We also have a nice cash business with our client business. There's a lot of benefits to it and
+our commercial client business drives very healthy profitability.
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 12 of 15
+On the enterprise side, you can see from the server performance that we are taking share. We are gaining new
+customers. We are gaining them around the world. We are now number one in Asia and that's because we are winning
+new customers in China. Michael talked about our leadership position in the U.S. In particular I talked about the strong
+growth in the SMB market. We grew enterprise quite a bit there. We resonate really well with those customers and they
+have a little better wherewithal to spend money right now, so I think we performed really, really well there. So this is
+also, the SMB is also a customer set that does look to Dell as a trusted advisor across all the products. So we have great
+cross selling opportunities in that customer set. So we think this portfolio is important.
+<Q - Mark A. Moskowitz>: And then, Brian, can you give us some line of sight in terms of the incremental R&D
+investments required going forward? Should we think about R&D growth being in the mid-teens year-over-year for the
+next couple quarters or is there going to be an inflection point soon?
+<A - Brian T. Gladden>: No, it's going to continue to be a place where you'll see growth, especially around these
+enterprise businesses. I think much of what we've done is incrementally invest in R&D in acquired assets and building
+out the intellectual property that we've required. So that's going to continue to be very important. And as a company,
+we're running at 1.8% of revenue now, significantly up from where we were even a year ago. So it's an important trend
+that will continue for us where we'll be increasing R&D.
+<Q - Mark A. Moskowitz>: Okay. Thank you.
+Operator
+Your next question will come from the line of Keith Bachman with Bank of Montreal.
+<Q - Keith F. Bachman>: Hi. My first question is on services. The Support business is growing nicely do to better
+attach, yet if I look at infrastructure applications and BPO, it seems that, that business is growing well below market
+growth rates, so I was wondering why? And what's the action plan to improve growth in those areas? And I have a
+follow-up, please.
+<A - Brian T. Gladden>: Yeah, Keith, I mean you've seen, as we've talked about over the last few quarters, pretty
+strong growth in terms of new signings and much of that's around IT outsourcing and Apps & BPO. What's going on in
+this business is we are intentionally pruning some legacy accounts that from our standpoint aren't necessarily long-term
+strategic accounts for us. That has improved profitability significantly. It's been very conscious and thoughtful and I
+think you'll see, as those new signings begin to kick in over the next few quarters here, that those businesses will begin
+to show some nice growth.
+<Q - Keith F. Bachman>: Okay. Well, my follow...
+<A - Michael S. Dell>: That's led, by the way, to six consecutive quarters of increasing margin so...
+<A - Brian T. Gladden>: Yeah, it's helping services margins overall too, yeah.
+<Q - Keith F. Bachman>: Well, then my follow up, I want to say with this subject if I can is, Brian, could you give a
+little more color on what the growth trajectory here in this business is? And within that context, you've been acquiring a
+good deal of IP on transaction-related businesses, but is there a thought here to investing more in this business as well,
+including nonorganic sources?
+<A - Brian T. Gladden>: Yeah, I think we've been – obviously as we've built out and built around the Perot platform,
+we've added some things to that portfolio that are executing well. SecureWorks is a great Security Services business
+that's been growing very, very well and has been a great acquisition. We've added some new intellectual property
+around application modernization this year, with Make and Clerity.
+So I think you'll see us try and focus on differentiated IP that we can add to the services portfolio and grow higher
+margin parts of that business.
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 13 of 15
+<A - Michael S. Dell>: Yeah, and Keith, whether it's in infrastructure or cloud security or Apps & BPOs, the team at
+Dell Services is really focused on next gen services solutions, fill-in-the-blank as a service as an example. And so as a
+result of that, they're continuing to fine tune the model to make sure that they've got the right cost structure in place and
+the right people and tools and technologies in place. And so they're very comfortable with where they're positioned
+right now and feel very comfortable with their pipeline. They're just doing some things that they feel are the right –
+absolutely the right strategy on a go-forward basis and it's showing up in the P&L, not necessarily at the revenue line
+right now.
+<Q - Keith F. Bachman>: How long does it take to filter out the deals, Brian? I didn't hear that part. Is this another
+one, two quarters? Three quarters?
+<A - Brian T. Gladden>: I think they'll continue to do it. You'll start to see the benefit of some of the signings kind of
+rolling into the business as you get through next year, probably the middle of next year.
+<Q - Keith F. Bachman>: Okay.
+<A - Michael S. Dell>: They're being a bit more careful about how they start to book to bring those signings on, and so
+again, you've got a good consistent level of signings on a trailing 12-month basis that's been consistently just below $2
+billion, so that should begin to filter into the business.
+<Q - Keith F. Bachman>: All right. Thanks, guys.
+<A - Michael S. Dell>: A comment related to some customer feedback, the silver lining in a bad economic situation is
+it has everybody really examine their cost structures and I feel like we're hitting an inflection point where you hear
+CIOs, and I've heard many of them specifically say, I've got to get off of my proprietary environment, I've got to get off
+the mainframe. These are comments we never used to hear. And we're so well positioned without having a legacy profit
+stream from those proprietary environments to meet the needs of customers wanting to move and that's why we're
+getting apps modernization capability, so we can help drive that transition.
+Operator
+Your next question will come from the line of Peter Misek with Jefferies.
+<Q - Peter Misek>: Thanks, gentlemen. You exuded a lot of confidence in your commentary that this current
+downturn is more of a short-term downturn. Can you give us any data points post the October close or any comfort or
+color that this is short-term and this isn't a longer-term malaise? We have a double-dip recession in Europe. We have a
+bit of a mess politically in Congress right now. Any kind of dynamics would be great in terms of that? And I have a
+quick follow up.
+<A - Brian T. Gladden>: Yeah, can't really give you any fourth quarter color, but some of the things we talked about
+clearly – and we're really talking about the client business. You see what's happened with the inventory dynamics and
+you see what happens – what's happened here with the Windows 8 operating system transition. I mean those are clearly
+impacts that we would see working their way through the system over the next quarter or so. So don't expect a lot of
+improvement in macro-economy and probably don't expect a lot of the fundamental PC demand dynamics to improve
+over the next quarter, but that will – that element will work its way through.
+<Q - Peter Misek>: And as we look at – and you mentioned in your commentary as well – as you look at the
+macro-environment, I'd like to understand a little bit in terms of component strategies, managing inventory, can you
+give us any color on how we're looking in terms of – we know what the channel inventory is, you've enunciated that,
+any ability to give us some detail on what Dell's raw material purchase commitment inventory looks like? Not
+necessarily on the PC side, but more in terms of some of the other hard work. There seems to be some nice component
+pricing that's coming down. I'm wondering if Dell's been able to take advantage of that? Thanks.
+<A - Brian T. Gladden>: I think it's one of the strengths of our efficient supply chain and short-cycle times is getting
+access to those opportunities and we've done a good job with that. As you've seen over the last quarter at least, that
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 14 of 15
+we've taken inventory levels down, so we think that gives us a chance to take advantage of those opportunities and
+we've done some of that.
+<A - Robert L. Williams>: Thanks, Peter. Let's take one more question, Regina.
+Operator
+The final question will come from the line of Kulbinder Garcha with Credit Suisse.
+<Q - Kulbinder S. Garcha>: Thanks for letting me on the call. Brian, a question for you just on the cost base, really.
+With margins having gradually come down for multiple quarters now, at the gross and, I guess, operating level, is there
+anything more radical you guys have considered? Are there any disposals you can do, small or large? Or just taking
+more of a stringent view of the cost base, if this a prolonged downturn? Or if there's a sustainable pressure on margins
+in the client business, so you have to be more actioned going forward? Is that under consideration? Or is it just $1
+billion in the client business you've mentioned so far?
+<A - Brian T. Gladden>: No, look, I think we're doing a couple things. I mean clearly we've managed discretionary
+spending with a specific focus on G&A over the last several quarters here, and if you look at the OpEx trend that we've
+had this year, I mean it's been fairly well-managed. As in many cases, we've added a lot of investment in the key
+priority areas of the business, so that will continue. We just think that's clearly something we have to do in this
+environment and the right thing to do.
+Jeff Clarke this summer talked about a broader $2 billion initiative. $1 billion of that is in the client space. Some of
+that'll be in COGS, some of it'll be in OpEx, and then there's another billion that we're going after in other parts of the
+business. So those are broad initiatives that affect the underlying structure of the business and allow us to drive
+efficiency and productivity across the business. You'll see that sort of play out over the next couple years and we'll talk
+more about that as it sort of works its way through the system.
+<Q - Kulbinder S. Garcha>: And just to be clear, Brian, none of this $2 billion potential in savings, however it might
+come into the P&L has really impacted you – has really benefited you guys yet? Is that correct?
+<A - Brian T. Gladden>: That's generally right. I mean we've started some of the activities, but it's been more
+aggressive management of discretionary spending in the short-term.
+<Q - Kulbinder S. Garcha>: Okay. Thank you.
+Operator
+I'll turn the call over to Mr. Williams for closing remarks.
+Robert L. Williams
+No closing remarks. Thanks a lot, and we look forward to chatting with you.
+Operator
+This concludes today's conference call. We appreciate your participation. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+Company Name: Dell
+Company Ticker: DELL US
+Date: 2012-11-15
+Event Description: Q3 2013 Earnings Call
+Market Cap: N.A.
+Current PX: N.A.
+YTD Change($): N.A.
+YTD Change(%): N.A.
+Bloomberg Estimates - EPS
+Current Quarter: 0.226
+Current Year: 0.937
+Bloomberg Estimates - Sales
+Current Quarter: 14038.667
+Current Year: 57163.833
+Page 15 of 15
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
