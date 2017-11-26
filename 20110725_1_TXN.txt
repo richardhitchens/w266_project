@@ -1,0 +1,785 @@
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 1 of 14
+Q2 2011 Earnings Call
+Company Participants
+• Ron Slaymaker
+• Kevin P. March
+Other Participants
+• Chris B. Danely
+• Glen S. P. Yeung
+• Cody G. Acree
+• John W. Pitzer
+• Srini Pajjuri
+• Uche Orji
+• Tore E. Svanberg
+• Stacy A. Rasgon
+• James Covello
+• Vivek Arya
+• C. J. Muse
+• Ross C. Seymore
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, and welcome to the Texas Instruments Second Quarter 2011 Earnings Conference Call. As a reminder,
+today's conference is being recorded. At this time, I would like to turn the conference over to Ron Slaymaker. Please go
+ahead, sir.
+Ron Slaymaker
+Good afternoon, and thank you for joining our Second Quarter 2011 Earnings Conference Call. As usual, Kevin March,
+TI's CFO, is with me today. For any of you who missed the release, you can find it on our website at TI.com/IR. This
+call is being broadcast live over the web and can be accessed through TI's website. A replay will be available through
+the web.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to
+differ materially from management's current expectations. We encourage you to review the Safe Harbor statement
+contained in the earnings release published today, as well as TI's most recent SEC filings, for a more complete
+description.
+Our mid-quarter update to our outlook is scheduled this quarter for September 8. We expect to narrow or adjust the
+revenue and earnings guidance ranges as appropriate with this update.
+In today's call, in addition to a review of the second quarter's financial results, we'll describe the current demand
+environment and our perspective of how it is developing as we move into the second half of the year. We'll also update
+you on the status of our recovery efforts in Japan, as well as the status of our acquisition of National Semiconductor.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 2 of 14
+I'll start with the demand environment. As a reminder, in April we said that the impact in the second quarter from the
+events in Japan would be greater than in the first quarter, considering that we would be operating with only partial
+output at our factories there, that our Japanese customers were still in the early stages of restarting their own factories,
+and that we and our customers could face potential supply chain disruptions. We also said that we believed underlying
+demand was strong. In light of the anticipated Japan impact, the middle of our second quarter revenue guidance range
+that we provided in April was about half the seasonal average for our second quarter. In fact, the quarter developed
+largely as we had expected. With the exception of weaker demand from a single large wireless customer, our quarter
+progressed a little better than the midpoint of our initial expectations.
+You will recall that we adjusted our guidance downward at our scheduled June update in response to the weaker
+demand from that customer. Otherwise, we had a lot of positive demand signals in the quarter. These included an
+increase in our total backlog during the second quarter – our book-to-bill ratio was 1.04. Also, in Asia, where more than
+half our business is done, distributor resales grew 10% in the quarter. Finally, the situation in Japan is getting better.
+Not only do we have our own factories back in production, demand from our Japan customers is increasing.
+Against this positive backdrop, however, we also see some signs that are less encouraging. For example, we believe
+that computing and some parts of the consumer electronics markets may not show the typical strength that we might
+otherwise expect heading into the back-to-school and holiday period. So as a result of this increased uncertainty, we're
+preparing for a wider range of growth possibilities as we move into the second half. In the third quarter, we're planning
+for modest sequential growth. However, we'll keep our operations and inventory staged to support higher demand if it
+develops. This is an environment where we simply need to stay flexible to adjust to whatever develops.
+Turning to our second quarter's results, TI revenue of $3.46 billion was about even with a year ago and grew 2%
+sequentially. Revenue from our core businesses increased 8% from a year ago and grew 5% sequentially. In total, our
+core revenue was 73% of total revenue in the quarter, up from 67% a year ago and 71% in the prior quarter. The
+breakout of our core revenue results includes Analog up 5% from a year ago and up 3% sequentially. We believe we
+gained share this quarter in Analog. Embedded Processing grew 16% from a year ago and increased 12% sequentially.
+We believe we gained share this quarter in Embedded Processing. Wireless, OMAP, and connectivity revenue
+collectively increased 6% from a year ago and increased 2% sequentially.
+Noncore revenue declined 18% from a year ago and declined 6% sequentially. This was mostly affected by wireless
+basebands, where revenue fell 45% from a year ago and declined 32% sequentially to $228 million. Baseband revenue
+fell to below 7% of TI revenue in the quarter, down from 12% a year ago and 10% last quarter.
+Turning to our segments, the most significant drivers of Analog growth in both comparisons have been the catalog
+product areas, including both power management and high performance analog. These areas benefit from the scale
+advantage of TI's large field sales and applications force, especially in the fastest-growing regions of the world. These
+are also areas where our product portfolio will be significantly enhanced by the addition of National Semiconductor's
+strong catalog product offerings later this year when we close that acquisition. High-volume analog and logic, or
+HVAL, revenue was about even in both comparisons, as it was impacted by the earthquake damage at our Miho factory
+in Japan.
+The biggest factor in Embedded Processing revenue growth in both comparisons is communications infrastructure,
+where we continued to benefit from deployments in North America of 3G systems, as carriers attempt to keep up with
+increasing amounts of data traffic associated with higher usage of smartphones and tablets. From a year ago, we also
+had strong automotive demand, although this slowed significantly on a sequential basis. Demand for our catalog
+products remained robust in the quarter, growing at double-digit levels on a sequential basis, as we continued to take
+share across a range of microcontroller and DSP markets.
+Our Wireless segment revenue overall reflected the sharp decline in baseband revenue. As we said in June, weaker
+demand from the same large customer that drove down our baseband revenue in the quarter also affected the core
+Wireless product line. Fortunately, these products have a more diverse customer base, and we were able to grow this
+core revenue despite the declines at that customer.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 3 of 14
+In our Other segment, the revenue decline from year-ago was primarily due to lower revenue from DLP products, lower
+royalties, and the sale of a cable modem product line in the fourth quarter of 2010. Sequentially, the increase in revenue
+was due to higher seasonal calculator revenue, which was partially offset by lower revenue from DLP products. DLP
+revenue was impacted in both comparisons by lost production last quarter due to the earthquake damage to our Miho
+factory in Japan. When evaluating this segment's profit, please note that we are including earthquake-related costs of
+about $50 million, and our National Semiconductor acquisition-related costs of $13 million in this segment this quarter.
+Turning to distribution, resales grew 2% sequentially. As one would expect, resales declined at a double-digit rate in
+Japan. Resales grew at a double-digit rate in Asia. The Americas were about flat, and Europe was down single digits.
+Distributor inventory levels were essentially unchanged on a days basis. At just over six weeks, distributor inventory is
+consistent with historical levels, and we believe remains appropriate.
+Now, Kevin will review profitability and our outlook.
+Kevin P. March
+Thanks, Ron, and good afternoon, everyone.
+Let me start by providing an update on our recovery operations in Japan. The good news is that our production loadings
+were nearly back to full capacity by the middle of June. This recovery was ahead of our plan, thanks to a lot of hard
+work by our TI teams in Japan and across the world. Our Aizu factory recovered first and has been in production for
+most of the second quarter. Our Miho factory, the one that was more severely damaged, was shut down during the first
+half of April and ramped steadily through May and the first part of June.
+As we've noted before, this is based on production loadings, or wafer starts, and there are a few months of lag between
+when we start a wafer and when those products are shipped to our customers for revenue, due to the manufacturing
+cycle time. As a result, our shipments in revenue in the third quarter will continue to have some impact from this lost
+production, although to a lesser extent.
+Our earthquake-related costs were about $50 million, net of proceeds from ongoing insurance claims. Almost all of
+these costs were included in cost of revenue, and as Ron noted, were included in our Other segment. This includes costs
+such as the underutilization expense we incurred from having our manufacturing assets only partially loaded, the
+recovery teams that we've assembled from across the world, as well as other one-time costs. As a reminder, in the first
+quarter, these costs totaled about $30 million.
+So turning to our financial results, gross profit in the quarter increased $25 million sequentially. The profit contribution
+from higher revenue was partially offset by lower factory utilization levels and higher earthquake-related costs. The
+combination of R&D and SG&A increased 2%, or $17 million, from the first quarter. Most of this increase is from
+continued investment in our field sales and applications engineering force in emerging markets such as China.
+We have adjusted our estimate for TI's annual effective tax rate for 2011 to 27% due to lower expected taxable income.
+Net income in the first quarter was $672 million, or $0.56 per share. Again, in the EPS calculation, please note that
+accounting rules require that we allocate a portion of net income to any unvested restricted stock units on which we pay
+dividend equivalents. In the second quarter, the amount of net income excluded from the EPS calculation was $10
+million. If you don't make this adjustment, you'll likely calculate EPS to be a penny higher than we have reported.
+I'll leave most of the cash flow and balance sheet items for you to review in the release. However, let me make just a
+few comments. Cash flow from operations was $631 million. This is up $115 million from last quarter, mostly reflected
+in the payment of accrued annual profit share and performance bonuses in the first quarter. Capital expenditures were
+$276 million in the quarter, up from $194 million in the first quarter, and were mostly attributable to additions to our
+assembly and test capacity. We used $452 million in the quarter to repurchase 13 million shares of TI common stock
+and paid dividends of $150 million.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 4 of 14
+We increased our inventory by $84 million in the quarter. Although some of this resulted from weaker demand by a
+wireless customer in the quarter, most was planned and primarily due to the company building inventory to help
+support high customer service levels and to continue alternate factory sourcing for parts that were affected by the Japan
+earthquake. Although alternate sourcing provided minimal revenue benefit in the second quarter due to manufacturing
+cycle times, this work will provide TI greater flexibility in future quarters and provide our customers greater assurance
+of supply continuity. Orders of $3.60 billion in the quarter were about even sequentially. TI's book-to-bill ratio was
+1.04 in the quarter compared with 1.06 in the first quarter.
+Turning to our outlook, we expect TI revenue in the range of $3.40 billion to $3.70 billion in the third quarter, or down
+2% to up 7% sequentially. We expect earnings per share to be in the range of $0.55 to $0.65. Our EPS estimate
+assumes about a penny impact from continued earthquake-related costs in the third quarter. Our estimates for 2011
+R&D, capital expenditures, and depreciation are unchanged.
+Before we turn to Q&A, let me provide a short update on our status with the National Semiconductor acquisition. At
+this point we have completed all of the required antitrust reviews, with the exception of China. We expected China's
+review to be the last to complete and have not encountered any specific obstacles there. We continue to expect to have
+the acquisition closed by the end of this year.
+As some of you undoubtedly have noted, during the second quarter we issued $3.5 billion of debt in association with
+this acquisition, with maturities ranging from two to five years. The average weighted annual interest rate is about 1.6%
+per year, including issuance costs. Earlier this month, we issued commercial paper for $1.2 billion at an annual interest
+rate below 0.19%, including issuance costs. Combined, this means that we will be incurring debt expense of about $15
+million per quarter until we get the National acquisition closed. At that point, we'll update you with new debt expense
+guidance, as we'll also be paying interest on National's debt.
+With these transactions and our cash on hand, we have our finances completely in order to close the transaction once
+we receive antitrust clearance from China.
+In summary, our commitment and progress to becoming a company focused on Analog and Embedded Processing
+should be clear to all. We have strong positions in both and are committed to making them considerably stronger. Both
+markets offer us an opportunity for long-term growth, while providing solid returns on our investments. In the near
+term, there is some uncertainty in our markets. Certain macroeconomic and market signals are indicating early signs of
+below-seasonal growth as we enter the second half of the year. Yet our business fundamentals have remained strong.
+During this period, we will remain especially diligent while also being prepared operationally if our customer demand
+strengthens.
+With that, let me turn it back to Ron.
+Ron Slaymaker
+Thanks, Kevin. Operator, you can now open the lines up for questions. In order to provide as many of you as possible
+an opportunity to ask your questions, please limit yourself to a single question. After our response, we'll provide you an
+opportunity for an additional follow-up. Operator?
+Q&A
+Operator
+[Operator Instructions] We'll go first to Christopher Danely with JPMorgan.
+<Q - Chris B. Danely>: Thanks, guys. Kevin or Ron, if you could just give us your rundown on the various end
+markets. Is it just PC and consumer that's a little weak, or is there anything else that's a little weaker or stronger than
+seasonal for Q3?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 5 of 14
+<A - Ron Slaymaker>: Chris, I would say it's – the areas that we've noted below seasonality – and again, this is from
+input from a few of our larger customers – I would say most of them tend to be Asian-based – are limited to computing
+and, again, some of the consumers markets. And when I say some of the consumer markets, specifically I would note
+televisions and maybe some of the gaming areas where we've seen some – and again, when I say softness, it's not
+necessarily relative to second quarter, but we just haven't really seen the pickup that we might otherwise expect coming
+into a stronger second half.
+If I just kind of walk through some of the other areas – I'll touch on automotive. Automotive, I'll note, actually was up
+sequentially for TI, but I would describe the gain as slight. So it wasn't a decline. And I think that reflects probably
+what we're seeing in the broader automotive market, where I think for example in the U.S., we're seeing
+weaker-than-expected sales. I believe June was the second consecutive month of weaker sales. Really tying more to the
+overall economy probably and consumer spending, as well as possibly just to the tight supply of cars due to supply
+chain issues coming out of Japan.
+Handsets, the part we're focused on, being smartphones, continues to do well. I think we'll see where the year lands, but
+at least coming at this point, something like 50% growth compared to last year, and we have a good position there with
+connectivity and with our OMAP, and a position that is only getting stronger, especially on the OMAP front, as we
+move forward.
+While I'm on that communications side, wireless infrastructure, I'll really just reiterate what I said in the prepared
+remarks. Most of what has been driving us in first half is basically data capacity expansion in North America. There's
+growth in Europe as well, but I would describe that growth as at a slower rate. China and India have not really been big
+drivers thus far this year, but we expect 3G rollouts in those countries to drive better growth in second half. So again,
+mostly North America, first half.
+Industrial, I guess I would describe as steady. Look at the catalog areas, both what – our comments that we had about
+high-performance analog and power analog. And then I would say also look at the comments we made in catalog
+Embedded Processing products. A lot of those type catalog devices tie to that broader industrial markets, and I would
+say very steady results so far.
+So I think that's probably a pretty broad sweep. Do you have a follow-on, Chris?
+<Q - Chris B. Danely>: Yes, thanks. One last question on your own inventory. I think inventory days remained in the
+low 90s. How do you guys feel about that level of inventory days, especially considering what usually happens in Q4?
+And then what would be your utilization rate forecast for this quarter?
+<A - Kevin P. March>: Chris, on the inventory, if you take a look on the balance sheet and look at the mix of
+inventory, you'll actually see that our work in process was up more than normal, and – pardon me, our raw material was
+up more than normal. And that was really a function of making sure that we procured enough raw materials post-Japan
+earthquake so that we wouldn't have material shortages in our factories.
+In addition, you'll see that our finished goods are up some. Part of that's the seasonality, due to the calculator
+back-to-school sales. And a little bit of that is the – just a planned build inside semiconductor products. But really the
+work in process is where you see most of the build at. And to a large extent, that's not only a planned build to get
+ourselves back to customer service levels that we've been trying to achieve now for probably the last year and a half,
+but that's also the result of bringing up our new factories and dual-qualling parts that were in the Miho factory that was
+damaged last quarter with the earthquake. So you got multiple effects going on driving the inventory up.
+Because of the inventory staging that we actually feel quite good about, if the third quarter wants to turn out to be a
+little stronger than the current signals suggest to us, we're well staged to be able to meet that growth if customers
+actually need products sooner.
+The inventory for fourth quarter we'll talk about in 90 days when we get out of this quarter and see what that looks like
+at that point in time.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 6 of 14
+As to the utilization – I'll just comment that utilization was down a little bit in the prior quarter, in the second quarter
+versus prior quarter. And that was really a function of we did start adjusting loadings in first quarter, and that continued
+through second quarter. But at the same time, we also have underutilized capacity, as we've talked about, in the
+Japanese factories that were damaged. So together those are causing utilizations to be down.
+<A - Ron Slaymaker>: Okay, Chris, thank you for your questions, and we'll go to the next caller, operator.
+Operator
+We'll go next to Glen Yeung with Citi.
+<Q - Glen S. P. Yeung>: Thanks, guys. It sounds like, by the way you're giving the guidance, that visibility is fairly
+low. So I wonder if you look at where potentially you could see upside, because it sounds like just from a prepared
+commentary that that's maybe how you're thinking about it. Where would you think that's possible, if at all? And then
+as part of answering that, you also say you want to stay flexible. I recognize inventory may be part of that. But what
+else is involved in staying flexible for your customers?
+<A - Kevin P. March>: Glen, I would say on the upside would probably be exactly those two areas where Ron had
+suggested that we're seeing some softness or some lackluster growth forecasts from our customers. That would be in
+the computing space and in the consumer space, mainly the TV and some of the gaming areas that we're looking at. It's
+also not out of the question that as these component shortages finally clear themselves up in the automotive space, that
+you may see a resumption of demand in that area as well.
+From an upside standpoint, I already discussed the inventory profiling. But at the same time, we're also just managing
+not just the inventory that we have, but our overall factory loads, and our overall spending plans as we go into the
+second half of the year, just to be sure that we don't have spending getting out in front of our revenue growth.
+<A - Ron Slaymaker>: Glen, one thing I would comment, just on the factory loads, and we've talked about this for
+some time, but maybe one positive consideration that came out of Japan was the fact that we're now getting more of our
+parts qualified in more factories, which just gives us more degrees of freedom. When demand wants to upside, we're
+not limited to a particular factory and how much headroom we might have in that one factory. We have more
+opportunity at more factories, and in this case, with three of the factories being new factories, clearly we have a lot of
+headroom for upside support there as needed.
+Do you have a follow-on, Glen?
+<Q - Glen S. P. Yeung>: I do, and it's kind of switching gears. Thinking about the opportunity in PCs that you see for
+OMAP, I wonder if you can give us a sense as to how important you think that opportunity is. And maybe put it in
+these terms: If you only had that opportunity for OMAP, just that PC opportunity, do you think it would be substantial
+enough for you to continue to work on OMAP going forward?
+<A - Ron Slaymaker>: Boy, Glen, that's a tough question to answer, because we don't even envision that at all. I
+mean, clearly mobile is our priority with OMAP. We're highly focused on the smartphone space and the tablet space.
+And frankly, we're probably not pursuing as aggressively just the idea of OMAP somehow, or ARM trying to work its
+way into a standard PC. Probably the opportunity we would view would be more just to the degree that tablets
+cannibalize into the lower end of the PC space or into the netbook space. Clearly that's opportunity for OMAP.
+But that is such a significant opportunity for us, and one where we are, to some degree, in the driver's seat from the
+standpoint of the penetration that we have and the value proposition that we have with OMAP. And it probably, in our
+mind, makes a lot more sense for us to focus on that than to go try to penetrate a mature market, such as the PC, with
+OMAP.
+So I realize that probably wasn't as direct of an answer as you would have liked, but it really reflects our priority, which
+continues to be smartphones and tablets. And then we are pushing OMAP into other spaces, such as e-readers, GPS
+devices, things like that. But those certainly probably would be a higher priority for us than chasing down the
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 7 of 14
+traditional, more mature PC market.
+Okay, Glen, thank you for your questions, and let's go to the next caller.
+Operator
+We'll go next to Cody Acree with Williams Financial.
+<Q - Cody G. Acree>: Thanks, guys. Ron, maybe you can talk a little about the linearity in the quarter. I guess what's
+really changed? Or has there been a significant amount of change since the June update? I guess when did you start to
+see the issues in computing and consumer?
+<A - Ron Slaymaker>: So if we look at linearity, actually the quarter was, from an order standpoint, highly linear.
+Each month, really, probably within plus or minus of a point, was linear in the quarter. Revenue built sequentially as
+we moved through the quarter. But orders were highly linear. Now, what I don't know, Cody, off the top of my head is
+what is a typical linearity for orders in the second quarter. I think what changed, and I'll let Kevin make some
+macro-related comments if he would like. But more bottoms-up is we just started in the dialogue with customers in
+computing and, as I said, in some of these consumer spaces, they didn't just come in with the kind of new order ramp
+for really looking into third quarter that we might otherwise have expected.
+Kevin, do you have any more macro-related comments?
+<A - Kevin P. March>: Yeah, I think that what's changed in that area has really been a lot of the headlines that we're
+seeing with European and U.S. debt issues, and that's causing some of our larger customers to be, in the computer and
+consumer space to have concern that that may cause anxiety among consumers and dampen demand. And so that's a bit
+of a change from what we saw 30 days ago or even 45 days ago. And really it's just a reaction to a lot of unfavorable
+headlines as it relates to debt and what that may mean to domestic demand in both Europe and the U.S.
+<A - Ron Slaymaker>: Do you have a follow-on, Cody?
+<Q - Cody G. Acree>: Sure, Ron. What is your confidence, then, that what we're seeing in consumer and computing
+isn't really a leading indicator of weakness that starts to become more systemic throughout your other segments?
+<A - Ron Slaymaker>: Well, I think, again, we just haven't seen signs of it elsewhere. To the degree that it's macro
+and wants to spread, I don't think we have any direct visibility into that. But we certainly have not seen signs of that to
+this point. So what we're seeing signs of, again, is not weakening, it's just not the typical turn-up that you might expect
+seasonally in some of those other areas.
+Okay, Cody. Thank you, and we'll move to the next caller.
+Operator
+We'll go next to John Pitzer with Credit Suisse.
+<Q - John W. Pitzer>: Hey, guys. Good afternoon. Thanks for letting me ask the question. Ron, I guess my first
+question, what drove the strength in the distribution Asia resale? And I guess my question is, are you seeing sort of
+softness in computing consumer this quarter because there was an inventory build of TI-specific parts in the June
+quarter?
+<A - Ron Slaymaker>: That's an interesting question, John. I don't know that we have perfect visibility. When we look
+at the TI component inventory out there, we really maybe look at it in three different buckets. One is what we have at
+distribution. Distribution now supports about 40% of our revenue. You heard me say we're just at over six weeks of
+inventory, which feels very appropriate. So we'd say distribution inventory is fine.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 8 of 14
+The next bucket would be OEMs where we have consignment programs, and by definition that's fine, because we're
+managing that inventory, we keep it lean, we keep it fast turning. And if you put distribution plus consignment
+together, you end up a little north of two-thirds of TI's total revenue. So for more than two-thirds of our revenue, we
+have good visibility, and we feel good about the inventory levels that are out there.
+For the remaining one-third of our business, I would describe – we don't have direct visibility. But at the same time,
+we're not aware that there are significant inventory issues out there. So we feel in general pretty good about inventory,
+but your question is a good one, which is once something moves past our distributor, and is into their customers, we
+lose direct visibility, and we don't really know what the inventory trends are out there. But again, we're not aware of
+any specific inventory issues.
+Do you have a follow-on, John?
+<Q - John W. Pitzer>: Yeah, the follow-on's for Kevin, just around profitability. Kevin, how I do think specifically
+about gross margins in the September quarter? For me to kind of get to the low end of the EPS range, I've got to take a
+pretty healthy hit to gross margin. And conversely, despite the weaker revenue outlook, you haven't cut R&D outlook.
+I'm kind of curious as to why. And what would you need to see to actually adjust the R&D outlook down?
+<A - Kevin P. March>: So John, on the gross margin, I'm not sure how you're building your model there, but I would
+remind you that in the second quarter, we had about $50 million of net costs attributable to the earthquake in Japan, and
+almost all of that cost went against the gross margin line. Next quarter, we indicated we've probably got another
+penny's worth of cost that we expect in the third quarter. And again, that would go against the gross margin line. So I'm
+not really quite sure how you're building your model that would be driving the gross margins down. In fact, it seems it
+would go a little bit different just for no other reason we don't have the same kind of overhang on earthquake costs that
+we did this quarter.
+As to the R&D spend, R&D is really – these are long-term kind of spends. These aren't the sort of things that you tend
+to swing around too much in short term. And so as you've watched us for a lot of years now, when we set our R&D
+spend budget for the year, we rarely fluctuate much more than $100 million plus or minus around that budget that we
+set at the beginning of the year. And that's really because the whole intent of R&D is you're spending not for this year's
+revenue and sometimes not even for next year's revenue but for revenue beyond that. So I would not anticipate making
+changes to this year's forecast for R&D. We'd have to see something – the similar drama that we saw come out of '08
+and into early '09 for us to really change our spending plan on that front.
+<A - Ron Slaymaker>: You don't see that on the horizon, right, Kevin?
+<A - Kevin P. March>: I do not.
+<A - Ron Slaymaker>: Okay. Thank you, John. Let's move to the next caller.
+Operator
+We'll go next to Srini Pajjuri with CLSA Securities.
+<Q - Srini Pajjuri>: Thank you. Ron, you mentioned that there was some impact on OMAP from Nokia being weak.
+I'm just curious, if you look at the OMAP and connectivity business, what percent of that is still Nokia, and how should
+we think about it going forward?
+<A - Ron Slaymaker>: Srini, I don't have – I can't tell you what percent of OMAP or connectivity is any particular
+customer. But just to reiterate what we said previously, is that our OMAP and connectivity customer base is much
+broader than our baseband customer base, where to a large part we're building that product for a single customer. So we
+feel good about the diversity of that revenue, and frankly it's getting even more diverse as we – especially in the OMAP
+space – have a lot of new design wins that are basically in the pipeline of moving from development into production,
+let's say over the course of the next year. So again, it's a more diverse customer base, but I can't break it out any finer
+for you than that.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 9 of 14
+Do you have a follow-up, Srini?
+<Q - Srini Pajjuri>: Yes, Ron. And you classified about 27% of your sales as noncore. We obviously know what's
+going to happen to the baseband business going forward. But just curious as to what your strategic plans are for the
+remaining 20% of the noncore business. Thank you.
+<A - Kevin P. March>: Yeah, Srini, the rest of that business is made up a variety of products. For example, our
+calculator business is in there. That enjoys great market share, especially in the North American education market. And
+that's a market that will continue to grow, although at probably very low single digit kind of growth rates. Our DLP
+business is in that area, and that also continues to do very well in front projection and has some very interesting
+emerging growth opportunities, particularly in Pico projectors and other types of application of that nature. Our
+royalties are also in there. We don't really expect much growth in that area. We have some other business; our custom
+ASIC is in that area. That's what I would characterize as a kind of very slow growth sort of area. And there's a few
+other miscellaneous types of things.
+So overall, if we look at the noncore products area, minus baseband, because we've already talked about baseband will
+run its way to zero by the end of 2012, so minus baseband, the remainder we're expecting to probably grow in the – call
+it the 2% kind of range over the years, into the future.
+<A - Ron Slaymaker>: Okay, thank you, Srini. We'll move to the next caller.
+Operator
+We'll go next to Uche Orji with UBS.
+<Q - Uche Orji>: Thank you very much. Maybe, Ron, let me reapproach the OMAP question again. I think it was a
+few quarters ago when you talked about rolling out product and being able to come back and retake share. Obviously
+we're not seeing that this quarter. Can you talk about what the outlook is for that business, especially now that 4460 has
+been launched and that is probably one of the fastest-performing product in its category right now. What is your sense
+as to the design pipeline and how we should think about growth for the apps processor business? Thanks.
+<A - Ron Slaymaker>: Uche, I think we feel really pretty optimistic about the outlook for growth in OMAP. We are
+doing very well with a range of different customers and a range of different product. I think we've told you before that
+in the case of OMAP 3, we had something like 50 – more than 50, actually – different OMAP 3-based handsets in the
+market. And that was a handset count, I think, at the end of 2010.
+And what I can say is with OMAP 4, our design-in rate has been even higher, in fact higher than any prior OMAP
+generation. So there are a few customers that we publicly talked about because they have publicly announced their
+product. In the tablet space, that would be RIM with PlayBook. In the smartphone space, the LG Optimus 3D product is
+OMAP 4-based. We've also launched OMAP 5 in February of this year. So again, we have a great pipeline of products
+and product technology, but even more importantly, we have a great pipeline of design wins in the smartphone and the
+tablet space.
+And then as I said previously, that we will watch them develop over time, but areas like e-readers, GPS, personal
+navigation systems, things like that, find OMAP to be just a great type of media processor, application processor for
+their space as well. So we think it has a good growth outlook from a revenue standpoint, and we're certainly investing
+accordingly.
+Do you have a follow-on, Uche?
+<Q - Uche Orji>: Yeah, a slightly different question on the wireless and wired -the comms infrastructure in China.
+Any comments you can make as to the rollout in the second half of the year? Not just China, but just in general. And
+also, as you jockey for position with the PLD guys, in your ASIC business versus PLD, what is your sense as to who is
+winning that contest right now? Because I remember at your last Analyst Day you kind of talked about how your ASIC
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 10 of 14
+business will probably come back into that space. So any comments around the possible rollout in the second half,
+specifically on China, and then the ASIC business outlook? Thanks.
+<A - Ron Slaymaker>: Okay, so I would say in terms of China and India, I probably don't have a lot more granularity
+to provide other than what I have, which is just that we expect them to drive incremental growth in second half of this
+year. So we are well positioned in those markets as we are just in comms infrastructure, base station equipment, across
+the world. So as those systems deploy in those regions, we will clearly be a participant.
+Our – question, the PLD versus ASIC, there's actually a step beyond both of those, which is system-on-a-chip, where
+we take the functionality that historically would have been in a standalone ASIC, or a standalone FPGA type of device
+and basically integrate it onto our DSP for a much more optimized system. And I think when you start thinking about
+base stations and TI's content participation, going forward, think more system-on-a-chip – so for example, 4G-related,
+4G type of systems. We already have system-on-a-chip for these systems. And that will mean that our content will be
+higher, and frankly our content will ramp earlier to that higher level, than what it might have historically. But again, we
+have great position, DSPs, and now surrounding that DSP in a single chip implementation, the logic that gives us more
+of a system-on-a-chip functionality.
+Okay, Uche, thank you. And we'll move to the next caller.
+Operator
+We'll go next to Tore Svanberg with Stifel Nicolaus.
+<Q - Tore E. Svanberg>: Thank you. So it looks like the baseband business was sort of the main delta in the June
+quarter, so how should we think about that business now in the September quarter?
+<A - Ron Slaymaker>: Tore, probably the best I can say is what you've heard us say before, which is kind of take the
+$228 million we were at in the second quarter, and straight-line it down in a linear fashion to zero by the time you get
+to first quarter of '13. We realize you're going to have quarters that are above that, quarters that are below that. But
+really that's probably about the best forecasting approach we can provide you.
+Do you have a follow-on, Tore?
+<Q - Tore E. Svanberg>: Yeah, that's fair. My second question is on linearity, but maybe not as much bookings last
+quarter but just trying to understand how bookings have fared so far in this quarter. Are we off to a fairly normal start?
+<A - Ron Slaymaker>: I would say it's similar to – it reflects the environment that we described for you and the
+outlook that we've provided. So in other words, we have not seen, in the first three weeks of July a big ramp in orders
+that would be reflective of a strong back-to-school or holiday season in consumer or in computing. But is kind of that
+more lukewarm type of a signal that we previously described for you.
+Okay, Tore. Thank you, and we'll move to the next caller.
+Operator
+We'll go next to Stacy Rasgon with Sanford Bernstein.
+<Q - Stacy A. Rasgon>: Hi, guys. Thanks for taking my questions. Can you tell me – give me some feeling for how
+much lost production from Miho in Q3 might be baked into your guidance? And do you feel like, had that fab been
+completely online and running, could you have sold everything that you ordinarily would have been making out of it?
+<A - Kevin P. March>: Stacy, I would say that the lost production in this quarter is about, as we've talked about, about
+a penny's worth of earnings.
+<Q - Stacy A. Rasgon>: That's lost production, or that's costs?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 11 of 14
+<A - Kevin P. March>: Pardon me, pardon me. That's cost. There'll also be some lost revenue, just because we can't
+sell the material until we get towards the end of the quarter, as it comes out of the factory towards the end of the
+quarter. And we don't have a quantification for what that would be right now because clearly the outlook has changed,
+and versus what we were trying to do to give color 90 days ago when we were coming into the second quarter.
+As it relates to the overall second quarter lost output, we had estimated it would cost us around $0.05 worth of lost
+revenue, would be about $0.05 worth of earnings, in second quarter. And that's pretty much about what it turned out to
+be. We had estimated that the incremental cost would be about $0.05 in second quarter, and it came in closer to about
+$0.03 net of an insurance settlement that – ongoing insurance settlement we were able to achieve.
+<A - Ron Slaymaker>: Okay, Stacy, thank you. Do you have a follow-on?
+<Q - Stacy A. Rasgon>: I do. Just regarding what you're seeing in auto right now, do you think, I guess, the weakness
+you're sort of indicating for now, is that just more supply constraints where if somebody else isn't shipping a part, then
+the car doesn't ship and nobody who is sending parts into those cars ships anything? Is that the kind of weakness, or is
+it more demand-driven? And what are your expectations for that market, I guess, as we move into Q4 of the year? Do
+you think it all normalizes out?
+<A - Ron Slaymaker>: Stacy, I don't know that we have a great answer or visibility into the why of auto. I know car
+sales are down, I know – or weaker than expected. I know part of that – a large part of that – is supply chain-related.
+And if they can't get a critical component from somebody else in the supply chain, then they sure don't need the parts
+that we would sell into it. How much of it is the consumer nervousness, just based on kind of what Kevin talked about
+previously, going on at the macro level, there very likely could be some of that as well, but what we know is supply
+chain has impacted that.
+Okay, thank you, Stacy, for your questions, and we'll move to the next caller.
+Operator
+We'll go next to Jim Covello with Goldman Sachs.
+<Q - James Covello>: Thanks so much for taking the question. A lot of good ones have been asked already. But you
+guys referred to share gains in Analog and Embedded Processing. Is there any incremental color you can give on
+specific sub-segments or end markets where you think you picked up some share?
+<A - Ron Slaymaker>: I don't know that I can do it real broadly. But if you take Embedded Processing – and again,
+it's always a little difficult at this point because we haven't seen everybody else's results to be able to really extrapolate.
+But clearly the strength of our position in comms infrastructure and the results that we're publishing here in that space,
+says that's clearly a contributor for TI gaining share in Embedded Processing.
+But I actually think it's more broad than that. I mean, if you look at the catalog areas, we grew double-digit levels in
+catalog Embedded Processing revenue, and probably the main driver of that was on the microcontroller side. And that's
+a sequential number. So it probably stands to reason that we're gaining share in catalog microcontrollers. And catalog
+DSPs, probably, as well. So I think both of those areas are important for us.
+I think when you get into the Analog space, let me just leave it at kind of where I described before. I think when you
+talk about the broad catalog space, and that includes both power as well as the broader HPA market, I think you
+probably would have to say that catalog and therefore product sold through distribution, products that really leverage
+the fact that we have probably four times the number of salespeople as our closest analog competitor out there
+identifying opportunities and designing in our product, that would probably be the theme, I would say, for market share
+gains. I don't have enough data at this point to take it down into, is it amplifiers or specific products segments. But
+probably the more broad catalog category would be the theme.
+Do you have a follow-on, Jim?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 12 of 14
+<Q - James Covello>: Yeah, helpful. A couple of your competitors in particular were pretty vocal this quarter about
+you guys being somewhat aggressive on pricing. I mean, is that kind of an isolated situation? Or is that something that
+was more strategic on your part as you begin to fill up some of the fab capacity? Thanks.
+<A - Ron Slaymaker>: Jim, I think every time a competitor loses share to TI, we hear the pricing complaint coming
+back to us. I don't think we're doing anything different on pricing than what we've done historically. Frankly, our sales
+guys and gals are aggressive for pursuing new design wins, but that doesn't mean that we're out aggressive on pricing.
+We just fundamentally believe that when it comes to analog, when it comes to embedded processing, pricing is pretty
+far down the list of customer considerations when they're picking a supplier for a particular component. And things that
+– first and foremost, the performance of the product, the match of the product to the customer's system needs, the
+amount of support that TI can provide, in the form of applications engineers, in the form of the kind of factory capacity
+that they see TI bringing online compared to our various competitors. Those are the considerations that drive
+customers' decisions to select TI versus a competitor.
+Absolutely we have to be – we have to keep our pencil sharp on pricing; we have to be competitive on pricing. But it's
+not pricing that's causing TI's share gains. So again, it's not the first time I've heard that. I'm sure it won't be the last
+time I've heard that one.
+Okay, Jim, thank you, and we'll move to the next caller.
+Operator
+We'll go next to Vivek Arya with Bank of America Merrill Lynch.
+<Q - Vivek Arya>: Thanks for taking my question. The wireless operating margins came down in the second quarter,
+which I assume is due to the baseband declines. Two questions. If baseband continues to decline, would that continue
+to be an overhang on Wireless margins? And just longer term, I wanted to understand that if you do see growth in
+Wireless, but it comes at much lower margins than Analog and Embedded, does it still make sense to invest in this
+business?
+<A - Kevin P. March>: Vivek, let me just address that question on the margins. The operating margins were down in
+Wireless on a quarter-over-quarter basis. And in part that's just the gross margin dollars that leave that P&L with the
+lack of revenue that we have on the baseband.
+But another part of it is, as Ron indicated earlier, we are seeing an increasing number of design wins across that
+portfolio of products, and a larger number of customers. And to support those design wins, we're also increasing our
+staff level to make sure that we're providing adequate support. So you got really two things going on under there. One
+of them is the baseband revenue decline and its associated margin coming out. And the other is the fact that we're
+increasing our support of customers as a result of us actually winning additional design wins.
+As it turns to looking into the future, we said for quite a while that the non-baseband portion of our Wireless segment
+needs to grow and grow rapidly in order to get a certain amount of revenue base that makes sense to the financial
+model. And I can tell you that the leaders of – or that particular set of products is very focused on that. And frankly,
+with the design wins that they have been successful in getting at lately, it is increasingly encouraging that we may in
+fact begin to see more favorable results, and certainly in time for when the baseband business finally winds down
+completely.
+I won't try to predict any decision as to the question you asked about when does it make sense to stay in or stay out. I
+won't try to go there. I would just simply point out that once again with the design wins we've got going there, we have
+been adding additional resources to support those. And we're quite encouraged that we should start seeing that turning
+into meaningful revenue growth in the not-too-distant future.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 13 of 14
+<A - Ron Slaymaker>: And Vivek, I would just add, the gross margins that OMAP and connectivity run at are fully
+consistent with Texas Instruments. And so what Kevin's describing is really more tied to the level of investment that
+we're making on operating expense as opposed to a disconnect between those product lines' gross margins and what TI
+would see, for example, in Analog or Embedded Processing.
+Do you have a follow-on, Vivek?
+<Q - Vivek Arya>: Yes, thanks. Just a quick follow-up on a slightly different topic. I think you mentioned that third
+quarter, some of the conservatism that you have is around consumer and computing. Could you remind us how much
+exposure you have to those areas? And how much do you expect to grow or decline versus your prior expectation?
+Because I'm trying to reconcile your cautiousness versus the inline to stronger guidance that we saw from Intel and
+AMD. Of course I understand your consumer trends are very different.
+<A - Ron Slaymaker>: Okay. Vivek, I can give you – I will give you this data in a second – the FE. Let me comment,
+though. I think even our friends at Intel talked about lower units than what they had previously been expecting. But for
+them, it was translating to a richer mix. I suspect for TI, we're probably more sensitive to units than mix, given just the
+type of products we sell in as opposed to their microprocessor business.
+Okay, if I just look at first half of this year, I'll walk down all the end equipment areas and give you what percent of
+TI's revenue. Communications is 41%. Computing, 23%. Industrial, 14%. Consumer, 10%. Automotive, 8%. And
+education will be 4%, and that is primarily our calculator revenue. Let me give you a sub-breakout of computing,
+because not all of these will necessarily apply to what – our outlook. So PCs, of that 23% – I'm sorry, these will sum up
+to the 23%. PCs in first half '11 are about 9%. Storage, hard disk drives, et cetera, 6%. Servers, 1%. Monitors, 5%,
+which is really the DLP front projector revenue. And printers would be 2%. So hopefully that helps.
+Operator, can we move to the next caller?
+Operator
+We'll go next to C. J. Muse with Barclays Capital.
+<Q - C. J. Muse>: Good. Good afternoon. Thank you for taking my question. I know you guys don't guide to gross
+margin, but it looks like at the midpoint, it's roughly up 50 bips, and I guess the question I have, is that entirely due to
+the roll-off of one-time charges from Japan, or is there also a mix issue here?
+<A - Kevin P. March>: C. J., I won't get into a whole lot of specifics. I will comment that clearly the roll-off of the
+cost drag for Japan is contributing to what our expected outlook would be. Beyond that, I won't get into any further mix
+discussion on that. I'll just leave, and we'll report on that in 90 days.
+<A - Ron Slaymaker>: Okay, C. J., do you have a follow-on?
+<Q - C. J. Muse>: Yeah, just for housekeeping, can you tell me what the actual share count was exiting 2Q, and should
+we be modeling 27% tax rate for all of fiscal '12?
+<A - Kevin P. March>: Yeah, C. J., the diluted share count, the average diluted share count for the second quarter,
+was 1-1-8-0, so 1.18 billion. The actual end-of-period share count, basic share count, was 1.155 billion. Those were the
+shares that we actually paid dividends on.
+As to the tax rate, yeah, the revision we've given is a 27% tax rate, which we believe that the tax rate should apply for
+the entire year, including the balance of the year.
+<A - Ron Slaymaker>: And I think our prior tax rate guidance, Kevin, was 28%, but it's probably more rounding up to
+28%. It was 27.5% or change, something rounding up to 28%. Is that correct?
+<A - Kevin P. March>: That's correct. And similarly we're rounding down to 26% (sic) [27%] (56:02) right now.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2011-07-25
+Event Description: Q2 2011 Earnings Call
+Market Cap: 34,417.00
+Current PX: 29.79
+YTD Change($): -2.71
+YTD Change(%): -8.338
+Bloomberg Estimates - EPS
+Current Quarter: 0.577
+Current Year: 2.243
+Bloomberg Estimates - Sales
+Current Quarter: 3318.294
+Current Year: 13493.971
+Page 14 of 14
+<A - Ron Slaymaker>: Okay – to 27%, you mean?
+<A - Kevin P. March>: 27%, yeah. Right.
+<A - Ron Slaymaker>: So in reality, the delta is probably a few tenths of a point in the tax rate, but we our guidance is
+not that granular.
+Okay, C. J. Thank you. And we'll move – operator, I think we'll have time for one more caller, please.
+Operator
+And we'll take our final question from Ross Seymore with Deutsche Banc.
+<Q - Ross C. Seymore>: Hey, guys, thanks for squeezing me in. A gross margin question, and we'll look backwards,
+so maybe, Kevin, you can talk a little bit more about it. If we looked year over year in the second quarter – I realize you
+have charges this year and even a little higher depreciation – but the gross margin is still down a good 2, 3 points. Can
+you just walk us through quickly what is the cause of that?
+<A - Kevin P. March>: Sure. Ross, I think the highest-level look at it – because you're right, it's probably down about
+3.5 points versus a year ago – and the single biggest driver is the cost of the earthquake damage that we talked about.
+That's probably about a point and a half of that delta. Utilization is probably about another point. Keep in mind that we
+brought on additional capacity during this period. There's probably about half a point or so attributable to just slightly
+lower revenues and another half a point attributable just to year-over-year changes in pay and benefits, and raw
+material costs, such as commodities and so on.
+<Q - Ross C. Seymore>: So mix doesn't have any implication at all?
+<A - Kevin P. March>: Not enough to really make a difference. These are the larger moving pieces that are going on
+inside there.
+<Q - Ross C. Seymore>: Got you. And I guess for my quick follow-on, Ron, I think on the mid-quarter update, you
+talked about the disty resales you hope to be up mid-single digits, and I think you said they were up 1% or 2%. Is that
+just splitting hairs to notice any difference there, or is there something going on?
+<A - Ron Slaymaker>: Resales were up 2% sequentially. And off the top of my head, I don't recall specifically what
+we were saying mid-quarter. If you're saying mid-single digit, that could say they were a point or two off. But I don't
+recall that number, and I don't recall the variance. And Kevin's sitting here shaking his head. So neither one of us can
+help you on that one, Ross.
+Ron Slaymaker
+Okay, so with that, thank you for joining us. A replay of this call is available on our website. Good evening.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2011, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
