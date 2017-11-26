@@ -1,0 +1,744 @@
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 1 of 14
+Q1 2013 Earnings Call
+Company Participants
+• Susan Johnson
+• John J. Stephens
+Other Participants
+• Michael I. Rollins
+• Simon Flannery
+• Philip A. Cusick
+• John C. Hodulik
+• Mike McCormack
+• Jason S. Armstrong
+• Colby A. Synesael
+• David W. Barden
+• Timothy K. Horan
+• Chris M. Larsen
+• Brett J. Feldman
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the AT&T First Quarter Earnings Release 2013
+Conference Call. At this time, all participants are in a listen-only mode. Later we will conduct a question and answer
+session, and instructions will be given at that time. [Operator Instructions] Also as a reminder, this teleconference is
+being recorded. And at this time, I will turn the conference call over to your host, Ms. Susan Johnson. Please go ahead.
+Susan Johnson
+Thank you, Tony.
+Good afternoon, everyone, and welcome to our first quarter conference call. It's great to have you with us today. I'm
+Susan Johnson, head of Investor Relations for AT&T.
+Joining me on the call today is John Stephens, AT&T's Chief Financial Officer. John will provide an update with
+perspectives on the quarter, then will follow up with questions.
+Let me remind you our earnings material is available on the Investor Relations page of the AT&T website. That's
+www.att.com/investor.relations.
+I also need to cover our Safe Harbor statement, which is on slide 2. This presentation and comments may include
+forward-looking statements that are subject to risks. Results may differ materially. Details are on our SEC filings and
+on AT&T's website.
+Now before I turn the call over to John, let me quickly cover our consolidated financial summary, which is on slide 3.
+Reported EPS for the quarter was $0.67. That's up more than 11% over last year's first quarter. Our results this quarter
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 2 of 14
+include about a $0.03 help from an income tax settlement. When you exclude this, earnings per share were $0.64, or
+about an 8.5% increase over last year's adjusted first quarter EPS of $0.59, which is adjusted to exclude our divested
+Ad Solutions unit.
+Consolidated revenues excluding Ad Solutions were up 0.9% year-over-year, thanks to solid revenue growth in
+wireless, continued gains in U-verse services, and growth in strategic business services. Revenues were impacted
+somewhat by lower regulatory fees this quarter. When you normalize for the difference in these charges, consolidated
+revenue would have grown 1.3%. Consolidated margins were down slightly year-over-year, primarily due to wireline
+pressure.
+Cash flow started the year strong. Cash from operating activities for the quarter totaled $8.2 billion, and free cash flow
+was $3.9 billion. And we continued buying back shares as part of our repurchase program. In the first quarter, we
+bought back 168 million shares for $5.9 billion.
+With that overview, I'll now turn the call over to AT&T's Chief Financial Officer, John Stephens. John?
+John J. Stephens
+Thank you, Susan, and good afternoon, everyone. Thank you for being with us today, and as always, thank you for your
+interest in AT&T.
+Before we get to the detailed results, let's start with a quick overview. Highlights are on slide 4.
+First, we had a solid start to the year. Earnings per share growth was strong, adjusted consolidated revenues increased,
+and cash flow continues to be a success story for us. We added more than 2 million IP broadband connections in the
+quarter when you combine both wireless and wireline connections.
+In wireless, it's all about the mobile Internet. Data growth was strong, smartphone sales set another first-quarter record,
+tablets drove postpaid growth with an exceptional quarter, and customers continue to flock to our Mobile Share plans,
+making it easier than ever to add new devices and drive further growth. This resulted in improved revenues, better
+margins, postpaid ARPU growth, and lower churn.
+In wireline, U-verse continues to shine. We had our best ever U-verse high-speed Internet sales in the first quarter. This
+drove positive broadband growth. In fact, we had our best total wireline broadband growth in nine quarters. U-verse
+video sales also were strong, as we added more subscribers than we have in any quarter over the last two years.
+So the team is executing at a high level, and we have the right strategy. Our financial results are solid, our capital
+structure sound. All in all, a solid start to the new year.
+Before we move to operational results, I'd like to give you a quick update on Project Velocity or Project VIP. Details
+are on slide 5.
+It's still early, but we already have made tremendous progress with our LTE deployment. We are running ahead of
+schedule, with nearly 200 million LTE POPs covered to date, and we expect to complete nearly 90% of our 300 million
+POP LTE buildout by the end of this year.
+The LTE network also is operating at high levels. First, our LTE network is the fastest in the nation, as supported by an
+independent third-party testing group. Then on wireless network performance, including call, text, and data,
+RootMetrics ranked AT&T number one or tied for number one in 14 of the 23 markets they have surveyed so far this
+year. And this comes on top of ranking first or tied for first in more than 70% of the markets RootMetrics surveyed in
+the second half of last year where we had deployed LTE.
+Our U-verse VIP deployments will begin rolling out later this year, but the incredible first quarter U-verse results add
+to our confidence in making this a larger part of our growth strategy. We had record high-speed IP broadband net adds
+along with increasing U-verse video gains. We continue to gain market share in areas where we offer U-verse, and
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 3 of 14
+Project VIP expands those areas even more.
+The same holds true with out strategic business service revenue growth and our fiber build to business. Even in
+uncertain economic times, we are seeing growing demand for high-speed connectivity and our advanced data services.
+These results once again show that Project VIP is working, and the right strategy for AT&T.
+Now let's move to our operational results, starting with wireless, where we had another solid quarter thanks to
+continued growth of the mobile Internet. Revenue and ARPU are on slide 6.
+Mobile data continues to surge. Revenues were up 21% in the quarter. That helped drive 3.4% service revenue growth,
+and total wireless revenues were up 3.4%.
+You will recall that we adjusted the way we book our data revenues, which no longer include text messaging. And as
+you can see, this quarter mobile data continues to surge. It's now a $20 billion annualized revenue stream, growing at
+21%.
+You also can see the impact of data growth when you look at postpaid ARPU. Data ARPU grew 18%, and total
+postpaid phone-only ARPU was up 2%. Total postpaid ARPU, which includes high-margin but lower-ARPU tablets
+and other non-phone devices, also grew in the quarter, up about 1%.
+Our postpaid smartphone base also continues to expand. Those details are on slide 7. Smartphone subscribers increased
+by more than 1.2 million in the quarter, and by more than 7 million in the last 12 months. Overall, smartphones now
+make up more than 70% of our postpaid phone base, and smartphones accounted for nearly 90% of postpaid sales in
+the quarter, giving us even more room for smartphone growth.
+These are the premium subscribers in our business. They have twice the ARPU of non-smartphone subscribers, and
+much lower churn, so their conversion brings additional revenue. Another new first quarter smartphones sales record of
+$6 million helped drive that growth. We had 4.8 million iPhone activations in the quarter, while our upgrade rate was
+steady when compared to last year's levels.
+The number of postpaid subscribers on usage-based data plans also continues to grow. Overall, almost 70% of our
+smartphone base has moved to usage-based plans. Mobile Share plans continue to be popular. By the end of the first
+quarter, Mobile Share accounts reached 3.3 million. These accounts include about 10 million subscribers or devices
+such as smartphones and tablets. This growth is even more impressive when you remember that we give customers a
+choice when picking a data plan, allowing them to pick the one that works best for them.
+At the same time, take rates on the higher Mobile Share data plans, those that are 10 gigabits or higher, continue to run
+above expectations, with more than a quarter of Mobile Share accounts on those plans. And we continue to see a steady
+movement of subscribers on unlimited plans taking advantage of Mobile Share. More than 15% of subscribers have
+moved over from unlimited plans, or about 1 million subscribers to date. During the quarter, we introduced larger
+Mobile Share plans targeting businesses as well as consumers who need more data. These plans offer up to 50 gigabits
+per month and provide an attractive revenue yield.
+We also see the impact of the mobile Internet on our postpaid net adds. Details are on slide 8. We had strong gains in
+tablets. This new growth area drove postpaid growth of almost 300,000 postpaid subscribers in the quarter. We also had
+another solid quarter with our connected devices, adding 431,000 subscribers, primarily with security and tracking
+devices. Reseller and prepaid impacted our overall net adds.
+Reseller had a net loss this quarter, primarily due to resellers rationalizing their no or low usage accounts. These
+disconnects had a negative impact of more than 600,000 on reseller subscriber net adds in the quarter and on total
+subscriber net adds in the quarter. Although the reseller volumes involved were significant, it had little impact on
+revenue. In fact, our reseller revenue is up more than 50% year-over-year. Prepaid sales continue to be impacted by
+declines in session-based tablets.
+We do see some changes across the mobile marketplace. As always, we continue to evaluate and look for opportunities
+that take advantage of our network including new product offerings, bundling opportunities, and alternative forms of
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 4 of 14
+distribution. But we also continue to see improvements in churn. Postpaid churn had another strong quarter, down
+year-over-year and sequentially. And we had our best ever first quarter smartphone churn, which was less than 1%. We
+did have a policy change with regard to third party retailers that had a small impact on churn. But with or without that
+change, we saw a reduction in churn, and we continue to see year-over-year improvements in postpaid churn.
+Now let's take a look at wireless margins on slide 9. Our wireless margin story continues a trend we've seen in recent
+quarters. Smartphone sales continue to be strong. But even with increased sales, margins are expanding. The story is no
+different this quarter. We set a first quarter record of 6 million smartphone sales, yet our wireless EBITDA service
+margin was 90 basis points higher when compared to the first quarter of 2012, or 43.2%. Smartphone subscribers
+continue to be a wise investment. You know the long-term value they bring: higher ARPU, lower churn, strong data
+growth, driving growth in operating income, which was up more than 4% year-over-year.
+We really feel good about our wireless position. Revenues continue to grow with expanding margins. The mobile
+Internet continues to bring strong data growth, with more and more subscribers on usage-based data plans. Customers
+continue to embrace our Mobile Share plans, helping drive tablet growth. And our LTE deployment is ahead of
+schedule and winning praise as the fastest in the industry. So all in all, a really solid wireless performance that sets the
+stage for a strong year in 2013 and beyond.
+Now let's look at our wireline operations starting with consumer, which you can see on slide 10. Once again, we had
+another impressive U-verse performance, with accelerating subscriber gains. The growth of our high speed IP
+broadband has been nothing short of dramatic. We added more IP broadband subscribers this quarter than ever before,
+more than 730,000, which helped drive our best total broadband net adds in two years. IP broadband now makes up
+more than half of our total broadband base, with an ARPU growing at more than 9% year-over-year. Plus we are
+gaining share against our competition.
+U-verse TV also had a great quarter. We added 232,000 U-verse video customers, our best showing in nine quarters.
+These gains helped drive overall consumer revenue growth of 2%. Adjusted for changes in regulatory fees, it would
+have been nearly 2.5%, with U-verse revenues up more than 30% in the quarter off an ever increasing base. So once
+again, another solid quarter in consumer, and we see more opportunity for growth with our increasing U-verse
+penetration and planned Project VIP expansions.
+Now let's move to wireline business, which you can see on slide 11. When you look at the three major components of
+wireline business, you're seeing a similar story that we've talked about in prior quarters. The continued drop in small
+business starts is still pressuring that part of the revenue stream. Wholesale and government solutions continue to be
+challenged, and our enterprise revenues, after showing some positive signs last year, were challenged in the first
+quarter. Combined business revenue was down sequentially and year-over-year, pressured somewhat by regulatory
+fees. Adjusting for those fees, total business revenue was down 2.7%.
+One bright spot was the strong growth in strategic business services. Those are products that are part of our Project
+Velocity investment, including VPN, Ethernet, hosting, and other advanced IP services. These were up 10.8% even in a
+very difficult economic environment. Expenses were down year-over-year to help offset some of the revenue decline,
+but uncertainty with the economy continues to be the issue. Customers are delaying buying decisions, unemployment
+improvement continues to lag, the business overhang from regulatory uncertainty persists, and government budget
+issues are all having an impact on our customers and on our results.
+But the most challenging aspect for us is trying to forecast the future in this environment. Like others, we are looking
+for consistent signs of improvement. One thing that is not faltering in our confidence in the future is that it will be
+driven by high bandwidth connectivity, mobility, and the cloud. Nobody is positioned better to take advantage of these
+opportunities once the uncertainty passes and the economy turns.
+Let me give you more detail on slide 12. AT&T is a recognized leader in solutions for hosting and cloud services. We
+offer network-centric integrated solutions that provide value to customers on a global basis. The foundation for our
+cloud services is having one of the world's most powerful and advanced global MPLS networks that span 187
+countries. We operate 38 data centers that are fully integrated with that network, providing top of the line security,
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 5 of 14
+reliability, and management.
+We see a future where our wireline network assets and mobility come together in the cloud that will mobilize
+workforces to access business information in a secure environment. AT&T's expertise in this area has been recognized
+recently by industry analyst Gartner, who gave the company the highest rating for important capabilities for network
+services. We have the network, the right tools, and the right products to win in the fast developing cloud market, and
+we're best positioned to take advantage of the growing opportunities in this space.
+Now let's look at margins and cash flow. Consolidated margin comparisons are on slide 13. For the first quarter,
+consolidated margin was 18.9%, down slightly from the year-ago first quarter. Wireless margin expansion offset
+wireline pressure. However, expenses from corporate and new business initiatives did impact overall margins. In
+wireline, pressure from business, as well as success-based expenses in consumer, drove operating margins down
+slightly. Helping offset this pressure were growth in consumer revenues, operational improvements, and solid
+execution of our One AT&T cost initiatives. We continue to expect consolidated margins to be stable this year, with
+growth in wireless offset by pressure in our investments in our wireline business.
+Now let's move to cash flow, which continues to be a very good story for us. Our summary is on slide 14. In the first
+quarter, cash from operations totaled $8.2 billion. Capital expenditures were $4.3 billion, with more than half of that
+invested in the wireless business, which gives us free cash flow before dividends of $3.9 billion, more than $300
+million improvement over last year's first quarter. Our CapEx expectations continue to be in the $21 billion range as we
+ramp Project VIP throughout this year.
+However, we are adjusting our longer-term capital spending expectations. We now expect capital spending to be in the
+$20 billion range for both 2014 and 2015. That is down from the $22 billion level we expected when we announced
+Project VIP last November. This reduction brings no slowdown in our Project VIP deployment. As we've refined our
+VIP planning, we are seeing greater integration efficiencies in our spending curves. Our LTE build is accelerating into
+this year's spending. That, along with additional savings in non-Project VIP spending, gives us confidence to revise our
+expectations without changing our overall build targets. Post Project VIP, we expect capital spending to take a step
+down to more normal levels.
+Moving to dividends, payments for the quarter totaled $2.5 billion, and we repurchased 168 million shares for $5.9
+billion. This makes our total return to shareholders in the first quarter more than $8 billion, and more than $30 billion in
+the last five quarters. Plus, as we announced last month, the AT&T board approved an additional $300 million
+repurchase authorization. The company expects to make future repurchase decisions opportunistically, which will
+likely slow the pace of buybacks compared to recent activity.
+In terms of uses of cash, total debt was up in the first quarter as we took advantage of historic low interest rates, with a
+debt to capital ratio of about 46% and a net debt to EBITDA ratio of 1.68, well within our guidance in the 1.8 range or
+lower. We also continue working with the Department of Labor on a plan that would contribute a preferred interest in
+our AT&T Mobility to fund our pension plans. We continue to be optimistic on the strategy, and expect approval of this
+proposal in 2013.
+So all in all, another solid financial performance. Our balance sheet is sound, our debt metrics solid, and our strong
+cash flow gives us the flexibility to invest in growth initiatives while returning value to shareholders.
+Now before we take questions, let me close with a quick recap on slide 15. We're off to a good start to the year, and
+what gives us a lot of confidence looking ahead is that we've built a strong – very strong foundation for growth for
+2013 and beyond. Our sector position is solid. We're tracking ahead of schedule with our LTE deployment. Our 4G
+LTE network is the nation's fastest, and winning quality awards across the country. Our capital spending is more
+effective and efficient than we originally expected.
+The churn is down and ARPUs are up, and our smartphone and tablet gains continue to be very strong. The number of
+subscribers we have on usage-based plans is climbing fast, and on top of this, we had one of our best U-verse quarters
+ever. And that's before our Project VIP wireline expansion really starts to ramp, which we expect will only make all of
+these things stronger as we move into the second half of 2013 and beyond.
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 6 of 14
+So we feel good about the foundation we've built, we feel good about the momentum we have. We're positioned to
+grow even in this slow economy, and we're well positioned to continue returning substantial value to shareholders.
+With that, Susan, let's go ahead and take some questions.
+Susan Johnson
+Thank you, John. Tony, we will now open up the call for our question and answer session.
+Q&A
+Operator
+[Operator Instructions] And our first question will come from Michael Rollins with Citi Investment Research. Please
+go ahead.
+<Q - Michael I. Rollins>: Oh, thanks and good afternoon. I was wondering if you could talk a little bit about the
+business revenue in more detail in terms of the implied erosion of legacy services relative to strategic? Is that being hurt
+by the cyclical as well as the secular? And is that something that continues at this rate, or do you see some
+improvement coming over the next 12 to 24 months in that segment? Thanks.
+<A - John J. Stephens>: So good afternoon, Mike. Real quickly, if you break down the three segments so to speak of
+our business revenues into the small business side, we're encouraged by the acceptance of high speed broadband
+U-verse type products, but the business is still challenged by a lack of starts. We're seeing some positive improvement
+in our wholesale business, but in our government, education and medical are still being really challenged by the
+economy and by funding. And enterprise is continuing to be challenged by uncertainty and if you will, delaying
+decisions, even though they are spending on speed and advanced data services.
+When we look at the overall business services, Mike, I think about it this way. It's hard to predict until we get some
+economic clarity. Because while unemployment or regulatory concerns or government spending may be affecting us as
+a individual company separately in different ways, it's definitely affecting our customers. And until we get some clarity
+on that, it's hard to predict. But what we do feel good about is the position we're in when it turns because we can
+provide that combination of integrated services like no other. Hopefully I've answered your question, Mike.
+<Q - Michael I. Rollins>: Thanks, John.
+Operator
+Thank you. Our next question in queue will come from Simon Flannery with Morgan Stanley. Please go ahead.
+<Q - Simon Flannery>: Thank you very much. Good afternoon, John. You had very good U-verse numbers. Can you
+talk a lot – about what was driving that specifically? It doesn't sound like your footprint has expanded dramatically,
+that's going to be later on. Was it promotional activity? I see you've got a few new offers out there. And do you think
+that this is sort of a new kind of turning the corner as the DSL base becomes lower?
+And then given your sort of leverage is moving up towards your 1.8, what's the latest thinking around potential for
+asset sales or other monetizations? Thanks.
+<A - John J. Stephens>: Thank you, Simon. And quite frankly, on our U-verse positive developments, both in small
+business and in consumer, I would tell you that the simple answer is really, really quality execution by our people and
+their teams. Certainly there were some promotions. Certainly there was good opportunities that presented itself from
+existing assets, but I will tell you they focused on reducing churn, they focused on shortening installation times, they
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 7 of 14
+focused on converting customers from legacy DSL services to the high speed U-verse services. It was really a whole
+collection of really quality execution by the team. And I think that's what really drove it. As you can see, we still drove
+revenue growth and we still are getting very good revenues on their triple play on the consumer side. So it wasn't just
+incentive driven. It was really performance.
+With regard to our balance sheet and our wherewithal, I guess the first item I'd point out to you, Simon, with regard to
+your second question is as we've shown, we've got a great balance sheet, very strong, strong cash flows, very great
+coverage of all of our responsibilities. So we feel good about where we're at. Clearly aware of what's going on in the
+industry with regard to monetization strategies, we have a responsibility to look at all those because we're here to
+monetize and maximize value for our shareholders. But with the strength of our balance sheet, we can be careful and
+prudent with regard to taking those steps, and are not necessarily in a position where we need to do any of that.
+<Q - Simon Flannery>: Thank you.
+Operator
+Thank you. Our next question in queue will come from the line of Philip Cusick with JPMorgan. Please go ahead.
+<Q - Philip A. Cusick>: Hi, guys, thanks. I'm thinking about the revenue sort of guidance that you've talked about in
+wireless for mid single digits long term, and I'm struggling to figure out – and it sort of goes into subscriber and ARPU
+side. As more of the subscribers come from tablets and assuming Digital Life launches fairly soon, we'd love an update
+there, ARPU is slowing down. You did 3.5% revenue growth in wireless this quarter. Can that be sustained given sort
+of where one, the industry is going and not growing by much, and two, coming to the other side of the smartphone
+growth? Or do we really need to prepare ourselves for sort of lower ARPU, lower revenue growth in wireless going
+forward? Thanks.
+<A - John J. Stephens>: Thanks, Phil. First and foremost, we still feel good about our guidance about mid single
+digits of revenue growth in the Mobility business. I would suggest to you a couple of things: one, we do still have room
+to grow on the smartphones. As we mentioned, sales rates are at 90%. Current customer base is at 70%. That gives us a
+lot of room to grow. Secondly, we continue to see the adding of tablets and other data devices, so that's going well.
+Third, as we continue to complete our LTE deployment, we expect and we'll continue to see growth in other services
+like video and so forth, so that should provide us with future growth opportunities.
+And all of that is before we roll out things like Digital Life, the Connected Car, Mobile Premise Solution, and a lot of
+the other opportunities that we have moving forward. So we still feel good about where we're at. We're opportunistic
+and pleased about where we're going. I think we'll move forward with that. You specifically asked the question about
+Digital Life. We're going to launch – I think we've announced we're going to launch 15 markets by the middle of the
+year in the spring of this year. And so I think you'll be hearing more about that soon.
+<Q - Philip A. Cusick>: If I can just follow up for a quick second?
+<A - John J. Stephens>: Sure.
+<Q - Philip A. Cusick>: It seems like the wireless industry this quarter, at least on a voice basis, is going to be fairly
+negative, and it looks like you're negative on your own in terms of voice. Is that an acceptable situation for AT&T?
+And can you continue to be sort of negative on voice over time as competitors sort of lose fewer subscribers, or do you
+need to turn it up a little bit, and try and be positive there?
+<A - John J. Stephens>: Well, I guess – let me make one other point that maybe I should have made sooner, and that
+is, if you look at what our churn has done, and the fact that it's continuously going down, we're really optimistic about
+growing revenues from that perspective. And as that happens, we'll see impacts on our total revenue base.
+But if you're asking are we going to continue to see some form of conversion of revenue from voice to data, that would
+not surprise us, but we are positioned well with usage-based plans to capture the revenue opportunity that that data
+provides.
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 8 of 14
+So I still feel good about all of those opportunities. We just need to continue to execute and continue to move forward
+with our LTE build.
+<Q - Philip A. Cusick>: Thanks, John.
+Operator
+Thank you. Our next question will come from John Hodulik with UBS. Please go ahead.
+<Q - John C. Hodulik>: Yeah, thanks. John, maybe just a quick follow-up to Phil's question, really more focused on
+the ARPU. You saw some deceleration. If you look at some of the components, I think – I believe phone-only ARPU
+went from to 2.5% growth last quarter to 2% this quarter. And then the dilution from these other high-margin,
+low-ARPU devices almost doubled from 0.6% to 1.1%.
+I guess first, what is driving the phone-only deceleration? Is that just – you've still got a lot of penetration to go, but
+maybe the incremental penetration from a smartphone standpoint is slowing.
+And really if we put all these points together, I mean should we continue to expect to see deceleration going forward, or
+is it more of an alternative subs sort of story, and less of an ARPU story?
+And then one other thing – I don't know – you guys broke out home-phone customers last quarter. I'm wondering if you
+guys are still giving out that number. Thanks.
+<A - John J. Stephens>: Yeah, John, a couple of things. One, ARPU is always impacted by quarterly fluctuations in
+the level of sales and so forth, but quite frankly, this quarter is impacted compared to prior quarters by the change in the
+regulatory rates. There was a 10% change in the regulatory fee rates that are charged that are included in our revenues.
+And so that I think explains a fair amount of the differentiation in some of the revenue growth. That's all it is.
+So from that perspective, when you take that into consideration, still feel real good about where ARPU's going in our
+phone-only ARPU and -
+<Q - John C. Hodulik>: Okay, so the regulatory fee did hit that phone-only ARPU number?
+<A - John J. Stephens>: Yes, I mean...
+<Q - John C. Hodulik>: Okay, I got it.
+<A - John J. Stephens>: The USF rates went down from 17.9% to 16.1%, about a 10% reduction.
+<Q - John C. Hodulik>: Got it.
+<A - John J. Stephens>: So that's impacting all of our growth-rate numbers. It's just part of the process.
+Operator
+Thank you. Our next question in queue will come from Mike McCormack with Nomura Securities. Please go ahead.
+<Q - Mike McCormack>: Hi, guys, thanks. John, could you just talk a little bit about the – again on the wireline
+margin side, I know there's typically some first-quarter seasonality to that. Are there pieces there we should be thinking
+about?
+The Project VIP impact, I guess I was expecting more of a sort of a 14% impact on success base, so I'm assuming that's
+been pulled forward. Maybe you can just give a little more detail around that?
+And then lastly, any reaction to the upgrade policy change on wireless at Verizon? Thanks.
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 9 of 14
+<A - John J. Stephens>: So on wireline margins, specifically with regard to U-verse, a couple of points, Mike, I think
+you're hitting on.
+One, our expansion of our footprint for U-verse services from Project Velocity is really a later-this-year and 2014 type
+event. The sales and success in customer adds on both video and IP broadband was really great execution in this first
+quarter. It was an expanded selling space. But with that, we still had success-based cost. And so we'll take those for
+these long-term-valuable customers. So that's one aspect of it.
+Two, I'd expect that as we expand the footprint and get additional coverage that we get out of Velocity, you'll continue
+to see some really solid numbers and some pressure from the success of sales. I just believe the first-quarter results are
+a real positive for going forward.
+Second, you are right, we always have some first-quarter pressure with regard to margins. That's not unusual, but it's in
+the comparison to last year also.
+Third -
+<Q - Mike McCormack>: Is this a run-rate we should be thinking about, John, as we progress through the next couple
+of quarters?
+<A - John J. Stephens>: Yeah, I would suggest at this point, we still think we're going to come in slightly below – we
+won't change that guidance – slightly below last year's margins amount. But we feel good about the efforts the team has
+gone through to manage the margins. And if you think about the challenges we faced in the business revenues, we're
+really performing well on cost management.
+Mike, on your question with regard to some of the changes going into the marketplace, absolutely, the marketplace is
+dynamic and it's changing. And we're looking at those changes and evaluating them, and trying to stay current with all
+aspects of it. Don't have anything to announce today, but we're respectful of our competitors in this environment. But
+we're also pretty comfortable with the fact that we're going to be able to continue to compete at a very high level.
+<Q - Mike McCormack>: Great, thanks, John.
+Operator
+Thank you. Our next question will come from Jason Armstrong with Goldman Sachs. Please go ahead.
+<Q - Jason S. Armstrong>: Hey, great, thank you. John, maybe a couple questions. First on tablets, you obviously had
+a really good quarter. You had a partial subsidy model attached to that, and I'm wondering in thinking through that, is
+the subsidy maybe something you use just to stimulate demand temporarily and sort of place these devices in the base?
+Or is that more of a sort of recurring part of the model, as we go forward?
+And then second question, just on leverage, the 1.8 turns – I think my understanding was to create room to invest in
+Project VIP and to go through a big capital cycle over the course of three years, and still leave room to buy back shares
+aggressively, if you wanted to.
+With reducing the capital-spending targets here but still leaving the leverage target out there, it's sort of the same ratio.
+Does that signal an intention to continue to tap that capacity for additional share buybacks? I know you said buybacks
+are slowing from here, but it seems like you still have plenty of room, if that's the case. Thanks.
+<A - John J. Stephens>: Okay, great, Jason. Let me cover your second question first.
+With regard to the 1.8, it was a couple of things. Yes, it was a recognition of the fact that we're going to have some
+higher capital spend. And two, it was also a recognition of historically low interest rates.
+If you look at our interest expense, first quarter 2012, first quarter 2013, you'll see that even though our debt levels
+have increased, our overall interest expense is down.
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 10 of 14
+And that's really what we were trying to take advantage of is the fact that there is a lot of really inexpensive or
+attractively priced debt capital. And with a company like ours who has a very solid dividend, we are trying to be
+prudent in making the decisions about which capital to utilize. With that being said, yes, the reduction in the Project
+VIP capital projection over the last two years will provide us additional flexibility, and that is very important to us.
+With that being said, we're going to stick with what we guided in the presentation, and that is we're going be
+opportunistic with the additional buyback. We'd expect to finish the $600 million share authorization in the second
+quarter, and we will be opportunistic and potentially buy at a slower pace as we go forward.
+The other question I think you had, Jason, was on tablets, and I would suggest to you that you've identified it right. We
+put that in place to see how it would work to stimulate demand and to see what kind of – not only take-rates we get on
+the tablets, but also what kind of ARPUs we would get.
+After our initial testing of that in the fourth quarter, we decided to stay with it, because we have found that the
+economics of it make a lot of sense. I won't suggest to you that it's a permanent offering, but I'll suggest to you that
+we'll continue to monitor it and make our decisions as we go forward with regard to keeping it in place or adjusting it,
+just like we do with all our product offerings.
+<Q - Jason S. Armstrong>: Thanks, John.
+Operator
+Thank you. Our next question in queue will come from the line of Colby Synesael with Cowen & Company. Please go
+ahead.
+<Q - Colby A. Synesael>: Great, I have two questions. First on the regulatory fees both in wireless and wireline,
+curious if those all begin on January 1 or if it happened mid-quarter and therefore, there's more of an impact to be seen
+in the second quarter? And also how that relates back to your previous guidance of 2% – or greater than 2%
+consolidated revenue growth?
+And then my second question just has to do with M&A and what's the company's appetite for M&A, particularly
+outside the U.S. and even more so in Europe? Has that increased or decreased perhaps over the last – I guess since the
+beginning of the year? Thanks.
+<A - John J. Stephens>: So welcome, Colby. Let me – first thing I want to mention to you is that right now, we are
+not changing our guidance with regard to greater than 2% revenue growth for the year.
+We're certainly sensitive to the situation at hand with regard to the economy and the impact it's having on business
+revenues. So we want to be respectful of that, and we understand those aspects. So the challenges of the economy and
+the challenges it raises for business is something we follow really closely.
+With regard to the regulatory fees, those rates were in place for the quarter. That differential was for the first quarter.
+The new rates have been established for the second quarter, and I believe the differential year-over-year is about the
+same. It's different rates, but it's about the same step-down. So some of that regulatory-fee pressure will continue
+throughout the second quarter. We're aware of that, and so we're taking that into account in all of our planning.
+With regard to M&A activity, we don't comment on any M&A activity, and I'm not going to do that now.
+As we've said before, the real issues we find is that the U.S. marketplace that we operate in is well ahead of the – it
+appears to be well ahead of the rest of the world in mobility and the developments around mobility. And as stewards of
+our shareholders' assets, we need to see if we can provide and take advantage of the assets and knowledge we have, and
+provide value for our shareholders based on what we've learned. But we don't comment on M&A activities, and I won't
+comment on any now.
+<Q - Colby A. Synesael>: Okay, thank you.
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 11 of 14
+Operator
+Thank you. Our next question in queue will come from David Barden with Bank of America. Please go ahead.
+<Q - David W. Barden>: Hey, guys, thanks for taking the questions.
+John, it looks like with the tax benefit in the income statement, and the deferred tax gain in the cash flow statement, it
+looks like you guys got about $1 billion tax contribution positive to the quarter. Could you talk a little bit about how
+you see that shaping up over the course of the year, contributing to the $14 billion free cash flow or better guidance?
+And then obviously how the contribution of the wireless business is going to layer in over the course of the year on that
+front?
+And then a second question, if I could just kind of go back to this, I just want to be – kind of make sure I understand. I
+think what you were saying is that from a competitive standpoint, from a wireless-subscriber-growth standpoint,
+AT&T's satisfied with how it did this quarter. Stay the course in terms of general approach to the market, irrespective
+of what's going on with T-Mobile. And then as the LTE business kind of ramps up, look to that for future
+revenue-growth opportunities. Is that a fair assessment of what you said earlier? Thanks.
+<A - John J. Stephens>: Thanks, Dave. Let me take them one at a time.
+First of all, on the tax side of the earnings, we recognize the fact that there was about a $0.03 benefit in the income tax
+line, a reduction of expense, and that's what we've adjusted in our presentation. If you pull that out, that leaves us with
+an effective tax rate just under 33%. And I think those of you follow us know that our kind of normal effective tax rate
+is somewhere in that 33% to 34% range. I wouldn't expect that to be any different for the rest of the year.
+Secondly, with regard to taxes and cash flow, first of all, we take into account an estimate of our cash tax payments as
+we determine cash flow, and as part of our cash from operations, so that's all included.
+And we continue to guide that free cash flow will be in excess of $14 billion this year. I understand people questioning
+that number, based on the fact that we are $3.9 billion in the first quarter, and that's higher than last year. Understand
+the question, but right now, we will continue to guide to greater than $14 billion.
+With regard to our Mobility business, make sure I clarify the sense of – we follow the marketplace. We continue to
+look at what others are doing, and what we are doing ourselves. And we continue to develop ideas, methodologies, and
+processes to be more competitive. The best example I can give you is the Mobile Share plans as well as Digital Life.
+So we're doing that all the time. We'll continue to do that. Don't have any new ideas or new product offerings or
+bundles to announce to you today, but I don't want to suggest to you that there's any lack of activity on improving our
+business or growing it more rapidly than it's growing today.
+<Q - David W. Barden>: All right. And, John, just to follow-up quick on how the contribution of the wireless stake is
+going to get flowed through the tax line – the cash-flow benefit for the rest of the year?
+<A - John J. Stephens>: Yeah, as I said, we've taken into account any of the tax benefits, and cash or expense benefits
+into account in our planning in the guidance we gave in January. And quite frankly, the cash flow guidance which I just
+refreshed and the EPS guidance which we're also – which we're not changing, has already taken that into account.
+<Q - David W. Barden>: All right, got it, thanks. Thanks, guys.
+Operator
+Thank you. Our next question in queue will come from the line of Tim Horan with Oppenheimer. Please go ahead.
+<Q - Timothy K. Horan>: Thanks, guys, just two quick broad questions. Back on the wireless front, John, maybe to
+delve into it a little bit more, do you think you have pricing power in wireless? Has it maybe improved versus where
+you were a couple years ago, and do you think you can take advantage of that? And then secondly, maybe you can
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 12 of 14
+delve into on the supplier side a little bit more, it sounds like the CapEx – obviously it's coming in below expectations
+for the next couple years which is great, but is that – some of that coming from just better pricing that you're seeing on
+the supplier front? And I guess back to the question I have almost every quarter, can we start to see the same thing on
+the handset side? Do you think you have a little bit more leverage at this stage on the handset supplier front? Thanks.
+<A - John J. Stephens>: So, good to hear from you, Tim. Let me take a few things. One think I would tell you this on
+the wireless side, the way I think about it is this improving network that we have and the recognition from RootMetrics
+not only on the fastest but the highest quality, and this more rapid deployment than we expected – than I expected with
+regard to our LTE, really gives us – gets us feeling good about the opportunities for the overall wireless business to add
+more customers, to lower churn, retain more customers, and to generate revenue from usage-based devices. So I think
+the – if you will, the powerful piece of our wireless business that's going on now is really this opportunity to utilize that
+really powerful LTE network and grow the business. That's how we're focused on it.
+With regard to CapEx, I would suggest to you that there's a couple of things going on. One, we got deployment out of
+the LTE faster on an accelerated basis – even last year when we had guided to finish at 150 million LTE POPs, and we
+had the earnings announcement, we were at about 170 million. And now we're guiding to be nearly 90% complete with
+our 300 million POP by the end of this year. So that acceleration is taking some of the CapEx pressure off of 2014 and
+2015.
+Secondly, we're finding that the integration opportunities when we do – if you will, a bottoms up build plan analysis,
+we're finding more integration efficiencies and opportunities than we had originally planned for, and that's driving a lot
+of the savings. And third, the ability to get out there quicker is really taking off some of the pressure that we expected
+to have on some of our core non-Velocity investments. So those are all combining. We're getting efficiency in the build
+and effectiveness of build and pushing it that way. I would suggest that's where the capital savings are coming from.
+The last thing, Tim, I would suggest to you is we're always looking at ways to improve the economics of the handset
+model. We think that's certainly real important, and we continue to look for ways to do that. But I will tell you we
+continue to do it with a focus on the customer, and making sure we develop ideas that are not only focused on
+economic efficiency for us, but for customer satisfaction. We have to have – we believe we have to have both pieces of
+that to really be successful long term with it.
+<Q - Timothy K. Horan>: Thank you.
+Operator
+Thank you. Our next question in queue will come from Chris Larsen with Piper Jaffray. Please go ahead. And, Chris
+Larsen, your line is open. Please go ahead with your question.
+<Q - Chris M. Larsen>: Hi, yeah, I wonder if we could switch over to slide 12 where you talked about the cloud and
+hosting there. And two questions specifically, first, if you could talk a little bit about what you've been seeing in terms
+of pricing on cloud? There's been a lot made of the recent pricing declines out of Amazon and Rackspace and how that
+has affected you? And then given the fact that you've dedicated a slide to it in your slide deck, maybe you can size up
+that opportunity? How big does that have to become before it can begin to move the needle here on the top line for
+wireline results? Thanks.
+<A - John J. Stephens>: So a couple of things. One, with regard to how to move the needle on wireline results, as you
+all know, our wireline revenue base is in that $60 billion plus range. So I'll leave it to your own judgment on how big it
+needs to get to, if you will, move that needle. But we believe it's a real opportunity for us to help us growing that
+revenue, and in also providing us the opportunity to continue to provide those network-based services. So keeping the
+traffic on our services as well as providing the security and the other hosting services. So we believe that the
+opportunity is strong for us. I would suggest to you even recent events will tell you that with regard to our managed
+network and our security opportunities will provide an even better advantage for us. That's one.
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 13 of 14
+With regard to recent pricing activities, I would suggest to you that I think there's going to be continued pricing
+movement in this area. We're aware of that, we're prepared for that. But we feel long term we can provide a quality
+product with good margins to generate returns for our shareholders, so we think it's very much worth our investment.
+And specifically, we believe it because we have the – if you will, dual side of not only providing the cloud and the
+hosting, but also being able to provide the mobility connectivity to that for a customer's employees base. So we feel
+really good about both sides of it.
+<Q - Chris M. Larsen>: Thank you.
+<A - Susan Johnson>: I think we've got time for just one more question.
+Operator
+Thank you very much, and that final question will come from Brett Feldman with Deutsche Bank. Please go ahead.
+<Q - Brett J. Feldman>: Thanks for getting me in. So some of the earlier questions were sort of alluding to the fact
+that your postpaid phone base slipped little bit in the quarter, and obviously the first quarter is seasonally slow, and so
+it's hard to read into that. But if we put seasonality aside, what do you anticipate for your traditional phone base going
+forward? Is this something that we should see outside of a seasonally slow period continue to grow? Or are you
+somewhat indifferent now? Not because you don't care, but just because the real revenue growth driver going forward
+is data volume on your network, and not necessarily the net change in your phone base quarter to quarter?
+<A - John J. Stephens>: Yeah, so I think we do find it important to continue to, if you will, grow our phone base but
+more importantly, convert our phone base. Because if you think about that, the differential between 70% of our
+postpaid and the 90% sales flow, if you think about that on our base, it's 14 million customers. And when you convert
+them to smartphones, you may think of them as a phone, but they're generating significant data usage on the network
+and an opportunity for real revenue creation.
+So we are focused on it, but we're also focused on growing our customer base. I don't want to leave you with the
+impression that it's just conversion. It's both, and we believe we're positioned well to do that. So I think it's both aspects
+of that. But when you've got the quality network like we do and great sales operations like we have and a
+customer-focused approach, we're optimistic about our ability to be very successful.
+<Q - Brett J. Feldman>: All right, thanks for taking the question.
+John J. Stephens
+With that, I want to thank you for being with us this afternoon. We've had a solid start to the year and believe we've
+built a very strong foundation for growth going forward. Our momentum is solid, the balance sheet's strong, and our
+Project VIP expansion is going to bring us even more opportunity. As always, we thank you for being on the call, and
+we thank you for your interest in AT&T. Good night.
+Operator
+Thank you, and, ladies and gentlemen, that does conclude your conference call for today. We do thank you for your
+participation and for using AT&T Executive Teleconference. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+Company Name: AT&T
+Company Ticker: T US
+Date: 2013-04-23
+Event Description: Q1 2013 Earnings Call
+Market Cap: 200,542.53
+Current PX: 36.98
+YTD Change($): +3.27
+YTD Change(%): +9.700
+Bloomberg Estimates - EPS
+Current Quarter: 0.710
+Current Year: 2.516
+Bloomberg Estimates - Sales
+Current Quarter: 31773.708
+Current Year: 128438.393
+Page 14 of 14
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
