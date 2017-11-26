@@ -1,0 +1,644 @@
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 1 of 12
+Q3 2012 Earnings Call
+Company Participants
+• Mark Henninger
+• Paul S. Otellini
+• Stacy J. Smith
+Other Participants
+• Ambrish Srivastava
+• Doug Freedman
+• John W. Pitzer
+• David M. Wong
+• Chris B. Danely
+• C.J. Muse
+• Kevin E. Cassidy
+• Daniel A. Berenbaum
+• James V. Covello
+• JoAnne Feeney
+• Patrick Wang
+• Glen S. P. Yeung
+• Sumit Dhanda
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the Intel Q3 2012 Earnings Call. [Operator Instructions] Later we will
+conduct a question-and-answer session and instructions will follow at that time. As a reminder, this conference call is
+being recorded. I would now like to introduce your host for today's conference, Mark Henninger. Please go ahead.
+Mark Henninger
+Thank you, Patrick, and welcome, everyone, to Intel's Third Quarter 2012 Earnings Conference Call. By now you
+should have received a copy of our earnings release and the CFO commentary that goes along with it. If you've not
+received both documents they're currently available on our investor website, intc.com.
+I'm joined today by Paul Otellini, our President and CEO; and Stacy Smith, our Chief Financial Officer. In a moment
+we'll hear brief remarks from both of them followed by the Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the
+environment as we currently see it and as such does include risks and uncertainties. Please refer to our press release for
+more information on the specific risk factors that could cause actual results to differ materially. Also if during the call
+we use any non-GAAP financial measures or references we'll post the appropriate reconciliations to our website,
+intc.com.
+With that, let me hand it over to Paul.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 2 of 12
+Paul S. Otellini
+Thanks, Mark, and good afternoon, everyone.
+Our third quarter results came in slightly above our revised guidance as PC related billings improved in September over
+the July and August levels. We believe that Q3 PC sales grew approximately half of the seasonal norm and reflected
+flat enterprise sales. The billings upside we saw late in the quarter reflected our customers beginning their system
+production in advance of the Windows 8 launch later this month.
+As we look into Q4 we believe that the overall PC business will grow at about half of what we would expect from
+normal seasonality. Our revenue forecast growth is below these levels as our customers are taking a cautious inventory
+approach in the face of market uncertainty and the timing of the Windows 8 launch.
+Our forecast assumes an incremental decrease in inventory at our customers going into year-end. Our data center
+business saw the corporate server segment softening over the course of the quarter with the cloud segment growing
+50% over last year, and storage revenue growing 27% to a new record.
+During the last month, I have met with all of our major customers. And while the market remains tough, I have been
+encouraged to see a renewed appetite for innovation across the entire ecosystem. Our customers are designing entirely
+new categories of PCs that will take advantage of our newest microprocessors combined with Microsoft's new
+touch-enabled Windows 8 operating system to bring dozens of beautiful new tablet, convertible, and ultrabook designs
+to the market.
+In the coming months, consumers will see tremendous form factor and industrial design innovation. There will be more
+than 140 Core-based ultrabooks, more than 40 of which will have touch. This will include more than a dozen
+convertibles that combine the productivity of the laptop with the convenience of a tablet. Many of the ultrabook SKUs
+will hit the mainstream $699 price point with some burst SKUs well below even that number.
+Q4 will see more than 20 Atom-based tablets from six or more leading OEMs using Clover Trail. Clover Trail is a
+brand-new SOC that will enable tablets as thin as 8.5 millimeters and as light as 1.5 pounds. With three weeks of
+connected standby battery life and all of the compatibility that Windows users and Intel customers have come to
+expect, I'm excited about these products and the capabilities they bring to consumers and the enterprise.
+Last month at IDF, we shared details of our next generation Core processor codenamed Haswell. Originally targeted at
+15 watts, we've made significant advancements in microarchitecture and process technology that will allow us to move
+Haswell down into the 10-watt envelope, fostering even more innovation in form factor as well as new usage models
+like gesture computing and voice recognition.
+We continue to make progress in handhelds with Motorola's launch of the RAZR i, the world's only 2-gigahertz
+smartphone that delivers better battery life than similar competing devices.
+In general, I see the computing market in a period of transition, but also a period of breakthrough innovation and
+creativity. Intel has a history of navigating the industry's transitions and emerging better and stronger. With a hardware
+and software roadmap that spans the smallest portable devices to the most powerful data center servers and world
+leading silicon process technology, we're excited about the future and confident in our strategy and prospects in all the
+markets we serve.
+With that, let me turn the call over to Stacy.
+Stacy J. Smith
+Thanks, Paul. Third quarter revenue came in at $13.5 billion, flat from the second quarter and slightly better than our
+revised expectations. For the fourth quarter of 2012, we are forecasting the midpoint of the revenue range at $13.6
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 3 of 12
+billion, up 1% from the third quarter. This slight increase in revenue in the fourth quarter reflects the caution we are
+seeing in the order patterns of our customers as a result of concerns about the global economic environment, ongoing
+consumer softness in mature markets, and a slowing enterprise market segment.
+As a result of weaker than expected demand environment, we have taken several actions. We significantly cut factory
+loadings at the end of the quarter and will maintain low factory utilization rates throughout the fourth quarter. We
+expect these factory adjustments to help bring down our total inventory levels by approximately $0.5 billion.
+Additionally, we are redirecting equipment and space to 14-nanometer from older generation technologies. The result
+of this is a $1.2 billion decrease from our July forecast for capital spending with the midpoint of our capital spending
+forecast for the year now at $11.3 billion.
+Moving to gross margin, third quarter gross margin of 63% was slightly better than the midpoint of our revised
+guidance, and flat to the second quarter. We are forecasting the midpoint of our fourth quarter gross margin range to be
+57%, down 6 points from the third quarter. Two-thirds of the gross margin decline is a result of the excess capacity
+charges. In addition, we expect an increase in inventory reserves as we start production on our next generation
+microarchitecture product codenamed Haswell, which we expect to qualify for sale in the first quarter of 2013.
+Taking a look at the balance sheet, total cash investments ended the quarter at $10.5 billion, down approximately $3
+billion to the second quarter. We generated over $5 billion in cash from operations, paid approximately $1 billion in
+dividends, repurchased nearly $3 billion in capital assets and had roughly $1 billion of stock repurchases. In addition,
+we closed our $3 billion strategic equity investment in ASML.
+As a result of lower than expected sales in the third quarter, inventory grew by approximately $400 million. More than
+all of the increase in inventories came from the Ivy Bridge product ramp with an offset as we reduced inventory levels
+of older generation products. We are taking aggressive tactical actions to reduce inventory levels and redirect space and
+equipment to 14-nanometer, but we are also seeing some important positive trends in the market.
+In the client space, we are seeing innovative products coming to the market with Intel inside, ranging from ultrabooks
+to smartphones to tablets. In the data center, we expect to continue to benefit from the build-out of the cloud and the
+substantial performance, cost and power benefit that our enterprise customers get from our leadership products.
+Underlying all of this, our manufacturing advantage is extending over the rest of the industry as we start the ramp of
+Haswell, our new microarchitecture on 22-nanometer, and begin to build out our 14-nanometer factory network. The
+combination of the tactical actions we are taking coupled with new products and design wins across all segments and
+our manufacturing leadership will all benefit our business over the coming quarters.
+With that, let me turn it back over to Mark.
+Mark Henninger
+All right. Thank you, Paul and Stacy. We'll now go ahead and move on to the Q&A. As is our normal practice, we'll
+ask each participant to ask one question and just one follow up if you have one.
+Patrick, please go ahead and introduce our first questioner.
+Q&A
+Operator
+[Operator Instructions] Our first question comes from Ambrish Srivastava from BB&T. Your line is open.
+<Q - Ambrish Srivastava>: Last I checked, I was still at BMO. Hi, guys. First question is, Stacy, just on the start-up
+cost cadence, given that you're moderating the 14-nanometer a little bit, typically, if I remember correctly, it's a
+two-quarter cadence. How does that play out this time around?
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 4 of 12
+<A - Stacy J. Smith>: I'm not seeing anything that would cause it to be, you know, off of historical patterns. So if you
+look at what's happened in odd number years when we start up a new process technology, you'll see an increase in
+start-up costs that hits pretty significantly in Q1, goes up some more in Q2, and then will start to come down from
+there. So I'm not seeing anything that would cause that to be different from historical patterns.
+<Q - Ambrish Srivastava>: Okay. And then my follow up is on the CapEx, Stacy, does that change from what you
+had given us during the 2012 analyst day for 2013?
+<A - Stacy J. Smith>: Yeah, we're not putting out a forecast yet for 2013. 2013 CapEx, we're reducing 2012 capital
+pretty significantly. 2013 will be a function of the unit growth that we see in 2013 and our expectations for 2014. Right
+now we want to fight through a Q4 where we don't have a lot of visibility before we lock in on a 2013 number.
+<Q - Ambrish Srivastava>: Okay. That's fair. Thanks.
+Operator
+Our next question comes from Doug Freedman from RBC Capital. Your line is open.
+<Q - Doug Freedman>: Thank you for the opportunity. Stacy, you gave a number at the analyst day though regarding
+full-year 2013 gross margin. Do you want to take – you give us some idea of what range you're looking at now that you
+are taking the actions you're presently communicating today?
+<A - Stacy J. Smith>: Yeah, we'll provide a forecast for 2013 when we get to January. So, again, similar to the prior
+question, yeah, I think it's premature to provide a forecast at this point across revenue or gross margin or CapEx for
+2013. We need to fight through Q4 first. You know, there's a couple things that I think you can model for 2013 that are
+helpful. We just talked about the start-up costs. We're starting up 14-nanometer. So historically that's worth two to three
+points of gross margin.
+In terms of the excess capacity charges that we're taking, yeah, we're taking a lot in Q4. I think we'll see that
+significantly better in Q1, and then by the time we get to Q2, I don't expect really any excess capacity charges. So you'll
+see that play out and just to size those two things, in Q1 I think the excess capacity charges and the startup costs are
+kind of roughly similar orders of magnitude. So those two things should offset. Beyond that, I'll wait until we get to
+January, because there's just many other moving parts for 2013.
+<Q - Doug Freedman>: As my follow up, on the revenue side, we did see some movement this quarter, probably not
+completely expected PC client a little bit better than maybe you might have expected when you pre-announced. The
+data center, however, though, is seeing some ASP movement that caused that revenue to be soft. Can you communicate
+to us what your outlook is as far as the revenue mix for next quarter and maybe what that might do to our gross margin
+number?
+<A - Stacy J. Smith>: Yeah, so just to come back to Q3 for a second, and then I'll answer your question on Q4. What
+we saw specifically in the client side is it played out roughly as we thought when we did the pre-announcement, and if
+you step back from that, what we saw was some growth in consumption. But our customers continuing to manage
+inventories very lean, and in fact we saw across the worldwide PC supply chain, we actually saw a reduction in overall
+inventory levels in Q3, and normally in Q3 you would see an increase. So you can kind of get a sense of how lean
+they're managing things.
+In the data center, what we saw was strong growth in the Internet IP data centers, the cloud. That was up actually 50%
+from a year ago. It was offset by we started to see some weakness on the enterprise side, and that's where you're seeing
+a lower ASP just because of the difference in ASP between those two segments.
+As we go into Q4 in terms of the overall mix of our business, you know, when I look at the – I'll direct you to the gross
+margin recon. You know, there's an issue there with the excess capacity charges. We have some builds on Haswell.
+Really ASP is not an impact in gross margin, and so you can take from that that we expect it to continue to be kind of
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 5 of 12
+similar mix in a roughly benign ASP environment.
+Operator
+Thank you. Our next question comes from John Pitzer from Credit Suisse. Your line is open.
+<Q - John W. Pitzer>: Yeah, good afternoon, guys. Thanks. Paul, how do you assess what's going on in the PC market
+right now? Is macro timing of Windows 8 versus kind of the more structural bearish view that tablets and smartphones
+are plain and simple eating into the PC TAM? How do you think about those dynamics?
+<A - Paul S. Otellini>: I think it's a bit of each. I would be reticent to quantify it, John. You know, clearly we have –
+we saw a softening in the consumer segments. We talked about that when we did the pre-announcement about a month
+ago, and the surprise there was that China, which had been very strong, turned weak on us; on top of a continuing
+weakness in the mature markets of the U.S. and Western Europe.
+However, having said that, we did – we do believe that when the numbers are all in, the PC consumption did grow in
+Q3 at about half the normal seasonal rate, and will also grow in Q4 at about half the normal seasonal rate. How much
+of that halving is macroeconomic versus the timing of the Windows 8 build and the share of wallet war for tablets
+versus PCs, it's TBD, and we'll know a lot more about that 90 days from now after the Windows 8 launch, after we see
+Intel based tablets start shipping when people start playing with the operating system and have all the touch-based
+ultrabooks out there. We'll know a lot more. So we'll try to quantify that a bit more for you in 90 days, but right now,
+you know, it's a bit of each.
+<Q - John W. Pitzer>: And then, guys, as my follow up, Stacy, appreciate the fact that it's too early to talk about next
+year CapEx, but underutilization in Q4 is clearly helping you lower this year's CapEx a bit. And back in 2009, off about
+half of the CapEx base, I think the underutilization around the credit crisis saved you about $1.5 billion in capital
+spending. Is this going to hold where as we go into 2013, the lack of – or underutilization will allow you to save on
+CapEx? And if you're twice the base then, can we think about a $3 billion number in total?
+<A - Stacy J. Smith>: Again, it's too – I'm not going to get to that level of granularity. You can see that 2012 capital
+spending is down $1.2 billion from what we thought quarter ago. Although we had some indications that we were
+trending down a little bit. So, you know, that's a big chunk, and we'll talk about 2013 when we get to January.
+<Q - John W. Pitzer>: Great. Thanks, guys.
+Operator
+Our next question comes from David Wong from Wells Fargo. Your line is open.
+<Q - David M. Wong>: Thanks very much. You commented on Clover Trail tablets. Are you seeing many Ivy Bridge
+tablet designs in addition to the Microsoft Surface, and can you give us an idea of how many tablet makers you're
+currently working with on Haswell tablets for the future?
+<A - Paul S. Otellini>: Oh, boy. I can help you on the former, not the latter. On Ivy Bridge, there's, I'd say, a handful,
+five to eight, something like that that I have seen off the top of my head. And for Haswell, it's too soon to tell. I mean,
+when you start seeing an ultrabook with a detachable touch screen, is it a tablet? And it's based on Haswell, is it a
+tablet, is it an ultrabook or is it a convertible? I don't know. We'll have to invent some names for these things as we go
+along. What I can tell you is that the level of innovation there is really unbounded. I haven't seen this in a long time.
+But I think in terms of just the near-term selling season, there are some Ivy Bridge ones. They tend to be skewed more
+towards the enterprise where our customers believe that their customers, the CIOs of the world, want a high
+performance tablet that is compatible, that is secure, that runs all their enterprise software. So I think that's where you'll
+see those migrate versus the Clover Trail stuff which was going to be a bit more consumer-centric.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 6 of 12
+<Q - David M. Wong>: Great. And you said you expect to qualify Haswell in the March quarter. Will Haswell be
+appearing in systems in the March quarter or should we look for that a bit later in the year?
+<A - Paul S. Otellini>: First half.
+<Q - David M. Wong>: Thanks.
+Operator
+Our next question comes from Christopher Danely from JPMorgan. Your line is open.
+<Q - Chris B. Danely>: Thanks, guys. So, Paul, can you just give us maybe your take on what you think it's going to
+take to pull the PC industry out of this funk? And do you think that with the advent of tablets, you know, cannibalizing
+notebooks that we're never going to see the growth in PCs we used to? Is it going to be something lower than what we
+have been used to?
+<A - Paul S. Otellini>: Well, again, since we don't know how much of the flatness that we're seeing this year in PCs is
+a function of which of those variables that we talked about earlier, it's pretty hard to say, you know, that in good
+economic cycles that we wouldn't return to normal growth. But what I get back to is as I look out here, I don't think –
+and I've said this to you guys before. I don't think that the tablet, as we have seen it evolve over the last several years, is
+the end state of computing. The innovation is going to start pouring in now that you have widely available SKUs on a
+widely distributed operating system that is now – that will come from multiple vendors that can unleash their creativity.
+And what I can't predict is what form factor is going to win here. But I do think that some of these things that have sort
+of the best of both worlds, you know, the performance and the capability of a laptop and the form factor and
+convenience of a tablet are likely to be the things that are most – are the most high volume runners. But we honestly
+won't know for 12 months.
+<Q - Chris B. Danely>: Thanks. And follow-up question for Stacy, just a clarification on the Q1 gross margin, Stacy.
+So you have given us what the utilization rates, underutilization costs look like. If we look at typical seasonality for Q1,
+you guys are probably down like $1 billion or something like that. So if sales are down $1 billion and depreciation is up
+a little bit and start-up costs are up, can the margins be flat with current utilization rates, and what would inventory look
+like?
+<A - Stacy J. Smith>: You're trying to back me into a forecast for Q1, and I'm not going to go there. I would maybe
+make a couple of comments though to your thesis. One is based on what we're seeing in the back half of this year, I am
+less convinced that normal seasonality is a great guide. What we're seeing is, you know, the customers managing things
+very cautiously. Depending on how sales go, I think you can get multiple different outcomes for Q1, and we'll get there
+in a quarter.
+In terms of inventory levels, you know, we're too high today because the unit volume that we expected in September
+didn't materialize. We're under in what we thought for Q4. That's one of the reasons we're bringing the utilization
+down. We'll bring inventory levels down significantly in Q4 back into a healthy range, and our intent would be to keep
+them in that range.
+<Q - Chris B. Danely>: Okay. Thanks a lot.
+Operator
+Our next question comes from C.J. Muse from Barclays. Your line is open.
+<Q - C.J. Muse>: Hello. Thank you for taking my question. I guess just as a follow-up on the inventory side, can you
+discuss what you're seeing downstream particularly in China? And then also as part of the healthy days, my math
+suggests exiting December at roughly 75 days. Is that kind of the new normal we should think about for you guys in a
+lower PC growth rate environment, or do you think that you need to be something lower?
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 7 of 12
+<A - Paul S. Otellini>: Let me try the China one, C.J.
+<A - Stacy J. Smith>: And I'll do the second one.
+<A - Paul S. Otellini>: The inventory, yeah. I was just in China a week and a half ago, so I've got a fairly current view.
+I see the same situation. I mean, China as a manufacturing center is reflecting the comments that we had in our
+commentary, which is that the OEMs are being very cautious with their inventory commits at this point in time for all
+the reasons we have discussed, and it's as lean as we have seen it in normal times without the shortages of, say, the hard
+drives of last year.
+In terms of the channel inventory, there really isn't very much. I went into a Tier 3 City. You don't see things stocked
+up or stacked up on pallets and stuff. People are generally – I think most of our customers worldwide spent a lot of Q3
+thinning out their Windows 7 inventory so they wouldn't have an overhang at the launch. And that accounts for a lot of
+this inventory shift of our billings versus the consumption that we have been talking about. And now with the launch of
+Windows 8 coming in a week or so, you'll see a new round of build and hopefully consumption.
+<A - Stacy J. Smith>: Yeah, and then in terms of the inventory targets, yeah, the number you threw out is in the 70s is
+where we're planning to get to in Q4. Just to put that in perspective maybe two other comments on what we're doing.
+One is we're taking down utilization in the factories down to sub 50%, again to take inventory out and to free up the
+opportunity to move both space and equipment and redirect that to 14-nanometer. So it's a pretty significant series of
+actions. And I also want to point to the inventory that we have in place. While it's in terms of units more than I want to
+hold, it's on the order of 70% Ivy Bridge, so it's our freshest stuff. I'm not worried about the salability of the inventory,
+but I do want to bring the aggregate inventory levels down. It's just healthier for us to have less.
+Operator
+Thank you. Our next question comes from Kevin Cassidy from Stifel, Nicolaus. Your line is open.
+<Q - Kevin E. Cassidy>: Thanks for taking my question. Maybe along those lines still of the utilization or
+underutilization, in last year's investor meeting, Andy Bryant had presented – his presentation was around the risk of
+too much capital spending, and that Intel had one more fab building than needed, what would we do. Is this part of that
+plan? Are you mothballing one building?
+<A - Stacy J. Smith>: I'd say it's more down the line of my presentation where I showed you when we – you know,
+that we're constantly trying to match our capacity that's in place to the demand. You know, we were putting in capacity
+for a bigger second half than we got. We're going to now make adjustments so that we can move capacity to
+14-nanometer and bring our inventory levels down. It doesn't change the fact that our planning model, we're always
+looking to make sure we have the ability in terms of what we call white space, so some unallocated factory space, as
+well as some equipment to respond to upsides. The risk of being caught short and the cost of being caught short is
+much more than the cost of being long, because as you can see, when we get a little long, we can take actions, and
+within a six-month period, we can get back aligned. If you're short, it can take you two years to get caught back up.
+<Q - Kevin E. Cassidy>: Okay. I see. And with the reuse of equipment, can you give an idea of what percentage that is
+that can be reused from 22-nanometer to 14?
+<A - Stacy J. Smith>: Yeah, it's not different than our historical pattern. So you can think of it in the range of 80% to
+90% of the equipment that we buy at 22-nanometer is useable at the 14-nanometer node. It's – and that's not by
+accident. It's one of the things that technologists spend a lot of time to make sure that we have these forward reuse
+paths, because it gives us great flexibility to respond to things like we're seeing today.
+<Q - Kevin E. Cassidy>: Okay, great. Thanks.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 8 of 12
+Operator
+Our next question comes from Daniel Berenbaum from MKM Partners. Your line is open.
+<Q - Daniel A. Berenbaum>: Yeah, hi, thanks for taking the question. When you talk about clearing inventory, does
+pricing come into play in any fashion on the PC side? You've talked about pricing a little bit on the data center side, but
+clearing inventory on either the consumer side or the enterprise side, is that helping? And then to follow up also a little
+bit on an earlier question. Is there anything else that Intel can be doing to spur demand? We obviously have seen sort of
+Microsoft take matters a bit into their own hands with some of the designs that they're trying to sell. You know, is
+pricing helping you spur demand, or is there something else that you can do?
+<A - Paul S. Otellini>: The short answer to your question is no on pricing. The pricing is – we do forward pricing with
+our customers. It's priced, I think, aggressively to move into the mainstream price points in terms of the stuff I talked
+about. If you look at our PC Group, you know, numbers quarter over quarter, the ASP was about flat. Year-over-year it
+was down a bit, and mobile was down a bit. What that reflects was really us going after some incremental share at the
+bottom of the market. So it didn't really change pricing, but it changed the mix. And we thought it was time we could
+do some of that, and we did it opportunistically. And that's more the driver on that side.
+In terms of demand stimulation, a lot of what we're doing is really to make sure that the feature set of this season's
+ultrabooks are really consistent with where the market is. That's why we have been so focused on working with our
+customers and the ecosystem to, for example, bring the touch SKUs in. So six, eight months ago, we did not have line
+of sight to 40 out of 140 SKUs of ultrabooks being touch-enabled. It was probably five or ten. We're up to 40 now. And
+that's just going to get bigger as we go into 2013. So working with the vendors and the glass manufacturers to bring the
+cost of touch as an increment down has been one of the key things we think we can do to drive demand.
+<Q - Daniel A. Berenbaum>: Thank you. And related to pricing, you have obviously got a wounded competitor out
+there now. Are you seeing that competitor get aggressive on pricing especially in this environment? You know, your
+competitor talked about a big inventory write-down in its negative pre-announcement. Are you seeing lower pricing
+there and is that in any way impacting you?
+<A - Stacy J. Smith>: I think you have to ask them their strategy for pricing. As Paul said, where we had – last quarter
+and this quarter, we believe we have won some share at the lower end of the market. You know, that's our strategy
+here. So you've got to ask them the question about their pricing strategy.
+<Q - Daniel A. Berenbaum>: Okay, great. Thanks very much.
+Operator
+Thank you. Our next question comes from Jim Covello from Goldman Sachs. Your line is open.
+<Q - James V. Covello>: Thank you so much for taking the question. Guys, questions stay on the margins. In the
+context of cyclical history, what we're seeing here isn't too unique from the standpoint of the margins usually decline
+pretty significantly on the other side of the big CapEx cycles. I think the average margin decline is 700 basis points, the
+peak is 1300 basis points. You're down about a thousand basis points now from the peak gross margin, so pretty
+normal. Is there anything you see in that context that would cause this margin decline to be worse than some of the, you
+know, more dramatic declines you have seen historically?
+<A - Stacy J. Smith>: Well, I think that when you go back and look across a long range of history, when we have seen
+a situation where, you know, the industry got ahead on capacity, the time that it took to get things realigned typically
+was much longer than two quarters. I think we have done a lot to improve that responsiveness, and I think that has been
+helpful. And you saw that in 2009. If you go back before that, as opposed to a couple quarters, you were sometimes
+talking a couple of years to get capacity back in line. I think that's different.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 9 of 12
+And then the other thing I'd point to that's different is while the decline is, you know, significant and we're taking some
+excess capacity charges, if you compare – what we're going through now with 2009, in 2009 we were into the, you
+know, mid to high 40s, now we're in the mid to high 50s, and I think that really points to the structural improvements
+we have made in our business in terms of cost and mix and the competitiveness of our products. So while it may seem
+the same to you, I think actually it is faster, and we're still maintaining a higher gross margin.
+<Q - James V. Covello>: Helpful. For my follow-up question, it's kind of specific to the data center group. Some of
+the ARM-based server players are arguing that they can now address a significant part of the workload from the
+Googles and the Amazons and Facebooks data centers. Is that some competitive dynamic that you're seeing in that area,
+or do you think that ARM still isn't competitive in that realm?
+<A - Paul S. Otellini>: Well, they need to add feature sets like 64 bits and ECC and RAS features to be, particularly in
+those environments to be considered, so that may be a roadmap planning opportunity that they're pushing, but the
+products that are being shipped today certainly don't have those feature sets. You can look at some of the workloads,
+things like Hadoop, Jim, that would be conducive to let me say an array of micro servers. And those can easily be run
+on Atom. We've got our second generation of the Atom microserver chips out now. The first one is on 32-nanometers.
+We're now sampling the 22-nanometer one. And we have decided that we're just going to push Atom as hard as
+possible in this space and have it be a better offering for our customers than having to switch all their software and
+worry about all the reliability features.
+<Q - James V. Covello>: Helpful perspective. Thank you for much.
+<A - Paul S. Otellini>: Sure.
+Operator
+Our next question comes from JoAnne Feeney from Longbow Research. Your line is open.
+<Q - JoAnne Feeney>: Thanks. Yeah, I was hoping you could elaborate a little bit more on what you're seeing – what
+you saw last quarter and what you expect this quarter in terms of the mix of demand both across consumer and
+enterprise geographically and then PC, notebook, desktop. Just some more color if you would on what kind of mix
+you're seeing out there and where you expect it to go and what you – what you're relying on to get those inventories
+clear say by the beginning of 2013.
+<A - Paul S. Otellini>: Well, let me start with the last part. The inventory thing is straight forward. The work in
+process and the finished goods that we're expecting to come down over this quarter are our Ivy Bridge products which
+is the mainstream high-end product we have today. So as the market picks up, Windows 8 launches, ultrabooks pick up
+and so forth, this consumes that inventory. And as I said earlier in my comments and Stacy's, our OEMs are running
+very lean right now. So any kind of demand blip would cause us to be able to reduce that even more perhaps.
+In terms of the mix, there's really not much more to add than we put in our prerelease and in the comments today,
+which is that the U.S. and Western Europe PC markets remain soft in terms of consumers. The change that we have
+seen, and we talked about at the pre-announcement, was that the enterprise PC market has gone relatively flat now, and
+I think that's just a reflection of large corporations making hard decisions on CapEx versus people and where they want
+to put their investments. And now that seems to have spilled over from the client side of the enterprise to also the data
+center server part of the enterprise. And, you know, I think we'll see how that sorts out over the next quarter or so as
+CEOs and CIOs make their next round of decisions.
+In terms of China, the slowdown there, it's principally a notebook business, and the slowdown there was in consumer
+notebooks.
+<A - Stacy J. Smith>: And I'd just add in DCG, we saw strength in the cloud customers and over the course of the
+quarter a weakening in the large enterprise purchases of server chips. So that – the mix there was more to the cloud.
+<A - Paul S. Otellini>: Which had been strong in the first half.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 10 of 12
+<A - Stacy J. Smith>: Which had been strong in the first half, yeah.
+<Q - JoAnne Feeney>: And then as a follow up, Stacy, could you let us know what happened with units versus ASPs
+and PCs versus servers last quarter?
+<A - Stacy J. Smith>: Yeah, it's actually in the – in the CFO commentary, JoAnne. But in general, we saw PC units up
+1% versus the prior quarter, and data center units were also up 1%. This is a quarter-on-quarter compare.
+<Q - JoAnne Feeney>: Sorry, and the ASPs?
+<A - Stacy J. Smith>: The PC ASPs were down 1% and the server ASPs were down 7% based on the mix kind of
+things that I've been talking about.
+<Q - JoAnne Feeney>: Okay, great. Thank you.
+<A - Stacy J. Smith>: Sure.
+<A - Paul S. Otellini>: Thanks, JoAnne.
+Operator
+Our next question comes from Patrick Wang from Evercore Partners. Your line is open.
+<Q - Patrick Wang>: Great. Thanks so much. First question, I wanted to see if you could go back to China and, Paul,
+maybe kind of recap some of the feedback you're hearing from those meetings you did have. Because, I mean, it seems
+like the slowdown in China has really impacted global PC demand and weakness out there. So just curious what the
+latest you're hearing.
+<A - Paul S. Otellini>: Well, there is – what I don't know is how much of this in China is their own macroeconomic
+cycle slowing down. I mean, the GDP forecasts for the year have come down, for next year have come down. There is
+also a reasonable amount of anxiety around the change in government, and that tends to put a little bit of nervousness
+into the system. And what I don't know is how much of that clarifies after they change, because people – it's not so
+much they don't know who is coming in, the issue is what are the policies in terms of stimulus and taxation and so forth
+that have been pretty generous the last year or so, year or two rather, in terms of stimulating domestic consumption and
+the question is will those policies continue or not?
+<Q - Patrick Wang>: Right. Okay. Gotcha. That's helpful. And I want to talk quickly about data center. The trend that
+we're seeing in the ASPs right now, down 7% last quarter, I'm just kind of curious how you see that over the next
+couple years here, because I think when we take a look at your cloud segment, we're forecasting pretty robust growth
+there. You talked about 50% growth last quarter. As that continues to really outstrip growth from your more traditional
+server customers, I mean, what kind of impact does it do to your blended ASPs?
+<A - Paul S. Otellini>: Well, I think the better comparison for this, the data center is year on year, which the ASP was
+up a bit, 1%. The down a bit was a big shift in the mix between what would be normal enterprise growth and of slowing
+in the enterprise growth. In general, you know, for storage, for networking, and I think for some aspects of the Internet
+data center, the mix is actually quite good. Sometimes they buy two-way machines versus four-way machines, but they
+tend to provide fairly high mix. And one of the fastest growing elements of the business is high performance computing
+which is the top of the line of our SKUs. So as those product lines get fleshed out more and more, I really don't see the
+mix shifting away from where it's been in the first half of this year. I see the current mix being a bit of an anomaly as a
+result of the softness of corporate data center server purchases.
+<Q - Patrick Wang>: I see. Okay. That's helpful. Thanks so much.
+<A - Mark Henninger>: Thanks, Patrick. And, operator, we have time for two more questions.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 11 of 12
+Operator
+Our next question comes from Glen Yeung from Citi. Your line is open.
+<Q - Glen S. P. Yeung>: Thank you. Stacy, maybe first question for you. As you sort of think about your capacity for
+2013 and you're obviously taking action now, what kind of PC environment are you notionally targeting? And maybe
+just an up or down is sufficient, unless you want to be more specific.
+<A - Stacy J. Smith>: I'm going to be less specific.
+<A - Paul S. Otellini>: It's one or the other.
+<A - Stacy J. Smith>: It's one or the other, yeah. It's either up or down or sideways. I'm going to hold off on, you
+know, triangulating on a capital forecast or on a unit growth until we get to next quarter. The CapEx number, as I said,
+is going to really be dependent on what we think unit growth is in 2013 and 2014, and right now we're fighting through
+Q4. There's a lack of visibility on the current quarter. I want to have the 90 days to really think about what we want to
+put in place.
+<Q - Glen S. P. Yeung>: Sure. Fair enough. And, Paul, maybe this question is for you. Notionally, we would expect to
+see when we have an operating transition like we're seeing, a spark to PC demand, and yet we don't seem to be seeing
+that. And I wonder if you could just give us your thoughts as to why you think this time that's not happening?
+<A - Paul S. Otellini>: I don't think we know it's not happening yet. I'm very excited about this operating system. As I
+said earlier, it brings touch into the mainstream for the first time, and we know the last couple of years, tablets have
+changed the paradigm for people to use computers. They like touch. They like to make their photos get larger with their
+fingers and everything else that's good about that. So I think we haven't had a chance to really judge how the consumers
+will embrace this in mainstream PC space or not.
+I'm very optimistic. As we have been playing with these things and we see the products being built and we take them
+out for testing to consumers and we have now run tests on Windows 8, touch-enabled ultrabooks in a number of the
+major cities around the world across multiple demographics, the feedback is universally positive. So I think we're just
+too soon to tell. The darn thing hasn't even launched yet. We'll know a lot more about this 90 days from now.
+<Q - Glen S. P. Yeung>: Fair enough. Thanks.
+<A - Mark Henninger>: Thanks, Glen. Patrick, please go ahead and introduce our last questioner.
+Operator
+The last question comes from Sumit Dhanda from ISI. Your line is open.
+<Q - Sumit Dhanda>: Yes, hi. Two questions. First a question for you, either Paul or Stacy. You noted that inventories
+are lean, and you expect half the normal seasonal growth in PCs, but you're dialing down that number. If the setup is
+lean from an inventory perspective, why are customers choosing to take down inventories even further? Or is that just a
+cushion you're building into your forecast for the fourth quarter?
+<A - Stacy J. Smith>: I think it's just caution. We are seeing a very, you know, cautious environment out there. It's a
+combination of what they're seeing from a macro standpoint and a slowing enterprise and an operating system
+transition and a weak consumer mature market segment. I think all of that is just leading people to be cautious.
+Ultimately I think leaner inventory levels are healthy, but that's what we're seeing right now.
+<Q - Sumit Dhanda>: My second question was actually a follow-up on the server ASP stuff that was talked about
+earlier on the call. And I guess my question was, you know, I think you talked about the fact that you have twice as
+many SKUs with Romley over the sort of $1000 mark from a processor pricing perspective. Has the uptake on the
+higher SKUs stalled? And I guess sort of in line with this question, I was a little confused by why the cloud mix would
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2012-10-16
+Event Description: Q3 2012 Earnings Call
+Market Cap: 111,817.05
+Current PX: 22.35
+YTD Change($): -1.90
+YTD Change(%): -7.835
+Bloomberg Estimates - EPS
+Current Quarter: 0.568
+Current Year: 2.232
+Bloomberg Estimates - Sales
+Current Quarter: 13683.244
+Current Year: 53320.512
+Page 12 of 12
+be so much poorer versus the enterprise mix, because I would have assumed that the uptake in cloud would be a richer
+mix and that would actually help your ASPs relative to the...
+<A - Paul S. Otellini>: A lot of the cloud is two-way versus enterprise at four-way. At 50,000 feet, that's the simple
+answer.
+<Q - Sumit Dhanda>: Okay. And then the uptake for Romley is sort of above...
+<A - Paul S. Otellini>: Romley has been quite good.
+<A - Stacy J. Smith>: Yeah.
+<Q - Sumit Dhanda>: Okay, all right. Thank you.
+Mark Henninger
+All right. Thanks, everyone, for joining us today. Patrick, please go ahead and wrap up the call for us.
+Operator
+Ladies and gentlemen, thank you for participating in today's program. This concludes the program. You may all
+disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2012, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
