@@ -1,0 +1,767 @@
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 1 of 14
+Q3 2016 Earnings Call
+Company Participants
+• Marilyn Mora
+• Charles H. Robbins
+• Kelly A. Kramer
+Other Participants
+• Simona K. Jankowski
+• Ittai Kidron
+• Vijay Bhagavath
+• Steven M. Milunovich
+• James Dickey Suva
+• Pierre C. Ferragu
+• Brent Bracelin
+• Mark Moskowitz
+• James E. Faucette
+• Paul Silverstein
+• Tal Liani
+• Simon M. Leopold
+• Brian J. White
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to Cisco Systems' Third Quarter and Fiscal Year 2016 Financial Results Conference Call. At the request of
+Cisco Systems, today's call is being recorded. If you have any objections, you may disconnect.
+Now, I would like to introduce Marilyn Mora, head of Investor Relations. Ma'am, you may begin.
+Marilyn Mora
+Thanks, Kim. Welcome, everyone, to Cisco's third quarter fiscal 2016 quarterly conference call. This is Marilyn Mora,
+head of Investor Relations; and I'm joined by Chuck Robbins, our CEO; and Kelly Kramer, our CFO.
+By now, you should have seen our earnings press release. A corresponding webcast with slides, including supplemental
+information, will be available on our website in the Investor Relations section following the call. Income statements,
+full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements and other financial
+information can also be found on the Financial Information section of our Investor Relations website.
+Throughout this call we will be referencing both GAAP and non-GAAP financial results, and we'll also discuss product
+results in terms of revenue and geographic and customer results in terms of product orders unless stated otherwise. All
+comparisons throughout this call will be on a year-over-year basis unless stated otherwise.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 2 of 14
+The matters we will be discussing today include forward-looking statements, including the guidance we will be
+providing for the fourth quarter. They are subject to the risks and uncertainties that we discuss in detail in our
+documents filed with the SEC, specifically, the most recent reports on Forms 10-K and 10-Q, which identify important
+risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+With respect to guidance, please also see the slides and press release that accompany this call for further details. As a
+reminder, Cisco will not comment on its financial guidance during the quarter unless it's done through an explicit
+public disclosure.
+As a reminder, in Q2, on November 20, we completed the sale of the Customer Premises Equipment portion of our SP
+Video Connected Devices business and accordingly had no revenue or expense from that business in Q3 fiscal 2016.
+As such, all of the revenue, non-GAAP and product orders information we will be discussing is normalized to exclude
+the SP Video CPE business from our historical results.
+We have provided historical financial information for the SP Video CPE business in the slides that accompany this call
+and on our website to help to understand these impacts. As a reminder, the guidance we provided during our Q2
+earnings call and today's call has been normalized in the same way.
+So with that, I'll go ahead and turn it over to Chuck.
+Charles H. Robbins
+Thank you, Marilyn. We delivered strong Q3 results against a backdrop of a macro environment that continues to be
+uncertain. Despite this uncertainty, we executed very well, with revenue growth of 3% and non-GAAP EPS growth of
+6%. We continued to generate strong operating cash flow of over $3 billion in the quarter, returning nearly $2 billion to
+shareholders through dividends and share repurchases. Our commitment to operating discipline continues to yield solid
+results in spite of the challenging environment.
+The operational changes we continue to make will further enable our customers to leverage the strategic role of the
+network as they transform their businesses to become digital. As I did last quarter, I'd like to highlight our momentum
+in four key areas.
+First, in Security. We saw continued acceleration in the third quarter, with revenue growth of 17%, while deferred
+revenue grew 31%, driven by our ongoing shift from hardware to more software and subscription services. Our
+Security business is tracking as we indicated it would earlier in the year. As one of the largest IT security vendors, we
+believe our portfolio is the most comprehensive and effective in enabling our customers to protect their businesses.
+Security is and will remain one of our absolute highest priorities.
+Second, Collaboration. Revenue accelerated by 10% and deferred revenue here grew 16%. This is yet another example
+of a successful transition to a cloud-based platform, increasing our market leadership, which we expect will give us
+sustainable long-term differentiation.
+Third, our Next Generation Data Center portfolio is extremely well-positioned to meet our customers' needs regardless
+of where they place their workloads, enabling public, private or hybrid cloud deployments. At our Partner Summit we
+received a very strong response to our innovations as customers adopt our Next Generation Data Center solutions. Our
+strong position is evident in our installed base of 52,000 UCS customers and the continued success of our ACI
+portfolio.
+In March we announced a dramatic improvement in price performance, and by this I mean 100-gig performance for
+40-gig pricing, driven by new ASICs which provide us a time-to-market advantage of 18 months to 24 months while
+maintaining the same margin profile.
+In Q3 our ACI platform grew revenue approximately 100% while it exceeded a $2 billion annualized run rate, far
+outpacing our next closest competitor in both size of business and growth rate.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 3 of 14
+Our entry into the hyperconverged market with HyperFlex, as well as our acquisition of CliQr, an innovator in
+multi-cloud orchestration, extend our leadership position in the Data Center.
+Finally, we continue to make great progress in transitioning more of our revenue to recurring, with increased emphasis
+on software and subscription offers. Our software subscription deferred revenue balance continues to exhibit
+accelerated growth, this quarter up 36%. We have a number of strong proof points for how we've executed successfully
+against our objective and the potential to apply the same model to the rest of our portfolio. In addition to the success
+I've highlighted in our Security and Collaboration businesses, we had double-digit revenue growth again this quarter in
+Meraki, which stands out as an excellent example of how we've begun to scale our enterprise networking into a
+subscription model.
+As I look to the future, you will see us expand the approach we've take with the success of Meraki, Collaboration and
+Security, and apply it to our Data Center and core networking for both Enterprise and Service Providers.
+Our $180 billion of install base, with by far the most widely adopted systems for networking, makes us uniquely
+positioned to lead this migration. While the overall macro-environment remains uncertain, we are nicely positioned to
+benefit from any rebound in the global economy. At the same time, we will continue to manage our business to
+capitalize on the key growth areas in front of us. I'm very pleased with our demonstrated ability to execute
+operationally and strategically in virtually any environment.
+Now, I'll turn it over to Kelly to walk through more details on our financials.
+Kelly A. Kramer
+Thanks, Chuck. I am pleased with our continued execution on our financial strategy of delivering profitable growth,
+managing our portfolio and strategic investments and delivering shareholder value.
+Starting with delivering profitable growth. Total revenue was $12 billion, up 3% with growth in product revenue of 1%
+and services of 11%. We did have an extra week in Q3. Consistent with our guidance for the quarter, the benefit to
+revenue was approximately $265 million, $200 million of which was from our services, subscription businesses and
+$65 million from our SaaS businesses like WebEx as well as some from our product distribution.
+In Switching, as Chuck mentioned, we continue to see good momentum with ACIs and the Next Generation Data
+Center. The 3% decline in Switching was mostly driven by macro-related weakness in our Campus business, offset by
+positive growth in Data Center Switching. Routing experienced 5% decline mostly driven by the high end. We are
+seeing continued strength with our web-scale customers where our co-development continues and our sales to the top
+10 web-scale customers was up 31%.
+Collaboration grew 10% by strength across the entire portfolio and deferred revenue grew by 16%. WebEx continued
+its double digit growth with solid performance in TelePresence and Unified Communications, driven by our new
+offerings in those areas.
+Data Center grew 1% with the slower growth largely driven by continued macro challenges impacting customer spend.
+We expect that our HyperFlex offering will further expand our growth opportunities in the Data Center. Wireless grew
+1%, led by strong double-digit growth in our cloud-based Meraki platform, partially offset by declines in our controller
+and access point businesses.
+Security grew 17%, along with continued strong deferred revenue growth of 31%. We had great performance in our
+advanced threat security and web security solutions, which grew over 100% and 50% respectively.
+SP Video grew 18% with ongoing strength in China. Services revenue grew a very solid 11%, which includes the $200
+million for the extra week I mentioned. Normalized for the extra week, the growth was 4%. We again saw very good
+progress against our goal of driving more recurring revenue. Deferred revenue had solid growth of 8%, with product
+deferred revenue up 9% and service up%. The portion of product deferred revenue relating to our recurring software
+and subscription business grew 36%.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 4 of 14
+From an orders perspective, product orders grew 3% with a book-to-bill comfortably above 1. Looking at our
+geographies, which is the primary way we run our business, Americas grew 4%; EMEA was up 2%; and APJC grew
+1%. Total emerging markets grew 4%, with the BRICS plus Mexico showing strength, up 4%, and China up 22% and
+India up 18%. Brazil and Russia continue to be challenged and is now combined representing less than 2% of our total
+product bookings.
+In terms of customer segments, Enterprise declined 2% and Commercial grew 8%. Public Sector grew 6% and Service
+Provider was flat. Similar to Q2, we are seeing pressure in the Enterprise segment driven by the macro uncertainty.
+We drove strong profitability this quarter, especially with gross margins. From a non-GAAP perspective, gross margin
+was 65.2% with product gross margin of 64.5% and service gross margin of 67.1%. Operating expenses were 35.2% of
+revenue and operating margin was 30%. The total impact of the extra week on our non-GAAP cost of sales and
+operating expenses was $150 million. We are being very disciplined in this tough macro and pricing environment,
+focused on making the right investments while driving operational efficiencies and productivity.
+From a bottom-line perspective, we delivered non-GAAP EPS of $0.57, up 6%, while GAAP EPS was $0.46. Q3
+non-GAAP net income was $2.9 million, up 4%, while GAAP net income was $2.3 billion.
+We've been very active from an M&A perspective, closing five acquisitions in Q3 – Jasper Technologies, making
+Cisco the largest cloud-based IoT service platform, helping enterprises and service providers launch, manage and
+monetize IoT services on a global scale; Acano, which provides on-premise and cloud-based video infrastructure and
+collaboration software; Synata, which enables us to deliver search capabilities for collaboration cloud applications;
+Leaba, a fabless semiconductor company; and CliQr, which provides an application-defined cloud orchestration
+platform, which is expected Cisco customers simplify and accelerate their private, public and hybrid cloud deployment.
+These acquisitions are clearly focused on our key growth areas, including IoT, software, cloud and collaborations as
+well as continuing to strengthen our core. We've also seen solid momentum with our Ericsson partnership, closing 17
+deals this quarter.
+Moving on to shareholder value. In Q3, we delivered operating cash flow of $3.1 billion. Total cash, cash equivalents
+and investments at the end of Q3 were $63.5 billion, with $6.3 billion available in the U.S. We returned $2 billion to
+shareholders during the quarter, that included $649 million of share repurchases and $1.3 billion for our quarterly
+dividend, which we increased by 24% in Q3.
+Overall, Q3 was a very solid quarter in a difficult macro environment. We focused on strong operational executions,
+resulting in top-line growth, strong gross margins and continued operating leverage, consistent with our expectation.
+We're making the right investments in the growth areas of the business, balancing our decisions with sound portfolio
+management.
+Let me now reiterate the guidance we provided in the press release for the fourth quarter of fiscal year 2016. This
+guidance includes the type of forward-looking information that Marilyn referred to earlier.
+The guidance for Q2 is as follows – we expect revenue growth to be in the range of zero to 3% year-over-year,
+normalized to exclude the SP Video CPE business from Q4 2015. We anticipate the non-GAAP gross margin rate to be
+in the range of 63% to 64%. The non-GAAP operating margin rate is expected to be in the range of 29% to 30%, and
+the non-GAAP tax provision rate is expected to be 22%.
+Non-GAAP earnings per share is expected to range from $0.59 to $0.61. We anticipate our GAAP EPS to be lower
+than the non-GAAP EPS by $0.08 to $0.11. Further details to this range are included in the slides and press release that
+accompany this call.
+I'll now turn it back over to Chuck.
+Charles H. Robbins
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 5 of 14
+Thanks, Kelly. So let me summarize before we move to questions. First, I think the number one key takeaway is that
+we continue to execute well even in an obviously very tough environment. Secondly, we've proven our ability to
+transition certain elements of our portfolio like we've done with Meraki, Security and Collaboration and we believe we
+can accelerate long-term growth by bringing this same approach to our core and this process has begun. And finally,
+everything we do will be done through a lens of enabling our customers' success while driving value for our
+shareholders.
+Marilyn, I'll turn it over to you for questions.
+Marilyn Mora
+Thanks, Chuck. Kim, let's go ahead and open the line for questions. While Kim is doing that, I'd like to remind the
+audience that we ask you to please ask one question.
+Q&A
+Operator
+Thank you. Our first question comes from Simona Jankowski with Goldman Sachs.
+<Q - Simona K. Jankowski>: Hi. Thank you very much. I just wanted to clarify your guidance for the July quarter.
+How much of the revenues embedded in that guidance comes from acquisitions that closed in the last year, just so we
+can get a sense for the organic trends in the business? And then when we think about the 3% growth in bookings in the
+quarter, how much of that was benefited by the extra week in the quarter?
+<A - Kelly A. Kramer>: Yeah, so I'll answer the second part first, Simona. So in terms of how much benefit we got
+from the extra week, we don't think there is much. What we saw this quarter was, the forecast was pretty
+straightforward. The team saw deal closure and conversion rates drag on because of the – especially in the Enterprise
+segment. And quite frankly, the deals that we closed were more in line. So we don't think we had any upside from the
+extra week in bookings sitting there. In terms of your first question on the acquisitions, we'll start to see in the current
+run rate, you have the bulk of, like, open DNS and everything else. For the new acquisitions that you don't have a full
+quarter in the run rate, we'll get a bit of a benefit from Jasper and Acano, but it's not terribly material in the overall
+growth rate.
+<A - Marilyn Mora>: Thanks, Simona. Kim, we'll go ahead and take the next question, please.
+Operator
+Thank you. Your next question comes from Ittai Kidron with Oppenheimer & Company.
+<Q - Ittai Kidron>: Thanks, and congrats on great execution. I guess first question is with regards to the Data Center. I
+hear your comments with regards to the macro impact on it, but it's five quarters in a row now where that business is
+stuck in between the $800 million to $850 million in revenue. And this business has accounted for about a third of your
+growth in the past few years. So if you could give us a little bit more color as to why isn't this moving, that would be
+great.
+And the second question, with regards to the gross margins, I had to go back all the way to 2010 to find product gross
+margins that are equal to those that you just reported. Can you just give us a little bit more maybe of a framework to
+think about what is really changing in the portfolio, whether it be through mix or change in the competitive
+environment? Anything that can justify the increase in gross margins, and how sustainable you think that is.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 6 of 14
+<A - Charles H. Robbins>: Hey, Ittai, this is Chuck. Thanks for the questions, and I'll answer the first one and I'll give
+Kelly the gross margin question.
+So as we look at the Data Center business we see a few things going on. First of all, we think that there is an impact
+coming from the overall macro environment that is relatively undeniable. We also saw – as our peers have, we saw
+some caution in I would say the CapEx spend in the SP space, and that was one of the segments that we saw weakness
+this quarter, even with our Data Center portfolio. When we say Data Center in this context, we're talking about UCS in
+particular.
+The other thing that's going on is there is a transition going on in the Data Center relative to workloads. I talked a little
+bit about it on the last call. We see workload-specific use cases being deployed on high performance blade systems like
+our classic UCS. Then we see also this move to hyperconverged systems, which led us to the launch of our HyperFlex
+platform last quarter. We also see a transition to rack-based systems which also results in stacks that are driven by
+container-based architectures. And so, in the past quarter 30% of our UCS business was actually from our rack
+portfolio, which we do have for the appropriate use cases. And you'll see us continue to expand our offering.
+So we have UCS as a blade system. We have a rack version of UCS. We have HyperFlex in the market and you'll see
+us continue to expand our portfolio to meet the evolving use cases in the Data Center. I think that's what's going on
+right now. Kelly, on the gross margin question?
+<A - Kelly A. Kramer>: Yeah, on the gross margins, I'd say, Ittai, it's a couple things. You're absolutely right when
+you go back and look historically, if you go back and normalize, the biggest thing that we did was obviously when we
+got out of the set-top box business, that helped us quite a bit. And normalized, if you go back to just Q1 of this year, we
+were at a 64.9% and even last year we had a 65.1%. So I'd say it's kind of the new normal, in that 63%, 64% range. I
+would say the only other thing, when you go back and you update your models for the extra week, because a lot of the
+top-line that I talked about comes off the balance sheet and there is not incremental cost, I did get a 0.5-point benefit
+just from the extra week in my gross margin. So I'd say a normalized view on the gross margin would have been closer
+to 64.5%.
+<A - Marilyn Mora>: Thanks, Kelly. Kim, we'll go ahead and take the next question.
+Operator
+Thanks. Our next question comes from Vijay Bhagavath with Deutsche Bank.
+<Q - Vijay Bhagavath>: Yeah, hi. Thanks. Yeah, hi, Chuck. Hi, Kelly.
+<A - Kelly A. Kramer>: Hi, Vijay.
+<A - Charles H. Robbins>: Hey, Vijay.
+<Q - Vijay Bhagavath>: These are clearly better-than-feared results. Congratulations to you and your team. My
+question is as follows, which is, Chuck, heading into the back half, what gets you most excited in terms of new product
+refresh opportunities? And then now that your Security business honestly is starting to turn the corner, especially versus
+the pure plays, would you double down on Security investments, both organically and M&A? Thanks.
+<A - Charles H. Robbins>: Yeah, Vijay, so I think the number one thing that I'm feeling very positive about right now
+is that again we have shown that we can drive the transition in our Collaboration portfolio, which when you see that
+business over the last two years, the team's done a great job of transitioning it to a portfolio that is available to our
+customers as cloud-based services, and seeing it growing double digits and also growing our deferred revenue balance
+up 16%, I think that's one example. In Security 46% of our business now comes from software and subscription
+services, which is clearly the direction that we had indicated we were going take it; at the same time growing 17%.
+Our Meraki business, which really shows the evolution of networking to cloud-based management and policy, is over
+$1 billion now and growing double digits. And I think that we – the thing I'm most excited about longer term is that we
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 7 of 14
+see a path to deploying that model across the rest of our portfolio. And again, that work has begun.
+I think in the near term we see obviously a mix of a pretty cautious environment still because we do see customers
+spending where they need to spend, but don't misunderstand, there is still a fair amount of caution in the market. But I
+think that we've executed well. This quarter we had five of our seven product categories that were in positive growth,
+with three of those in double digits. We had all the geos in positive growth from an order perspective. And we saw
+pretty good strength across our segments. So that's the first question.
+The second one, relative to Security, the answer is yes, yes and yes. We will continue investing both organically and
+any other way that we see appropriate to drive that architecture. The team's done a phenomenal job.
+<A - Marilyn Mora>: Kim, we'll go ahead and take the next question, please.
+Operator
+Thank you. Your next question comes from Steve Milunovich with UBS.
+<Q - Steven M. Milunovich>: Thank you. Your Switching and Routing businesses were both down. I guess how
+concerned are you about that? Do you think your new product portfolio is yet to impact that? Do you believe you'll lose
+share or it's the markets? And then finally, what's the impact on your services business? In other words, how much of
+that is maintenance that could be impacted by declining hardware?
+<A - Charles H. Robbins>: Well, let me take the first one, and then Kelly, you can maybe make a connection from the
+services to the hardware.
+So on the Switching business, I'll point out a couple things. Last quarter we indicated that our Campus Switching
+business, the growth there is largely driven by Refresh, which in an uncertain time, enterprises that have infrastructure
+that's functioning for them, they're not going to make the move to upgrade. So we see a pause in that Refresh cycle
+which we talked about last quarter, and nothing really changed there.
+What we did see is we saw our Data Center Switching revenue growth increase. And the other thing that I'll point out is
+that we had indicated that we believe that our Data Center Switching growth would – the new product portfolio would
+surpass the declines of the traditional products that we've had. And our order growth rate, which we haven't put in any
+of the documentation, but our order growth rate this past quarter, on that $4 billion portfolio, was double digits. So
+we're pleased with the progress that we've made in the Data Center Switching space. And again, that's $4 billion and it
+grew double digits in orders. So we feel okay about that.
+On the Routing front, I think it's a combination of things. I think that there is certainly...
+<A - Kelly A. Kramer>: [indiscernible] (24:00).
+<A - Charles H. Robbins>: $1 billion in the quarter...
+<A - Kelly A. Kramer>: Yeah, quarter.
+<A - Charles H. Robbins>: $1 billion in the quarter, $4 billion annualized run rate on the Data Center Switching.
+Kelly's making sure we're clear.
+On the Routing business we've seen a few things. Clearly there is a macro issue that we're dealing with. We also saw,
+again, as you've heard from some of our peers, we saw some increased caution in the service provider space. We saw
+slow movement in the core of those networks, kind of flattish activity at the edge. And we do have a number of new
+platforms that are in certification with several of the key players that we – at some point in the coming quarters we
+would expect those to begin to show up favorably. But that's what we see right now.
+<A - Kelly A. Kramer>: And in terms of, Steve, your question on impact on the services business. Typically for new
+sockets there would be a little lag for that, but I'll say that our service business has been laser-focused on driving
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 8 of 14
+renewals. So even if enterprises are holding on to their switches and routers longer, our services team and sales team
+has been very focused on getting the contracts renewed, and we're seeing that pay dividends with the acceleration of
+growth. Again, if you normalize our service revenue growth this quarter for the extra week, they still grew 4%, which is
+up from 3% year-over-year growth in Q2, and it was 1% in Q1. So we're really starting to get traction there.
+<A - Charles H. Robbins>: Yeah, and, Steve, if I could just pile onto what Kelly just said. The team has been building
+out, trying to strengthen our capability around the entire software and subscription business model which requires a lot
+of focus on adoption and renewals and we've also taken the same approach to just sharpen our focus on our services
+renewal business. And we did see improvement in that in the last quarter. So I'm happy with the progress the team's
+making there as well.
+<A - Marilyn Mora>: Thanks, Steve. Kim, let's go ahead and take the next question.
+Operator
+Thank you. Our next question comes from Jim Suva with Citigroup.
+<Q - James Dickey Suva>: Thank you, and congratulations, Chuck and Kelly, to your team there at Cisco. One thing
+that stood out was the very impressive gross margins this quarter. If I calculated it correctly, it looks like it was around
+65.2%, and that was meaningfully above – I think, your guidance was 62.5% to 63.5%. Can you help us understand
+what were the factors to drive it higher because I know the guidance all included an extra week? And then for the
+outlook, are there any type of swing factors we should be aware of, and the causes of why it will be lower than the
+reported gross margins just from this quarter? And again, congratulations to you and your team.
+<A - Kelly A. Kramer>: Yeah, sure. Thanks for the question, Jim. So again the thing to keep in mind, true, we did
+guide with the extra week, which came in in line. But just, again, a couple things. When we guide we tend to have a
+little conservatism in the gross margin rate. But take off that 0.5 point, we're still parked at the 64.5% range. We do
+have normal seasonality quarter in and quarter out, so always Q1 and Q3 are our strongest gross margin quarters, and
+Q2 and Q4 are weaker; and it's typically driven by our mix, especially mix of servers in those two quarters. So that's
+also a driver.
+And I think just operationally speaking, again, the teams are doing a very good job from a productivity perspective in
+terms of driving costs out of the product. We had a lot of efficiencies out of the supply chain in terms of managing our
+freight and our inventory management. So I'd say there's just been real – we had a very strong quarter from a
+operational excellence – if I look at pricing this quarter, we are being very disciplined on pricing. We're starting to see a
+tiny bit of a tick-up and you'll see that in our 10-Q where the impact to our gross margin rate year-to-date is about 2.2
+points, and Q3 was 2.4 points. So still strong, but we are still seeing price erosion. But again, the strength we are seeing
+this quarter mostly came from just improvements in productivity.
+<A - Marilyn Mora>: Great. Thanks, Kelly. Next question, please.
+Operator
+Thank you. Our next question comes from Pierre Ferragu with Sanford Bernstein.
+<Q - Pierre C. Ferragu>: Hi. Good evening. Thank you for taking my question. I just wanted to come back on what
+you said about your top 10 hyperscale, web-scale clients. If I get that correctly, you had revenues up 31% there. Could
+you give us a sense of what made most of these revenues and most of this growth? Was that mostly Switching,
+Routing, anything else?
+And then if we exclude that very strong performance on that segment, what did the rest of Enterprise look like in terms
+of growth? So you were down 2%, overall; I assume that if web-scale were up 31%, probably the rest of Enterprise was
+down quite significantly.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 9 of 14
+And lastly, could you help us quantify any kind of the macro impact you mentioned about Enterprise in this quarter and
+in your guide for next quarter? So I don't know, maybe in points of revenues or whatever, do you have a sense of how
+much you've lost because of the uncertain macro environment? Thanks a lot.
+<A - Kelly A. Kramer>: Okay. So I'll start – and make sure I don't forget the rest of the pieces here, Chuck. You got
+me covered there. Okay.
+<A - Charles H. Robbins>: Yeah.
+<A - Kelly A. Kramer>: So of our massively scalable data center customers, of that amount, more than half of it is
+certainly Switching. And then the next biggest follower is Routing. So it's more than 50% – significantly more than
+50% is our Switching products. To your point on then, like you inferred, what does that mean, if Switching overall was
+down 3%, I just want to reiterate what's known to...
+<A - Charles H. Robbins>: Let me just clarify the question. He believes that we're – we roll the web-scale into our
+Enterprise business. So he was saying we were negative 2% on Enterprise.
+<A - Kelly A. Kramer>: Oh, sorry.
+<A - Charles H. Robbins>: So...
+<A - Kelly A. Kramer>: Definitely in our Service Provider segment.
+<A - Charles H. Robbins>: Yeah, it's in our Service Provider segment, Pierre. So now you can answer that question.
+<A - Kelly A. Kramer>: Yeah, so, yeah, sorry about that, Pierre. So these web-scale customers are definitely in our
+Service Provider segment, which was flat overall for the quarter from a bookings perspective. On the rest of the
+portfolio, to your question, in Service Provider, we're seeing again the slowdown from just the overall Service Provider
+CapEx spend and you're seeing that reflected, certainly, on our Routing portfolio.
+<A - Charles H. Robbins>: Yeah, just a couple comments. I don't think we've ever exposed that over half of that
+business is coming from Switching. So clearly, there is value in our Switching portfolios that the web-scale players are
+seeing. I also think that there's still a small percentage of overall SP business as it relates, which is why you'll see flat
+when this segment was up 31%, given the size of that business. But obviously, you could have done that math. But I do
+think that our teams have done a really god job here.
+Kelly, the other question, the third portion of the question was that relative to any revenue impact in Q4 that we've built
+into the guidance relative to the macro environment, I'll make – I mean just generically, we're not modeling any
+improvement, I think, is the safest way to say it. We do see a continued amount of uncertainty out there, and we're not
+modeling any improvement into Q4.
+<A - Kelly A. Kramer>: Exactly.
+<A - Marilyn Mora>: Great. Thanks, Chuck. Next question please, Kim?
+Operator
+Thank you. Our next question comes from Brent Bracelin with Pacific Crest Securities.
+<Q - Brent Bracelin>: Thank you for taking the question. Chuck, I wanted to follow up on services revenue. I get
+there was a clear benefit of an extra week, but this now marks I think the second quarter in a row of upside coming
+from the services segment. I imagine most of the return to double-digit growth was the extra week. I guess my question
+is, are you seeing a broader increase in services driven by digitization or solution selling trends? And if so, do you
+expect the services kind of recovery to potentially be a leading indicator for a future product recovery?
+<A - Charles H. Robbins>: Thanks for the question, Brent. Let me first of all say that I think over the last few
+quarters, Joe Cozzolino and his team have been incredibly focused on driving the operational excellence around the
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 10 of 14
+P&L element of that, which is what you're seeing with the gross margins, and I think some of the discussion I had
+earlier around the focus on the renewal capability. I think we're seeing general improvement in the execution there. We
+see Advanced Services obviously doing reasonably well, Security services doing reasonably well; and then as I
+mentioned earlier, the renewal activity, our teams did a better job this past quarter. So I think a lot of what you've seen
+is operational discipline and execution, to be honest.
+However, I think that there is an opportunity, and more of our customers are asking us to help them as they look at their
+strategies to take advantage of this digital transition that's occurring. I'm not sure that I'm in a position where I would
+give you any sort of tangible connection between it and future product growth. But we definitely see that as a required
+service that we're going to need to provide to our customers because they're looking to us as one of the few large,
+capable, financially viable partners that really understand this transition.
+<Q - Marilyn Mora>: Great. Thanks, Chuck. Next question, please.
+Operator
+Thank you. Our next question comes from Mark Moskowitz with Barclays.
+<Q - Mark Moskowitz>: Yes, thanks. Good afternoon. Just want to see if we can talk a little more about the cloud and
+talk about the ACI momentum. How should we think about the mix of just cloud revenue for Cisco in terms of how
+much is going into public cloud versus private cloud as the run rate improves? And then, is there any change in terms
+of public cloud versus private cloud related to margin, either from a gross margin perspective or a operating margin
+perspective that we should be aware of? Thank you.
+<A - Charles H. Robbins>: Thanks, Mark. So I'll let Kelly tackle the second question. If you look at what we declared
+– we've stated our strategy is around cloud, it really is focused on enabling what we believe is going to be the long-term
+desire of our customers, which is to operate on a hybrid cloud model. And we said that we're going to do three primary
+things. We're going to make sure that we provide the infrastructure to the cloud providers, and we've done that with
+SPs, and we've done that obviously with the top 10 web-scale providers, given the business was up 31%.
+We also said that we were going to transition our portfolio to be cloud-delivered and as-a-service-delivered where it
+makes sense, and over time across the entire portfolio. And you've seen us do that with our continued growth in
+Meraki, in Collaboration and Security. And now the plans – we're actually underway on a project to deploy that across
+the rest of our portfolio, although it's early days.
+But I think when you look at that deferred revenue of 36% on the balance sheet, that says that we're being successful in
+that second pillar. And then the third pillar was to help our customers with the infrastructure needed to actually take
+advantage of both private and public clouds, or enabling hybrid. And when you look at the Data Center Switching
+portfolio, on an annualized $4 billion business with new orders growing in double digits, I think that customers are
+driving both, and I think that the three pillars of that strategy are working.
+As far as gross margins, when we sell to private cloud versus public cloud providers, Kelly, any comment there?
+<A - Kelly A. Kramer>: Yeah, I'd say – we obviously have different margin profiles within both, but I'll say both,
+whether it's Campus versus Data Center or whether it's to the Service Providers versus Enterprises, both margin profiles
+are above, well above the Cisco average gross margin rates. And between Campus and the Data Center side we're
+within 5 points to 6 points of gross margin. So the differentiation's not much there.
+We can have variations within that. We have some public cloud customers on some deals that might have better or
+worse margins, but overall the portfolio is within those ranges. And again, way accretive to the overall Cisco margin.
+<A - Marilyn Mora>: Kim, next question, please.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 11 of 14
+Operator
+Thank you. Our next question comes from James Faucette with Morgan Stanley.
+<Q - James E. Faucette>: Great. Thank you very much. I just had a clarification. You talked about ACI hitting about
+$2 billion annualized run rate. And I think our notes have suggested that it was at a similar level the last couple of
+quarters, or at least you gave a similar level. I just want to make sure our notes are right there.
+And then really my question is around acquisitions. You guys clearly have been quite active doing acquisitions and
+doing a lot of what look to be pretty promising technology-related acquisitions. Should we expect the current pace to
+persist or are we going through an accelerated period that you think we're pretty close to slowing down from? Thanks.
+<A - Kelly A. Kramer>: I'll take the first one?
+<A - Charles H. Robbins>: Sure.
+<A - Kelly A. Kramer>: So on the first one, yeah, we were being – rounding. I mean, it's actually closer to a $2.2
+billion run rate and so sequentially – I'm certainly up sequentially than what I was last quarter.
+<A - Charles H. Robbins>: Yeah, I think when we hit it last quarter it was probably roughly $2 billion, and this time
+it's -
+<A - Kelly A. Kramer>: More like...
+<A - Charles H. Robbins>: ...closer to $2.2 billion, $2.25 billion on the ACI portfolio.
+And then on the acquisition front, what I would say is that, given the valuations and given the movement in the tech
+industry, that we'll continue to be opportunistic. We're in a good position as a strategic buyer with some of the
+challenges in the public market, and public market and some of the valuations becoming a little more realistic. Would I
+suggest to you that over the next 12 months we'll be quite as active as we have been in the last 12 months? I probably
+wouldn't expect it to be quite as fast-paced as it has been, but we will continue to be opportunistic around the areas of
+growth that are important to our future.
+<A - Marilyn Mora>: Next question, please.
+Operator
+And your next question comes from Paul Silverstein with Cowen and Company.
+<Q - Paul Silverstein>: Thanks very much. Chuck, going back to the question about the top 10 Web 2.0, I don't think
+you've ever broken it out, at least in my memory. But if Routing is 15% of your total revenue and Service Provider
+typically, if I remember the numbers correctly, were 80% of Routing, that would suggest that the Web 2.0 guys are
+somewhere in the range of 15% of total revenue, if I'm looking at the current numbers correctly. Is that in the ballpark?
+<A - Charles H. Robbins>: 15% of our overall total revenue or 15% of our Service Provider revenue?
+<A - Kelly A. Kramer>: Or Routing...
+<Q - Paul Silverstein>: Well, I'm basing it off, if Routing's 15% of total and Service Provider's 80% of Routing, again,
+that would suggest that, traditional service providers being the bulk of your Routing revenue, are somewhere in the
+order of 12% in total revenue. I recognize it by more than just Routing. And if I saw this Service Provider category
+correctly in terms of 30% of total bookings, maybe I misread the number, that would suggest the Web 2.0 guys are – let
+me just ask the question directly. Can you give us any sense for how large the Web 2.0 category is?
+<A - Kelly A. Kramer>: Yeah, Paul, we haven't been disclosing that. So we just don't disclose that.
+<Q - Paul Silverstein>: It's in that 15% range?
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 12 of 14
+<A - Kelly A. Kramer>: Again, Paul, it's not something we give out. I apologize, but it's not...
+<Q - Paul Silverstein>: No worries. All right, let me ask you a simple question. And I think you mentioned it before,
+but can you give us any insight on the linearity of the quarter?
+<A - Kelly A. Kramer>: Yeah, I'd say it wasn't that crazy. I mean, obviously our extra week when it actually fell in
+from a calendar perspective was in February. But again, because the way the teams were forecasting, I'd say the
+linearity in terms of what we see usually coming through month three was in the normal ranges.
+<A - Marilyn Mora>: Thanks, Paul.
+<A - Charles H. Robbins>: Thanks, Paul.
+<A - Marilyn Mora>: Okay. Kim, we'll go ahead and take the next question.
+Operator
+Thank you. Our next question comes from Tal Liani with Bank of America.
+<Q - Tal Liani>: Hi. Hopefully you can hear me.
+<A - Charles H. Robbins>: We got you, Tal.
+<Q - Tal Liani>: Hello. I have just one clarification. It's the tone of the previous conference call was very different. It
+was about the very weak environment and we didn't speak about the growth trends. The tone of this conference call is
+so much more positive in a very similar business environment. So what happened in the last three months that makes
+you so much more positive about everything you have done basically also before; very little is new now. What makes
+you so much more positive now versus three months ago in a similar environment? Or unless maybe the environment's
+gotten better?
+<A - Charles H. Robbins>: Yeah, it's a good question, Tal. I'm just having a better week this week. No, I'm kidding. I
+think the difference is if you go back to when we ended our last quarter it was towards the end of January. And if you
+recall the last few weeks of that quarter were the weeks when the stock markets were having those incredibly wild
+swings and our customers actually put the brakes on pretty significantly. And so coming into that earnings call we had
+seen a very tough close to the quarter from an orders perspective. We saw our Enterprise customers in particular really
+put the brakes on because they were just completely unsure of what was going to transpire and I think that led us to a
+very cautious tone.
+And so that would be the number one reason why we were more cautious then. I just want to make sure that we are
+balanced here that while we're optimistic and we're pleased with our execution, we still are operating in a relatively
+uncertain environment. We got the Brexit coming up, the vote coming up in June. We've got the news out of the Fed
+today. We've got all the election dynamics. We got issues in Brazil. We've got geopolitical dynamics. So there is still a
+relatively broad set of unknown issues out there. So we're still operating in an uncertain environment, but I think the
+stock market issue and the timing of the end of our last quarter would probably be the biggest difference.
+<A - Marilyn Mora>: Thanks, Tal. I think that was really helpful. Operator, we'll take another question, please.
+Operator
+Thank you. And our next question comes from Simon Leopold with Raymond James.
+<Q - Simon M. Leopold>: Great. Thank you. I wanted to go back to the web-scale vertical a bit. I know that's beating
+the dead horse a little on this call. But I wanted to see if you could talk about the bigger trend around the white box
+competitive threat because it seems apparent that there is not the dramatic shift to white box that many had feared. But
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 13 of 14
+maybe it's just yet to happen. So if you could talk how you are countering the threat or the substitution effect of those
+web scale customers building or buying unbranded switches rather than your products? Thank you.
+<A - Charles H. Robbins>: Yeah, Simon, it's a good question, and I think that there is a misconception about what's
+driving this belief that all the customers want to buy white-box switching. And I think this is sort of in the same vein of
+it's all about cloud, or all about SDN or all about white box. None of these customers are fundamentally chasing a
+technology trend. There are underlying business drivers that are leading them to these solutions. And so what we've
+been doing is focusing on attacking the business driver and not so much the technology trend that everybody writes
+about.
+So in the case of the web-scale players, what they're looking at is they're looking for significant automation, they're
+look for the ability to run massive data centers at huge scale, very low cost, with a ton of automation, which over time
+will become the norm, I think, for all customers. There is this massive focus on operational expense reduction, which is
+all around automation programmability which is where we're headed with our core platforms in the Enterprise as well.
+So what we did is we built some really aggressive products. Our teams – again, the ASICs improvements that have
+been built that give us the advantage on the price performance and then enabling our portfolio to fit within the
+operational environments of these customers, I think, has been the key. And that's what they're looking for. They're not
+singularly focused on white box. They're looking at how do they solve that problem. And we're just spending more time
+with them to really understand what they need and how we can fit their requirements. And you're going to see us
+continue to evolve our portfolio in whatever way we need to, to make sure that we remain relevant there.
+<A - Marilyn Mora>: Kim, next question, please.
+Operator
+Thank you. It comes from Brian White with Drexel Hamilton.
+<Q - Brian J. White>: Chuck, I'm wondering if you could walk us through what you've seen so far with the Inspur
+relationship in China? I see China revenue decelerated but it still grew very strongly at 22%. And also the Ericsson
+relationship. It sounds like you've got some big deals in the quarter, or a few deals in the quarter. Maybe just highlight
+if you feel like that relationship is still on track for this $1 billion by 2018? The reason I ask, obviously, Ericsson had a
+very soft March quarter. Thank you.
+<A - Charles H. Robbins>: Yeah, Brian, it's a great question. I actually didn't expect anyone to highlight the fact that
+our China revenue was decelerating. It is our third quarter of really solid growth in China, and I will point out that that
+is across the board. It's across the portfolio. The team has done an amazing job there. And I've spent a fair amount of
+time over there and I think that we're really pleased with where we are in China right now in the midst of the
+uncertainty that's been discussed in the marketplace.
+On the Inspur partnership, in September we signed the MOU, which was basically a letter of intent to formulate the
+venture. And I was over three weeks ago where we formalized the term sheet basically, and we're in the final stages of
+getting that one put together. I would expect it will be in market sometime in the fall with some of the early products
+and solutions with them. We're spending a lot of time with them right now. So I think sort of late this year is when we'll
+begin to see some early results from that.
+I think on the Ericsson front, any time you do these really large partnerships, they always take a little longer probably
+than we would all hope, but we're very optimistic. We have spent a ton of time together. I think that on the last call we
+talked about the number of joint solutions within the first 100 days that we actually had on display together at Mobile
+World Congress, which was pretty amazing. And then this past quarter, we saw 17 transactions close between our
+teams, in the midst of a time where Hans was doing a pretty significant organizational restructuring and our teams were
+getting to know each other. So we think we'd all want it to go faster, but we're pretty pleased with where that
+partnership is right now.
+Company Name: Cisco
+Company Ticker: CSCO US
+Date: 2016-05-18
+Event Description: Q3 2016 Earnings Call
+Market Cap: 134,458.28
+Current PX: 26.72
+YTD Change($): -.435
+YTD Change(%): -1.602
+Bloomberg Estimates - EPS
+Current Quarter: 0.585
+Current Year: 2.306
+Bloomberg Estimates - Sales
+Current Quarter: 12458.419
+Current Year: 49019.941
+Page 14 of 14
+<A - Marilyn Mora>: All right, Chuck. I think that was our last question. Why don't I go ahead and turn it over to you
+to close it up?
+Charles H. Robbins
+All right, thanks, Marilyn.
+First of all, I want to thank everybody for spending time with us today and I want to thanks for your questions. I would
+just go back to the three things that I stated earlier. I'm really proud of what we've done. I'm proud of the way the teams
+have executed. It is a challenging environment out there and I think that our teams have proven that we continue to
+execute regardless of the environment we face.
+As I said last call, we're running the company on two fronts. We're focused on the execution and the operational
+excellence and at the same time we're focused on transitioning our business and investing in the future, which I think
+was displayed by our progress in the different areas that I highlighted during the call today.
+I think that, again, if you look at our success in Security and Collaboration, Next Gen Data Center, the Meraki cloud
+networking platform and overall in our transition to software and subscription, I think we're on that journey. We've
+proven that we can transition elements of our portfolio and we're going to apply that same approach again to the rest of
+our business. We're in the early days in the front end of a long journey, but I'm pleased with where we are. So I want to
+thank all of you for spending time with us today. And we'll forward to talking to you soon.
+Marilyn?
+Marilyn Mora
+Thanks, Chuck. Cisco's next quarterly call, which will reflect our fiscal 2016 fourth quarter and annual results, will be
+on Wednesday, August 17, 2016, at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern Time. Again, I'd like to remind the
+audience that in light of Regulation FD, Cisco's policy is not to comment on its financial guidance during the quarter
+unless it is done during an explicit public disclosure.
+We now plan to close the call. If you have any further questions, please feel free to contact the Cisco Investor Relations
+Department. We thank you very much for joining the call today.
+Operator
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety you may call
+1-866-457-5715. For participants dialing from outside the U.S., please dial 1-203-369-1293. This concludes today's
+conference. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2016, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
