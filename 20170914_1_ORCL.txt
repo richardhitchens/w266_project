@@ -1,0 +1,647 @@
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 1 of 12
+Q1 2018 Earnings Call
+Company Participants
+• Kenneth Bond
+• Safra Ada Catz
+• Mark V. Hurd
+• Lawrence J. Ellison
+Other Participants
+• Sarah Hindlian
+• Kash Rangan
+• Brad Alan Zelnick
+• Adam Holt
+• Stewart Kirk Materne III
+• Philip Winslow
+• John DiFucci
+• Raimo Lenschow
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to Oracle's first quarter 2018 earnings conference call. Now I'd like to turn today's call over the Ken Bond,
+Senior Vice President. Please go ahead, sir.
+Kenneth Bond
+Thank you, Holly. Good afternoon, everyone, and welcome to Oracle's first quarter fiscal year 2018 earnings
+conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation
+and other supplemental financial information, can be viewed and downloaded from our investor relations website. On
+the call today are Chairman and Chief Technology Officer, Larry Ellison, and CEOs Safra Catz and Mark Hurd.
+As a reminder, today's discussion will include forward-looking statements including predictions, expectations,
+estimates or other information that might be considered forward-looking. Throughout today's discussion, we will
+present some important factors relating to our business, which may potentially affect these forward-looking statements.
+These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ
+materially from statements being made today.
+As a result, we caution you against placing undue reliance on these forward-looking statements and we encourage you
+to review our most recent reports including our 10-K and 10-Q, and any applicable amendments for a complete
+discussion of these factors and other risks that may affect our future results or the market price of our stock. And
+finally, we are not obligating ourselves to revise our results or publicly release any revisions of these forward-looking
+statements in light of new information or future events.
+Before taking questions, we'll begin with a few prepared remarks. And with that, I'd like to turn the call over to Safra.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 2 of 12
+Safra Ada Catz
+Thanks, Ken. Good afternoon, everyone. I'm going to focus on our non-GAAP results for Q1. I'll then review guidance
+for Q2 and turn the call over to Larry and Mark for their comments.
+As you can see, we had another good quarter. Customer adoption of our cloud products and services continue to be
+very, very strong and our on-premise business remains very resilient. The result was that total revenue was at the high
+end of my guidance and earnings per share beat my guidance by $0.01.
+Today, I'm going to do what I always do, which is use constant dollar growth rates on this call so we can have some
+measure of consistency across the quarters, as well as to reflect how we measure the business. The effects of currency
+movements in Q1 were a little better than expected with 1% tailwind to total revenue. Total cloud and software revenue
+were $7.4 billion, up 8% in constant currency and 9% in U.S. dollars. GAAP applications total revenue were $2.6
+billion, up 17% and GAAP platform and infrastructure total revenue were $4.7 billion, up 3%. Cloud SaaS revenue for
+the quarter were $1.1 billion up 61% from last year. Cloud PaaS and IaaS revenue for the quarter were $403 million, up
+28% from last year.
+As our SaaS business continues to scale and grow dramatically, the gross margin has expanded. The gross margin for
+SaaS in the quarter was 67%, up from 59% last Q1. We expect to see further improvement in FY 2018 and remain
+committed to our goal of 80% SaaS gross margins possibly, as soon as sometime in FY 2019.
+The gross margin for PaaS and IaaS was 44%, down 58% – down from 58% last quarter as our geographic buildout
+goes forward in response to demand, but ahead of the bulk of new revenue recognition. When we are at scale, I expect
+to see major improvement in PaaS and IaaS gross margin.
+Total cloud revenues in the quarter were $1.5 billion, up 51% from last year. Total on-premise software revenues were
+$5.9 billion, up 1% from last year, reflecting continued high attach of software support and renewal rates that reflect the
+stability of our installed base of on-premise customers. Hardware revenues were $943 million, down 6% and services
+revenue were $860 million, up 5%.
+Total revenue for the company were $9.2 billion, up 6% from last year. Non-GAAP operating income was $3.8 billion,
+up 10% from last year. And it's been a while since we last reported double-digit operating income growth as we
+undertook the cloud transformation that affected our income statement, trading upfront revenue recognition of
+on-premise license revenue for recurring subscription cloud revenue.
+With cloud now in larger and more predictable share of the revenue mix, I expect that we'll see additional strong
+operating income growth. The operating margin was 41%, which was up from 39% last year. The non-GAAP tax rate
+for the quarter was at 25%, which was over a point higher than my guidance, negatively impacting EPS by $0.01 or so,
+and EPS still up 12% in USD and 11% in CD to $0.62.
+The GAAP tax rate was 14.5% and GAAP EPS was up 19% to $0.52 in U.S. dollars. Operating cash flow over the last
+four quarters was $14.8 billion, up 8% and free cash flow over the last four quarters was $12.6 billion. Capital
+expenditures for the quarter were $473 million. I expect the cloud CapEx spending will be driven by our ARR growth
+and the PaaS IaaS build-out that I mentioned earlier. Obviously, should we see higher-than-expected ARR growth, we'd
+expect to see higher CapEx investments as well.
+We now have nearly $67 billion in cash and marketable securities, but net of our debt our cash position is about $13.6
+billion. The short-term deferred revenue balance is $10.3 billion, up 9% in U.S. dollars.
+As we've said before, we're committed to returning value to our shareholders through technical innovation, strategic
+acquisitions, stock repurchases, prudent use of debt, and a dividend. This quarter, we repurchased 10.2 million shares
+for a total of nearly $500 million. We're currently planning on bringing that rate up significantly for Q2.
+Over the last 12 months, we've repurchased 46.6 million shares for a total of $2 billion, and we also paid out dividends
+of $2.8 billion. The Oracle board of directors again declared a quarterly dividend of $0.19 per share.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 3 of 12
+Now to the guidance, and I'm going to give you guidance for Q2, and my guidance is on a non-GAAP basis and in
+constant currency. However, there has been some currency movement. And assuming current exchange rates remain
+the same as they are now, currency could be as much as 3% positive on total revenue and $0.02 positive on EPS.
+So here we go, Q2. Cloud revenues – remember, these are constant currency numbers, so you're going to be adjusting
+them for U.S dollars. Cloud revenues, including SaaS, PaaS, and IaaS, are expected to grow 39% to 43%. Total revenue
+growth is expected to range from 2% to 4%. Non-GAAP EPS in constant currency is expected to be somewhere
+between $0.64 and $0.68,
+up from $0.61 last Q2. That puts the USD number in the range between $0.66 and $0.70 at today's exchange rate. This
+assumes a non-GAAP tax rate somewhere between 23.5% and 25.5%. Of course, as usual, the tax rate could end up
+being different as it was this quarter.
+With that, I'll turn it over to Mark for his comments.
+Mark V. Hurd
+Thanks, Safra.
+It was a strong quarter for Oracle across virtually every metric that we track. In USD, total revenue was up 7%,
+operating income was up 11%, EPS up 12%. In cloud bookings, it was a strong quarter. Overall growth was above
+40%. That was an acceleration from our growth rate last year. By the way, all numbers are in CD unless I say
+otherwise. Cloud revenue up 51%, now at a $6 billion annual run rate. 80% of our TTM, trailing 12-month software
+and cloud revenue, is now recurring.
+Now I'm going to give you some SaaS revenue numbers by pillar. We are up 61%, as Safra said, accelerating from 55%
+growth last year. ERP was up 90% organically. Overall, ERP is now over $1.3 billion annualized run rate. Fusion HCM
+up 109%, more than double the growth rate of Workday. CX [Customer Experience], all of our categories, sales,
+marketing, and service were up double digits organically. Data-as-a-service was up 53%, the business now over $0.5
+billion annualized run rate.
+Our verticals were up 20%, on a compare, by the way, of 115% growth last year. And as good as all these SaaS
+numbers are, our application ecosystem, and let me go through again what that is. That's our on-premise license,
+on-premise support and SaaS, was together up 17%. When you look at any industry growth metric of the application to
+industry, you'll find numbers like one, two, three in the marketplace. The market share gains we have are astounding.
+In PaaS infrastructure, our revenue was up 28%. Business Analytics were up 130%, data integration up 221%. Our
+database ecosystem, including the same metrics I described earlier, Database-as-a-Service, on-premise support,
+on-premise license, was up 3% in USD, in line with industry market growth. Storage and compute industry as a service
+were both up triple digits. Cloud deferred revenue was up 53%. So as I described, it was a solid quarter for us with top
+line growth of 7% USD in revenue and 12% EPS growth in USD.
+A couple of predictions, I expect Q2 cloud booking growth to be strong or stronger than our Q1 growth rate. Our cloud
+bookings, we're executing well on a very big and growing pipeline. We expect the cloud FY 2018 full-year cloud
+booking growth to be quite strong. Revenue growth now at an annualized rate of $6 billion, or a growth rate of 51%,
+and we are the fastest growing cloud company at scale.
+I do want to read off to you a few logos of wins we had in the quarter just to give you some context for some of the
+companies that we're selling product to, and I'll just mention a few. But in HCM, this is HCM Cloud SaaS, 7nEleven,
+Aon, Aris Group, Baptist Health of South Florida, Cantor Fitzgerald, China State Construction Engineering
+Corporation, Cook County, Diebold, Habitat for Humanity, Liberty Mutual Insurance, State of Nebraska,
+SUPERVALU, the Southern Company, an unnamed large financial services firm in New York. That's also different
+from the large unnamed financial services firm we sold to in Q4.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 4 of 12
+Just a few ERP names, Advanced Auto Parts, ADAYO, Coach, Eurostar International, GlaxoSmithKline, Grupo
+Bimbo, Hilton, Honda Motor, Modine Manufacturing, Nestlé, Tata Communications, United States Steel, Work Fuel
+Services Corp. I could go on.
+With that, I'll turn it over to Larry.
+Lawrence J. Ellison
+Thank you, Mark.
+On October 1 at Oracle OpenWorld, we'll announce the next generation of the Oracle database. When we deliver it by
+the end of this calendar year, Oracle will become the world's first fully autonomous database.
+Based on machine learning, this new version of Oracle is totally automated, a self-driving system, that does not require
+human beings either to manage the database or tune the database. Using artificial intelligence to eliminate most sources
+of human error, enables Oracle to deliver unprecedented reliability in the cloud. We will be offering public cloud SLA,
+service level agreements, for the Oracle database that guarantee 99.995% systems availability time. 99.995%
+availability means less than 30 minutes of planned or unplanned downtime per year.
+To achieve that level of reliability, Oracle has to automatically tune, patch and upgrade itself while the system is
+running. AWS can't do any of the stuff. But perhaps the most interesting aspect of autonomous systems, like
+self-driving cars and our new self-driving database, are the economics that surround total automation.
+Self-driving cars eliminate the labor cost of driving, plus the high cost associated with human driving errors.
+Self-driving database eliminates the labor cost of tuning, managing and upgrading the database, thus avoiding all of the
+costly downtime associated with human error.
+Self-driving taxis are much cheaper to operate than taxis with human drivers. Running Oracle's autonomous database is
+much, much cheaper than running traditional human-driven databases like Amazon's Redshift. Customers moving from
+Amazon's Redshift to Oracle's autonomous database can expect to cut their costs in half or more, and Oracle will be
+providing SLAs that guarantee those cost savings to customers that move.
+Kenneth Bond
+Thank you, Larry. Holly, we can now queue up the group for the Q&A portion of the call.
+Q&A
+Operator
+Thank you. [Operator Instructions] Our first question is going to come from the line of Sarah Hindlian, Macquarie.
+<Q - Sarah Hindlian>: All right. Great. Thank you very much. Thanks for taking my questions and congrats on the
+quarter. The on-premise business is definitely doing better, but we're also seeing and hearing more about very large
+marquee customer wins across your cloud portfolio. And now your app business is actually growing 17% constant
+currency, which implies you're taking market share. So I'm wondering what you're seeing in terms of momentum in that
+cloud portfolio, and where you see that heading, and if there's really any benefit coming in from these large reference
+customers?
+<A - Mark V. Hurd>: Sure. Yeah. First of all, one thing you said about implying we're taking market share. I just
+want to make sure it's clear. We are, and that's why I've been trying to give this number over a longer period of time
+that the apps marketplace is growing low single digits, and obviously, we've been doing this for a long period of time in
+terms of growing at this rate. But there's no question, to your point, that when you can come out with references, like
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 5 of 12
+we have publicly with Bank of America, AT&T and others, it makes the next opportunity easy when you can reference
+customers at that level.
+So I think, again, and we said this before, but it probably bears saying again that, just sort of every aspect of selling in
+the cloud, I think the company holistically is getting better at. We're better, our products are better, our sales force is
+better, our ability to implement is better, our ability to do all of these things has just continued to improve quarter by
+quarter by quarter, and it manifests itself in the type of results we're talking about this afternoon.
+<A - Lawrence J. Ellison>: Yeah. I'll just add. If you look at the growth rate of our applications business in the cloud,
+in excess of 60%. And you compare that to either Workday or Salesforce, the two other major players, applications
+players in the cloud, they're not even close. So we're much bigger than Workday in applications, and we're growing
+faster, must be taking share. And they're our primary competitor in both HCM and ERP. Salesforce has been at it for
+15, 16, 17, 18 years. They've been at it for a very, very long time, but we sell more new applications customers than
+they do every year. In fact, let me be clear. We sell double, double what Salesforce sells in absolute dollars. We did it
+last year and we'll do more than that this year, and we're growing – and we're catching them very, very fast. So, to just
+reinforce what Mark said, we are taking share. We're taking share across the entire applications ecosystem, and we're
+taking share from our cloud – primary cloud customers as well – our cloud competitors as well.
+<A - Mark V. Hurd>: Sorry, just to add – sorry to elongate the answer, but we're going to talk more about this at
+Financial Analyst Day after Oracle OpenWorld concludes. But again, our support business and applications, when we
+do move a customer from our support business to our cloud business, we've now done several of these and we get
+materially more revenue. We've talked about this before, but it bears saying again, because we've sort of stopped
+talking about it, we get at least three times more revenue on a like-for-like basis when a customer moves from
+on-premise support to our cloud. And we've really just, just begun to move that user base, most of what's in our
+application cloud growth that Larry just talked about is new logos.
+<A - Kenneth Bond>: Next question, please?
+Operator
+Our next question will come from the line of Kash Rangan, Bank of America.
+<Q - Kash Rangan>: Hi, congratulations. One question for Mark and maybe one for Safra. Mark, can you talk about
+the – the new disclosure that came out, 8-K, you talked about some really ambitious plans for your SaaS business at
+$10 billion in revenue, PaaS and IaaS at $10 billion as well, can you talk about what kind of timeframe are you likely to
+achieve this? And how much of this is from acquisitions versus organic? And question for you, Safra. If you are able to
+achieve these ambitious targets laid out, how should we think about the margin structure of the company? That's it for
+me. Thank you.
+<A - Lawrence J. Ellison>: Kash, let me just jump in here and say that we also have an $80 a share stock price target
+as part of the comp plan. We also have a target that says we'll be double the market cap of IBM, double the market cap
+of SAP. I mean, there are a lot of targets here. In terms of margin, we have a cloud margin target that, I think, is 80%.
+So actually, we're well on our way to achieving in SaaS, our SaaS cloud margin target. So we expect the margins in our
+businesses to go up, the stock price to go up, for us to distance ourselves from, if you will, our legacy competitors and
+join the ranks of the new generation of tech companies, like as Microsoft has done and smaller companies, like
+Salesforce and Workday, that's where we position ourselves.
+So we think these are stretch targets and it will take several years to achieve them, but we think we are well on our way.
+We obviously believe they are achievable, but it will require sustaining the kind of performance we've delivered over
+the last several quarters.
+<Q - Kash Rangan>: And acquisitions, Larry, in this forecast, are they material or is it all organic?
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 6 of 12
+<A - Lawrence J. Ellison>: I would love – who would you – there's no one left to buy. It's not like there are a lot of
+obvious – as we focus on the cloud, there aren't a bunch of obvious targets we can go out and buy. So we're seeing our
+best growth in technology that we've developed internally. Our Fusion ERP, Fusion HCM, which is the mid-market and
+the high-end of ERP and midmarket and high-end of HCM, these are all internally developed systems. HCM and ERP,
+I think our blended rate is growing triple digits. The size of these markets are enormous and we think we'll be able to
+ride that horse, pursue that organic growth and meet our target.
+So I think it's going to primarily come from internally developed technologies, the growth of those technologies and us
+gaining dramatic amounts of share in applications in the cloud and with our new autonomous database, also in
+Platform-as-a-Service and Infrastructure-as-a-Service, we have to have all cylinders firing, but the bulk of our
+technologies that will determine our success, things like our database and our Fusion application suite, all organically
+internally developed.
+Operator
+And our next question is going to come from the line of Brad Zelnick with Credit Suisse.
+<Q - Brad Alan Zelnick>: Great, thanks very much and really nice quarter, guys, especially for a Q1. I've got a
+question for Mark and a quick follow-up for Safra. Mark, the apps ecosystem is off to a really strong start with 17%
+growth in the quarter. But with comps getting tougher in the back half of the year as you lap NetSuite, do you still feel
+that the apps ecosystem can achieve your double-digit growth goal for the full year?
+<A - Mark V. Hurd>: Yes. Yes, I think that I said this. I think towards the end of last fiscal year that I believe we
+grow roughly double digits in our applications ecosystem, and this Q1 did nothing more than reinforce my belief. This
+is what we – as good as it was, it's what we felt would happen and I believe you will see that for the full year. Our
+pipeline shows it; everything else we've got shows it, this will happen.
+<Q - Brad Alan Zelnick>: Great, thanks. And just for Safra. Safra, mapping cloud ARR to revenue has been fairly
+straightforward for SaaS, but less so for PaaS and IaaS. Is there any color you can give us just to help understand the
+revenue trajectory for PaaS and IaaS? Thanks very much.
+<A - Safra Ada Catz>: We're actually holding over 10 more points on the PaaS/IaaS right now because we've had a lot
+of orders and we are deploying them, and we'll only start recognizing them as they deploy. First of all, all of our cloud
+customer, a very large amount of it hasn't been fully out deployed. So you're going to start seeing these match up a lot
+more as we go ahead and deploy and get those up and running and live. I don't know, Mark, do you want to add
+anything?
+<A - Mark V. Hurd>: It's exactly right what Safra said. We just – I have good news. The good news is we have a large
+unprovisioned backlog. And so we will get that provisioned and you will start to see that fold into our Q2 and Q3
+numbers as we get that provisioned. So the good news is we've just got a lot of PaaS to go provision. I wish we got it
+all provisioned in Q1, but we didn't. So that's really the work that's got to get done.
+<Q - Brad Alan Zelnick>: Great.
+<A - Mark V. Hurd>: Thanks, Brad.
+<A - Kenneth Bond>: Next question, please?
+Operator
+Our next question will come from the line of Adam Holt with MoffettNathanson.
+<Q - Adam Holt>: Hi, everyone. It's good to be back on an Oracle call and to see you all executing so well. My
+question is on the cloud business and how that relates to the strengths on-premise. You were obviously very strong in
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 7 of 12
+both applications and infrastructure on-premise in the quarter. Do you think that the hardening of your cloud
+infrastructure and the strength in your cloud applications business is actually starting to have a positive impact on
+on-premise revenue? And how do you think that dynamic plays out going forward?
+<A - Lawrence J. Ellison>: The applications business and the cloud business, our applications business and the tech
+business transitions from on-prem to cloud are very different. As we move our application customers from on-prem to
+cloud, we're asking them to migrate from the E-Business Suite to Fusion. As they move from our HR, we're asking
+them to migrate from Oracle HR or PeopleSoft HR to Fusion HR in the cloud. So they're really changing applications.
+In the case of our technology business, where you're running the Oracle database on-prem, we're just asking you to lift
+and move your data into our cloud. There really is no technology transition at all. So you really can't look at these
+transitions as being similar things. The interesting thing, and it's very different than, let's say, Microsoft. Microsoft,
+they took their existing Microsoft Office customers and moved them to the cloud. So suddenly you can save documents
+in the cloud, Word documents or Excel documents, you move them to the cloud. That's what's meant by Office 365.
+That's very close to our database business, where we're just beginning to move them to the cloud. That's just taking
+existing applications. Actually, the new version of our database, as I mentioned, is greatly enhanced in the cloud, and
+there are real motives to move it from on-prem into the cloud. You have lots and lots of benefits, but it's not a
+technology change.
+In our apps transition, you actually move to a whole new technology stack. It was like almost moving to a new vendor,
+if you will. You move from Oracle E-Business Suite or PeopleSoft Financials or JD Edwards, all of these on-prem
+customers that we have, these on-prem business we have, and you move to Fusion Financial. That required a new
+implementation, retraining your people, and we did that. But that transition, as Mark just said, is just beginning.
+Most of our Fusion ERP customers, our Fusion HCM customers are new logos, and we don't expect when people move
+from their database – database from on-prem into cloud, we don't expect support to go away. We expect them just to
+bring their licenses into our cloud and you're paying support, you have the license, you own the license. Now you run it
+in our cloud and you pay us additionally for running in our cloud, just like if you move our – the Oracle database into
+the Amazon cloud, you pay them additionally.
+So it is simply lifting up your existing license, therefore you keep paying support, you keep paying support, and you
+add onto that Infrastructure-as-a-Service or Platform-as-a-Service fees associated with running it in our cloud. So we
+think that's a much easier transition for us than the transition we're making on the apps side of the business. And look
+how well the transition on the apps side of the business is going.
+<Q - Adam Holt>: Terrific, thank you.
+Operator
+And our next question will come from the line of Kirk Materne with Evercore.
+<Q - Stewart Kirk Materne III>: Thanks very much and I'll add my congrats on the quarter. Mark, obviously a lot of
+momentum in ERP right now. I was wondering when you look at where the market is today, if you think we're getting
+closer to more of a tipping point in terms of larger customers setting up to make decisions on moving their ERP
+systems to the cloud over the next 12 to 18 months. And when you talk to customers, what are some of the reasons or, I
+guess, feedback you're getting that gives you confidence in terms of taking market share in this cycle if we're about to
+go into one? Thanks.
+<A - Mark V. Hurd>: Yeah. Well, obviously, we're getting a lot of – we have strong growth. We had another
+acceleration just in terms of logos. We had acceleration of ERP logos this Q1 versus last Q1, so we had more closures
+in terms of numbers of accounts, and we had bigger companies looking. So it's significant to the point of your question.
+We also have more modules coming online. So if you look at what we've got in ERP now, we have more localizations
+across more geographies, and we now have our full suite of ERP, supply chain, procurement, manufacturing, now
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 8 of 12
+budgeting and planning all available. So it's the full suite now across almost all of our geographies.
+To Larry's point, I think it's worth stating a lot of our ERP customers now are new logos. Lots of new financials
+customers, and lots of companies that to be very blunt with you, Kirk, we would never have sold to five or six years
+ago. Companies that are really names, but when you come to Oracle OpenWorld, you'll see another string of customers
+who never had an Oracle application before until they bought Oracle Financials in the cloud. So it's that.
+Then, in addition to that, I think what really helps us is the fact that we are the only suite provider. So the fact that now
+a company instead of having a bunch of point solutions can have a suite of applications, and the opportunity for us to
+now bring HCM and ERP together to a customer gives us an incredible advantage across basically all of our customers.
+So you see now in the names I read off to you, lots of what I would call high-end midmarket low-end enterprise
+customers that are really the common persona of who we sell to, most of them new logos.
+I think you'll see that continue as we go forward. The best news I can give you is that as we start to bring our larger
+customers over, Oracle will get materially more revenue as we move that support, because we do everything for them.
+We do the hardware, we do the operating system, we do – it's our data center. We do really everything for them, and we
+get the extra revenue as a result of that.
+<Q - Stewart Kirk Materne III>: Thank you.
+Operator
+Our next question will come from the line of Phil Winslow, Wells Fargo.
+<Q - Philip Winslow>: Hi. Thanks, guys, and congrats on the great start to the year. I just wanted to focus on the
+platform and infrastructure side, in particular. And as you look at the overall numbers, you're still putting up very
+healthy growth rates here both, obviously, in the cloud with the PaaS offering, but also on-premise. Mark or Safra,
+wondering if you could double-click on just what you're seeing on the on-premise even as PaaS is ramping, that's
+keeping that business growing. And a question to Larry, obviously, we're excited to hear about the new features coming
+at OpenWorld. But when you think about the Oracle PaaS offering versus other infrastructure-as-a-service plus DBMS
+out there, why is it that the Oracle Cloud can lower cost more than these competitors and therefore make it gain share
+there?
+<A - Lawrence J. Ellison>: Okay, they're pointing to me. I guess they want me to go first. The reason we can lower
+cost is we just automate more. There's a big difference between – what Amazon basically does, what they pioneered
+was this notion of we will rank you based on what you use on our compute and storage, and you can kind of bring
+whatever – and they offer a couple of databases. They offer Aurora, which is MySQL, their version of MySQL, and
+they offer Redshift, which is another – their version of an open-source database. They made some changes to it. It's no
+longer open source, it's from Amazon for queries and OLTP, but these are technologies that are not automated. These
+are, if you will, old-fashioned technologies and a newfangled cloud data center, and available for rental. So it's kind of
+an interesting new business model, but their database technologies are not very advanced at all. They just picked them
+up under open-source.
+Our database, especially the latest generation of our database, totally automates everything. You don't – you push a
+button and load your data, and you're done. You don't have lots of tuning parameters, and lots of things to set up like
+you do with Amazon. Amazon requires a lot of labor to set up an online transaction processing system based on
+Aurora. That's a lot of labor. It's MySQL. It's kind of our – it's code that we maintain. We know it very, very well. Very
+different than Oracle. You press a button, load your data and run your analytics. It tunes itself. It backs itself up. It
+patches itself. It never goes down and it's much, much, much faster.
+I keep saying it's much, much, much faster. And then someone will say well we don't need that speed. Well let me
+translate. If it's much, much, much faster and if it does in an hour what Redshift does in 10 hours, it's one-tenth the cost
+of running at Amazon because we charge the same amount per hour. So we take out the labor cost, and because we
+consume less CPU and we compress the data, and we consume less storage, it's much – we're much more frugal about
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 9 of 12
+using compute and storage resources, and we eliminate the labor costs and the costs associated with human error. So
+we're not even trying to do the same thing as Amazon.
+<A - Mark V. Hurd>: To your other question, Phil, listen I think there's a strong interest across the board. Listen,
+we've got obviously new features that come with Release 12. You know about all those with multi-tenant, within
+memory, et cetera. Obviously, our security options are very important given the world that we live in today. We have a
+desire for many of our customers to get out of all this work, to get out of patching, to look at modernizing their
+infrastructure. You may have heard what AT&T talked about. They will also be an Oracle OpenWorld, and you'll hear
+a lot more directly from them. But the need to not just consolidate, not just get the new features to modernize those
+applications, but to get out of all this work to the point that Larry's describing about. Now the fact that I can't deal with
+the amount of time it takes to patch all of these hybrid environments that I've got. Now somebody, i.e., Oracle is going
+to do that for me. They're going to modernize the database and they're going to give me all these features, but you have
+to take all that work off my shoulders.
+So there's a tremendous amount of this. Now to Larry's other point. Remember, most of our customers stick with
+somebody like AT&T. They have over 10,000 Oracle databases in that company; 10,000. So you're going to have a
+handful of those big ones move to the cloud. There's still going to be quite a few those that stay on-premise for a period
+of time. So that work is just a lot of work for us to help, and this is the beginning of a whole string of customers, they're
+going to go through this process to modernize their database environments.
+<A - Kenneth Bond>: Next question, please.
+Operator
+Our next question will come from the line of John DiFucci, Jefferies.
+<Q - John DiFucci>: Thank you. Thanks. I have – Safra, I've a quick – just a very quick question on the guidance, and
+if I could ask another question. Just a clarification. You said total revenue could see I think a 3% benefit on top of the
+2% to 4% guidance you gave for total revenue, right? And I know the math is really here, but I just want to make sure,
+that implies, I believe a 5% to 7% reported revenue growth if you get that 3% FX effect? Is that right, am I doing that
+math...?
+<A - Safra Ada Catz>: So, for USD, I'm going to go through the entire thing in USD for you guys. Because you are
+not the only note in fact, you are not the only note. You are not the only note. So, I'm going to go through it. For total
+cloud, 41% to 45%.
+<Q - John DiFucci>: Okay.
+<A - Safra Ada Catz>: It really comes out like 4.5% to 6.5% but I'm going to say 4% to 6% in total revenue. And then
+EPS $0.66 to $0.70 making EPS growth somewhere between 7% and 13%. Okay? So that can help.
+<Q - John DiFucci>: That's very helpful, but I'm the only note you need to read. But that's okay.
+<A - Safra Ada Catz>: They're all like, could you do it for me?
+<Q - John DiFucci>: Only, but just kidding.
+<A - Safra Ada Catz>: And it's a fair question, because there are a bunch of rounding, 5% to 7%, 4% to 6%, it's
+somewhere in the middle there. So I'm always being conservative, so I'll say 4% to 6% on this call for you, but you
+know me. Okay. Was there another question was somebody else...
+<Q - John DiFucci>: Yeah. Just a quick one. It's great to see the model work in the SaaS business with scale driving
+leverage here. And I know you say we're also going to get leverage in the PaaS and infrastructure-as-a-service business
+at scale. Again, I know there's a lot of variables here, but can you help us when we're looking out of when we might see
+this happen? When we might see this turn, either the timing next year or the year after, or even the scale when the
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 10 of 12
+business hits approximately what scale?
+<A - Safra Ada Catz>: Okay. So it's a little bit complicated because there is a mix between IaaS and PaaS. PaaS in
+particular, extremely, extremely, extremely profitable and, however, there's really a question of when the revenues get
+recognized and how much investing I have to do and how we lined those up. So we are, just like you saw in SaaS, I
+know that at the time it seemed absolutely impossible that we would have the kind of margins we now have in SaaS. It
+seemed impossible, and yet they came. And now we're closing in on 80%, so much so that I actually went ahead and
+gave you sometime next year for that hitting.
+PaaS and IaaS are very much, at least at this point, in the expansion period. We expect this to be a very large business,
+though we remain very conscious of the margins. And so we're trying not to invest too much ahead of revenue
+recognition, but as you see, in this quarter alone, we have a lot that has yet to be deployed, fully deployed, even though
+it's fully provisioned, even though the equipment is all bought and being capitalized. So this is really – I can't give you
+an exact time because we're going to be very much monitoring demand and reacting to that. And for us, it's much more
+important that we expand quickly, of course, mindful of margin dollars, sometimes not as mindful necessarily of any
+inter-quarter margin percentages. So I don't know if you want to add anything
+<A - Mark V. Hurd>: Listen, I think, John, there's no mystery to this, right? This is just like the SaaS business. You
+have to build out some initial infrastructure to get started. You have to build it, and unfortunately, you have to put it
+online before you can sell it, and that's what this is. There is a startup cost to getting into these businesses. We're past
+that in SaaS. We're deployed now in virtually all of the critical geographies, and we now have scale in most of the
+critical geographies. And so you see it just show up in the margin rate as it has.
+We're going through that same process in infrastructure. The great news for us, we know how this works. We know
+how to get it done. We know how to measure it. We know how to get from here to there, and so you'll see the same
+results. And so it's just a factor of time, scale, and bookings, and to Safra's last point, the ability then for us to get it
+provisioned so we can then recognize the revenue. So this is going to happen, John.
+<Q - John DiFucci>: Okay, thank you. That all makes sense, but should we expect that we might need more scale?
+Would it develop similarly to how SaaS did, or would we expect to hit certain margins, we'd have to get even greater
+scale in this business?
+<A - Mark V. Hurd>: No, I don't think there's any material difference in the context of scale. There's the same
+fundamentals, that's what I'm trying to go through.
+<Q - John DiFucci>: Got it.
+<A - Mark V. Hurd>: You've got a startup cost. You've got to get a data center. You've got unused capacity to get
+started, and then the increments of capacity to bookings comes at a very attractive margin rate. So think of it as you
+have a baseline of X, and then I get a booking, and then I have a little bit of capacity per booking, so to speak. It's not
+exactly how it works but for the sake of your analytics at how it works, and we know what that increment of capacity is
+for that booking. And then it's just a question of scale from there. So you take the unused piece, and then for each
+booking, you get so few – a couple of few cents on the dollar that you have to add for incremental capacity, and it just
+becomes the time it takes to get to scale. That's it.
+<Q - John DiFucci>: Great, that's very helpful. Thanks.
+<A - Mark V. Hurd>: Sure.
+Operator
+And our final question for today will come from the line of Raimo Lenschow of Barclays. Raimo, your line is open.
+<Q - Raimo Lenschow>: Thank you. Maybe in anticipation of the Analyst Day, just a slightly more broader question.
+Larry, you started to use AI to come up with the autonomous database. Can you talk a little bit about like what more or
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 11 of 12
+how you see this whole thing evolving? Because there's obviously a lot of noise, a lot of hype around it. Some of the
+other competitors of yours come up with fancy names here. How do you guys see this play out for you guys? Thank
+you.
+<A - Lawrence J. Ellison>: We're using machine learning all over the place. Everything from at the very highest level
+to in our HR systems, our recruiting systems, to look at a bunch of candidates and inspect the data of people that this
+company has hired that have been very successful and people who have been less successful, so we can actually start to
+bucket the candidates. This group, you've got 200 people you're looking at hiring, and the 50 over here look very much
+like the 50 people that you hired over the last five years that have been enormously successful for the company. And
+that's a matter of using machine learning to just look at the profiles of individuals a company has hired over a period of
+time and make recommendations on how to prioritize candidates that they're looking at making offers to.
+All the way from that level to our new security systems which are going in now, where we're doing log inspection,
+where we're looking at people. And the logs we look at, unlike anybody else, we are in the applications business we are
+in the database business, and we're in the cloud infrastructure business looking at network, network logs and operating
+system logs, and storage hardware logs. We're also looking at database logs.
+We're looking at people trying to log on to application systems and the passwords they're using. We have all of these
+logs and we're processing all of these logs in our cloud to, for example, looking – trying to find people who are going to
+attack a database and steal passwords and steal data. And we think we do this better than anybody because we look at
+more data. We look at application data. In other words, we suddenly notice that your CFO is in the Ukraine trying to
+log on 50,000 times in the middle of the night. Maybe your CFO is not vacationing in the Ukraine and that's not her,
+and there could be a problem and someone's trying to break in.
+We look at that level of data all the way down to IP addresses, that are strange IP addresses trying to figure out – again,
+we look at strange SQL tapes. Anyway, we do much – we look at 10 times more log information than someone like a
+Splunk who is inspecting IP addresses, but not login information. So we get a much better picture of all the activity of
+what's going on inside your data center, and use machine learning to inspect this vast amount of data, and see if
+someone's in the reconnaissance phase prior to an attack where we can shut them off while they're looking around
+before they actually attack anything and start stealing passwords and start stealing data. Again, that's also all machine
+learning.
+We're offering that technology again in OpenWorld. We're offering – the customers can ship their logs from their data
+center into our cloud and we'll do all of that; security, reconnaissance and the security work for them. And the more of
+this information we have the better equipped we are to find malware. You find malware showing up in let's say
+Germany, and we know what it looks like and suddenly we have worldwide alerts because – worldwide alerts that – to
+recognize that malware that should show up in California or at a – and as we know, there's a lot of – security is getting
+more and more important these days. The events at Equifax, very unfortunate events at Equifax is not going to be an
+isolated incident. You're going to see more and more things like this. You saw it at the Government's Office of
+Personnel Management which was disastrous for our intelligence community.
+We've got to do a better job. We've got to do a better job of securing not only our cloud but our customers' data centers,
+getting all of that log data, using machine learning to – and basically what is a cyber war that's going to be ongoing for
+a long, long time. So everything from helping companies using AI to help companies hire the right people to helping
+data centers, both private data centers and public data centers protect against intrusions. It's an important new
+technology and it's the center of what we're doing with database automation, security and our applications.
+<Q - Raimo Lenschow>: Great. Thank you.
+Kenneth Bond
+A telephonic replay of this conference call will be available for 24 hours. Dial-in information can be found in the press
+release issued earlier today. Please call the Investor Relations department with any follow-up questions from this call.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2017-09-14
+Event Description: Q1 2018 Earnings Call
+Market Cap: 218,375.44
+Current PX: 52.79
+YTD Change($): +14.34
+YTD Change(%): +37.295
+Bloomberg Estimates - EPS
+Current Quarter: 0.685
+Current Year: 2.956
+Bloomberg Estimates - Sales
+Current Quarter: 9522.769
+Current Year: 39529.500
+Page 12 of 12
+We look forward to speaking to you. Thank you for joining us today. With that, I will turn it back to Holly for closing.
+Operator
+Thank you. Thank you for joining today's Oracle's first quarter 2018 earnings conference call. We do appreciate your
+participation and ask that you please disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2017, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
