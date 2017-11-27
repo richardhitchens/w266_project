@@ -1,0 +1,678 @@
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 1 of 15
+Q3 2015 Earnings Call
+Company Participants
+• Michael T. Stefanski
+• Francis J. Shammo
+Other Participants
+• Simon Flannery
+• David William Barden
+• Philip A. Cusick
+• John C. Hodulik
+• Michael L. McCormack
+• Michael I. Rollins
+• Amir Rozwadowski
+• Brett Joseph Feldman
+• Craig Eder Moffett
+• Jonathan Atkin
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning and welcome to the Verizon third quarter 2015 earnings conference call. At this time, all participants
+have been placed in a listen-only mode, and the floor will be open for questions following the presentation. [Operator
+Instructions] Today's conference is being recorded. If you have any objections, you may disconnect at this time.
+It is now my pleasure to turn the call over to your host, Mr. Michael Stefanski, Senior Vice President, Investor
+Relations.
+Michael T. Stefanski
+Thanks, Brad. Good morning and welcome to our third quarter 2015 earnings conference call. This is Mike Stefanski,
+and I'm here with our Chief Financial Officer, Fran Shammo. Thank you for joining us this morning.
+As a reminder, our earnings release, financial and operating information, the Investor Quarterly, and the presentation
+slides are available on the Investor Relations website. A replay and a transcript of this call will also be made available
+on our website.
+Before we get started, I would like to draw your attention to our Safe Harbor statement on slide two. Information in this
+presentation contains statements about expected future events and financial results that are forward-looking and subject
+to risks and uncertainties. Discussion of factors that may affect future results is contained in Verizon's filings with the
+SEC, which are available on our website.
+This presentation contains certain non-GAAP financial measures. Reconciliation of these non-GAAP measures to the
+most directly comparable GAAP measures are included in the financial materials we have posted on the website. The
+quarterly growth rates disclosed in our presentation slides and during our formal remarks are on a year-over-year basis
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 2 of 15
+unless otherwise noted as sequential.
+Before Fran goes through our results, I'd like to highlight a few items. For the third quarter of 2015, we reported
+earnings of $0.99 per share on a GAAP basis. These reported results include a non-cash pre-tax charge of $342 million
+or $0.05 per share for a pension remeasurement adjustment due to a settlement accounting threshold that was met in the
+third quarter. Excluding the effect this non-operational item, adjusted earnings per share was $1.04 for the third quarter
+compared with $0.89 a year ago, or growth of 16.9%. There were no special items of a non-operational nature in the
+third quarter of 2014.
+Through the first nine months, adjusted earnings totaled $3.10 per share compared with $2.65 per share last year.
+However, as we have consistently pointed out, last year's adjusted EPS would have been higher on a non-GAAP
+illustrated basis if we assumed 100% wireless ownership for the entire first quarter. On this more comparable basis, the
+adjusted EPS growth rate was about 14% for the first nine months of 2015.
+As a reminder, our Wireline results include the operations in the three states that we agreed to sell to Frontier. These
+operations will be included until the transaction closes, which we expect at the end of the first quarter of 2016. Also, as
+previously noted, we are no longer recording depreciation expense on these assets, as they are classified as held for
+sale. We continue to estimate that the full-year 2015 earnings benefit of lower depreciation expense will be about $0.13
+per share.
+In terms of the AOL acquisition, which closed in late June, our third quarter consolidated results include the operations
+of AOL, which are reported as part of Corporate and Other. We have not restated prior history, so periods prior to the
+third quarter of 2015 will not include AOL results.
+With that, I will now turn the call over to Fran.
+Francis J. Shammo
+Thanks, Mike. Good morning, everyone. Our third quarter and year-to-date results demonstrate that we continue to
+execute on the fundamentals of our business and deliver strong financial performance while actively positioning the
+business for future growth and profitability. We are very committed to building the business for the future, and we are
+doing so through investments in our existing networks as well as the platforms that will position us to capture
+incremental profitable growth in new areas like mobile video and the Internet of Things.
+We continue to execute a disciplined capital allocation model. In addition to our consistent investment strategy, we are
+also committed to returning value to shareholders and maintaining a strong balance sheet. We've had a very active year
+with capital investments and spectrum purchases which position us for the future growth, the strategic acquisition of
+AOL, and the return of more than $11 billion in value to shareholders in the form of dividends and share repurchase
+while remaining on track with our previously stated deleveraging plan.
+In early September, our Board of Directors approved a 2.7% dividend increase, which raises our annualized dividend to
+$2.26 per share. This was the ninth consecutive year that our board has approved a dividend increase, affirming their
+confidence in the strength of our future cash flows.
+On the operational front, our focus is to provide customers with consistent network reliability and a great customer
+experience, and we are competing very effectively in all parts of the business. We once again delivered strong earnings
+growth and free cash flows. In Wireless, we posted another quarter of quality connections growth and profitability, with
+sequential improvements in postpaid gross and net adds as well as net phone additions. Postpaid net adds totaled 1.3
+million, which does not include any wholesale or Internet of Things connections. Net phone add additions were
+430,000.
+Customer retention was also a highlight, with postpaid churn of 0.93%, down seven basis points from last year. Total
+Wireless revenue grew 5.4%, and our EBITDA margin expanded. Our Wireline quarter results were highlighted by
+FiOS revenue and customer growth, with sequential increases in both Internet and video subscribers. Our segment
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 3 of 15
+EBITDA margin of 23.5% was up 50 basis points.
+Now let's get into our third quarter performance in more detail, starting with our consolidated results on slide four.
+Total operating revenue was $33.2 billion, an increase of 5% which, as Mike indicated, includes revenues from AOL.
+Excluding AOL, which was not part of Verizon a year ago, our top line growth was 3.1%. Our consolidated revenues
+have been consistently driven by customer and usage growth in both Wireless and FiOS.
+Our overall revenue mix continues to change, driven by the unsubsidized equipment model, increasing video demand in
+Wireless, and a higher mix of broadband and FiOS. As these trends evolve over the near term, we expect future
+revenue growth to result from increased video and Internet of Things traffic, enabling new business models in Wireless
+and continued broadband demand in Wireline.
+In terms of our mobile video strategy, earlier this month we were the first to market with the commercial launch of
+go90, a differentiated mobile-first social entertainment platform. Go90 includes a broad selection of premium content
+and social engagement features and the capability for sharing and conversation around the content. The initial feedback
+has been strong, with increasing engagement without significant promotion, and we have received positive industry
+recognition. As go90 develops, we will be adding more great content features and advertising opportunities. You can
+expect a flow of product enhancements, creating a new ecosystem for digital creators and advertisers, and a video
+consumption model that we can monetize in multiple ways.
+AOL is expected to play a key role in the success of our video strategy. The acquisition of AOL significantly improves
+our digital media and advertising capabilities. These capabilities will be a key component of our video business model,
+which will be driven by digital mobile advertising in the future. We are taking a strong leadership position in the
+Internet of Things. With our experience in networks, devices, platforms, and applications, we are creating an ecosystem
+that will foster innovation and expand the entire IoT market.
+Here are a few examples of our early initiatives. In August, we announced the commercial availability of hum, an
+aftermarket vehicle technology and subscription service, creating a connected car driving experience that can operate in
+more than 150 million vehicles in the United States. We are very active in Smart City Solutions market, and we have
+already announced a partnership with the city of Savannah, Georgia. Municipalities like Savannah are looking to take
+advantage of our intelligent solutions to integrate disparate systems, monitor traffic and safety conditions in real time to
+improve efficiency and public safety.
+These are just a few examples of the many opportunities we are pursuing. We are very well positioned to capitalize on
+these new opportunities that require both the ubiquity of mobile service and the capabilities of platforms above the
+connectivity layer. This will enable us to monetize usage through new commercial models, including data analytics and
+applications.
+New revenue streams from the Internet of Things continue to emerge and grow, with revenues of $175 million in the
+quarter and about $495 million year to date. As our revenue mix expands, we are focused on improving the customer
+experience while reducing our overall cost structure through process improvements and operating efficiencies.
+The focus on cost structure has enabled us to sustain a strong earnings profile. Consolidated EBITDA totaled $11.9
+billion, up 7.5% on an adjusted basis, and our adjusted EBITDA margin expanded by 80 basis points to 35.8%.
+Let's turn now to cash flows and the balance sheet on slide five. Cash flows from operations were $9.5 billion in the
+third quarter and totaled $28.4 billion year to date. The nine-month total included just under $2.4 billion of proceeds
+related to the tower monetization transaction, which is non-recurring. In the third quarter, we continued to securitize
+Wireless equipment installment receivables and received about $2 billion in cash proceeds. Free cash flow for the first
+nine months excluding the tower proceeds totaled $13.5 billion.
+Capital expenditures were $4.4 billion in the quarter and $12.5 billion year to date. We expect capital expenditures for
+2015 to be within our stated range of $17.5 billion to $18 billion.
+Our balance sheet remains strong and enables the financial flexibility to grow the business. We ended the quarter with
+$112.3 billion of gross debt, net debt of $108.4 billion, and a ratio of net debt to adjusted EBITDA of 2.4 times.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 4 of 15
+Now let's move into a review of the segments, starting with Wireless on slide six. In the Wireless business, revenue
+growth, profitability, and cash flows are driven by our high-quality retail postpaid customer base. Total Wireless
+operating revenues grew 5.4% in the quarter to $23 billion. Service revenue of $17.6 billion declined 4.1%, while
+equipment revenue increased to $4.3 billion, up 73%. Service revenue plus installment billings increased 1.2%. Service
+revenue growth will continue to be pressured and equipment revenues will grow as the activation rate for device
+installment plans increase and more of the customer base moves to unsubsidized service pricing.
+In early August, we simplified our pricing structure, centered on the device installment model. The pricing change
+simplified the customer experience at the point of sale and provided a cleaner structure for managing their accounts.
+Existing customers can still choose to sign a two-year service contract and remain on subsidized pricing when
+upgrading to a new device. Additionally, business customers do not generally select device installment plans.
+Consistent with our expectations, the percentage of phone activations on installment plans grew at about 58% in the
+third quarter compared with 49% in the second quarter and 12% in the third quarter of last year.
+In the fourth quarter, we expect the percentage of phone activations on device installment plans to increase to around
+70%. During the quarter, 5.6 million phones were activated on device installment plans. We have about 19 million
+device payment phone connections in total, representing approximately 22% of our postpaid phone base. Overall, more
+than 30% of our postpaid phone customers are on unsubsidized service pricing.
+In terms of profitability, we generated $9.9 billion of EBITDA in the quarter, an increase of 9.2%. Our EBITDA
+service margin increased to 56.4%, up from 49.5%. As we have said before, we believe a more relevant measure of
+profitability is EBITDA as a percentage of total Wireless revenue, which expanded to 43.2%, up 160 basis points. On a
+year-to-date basis, our EBITDA margin was 43.9%, up 100 basis points from a year ago.
+Now let's turn to slide seven and take a closer look at Wireless connections growth. We ended the quarter with 110.8
+million total retail connections. This total does not include any wholesale or Internet of Things connections. Our
+industry-leading postpaid connections base grew 4.9% to 105 million, and our prepaid connections total 5.7 million.
+Postpaid gross additions improved sequentially to 4.2 million. Our disciplined focus on customer retention resulted in
+improved postpaid churn of 0.93% in the quarter compared with 1% a year ago. Each quarter this year, we have
+improved our year-over-year postpaid churn rate between four and seven basis points.
+We are very focused on improving the customer experience through simplified pricing and better execution in our
+distribution channels. We are seeing lower customer service call-in rates, which is an indication of improved customer
+satisfaction.
+Our retail postpaid net additions of 1.3 million were high quality, with a sequential improvement in the number of 4G
+smartphone and total phone net adds. We added 889,000 new 4G smartphones in the quarter, which were partially
+offset by a net decline in 3G smartphones, resulting in 694,000 net new smartphones. Total postpaid phone net adds
+totaled 430,000, which included a net decline of basic phones. Tablet net adds totaled 818,000. Net prepaid devices
+declined by 80,000.
+Let's now take a look at 4G device activations and upgrades on slide eight. Total postpaid device activations totaled
+11.6 million in the quarter, down about 1.2%. Similar to prior quarters, about 84% of these activations were phones,
+with tablets accounting for the majority of the other device activations. We ended the quarter with 71.5 million
+smartphones in total, and our smartphone penetration increased to more than 82% of total phones. 4G devices now
+comprise more than 76% of our retail postpaid connections base.
+As you would expect, growth in 4G device adoption continues to drive increased data and video usage. Approximately
+89% of our total data traffic is on the LTE network, and overall traffic on LTE has increased by about 75% in the past
+year.
+About 7% of our retail postpaid base upgraded to a new device in the third quarter. The quality of our overall postpaid
+phone base continues to improve. Through gross adds and upgrades, our 4G smartphone base has increased by roughly
+34% in the past 12 months to 64.6 million. We still have a sizable 4G upgrade opportunity, with roughly 15 million
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 5 of 15
+basic phones and nearly 7 million 3G smartphones remaining in our postpaid connections base. Tablets are also
+underpenetrated in our postpaid base at only 10%.
+Wireless capital spending totaled $2.9 billion in the quarter and $8.5 billion year to date, up 8.4% from a year ago. We
+continued to invest in our 4G LTE network to provide the industry's best reliability and to position ourselves to capture
+the efficiencies and capabilities of new technologies. We are focused on improving our network capacity through a
+number of optimization techniques, effective management of our spectrum inventory, and further densification in urban
+markets.
+Our densification program is progressing well and is achieving the capacity gains that we expected on the spectrum that
+is in service. For example, in Chicago we are on our plan for small cell deployments, covering key locations with
+distributed antenna systems and expanding our in-building coverage. This has helped support approximately 75% data
+growth on the network while maintaining our number one ranking in network quality according to both internal and
+external competitive benchmark studies. National studies continued to consistently rate Verizon as the overall 4G LTE
+network performance leader. We lead in what matters most to customers, coverage and consistent reliable performance.
+Densification is just one aspect of our network evolution strategy. We are working on centralizing network radio
+control to enhance capacity and provide operational efficiencies while beginning to implement a software-defined
+network architecture, laying the groundwork for new innovative services and applications.
+We are extending our network leadership into 5G with our announcement several weeks ago that we are leading a
+technology forum with key partners to ensure the aggressive pace of innovation, standard development, and appropriate
+requirements for the next generation of wireless technology.
+Let's move next to our Wireline segment, starting with a review of our consumer and mass markets revenue
+performance on slide nine. In the consumer business, FiOS continues to be the driver of revenue growth and now
+represents 79% of consumer revenue. In the third quarter, consumer revenue grew 2.8%. And mass markets, which
+include small business, grew 1.8%. As we expected, there was a change in the consumer revenue growth trajectory.
+The primary reason for the decline is driven by lower pay-TV subscriber growth and an increase in customers
+right-sizing their existing bundles.
+While FiOS broadband continues to grow, we are seeing a decline in the percentage of triple play customers. In
+addition, we continue to see interest in our custom TV offering, which offers more choice and control at a lower price
+point. We expect the continued adoption of custom TV will pressure revenue growth, but result in a higher contribution
+margin.
+In the third quarter, FiOS consumer revenue grew 7.1%, driven primarily by broadband subscriber growth and
+increased penetration of Quantum. Our Quantum broadband service continues to scale, and because there are no
+content costs, has a higher profitability contribution. At the end of the quarter, roughly two-thirds of our consumer
+FiOS Internet customers subscribed to data speeds of 50 megabits per second or higher. We are seeing the highest rate
+of growth in the 75-megabit speed tier, where one-fourth of our Quantum customers currently subscribe.
+As I highlighted earlier, FiOS subscriber growth improved sequentially in the third quarter. In broadband, we added
+114,000 net FiOS customers and now have a total of 6.9 million FiOS Internet subscribers, representing 41.7%
+penetration. Overall, net broadband subscribers increased by 2,000 in the quarter. In video, we added 42,000 net
+customers in the quarter and now have a total of 5.8 million FiOS video subscribers, which represents 35.6%
+penetration.
+We are working closely with Frontier to finalize the sale of our Wireline properties in Florida, Texas, and California,
+and to obtain the necessary regulatory approvals and ensure a seamless transition. We are making good progress and
+have secured approvals from the DOJ, FCC, and the state of Texas. We expect to close the deal at the end of the first
+quarter of 2016. As we prepare to divest of these properties, we are focused on reducing our shared cost structure
+post-transaction. In addition, we will also take this opportunity to significantly reduce the broader cost structure of the
+entire Wireline business.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 6 of 15
+Let's turn to slide 10 and cover enterprise and wholesale as well as the Wireline segment in total. In the enterprise
+space, we continue to work through secular and economic challenges. In the third quarter, global enterprise revenue
+declined 4.9%, and on a constant currency basis was down about 3%. In our global wholesale business, revenues
+declined 5.1% in the third quarter. In both businesses, we continue to see similar trends impacting growth, with secular
+declines in legacy transport revenue and competitive price compression in other services.
+Total operating revenues for the entire Wireline segment was down 2.3% in the quarter. The segment EBITDA margin
+was 23.5%, up 50 basis points, and on a year-to-date basis expanded 20 basis points to 23.2%.
+As we have consistently stated, we are very focused on expanding margins and improving the profitability of the
+Wireline segment. We are committed to reducing our cost structure while maintaining strong customer satisfaction. We
+have achieved savings from restructuring our network and service provisioning and are seeing improvements in
+productivity. We will continue to re-engineer our work processes to improve efficiency and reduce costs, with some of
+the future savings depending on timing and the outcome of our current labor negotiations.
+Capital spending in the Wireline was $1.2 billion in the third quarter and totaled $3.4 billion year to date, down 18.6%.
+Let's move next to our summary slide. Throughout 2015, we have executed on the fundamentals of the business,
+growing high-value customers and delivering strong financial and operating results, and generating free cash flows. We
+have also continued to consistently invest in our networks and platforms to position us for the future growth. Our
+year-to-date consolidated revenue growth was 3.3% after adjusting for the inclusion of AOL this quarter and the sale of
+the public sector business in 2014. On this same basis, we continue to expect revenue growth of at least 3% for the full
+year 2015.
+Our adjusted EBITDA was up 6.4%, with margin expansion of 80 basis points to 36.6%. Excluding the tower proceeds,
+cash flows from operations were up about 13% year to date, and free cash flow totaled $13.5 billion. We have added 3
+million net postpaid Wireless subscribers, including total phone net adds of 613,000. Our new customer growth is high
+quality, with 2.4 million new 4G smartphone customers and 2.5 million new 4G tablets. We have also improved the
+quality of our postpaid base through upgrades and effective customer retention and have approximately 10 million
+more 4G smartphone customers than we did at the beginning of this year.
+In FiOS broadband, we have added 319,000 new subscribers and 158,000 in FiOS video. We are very focused on
+developing new products and services in mobile video and the Internet of Things to monetize usage on our networks
+and expand our revenue mix. In time, these incremental revenues will become more meaningful to our overall top line
+growth. The launch of new products like go90 and hum are examples of where we can monetize usage at the network
+and platforms layers, providing more diversity to future revenue streams.
+With that, I will turn the call back to Mike so we can get to your questions.
+Michael T. Stefanski
+Thank you, Fran. Brad, we're now ready to take questions.
+Q&A
+Operator
+Thank you. [Operator Instructions] Our first question comes from Simon Flannery of Morgan Stanley. Your line is
+open.
+<Q - Simon Flannery>: Thanks very much. Good morning, Fran. I think Lowell [McAdam] had talked recently about
+earnings plateauing in 2016. Could you just give us a little bit more color about the puts and takes with the Frontier
+divestiture during the quarter, during the end of first quarter, and all the cost cutting? And then any updates on the 600
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 7 of 15
+MHz auction given that the application rules came out last week? Thank you.
+<A - Francis J. Shammo>: Sure. Good morning, Simon.
+<Q - Simon Flannery>: Good morning.
+<A - Francis J. Shammo>: So on the comment about the plateau of earnings, I guess it's – first off, let's start with the
+simple piece, which is some of it's just pure math. So when you look at this Wireless model and converting from a
+subsidized phone model to an installment plan model, as we've been pretty transparent with all of you, there was a
+GAAP accounting that falsely increased the earnings of any company who adopted this model. And we've tried to be as
+transparent as possible, giving you the baseline in the beginning, but that became more complicated.
+And what we've said going forward is, look, the better measurement here is not service margin EBITDA but regular
+EBITDA percent on total revenue because that normalizes out the fact that we're now recording 100% of the revenue
+up front for the sale of the equipment rather than a subsidy and then recouping that through service pricing over a
+period of time. So when you take that into consideration, as you plan out the curve on the installment sale and
+penetration of the base, and I said in my prepared comments our base is trending – 30% of our base is already on this
+new pricing. So as you go into 2016 and you get into that 50%, it starts to normalize out the earnings impact that was
+accelerated through the year 2015.
+So I guess what I would say is if you took out the impact of that in 2015 and you look at 2014 to 2015 earnings growth,
+you probably get a more normal growth trend than what we're delivering in double-digit growth now. And then if you
+put that normalization to the 2016, we'd actually would have grown earnings. But because of the math exercise here,
+you're getting a flatness in that GAAP accounting. So that's part of it.
+The next piece of it is, as we've said also, with the divestiture of the Frontier properties in the South, these are classified
+as properties for discontinued operations. And for the year, we're anticipating that's going to be a $0.13 to $0.14 EPS
+lift because we can discontinue the depreciation of those properties. So again, that has to get normalized out as we go
+into 2016. So if you looked at it today, we're reporting $3.10 to date. We have about $0.11 of benefit. So it would be
+around $2.99 versus $2.65 of last year.
+The next thing is if you look at the divestiture of those properties, as we've said, these are higher-margin properties.
+And since we are more of a centralized cost base company, we have a lot of allocations into those three properties. So
+as I said before when we announced the sale, we have this what we call stranded cost that we need to work out of the
+business since the time that we announced this.
+And look, I think we've proven a great track record here in Wireline that we know how to do this. If you look at year
+over year, we are down over 8,000 resources because of all the system enhancements and profit improvements that
+we've made through processes and front-line execution on more online billing and so forth. So we know how to do this
+and we've got about five more months to go, but we also have to consider the fact that we're in the middle of a labor
+negotiation and some of those benefits won't be realized until we come to an agreement with the labor.
+So this is more of a timing issue on this one. We will realize those benefits. As you know, the last time we entered into
+a labor negotiation we said we would incur about $500 million worth of savings over the three years, and you can see
+that coming through the EBITDA of Wireline. So I think that's important.
+And then, of course, the last piece of this is, as you can see in our results this quarter, you're seeing more of a ramp in
+corporate for the startup businesses. So as any startup business goes, you incur losses up-front because you're investing
+in the product development, you're investing in the marketing and the promotional of that new business. And that's
+going to be a drag on earnings through 2016 because the revenue will not catch up with the cost. So when you take all
+that into consideration, that's where Lowell was mentioning and forecasting more of a flat, if you will, or plateau for
+2016.
+<Q - Simon Flannery>: And that's a GAAP ...
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 8 of 15
+<A - Francis J. Shammo>: And, Simon, on the update of the 600 MHz, look, as you know, applications participants as
+buyers. The FCC did some forward part of the auction, which are expected to be due in January. And the whole
+purpose of this was to give the broadcasters a sense of what the bid would be that they would receive. And now the
+broadcasters have that chance to look at that and decide whether they're going to participate or not.
+I think one important thing here though, too, is that after we saw the abuse in the AW-3 auction by DISH, I think the
+FCC should learn from this and not give preferences to large corporations, award credits or set-asides. And the
+government shouldn't be in the business of picking winners and losers. Let the consumer do that. So we'll have to see
+how the rules play out here. But at this point, we do plan to participate. But we'll see how the rules play out, and we'll
+go from there.
+<Q - Simon Flannery>: Thank you.
+<A - Michael T. Stefanski>: Brad, we're ready for the next question, please
+Operator
+Thank you. Your next question comes from David Barden of Bank of America. Your line is open.
+<Q - David William Barden>: Hey, guys. Good morning, thanks, maybe two questions, if I could. Just first on the,
+Fran, disclosure about the 22% of devices being on EIP plans but 30% of customers being on EIP pricing, could you
+talk about the difference there? Is that BYOD? Is that a forward pricing strategy that you're starting to implement? It
+would be helpful to understand that.
+And then just second, as we unfold the go90 strategy and think about content acquisition, now that AT&T and DTV are
+together, is there any thought about revisiting Verizon's historical conversations with the cable industry about maybe
+joining forces to try to work together on content and distribution and allocation of resources? Thanks.
+<A - Francis J. Shammo>: All right, thanks, David. Good morning. Okay, so on the difference between the 22% on
+Edge and the 30% on pricing, obviously, if customers have fulfilled their contract over the two-year period of time
+under the old subsidized model, those customers are free and always have been free to select whatever price plan they
+want. And we're allowing them to move to the new pricing because they fulfilled their contractual obligation under the
+old pricing. So in essence, they're bringing their previous device into the new pricing. So that's part of it.
+The other thing is that there is a little bit of forward pricing here with current customers. And as we've talked before on
+calls, we have a pretty diligent exercise where we go through our customer base and we attack the high-value
+customers who we think have a higher propensity to churn from us. So there is some proactiveness there, and I think
+you're seeing that come through on the reduction of churn through this year of four to seven basis points. And I would
+anticipate that going into the fourth quarter, you should consider us to be within that improvement on a year-over-year
+basis. Now given the fourth quarter is always generally a higher churn quarter as it was last year, but we do believe that
+we will see a consistent improvement as we have seen through the beginning of this year.
+As far as go90, look, go90 is a very, very different product set. It's mobile first, a social entertainment platform. Let me
+just talk a little bit about where we are here. But this really is just a totally different perspective than linear TV and
+content deals. And we know how to do that, and we've been doing that for 10 years with FiOS. But this is a very, very
+different platform. Keep in mind, we're 20 days into this. We actually haven't done any advertising or promotion
+activity around this product. So for our early stages, we're seeing very good platform stability. We are seeing very
+encouraging feedback. And of course, we're looking at some very specific metrics here of what's the viewership, how
+many times do people revisit the site, and what do the new shows capture.
+And if you haven't downloaded, I would encourage you to because we now have over 10,000 assets in the product. We
+have two exclusive episodes. One is called Top Five Live and the other one is called BETCH, B-E-T-C-H, and these
+are really starting to take form with the millennials. And we're starting to see a number of encouraging revisits to the
+platform on a daily basis to see what Top Five Live and BETCH are doing, and we have 48 more exclusive content
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 9 of 15
+deals coming that will be on this product before the end of the quarter.
+So go90 right now, we're seeing very, very good upstage. But again, we really haven't started to advertise the platform.
+We do have entertainers tweeting the platform who are part of the platform like Kanye West on his live show. So
+there's a lot happening in this platform. So we are really pleased with the initial stages, but this is very, very different
+than the legacy linear TV model. So I'll stop there, David. Thanks for the question.
+<Q - David William Barden>: Thanks, Fran.
+<A - Francis J. Shammo>: Brad, next question please.
+Operator
+Our next question is from Phil Cusick of JPMorgan. Your line is open.
+<Q - Philip A. Cusick>: Hey, guys. Thanks. Fran, can you talk about the Custom TV effort and what you're seeing
+overall in the video landscape? It seems like the 42,000 net customer additions this quarter was a little bit weaker than
+we would have thought given seasonality. I wonder if you're still having any advertising issues, or if this is just the way
+we should look at it going forward. Thanks.
+<A - Francis J. Shammo>: Thanks, Phil. Good morning. So look, the TV environment this past quarter was extremely
+competitive and continues to be. Custom TV though actually within the portfolio is performing similar to what it did
+last quarter with the number of people choosing the product, and the number of migrations that we have within the
+product. And of course, as we've said this is going to put a little bit of top line pressure on FiOS growth. And the reason
+for that is the way you have to think about this is the new bundle is about $20 less than the average normal FiOS
+bundle. But the offset to that is we're also getting an incremental benefit in the content cost. So we're seeing an
+incremental margin gain by people selecting the Custom TV package.
+I think what's more important though is that consumers are speaking to the total linear environment that says they only
+want to pay for what they want to watch, and they don't want to pay for 300 channels when they watch only about 10%
+of those channels. So I think that's more important as to where the ecosystem is going. We will continue to support
+Custom TV. As we said, we know we have some disputes that we're working through. But Custom TV right now is
+doing what we thought it would do.
+As far as the growth perspective, I think if you look at last quarter with the negative 625,000 negative adds, we
+continue to be positive, so we're gaining share. But look, the environment is millennials don't want linear TV content.
+They're disconnecting their cable for just Internet content and mobile content, and that goes to why we are launching
+go90 with a mobile-first perspective, and that's attacking that entire segment that a FiOS brand does not attack today
+through a linear TV product.
+<Q - Philip A. Cusick>: Thanks. When you reported the second quarter you talked about Custom TV, and most people
+were taking only the basic $55 package. Have you seen that evolve upward a little bit as we've seen football season and
+other things start in the fall?
+<A - Francis J. Shammo>: You know, Phil, no, we haven't. The basic package is the basic, and then you get two
+packages included. Now of course, you have a selection of those packages among seven. Some people are selecting the
+sports. Others are selecting the live, like the Hallmark station and those things. But generally, sports fanatics generally
+take a premium package. So Custom TV more is for those folks who really aren't interested in sports and are taking less
+of the sports channels. But it's more or less the same trend, not seeing any difference there.
+<Q - Philip A. Cusick>: Got it. Thanks, Fran.
+<A - Francis J. Shammo>: Brad, next question please.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 10 of 15
+Operator
+Thank you. Our next question comes from John Hodulik of UBS. Your line is open.
+<Q - John C. Hodulik>: Good day, thanks. Back to Wireless, Fran, if we could, you had a handset upgrade rate of
+about 7%, which is down slightly on a year-over-year basis, but there's a much bigger comp coming up in the fourth
+quarter of 2014 where you did almost 10%. Do you expect a bigger year-to-year decline in the fourth quarter here? And
+if so, what kind of impact could that have on the margins? And then if you could give us a sense for how you expect,
+given the trends you're seeing with installment plans, 2016 over 2015 would be great. Thanks.
+<A - Francis J. Shammo>: Okay. Thanks, John. So on the handset piece for upgrades, what I would say is we're
+anticipating a little less volume than last year because of the total iconic launch of the iPhone 6 and iPhone 6 Plus. But
+this quarter we're still anticipating a fairly heavy volume quarter, as every fourth quarter is, but I would anticipate a
+little less than what we saw last year. So I would think that upgrades would be a little less than what we ran last year.
+As far as what we see from a take rate on installments going into 2016, look, at this point we're guiding to 70% in the
+fourth quarter. We are now 100% at the point of sale with Edge only. Of course, we have an exemption for current
+customers who are on the subsidy model who can opt to take a new subsidized handset. So we'll have to see how that
+works going into 2016, and that may keep us around that 70% to 75% take rate. But it's too early to tell, so I don't really
+want to give guidance yet on what the take rate will be. Let's see how we come out the fourth quarter. I'll readdress that
+in the first quarter.
+<Q - John C. Hodulik>: Great. Thanks, Fran.
+<A - Michael T. Stefanski>: Brad, next question please?
+Operator
+Thank you. Our next question is from Mike McCormack of Jefferies. Your line is open.
+<Q - Michael L. McCormack>: Hey, guys. Thanks. Hey, Fran, just thinking about the uptake of factoring – I'm sorry,
+not factoring – of EIP and looking into next year, you've got two competitors getting very aggressive on leasing, just a
+sense for your thoughts on leasing as a structure.
+And then secondly, the prepaid decline, is that just a defocusing on that segment, or are you actually seeing some wins
+on the postpaid side from the prepaid base? Thanks.
+<A - Francis J. Shammo>: Thanks, Mike. So on EIP, look, we've gone to the full Edge product. As I've said before,
+I'm not interested in a rental program. We're not seeing any impact from those programs from the competitors in our
+base. And I think our results speak to that this quarter, and I think they'll speak to that in the fourth quarter as well.
+I think what you'll see is if you speak to the rating agencies, they're becoming very concerned with the balance sheet
+risk of some of the industry on putting up rental phones on the balance sheet with what the residual value will be with
+those rental phones. So again, as I've said before, that's not something that we're entertaining at this point. Again, I
+never say never, but that is not something that I would have an appetite for.
+On the prepaid decline, I think look, generally if you look at how postpaid and the price points of postpaid, and I've
+talked about this before, postpaid pricing is more or less mirroring what prepaid pricing was in the past. And we are
+seeing some migration of our prepaid product customers to postpaid, but it's more probably limited than some others
+because of our intense credit models and that you have to pass the credit in order to become postpaid. But there is a
+segment of prepaid customers that are good credit customers that now that the price point is closer to affordability for
+them on postpaid, they're moving into the postpaid product.
+So I don't really look into the prepaid product decline as a problem set for us at this point. We generally really compete
+with prepaid in our reseller model with companies like TracFone and Straight Talk and Straight Wireless, and that's
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 11 of 15
+where we really drive home the lower-end product without our brand connected to it. And that, although we don't
+disclose much in reseller anymore, that segment continues to perform well for us.
+<Q - Michael L. McCormack>: I guess, Fran, on the residual risk, is that just you think secondary market can become
+softer or new devices being launched, or is it just an overall view on risk in the balance sheet?
+<A - Francis J. Shammo>: Look, if you look at some of the programs, you have balloon payments that are due in 18
+months. Eighteen months from now the market is changing. There's a lot of Apple product hitting the Chinese market
+now, where China was one of the larger areas where we sold off used handsets. So as these markets get heavily
+penetrated with newer product, that could impact the residual value of these phones going forward. So it's just a risk
+that is going to have to be handled by the industry under that program. And at this point, that's not something we want
+to deal with.
+<Q - Michael L. McCormack>: Great. Thanks, Fran.
+<A - Michael T. Stefanski>: Brad, next question please.
+Operator
+Our next question comes from Michael Rollins of Citi Investment Research. Your line is open.
+<Q - Michael I. Rollins>: Hi, good morning. Thanks for taking the questions, just two if I could. First, Fran, could you
+talk a little bit more about what mobile data usage looks like? You talked about the mix of data that's on 4G LTE, but
+I'm curious. How much does a customer use? How much is the data growing year over year, metrics that I think can
+help on that basis?
+And then secondly, you describe that the service revenue plus installment billing was 1.2% up year over year. As you're
+making the transition to these new rate plans, the unbundled installment plans, what's the risk that that goes lower
+before it goes higher? Thanks.
+<A - Francis J. Shammo>: Thanks, Michael. Okay, so on mobile data, what we're seeing right now is a trend across
+our entire network of 75% growth year over year. Obviously, some of the metropolitan areas like a New York and
+Chicago are higher than that. Chicago we said is up 75%, but New York, San Francisco, some others are higher than
+that in growth rate. So it depends where you're at. And then we have markets obviously lower than that because of
+more rural areas. So that's generally what we're seeing in the network right now.
+On the installment sale billings of 1.2%, yes, I do believe that will go lower as we make this transition into 50% of our
+base for installment sale. So the trend of service revenue and the installment billings plus the service is going to
+continue to decline until we get into that middle part, latter part of 2016 where the curve will reverse, and then you'll
+start to see that flatten out and start trending back up just like the math would dictate.
+<Q - Michael I. Rollins>: And could that go negative?
+<A - Francis J. Shammo>: I'm sorry, go ahead.
+<Q - Michael I. Rollins>: Could there actually be a rate of decline during this transition?
+<A - Francis J. Shammo>: No, I think what you're seeing now if you look at the previous quarters, it's pretty trending
+about the same. I don't that is going to accelerate.
+<Q - Michael I. Rollins>: Thank you.
+<A - Francis J. Shammo>: Brad, next question, please?
+Operator
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 12 of 15
+Certainly. Our next question is from Amir Rozwadowski of Barclays. Your line is open.
+<Q - Amir Rozwadowski>: Thank you very much and good morning, Fran and Mike.
+<A - Francis J. Shammo>: Good morning, Amir.
+<Q - Amir Rozwadowski>: I was wondering if we might be able to discuss a bit more about your midterm thoughts on
+the competitive landscape. For some time, of course, we've seen the impact of increased competition in the market with
+respect to how devices are sold, pricing of services, et cetera. And at least from our end, the most draconian fears have
+yet to be realized.
+As we head into 2016, both of the comparatively smaller carriers seem to be positioning themselves to be levering up
+here, albeit one of them synthetically through the lease company. With that in mind, are we potentially entering a
+period in which the focus may increasingly shift towards increased returns versus one that's overly emphasizing
+competition? And if so, how do believe you can fare in that type of environment?
+<A - Francis J. Shammo>: I guess, Amir, first of all, let's set the stage that the wireless industry has always been very
+competitive. And even through all this competitiveness, the industry itself continues to grow, even though everyone
+thinks that the industry is slowing. We continue to have net adds overall. Tablets become a bigger piece. Data continues
+to grow. So the industry overall, although very competitive, continues to grow despite all that.
+Our focus has always been competing on a network quality, reliability, and simplicity. And that's how we have been
+winning for the past 18 years, and that's our focus going forward. And you can see that with our new brand campaign,
+Better Matters, because what we believe with our brand and our campaign is we're trying to send a message that
+although some say video and data are not as important and people are willing to get disrupted, I think if you talk to
+millennials, the thing that frustrates them the most is the spinning wheel when they want to watch a video or download
+something. So our focus on our brand is better does matter. We have the best network. We are the most reliable, and
+we've become a more simple company to deal with, with our simplicity of pricing. So that's where we look to compete.
+I think the fourth quarter will be a competitive quarter, as it always is every year. I think you're going to see promotions
+in the marketplace, and this industry is going to compete as we always have. But I think our differentiation is how we
+differentiated ourselves through this whole entire process of installment sale and now rental. And as I said before, the
+rental programs don't seem to be having any impact or appeasing to our customers. So I would say that we will
+continue to do the same.
+As far as how the industry changes, I think what you're seeing from us is we're going in a different direction with our
+go90 launch. We're appealing to a millennial population with our network and our products. And I do think that, as
+we've said before, you can only price down so much and then you need to generate cash. And I think, as you said, some
+have to start generating cash in order to invest in their networks to support the growth of the data or else things are
+going to start to fall apart. And I think you're starting to see some of that in some of the National RootMetrics drive
+tests on where some of the networks are starting to feel pressure and starting to fall down in the rankings.
+We continue to invest heavily in our networks, as I said before. You should continue to see us as a flat overall capital
+company, but Wireless continues to trend up. And that's important for the product set that we're launching. So I do
+think there will be more focus on returns and profitability, and that's good for the industry.
+<Q - Amir Rozwadowski>: Thank you very much for the color.
+<A - Michael T. Stefanski>: Brad, next question.
+Operator
+Our next question comes from Brett Feldman of Goldman Sachs. Your line is open.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 13 of 15
+<Q - Brett Joseph Feldman>: Thanks. I'd go back to a question I think David asked earlier about your relationship
+with the cable industry. And one of the things that has come up is the MVNO agreement that you guys signed several
+years ago. And because it was signed several years ago, it's perceived to be maybe a little outdated. And so I'm just
+curious. Do you still feel comfortable with the agreement the way it's structured? Do you feel like it's enabling the cable
+companies to do whatever they want? And are you open-minded if they approached you about redoing it, if they felt
+that the industry has evolved to a point where the agreement was stale and was not likely to create value for either you
+or for them?
+<A - Francis J. Shammo>: I think that you stated it, Brett. We have an existing MVNO agreement, and we were
+informed that they're going to execute on that agreement, and the agreement is the agreement. I'm not going to get into
+whether we're discussing revising the agreement or the terms and conditions of that since it's under an NDA, and we'll
+see how this plays out. Obviously, the industry is moving. Cable is going to do what they're going to do, and we're
+going to do what we're going to do.
+I think that again, though, what I would say is we truly believe that Wi-Fi is a complementary wireless network, if you
+will, with LTE, and we don't believe one replaces the other. Just like when we launched LTE we said, look, it's not
+going to replace Wi-Fi. It's not going to replace broadband into the home. Similar, Wi-Fi is not going to replace LTE.
+So I think that's where it stands right now, so I really won't interject any more around the MVNO.
+<Q - Brett Joseph Feldman>: All right, just a quick follow-up since you mentioned Wi-Fi and I was thinking about
+small cells. I think you had earlier said you were looking to deploy unlicensed LTE maybe in trial phases I think either
+this this year or early next year. Where are you on that?
+<A - Francis J. Shammo>: We're right on course. We will be – we're actually testing it in the labs now, and we are
+looking to deploy sometime in 2016. And again, the unlicensed LTE is a great piece for us to increase our capacity.
+And again, another differentiator between LTE and Wi-Fi is LTE is a fully managed network, Wi-Fi is not. So when
+you start to load up Wi-Fi, that's why you start to see real degradation in service; whereas with LTE and then
+overlaying unlicensed LTE, we can dynamically increase capacity when we see that capacity needing an increase. So
+it's going to be a very viable tool for us in order to increase capacity without deploying a lot of dollars.
+<Q - Brett Joseph Feldman>: Great, thanks for taking the question.
+<A - Michael T. Stefanski>: Brad, next question please.
+Operator
+Your next question comes from Craig Moffett of MoffettNathanson. Your line is open.
+<Q - Craig Eder Moffett>: Hi, good morning, two questions if I could. First, you talked a little bit about the upcoming
+auction. I wonder if you could just talk a little bit about how you think about different spectrum bands at this point,
+with the options I guess out there being 600 MHz from the auction versus 2.5 GHz from Sprint that may be for sale
+versus Charlie Ergen's spectrum that's mostly in the 2.1 GHz range.
+And then, if you could, also just talk about on the Wireline side. How do you think about your commitment to the
+Wireline business and FiOS going forward with Altice coming into the New York market, but you divesting some
+properties outside of the Northeast? Is that still a meaningful focus, or would you look to reduce your exposure to
+Wireline if you had the opportunity?
+<A - Francis J. Shammo>: Thanks, Craig, appreciate it. On the auction and the spectrum bands, it's a good question
+because the current auction is a 600 MHz band. And as you know, we deployed LTE contiguously on 700 MHz. That
+doesn't mean that we can't operate with 600 MHz, but 600 MHz and 700 MHz don't play well together. There's a lot of
+interference. So where we have 700 MHz, there would be a lot of work to deploy a 600 MHz spectrum. But there are
+areas where we could use lower band spectrum, but it's probably not the top priority.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 14 of 15
+We like the higher band like AWS. We've said that all along that Charlie is sitting on very good spectrum. It's very
+good for capacity, which is why we spent $10.4 billion in the auction. But we also can do things like we've done in
+Chicago and New York, where we felt the license cost was way too high, and we instead decided to deploy small cells
+and get capacity in a more reasonable, cheaper way, if you will. Now some of this spectrum will come back to market.
+We don't know how the FCC will treat that yet, so we'll just wait and see. But higher frequency spectrum is capacity,
+and that's really what we need at this point in time.
+As far as the Wireline commitment, look, I think with the three divestitures in the South, they were more or less
+footprints which were not contiguous to anything else. Most of that property was copper, not fiber. So when we look at
+the East Coast, it's a much different footprint. We'll have covered over 70% of the footprint with our FiOS product. We
+are very committed to it. We're investing over $4 billion into the Wireline company a year, so that shows our
+commitment from a capital investment perspective. We've already passed 20 million homes when we committed to
+originally 18 million. So we are very committed to the FiOS product. It goes hand in hand with our Wireless strategy.
+And I think if you've asked anybody, like an Altice, if you were going to come in and compete for fiber into the home,
+you certainly would either pick the East Coast or the West Coast. And they've started with Cablevision on the East
+Coast. So we have a very viable footprint and we're committed to that.
+Now again, as I've always said, you never say never. And of course, Lowell and I are always open to new options, and
+we always keep our eyes open for that. But at this point, we're very committed to the Wireline business.
+<Q - Craig Eder Moffett>: Thanks, Fran.
+<A - Michael T. Stefanski>: Brad, we have time for one more question, if you can please queue that up.
+Operator
+Certainly. Your last question comes from Jonathan Atkin of RBC Capital Markets. Your line is open.
+<Q - Jonathan Atkin>: Thanks. So my question is on enterprise, and I just wondered if you're seeing any notable
+changes in competitive behavior versus other carriers. And then just on Wireless on the network side, if you could, just
+remind us the approximate timeline for AWS-3 deployment. And then when would the network be ready for
+VoLTE-only phones to be sold at retail? Thanks.
+<A - Francis J. Shammo>: Okay, great. All right. So, Jonathan, on the enterprise piece, I guess what I would say is
+we're seeing more or less the same. There has really been no change. I think there's a lot of competition. There's a lot of
+price compression continuing in the IP space. As we've said before, the strategic side around security and data centers,
+but even within the data center space now, there's an awful lot of competition happening with price compression. So I
+think what you're seeing is a trend that we think will continue as we revamp the portfolio, if you will, and come and do
+more of where we're going to willing to compete. So I think you're just going to see more of the same here.
+As far as the wireless network and deployment of AWS, we're looking at probably in the 2017 to 2018 timeframe with
+that, similar to where LTE-U would be for starting in 2016. And then, of course, so that will continue to deploy there.
+And then on the phone-only where we would only get a LTE-only handset, probably more to the end of 2016 is where
+we're looking to deploy an LTE-only handset.
+<Q - Jonathan Atkin>: Thank you.
+<A - Francis J. Shammo>: Thank you.
+<A - Michael T. Stefanski>: Okay. Brad, that takes us to the end of the questions, but I'd like to turn the call back onto
+Fran to close.
+Francis J. Shammo
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2015-10-20
+Event Description: Q3 2015 Earnings Call
+Page 15 of 15
+Thanks, Mike. I'd just like to close with a few key points. So through the first nine months, we have solidly executed on
+our fundamentals, delivering quality customer growth and strong financial results while positioning the business for the
+future and returning value to shareholders. This execution has generated strong cash flows, enabling us to consistently
+invest in our networks, platforms, future growth, and innovation.
+In addition, we've returned value to shareholders and maintained a strong balance sheet, keeping us on track with our
+deleveraging plans. As I highlighted earlier, we have returned more than $11 billion to date through dividends and a $5
+billion accelerated share repurchase program. In September, our Board of Directors again reiterated their confidence
+with a 2.7% dividend increase, making this the ninth consecutive year of a dividend increase. We look forward to
+maintaining our positive momentum in the fourth quarter as we execute our strategy, launch new products and services
+like go90, positioning ourselves for future growth, and creating value for customers and shareholders. Thank you again
+for joining Verizon today.
+Operator
+Ladies and gentlemen, this does conclude the conference call for today. Thank you for your participation and for using
+Verizon Conference Services. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

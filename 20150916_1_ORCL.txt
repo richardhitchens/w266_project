@@ -1,0 +1,701 @@
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 1 of 13
+Q1 2016 Earnings Call
+Company Participants
+• Kenneth Bond
+• Safra Ada Catz
+• Lawrence J. Ellison
+• Mark V. Hurd
+Other Participants
+• Philip A. Winslow
+• Michael Turits
+• Heather Anne Bellini
+• Ross MacMillan
+• Kasthuri Gopalan Rangan
+• Brent John Thill
+• Raimo Lenschow
+• John Stephen DiFucci
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to Oracle's first quarter 2016 earnings conference call. As a reminder, this call is being recorded for replay
+purposes.
+I'd like to now turn the call over to Ken Bond, Senior Vice President of Investor Relations. Please go ahead, sir.
+Kenneth Bond
+Thank you, operator. Good afternoon, everyone, and welcome to Oracle's first quarter fiscal year 2016 earnings
+conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation
+and other supplemental financial information, can be viewed and downloaded from our Investor Relations website.
+On the call today are Executive Chairman and Chief Technology Officer Larry Ellison and CEOs Safra Catz and Mark
+Hurd.
+As a reminder, today's discussion will include forward-looking statements, including predictions, expectations,
+estimates, or other information that might be considered forward looking. Throughout today's discussion, we will
+present some important factors relating to our business which may potentially affect these forward-looking statements.
+These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ
+materially from statements we make today.
+As a result, we caution you against placing undue reliance on these forward-looking statements. We encourage you to
+review our most recent reports, including our 10-K and 10-Q and any applicable amendments for a complete discussion
+of these factors and other risks that may affect our future results or the market price of our stock. And finally, we are
+not obligating ourselves to revise our results or publicly release any revision to these forward-looking statements in
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 2 of 13
+light of new information or future events.
+Before taking questions, we'll begin with some prepared remarks. And with that, I'll turn the call over to Safra. Safra?
+Safra Ada Catz
+Sorry about that. Good afternoon, everyone. Thanks, Ken. I am actually offsite today, so hopefully this phone will work
+out. If you don't hear me, I may have to reconnect, but I do have obviously Ken Bond on the call. And Corey West, our
+Chief Accounting Officer, is also I think in the room with Larry and Mark. I'm going to focus today on our non-GAAP
+results for Q1. I'll then review guidance for Q2, and I will actually give some guidance for the entire fiscal year. And
+then I'll turn the call over to Mark and Larry for their comments.
+As you know, we didn't provide U.S. dollar guidance for Q1 given the high volatility in exchange rates we were seeing
+at the time. As it happened, Q1 currency headwinds were actually 2% worse than we expected. The currency impact for
+both total revenue and hardware revenue ended up being 9%. And for software and cloud revenue, it was 8%. Now we
+do get benefit on the expense side. But because many of our expenses are in the United States, we get a very small
+benefit. And of course, our expenses are significantly lower than our revenues. And so our operating income was
+actually impacted by 12 points.
+Earnings per share was $0.06 lower because of currency, $0.01 worse than we anticipated. With currency still volatile,
+we will continue to use constant dollar growth rates on our quarterly calls, so we can have some measure of consistency
+and also share with you how we look at the business. We've also changed the presentation of our income statement to
+better reflect how we look at the company now that cloud has become a significant contributor to revenue.
+Our software business is really two parts of one business, the on-premise software business, which is steady and
+growing modestly, and the cloud business that is in a high-growth phase. We felt it made sense to show the components
+grouped together in our income statement to make it easier to see the progress we are making in the cloud.
+The largest part is on-premise software revenue, which is made up of new software licenses plus software license
+updates and product support. On-premise software revenue was up 4% for the quarter to $5.8 billion. The largest
+component is software license updates and product support, which was up 8% for the quarter to $4.7 billion, with attach
+and renewal rates running at their usual high levels. We expect the on-premise software business to remain steady.
+Over the full year, I expect we will see modest growth, comprised of continued growth in software support revenue that
+offsets any declines in new software licenses.
+Moving on to cloud, we start with SaaS and PaaS and then add Infrastructure-as-a-Service [IaaS] to our total cloud
+revenue, which were up 34%. Within the cloud business, we continue to see excellent momentum in SaaS and PaaS,
+with bookings growth of 165% this quarter on top of the 54% growth from Q1 of last year. SaaS and PaaS revenue was
+$452 million, up 38% from last year. The triple-digit bookings growth that we have been experiencing will translate
+into significant acceleration in SaaS and PaaS revenue in the second half of the year.
+You can also see the coming revenue acceleration of our cloud business in the SaaS and PaaS billings and deferred
+revenue. SaaS and PaaS billings grew 70% in U.S. dollars this quarter on top of the 100% growth last quarter. Also, the
+gross deferred revenue balance is now nearly $1 billion and was up more than 100%. We've put the billings numbers up
+on the website for you to see in detail.
+Our significant success in cloud bookings will not only help accelerate our revenue growth, but it will also benefit our
+margins and earnings over time. Cloud revenue, as you know, is recognized ratably, while new license is recognized all
+up front. This timing difference has the effect of lowering near-term operating margins and earnings per share, but over
+time will increase both.
+As our SaaS and PaaS bookings have continued to accelerate, capital expenditures for the quarter were higher
+compared to last year. The bulk of them are largely complete, and you can see this in the $150 million sequential
+decline in CapEx this quarter. I expect CapEx for this year will be materially lower than last year, as we utilize the
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 3 of 13
+investments that we have already made. We are well aware of the near-term impact to gross margins that this buildout
+cost has had on the cloud business, and I think that Q4 of last year marks the bottom for SaaS and PaaS gross margins.
+Q1 cloud gross margins were up slightly on a sequential basis, and I think we'll see another modest improvement in Q2.
+But as our cloud business scales up, we expect SaaS and PaaS gross margins will be around 60% by Q4 and then 80%
+over the next two years.
+The balance of our cloud revenue comes from cloud Infrastructure-as-a-Service, which was up 23% to $160 million.
+The gross margin in this business was up sequentially to a record 45%. While SaaS and PaaS revenue will see much
+higher growth rates along with significantly higher gross margins, we expect Infrastructure-as-a-Service revenue will
+grow at a single-digit rate and maintain a steady margin profile over time.
+As I mentioned, there are two parts to our software business that can be looked at separately but should really be
+considered together; the on-premise software business, which will grow modestly and serve as a tremendous base of
+loyal customers using our leading products. The SaaS and PaaS revenues will grow rapidly and will quickly become a
+significant contributor to revenues and profit as we help those same customers transform their businesses over time. In
+total, we will see growth in the total software business begin to increase this year, as cloud revenue grows as a
+percentage of the total software business.
+Finally, total hardware revenues grew 6%, which included hardware products revenue of $570 million and hardware
+support revenue of $559 million. Total revenue for the quarter was up 7% from last year to $8.5 billion.
+Non-GAAP operating income was $3.5 billion, and the operating margin was 41%. Sales and cloud investments along
+with the integration of Micros each impacted operating margins negatively by about 1%.
+The non-GAAP tax rate for the quarter was 25%, which was 3.5 points higher than last year. The GAAP tax rate was
+24.4%, which was five points higher than last year.
+Non-GAAP EPS was $0.53 in U.S. dollars, and GAAP EPS was $0.40 in U.S. dollars. As I said earlier, both were
+$0.06 lower due to currency.
+Free cash flow over the last four quarters was $11.8 billion. We now have nearly $56 billion in cash and marketable
+securities. Net of debt, our cash position is approximately $14 billion. The short-term deferred revenue balance is $9.1
+billion, up 10% in constant currency.
+This quarter we repurchased more than 75 million shares for a total of $3 billion, up from our fiscal year 2015 run rate
+of $2 billion a quarter. And given current market conditions, we expect to buy even more in Q2. The Board of Directors
+also declared a quarterly dividend of $0.15. Over the last 12 months, we've repurchased more than 220 million shares
+for a total of $9.1 billion and paid out dividends of $2.4 billion, for a total that is nearly 100% of free cash flow.
+Now to the guidance; as I mentioned, I'm going to give you guidance for Q2 and then for the whole year. We feel very
+good about the progress of our cloud transition. And clearly, customers are migrating to the Oracle Cloud. Over time,
+we expect the cloud will result in more revenue and profit for Oracle as we take share from legacy on-premise
+competitors, other cloud competitors who are limited to point solutions, and the labor suppliers who can't possibly offer
+what we have already built. Of course, I am seeing many of the same financial news reports that all of you are about the
+whole world, and so I think it is still best to be prudent here.
+Additionally, we expect to see continued volatility in exchange rates and significant currency headwinds. I'm going to
+give you constant currency guidance. But if exchange rates remain the same as they are right now, we expect to see a
+currency headwind of about 6% on revenue and $0.05 on earnings per share. But again, it could be significantly worse.
+Maybe, if we're lucky, it could be a little bit better. All of my guidance today is on a non-GAAP basis and in constant
+currency, so here goes.
+SaaS and PaaS revenue is expected to grow 36% to 40%. Cloud IaaS revenue is expected to grow 5% to 9%. Total
+cloud and on-premise software is expected to grow from zero to 2%. Total revenue is expected to range from a negative
+2% to a positive 1%.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 4 of 13
+Non-GAAP EPS in constant currency is expected to be somewhere between $0.63 and $0.66. Now this assumes a
+non-GAAP tax rate of 25.5%. Of course, if this quarter is any example, it may end up being different.
+Looking further out, we expect to see a material acceleration in SaaS and PaaS revenue. As a result, I'm providing full
+fiscal year guidance for some key items. As before, my guidance on the full year is in constant currency. SaaS and PaaS
+revenue is expected to grow around 50%. On-premise software is expected to grow approximately 1%. Total cloud and
+on-premise software is expected to grow between 3% and 4%. Finally, SaaS and PaaS gross margins are expected to
+materially improve in the second half and exit the year at around 60%.
+With that, I'll turn it over to Larry and Mark for their comments.
+Lawrence J. Ellison
+Thank you, Safra. This is Larry. Over the last three years, we've been in the startup phase of our cloud business. We've
+developed services at all four layers of the cloud, a complete set of enterprise SaaS applications, plus our database and
+middleware platform services, plus compute and storage infrastructure services, and an expanding set of data services.
+We have deployed those cloud services in 19 data centers in 14 countries around the world.
+During this startup phase of our cloud business, we have increased our data center service delivery capacity from 0.5
+megawatt to 45 megawatts. That's a 90x, not 90%, a 90 times increase in our data center capacity in three years. We've
+installed over 40,000 physical devices, 100,000 virtual machines, and over eight petabytes of storage. We now have in
+place the physical infrastructure to dramatically expand our cloud customer base. We are entering the rapid growth
+scale-out phase of our cloud business. We're adding thousands of new SaaS, PaaS, IaaS, and data customers to our
+existing data centers. With all that customer growth on top of our existing infrastructure, we expect that our cloud
+margins will double from 40% to 80% over the next two years.
+Mark, it's your turn to tell everybody about all those great customer adds we had during Q1.
+Mark V. Hurd
+Thanks. By the process of elimination, this is Mark actually speaking. So I thought I'd do two things, right, to Larry's
+point, tell you about some wins but also give you some facts about the quarter.
+Revenue grew 38% year on year, 8% quarter on quarter. Billings grew 70%, again growing much faster than Salesforce
+and Workday. Bookings were $191 million USD, 165% growth.
+Like I always do, I want to tell you the number of customers we added. We added 612 new SaaS customers in the
+quarter, brand-new logos. 616 expanded their SaaS business with us in the quarter. In HCM, it was 166 new customers,
+more than double what Workday had. In CX [Customer Experience], 280 customers. In ERP/EPM it was 200
+customers, double last year. That is also more than Workday's lifetime sales. We now have 1,350 customers in our
+installed base. More than 300 are already live, including 100 that went live in just Q1. What's taken Workday eight
+quarters to do we did in one quarter. We never see SAP.
+PaaS, we added 800 new PaaS customers in the quarter, 2,500 in just two quarters, bookings over $65 million. Now I
+think we have a shot in Q2 to book more PaaS than we actually did in Q4. I think we have a shot. That's how fast we
+see our pipeline growing in PaaS.
+I'm going to wrap up and then I'm going to read you some news, but I just want to connect a few dots between what
+Safra and Larry described on the Oracle SaaS/PaaS cloud. We're currently at a $1.8 billion run rate in revenue. If you
+include IaaS, it's $2.4 billion. We will book between $1.5 billion and $2 billion in SaaS/PaaS ARR in the fiscal year.
+Gross deferred revenue has grown from $475 million to nearly $1 billion in the year. Billings are growing 70%. Gross
+margins are headed to 80%. SaaS/PaaS will be a very large and very profitable business for Oracle.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 5 of 13
+Now in addition, I just want to give you some brands that we got in the quarter, just so you have a feeling for who all
+these people are that are buying solutions from us. So first, let me hit HCM; a few wins. CMYK, they're an Australia
+Fusion HCM. We replaced Workday at CMYK in the quarter. Cypress Semiconductor, GDF SUEZ, Limited Brands,
+Nationwide Insurance, Restoration Hardware, Rutgers University. We expanded our HCM clouds at Omnicare, the
+Navy, Westpac Bank.
+In ERP/EPM, athenahealth, Chicago Sun Times. These are all new customers, by the way; FOX Home Entertainment,
+U.S. Department of Energy, Lending Club Corp., [indiscernible] (20:18), LG Electronics, Rutgers University. By the
+way, you'll hear a few names twice, which is because they bought multiple pillars at the same time. In sales service
+cloud, FOX Home Entertainment, Royal Mail, Sallie Mae, Sirius XM, Toshiba Medical, Wesfarmers; expansions at
+Cigna, Motorola, Nikon, Polycom, Virgin Atlantic, Westpac.
+In our marketing cloud, Aer Lingus, General Mills, Jeanswest, Telstra, Verizon; expansions at Booz Allen Hamilton,
+Forever 21, National Instruments, NetApp, Pier 1 Imports, Public Broadcasting System, Taylor Made Golf Company,
+Time, Inc. I'm going to stop, but I wanted to give you a flavor for not just the number of customers, but the quality of
+brands that are buying from us at the same time.
+Ken, with that, let's take whatever questions anybody's got.
+Kenneth Bond
+Great, thank you very much, Mark. Operator, if you could, please instruct the audience for questions.
+Q&A
+Operator
+[Operator Instructions] And our first question will come from the line of Phil Winslow with Credit Suisse.
+<Q - Philip A. Winslow>: Thanks, guys, and congrats another great quarter on that cloud with that 70% billings
+growth. And also, thank you for the commentary on gross margin there going forward. That was really helpful. I just
+wanted to double-click on the cloud for a little bit, SaaS and PaaS. Mark, you gave us some commentary on the PaaS
+side for Q2, and obviously it sounds like that's ramping. But if you focus in on the SaaS side, what trends are you
+seeing there, HCM versus financials and maybe trends on adoption you can see there in go-live? Any color would be
+great.
+<A - Mark V. Hurd>: Listen, I hate to compare our pillars because individually they're all doing quite well, so I don't
+want to compare them against each other. But it's clear to me the ramp in ERP is its strength. When you look at the
+number of customers we've been able to bring onboard, remember, this is really our fifth quarter really in the business
+in the cloud. When you think of 1,350 customers that are now under contract, I think Oracle – and Larry can do this
+better than I can. But in roughly 23 – 24 years, we're already at, I don't know, 10% of the on-prem base that's now in
+the cloud in terms of just sheer number of companies. And our pipeline is just full.
+So ERP, we're highly differentiated. And we're way ahead of whoever it is you think is number two, and it's extreme. I
+think it's a combination, Phil, of what we talked about before. Our products have done nothing but get better and better
+and better. We're on now Release 10. Release 11 is now coming out, so our products have gotten better. Our people
+have – we've got more people. They're better trained, and we just have now a lot of go-lives and a lot of references.
+And that's true across each one of our pillars, Phil.
+<A - Lawrence J. Ellison>: I'd like to add a couple of things. One is that the products that we have are being translated
+into more and more languages and updated for statutory compliance in more and more countries, so there are more
+markets we can sell them into. And we're adding supply chain and manufacturing with this release in ERP. So we have
+– there's really nobody with as comprehensive a suite of enterprise software products. And now we're able to sell it
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 6 of 13
+internationally, so we think we have a huge advantage.
+I don't know who you'd consider the competitor in ERP. Again, every quarter – if Workday is the competitor, every
+quarter we sell – Q1 is our smallest quarter, and we sold more deals in Q1 than Workday has sold ERP deals – than
+Workday has sold since their company began. We do that every single quarter. So our relative strength, I think as Mark
+said, I think all of our pillars are doing well. But on a relative basis, whoever is number two in ERP, they're a long, long
+way behind. And by the way, ERP is the largest segment of applications in the cloud. That will be just like people –
+SAP was the leading on-premise application software vendor in the last generation of applications because they were
+number one in ERP. The leading vendor, application vendor in the cloud this generation will also be whoever wins the
+ERP war.
+<A - Mark V. Hurd>: Phil, we've fallen into the trap that I didn't want to fall into is comparing pillars. And you can
+tell how excited we are about ERP. But quite frankly, if you were in our marketing cloud business, you would be really
+excited. When you start running off the names that I run off in marketing cloud, we are highly differentiated and we're
+winning. We've done well in B2C, we've done well in B2B. If you add what's now occurred in service, we're starting to
+see again significant service growth in our service cloud. And our sales cloud, while again small and very different than
+ERP, up against big competitor, our service cloud is showing very strong growth.
+And so if you look in each of our pillars, we've added on some really cool stuff here. Just while I'm on a roll here,
+we've added on a very cool Data-as-a-Service business. So our Data-as-a-Service business, which had come to us with
+our BlueKai acquisition and our Datalogix acquisition, is now another component of our marketing cloud, and that had
+tremendous performance in Q1.
+So, Phil, it's really a story across all of our pillars. ERP is of course exciting because, to Larry's point, it's the biggest
+pillar in terms of total available market, and one that has a lot of pull. It pulls a lot of HCM. When we win in ERP, our
+connect rate of HCM to ERP is pretty high and growing. But the success is broad-based, and that's the enthusiasm you
+hear keep coming from us as we talk about what we see happening across our SaaS business.
+<A - Kenneth Bond>: Next question, please.
+Operator
+Your next question will come from the line of Michael Turits with Raymond James.
+<Q - Michael Turits>: Hey, guys. I wanted to switch over from apps to Database. I want to ask you broadly. I know
+that Database 12c is being adopted faster than Database 11. Can you give us an update on the adoption of multi-tenancy
+and in memory options? And from a cloud perspective, how much traction are you getting with the SaaS providers?
+And maybe we could add, say for Database-as-a-Service, how does that work as part of the broader
+Platform-as-a-Service offering?
+<A - Lawrence J. Ellison>: Okay, so we have never had any of our options for the Database have an uptake as fast as
+we're seeing with multi-tenancy and in memory. We've never experienced people that want to get these two particular
+features turned on, and this is in our on-premise customer base. As you know, most major SaaS companies run Oracle.
+SAP runs Ariba on Oracle. SAP runs SuccessFactors on Oracle. SAP runs Concur on Oracle. NetSuite runs on Oracle.
+Salesforce runs on Oracle. And all of them are able to deliver more efficiency in terms of data processing by turning on
+the memory feature. All of them are able – by more efficiency, it means they use less hardware and they deliver better
+performance. So they lower their internal cost and deliver better performance. All of them are much more efficient in
+the usage of hardware resource by turning on multi-tenancy.
+Now these guys have multi-tenancy built into their applications. That doesn't mean they don't layer things. So they have
+multi-tenancy at the application level, multi-tenancy at the database level, and then multi-tenancy at the operating
+system level, which is called VM. All of those things conspire together to more efficiently utilize your hardware and
+provide better recovery of your security systems. So we see the demand from traditional on-prem customers and the
+new generation of cloud customers for these two new options, unlike anything that's happened before.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 7 of 13
+<A - Kenneth Bond>: Next question.
+<Q - Michael Turits>: I didn't...
+<A - Kenneth Bond>: Go ahead, Michael. Go ahead, Michael.
+<Q - Michael Turits>: Just to finish, I was curious as to two things. One is, how is Database-as-a-Service fitting in
+with your broader Platform-as-a-Service offering, and is there any slowing of Database in expectation of Release 2 for
+Database 12c?
+<A - Lawrence J. Ellison>: I don't think there's – as you know, if you buy the Database now and you maintain
+support, you get all the subsequent versions. So no, I don't think there is any slowing. However, we are encouraging
+people to run all their dev tests, all their development tests in our cloud as opposed to on-prem, which does imply a
+shift from Database on-prem to our Database service. That's what we want them to do. We think that lowers their cost
+and raises our revenue and profits. We think it works very well for us.
+So you really have to look at those two businesses added together, and I think that's what Safra was saying in her
+presentation. You can't look at Database on-premise separately from PaaS as Database-as-a-Service. It's really the sum
+of those that have to grow. That some of those have to grow at the top line level and that some of those have to grow in
+terms of profitability, and we see that happening right now. We think PaaS – yes, some people will elect to buy
+Database-as-a-Service as opposed to running dev tests on-prem, but we think that's a good thing. We think they get a
+more efficient service. They spend less, we get more.
+<A - Mark V. Hurd>: I think one thing, Michael, that I'd add to it is that from a customer's point of view, these
+decisions aren't necessarily binary, meaning that I'm going to run Database-as-a-Service as opposed to Database
+on-premise. What the major differentiation for Oracle that nobody else can do is that we can actually do this
+on-premise for you and do it for you in the cloud, and we can do it at the exact same time. We can deliver to you a
+capability in the cloud and we can deliver the exact same capability to you on-premise and move those workloads back
+and forth, whether that's Database-as-a-Service, some dev tests and then move the dev tests in our cloud into your data
+center to run your production applications.
+It's important to understand. This is a huge differentiator that only this company can deliver. We're not just cloud. We
+have a fantastic hypergrowth cloud with an on-prem capability that nobody else brings the two together like Oracle.
+<A - Lawrence J. Ellison>: For example, we have Exadata-as-a-Service that we're rolling out at Oracle OpenWorld.
+So we have Exadata-as-a-Service in our cloud, and we obviously sell Exadata machines to run on-premise the most
+modern way, the most efficient, cost-effective way to run our database. So you can run part of your database workload
+on-prem on that Exadata platform, part of that database workload in our cloud on that Exadata platform. And our
+management tool, when you're running your data center assets and our cloud assets, the person who's running that
+thinks that's one pool of assets. It's one set of management tools that allow you to run your Exadata and the Exadata
+that's in the cloud together, move data back and forth, move workload back and forth.
+This co-existence of cloud and on-premise computing is going to be a decades-long process, if not forever. But during
+this long period of co-existence, we think it's very important to have absolute compatibility between on-prem and in the
+cloud. And Mark points out our biggest differentiator in this business. We have great on-premise technology with some
+of our fancy appliances like Exadata big data appliance, Exalogic, I can go on and on. And we offer that same advanced
+technology in the cloud and we lace it together and make it look like one set of assets.
+<A - Mark V. Hurd>: At the risk of over-answering your question, I'm going to stop here. By the time we get to
+OpenWorld and Larry presents on Sunday night, we will have now fundamentally all of our software assets redone for
+the modern cloud. So the ability to do what Larry said is not something that's five years away, four years away, three
+years away. We can start delivering Exadata-as-a-Service and these opportunities that Larry described now.
+<Q - Michael Turits>: Okay. Thanks, Larry. Thanks, Mark.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 8 of 13
+<A - Kenneth Bond>: Operator, next question, please.
+Operator
+Your next question will come from the line of Heather Bellini with Goldman Sachs.
+<Q - Heather Anne Bellini>: Thank you so much. This is a question for Mark. I was just wondering if you could share
+with us. If you had to characterize what inning we're in of the SaaS transition, if you could help us think about that.
+And also, when do you think we start to see – I know you mentioned some commentary about momentum in PaaS. But
+when do we see that become a material part of that SaaS/PaaS revenue line?
+And then I guess the follow-up to that would just be, you touched I think on Phil's question about the SaaS competitive
+dynamics. But can you walk us through how you're thinking about the competitive environment for PaaS as well?
+Thank you.
+<A - Mark V. Hurd>: Okay. So that was one of those let me give you a question in six parts type things.
+<Q - Heather Anne Bellini>: Exactly.
+<A - Mark V. Hurd>: Heather, I'll try. So in the baseball analogy, I don't know, top of the first? We're in the very
+beginning stages. It depends a little which pillar we're talking about.
+<Q - Heather Anne Bellini>: For SaaS first and then for PaaS.
+<A - Mark V. Hurd>: Start with SaaS, and I am talking about SaaS and I'm talking across each pillar.
+<Q - Heather Anne Bellini>: Okay.
+<A - Mark V. Hurd>: The ERP opportunity has just started. Now it happens that we're ramping incredibly fast. I think
+if I would have said five quarters ago in SaaS and said hey, I think we'll have 1,350 customers signed up to run in our
+cloud in about four or five quarters, everybody would say, you should go seek some help because it won't happen that
+fast. It has.
+That said, we are only now getting to the point, Heather, where we actually have all the references required, we've got
+our sales force scaled. I think we are in – and by the way, to Larry's point, I thought Larry made a great point. We are
+releasing a lot of new products. It may not come across that way. But with the next release, we now release products
+that are localized for many, many more countries, markets that frankly we just weren't in give it six months ago. In
+addition to the fact that in ERP, we're releasing supply chain manufacturing now so we can now go after manufacturers
+as well.
+I made a comment about what we've added now in marketing in terms of our data cloud that we've now supplemented
+our marketing cloud with. We have new releases coming in service cloud. So there's just a whole suite of products here.
+I would tell you top of the first. This is a multiyear long, long game. We just happen to be extremely well positioned as
+the only one who has a suite of products and the only one that has best-of-breed products that are in a suite that can
+then combine it, to your point, with a PaaS capability that allows you to extend those applications without destroying
+the upgradability of the application suite that you bought. So it's a great matchup.
+Our pipeline, a year ago at SAM, I made a statement about the size of our pipeline. Probably nobody remembers it
+because it seems like a long time ago. Think about since then, our pipeline in SaaS, this is our annualized pipeline, has
+more than doubled, more than doubled off of a really big number, so now you've got a pipeline scaled. And the great
+thing is – I know nobody thought of it at the time. You've seen it now come through the pipeline and turn into
+bookings. And my expectations are very favorable, as I've indicated, about what SaaS bookings are going to look like
+for the rest of the year.
+<A - Kenneth Bond>: Next question, please, operator?
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 9 of 13
+Operator
+Your next question will come from the line of Ross MacMillan with RBC Capital.
+<Q - Ross MacMillan>: Thanks a lot. Safra, I'd like to drill into your comments on cloud gross margins and the
+expansion that you're expecting as we exit this year and look further out. It's pretty significant. And I guess the question
+is, is that really just driven by revenue scale? And is there a certain level of revenue scale in PaaS and SaaS that you
+need to achieve the target 80% in two years? Thanks.
+<A - Safra Ada Catz>: Okay, it's actually going to hit in many ways in both revenue and expenses because, as Larry
+explained, we have invested immense resources in building up our infrastructure. And as I mentioned on the call, our
+capital expenditure numbers have been very, very large compared to what we are used to historically. And so we've put
+out those expenditures and we've started to amortize them. However, in the second half of this year, our capital
+expenditure numbers are going to be significantly lower, even significantly lower than even this quarter. You'll see I
+believe at least another $100 million decline and then a continuing reduction. And the reason that matters is because
+what you'll simultaneously be seeing is a massive amount of revenue which can finally be recognized. That is going to
+start in true earnest in the second half of the year, in Q3 and Q4, while simultaneously we will not be adding capacity.
+In fact, we'll be spending less than we historically have spent on capital expenditures. We'll be back to numbers that
+you would have looked at and seen in fiscal year 2014.
+So as expenses – and in addition, you understand, it's not only capital expenditures. It's all sources, staffing and labor
+and tools, et cetera, that have all been put in place. And we will not have to add them while the revenue is going to start
+flowing both out of the balance sheet, which is extremely apparent, and you will be able to look at it in detail in the
+10-Q filing that we should do either at the end of this week or the beginning of next, and in our new sales. So that's
+what it is, revenue up, expenses stabilizing and actually going down.
+<A - Kenneth Bond>: Thank you, Safra, next question?
+<Q - Ross MacMillan>: Thanks, Safra.
+Operator
+Your next question will come from line of Kash Rangan with Bank of America.
+<Q - Kasthuri Gopalan Rangan>: Hey, thanks for taking my question. My question is for Safra. Safra, how do you
+view the investment trade-off between the license business and the cloud business? Because I think it's pretty apparent
+to us that one business has higher growth but lower margin. And to parse your comments, it looks like CapEx is going
+to come down for the cloud business. So are we at the point where the license business has troughed and is not going to
+decline any more, and that the profit profile of the cloud business will start to add on? And that this year in some sense
+is the trough in your operating profits, a lot of the other software companies have been attempting to make this model
+transition have been resetting their numbers to the license business by their own volition is coming down, troughing,
+and then the cloud business starts to pick up. So how should we look at Oracle in the context of the shift that's
+happening here? Thank you very much.
+<A - Safra Ada Catz>: Sure. First of all, the way we look at the on-premise business, and I'm not sure I'm entirely
+understanding your question. But there are the new licenses and of course our massive installed base of license
+subscriptions. We look at that as the on-premise business. And that business is steady, growing slightly, very profitable
+of course because we are at scale. We still make a lot of investments in that area. However, you should be thinking
+about the cloud business as another way for us to offer that same software to our customers in a different way, where
+we are actually hosting the software and doing a lot more of the labor. And because we'll have economies of scale they
+could not possibly have as individual customers, so really it's all one business. However, more and more when we
+provide it as a cloud provider, we are providing the hardware, the software, the labor all in a package. And that gives us
+a significantly larger amount of their wallet share.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 10 of 13
+Simultaneously, the customer is actually spending less overall because we can supply this package in a very
+economical way. But also, since all of it is our own differentiated intellectual property, we can do it at much higher
+margins. And the more scale we get, the more profitable we will be. We have been in a startup mode in this whole area.
+We've done it basically within our profit envelope. However, this extremely quick transition, which you are truly
+seeing the pivot in this fiscal year, which is the reason we're breaking it out for you and really breaking our own rules
+of guidance where we're actually giving you a full-year guidance so you can see how we're coming out of it.
+<Q - Kasthuri Gopalan Rangan>: So, Safra, to conclude this and take this to the financial implications, could this
+year be the trough in operating profits, and then as a result of the nice investments, we start to see the operating income
+of the company start to grow next year?
+<A - Safra Ada Catz>: I believe it is, yes, absolutely.
+<Q - Kasthuri Gopalan Rangan>: That's great. Thank you.
+<A - Kenneth Bond>: Next question, please.
+<Q - Kasthuri Gopalan Rangan>: That's it for me.
+Operator
+Our next question will come from the line of Brent Thill with UBS.
+<Q - Brent John Thill>: Thanks. For Mark and Safra, I think your investors understand this transition to cloud is
+going to take time. But the ramp is definitely taking longer than some of the financial forecasts you've given in the last
+several quarters, and now you're calling for a weaker first half but a better second half. I guess just what's underpinning
+your confidence that this ramp is going to happen in the back half?
+<A - Safra Ada Catz>: Frankly, it's not possible that it does not happen. There is a lot of revenue on the balance sheet
+that will be recognized in the second half. It cannot not be. It is appropriate to do that. To the extent that in some cases
+customers have been through their promotion period, and also we just have booked so many contracts that are ramping
+up and billing and starting to bill, there really is – it's not avoidable. It is inevitable that Q2, that half two, second half is
+going to be very significant.
+<A - Mark V. Hurd>: Brent, I'd just add to it. First, we have the contracts. Second, when you look at the balance sheet
+and see the $1 billion of deferred, you can just do the math. So we have contracts. And so it's just not – to Safra's point,
+it's not a guessing game.
+<Q - Brent John Thill>: Okay, that's very helpful. Just to follow up on the license guide, Safra, for the full year, you
+mentioned that will stabilize versus what you saw last year in terms of the decline. What's giving you the confidence
+there that that will stabilize versus what you saw last year?
+<A - Safra Ada Catz>: I have my forecast. I have my closure rates that I'm expecting. Remember, it's not new license
+only. It is our software installed base with extremely high renewal rates that continues. When we sell new licenses in
+addition to our base, then we get additional growth. Again, the only question is what level of decline we have in new
+license. We're being conservative. There's always risk that it won't be. But again, new license has gotten to be a smaller
+percentage of that whole on-premise business, and we're doing the same type of estimating that we do. We do our best
+with all the data we have.
+<Q - Brent John Thill>: Great, thanks for the color.
+Operator
+Your next question will come from the line of Raimo Lenschow with Barclays.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 11 of 13
+<Q - Raimo Lenschow>: Hey, thanks for taking my question. Safra, I wanted to stay on that point a little bit. So if you
+look at the license number that we see at the moment, it was like last quarter was minus 10%. This quarter was minus
+9%. And obviously, with the cloud transition going on which impacts you negatively, can you talk a little bit about
+other factors that might impact this? And we all heard about the issues around China, et cetera. So maybe talk a little bit
+about what you see in the different regions that might impact that growth number as well. Thank you.
+<A - Safra Ada Catz>: Sure. Look, there is no question that internationally there is quite a lot of chaos, to say the
+least, and the currency impact of countries that we have been doing very well is not helping. Even though my Latin
+America team is executing out of the park in constant currency, the devaluation of the different currencies in LAD, for
+example, are very negatively affecting my U.S. dollar results. Obviously, there is quite a lot going on in Europe in
+different parts, and both that and currency. I feel that Asia-Pacific for us is actually stabilizing. China is not a big
+country for us historically, so that's less of an issue for us directly. But the countries and businesses that are impacted
+by the China trade, like Australia, Canada, Brazil, those can be at risk.
+So I'm not an economist. These things are impacted by especially transactional business, like new hardware sales or
+new license sales are impacted by these regional issues. But in general, on-premise software, which is dominated by
+software updates and product support, customers renew because that is software that is very important to them and is
+doing the most important work in their companies, governments, or non-profits. And so that is obviously very, very
+steady for us and continues to do well. But the transactional business is at the same potential risk. However, the cloud
+momentum is so strong that overall we expect very significant growth, and that is from contracts already in hand in
+most cases.
+<Q - Raimo Lenschow>: Perfect, thank you.
+Operator
+And our final question today will come from the line of John DiFucci with Jefferies.
+<Q - John Stephen DiFucci>: Thank you. Safra, I'd like to better understand something I thought I understood, but it's
+how exactly your bookings of SaaS and PaaS convert to revenue. For instance, bookings of PaaS and SaaS bookings
+last quarter were somewhere around $425 million. And if you assume this was signed towards the end of the quarter,
+I'd expect cloud revenue SaaS and PaaS to grow sequentially by about a quarter of this number or by about $100
+million. But it only grew by a little more than $30 million, and I'm just curious. Is PaaS, because it sounded like PaaS
+was a real big quarter last quarter, is the revenue recognition like SaaS, where it's recognized immediately in the same
+amount over the three years of the contract, or is it recognized a little differently where it's recognized as a customer
+consumes the technology? What am I missing here?
+<A - Safra Ada Catz>: You're actually not missing anything. You're exactly asking the right question. And
+unfortunately, the answer is it depends because depending on what kind of agreement the customer signed, they may
+have signed a metered agreement, which means it will be recognized as they use it. However, it will expire after a
+certain time period if they don't use it, and that is what we call metered. On the other hand, to the extent that they have
+a subscription, then let's say one month's worth is recognized and then another month whether they use it or not. So
+SaaS is almost always a subscription. PaaS can be either metered or a subscription. And so it is recognized differently,
+and that's it.
+<Q - John Stephen DiFucci>: That actually makes a ton of sense. It's really helpful, but just one quick question
+follow-up to that. If it's a metered PaaS deal and it expires, at that time given the contract terms, the customers, do you
+recognize anything remaining on that contract at the time of expiration?
+<A - Safra Ada Catz>: If it's expired, let's say they bought $100,000 metered, you could almost consider it a gift card.
+If they use it all on the first day, I'd book it all right then. If they don't use it at all, I book it when it expires.
+<Q - John Stephen DiFucci>: Perfect, that's really helpful. Thanks, Safra.
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 12 of 13
+<A - Mark V. Hurd>: John, I'd just add on SaaS, just to make sure you understand what's happening as we get to Q3
+because Safra talked about Q3 and Q4. So when we entered the SaaS market, we had a series of promotions, meaning
+that you would get some time to install. Our strategy was to give you an incentive when you bought that you had time
+to then implement, and that promotion had a certain amount of time associated with it. Obviously, that was part of
+building up our reference base.
+Secondly, as we built up our reference base, we actually shortened the promotions, so it actually went down by half the
+period of time. The two sets of promotions over the last couple of years, just by coincidence, coterminously end at the
+end of Q2. So the percent of the bookings that were on those types of promotions both end at the end of Q2 of this
+fiscal year. So that's one of the reasons in SaaS why you will see a jump in revenue that also will not be explained by
+bookings. So again, while you say I couldn't explain Q2 to bookings, you won't be able to explain exactly the alignment
+of the increase in revenue based on the bookings either because underneath it is this promotion.
+So there are multiple dimensions here. There's this promotion dimension. There's the dimension that Safra described,
+which is about a percent of our PaaS is metered and a percent of our PaaS is subscription. So there's a couple of
+different ways you can consume the PaaS. In addition to it, it takes a certain amount of time for us in some cases. I told
+you about a win, for example, last quarter at HSBC, a very large ERP in the cloud win. It will take us several months to
+fully provision that ERP for HSBC. So it's those factors together that formulate the conversion of the booking to
+revenue.
+<Q - John Stephen DiFucci>: Just to be clear...
+<A - Mark V. Hurd>: And one more time, why are we so confident? We have the contracts. We know the expiration
+of the promotions. We know exactly when the PaaS expires. And in addition, you see all of that as it relates to deferred
+on the balance sheet.
+<Q - John Stephen DiFucci>: Great. Just to be clear, Mark, once you start, you're really giving in these SaaS
+examples you gave, still, once it starts to be – you may delay the beginning, when you should begin to start recognizing
+the revenue, but it will be recognized as a subscription, so even with the term.
+<A - Mark V. Hurd>: It's a very important tool, John, because instead of discounting, you actually renew against a
+higher rate, and the promotion is basically a window by which you have time to get installed. And it's very important
+tool as you're building up a reference base. And that's what we've done. Now the promotions over that period of time,
+call that a two or three-year period of time, have declined and declined and declined. So the amount of promotion that's
+available in our SaaS portfolio is materially smaller than it was two years ago and materially smaller than it was a year
+ago. And so what happens is these things, the confluence of events really come together in Q3, which is where you see
+this pop in our revenue. And then from there, you'll begin to see more ratable alignment of bookings to revenue, save
+the one point about the PaaS consumption that Safra was making.
+<Q - John Stephen DiFucci>: Okay, great. That's all really helpful. Thanks, Mark.
+<A - Mark V. Hurd>: Thanks, John.
+Kenneth Bond
+Thank you, Mark. A telephonic replay of this conference call will be available for 24 hours. Dial-in information can be
+found in the press release issued earlier today. Please call the Investor Relations department with follow-up questions
+from this call. We look forward to speaking with you. Thank you for joining us today. And with that, I'll turn the call
+back to the operator for closing.
+Operator
+Company Name: Oracle
+Company Ticker: ORCL US
+Date: 2015-09-16
+Event Description: Q1 2016 Earnings Call
+Market Cap: 165,941.67
+Current PX: 38.27
+YTD Change($): -6.70
+YTD Change(%): -14.899
+Bloomberg Estimates - EPS
+Current Quarter: 0.652
+Current Year: 2.694
+Bloomberg Estimates - Sales
+Current Quarter: 9538.286
+Current Year: 38585.091
+Page 13 of 13
+Thank you for participating on today's conference call. This concludes today's conference. You may now disconnect
+and we thank you for your participation.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

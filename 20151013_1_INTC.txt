@@ -1,0 +1,546 @@
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 1 of 12
+Q3 2015 Earnings Call
+Company Participants
+• Mark H. Henninger
+• Brian M. Krzanich
+• Stacy J. Smith
+Other Participants
+• Christopher Brett Danely
+• Ross C. Seymore
+• Stacy Aaron Rasgon
+• John William Pitzer
+• James V. Covello
+• Vivek Arya
+• Douglas Freedman
+• David M. Wong
+• Romit J. Shah
+• Ambrish Srivastava
+• Michael C. McConnell
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the Intel Corporation Third Quarter 2015 Earnings Conference Call.
+At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and
+instructions will follow at that time. [Operator Instructions] As a reminder, this conference is being recorded.
+I would now like to turn the conference over to your host, Mr. Mark Henninger, Head of Investor Relations. Sir, you
+may begin.
+Mark H. Henninger
+Thank you, Amanda, and welcome everyone to Intel's third quarter 2015 earnings conference call. By now you should
+have received a copy of our earnings release and the CFO commentary that goes along with it. If you've not received
+both documents, they're available on our Investor website, intc.com. I'm joined today by Brian Krzanich, our CEO, and
+Stacy Smith, our Chief Financial Officer. In a moment, we'll hear brief remarks from both of them followed by Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the
+environment as we currently see it, and as such does include risks and uncertainties. Please refer to our press release for
+more information on the specific risk factors that could cause actual results to differ materially. Also, if, during this
+call, we use any non-GAAP financial measures or references, we'll post the appropriate GAAP financial reconciliation
+to our website intc.com.
+And finally, I'd like to remind everyone that we'll be hosting our Annual Investor Meeting here at our Santa Clara
+headquarters on Thursday, November 19. If you have questions about the event or logistics, please contact Investor
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 2 of 12
+Relations.
+With that, let me hand it over to Brian.
+Brian M. Krzanich
+Thanks, Mark. We executed well against our strategy in the third quarter and delivered revenue just above the midpoint
+of our expectations; as a result of a richer client mix driven largely by our new sixth-gen Core products. Despite
+ongoing macroeconomic headwinds, there are signs that the PC market is beginning to stabilize and we continue to
+benefit from a strategy designed to capitalize on the growing need for the infrastructure that powers the smart and
+connected world. I'd like to take a moment to touch on a few highlights.
+The Client Computing Group products and good/better/best segmentation strategy drove record Core mix. The third
+quarter saw the release of both Windows 10 and our sixth-generation Core microprocessors; formally known as
+Skylake. Our partners in the industry are using this combination to drive an unprecedented innovation, creating new
+generation of high-performance enthusiast desktops and thinner, lighter and more versatile two-in-ones.
+There are more than 50 sixth-generation Core systems in the market available and shipping now and we expect to more
+than triple that number by the end of 2015. We remain solidly on track to our previously committed goal to improve
+mobile profitability by $800 million. Over 75% of that goal has already been realized to-date. At the same time, our
+strategy to be a foundational supplier of Internet infrastructure is delivering growth.
+Our Data Center, Non-Volatile Memory and IoT Groups all posted double-digit growth year-over-year. DCG grew
+12% on strong cloud and networking volume. At the same time, the Internet of Things Group grew 10%
+year-over-year, driven by the video, manufacturing and retail segments. The Altera transaction remains on track to our
+original six-month to nine-month closing schedule. During the quarter, both U.S. regulators and Altera stockholders
+approved the transaction. We are excited about the new opportunities and innovations that integrated FPGAs will make
+possible in the Data Center and the Internet of Things.
+In the third quarter, the strength in our Memory business continued, growing 20% year-over-year. We are excited about
+our 3D XPoint technology, the industry's first new memory category in more than two decades. This breakthrough
+technology is up to 1,000 times faster than NAND and up to 10 times denser than conventional memories like DRAMs.
+This enables memory-intensive applications to be performed at much faster rates and much lower costs, opening up
+entirely new opportunities.
+3D XPoint is evidence of our commitment to innovation and it's a direct result of our 10-plus-year research and
+development pipeline. While we have more work to do, together these results reinforce my confidence in our strategy
+to create shareholder value.
+I look forward to talking with you more about our opportunities and our plans during our November Investor Meeting.
+And with that, let me turn the call over to Stacy.
+Stacy J. Smith
+Thanks, Brian. Revenue for the third quarter was $14.5 billion, 10% growth quarter-on-quarter and above the midpoint
+of our outlook. The higher-than-expected revenue was driven by higher notebook and desktop platform average selling
+prices as we shipped a record Core mix. Year-on-year revenue was flat. Third quarter gross margin of 63% was in line
+with the outlook. Operating income of $4.2 billion was down 8% year-over-year and up 45% quarter-over-quarter.
+Net income was $3.1 billion, down 6% year-over-year and up 15% quarter-over-quarter, and earnings per share of
+$0.64 was down 3% year-over-year and up 16% quarter-over-quarter. The Client Computing Group had revenue of
+$8.5 billion, a 7% decrease year-over-year. From a PC market perspective, we continue to see weakness in
+non-consumer segments and emerging markets.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 3 of 12
+The worldwide PC supply chain is healthy as we ramp our sixth-generation Core microprocessors, formally known as
+Skylake. Operating profit for the overall Client Computing Group was $2.4 billion, down 20% year-over-year. The
+Data Center, Internet of Things and Memory businesses continue to account for almost 40% of our revenue in the third
+quarter. The Data Center Group had record revenue of $4.1 billion. The 12% growth year-over-year is driven by
+strength in the cloud and improvement in our enterprise business. The Data Center Group had operating profit of $2.1
+billion, up 9% year-over-year.
+The Internet of Things segment also achieved 10% year-over-year revenue growth at $581 million. Additionally, the
+Memory business grew at 20%. The business continued to generate significant cash with $5.7 billion of cash from
+operations in the third quarter. We purchased $1.2 billion in capital assets, paid $1.1 billion in dividends and
+repurchased $1 billion of stock in the third quarter. Total cash balance at the end of the quarter was $20.8 billion, up $7
+billion quarter-over-quarter.
+Our net cash balance, total cash less debt, and inclusive of our other longer-term investments is approximately $5.1
+billion. Over the next two quarters, we expect to complete the acquisition of Altera. During the third quarter, we issued
+$8 billion of new long-term debt consistent with the financing plan I outlined on the last earnings call.
+As we look forward to the fourth quarter of 2015, we are forecasting the midpoint of the revenue range at $14.8 billion,
+up 2% from the third quarter. And we are forecasting the midpoint of the gross margin range to be 62%, a 1 point
+decrease from the third quarter. This revenue forecast aligns with our prior full-year 2015 revenue guidance of down
+approximately 1%, when compared to 2014. Overall, we are seeing a weak PC Client business being offset by strong
+growth in the Data Center, Memory and Internet of Things businesses.
+For the full-year 2015, we expect the Memory business to grow at a fast pace. Both the Data Center and Internet of
+Things businesses will also exhibit strong growth. But the annual growth rate for these businesses will be lower than
+expectations at the beginning of the year as a result of weaker-than-expected macroeconomic growth. We now expect
+the Data Center business to grow in the low-double-digits versus the prior forecast of approximately 15%.
+Relative to our forecast at the beginning of the year, we are seeing a weaker enterprise segment being partially offset by
+a stronger-than-expected cloud segment. The third quarter results and the fourth quarter forecast reinforce our strategy.
+Despite weakness in the macroeconomic environment and the overall PC market, we are achieving solid financial
+results as we benefit from the growth in Data Center, Memory and Internet of Things businesses. More importantly, we
+are building the foundation for future growth.
+The combination of the sixth-generation Core microprocessor and Windows 10 creates exciting devices for the PC
+segment. Our investments in leadership in the Data Center are resulting in strong growth. We have a strong and
+growing Memory business, which is well positioned to disrupt the industry with the launch of 3D XPoint technology.
+And lastly, we are well positioned to benefit in the Internet of Things market. Our process technology leadership and
+our broad range of leadership IP creates a competitive advantage that we believe will result in increased shareholder
+value. And as we complete the Altera acquisition, we expect to broaden our product portfolio and enable even more
+innovation.
+With that, let me turn it back over to Mark.
+Mark H. Henninger
+Okay. Thank you, Brian and Stacy.
+Moving on now to the Q&A, as is our normal practice, we would ask each participant to ask one question and just one
+follow-up if you have one. Amanda, please go ahead and introduce our first questioner.
+Q&A
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 4 of 12
+Operator
+Thank you. [Operator Instructions] Our first question from Chris Danely of Citigroup. Your line is open.
+<Q - Christopher Brett Danely>: Hey, thanks, guys. I guess, just to kind of go over the revenue beat, so it sounds
+like, to paraphrase, it was mostly driven by or all driven by CCG, and that was mostly driven by pricing. Is that true?
+And then, why wouldn't gross margins have been a little better than expected if pricing was so strong? Or if you could
+just set me straight on that.
+<A - Stacy J. Smith>: Yeah. Sure. So, yes, the first approximation, the revenue higher than expectations was a result
+of our richer mix inside the Client Group. You can see the unit and the ASP trends in the supplemental materials that I
+put out. But pretty much to our expectations, it was all due to just a richer mix. We saw strength at the Core i7 level and
+really across the Core product line as we launched Skylake.
+The gross margin question, so if you look at the margin recon, what we saw was we saw some good news associated
+with the richer mix. It was offset by a higher 14-nanometer costs than we were anticipating. We were expecting some
+bad news. We got a little bit more bad news than we anticipated. And that comes down to, we actually ramped the
+Ireland factory a little bit earlier and the first wafers out of that factory were pretty expensive. And so we saw a mixing
+up of cost in Q3 a little bit more than we thought.
+<Q - Christopher Brett Danely>: Okay. Thanks. And for my follow-up, you mentioned some demand going on out
+there, some demand changes in the geos and everybody's concerned about China. Can you just comment on your
+business in China and maybe just talk about how your geos did in general versus expectations.
+<A - Brian M. Krzanich>: Sure. This is Brian. I think if you take a look at it, there's been a trend this entire year
+where the mature markets have tended to be the strongest for us, so U.S., Western Europe, and Asia, PRC, parts of
+Eastern Europe, developing countries not being as strong, they're having some softness; that carried into the third
+quarter as well. And so if you just take a look at China in general, it kind of mimics that in that – if you look at sales,
+they're down slightly. They're softer. And it's more of the consumer than the enterprise in that space. And across all the
+different segments, we saw it across the board.
+<Q - Christopher Brett Danely>: Okay. Thanks, guys.
+Operator
+Thank you. Our next question comes from Ross Seymore of Deutsche Bank. Your line is open.
+<Q - Ross C. Seymore>: Hi, guys. Thanks for letting me ask a question. I'm going to follow up on the ASP side of
+things. Stacy, could you give us a little color underneath the covers on how the CCG ASPs can be up 15%
+year-over-year, when the desktop and notebook breakdowns are up at most, like, half or a third of that. And then, how
+sustainable is that ASP increase going forward? As I notice, you did not put it into your gross margin benefit in the
+fourth quarter.
+<A - Stacy J. Smith>: Yeah. So on to your first question, the piece of math you're missing is what's going on in tablets.
+And while it's a relatively small portion of the business, if you remember, a year ago we were seeing very significant
+contra-revenue dollars, which was coming out of ASP. And those for the large part have abated. And so it's that change
+in tablets that's giving you that average that's higher than both desktop and notebook. We provided it today. If you just
+look at desktop, the ASP is up about 8% year-on-year and notebook ASP is up about 4% year-on-year, and that's really
+just mix.
+<Q - Ross C. Seymore>: Thank you.
+<A - Stacy J. Smith>: And I'm sorry, there was a second part to your question...
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 5 of 12
+<Q - Ross C. Seymore>: Oh, I just asked the sustainability and what it would do to gross margin, like you didn't
+mention it in the fourth quarter as far as it being an ASP benefit.
+<A - Stacy J. Smith>: Yeah. We're shipping a rich mix; that's been true across 2015. If you just – against the backdrop
+of a relatively weak PC market, we've seen pockets of strength. And a lot of that's been at the high-end. And I think it's
+coming down to we've got some great technology there. We are doing a reasonably good job of segmenting the product
+line. So it's not one size fits all anymore. You have all-in-ones and gaming PCs. We've launched a specific line now for
+gamers, those kinds of things. I think it's likely to stay a fairly rich mix. So if it's not in the gross margin recon, it just
+means we're expecting it to maintain not necessarily grow from here, but also not necessarily come down.
+<Q - Ross C. Seymore>: Great. And, I guess, as my follow-up, looking at your MCG, which you used to call the MCG
+side, and more specifically, the cellular side, you've had another reasonably large player exit that market during this last
+quarter in Marvell. Can you just give us an update on where you are with your LTE and maybe SoFIA product lines?
+And strategically, have you noticed any change in that business now that the number of suppliers at the high-end seems
+to be down to two?
+<A - Brian M. Krzanich>: Yeah. So I think – so let me start with the first part of your question, which is how is the
+progress going inside. So we have our 7260 modem. It's been shipping throughout this year. There are products
+throughout the world that are using that modem, including in the U.S. The 7360, which is our next-generation modem
+will be shipping by the end of this year with products to be announced by our customers next year. So the LTE modem
+ramp, basically, you need to be on a yearly cadence with these modems, is going well.
+SoFIA 3G and the 3G-R, which is the Rockchip version of the SoFIA, is in market today. You can see tablets and
+phones with those today. You'll see the first of the SoFIA LTEs next year, first half of next year, and the SoFIA LTE
+with Intel 14-nanometer in the back half of next year. And so those continue on schedule as well.
+And market dynamics, I guess, the way I look at the modem business is it's not really dependent. It's a competitive
+market, and it's not as much about how many players are in it. There's actually, I think, more than two. But it's really
+about keeping the yearly cadence and having the right technologies in place and being competitive. And it doesn't
+really matter almost how many there are. There will be somebody there trying to compete with you at that leading edge.
+That's where the modem is really driven at that leading edge.
+<Q - Ross C. Seymore>: Great. Thank you.
+Operator
+Thank you. Our next question comes from Stacy Rasgon of Bernstein. Your line is open.
+<Q - Stacy Aaron Rasgon>: Hi, guys. Thanks for taking my questions. First, can you tell us what drove the CapEx cut
+this quarter and what that implies for how you're viewing the sort of forward unit trajectory as we exit the year?
+<A - Stacy J. Smith>: Yeah. Sure. It's actually – it's a pretty specific issue this quarter. We upgraded the configuration
+of a specific piece of equipment that we were going to buy. We had some delivery slots that were towards the end of
+this year. As we upgraded to a richer configuration, it swapped out the delivery slots from the end of this year to Q1 of
+next year, so just shifted a few hundred million dollars' worth of CapEx from 2015 to 2016.
+In terms of the outlook for next year, we're not providing that forecast now. We'll talk obviously a lot more about that
+in November. You do have to keep in mind this was an unusually low year. So I'd expect directionally CapEx will be
+up some next year, but we'll talk much more about that in November.
+<Q - Stacy Aaron Rasgon>: Got it. Thank you. For my follow-up, I just want to clarify. So you're essentially holding
+your Q4 revenue guide effectively unchanged versus what was implied before. We've got Data Center, which is
+basically lower. PC outlook is still weak, and it seems like the unit outlook there may be lower than it was. Your CapEx
+cut again suggests you don't see the unit trend improving. Is it fair to say then that really the pricing outlook is really all
+that's kind of helping you support the outlook into Q4?
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 6 of 12
+And I guess, you sort of talked about a little bit on sustainability of that then as you see it. But I guess, would you
+define sort of the – I guess, the outlook on pricing now to be the biggest near-term risk beyond just what the channel's
+doing? I guess, is pricing the biggest near-term risk in terms of what's driving the business if we're looking over the
+next couple of quarters as we exit the year?
+<A - Brian M. Krzanich>: So let me start with this. And then, I'm sure Stacy's going to have something to add, Stacy.
+I think first, you made a comment that we're not – given the CapEx shift, we're not thinking about units growing.
+Anything we spend in CapEx today is really about capacity probably more towards the end of next year or maybe even
+into 2017. So you have to always remember there's this lag. And that's why, as we looked at the tool, we actually were
+making an adjustment on the efficiency of that tool, basically, the number of units per tool out in order to get more
+capacity when that tool is really required. So I want to just separate that so people don't get the wrong message about
+the CapEx and what we're viewing in the future.
+If you take a look at Q4, what we said was it's actually, relatively a seasonal, when you just take a look at the unit level
+standpoint. So there's a natural decline in the total number of units as you go from Q3 into Q4 based on just the holiday
+shift. Now, we're going to move – if you take a look at Q4 versus Q3, there's a higher percentage of Skylake, which is
+our sixth-generation Core, as we talked about. And we think there will be a richer mix as you move into there. So that's
+kind of how Q4 was laid out.
+And then, as we said, we're not really talking about 2016 yet until the Investor Meeting. But I think we should separate
+out the CapEx. We've predicted a seasonal Q4, but with a mix that is remaining rich, but that richness is based on both
+the great products that we've been producing, but also a richer percentage of Skylake/Intel sixth-gen Core.
+<A - Stacy J. Smith>: Yeah. I guess, I'd just add. I would just zoom out a little bit on the math. We exited Q3 with
+healthy worldwide supply chain inventories. We actually think we probably under-shipped the market a little bit in Q3.
+And we're forecasting a seasonal Q4. And there's a little bit of movement in each of the businesses, but nothing that
+really moves the numbers. So to us it feels like a pretty natural forecast in support of all the data we've seen.
+<A - Mark H. Henninger>: Thanks, Stacy.
+<Q - Stacy Aaron Rasgon>: Thank you, guys.
+Operator
+Thank you. Our next question comes from John Pitzer of Credit Suisse. Your line is open.
+<Q - John William Pitzer>: Yeah. Good afternoon, guys. Thanks for letting me ask a question. Stacy, maybe just a
+follow-up on the September quarter, you said in your prepared comments that platform for client was up about 3% on a
+volume basis. Can you help me better understand what desktops and notebooks did sequentially? Because if I kind of
+wreck the year-over-years, I'm getting up high-single-digit to low-double-digit sequentially. Is that right?
+And then, just relative to your comment earlier about inventory, how does that jibe with sort of a lean inventory? Or do
+you actually feel like Skylake is producing a build or will continue to produce a build into the calendar fourth quarter?
+<A - Mark H. Henninger>: Yeah. I think that – so we saw units up some in Q3. But I think the year-over-year
+compare probably tells the tale a little bit better. We were down 14%, 15% between notebooks and desktops. When you
+compare that against what the third-parties would say happened with the TAM, they're kind of down in the more
+high-single-digits. So I think we under-shipped a bit relative to the overall TAM. And when we go do our test of
+inventory, we come back with healthy inventory levels, if that's what you're getting at.
+<Q - John William Pitzer>: Well, I guess, what I'm getting at is just a seasonal Q4 with a new product launch and
+under-shipping in Q3. I would assume that Q4 could actually be better. I guess, I don't know what I'm missing relative
+to that math.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 7 of 12
+<A - Mark H. Henninger>: Maybe you and Stacy should go arm-wrestle, and between the two of you can figure out
+whether we're too high or too low. So, yeah, I mean, there could be headwinds and tailwinds as we go into the quarter
+as always. But we're kind of looking at it saying we've got healthy inventory levels and we're going into the seasonally
+stronger selling season. It feels like we're kind of balanced in terms of the risks and opportunities.
+<Q - John William Pitzer>: That's helpful. And then, guys, my follow-up. Brian, just on the Data Center Group,
+you're going to be a little bit shy on the long-term target this year because of macro. Do you have to rethink what that
+long-term growth rate target should be? And I guess, more importantly, at what point is the enterprise part of the
+business small enough because that's actually the most macro-sensitive where these macro issues won't kind of be this
+significant?
+<A - Brian M. Krzanich>: Sure. So I don't want to – I'm not going to go rethink the long-term growth. We are still
+very confident that we can beat this over the long term growing at the mid-teens level. You really have to take a look at
+this, John, over a longer period of time. You can't live in this industry by a quarter. For example, we've talked about
+enterprise is a bit weak right now. And the cloud has been basically helping us in growing at a rate faster than we'd
+even projected as we entered this year. But what typically happens in the fourth quarter is the cloud – enterprises tend
+not to do large purchases in the fourth quarter.
+Now, they have in the past at times, but in general, don't because really fourth quarter is their selling season. And so
+they don't want to disrupt their systems during that quarter. And then it comes back in the first half of the follow-on
+year. So there's always this lumpiness to this quarter-by-quarter. And you have to look over a much longer period of
+time.
+Your second kind of question built into that is when does cloud and networking and the rest of the infrastructure work,
+because I really want to remind people that what we're doing in the Data Center is not only just growing cloud versus
+enterprise, but we're driving hard into networking. We're driving. Next year, you'll see our silicon photonics. You'll see
+FPGAs with Altera. So it's a broad spectrum of products as we increase our footprint in the Data Center. We haven't set
+a date for when those are big enough that they offset enterprise, but it's not long. It's in the near future that we can
+offset enterprise weakness.
+<Q - John William Pitzer>: Thank you.
+Operator
+Thank you. Our next question comes from Jim Covello of Goldman Sachs. Your line is open.
+<Q - James V. Covello>: Great, guys. Thanks so much for taking the question. I'll let Stacy and John arm-wrestle over
+the near-term stuff. I'll ask a couple longer-term things. First, I guess, Brian, on the NAND market. Obviously, this has
+been a terrific market for you guys. There's a lot going on there. There's a lot of growth opportunities commensurate
+with what's going on in the Data Center. There seems to be a lot of consternation next year about which of the various
+players are going to do what and potential consolidation on the industry. Maybe you could give us an update on how
+the NAND market looks to you as you go out to 2016 and where you see the opportunities and what kind of
+investments you think you'll need to make there.
+<A - Brian M. Krzanich>: Sure, Jim. So let's start at kind of the macro level and then work our way down. As you
+said, the Non-Volatile business has been very good to us and it's grown at a better rate than we'd even anticipated as we
+entered the year. You need to remember that more than 80% of what we sell are enterprise SSDs that are going into
+those data centers. So we've made a very tight connection. When we think of our NAND business, we think of it tied
+very closely to our Data Center business. And, in fact, we try and build a lot of synergy in the products, the efficiencies,
+the performance of these products as we go to market, and in how we go talk to our customers.
+If I take a look at next year, it's really the ramp of 3D, our 3D NAND's process. And that we believe gives us a
+performance and cost advantage over the competition. We're very comfortable with where we are positioned for next
+year from that perspective.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 8 of 12
+In addition, we talked about our 3D XPoint, which is really a transformational product for the memory market. What
+we said was we'd start shipping limited engineering samples end of this year. You've seen on stage, we showed at IDF
+and a couple other places now, working product with benchmarks. We'll continue to show more and more of those as
+we go through this year. And we'll start shipping product for that next year.
+So as I look out in next year and beyond, it really becomes the 3D NAND driving the real high volume, better cost and
+performance enterprise SSDs, and then 3D XPoint really transforming how memory and storage work together. And
+again, we'll target the Data Center and have that very close cross-linked between these. But I think 3D XPoint, you'll
+actually see in many, many other products as the value of both memory, storage and performance start to play out in a
+variety of applications, IoT, mobile, all over the place.
+<Q - James V. Covello>: That's very helpful. Thank you. Maybe for a follow-up, I'll kind of ask about one of the other
+longer-term drivers that you've talked about, the foundry business to kind of offset what you expect to be continued
+declines in the PC unit business over time or continued slow growth in that business over time. So you've talked about
+NAND. You've also talked about foundry. Could you give us a little bit of an update on the thoughts around foundry?
+Bringing Altera in-house, notwithstanding, do you still see incremental growth opportunities in that space even though
+a lot of them you can't really talk about too much publicly?
+<A - Brian M. Krzanich>: Yeah. We do see incremental growth. And as you said, there are deals we have that we
+cannot talk about publicly. But I do see it still as a growth business. It's not going to be one of those, ones that's going
+to largely move the needle in the next couple of years. But we do see continued growth and continued acquisition of
+customers in that space.
+<Q - James V. Covello>: Very helpful. Thanks so much. Good luck.
+<A - Mark H. Henninger>: Thanks, Jim.
+Operator
+Thank you. Our next question comes from Vivek Arya of Bank of America. Your line is open.
+<Q - Vivek Arya>: Thanks for letting me ask a question. For my first question, I'm wondering what the current run
+rate of losses is tied to your division, which, I guess, formerly was called Mobile Communications Group. So I know
+last year, on a quarterly basis, you were losing about $1 billion a quarter in MCG. And this year, you have made
+improvements, so $800 million for the year. So on a quarterly basis, Stacy, is it reasonable to assume that the loss there
+is less than $900 million? So as you make improvements, it continues to be a source of accretion to your EPS?
+<A - Stacy J. Smith>: So I just want to be clear. We've completely reorganized. We no longer have the MCG segment.
+So when we talk about this, we want to talk about it in the context of the commitments we made to improve the overall
+profitability of our mobile business broadly. We're well on track to the commitment that we made at the beginning of
+the year. As Brian said, we've kind of zoomed up to having achieved 75% of the overall target.
+I did say it was a little bit backend loaded. So if you were doing your quarterly math, you'd probably get to a little bit –
+you wouldn't be linear. You get to a little bit of a bigger reduction as we move into the back half relative to the first
+half, because the contra-revenue dollars really ramped up for us as we brought SoFIA into the marketplace and that was
+more of a back half phenomenon for us.
+<Q - Vivek Arya>: Got it. And then, for my follow-up, could you remind us of what is the Core mix right now, and as
+a percentage of your PC clients and where can it get to? And is that how we should think about what determines the
+upper limit on when client ASPs start to saturate because pricing has been an important part of – in the stability in your
+PC division?
+<A - Brian M. Krzanich>: So we'll go through some of the mix stuff in the Investor Meeting in November. At the
+heart of your question, what's driving the upside, I really think a lot of it is segmentation. And it's interesting. If you use
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 9 of 12
+our desktop business as a proxy, we've been in a low unit growth environment for a while. It's kind of slightly down,
+slightly up kind of thing, this year down a bit more. But we've managed to maintain the profitability of that business
+because we're seeing a lot more segmentation of the business.
+You still have the first time buyer PCs that happen in emerging markets, but increasingly there's relatively expensive
+PCs that provide a lot of value to the consumer, and all-in-ones. And we now see dedicated gaming PCs that are doing
+quite well, and those kinds of things. So I think the future for us is more segmentation of our product line. I think that
+helps us both from the standpoint of volume mix and should give us some opportunities in terms of pricing.
+<Q - Vivek Arya>: Right. Thank you.
+Operator
+Thank you. Our next question comes from Doug Freedman of Sterne Agee. Your line is open.
+<Q - Douglas Freedman>: Hi, guys. Thanks very much for taking my question. I'm going to really follow up on one
+that's already been asked, but see if I can get a little bit more clarity. First off, congrats on getting the 75% target of the
+$800 million savings. Do you want to introduce a new target given that you are so far along in this? And just to try to
+get a handle on how much more cost reduction or what your strategy is really going forward with the mobility side of
+the business. The tablet units look like they did soften here. So my question really is what's your target for your
+mobility IP?
+<A - Brian M. Krzanich>: So let me start with a bit about the strategy and then we can then lay out. I think Stacy gave
+you some indication that we're well on our way. And, in fact, if you take a look at, it's non-linear. So we should be
+handily getting to $800 million and probably slightly above that number. How much, we're not going to forecast that
+right now. Our strategy really, when you – and as we get into the Investor Meeting, we'll talk about next year. But you
+can assume we'll have another goal next year where we do another reduction and prove the P&L. That's fundamental as
+we said we're going to go into this business to make money and we have to get there. So that is absolutely the
+fundamental strategy.
+That said, what we said around mobility is that on tablets we'd pretty much keep our share and our position in the
+market relatively equal to where with it was. I think everybody sees tablets have shrunk this year as a category. And so
+we've been careful about not chasing the bottom as prices dropped figuring out where the value is, where we can go in
+and make a little bit of money and actually add some innovation. So you're going to see some tablets as we go towards
+the holidays with things like RealSense in them that allow people new usages and new applications. And as we go into
+2016, you'll see more of that.
+On phones, it's the same thing. We're being even more careful there, doing partnerships with people, where we can go
+in, we can provide innovation and the right cost model, make some money for both us and our partners. And we've
+been very, very careful. And that's why, we've actually said our bigger and longer-term strategy there is modems to the
+general phone market and then partnerships for specific products. And that's the Spreadtrum and Rockchip partnerships
+that we have right now.
+<Q - Douglas Freedman>: Great. Terrific. Thanks for all that color. If I could similarly, looking over at the Data
+Center business, clearly cloud's been quite an area of strength. I think investors continue to be concerned about your
+new competitors entering that market, some people talking about the progress ARM has made. Can you maybe talk
+about how you're feeling about your competitive positioning against that threat? Thank you.
+<A - Brian M. Krzanich>: Oh, absolutely. All these markets, there's always been a competitor and whether you look
+in the PC market or whether you look in the data center market or any of these, there's been competitors. We've worked
+our way up in this position. And our goal is always to continuously push the product performance. And the way we
+think about it is, is really what does it take to replace ourselves even in this market, especially, the data center. How do
+we do a total cost of ownership such that it pays to go to our next generation in both footprint, cost of operation and
+performance.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 10 of 12
+All of those things are what we drive. That and system integration, right, the whole Rack Scale Architecture and doing
+system integration such that it's simpler, quicker and cheaper for people to install a cloud-based system. We really
+focus on those and just really trying to have the best performance we can in that space. And there will always be
+competitors and our goal is to just consistently outperform. And there will be new entrants and old entrants all along
+trying to win share away from us. And that's going to be a norm.
+<Q - Douglas Freedman>: Great. And congratulations on the strong results.
+<A - Brian M. Krzanich>: Thanks.
+Operator
+Thank you. Our next question comes from David Wong of Wells Fargo. Your line is open.
+<Q - David M. Wong>: Thanks very much. Your Client Computing Group, the operating margins you reported
+jumped several percentage points in the September quarter. Can you give us some idea as to what you expect going
+forward in the near term? And also, do you have a long-term goal for operating margin for this group?
+<A - Stacy J. Smith>: So we don't forecast at that level, David. On a long-term view, we'll – as we always do, we'll
+give you some thoughts in terms of what the long-term growth potential and overall profitability goals are when we get
+to November. In general, what you're seeing there when you look at it sequentially is you're seeing a quarter where
+volume was up some. And we had a nice rich mix as we launched Skylake. So that helped a lot from the standpoint of
+profitability quarter-on-quarter.
+<Q - David M. Wong>: Okay. Great. And are there any new major product launches for Data Center we might expect
+this year in the remaining months?
+<A - Brian M. Krzanich>: Nothing that we haven't already made public, no.
+<Q - David M. Wong>: Okay. Great. Thanks very much.
+Operator
+Thank you. Our next question comes from Romit Shah of Nomura. Your line is open.
+<Q - Romit J. Shah>: Yes. Thank you. I had a question on the PC market. Brian, every year, we're looking for –
+calling for a bottom in PCs. And last year even though the units were better than expected, they were still down. This
+year's obviously been weaker. But now we're at the point where you look at the supply chain as you guys characterize
+it, it's fairly lean. You've got a new operating system from Windows plus Skylake. And so it just seems like all the
+pieces are there for PCs to finally bottom, but I wanted to gauge your confidence.
+<A - Brian M. Krzanich>: I guess, my answer to that would be I do believe that we're in a unique situation where we
+have, as you said, a new operating system with Windows 10. We have our sixth-generation Core Skylake in place. We
+have a lot of innovation from the OEMs. We have some additional products like our innovation like RealSense. You'll
+see some unique memory architectures next year, even 3D XPoint gets into this space. But I do think that there's a good
+point for optimism.
+That said, some of these transitions are going to take some time. And so I'm very cautious with people to say how fast
+and when. So if you take a look at it, there's the ability to do Windows 10 upgrades today, but actual on-shelf new
+system isn't till later this month. So it's not until later this month that, actually, you can walk into the store and get an
+on-shelf system with Win 10.
+Enterprises will go, I think, quicker to Win 10 than some of the prior generations of Windows, but still, enterprise takes
+a while to do these kinds of conversions. So it will be into next year, those conversions. So I do see that this is a great
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 11 of 12
+opportunity and that we should see some tailwinds pushing us in the PC market, but it's going to be over time. It's not
+going to be, boy, next quarter it jumps. So I kind of want to lay out that it's going to be over this next year or so that it
+takes to get this transition through.
+<A - Stacy J. Smith>: If I can just add, as Brian and I talk about the business and think about it, I think this quarter is a
+great illustration point of how we view it. In a time period where PC units are down in the high-single-digits or the
+TAM level, we still get enough growth from the Data Center and the Memory business and the Internet of Things to
+pretty much tread water in terms of revenue growth, right. And you can see it in our results in Q3. In fact, you can see it
+in our results for the year.
+If PC units are down in the mid-single-digits, we actually grow at a pretty fast pace. And if we get through while the
+PC units are flat, we're growing at a very fast pace. That's kind of fixing the growth rate for everything else, but it's a
+good way to think about what our strategy is and how we're driving the business. So we don't really need unit growth to
+grow the company at a fast pace, because we're much less dependent on the PC segment than we've historically been.
+And our growth really comes from the Data Center, it's a very large business. And then we're investing in things like
+Memory and the Internet of Things business that we think will add some growth to that.
+<Q - Romit J. Shah>: That's helpful. Thank you.
+<A - Mark H. Henninger>: Operator, I think we have time for two more questions.
+Operator
+Thank you. Our next question comes from Ambrish Srivastava with BMO Capital Markets. Your line is open.
+<Q - Ambrish Srivastava>: Hi. Thank you, Mark. Thanks for squeezing me in. I just had a question on the gross
+margin, Stacy. I'm looking at the year-over-year comparisons for similar revenue run rate and gross margin is going to
+be down about 300 bps. Is the biggest offsetting factor on a year-over-year basis, is the startup cost or – because unit
+costs should be getting lower, or am I not right?
+<A - Stacy J. Smith>: No, the biggest difference compared to a year ago – so if you look back to Q3 of 2014, if
+memory serves, I think we were at 65%, we were 63% in Q3 of this year. And the units are down some from last year.
+We've talked about this is a weaker TAM. So that's one piece. But the bigger piece is 14-nanometer costs. And you're
+right. We're coming down the cost curve pretty rapidly on 14-nanometer, but it's becoming a richer and richer
+percentage of the overall shipment mix and 14-nanometer still is more than 22-nanometer. And so we've seen a little bit
+of a mix-up in terms of costs as we've worked our way through 2015.
+<Q - Ambrish Srivastava>: Got it. Got it. So the cadence of the usual Tick-Tock, the cadence of the startup cost
+shouldn't change as much. In Q1 we should see be seeing an increase in startup costs for 10-nanometer, correct?.
+<A - Stacy J. Smith>: We're actually seeing a bit of an increase in startup cost starting in Q4. If you look at the Q4
+margin reconciliation, you start to see that increase in startup cost.
+<Q - Ambrish Srivastava>: So it shifted more to Q4 and there won't be as much in Q1. Is that the right takeaway
+then?
+<A - Stacy J. Smith>: Well, you keep in mind that the elevation of startup cost tends to last way more than one
+quarter. I'm just saying you're seeing the front edge of the elevated 10-nanometer startup cost is kind of starting as we
+speak.
+<Q - Ambrish Srivastava>: Got it. Okay. Thanks for the clarification. Thank you.
+<A - Mark H. Henninger>: Thanks, Ambrish.
+Company Name: Intel
+Company Ticker: INTC US
+Date: 2015-10-13
+Event Description: Q3 2015 Earnings Call
+Page 12 of 12
+Operator
+Thank you. Our final question comes from Michael McConnell of Pacific Crest Securities. Your line is open.
+<Q - Michael C. McConnell>: Thank you. Just regarding DCG again, I think I recall in Q2 the weakness in enterprise
+was largely in China. Just in that bucket, are you starting to see the weakness spread out into different geographic
+regions? Or is it still mostly isolated in China relative to your original expectations?
+<A - Stacy J. Smith>: Yeah. I think we said in Q2 that it was more pronounced in China, but it was general across the
+enterprise. And that is consistent with what we see now. I just want to come back to what Brian said earlier. The overall
+enterprise segment is weak. And when you look at it that correlates very closely for us over time with GDP growth
+rates. And the GDP growth rates are quite a bit less than we thought when we started the year.
+We're offsetting much of that – in fact, we're offsetting most of that by a cloud growth rate that's significantly more
+than we thought when we started the year. So general macroeconomic weakness, it's pronounced in China, but we see it
+elsewhere in the enterprise segment being offset by, I'd say, torrid growth rates in cloud computing and we'll share
+more on that when we get to November.
+<Q - Michael C. McConnell>: Okay. Great. And then, just my final follow-up would be, just relative to PC end
+demand, as far as you can tell the early part of this quarter obviously, we'll get more signals here over the next month or
+so. What are you seeing right now at the end demand side, not necessarily the channel inventory ups and downs?
+<A - Brian M. Krzanich>: Yeah. We can't give you [indiscernible] (46:40) talk about the current quarter in this call.
+<A - Stacy J. Smith>: I would just say everything that we knew as of 1 o'clock this afternoon is reflected in our
+forecast.
+<A - Brian M. Krzanich>: Yeah.
+<Q - Michael C. McConnell>: Great. Thank you.
+<A - Stacy J. Smith>: Thank you.
+Mark H. Henninger
+Thanks, Mike. All right. Thank you all for joining us today. Amanda, please go ahead and wrap up the call.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude today's program. You may
+all disconnect. Everyone have a great day.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
