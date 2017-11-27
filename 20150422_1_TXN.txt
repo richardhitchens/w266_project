@@ -1,0 +1,649 @@
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 1 of 12
+Q1 2015 Earnings Call
+Company Participants
+• David Pahl
+• Kevin P. March
+Other Participants
+• James V. Covello
+• Christopher B. Danely
+• John W. Pitzer
+• Stacy A. Rasgon
+• Harlan L. Sur
+• Ross C. Seymore
+• Joseph L. Moore
+• Timothy Arcuri
+• Romit J. Shah
+• Ambrish Srivastava
+• Doug Freedman
+• Blayne Curtis
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day. Welcome to the Texas Instruments 1Q 2015 earnings release conference call. At this time, I'd like to turn the
+conference over to Dave Pahl. Please go ahead, sir.
+David Pahl
+Good afternoon, and thank you for joining our first quarter 2015 earnings conference call. As usual, Kevin March, TI's
+Chief Financial Officer, is with me today. For any of you who missed the release, you can find it and relevant
+non-GAAP reconciliations on our website at ti.com/ir. This call is being broadcast live over the web and can be
+accessed through TI's website. A replay will be available through the web.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to
+differ materially from management's current expectations. We encourage you to review the notice regarding
+forward-looking statements contained in the earnings release published today, as well as TI's most recent SEC filings,
+for a more complete description.
+Revenue growth of 6% from a year ago was within the range of expectations we provided in January. Automotive and
+industrial markets were strong, as we expected they would be. However, revenue was in the bottom half of the range
+for two reasons. First was weak demand in the last month of the quarter in our personal electronics market, particularly
+PCs, and in our communications equipment market, particularly wireless infrastructure equipment. We believe these
+market-specific issues were due to delay of investments by carriers in capacity upgrades for wireless infrastructure
+equipment and a weaker-than-expected refresh cycle for Windows XP. The second reason was a steep decline in the
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 2 of 12
+currency exchange rate for the euro relative to the U.S. dollar. The euro dropped about 10% during the quarter, and
+even though only about 5% of TI's revenue is transacted in euros, it was a sharp enough drop that it negatively
+impacted our revenue by about $20 million more than we had anticipated.
+Even with these pockets of weaknesses, our core business of Analog and Embedded Processing turned in their seventh
+and 10th consecutive quarter of year-over-year growth, respectively. Combined, these businesses grew 9% and were
+86% of our total revenue. Earnings per share were $0.61, reflecting our continued attention to cost controls. Although
+the vast majority of our revenue was transacted in U.S. dollars, ROE negatively impacted revenue by $20 million,
+which translated to only about $5 million of impact to earnings and therefore cash flow. This is due to a partial natural
+hedge against negative currency fluctuations due to our non-U.S.-based operations. It's nice to have a position to be in
+this when you have almost 90% of our revenue comes outside of the U.S.
+With that as a backdrop, Kevin and I will move on with our report on business performance that we believe continues
+to represent the ongoing strength of TI's business model. In the first quarter, our cash flow from operations was $609
+million. We believe that free cash flow growth, especially on a per-share basis, is most important to maximizing
+shareholder value in the long term. Free cash flow for the trailing-12-month period was $3.6 billion, up 17% from a
+year ago. Free cash flow was 27% of revenue, consistent with our targeted range of 20% to 30% of revenue. This is a 2
+percentage point improvement from a year-ago period and we believe reflects our improved product portfolio and the
+efficiencies of our manufacturing strategy, which includes our growing 300-millimeter output and the opportunistic
+purchases of assets ahead of demand.
+We also believe that free cash flow will be valued only if it's returned to shareholders or productively invested in the
+businesses. For the trailing-12-month period, we returned $4.1 billion of cash to investors through a combination of
+stock repurchases and dividends.
+In the first quarter, TI revenue grew 6% from a year ago, with growth in both Analog and Embedded Processing.
+Analog revenue grew 11% from a year ago, primarily due to power management and high-volume analog and logic.
+Silicon Valley Analog and high-performance analog also grew. As we mentioned earlier, this is the seventh quarter of
+year-over-year growth for Analog.
+Embedded Processing revenue grew 2% from a year ago, due to microcontrollers and connectivity. Processor revenue
+declined, which was impacted by the weakness in wireless infrastructure. And, again, as I mentioned earlier, this is the
+10th consecutive quarter of year-over-year growth for Embedded Processing.
+In our Other segment, revenue declined 10% from a year ago, primarily due to custom ASIC products, which also are
+heavy in wireless infrastructure, as well as DLP products.
+In distribution, resales increased 11% from a year ago. Weeks of inventory remained at historically low levels of just
+under 4.5 weeks, which is a decrease by more than a week from a year ago and is even with the fourth quarter. This
+level has decreased over the past few years because we have structurally changed how our inventory is managed and
+the distribution channel with our consignment program.
+From an end market perspective versus a year ago, automotive grew, with most sectors inside this market growing at
+double-digit rates. Industrial had broad-based growth. Personal electronics grew, although growth in PCs was lower
+than we expected. Communications equipment declined due to wireless infrastructure, and enterprise systems grew.
+Kevin will now review profitability, capital management, and our outlook.
+Kevin P. March
+Thanks, Dave, and good afternoon, everyone. Gross profit in the quarter was $1.82 billion, or 57.7% of revenue. Gross
+profit increased 13% from the year-ago quarter, and gross margin was up almost four points. Gross profit reflects
+higher revenue, increased factory loadings, and benefits from our efficient manufacturing strategy as we build more
+analog chips on 300-millimeter wafers.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 3 of 12
+Moving to operating expenses, combined R&D and SG&A expenses of $777 million were down $68 million from a
+year ago. The decline primarily reflects the targeted reductions in Embedded Processing and Japan that were previously
+announced. As we said, that restructuring was essentially complete at the end of last year.
+Acquisition charges were $83 million, almost all of which were the ongoing amortization of intangibles, which is a
+noncash expense. Operating profit was $958 million, or 30.4% of revenue. Operating profit was up 39% from the
+year-ago quarter. Operating margin for Analog was 35.4%. Operating margin for Embedded Processing was 18.3%,
+more than doubling from a year ago, as we executed our restructuring plan to better align resources with the
+opportunities that we are pursuing as we benefit from our investment for growth. Net income in the first quarter was
+$656 million or $0.61 per share.
+Let me now comment on our capital management results, starting with our cash generation. Cash flow from operations
+was $609 million in the quarter. Inventory days were 124, about three days more than planned due to revenue coming
+in at the bottom half of our expectations. Capital expenditures were $123 million in the quarter. On a trailing-12-month
+basis, cash flow from operations was $4.04 billion, up 16% from the same period a year ago. Trailing-12-month capital
+expenditures were $431 million, or 3% of revenue. As a reminder, our long-term expectations for capital expenditure is
+to be about 4% of revenue, which includes our $8 billion 300-millimeter Analog plan discussed in our recent capital
+management call.
+Free cash flow for the past 12 months was $3.61 billion, or 27% of revenue. Free cash flow was 17% higher than a year
+ago. As we said, we believe free cash flow growth, especially on a per-share basis, is most important to maximizing
+shareholder value in the long term and will be valued only if it is returned to shareholders or productively invested in
+the business. As we've noted, our intent is to return 100% of our free cash flow, plus any proceeds we receive from the
+exercise of equity compensation, minus net debt retirement.
+In the first quarter, TI paid $356 million in dividends and repurchased $670 million of our stock, for a total return of
+$1.03 billion. Total cash returned in the past 12 months was $4.14 billion. Outstanding share count was reduced by
+3.2% over the past 12 months and by 39% since the beginning of 2005. These returns demonstrate our confidence in
+TI's business model and our commitment to return excess cash to our shareholders.
+Fundamental to our commitment to return cash are our cash management and tax practices. We ended the first quarter
+with $3.30 billion of cash and short-term investments. TI's U.S. entities owned 82% of our cash. Because our cash is
+largely onshore, it is readily available for a variety of uses, including paying dividends and repurchasing our stock. TI
+orders in the quarter were $3.21 billion, up 5% from a year ago.
+Turning to our outlook, we expect TI revenue in the range of $3.12 billion to $3.38 billion in the second quarter. This
+represents continuing weakness in our communications equipment and personal electronics markets, particularly for
+wireless infrastructure equipment and PCs, respectively. We also do not expect a near-term rebound in foreign currency
+exchange rates. We expect second quarter earnings per share to be in the range of $0.60 to $0.70. Acquisition charges,
+which are our noncash amortization charges, will remain about even and hold at about $80 million to $85 million per
+quarter for the next five years. Our expectation for our annual effective tax rate in 2015 remains about 30%, and this is
+the tax rate you should use for the second quarter and for the year.
+In summary, we believe that the first quarter demonstrates the strength of TI's business model. While we are not
+immune to demand and currency changes, their effects are softened by the diversity of our portfolio and our markets.
+With that, let me turn it back to Dave.
+David Pahl
+Thanks, Kevin. Operator, you can now open the lines up for questions. In order to provide as many of you as possible
+an opportunity to ask your questions, please limit yourself to a single question. After our response, we'll provide you an
+opportunity for additional questions. Operator?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 4 of 12
+Q&A
+Operator
+Thank you. [Operator Instructions] And we go first to Jim Covello with Goldman Sachs.
+<Q - James V. Covello>: Guys, thanks so much for giving me the chance to ask a question. There's so much
+controversy in the industry today about whether the industry is as cyclical as it used to be, less so, et cetera. When I
+look at your year-over-year growth rates, the June quarter represents the first time you've had a year-over-year decline
+at the midpoint of your guidance in a long time. How do you think about that in the context of an industry where many
+are arguing that we're not cyclical anymore?
+<A - David Pahl>: Yeah, Jim, as you know, we've been pretty guarded at trying to predict the cycle. It's not something,
+obviously, that we can control. We really just go to what we can look at and what we can measure. So as you kind of
+tick through the things that you typically look at from a cyclical standpoint, we look at channel inventories are down a
+week from a year ago; they're lean at just under 4.5 weeks. Lead times are remaining consistent. Our cancellations and
+reschedules are very low.
+In addition, we're continuing to deliver on time and very consistently with that. So we've got a couple of pockets of
+weaker-than-expected demand, as we talked about specifically in wireless infrastructure and PCs. At the same time,
+we're seeing automotive and industrial continuing to be strong, as we expect. So that's what we know. That's what we
+can see. The debates will continue on, on how cyclical our industry will be or won't be.
+<A - Kevin P. March>: I might just add that we do have several significant competitive advantages, the combination
+of which we believe is pretty difficult for anybody else to replicate, and it helps us deal with any notion of cyclicality or
+non-cyclicality. And those advantages include that we've got the broadest portfolio in the industry, which really means
+engineers start their design work by looking at us first. We enjoy very low-cost manufacturing for all the reasons that
+you've heard us talk about for the last few years, including our 300-millimeter wafer fabs. We have the broadest sales
+channel – in fact probably three to four times larger than our nearest competitor. And we play in an extremely diverse
+set of markets with long-lived products that can enjoy a significant cash return to our shareholders for a long time. So
+we think that's what's really important to deal with, whatever may be happening in market cycles and just really make
+sure we're a lot more competitively advantaged than everybody else.
+<A - David Pahl>: Do you have a follow-up, Jim?
+<Q - James V. Covello>: Yeah, thanks for that. It was helpful. Obviously you're talking about some weakness in PCs
+and comms. In the industrial segment, we're starting to see some negative news flow from the customers. Do you see
+pockets of weakness but there's just other pockets of strength that are offsetting those industrial customers that may be
+weak? Because I know it's a very broad-based customer base. Or do you just not see any weakness at all in that
+segment at this point? Thanks very much.
+<A - David Pahl>: Yeah, Jim. I'll just say that, like you were hinting to, it's very broad based. So we service over
+100,000 customers. Most of those will reside in industrial. And, again, I think it's probably helpful for me to just go
+through – and when we say industrial, it means something different than I think the investment definition of industrial.
+So it'll include things like factory automation and control, and medical, healthcare, fitness products, building
+automation, smart grid, energy test equipment, motor drives display, space avionics, appliances, and other segments.
+So, again, very, very broad. Of course we'll always see pockets of strength and weaknesses, but overall that industrial is
+doing well. We've seen growth in almost all those sectors that I've described.
+Okay. Thank you. And we'll go to the next caller, please.
+Operator
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 5 of 12
+And we'll go now to Chris Danely with Citi.
+<Q - Christopher B. Danely>: Hey. Thanks, guys. Dave, you did a good job of outlining the – I guess, the relative
+areas of weakness in Q1 from currency and comm and PC. Can you just give us what you think would be a bigger drag
+in terms of company sales from PC versus communications? And then do you guys expect a negative impact from
+currency in Q2 as well? And if you could give us magnitude of that negative impact.
+<A - David Pahl>: Yeah, so the one that's pretty straightforward to identify, because it's really just math walking
+through the numbers, is that on a year-on-year basis we'll probably see about a $50 million headwind due to currency
+exchange rates. And obviously we're not assuming that we see a rebound in those rates.
+We'll still see and expect to see the weakness in PCs and wireless infrastructure. And kind of in the balance of the
+business, as you know there's always puts and takes. As an example, second quarter a year ago, DLP was very strong.
+If you remember, it was benefiting from several world events, one of them like the World Cup. That won't repeat, so
+that'll be weaker than it was a year ago and will continue for the rest of the year. But inside of that bucket we'll continue
+to have puts and takes.
+Do you have a – the other comment that I'd just make on that, that although we see those pockets of weakness, if you
+look at the core businesses of Analog and Embedded, we do believe that those will continue to perform well.
+So do you have a follow up, Chris?
+<Q - Christopher B. Danely>: Yeah, actually just a couple clarifications. So would you expect the PC or the wireless
+infrastructure to have a bigger drag on your revenue in Q2? And then it almost seems like – do we need the dollar to
+weaken again for that impact to go away, i.e., if the dollar remains strong, is that going be like a negative impact for
+you guys every quarter?
+<A - Kevin P. March>: Chris, I would say that we probably don't have enough detail to tell you whether wireless
+infrastructure or PC, which is going be more of a drag. We just don't expect them to be recovering in the second
+quarter.
+As relates to ROE, certainly with – if you take a look at just the euro alone versus a year ago, it's down 23%. The yen is
+down 14%. We roughly average about 5% of our revenue in euros and around 3% in yen. So clearly with that kind of
+weakness on a year-over-year compare, that's going to continue to be an issue that's going to just affect that kind of
+math. Doesn't affect our ability to sell in those markets. Continue to remain very competitive in those spaces, as we
+enjoy a lot of design wins. But unless the ROE moves back and the dollar weakens, then certainly with that kind of
+dramatic decline in those two major currencies, that will be, at least on the fringes, a year-over-year compare headwind
+for us.
+<A - David Pahl>: Yeah. And I'll just add to that that, like we saw in the first quarter, where we had an impact of about
+$20 million because of the natural hedging we've got, the impact to operating profit and free cash flow was really only
+about $5 million. So fairly small on that front.
+Okay. Thanks, Chris. And we'll move on to the next caller, please.
+Operator
+We now go to John Pitzer with Credit Suisse.
+<Q - John W. Pitzer>: Yeah, good afternoon, guys. Thanks for letting me ask the question. I guess I don't want to beat
+a dead horse, but just on the outlook. I mean, when I look at the Q1, it looks like you guys are only missing the
+midpoint of your guide by about $50 million, and you explained $20 million of that on currency. As I go to Q2, if I just
+kind of anchor against seasonality, you're kind of missing it by $150 million to $200 million. And I guess, sequentially,
+are you expecting any more kind of headwinds from currency? I understand the year-over-year compare. I'm kind of
+trying to figure out the sequential compare. And when I look at PCs plus comm infrastructure, help me understand the
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 6 of 12
+percent of the business that represents. I'm thinking around 15%; maybe I'm wrong with that. And I guess I'm trying to
+get a sense as to why you think the miss in Q2 is going be so much larger in those two buckets than the miss in Q1.
+<A - David Pahl>: Yeah, John, I'll take the first part of the question, and Kevin can add in if he'd like to. The first, if
+you look at our PC revenues as a percentage of our total, is around 5%. If you were to include hard drives into that,
+that'll add a few points so you'll be just under 10%, in the upper single digits. If you look at wireless infrastructure, last
+year it was about 10% of our revenue. So obviously combined there, you're in the mid-teens. So that'll give you an idea
+of what that impact is.
+Again, as Kevin kind of walked through the math of like the euro as an example, last year 18% of our revenue was
+done in Europe. About a third of that, so 5%, 6%, is transacted in euro. And, again, sequentially – I don't know if you
+have any additional comments on the impact of the euro?
+<A - Kevin P. March>: Yeah, I think just 1Q to 2Q I think is what you're trying to ask for there, John. The average
+ROE that we experienced on our billings in 1Q for the euro was about 1.13%. And for planning purposes we're using
+1.06% going into 2Q. So there's going be a little bit of a – just a quarter-over-quarter ROE impact just from that
+standpoint as it relates to the euro. Right now we're anticipating the yen to be pretty flat.
+<A - David Pahl>: Do you have a follow-on, John?
+<Q - John W. Pitzer>: Yeah, I do, guys. And I know that within the comm section specifically, you guys were doing a
+little bit of pruning with the product portfolio. And I'm wondering if any of the pruning that you've done is being
+reflected in kind of either sequential or year-over-year growth rates, or do you feel like that that's not a factor as you
+look at the June guide?
+<A - David Pahl>: Yeah, we don't believe that that is a factor, John. I think if you look at the impact that wireless
+infrastructure has, we sell more Analog product than we do Embedded or the custom ASIC products, so it actually hit
+both Analog, Embedded, and Other. Of course you can see the impact more significantly in Embedded and Other
+because it's a higher percentage of that revenue. But, again, we've got a good position really across most of the major
+OEMs there. And so what we're seeing is really a change in shipments and demand.
+So thanks, John, and we'll go the next caller, please.
+Operator
+We go now to Stacy Rasgon with Bernstein.
+<Q - Stacy A. Rasgon>: Hi, guys. Thanks for taking my questions. First I was wondering if you could give us a handle
+on where you see OpEx going next quarter given the revenue shortfall?
+<A - Kevin P. March>: Yeah, Stacy, OpEx was up about as expected fourth quarter to first quarter. And recall that in
+the fourth quarter we typically are down a bit on OpEx because of seasonality for holidays and so on. And the absence
+of those holidays in the first quarter, along with our annual pay and benefit increases, traditionally drives our OpEx up
+quarter over quarter. Those pay and benefit increases kick in in February. So there's really only two months' worth
+inside the OpEx right now in first quarter. So we'll have the full three months. So you'll see just a very slight increase
+going into the second quarter.
+<Q - Stacy A. Rasgon>: Got it. Thank you; that's helpful. For my follow-up, again on currency, I know you guys are
+pointing to sort of direct translation effects. We've had other players who have pointed to demand destruction
+concurrency, and I was wondering if you could give us your point of view on what you're seeing more broadly in the
+market, not just for your revenues but also for your customers. And are you seeing any sort of broad-based canned
+destruction because of the currency movements that we've had?
+<A - Kevin P. March>: Stacy, we've talked about that, but there's no way for us to really point to something and
+demonstrate evidence that that's actually occurring. Given that the entire industry tends to price in dollars for the
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 7 of 12
+preponderance of what's being shipped, there's not a lot of other alternatives, it would seem, for customers from a
+demand standpoint. But that's not to say there might not be a second-order knock-on effect like what you're alluding to.
+And we just don't see any way that we can quantify that with any confidence.
+<A - David Pahl>: Yeah. And there's always pluses and minuses with currency movement. so it's really impossible for
+us to be able to quantify that. Okay. Thank you, Stacy. We'll go to the next caller, please.
+Operator
+We go now to Harlan Sur with JPMorgan.
+<Q - Harlan L. Sur>: Good afternoon, and thank you for taking my question. Given the timing of when you started to
+see the weakness that you talked about in the March quarter and just given the softer-than-seasonal Q2 outlook, would
+you have to ratchet down your wafer fab manufacturing activity or wafer starts here in Q2?
+<A - Kevin P. March>: Harlan, yes we will be lightening up the wafer starts in 2Q. I would caution you, though, that
+pulling back on the wafer starts doesn't necessarily mean that that will have direct impact on our inventory, as the work
+in process in 1Q will become finished goods in 2Q. So we would expect inventory probably still goes up a bit in 2Q
+even though we'll pull back on wafer starts a little bit.
+<Q - Harlan L. Sur>: Okay. Great. Thanks for that. And then Analog was up nicely, 11% year over year despite the
+headwinds. Embedded was up only 2%, which is a pretty significant deceleration year over year versus the prior
+quarter. I'm assuming that the Embedded weakness was primarily driven by DSPs, given the muted wireless
+infrastructure spending environment?
+<A - David Pahl>: That – correct. It was impacted by the wireless infrastructure. And in fact, if you look at the
+businesses inside of Embedded, we had good growth in microcontrollers and connectivity both. But processors were
+down for the exact reason that you identified.
+So, okay. Thank you. Carla, we'll go to the next caller, please.
+Operator
+We now go to Ross Seymore with Deutsche Bank.
+<Q - Ross C. Seymore>: Guys, thanks for letting me ask a question. One other avenue to get at the broad-based
+demand trends – are you seeing any sort of difference in demand patterns from your distributor customers relative to
+the OEM customers? Are they getting any more nervous or excited and willing to carry inventory? I realize the weeks
+of inventory data that you gave before, but from a bookings perspective, any color would be helpful.
+<A - Kevin P. March>: I think all I'd just offer on that, Ross, is that on a year-over-year basis, bookings were up 5%.
+60% of our revenue does go through disty, so clearly we're seeing a lot of the bookings coming through the disty
+channel. The inventory levels they're carrying are about 4.5 weeks, which is down about a week from a year ago. So
+they continue to carry lean levels of inventory. And I think largely that's because they know that we carry inventory on
+consignment. We also maintain very short lead times, as we have for a number of years now. And so their ability to get
+inventory quickly is pretty reliable for them when they order with us. So I don't – from those kinds of elements inside
+that space, there's no real, again, signs that we can look at that says, gee, there's demand destruction going on because
+of ROE. Really can't do anything there.
+<A - David Pahl>: Right. And I'd add, Ross, that if you look at our resales overall, that was very consistent with our
+combined Analog and Embedded sales. So it was in the upper single digits, very close to the same number. Do you
+have a follow-on, Ross?
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 8 of 12
+<Q - Ross C. Seymore>: Yeah, a quick one, just to make sure that I have all the moving parts. It sounds like in an
+answer to a prior question, Kevin, you said OpEx will be up a little. You also said, sounds like utilization will be down.
+It seems like putting that together with your earnings guidance it implies gross margin is going to be down a bit
+sequentially. Is that – one, is that math directionally correct? Two, is the cause of the gross margin simply utilization, or
+is there some mix effect that I also need to appreciate? Thanks.
+<A - Kevin P. March>: You may be missing the mix effects inside there, Ross. I don't expect much change in the
+margin.
+<A - David Pahl>: Okay. Thank you for that question, Ross. We'll go the next caller, please.
+Operator
+We go now to Joe Moore with Morgan Stanley.
+<Q - Joseph L. Moore>: Great. Thank you. In the markets that you're seeing weakness in PCs and wireless
+infrastructure, do you think – is it an inventory or a demand problem? And I guess what is – we've seen other suppliers
+into the PC sector talk about a return to sort of better-than-seasonal second half as you get past the inventory correction.
+Where do you stand on that?
+<A - David Pahl>: Joe, I'd just say first of all that the wireless infrastructure market has notoriously been very choppy
+as you look at demand over the number of years. So there's usually a significant build as OEMs are planning to bid for
+the operators' spend. And then it typically surprises us and there's an over-build that occurs. So one kind of begets the
+other. We think that the wireless infrastructure market obviously long term is a good market for us, and we've got a
+good position in. And just as the numbers come down they'll come up again one day.
+On the PC side, that's only a couple of percent of our revenue, so I don't think we really have any unique insight on
+that. We believe that that weakness is due to the inventory that's created because there wasn't as much demand in the
+XP refresh cycle. But really nothing beyond that. And we'll see how the rest of this quarter goes before we start making
+predictions on the back half. We'll just take it one quarter at a time.
+So you have a follow-on?
+<Q - Joseph L. Moore>: Yeah, and I guess, specifically, I think John Pitzer had mentioned the restructuring that you
+did. But just specifically, you did cut back on R&D and macro base stations, and I'm wondering if there's anything
+directly that would point to that decision versus revenue you're seeing now or is it completely separate from that?
+<A - David Pahl>: Yeah, again, I think that when we look at those markets, they're very long-tailed and product
+cycles. We continue to make investments; they're just not at the same rates that we were making five and 10 years ago.
+And that's not unlike what we've done in other markets as they've begun to mature. So there's other areas of wireless
+infrastructure that looks like it will be very promising growth, like small cells, and we continue to invest at very high
+levels there while we have very little revenue today. So we just believe that we've got to throttle that investment based
+on the opportunity overall.
+So thanks for that question, and we'll go to the next caller.
+Operator
+We go now to Timothy Arcuri with Cowen & Company.
+<Q - Timothy Arcuri>: Thanks a lot. I had two questions. First of all, I had a question about the channel. Did you see
+any meaningful cancels this quarter? And then I had a follow-up on the inventory.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 9 of 12
+<A - Kevin P. March>: No. We saw cancellations continue to run very, very low, as we've seen for a number of
+quarters now. And same is true of reschedules, too, by the way, also very, very low. So no patterns indicating change in
+demand there.
+<Q - Timothy Arcuri>: Okay. Great. And then, Kevin, you said inventory's going to be up I think again, you said, in
+June despite loadings being down. I guess my question is, what do you think is sort of the – now that you've had a
+couple quarters to think about the mix, what do you think is the right normalized level of inventory? And do you think
+that we're going to come back down to sort of that more normalized level during the back half of the year?
+<A - Kevin P. March>: Yeah, Tim, we're going to use 2015 to really kind of monitor the effect of all the changes
+we've been doing with the portfolio and with our operations to model what we think is a more appropriate overall level
+of average inventories to carry. What we did conclude was that the prior model, which had worked for us quite well, of
+105 to 115 days was appropriate given the mix that we had. But clearly as we move to more and more consignment, as
+we move to keeping lead times very short across the vast abundance of our portfolio, that dictates that we've got to
+carry more inventory than we have in the past. And so what we use in 2015 to run various tests on what the appropriate
+level of inventories are to beat the service metrics that our customers have come to expect of us. And then probably by
+the time we get to early next year when we do our capital management update, we'll go ahead and articulate a new
+model at that point in time.
+<A - David Pahl>: Great. Tim, thank you. And we'll go to the next caller, please.
+Operator
+We now go to Romit Shah with Nomura.
+<Q - Romit J. Shah>: Yeah, thank you, Kevin and Dave. I just – I wanted to clarify how these two segments that
+comprise 15% of revenue are driving what I estimate is a 500-basis-point miss relative to seasonality. Are you guys just
+being conservative in anticipation of maybe a fallout in some of your other end markets? Or am I just not fully
+incorporating other parts of the equation here?
+<A - Kevin P. March>: So I'll go ahead and just – I think Dave attempted last time. I'll give it a try. There are several
+moving parts going on there when you look at 2Q, and the best compare is on a year-over-year basis. So just the ROE
+alone impacts us about $50 million from a year-over-year compare for growth rate. Then you go beyond that and
+you've got continuing weakness in wireless infrastructure and PCs. And then you've also got the absence of the benefit
+that DLP had a year ago, which was meaningful due to the World Cup and other large sporting events. In fact we saw
+some of that impact of DLP already begin to occur in first quarter. As we mentioned, DLP was down quite a bit in first
+quarter. So you got those kinds of headwinds – ROE, wireless infrastructure, PC, and DLP – and then we've got the rest
+of the portfolio basically doing fine, consistent with what we've been seeing in the economy for the last few quarters.
+<A - David Pahl>: Do you have a follow on, Romit?
+<Q - Romit J. Shah>: Yeah, thanks for the clarification, Kevin. I just wanted to ask you about M&A. There's been, as
+you guys have seen, a lot of activity over the last year. And when I think about TI, M&A has certainly been part of
+your DNA over the last 10 to 15 years. Can you just talk about how you're thinking about M&A specifically in this
+environment, relative to buying back your own stock?
+<A - Kevin P. March>: Yeah, Romit, our M&A posture hasn't changed at all, meaning that the most important thing is
+that to the extent that we consider an acquisition, it's got to be something that fits into our strategy that's consistent with
+our portfolio interests, and something that we can generate long-term returns on and therefore excess free cash flow for
+our shareholders. If it kind of passes the strategy test, then it's got to pass the numbers test. And, frankly, we have a
+hard time with many of the companies that are out there today, making those kind of numbers work.
+Contrast that to when we bought National back in 2011 at a time when all semiconductor stock prices were
+considerably lower, you can certainly see in retrospect that was a very good return for our shareholders. So we tend to
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 10 of 12
+be very disciplined on that. We'll continue to be disciplined on that. Buying back own shares right now, especially as
+long as they trade below the intrinsic value of the company, is – also continues to be a good return for our shareholders,
+especially from a free cash flow perspective.
+<A - David Pahl>: Okay. Thanks, Romit. We'll go to the next caller, please.
+Operator
+We now go to Ambrish Srivastava with BMO.
+<Q - Ambrish Srivastava>: Hi. Thank you. Kevin, you mentioned if you look at the portfolio, the rest of the business
+is doing fine outside of the factors that you highlighted. If you go back through history and look at such a sharp
+deceleration – such a sharp destruction, let's use that word – on the exchange rate, when do you expect that to manifest
+itself in other parts of the business? So, for instance, the distributors in Europe and other pieces, widgets that semis go
+into for instance, in industrials and autos, what does past currency issues tell us on that front? And then I had a quick
+follow-up.
+<A - Kevin P. March>: Yeah, Ambrish, I wish I had some clever insight on that, but I'm afraid I don't just from an
+experience standpoint. I actually do not recall that in my experience in this capacity – and I've been in this role for a
+very long time now – seeing currency drop this sharply in this short a period of time. So I have no history from which
+to try to get a reference point to answer a question like that. I think we're just all going to have to wait and see where
+this takes us.
+I think the encouraging part is, especially in industrial and automotive, is that the silicon content going into those
+spaces continues to increase year over year. And so despite ROE impacts, I don't think that's going to slow down the
+silicon content increases in those spaces. And, frankly, if you look at the pricing of those end equipments, the cost of a
+$0.50 analog chip going to $0.55 is pretty irrelevant to an automotive customer, I think. So you look at the more macro
+effects and especially where we see growth for semiconductors in auto and industrial, it doesn't seem likely that we
+would see a sharp impact in demand caused just because of ROE. There may be other factors that may lead to that kind
+of difference.
+<A - David Pahl>: Yeah, and I'd just add that as many arguments as putting pressure on demand, there's as many
+arguments that it could help demand on the other side. So it's really tough to be able to quantify each of those impacts.
+So, Ambrish, you've got a follow-up?
+<Q - Ambrish Srivastava>: Yes, I did, Dave. Thank you. And this is a clarification in response to Ross's question.
+Kevin, did you say gross margin will be flat? And if so, the way to think about it is that factory loading goes down in
+the non-300-millimeter, and 300 millimeter is continuing to ramp, so that offsets that lower factory loading?
+<A - Kevin P. March>: That's a safe way to think about it, Ambrish. There's mix going on inside there, but clearly we
+continue to ramp up 300-millimeter, which is much more cost-effective for us. So in balance we don't expect much
+change in margins.
+<A - David Pahl>: Okay. Thanks, Ambrish. And we can go to the next caller, please.
+Operator
+We go now to Doug Freedman with RBC Capital.
+<Q - Doug Freedman>: Great. Thanks, guys, for giving me an opportunity to ask a question. Just to follow on that mix
+shift that you're seeing, Kevin, can you possibly give us the utilization on your overall factory base and the utilization
+that you're seeing in 300 mil? And then I have a follow-up.
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 11 of 12
+<A - Kevin P. March>: Yeah, Doug, on the utilization, we typically would just talk about that if something drastic has
+occurred. So I won't go into that right now. I will remind you, though, on the capital management call I did discuss for
+RFAB in particular that we have the majority of the equipment necessary to support the build-out of that factory to a $5
+billion revenue level, and that in 2014 we'd achieved about $2 billion worth of build for revenue in support of that. So
+call that roughly 40% utilized. But at the same time we're also converting DMOS6 from its exclusive use by Embedded
+Processing to also be able to be used by Analog. And that'll add another $3 billion of 300 millimeter Analog capacity in
+DMOS6. So you could say in a sense that our utilization of 300 millimeter may actually decline, but that's not because
+of loadings, that's because of increase in our capacity.
+<Q - Doug Freedman>: And the question, really, that I have as my follow-up is when you look at the year-on-year
+growth, last year clearly we had a nice year, but with the guidance you've just offered, we're actually down
+year-on-year. If we look at the long-term growth rate of your business, is there a point in time at which you might
+adjust what you think your long-term growth rate would be such that you felt factory consolidation would be part of the
+equation to drive higher efficiency?
+<A - Kevin P. March>: No, Doug. Factory consolidation isn't on our radar. What we're really interested in is very
+inexpensive factory acquisition with extremely low carrying cost that allows us to grow into it in a very efficient
+manner. As we've been talking about, Analog and Embedded Processing combined, for an extended period of time
+now, have been growing at about a 9% compound annual growth rate. And in fact, even combined for this 1Q that we
+just closed out, they grew another 9% year-over-year. So they continue to grow quite healthy. I would expect that as we
+move forward in time, we'll look at those factories that provide us the best cost efficiency and cash flow delivery and
+keep those operating and loading those. That's probably going to be biasing our loadings towards 300 millimeter.
+<A - David Pahl>: Yeah, and I'd just add, too, that if you look at the growth rates in time and just look at what's
+happened in second quarter, the overall numbers are very strong. I mean, if you look at our gross margins, you look at
+where our OpEx levels are, our operating margins, with that 9% Analog and Embedded Processing growth, this quarter
+we turned in 27% free cash flow, right? So our financial performance isn't predicated on having to hit a certain growth
+level. We can do very well in a low-growth environment, or things if pick up we're in a good position to be able to
+support that as well.
+So, okay. Thank you, Doug. And we go to the next caller, please.
+Operator
+We'll now go to Blayne Curtis with Barclays.
+<Q - Blayne Curtis>: Hey, guys. Thanks for taking my question. Maybe just looking back at the weakness in PC
+market, you clearly had a fairly seasonal December. I don't know if you saw any PC slowdown there. Intel sure didn't.
+But then, it looked like you took a correction in March. So, one, if you can – I apologize if you already answered this –
+but within Analog, was your high-performance and Silicon Valley still up in March? And really it was the PC dragging
+it down? If so, would be down probably double-digits. Is that the right way to look at it? And then as you look to June,
+Intel is up, PC channel's starting to turn around. Is it just that you're working through some inventory? Or is there any
+way you can quantify that? And then kind of just help me with the math as to when do you really start to see this?
+<A - David Pahl>: Yeah, well, let me take a shot at it, and then I'll let you ask a follow-up. Some of that I think we've
+touched on. But, again, the weakness that we saw, Blayne, was – really had manifested in March, and it was both in
+PCs and in wireless infrastructure. Obviously I don't know how that played out at some of our competitors, but we do
+expect to see that weakness in second quarter. Obviously, our guidance is reflective of that.
+So I don't know if that helped, or if there's part of that you'd like to ask a clarification or follow-up?
+<Q - Blayne Curtis>: Maybe I would ask – and obviously you're not going to sign up for a full-year forecast, but when
+you look at the businesses of PC and comm, clearly they've been down for several quarters here, or will be with the
+June guide. To get full-year growth would require a substantial pickup in the second half. Do you see these as
+Company Name: Texas Instruments
+Company Ticker: TXN US
+Date: 2015-04-22
+Event Description: Q1 2015 Earnings Call
+Market Cap: 61,498.67
+Current PX: 58.73
+YTD Change($): +5.265
+YTD Change(%): +9.848
+Bloomberg Estimates - EPS
+Current Quarter: 0.779
+Current Year: 3.081
+Bloomberg Estimates - Sales
+Current Quarter: 3434.467
+Current Year: 13694.303
+Page 12 of 12
+headwinds this year for you? And if so, how much?
+<A - Kevin P. March>: Blayne, I'll just take that. We'll go ahead and forecast the balance of year in front of each
+quarter when we get there, so we just give you the guides one quarter at a time. Obviously, I think you guys are
+probably better equipped than we are to come up with analysis to help figure out what the year might be, and we'll just
+leave it at that.
+David Pahl
+Okay. And that – we are now out of time, so I'd like to thank you all for joining us today. And a replay of this call is
+available on our website. Good evening.
+Operator
+This concludes our conference. Thank you for your participation.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
