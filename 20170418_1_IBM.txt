@@ -1,0 +1,827 @@
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 1 of 15
+Q1 2017 Earnings Call
+Company Participants
+• Patricia Murphy
+• Martin J. Schroeter
+Other Participants
+• Wamsi Mohan
+• Kathryn Lynn Huberty
+• Steven M. Milunovich
+• Antonio M. Sacconaghi
+• Tien-Tsin Huang
+• James Schneider
+• Amit Daryanani
+• David Grossman
+• Keith Frances Bachman
+• Jim Suva
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome, and thank you for standing by. At this time, all participants are in a listen-only mode. Today's conference is
+being recorded. If you have any objections, you may disconnect at this point.
+Now I'd like to turn the meeting over to Ms. Patricia Murphy, Vice President of Investor Relations. Ma'am, you may
+begin.
+Patricia Murphy
+Thank you. This is Patricia Murphy, Vice President of Investor Relations for IBM. I'm here today with Martin
+Schroeter, IBM's Senior Vice President and Chief Financial Officer. I'd like to welcome you to our first quarter
+earnings presentation.
+The prepared remarks will be available within a couple of hours, and a replay of the webcast will be posted by this time
+tomorrow.
+I'll remind you that certain comments made in this presentation may be characterized as forward-looking under the
+Private Securities Litigation Reform Act of 1995. Those statements involve a number of factors that could cause actual
+results to differ materially. Additional information concerning these factors is contained in the company's filings with
+the SEC. Copies are available from the SEC, from the IBM website, or from us in Investor Relations.
+Our presentation also includes certain non-GAAP financial measures, in an effort to provide additional information to
+investors. All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC
+rules. You will find reconciliation charts at the end of the presentation, and in the Form 8-K submitted to the SEC.
+So with that, I'll turn the call over to Martin Schroeter.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 2 of 15
+Martin J. Schroeter
+Thanks, Patricia. In the first quarter, we delivered over $18 billion of revenue, operating pre-tax income of $2.1 billion
+and operating earnings per share of $2.38, which is up year-to-year. This is in line with the view we provided back in
+January, and keeps us on track to our full year expectations for earnings per share and free cash flow.
+In the first quarter, we continued to deliver strong performance in our strategic imperatives, with revenue up 13% at
+constant currency. As is typical, I'll focus on constant currency growth rates throughout. Our cloud offerings were up
+35% this quarter, led by Cloud as-a-Service, which was up over 60%. Analytics, the largest of our strategic areas was
+up 7%. Mobile was up over 20%, and security up 10 %.
+We also continued to deliver core capabilities to our clients, running mission-critical systems and processes. Many of
+these products provide the foundation of hybrid environments, enabling our clients to get more value from their
+on-premise data and applications. Some of these key franchises are growing, like WebSphere, while others are
+declining, as they are in declining markets, but all are high value.
+We've been very clear that to be successful with enterprise clients and to solve real problems, you need to bring
+together Cognitive Solutions on Cloud Platforms and create industry-specific solutions. And so we've been focused on
+building a cognitive and cloud platform, and amassing the best industry skills and capabilities, all while maintaining
+our focus on delivering higher value solutions.
+As part of the transformation, we have made significant investments and shifted resources. This level of investment,
+and the longer return profile of the Cloud as-a-Service businesses are reflected in our margins. Our foundation is now
+solidly in place, and while the investments will continue, our focus shifts to improving the returns on these investments,
+by building scale, and realizing operating efficiencies, keeping us on track to our full year objectives.
+And so our first quarter results once again reflect the success we're having in our strategic imperatives. We grew 13%
+in the quarter, which was compared to our strongest growth quarter last year. Over the last 12 months, our strategic
+imperatives together generated nearly $34 billion in revenue, and now represent 42% of our total revenue. With over
+$14.5 billion in cloud revenue over the last 12 months, we're the global leader in enterprise cloud. We play an
+important role in running the critical processes of the largest enterprises, and so it's not surprising that each of the 10
+largest global banks, 9 of the top 10 retailers, and 8 of the top 10 airlines are now IBM Cloud as-a-Service customers.
+At our Investor Briefing last month, we spent the day showing how we've transformed IBM into a Cognitive Solutions
+and cloud platform company, and the importance and value of delivering industry-specific solutions. We talked about
+the differentiation of our cognitive and cloud platform, through specific Watson technologies, through our data-first
+approach, and our enterprise-strength cloud. We bring all of this together in one architecture. And we're providing
+highly differentiated solutions by industry and scaling these solutions. I'm not going to recap all of that here, but what I
+want to focus on today is some of the progress we made specifically in the first quarter, with our solutions, our clients,
+and our partners.
+In the quarter, we extended the reach of Watson and the IBM Cloud through our partnership with Visa, where Watson
+IoT turns cars, appliances and other connected devices into potential points of sale; through our alliance with Samsung,
+where The Weather Company will be the default weather app on new Samsung devices, powering the weather
+experience for tens of millions of devices by the end of the year; and through our engagement with H&R Block, where
+we're now embedded in 10,000 branches, enabling 9 million filers to benefit from the Watson-enhanced expertise of
+H&R Block's tax professionals.
+In the first quarter, we announced a strategic partnership with Salesforce, to deliver joint solutions designed to leverage
+artificial intelligence and enable companies to make smarter, faster decisions across sales, service and marketing. We
+also partnered with Wanda, one of the largest commercial and enterprise groups in Asia, to bring public cloud services
+to China. We are building emerging technologies on the IBM Cloud, like blockchain and quantum. In blockchain, we
+had over 40 new engagements in the quarter and are working on over 400 more and, as we've discussed in the past, the
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 3 of 15
+opportunities span multiple industries. This quarter, we announced we're working with Maersk to use blockchain to
+transform the global shipping supply chain, partnered with Northern Trust to launch blockchain for the private equity
+market, and are collaborating with the FDA to explore how a blockchain can benefit public health.
+In the first quarter, we also announced the first commercial quantum system. IBM Q systems are designed to tackle
+problems that are beyond the reach of today's computing systems. These are just a few of the examples of the reach and
+the scale we're building with cognitive and cloud, and I'll highlight a few more in the segment discussions. But first, I'll
+walk through our financial metrics for the quarter.
+Our revenue for the quarter was $18.2 billion, which is down 2%. Currency was once again a headwind to growth,
+fairly consistent with the impact in the fourth quarter. At current spot rates, that headwind will be more substantial over
+the next couple of quarters. On a geographic basis, last quarter I talked about the impact of macro and geopolitical
+trends on some country's performance. In Europe, much of this continued into the first quarter, with declines in the UK
+and Germany, in particular putting pressure on our growth. Our gross margin performance continues to reflect
+investments across our business, and the mix to as-a-Service businesses. I'll talk about additional drivers in the segment
+discussion.
+Looking at our expense, pre-tax profit, tax rate and cash flow metrics, the year-to-year dynamics reflect some unique
+items in last year's first quarter results. A year ago, we had charges that impacted our expense and pre-tax income by
+nearly $1.5 billion, including a workforce rebalancing charge of $1 billion. In the first quarter of this year, our
+workforce rebalancing charge was about $170 million. So the year-to-year impact of a lower level of workforce
+rebalancing accounts for 11 points of the 20% reduction in total expense. Our expense also includes a higher level of IP
+income, reflecting the success we've had in rebuilding our intellectual property income base through IP partnerships. I'll
+come back to this a little later. And so, our operating pre-tax profit of $2.1 billion was up over 50% this quarter.
+Our tax rate for the quarter reflects an ongoing operating effective tax rate of just under 15%, in line with the
+expectation we discussed at the beginning of the year of 15%, plus or minus 3 points. We also said we'd have a discrete
+tax benefit in the first quarter of $400 million to $500 million, and in the quarter, the net benefit was just under $500
+million. This is far less than the discrete benefit we had last year of $1.2 billion, associated with the Japan tax refund,
+and so tax was a substantial headwind to our net income and EPS growth in the quarter.
+We generated $2.3 billion of operating net income in the quarter, and net income margin of 12.4%, which is up 30 basis
+points. On the bottom line, our operating EPS was up 1% to $2.38.
+We generated $1.1 billion of free cash flow in the quarter, which is down year-to-year by the amount of last year's
+Japan tax refund. As you know, there is a lot of seasonality in the timing of our cash flows, much more so than in our
+net income. That's why it makes sense to look at cash realization on a trailing 12-month basis. Over the last 12 months,
+our free cash flow was 90% of our GAAP net income.
+Looking at our segments, Cognitive Solutions revenue was up 3% year-to-year, and pre-tax income was up double
+digits. Our Solutions Software revenue was up 5%, while Transaction Processing Software was down 1%. Within
+Solutions Software, growth was again led by offerings in analytics, including our Watson-related offerings, and
+security. We saw strong SaaS performance, with strong double-digit growth again this quarter.
+I'll share more on our progress starting with analytics. We saw good growth in on-premise databases and data
+warehousing, which includes DB2, Informix and Netezza. Content and integration offerings were also up this quarter,
+as data ingestion is an important initial step in a cognitive journey.
+As part of that journey, our Watson platform continues to gain momentum in the marketplace. The Watson platform,
+built on the IBM Cloud, underpins our AI strategy, and is a fast and easy way to embed cognitive into our clients'
+workflows. Two great examples are Salesforce and H&R Block. H&R Block went from an idea to fundamentally
+changing the client engagement experience with Watson, redesigning business processes, and deploying a cognitive
+solution across 10,000 branches in just a matter of months.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 4 of 15
+Building on the platform, we've differentiated with industry expertise across verticals. In Watson Health, we had strong
+growth, particularly in oncology, government and life sciences, as we moved to scaling Watson in healthcare. Out of
+the top 25 life sciences companies, nearly half are either using or implementing our cognitive offerings. In an
+environment of increased regulatory pressure, cognitive helps to expedite the time to bring drugs to market, and to
+monitor them once in the market.
+This quarter, we also introduced new cognitive offerings, such as Watson Imaging Clinical
+Review, and infused cognitive into existing offerings. For example, in Watson Care Manager we're bringing organic
+and acquired content together to build a cloud-based offering that addresses integrated care. We're then adding
+cognitive capabilities to extract trends and provide actionable insights. This is the kind of work we can do with our
+industry-specific development skills.
+We also had good growth in Watson IoT, where we added over 50 new clients to our IoT Platform again this quarter.
+And we are incorporating new capabilities into the IoT Platform, such as the VISA payment services mentioned earlier.
+Clients are collocating for innovation at our Munich center. And the number of developers on our IoT Platform had
+strong double-digit growth.
+Watson for Financial Services also contributed to growth this quarter. Here we are leveraging the skills we acquired
+through the acquisition of Promontory, the world's leading regulatory compliance consulting firm, to develop cognitive
+offerings in areas like regulatory change management. It is a space ideally suited for cognitive because it's expertise
+and domain-driven. Banks aren't going to automate core regulatory processes with publicly available data alone. By
+combining industry experts with cognitive capabilities, and leveraging industry-specific client data, we are building
+solutions that solve the problems in the industry. Remember it matters who trains your AI platform, on what data, and
+who owns the insights. By pulling all of this together, IBM will be well positioned as the leader in the RegTech
+marketplace.
+Security also contributed to growth in the quarter, driven again by areas such as data security and security intelligence.
+We've had strong traction in Watson for Cyber Security, since launching in February, and deployed it in over 50
+customers globally. And we embedded cognitive into another offering, MaaS360 Advisor, using machine learning to
+analyze and protect devices. We complement our software offerings with security services to offer the broadest
+portfolio in the industry. Together with our security services, we outpaced the market.
+Turning to Transaction Processing Software, performance improved sequentially driven by our z Systems middleware
+and Storage middleware. While the overall business is declining, we have some areas that are growing, like software
+defined storage. Other parts are high value and running mission-critical workloads for our clients, but the growth
+profile is stable to declining.
+Turning to profit, Cognitive Solutions gross margin is down, driven by continued investment into strategic areas,
+including acquisitions, and the mix toward SaaS. Roughly a quarter of the Cognitive Solutions business is now services
+and SaaS offerings, which currently have a different margin profile. Pre-tax income is up for the segment, and
+improving year-to-year even when you adjust for the lower rebalancing charges. This segment has very high PTI
+margins which expanded this quarter. So for the Cognitive Solutions segment, we grew revenue and profit in the
+quarter, we're embedding cognitive into more offerings, scaling platforms, and building high value vertical solutions.
+Global Business Services was down 2%, which is a 2 point improvement in the trajectory from last quarter. Strategic
+imperatives grew double-digits, led by our cloud and mobile practices. Overall, we had modest growth in signings this
+quarter driven by our digital offerings, however the GBS backlog is still declining. As we talked about last quarter, we
+need the growth from our new offerings to drive consistent signings growth, to improve the trajectory of the GBS
+backlog.
+Consulting revenue was down 2%, improving nearly 3 points from last quarter's performance. We have good growth in
+IBM iX, our digital design practice that helps our clients build new customer and employee engagement models around
+digital. We've built a robust network of 35 design studios around the world, where clients co-create with GBS
+consultants in digital strategy, design and mobile experience. We are redesigning our clients' workflows through
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 5 of 15
+integrated solutions and a robust set of enterprise-grade mobility applications. This quarter we announced agreements
+with BP Castrol, Bell Canada and Santander to name a few.
+In Consulting, we continue to shift resources to our cognitive services, advanced analytics and digital platforms, and
+away from the more traditional areas, including Consulting for on-premise enterprise applications and some migration
+and process reengineering services. Our Consulting revenue reflects this shift.
+Application Management was flat year-to-year, and it's been relatively stable over the last year. We're innovating our
+clients' platforms, helping them migrate to new cloud architectures, increasing their speed and agility, and ultimately
+improving their competitiveness.
+Turning to profit, we continue to invest in our strategic imperatives and build-out our practices around cognitive, cloud,
+mobile, and digital design. Over the last year we've added nearly 8,000 resources to these businesses. There also
+continue to be accounts where we are investing more to deliver on important client commitments. And in parallel, we're
+streamlining the practice infrastructure and driving efficiencies in our delivery model through new methods, solutions,
+and project management approaches.
+As we talked about at our Investor Briefing, GBS has aligned and focused its capabilities around three growth
+platforms. The first is digital strategy and iX where we help clients imagine what their businesses should look like in
+the digital world, and then execute a roadmap to build and migrate their capabilities to get them there. The second is
+cognitive process transformation where we help clients adapt their core processes and integrate cognitive technology to
+gain insights, drive efficiencies, and create new business models. The third is cloud application innovation, where we
+modernize their systems by putting in place new cloud-centric application architectures tailored to their business and
+their industry.
+With deep industry capabilities, we are executing a strategy that is client-value led and powered by IBM assets and
+leading third-party platforms. We've refocused our practice model to ensure we are building deep skills in the right
+areas and increasing our sales and delivery capacity. We're starting to see the benefit of this focus, and are expecting
+improved performance over the course of the year.
+Technology Services and Cloud Platforms revenue was down 2%. We continue to have strong double-digit growth in
+our strategic imperatives, particularly in cloud which was up over 40%, as we build out hybrid cloud environments for
+our clients. As enterprises move to the cloud, they need help in managing the complexity of integrating multiple
+environments. We are able to move these enterprises to the cloud in a way that leverages their critical data and IT
+investments. Our Cloud as-a-Service revenue for the segment grew over 50%, and our annual as-a-Service run-rate was
+$5.7 billion.
+Infrastructure Services was down 2%. As you know this is a business model where we drive productivity for our
+clients. We orchestrate disparate systems and optimize IT operations. We help clients manage their hybrid cloud
+environments which can include multiple cloud platforms, on-premise data centers, and mobile environments. When
+we deliver this productivity to our clients, that's less revenue for us, but then we look to create new revenue streams by
+moving them to new areas, acquiring new scope, and bringing on new clients.
+So our business model has always been to deliver productivity for our clients and then grow by expanding our scope of
+work and adding new clients to the platform. While we had some substantial relationships lined up, we did not get them
+closed by quarter end, which impacted revenue in the period. The revenue trajectory also reflects that a couple of large
+clients brought their operations in-house due to regulatory and other unique circumstances. These clients remain on
+IBM platforms, and we'll continue to be a trusted partner.
+Turning to Technical Support Services, revenue was down two%. We continue to shift more to our multi-vendor
+support services which again grew this quarter. We provide end-to-end support both inside and outside the data center
+including for example IoT environments. Integration Software was down 3%. We grew in our hybrid Integration
+Software that connects and integrates applications, data, and processes across on-premise and cloud environments.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 6 of 15
+In addition, WebSphere Application Server grew for the third consecutive quarter, demonstrating the importance of
+middleware in public, private and hybrid environments. We declined in our on-prem DevOps tools and IT services
+management software. While some clients prefer to keep this work in-house, these kinds of workloads continue to shift
+to cloud. We're seeing this as Bluemix, our cloud DevOps platform, continues to expand.
+Looking at profit, gross profit margin was down, while PTI margin for the segment was up 5 points year-to-year. This
+quarter we had a lower level of workforce rebalancing, and we recognized savings from productivity actions, including
+last year's transformation actions. Much of this was reinvested in new and existing skills. We are investing as we move
+to a Watson-based cognitive delivery model. Through this delivery model we're able to manage complex hybrid cloud
+environments and provide more insights into infrastructure that is always-on, available-everywhere, and of course
+secure.
+In Infrastructure Services we're constantly managing resources and investment across our portfolio, and the
+combination of the winding down of some contracts, signings delays, and some investment ahead of those signings
+impacted our profit in the quarter. Finally, in TSS, we are shifting more to multi-vendor services, and in Integration
+Software we are mixing more to SaaS, which impacts margins in the near term.
+In summary, when you look at our performance in Technology Services and Cloud Platforms, our clients need help
+moving to the cloud and managing the complexity of their hybrid cloud environments, and we continue to see strong
+growth in cloud and our as-a-Service revenue. Our middleware also continues to be important in these environments.
+Our business model is one where we're constantly delivering productivity for our clients; this is what makes us the
+market leader. The profit cycle requires that we invest ahead to provide the scale and efficiency that our clients cannot
+achieve on their own. These dynamics impacted revenue and margin this quarter. As we sign the contracts that didn't
+close in March, and yield some operational efficiencies, we're expecting better performance in this business in the
+second half.
+Our Systems revenue reflects declines in z Systems and Power indicative of where we're in the product cycles, while
+Storage grew after repositioning for flash across our portfolio. Systems gross margin was down year-to-year, with
+declines across z Systems, Power and Storage as we address market shifts and product transitions.
+In z Systems, the mainframe continues to deliver a high value, secure and scalable platform that is critical to our clients'
+needs, addressing both existing and new workloads. We added seven new clients in the quarter and 87 since the
+beginning of this cycle. We also had five major Financial Services sector wins this quarter with existing clients, as well
+as several blockchain engagements. Our revenue and margin performance for the quarter reflects the fact that we're
+nine quarters into the product cycle. And we expect a new mainframe late in the year. Power declined, which reflects
+our changeover to a growing Linux market while continuing to serve a high value, but declining, UNIX market. Linux
+workloads again had double-digit growth, outpacing the market. We're the underdog here, and we have a 3% share, so
+there is a lot of opportunity ahead of us.
+Our expanded Linux offerings, Power-on-Linux (sic) [Linux on Power], are on a path to double revenue this year, and
+HANA on Power continues to play an important role in that success. By contrast, in UNIX, declines were driven by our
+midrange and low-end systems. Power, while critical for cloud and cognitive workloads, continues to be impacted by
+shifting our platform from UNIX to Linux, both in revenue and margins.
+Storage hardware was up 7% this quarter, led by double-digit growth in our all-flash array offerings. Flash contributed
+to our Storage revenue growth in both midrange and high-end. In Storage, we continue to see the shift in value towards
+software-defined environments, where we continue to lead the market. We again had double-digit revenue growth in
+software-defined storage, which is not reported in our Systems segment. Storage software now represents more than
+40% of our total storage revenue. Storage gross margins are down, as hardware continues to be impacted by price
+pressure.
+To summarize Systems, our revenue and gross profit performance were driven by expected cycle declines in z Systems
+and Power, mitigated by Storage revenue growth. We continue to expand our footprint and add new capabilities, which
+address changing workloads. While we are facing some shifting market dynamics and ongoing product transitions, our
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 7 of 15
+portfolio remains uniquely optimized for cognitive and cloud computing. New systems product introductions later in
+the year will drive improved second half performance as compared to the first.
+I want to spend a minute on our IP income, and put our recent performance into context. Our investment in research
+and development generates a significant amount of intellectual property, and we have a number of different ways we
+monetize it. Keep in mind that the vast majority of our IP is monetized through revenue streams, with only a small
+portion through IP income. 15 years ago or so, much of our IP was associated with our semiconductor manufacturing
+and design business. At the time, in addition to licensing some of the IP, we used joint development agreements to deal
+with the economics of our manufacturing scale. These partners essentially helped that scale issue.
+Since then, our strategy has changed, which resulted in a different mix of business. We continue to have joint
+development and technology licensing agreements, though fewer. Now, clients see the value in our IP, but it requires
+continuous innovation to stay in high-value spaces. And so, more recently, we're forming IP partnerships to enable
+ongoing innovation in our IP, while allocating our development resources to where we see the best opportunities for us.
+In these partnerships, we license, not sell, our source code to a technology or services partner, who assumes the
+development mission and invests to innovate and build new functionality, enhancing the value of the asset, which
+reinforces and supports our revenue stream. We retain the ownership of the IP and the revenue streams, and pay a
+royalty to the partner for the development mission. And as the partner sells to their clients, they pay a royalty back to
+IBM from the revenue they receive. The benefits of these IP partnerships to us include the prioritization of our
+development resources, the continued innovation for our clients based on our high-value assets, and the creation of
+additional channels, which can expand the client base.
+So, to sum it up, our ability to monetize IP is driven by the amount of IP that we create, which is substantial, not
+whether a transaction occurs in a particular period. Because our IP is high value and relevant to our clients, it is
+attractive to a broad range of technology and services partners who can build solutions around the core assets. We had
+3 new IP partnership agreements in the first quarter, and now 19 over the last two years. To put that in perspective, we
+have licensed, on a non-exclusive basis, about 1% of our software code base in these agreements to-date, and we're
+generating more IP every year than we're licensing. So we have a lot of opportunity in this area alone. But as I said
+earlier, why and how we choose to monetize our IP, for example, whether to address scale issues, or resource
+optimization, reflects our business strategy, and so the opportunities and the models will evolve.
+So, now turning to cash flow and the balance sheet, we generated $1.9 billion of cash from operations, excluding our
+financing receivables, and we invested over $800 million in capital expenditures, particularly in our Watson and Cloud
+Platform areas, as well as in support of our services and systems businesses. And so our free cash flow was $1.1 billion.
+Over the last year, our cash realization rate is 90%. Excluding the benefit of last year's tax refund, free cash flow is flat
+year-to-year, and within that, working capital contributed to our cash flow performance, driven by strong cash
+collections. Our first quarter free cash flow generation is in line with historical trends, and we remain on track to
+deliver a level of free cash flow consistent with last year.
+Looking at uses of cash in the quarter, we returned over $2.6 billion to our shareholders, about half through dividends,
+and half through share repurchases. We bought back over 7 million shares, and at the end of first quarter, we had $3.8
+billion remaining in our buyback authorization.
+On the balance sheet, we ended the quarter with $10.7 billion in cash and total debt of $42.8 billion. Two-thirds of our
+debt was in support of our financing business, which now includes the increase in leverage related to our client and
+commercial financing business, IBM Credit. The leverage in this business is now 9 to 1, which as I described in
+January, translates to an increase of just over $600 million in Global Financing debt. The credit quality of our financing
+receivables remained strong at 52% investment grade, which is flat versus December, and 1 point better than a year
+ago. More information on our financing business is provided in the supplemental charts in the backup.
+Our non-financing debt was $14.3 billion with a debt-to-cap ratio of 48%, which is 1 point lower than December.
+Debt-to-cap is down 14 points year-to-year, as you'll recall that we front-end loaded our debt issuances last year. Our
+balance sheet continues to have the strength and flexibility to support our business over the long-term.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 8 of 15
+Let me wrap up by talking about how we see the balance of the year, starting with the progression in the first half, and
+then drivers of our second half performance.
+As you know, we typically see a profit improvement from first to second quarter. Last year the sequential improvement
+was significant because of the charges in the first quarter. Adjusting for these outsized charges, we increased our
+operating pre-tax profit by an average of $800 million from first to second over the last couple of years. We see a
+similar level of sequential improvement this year, which means we would finish the first half at about 37% of our full
+year at least operating EPS expectations.
+Now every year is different, and when you look at that 37% attainment compared to history, you'll see it's a few points
+below the last few years. So I'll spend a minute on why this year the first to second half dynamics will be different, and
+why we remain comfortable with our full year expectation. To do that, I'll give a couple of examples of things that we
+know, and things that we expect.
+We know that we'll have new systems product later in the year, and this will drive a significant improvement in gross
+profit from first half to second half. Related to that, in the second half we'll have the investment ramp behind us, so
+we'll also benefit from lower systems development spending in the second half relative to the first. We also know that
+we'll wrap on last year's larger acquisitions. They'll be less dilutive to profit in the second half, as we continue to ramp
+revenue and realize some operational synergies.
+Then, there are a couple of things that we expect, particularly in our Services businesses. We expect that Global
+Technology Services will sign a few of the larger contracts that didn't close in the first quarter, and that, together with
+the cost savings and the yield on some of the investments we've been making will improve the first to second half profit
+dynamics. In Global Business Services, our trajectory is starting to improve, and we expect this to continue throughout
+the year. We also expect currency to be a headwind, and we've put a view of that into the supplemental slides. The
+translation of our pre-tax profit to net income will depend on the mix of business, and the operational tax rate
+assumption continues to be 15%, plus or minus 3 points. As always, this is without discrete items.
+So put all of that together, and we continue to expect to deliver at least $13.80 of operating earnings per share for 2017,
+and free cash flow that's consistent with last year.
+And with that, we'll take your questions.
+Patricia Murphy
+Thank you, Martin. Before we begin the Q&A, I'd like to mention a couple of items.
+First, we have supplemental charts at the end of the deck that provide additional information on the quarter. And
+second, I'd ask you to refrain from multi-part questions. So let's please open it up for questions.
+Q&A
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] Our first question is from
+Wamsi Mohan with Bank of America Merrill Lynch. You may proceed with your question.
+<Q - Wamsi Mohan>: Yes. Thank you. Martin, if you look at this quarter on a year-on-year basis, we saw PTI dollar
+improvement of close to about $700 million. Should we expect any more PTI improvement over the course of this year
+given that the discrete tax benefit was $500 million? You can pretty much get to your guidance from those two
+elements, not sure if there's more discrete items yet to come. But conceptually, is there more PTI benefit yet to come or
+have you seen the PTI benefit already flow through? Thank you.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 9 of 15
+<A - Martin J. Schroeter>: Yes. Thanks. Thanks, Wamsi. The first thing I will say is I apologize for my voice. So if I
+sound kind of croaky, I've got a bit of a cold here, but hopefully you can understand. So with regard to what we see
+from here out, as you noted, we got about $700 million in our guidance on a full-year basis, we did about $700 million
+in the first. The thing I would add is that we don't know what that mix is going to be, it's 15 plus or minus 2 points. So
+if you were to take that range, we either have another couple hundred to go if it comes in from a high tax area, or we
+are already over-solved by a few hundred. So either way you're in about that right range.
+Now we have a lot of work underway to drive productivity in our services business. We talked a bit about that in the
+prepared remarks. We still expect to get the growth out of the acquisitions that we spent some money on. So there's a
+lot more, obviously, within the dynamics of our business from here to the end of the year, but if you just wanted to look
+at those two line items, then yeah, either we have a little bit left to go if it comes in at a higher tax mix or we have
+over-solved already. But, yes, that's what the guidance implies.
+<A - Patricia Murphy>: Thanks, Wamsi. Can we go to the next question, please?
+Operator
+Thank you. Our next question is from Katy Huberty with Morgan Stanley. You may ask your question.
+<Q - Kathryn Lynn Huberty>: Thanks. Good afternoon. At the Analyst Day, you talked about, as you scale the cloud
+business, as you scale the cognitive initiatives, that we should start to expect margin stability and even inflection. You
+also talked, essentially guided to GPS margin improvement for the full year. And when you step back and look at gross
+margins, which is more of a clean read on your profitability, not influenced by workforce rebalancing and IP income,
+those declines accelerated this quarter in all of those businesses. So the question is, do you still expect that we can start
+to see stability and even inflection in any of those businesses this year or is that further out?
+<A - Martin J. Schroeter>: So thanks, Katy. So a couple of things. When we look at – and we'll pretty much look at
+every year, one quarter is the low point in GP margin, that's always true and then we build sequentially from there. I
+think what I would expect this year in that build sequentially, I do expect – as we said in the prepared remarks, I do
+expect the services units to start to drive sequential improvement in that business. Now some have longer to go, more
+progress to make, if you will. As we noted, GBS with the declining revenue and the impact to margins, we are still –
+we believe that's a business that can grow, the path to growth is what we described, which is consistent signings
+growth, we'll get to backlog growth which will drive revenue growth. So all of that we still think we have ahead of us.
+We did get signings growth in the first quarter, it was 2%, but we got signings growth. And so, we'll continue to build
+that business back.
+And then in GBS specifically, the margins in the new strategic imperative work, the margins in the areas that that
+business is moving to, remain better than the margins in the places they're coming from. So, yes, we have to realize the
+productivity at the overall model level, but we are seeing margin opportunities in those new areas in GBS and we
+would expect to continue to make progress. But again, in total, the margin picture on a sequential basis, as we always
+do, will grow from first to second, third and fourth as well. And depending on the mix of business, that growth that we
+typically see from first to fourth could be 3, 4 points higher, and it's been as high as 10 points in some years. Now we'll
+be within that range someplace by the time we get out of the fourth, but the first quarter is always the low point in the
+year.
+<A - Patricia Murphy>: Thanks, Katy. Sam, can we take the next question, please?
+Operator
+Yes. Our next question is from Steve Milunovich with UBS. You may ask your question.
+<Q - Steven M. Milunovich>: Thank you very much. Martin, you've talked about the investments that the company
+has been making the last few years and previously suggested a little more flexibility this year. Could you talk about in
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 10 of 15
+dollars, are the investments that you're making into these strategic imperatives flattening out? Should we look for less
+growth year-over-year on those investments, are they actually becoming flat? And is there a point in the next couple of
+years where you could even see them decline year-over-year to help your margins?
+<A - Martin J. Schroeter>: Yes. Thanks, Steve. So a couple of things. One, when we said we would expect, when the
+bow of the ship gets through the wave that was a year-to-year statement. And so now with those acquisitions, for
+instance, in our run rate, the dollar level is at an elevated amount, and so the year-on-year impact is diminished, if you
+will. Now all of those businesses need continued investment, and for IBM, what it's always been about for us is a shift
+as much as it is adding to that pie. So I think the adding to the pie now is behind us, if you will, and the shift will
+continue. So we'll continue to invest heavily in the strategic imperative, but it won't represent the same growth as what
+we've seen in the past now that they are in our model.
+<A - Patricia Murphy>: Thanks, Steve. Let's take the next question.
+Operator
+Thank you. Our next question is from Tony Sacconaghi with Bernstein. Your line is open.
+<Q - Antonio M. Sacconaghi>: Yes. I just wanted to confirm and clarify how you're getting to your full year $13.80
+target. So for Q2, I think given that you expect 37% of EPS in the first half that would point to EPS of about $2.73, I
+think consensus is $3.17, so well below Street expectations which means that you have to be well above Street
+expectations for the second half.
+I'm wondering if you can also clarify what you're assuming on IP licensing for the year. It was up dramatically in the
+first quarter. I think you said it would be about flat year-over-year, so that implies the rest of the year, IP licensing is
+going to be declining and, therefore, a year-over-year headwind. Is that the right way we should think about it? And if
+your IP licensing or your discrete tax benefits are significantly higher than you think today, will you be adjusting your
+guidance accordingly?
+<A - Martin J. Schroeter>: So a couple of things, Tony. One, we're not adjusting our guidance. We've reaffirmed that
+we see an at least $13.80 number for the year, and we also see free cash flow flat – roughly flat as we said. So same
+guidance as we talked about in January. And quite frankly, from my perspective, the quarter played out pretty much as
+we expected other than we thought we had a couple of more deals – couple more signings relationships in services that
+we could've gotten done. But by and large, the quarter played out as we expected and we maintained our guidance. In
+the prepared remarks, Tony, we started to put together some of the things that we know and some of the things that we
+expect, and I think that framework is kind of how I think about it.
+Now as you know, we have a lot of scenarios around guidance and what might happen, but let's go through a couple of
+the things that we mentioned in the prepared remarks. First, the systems product announcements have kind of a double
+impact. One, you have to ramp investment ahead of the revenue in order to get that system-ready. That's the period
+we're in now and we'll be in through the first half. Once we get the systems announced and out the door, then we start
+getting revenue, and so you get the double benefit. You get GP dollars and you get lower spending because you don't
+have the ramp anymore. So that has a pretty profound impact on the first, the second half.
+We also talked about getting the acquisitions further embedded. Now we do a lot of acquisitions. There's obviously
+opportunity to drive investment in those, but we also have a lot of opportunity to realize efficiencies in how we run. So
+we see an improvement from first to second half – continued improvement first to second half as we ramp those new
+solutions around those acquisitions, as well as get some synergies from the way we run the [ph] place (42:48).
+In our Services business, as we mentioned, we see an improvement as we go through the year both in the revenue
+trajectory and in the margin profile, quite frankly. We've got a lot of work to drive productivity in our services
+business, both in GTS and GBS, and it's just kind of across that delivery platform. We think there's a lot of opportunity
+to drive improvements as we get into the second half.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 11 of 15
+And then our IP income, similar to how we described it in January, we said we have a bunch of scenarios around IP
+income. We see enough opportunity to be flat year-to-year, but our guidance didn't rely on it year-to-year. So to your
+point, if we're flat versus – here's where my voice starts to go, Tony, I apologize. If we're flat relative to – for the full
+year and we were up a bit in the first quarter, does that imply down? Yes, that's kind of how we expected the year play
+out. And in fact, we said that based on what you described, it could be a bigger headwind than what you described
+because not all of our scenarios have flat, they're some of them – we had, like I said, quite a good second half of last
+year in IP income, and so that could be down a bit. But again, we got a lot of scenarios.
+So the year comes together I think because we do have dramatically different profile in the second versus the first. We
+included the framing, if you will, of where we finished the first half because not every year plays out the same way, and
+I think it's important to understand the dynamics. But no change to our guidance, and we still see the year playing out
+as we did in the first quarter.
+<A - Patricia Murphy>: Okay. Thanks Tony. Let's go the next question, Sam please.
+Operator
+Thank you. Next question is from Tien-Tsin Huang with JPMorgan. Your line is open.
+<Q - Tien-Tsin Huang>: Thank you. Hope you got a chance to get some water there, Martin. Just wanted to ask on the
+Tech Services side, sounds like some delays in deal closing. Is that a macro cyclical issue in terms of maybe slow start
+to the year for some of your enterprise clients, what's the visibility into these deals closing in GTS? And also the
+improvement in GBS that you just mentioned, does that also require an improvement in the macro environment or is
+there something else that's driving that [indiscernible] (45:10)?
+<A - Martin J. Schroeter>: Sure. So thanks, Tien-Tsin. These are not macro, so I'll talk about GTS specifically. And
+you know quite well the nature of the work we do with our clients. We are running the hearts and lungs of our clients'
+businesses, and so, obviously, when you run hearts and lungs, you're not running toward a 90-day schedule. There's
+nobody, by the way, that's in the room with you other than the client, nobody has the breadth of capabilities that we
+have.
+So our clients move at a pace that reflects the importance of the work we do, and at the same time add into that the
+steps required for, for instance, regulatory approval, right, we've got a lot of banking customers or a lot of customers in
+regulated industries. And so, the signings delays were not at all macro-driven. These are deep, deep partnerships with
+our clients that require careful planning, careful execution, and they're not going to move on a 90-day cycle.
+In GBS, again, I don't think we need an improved macro environment for GBS. In fact, one could argue that GBS will
+do better when clients are more focused on how to move to the future or put under more pressure, if you will. So, the
+transformation that GBS is going through is driven by their ability to re-skill in the new areas, and we've put a lot of
+people into GBS focused on these new practices that we have. The results that we see as the teams move into those new
+practices are very positive.
+So no, this is not at all macro. On GTS, it is again, because the relationships with these clients are so vital to how their
+organizations run and are never going to move on a 90-day calendar, and GBS I think is demonstrating now that as it
+moves into the future it can do even better.
+<A - Patricia Murphy>: Thanks, Tien-Tsin. Can we please take the next question?
+Operator
+Thank you. Next question is from James Schneider with Goldman Sachs. Your line is open.
+<Q - James Schneider>: Good afternoon, and thanks for taking my question, Martin. Just wanted to follow up on the
+earlier services question and maybe ask about the commentary you made about a couple of clients, larger clients, taking
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 12 of 15
+work in-house. Is that a commentary on the infrastructure and cloud piece of the business specifically or is that a
+broader comment on the application services and the like? And can you maybe just kind of talk about what you're
+seeing in terms of pricing pressure in the market because you've previously called that out several times but didn't this
+time? Thank you.
+<A - Martin J. Schroeter>: Yeah. Sure. So I wouldn't say there's anything macro. And the two instances that we
+mentioned about companies bringing this in-house, very unique circumstances. And I think when I describe it, which I
+will, I think you'll agree that it's sort of unique.
+So, for instance, we have a client in Germany, it was renewed. It was a five-year deal renewed for another five years
+and there is a rule – there's a law in Germany that this particular type of client cannot renew the same contract twice,
+just can't. And so they had to bring it back in-house due to regulatory reasons. We will still – they took the people, by
+the way, they were all in a structure that allowed them to take the people back. They still run their IBM mainframe, so
+we're still partners with them on the infrastructure that they run. But that's, again, highly unique. I'm not making a
+macro statement.
+And in the other case, again, highly unique to the client situation. They had a plan in their industry to split two
+businesses, and so they were heading down the path of having two businesses with two infrastructures. We had them,
+by the way, both of them. And then the market, if you will, they made a judgment, based on the market that they were
+just going to take one of those businesses and sort of wind it down. So they just had no need, if you will, to have a big
+infrastructure around that particular business. So very unique, not at all what I would call macro.
+And then on pricing pressure, the nature of these relationships, again, as I mentioned earlier, these are substantial
+relationships that are running the very core of what these companies need. And if I had to – again, these are complex,
+but if I had to simplify it, they're asking us to move them into the future to move into cloud, to give them the agility and
+the security and the mobility that they see their competitors have. So there's nobody in the room with us when we go in
+for those calls. And if they want to pursue that path and if they think that suits their business model then they are
+talking to us and we'll make those deals happen. But it's not a macro statement. It's very much about our ability to
+deliver the future to them and whether or not that suits the way they're thinking about their business at that particular
+time.
+<A - Patricia Murphy>: Thanks, Jim. Sam, can we please take the next question?
+Operator
+Thank you. Next question is from Amit Daryanani with RBC. You may ask your question.
+<Q - Amit Daryanani>: Thanks. Good afternoon, guys. I guess, Martin, I just want to go back to the gross margin
+discussion and perhaps more at the corporate level. I realize these margins will improve from Q1 to Q4. At what point,
+I guess, do you see gross margins starting to stabilize where the year-over-year decline start to abate for the company?
+And any way to think about what the cost-saving benefits that you have expected for 2017?
+<A - Martin J. Schroeter>: Sure, Amit. A couple of things. One, we are seeing the savings, if you will, of what we
+were able to start to transform last year and the actions we took. Now, remember, at the time we talked about 1Q 2016,
+so a year ago we talked about how there was some – some measure of that was to reduce capacity. And a lot of that, by
+the way, that capacity reduction was to get our teams back together into collocated offices where they could operate in
+more agile environments. And it was to reduce the number of sites, if you will, at which we had people and couldn't
+collaborate properly.
+So there was some measure of it was reduced capacity, but the bulk of what we wanted to do was to revitalize skills, as
+we always do. We're always revitalizing our skills. So we see the benefit of that in the new skill mix that we have. We
+see the benefit of that, for instance, in GBS growing signings in the first quarter.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 13 of 15
+Now there is productivity that we see in the SG&A line because while we're investing more for development, our
+SG&A spending is down. And that was again, not only the reduced capacity but it's us being more efficient at how we
+operate. From a gross profit margin perspective, we are a high value – we have a high-value model as you know. And
+so one of the things we are always looking at is, are the places we're going to still more valuable and higher margin
+than the places we're coming from. And the strategic imperatives, as we've talked about in the past, have a higher
+margin profile than the core, if you will. That shouldn't surprise anyone. I think that's why our investors expect us to
+invest into those new areas as opposed to just going to chase some lower margin content.
+And we still see that now. It's been true since we've been talking about the strategic imperatives and it remains true that
+the margins in those areas continue to be higher. So I think that I still view the opportunity for us in gross margin is
+going to look – gets better because again, the places we're moving to is better than what we are coming from.
+<A - Patricia Murphy>: Thanks, Amit. Let's take the next question, please.
+Operator
+Thank you. Next question it is from David Grossman with Stifel Financial. You may ask your question.
+<Q - David Grossman>: Great. Thank you. Yeah, Martin, if you look over the next 12 months to 24 months, I think
+the strategic imperatives were in the low 40s as a percentage of revenue. What are the main variables that will dictate
+whether the imperatives grow to over 50% of revenue and again to more than compensate for the declines in the legacy
+core?
+<A - Martin J. Schroeter>: Sure, David. So a few things. First – and we talked about this a little bit in the prepared
+remarks, and I think it's important. The legacy core is a business that we are constantly reinventing. It's not something
+that we are under-investing. It's not something that we don't like. We really like this business. It is very high value. And
+some of that content, sure, sits in declining markets, so it has declining opportunity, but that's high value.
+And then as we talked about in the prepared remarks, some of those businesses like WebSphere Application Server is
+growing. It's in a growing market and we grow. So the core is – and I know you didn't say it this way, but the core is, I
+just want to make sure everyone is clear, is made up of a lot of different things. And included in that core, if you will, is
+we've got part of our Power business. We've got some of our mainframe business. We're just not in the right time of the
+cycle for those parts of the core to grow. We will get to that part of the cycle when it grows.
+So then from the high-level math you did, we said that strategic imperatives would be 40%. We're obviously there, but
+$40 billion, at least, by 2018 and we are still on track to get there. In fact, we are a little bit ahead of track. Now when
+those two lines cross, I don't know. I think that the investment community has been keen for us to stay on that solid
+double-digit growth path in the strategic imperatives. There are being concerns every quarter about whether or not we
+are slowing down, but we just grew 13% on our toughest compare of the year last year because we did 17% in the first.
+So I think that the crossover point I think is a mathematical exercise, what I'm looking at it are the strategic imperatives
+and the growth we're getting out of those continuing to put us and keep us on the track to that $40 billion.
+<A - Patricia Murphy>: Thanks, David. Let's go to the next question, please.
+Operator
+Thank you. Next question is from Keith Bachman with BMO. Your line is open.
+<Q - Keith Frances Bachman>: Hi. Thank you very much. My voice is always raspy. I wanted to ask you is pruning
+still on the table? What I mean by that is if I think about the revenue growth, the core actually decelerated this quarter
+compared to say the last three quarters. And if I look at some of the areas like GBS, you have application maintenance
+that's – combined with BPO that's over 50% of the business and well under company profit levels. And I'm just trying
+to understand, specifically focused on GBS, is how you improve revenue growth, but should you improve revenue
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 14 of 15
+growth? Or is there more pruning that you can do as it relates to total IBM portfolio, but particularly within GBS?
+<A - Martin J. Schroeter>: Sure, Keith. So I think I look at our portfolio, and as you know, because we've talked
+about this and we've been pretty clear that we look at our portfolio through the eyes of value. And I think the portfolio
+– not solely through the eyes of growth, value and – or no value or a limited value without growth is obvious that we
+wouldn't – we would have a – we would be thinking about whether or not that fits. But the portfolio we have today, I
+view as high-value. The AMS business, as you point out, that's a high-value business.
+It's pretty stable, but it serves a really important need with our client base. It allows us, based on how we do it with our
+industry focus, it allows us to drive value for our clients. So I think of pruning as something you do when you don't see
+an opportunity for differentiation, when you don't see a longer-term opportunity for value. And I look at the portfolio
+now and, boy, I think there is – I think you have a very high value portfolio and I think that GBS – large GBS all of it
+plays a critical role in that, I don't see a pruning opportunity here.
+<A - Patricia Murphy>: Okay. Thanks, Keith. Sam, let's take one last question, please.
+Operator
+Thank you. Our last question is from Jim Suva with Citi. Your line is open.
+<Q - Jim Suva>: Thank you very much. I think there is no question about the [indiscernible] (58:08) in strategic
+imperatives how your ramping those. The biggest question on many of these follow-up calls – and so maybe I'll give it
+one more shot, to be rounded out is, the investment you're putting forth in the degradation to gross margins, when are
+we going to see them stabilize or do you have line of sight to that? It just seems like when you give up on investing, at
+some point you want to harvest the fruit of their effort, and it's been asked time and time again, so I'll ask it kind of one
+more time to see if you see stabilization and if so when?
+<A - Martin J. Schroeter>: Yes. Sure, Jim. So again, and this is actually – it's an interesting timing of this question
+because I want to make sure that everybody understands that as we head now into the rest of this year, and one of our
+focus items, as it always has been but now the timing is right, is to get the returns for our investments, it's something if
+you were to pull a 100 IBM executives, it's something that they'd all say is now it's time to get the returns.
+So we have driven very heavy investment. That has impacted our margins, but the investment is not the only
+opportunity, the only lever we have to improve margins. We have a lot of opportunity in our Services business and our
+delivery model and how we drive margin. So yes, it is time for us to get the returns. We have invested quite heavily.
+The strategy is right. We hear it from our clients every day. The places that we are moving them to and the work we do
+in the core is highly, highly valuable to them. So I think now, to shorthand that, is yes.
+Now it's time. And with that, I'll wrap up the call by saying we have been making significant investments. We've
+added, by the way, a ton of capabilities to the IBM company. We started new business. We made new markets. We've
+changed as we always do industries and professions, and we'll continue to do that. But now with the business
+positioned very well for the long-term in terms of capabilities – always opportunities to add a little bit here or there, but
+with the business positioned well for the long-term, now it is time to focus on improving the returns on those
+investments.
+So thank you very much for joining the call today.
+Patricia Murphy
+Sam, can I turn it back to you to close the call out, please?
+Operator
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2017-04-18
+Event Description: Q1 2017 Earnings Call
+Market Cap: 160,393.29
+Current PX: 170.05
+YTD Change($): +4.06
+YTD Change(%): +2.446
+Bloomberg Estimates - EPS
+Current Quarter: 2.941
+Current Year: 13.740
+Bloomberg Estimates - Sales
+Current Quarter: 19626.250
+Current Year: 78499.042
+Page 15 of 15
+Thank you for participating on today's call. The conference is now ended. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2017, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
