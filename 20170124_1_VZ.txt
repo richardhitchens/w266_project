@@ -1,0 +1,912 @@
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 1 of 17
+Q4 2016 Earnings Call
+Company Participants
+• Michael T. Stefanski
+• Matthew D. Ellis
+Other Participants
+• Simon Flannery
+• Philip A. Cusick
+• John Christopher Hodulik
+• David William Barden
+• Craig Eder Moffett
+• Michael I. Rollins
+• Brett Feldman
+• Mike L. McCormack
+• Amir Rozwadowski
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning, and welcome to the Verizon Fourth Quarter 2016 Earnings Conference Call. At this time, all
+participants have been placed in a listen-only mode and the floor will be open for questions following the presentation.
+[Operator Instructions] Today's conference is being recorded. If you have any objections, you may disconnect at this
+time.
+It is now my pleasure to hand the call over to your host, Mr. Michael Stefanski, Senior Vice President-Investor
+Relations.
+Michael T. Stefanski
+Thanks, Tori. Good morning, and welcome to our fourth quarter earnings conference call. This is Mike Stefanski, and
+I'm here with our Executive Vice President and Chief Financial Officer, Matt Ellis.
+As a reminder, our earnings release, financial and operating information and the presentation slides, including a
+supplemental information slide, are available on the Investor Relations website. A replay and a transcript of this call
+will also be made available on our website.
+Before we get started, I'd like to draw your attention to our Safe Harbor statement on slide 2. Information in this
+presentation contains statements about expected future events and financial results that are forward-looking and subject
+to risks and uncertainties. Discussion of factors that may affect future results is contained in Verizon's filings with the
+SEC, which are available on our website.
+This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the
+most directly comparable GAAP measures are included in the financial materials we have posted on our website.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 2 of 17
+The quarterly growth rates disclosed in our presentation slides and during our formal remarks are on a year-over-year
+basis, unless otherwise noted as sequential.
+Before Matt goes through our results, I'd like to highlight a few items. For the fourth quarter of 2016, we reported
+earnings of $1.10 per share and full year earnings of $3.21 per share on a GAAP basis. These reported results include a
+few non-operational items that I would like to highlight.
+Our reported fourth quarter earnings include a non-cash pre-tax gain of about $1.6 billion. The largest item was the
+mark-to-market adjustment of our pension and OPEB liabilities, which was a pre-tax gain of roughly $1.8 billion. This
+adjustment, which was primarily non-cash, was caused by an increase in the discount rate, as well as other plan factors.
+We also incurred pre-tax expenses of nearly $200 million, primarily related to severance cost under our existing
+separation plans. The net impact of these items, after-tax, approximated $1 billion or $0.24 per share.
+Excluding the effect of these non-operational items, adjusted earnings per share were $0.86 in the fourth quarter,
+compared to $0.89 a year ago; a decline of 3.4%. For the full year, adjusted earnings per share were $3.87, compared
+with $3.99 in 2015; a decrease of 3%. Recall that our 2015 adjusted EPS included $0.13 of depreciation benefit related
+to the three Wireline properties that we sold to Frontier.
+With that, I'll now turn the call over to Matt.
+Matthew D. Ellis
+Thanks, Mike. Good morning to everyone on the call, and thank you for joining us today. I look forward to working
+with our investors and all of you who follow our stock and share in progress on our strategy to deliver the promise of
+the digital world.
+We're in a vibrant and exciting industry. Our leadership position in Wireless and fiber networks, as well as our loyal
+and high-quality customer base, is a reflection of our commitment to continuous improvement by our outstanding
+employees which places us in a great position for long-term profitable growth.
+The continuous changes from technology advances and the competitive environment will provide us new opportunities
+to evolve and develop innovative solutions to continue to be a key player in this dynamic market.
+I'm energized by those challenges and the great team we have, and I'm excited about the coming years. My primary
+objective is to build on the strong foundation of this business and ensure we're always being responsible stewards of the
+company by running the businesses we have today as efficiently and effectively as possible, while investing
+responsibly to deliver long-term growth and shareholder value.
+Let's now move into an overview of 2016. As expected, 2016 was a transformative year for Verizon. We demonstrated
+strong financial performance and returned value to our shareholders, while repositioning the business. Our core
+businesses are executing well in highly competitive markets and we're on track with our strategic priorities.
+During 2016, we completed Wireline divestitures of three markets, negotiated new contracts with our labor unions,
+executed successful 5G technical trials, and gained traction in new growth businesses.
+Operationally, in Wireless, with our network leadership strategy, we added 1.3 million smartphone net adds and
+maintained industry-leading retail phone churn performance of less than 0.9% for the year and for seven consecutive
+quarters. In Wireline, we restructured the segment and its cost structure. Overall, we delivered solid operational and
+financial results, which I'll go into in more detail in a few minutes.
+Our capital allocation was consistent with our strategy. We invested in adding capacity through densification of the 4G
+network, acquired Telematics and Smart City businesses, and extended ecosystems to monetize data traffic. We
+reduced our unsecured debt and delivered strong value to our shareholders through the 10th consecutive increase in
+annualized dividends last September.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 3 of 17
+Entering 2017, we are confident with our strategy and priorities to serve customers and increase value. The foundation
+of our strategy is a network that's ubiquitous and reliable. We will continue to invest in our networks, expand network
+capabilities, and advance ecosystems to offer value to our customers. The execution of these priorities will allow us to
+lead the network layer and develop innovative solutions to meet customer demands in the rapidly expanding
+mobile-first digital world.
+Now, let's get right into the operating performance, starting with our consolidated results on slide six. Total operating
+revenue in the fourth quarter was $32.3 billion, a decline of 5.6%. Consolidated 2016 revenue was $126.0 billion,
+representing a decline of 4.3%. If we exclude revenues from the divested Wireline properties and AOL, which became
+part of our operations during the second half of 2015, adjusted operating revenue would've declined approximately
+2.4%.
+Wireless revenue tracked with our expectations in the quarter, as the shift from service revenue to equipment revenue
+across our basic customers is ongoing. Equipment revenue was seasonally strong, primarily led by new smartphone
+launches and equipment installment take rates. Wireline segment revenues continued recent trends declining 3.1%, with
+consumer growth of 0.2% for the quarter.
+In our new businesses, we are pleased with AOL's performance for the quarter and full year. In the fourth quarter, our
+digital media business, led by AOL, generated revenue of $532 million net of traffic acquisition costs. This revenue
+was down about 5% year-over-year, as expected, due to the revenue lift related to the Microsoft deal in the fourth
+quarter of 2015, but increased around 10% sequentially, in line with expectations.
+Organically, Internet of Things revenue was $243 million, up 21% in the fourth quarter. We expect to sustain these
+strong trends. Including acquisitions, Internet of Things revenue increased more than 60% in the fourth quarter.
+Strong cost management across the business enabled us to drive profitability, including offsetting the lost earnings
+contribution from the divested Wireline markets. On a consolidated full-year basis, excluding non-operational items,
+EBITDA totaled $44.8 billion and EBITDA margin was 35.5%.
+Now, let's turn to cash flows and the balance sheet on slide seven. In 2016, cash flows from operations totaled $22.7
+billion, which is impacted by payments of cash income taxes of $3.2 billion associated with the gain on the divested
+Wireline properties.
+Full-year capital spending of $17.1 billion was just below our guidance of $17.2 billion to $17.7 billion. Free cash flow
+for the year totaled $5.7 billion, which does not include the proceeds from on-balance sheets securitization transactions.
+In the second half of 2016, we shifted to on-balance sheet securitization of our equipment receivables, as it provides us
+a lower overall cost of funding. As we have previously noted, the proceeds from our on-balance sheet securitization
+program are reflected in the cash flows from financing.
+During the fourth quarter, we generated cash proceeds of about $2.4 billion from on-balance sheet securitization for a
+total of $5.0 billion during the second half of the year. Our balance sheet is strong and provides us with financial
+flexibility to grow the business.
+We ended the year with $108.1 billion of gross debt, which comprised of $103.1 billion of unsecured debt and $5
+billion of on-balance sheet securitizations. Our year-end unsecured debt balance was lower by $6.6 billion from the
+prior year. We remain on track to return to our pre-Vodafone credit rating profile by the 2018 to 2019 timeframe.
+Now, let's move into a review of the segments, starting with Wireless on slide eight. In the Wireless business, we are
+delivering a balanced operational performance in a highly competitive environment.
+Total Wireless operating revenue declined 1.5% in the quarter to $23.4 billion. For the full year, operating revenue
+totaled $89.2 billion, a decline of 2.7%. Service revenue of $16.3 billion declined 4.9% for the quarter, as compared to
+the 5.2% decline in the third quarter. For the full year, service revenue declined 5.4%.
+Overall, service revenue trends are consistent with the postpaid base migrations to unsubsidized service pricing.
+Approximately 67% of our postpaid customers are now on unsubsidized pricing, which is ahead of our expectations
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 4 of 17
+due to higher volumes in the fourth quarter.
+Service revenue plus device payment plan billings increased 1.7% in the fourth quarter and 2.0% for the full year. This
+deceleration in trend is due to the strong migration of customers in the second half of the year to unsubsidized pricing,
+as customers fulfilled their prior service contracts.
+We're also seeing strong migrations to our new pricing structure that we launched midyear with Safety Mode and
+Carryover Data. While these plans have resulted in greater-than-expected optimization, they improve customer
+satisfaction and retention. Recently, we launched a single-line pricing plan to improve our competitive position in that
+segment.
+Equipment revenue increased to $5.7 billion, up 6.2% for the fourth quarter and 3.5% for the full year. The percentage
+of phone activations on device payment plans increased to approximately 77% in the fourth quarter, compared with
+about 70% in the third quarter and about 67% in the fourth quarter of 2015.
+We expect the first quarter take rate for device payment plans to be similar to 4Q, as two-year service contracts are no
+longer available for upgrades by the embedded base. At the end of the quarter, approximately 46% of our postpaying
+phone customers had a device payment plan.
+Improving the cost structure of our Wireless segment is a priority. We see additional opportunities to increase
+efficiencies in our operating model through the continued application of our Verizon Lean Six Sigma processes.
+On total revenues, our EBITDA Wireless margin was 36.9% for the fourth quarter and 43.8% for year. In terms of
+profitability, we generated $8.6 billion of EBITDA in the quarter, a decrease of 5.2%. For the full year, total EBITDA
+was $39.0 billion, an increase of 0.2%. As expected, the equipment promotional activity in the quarter was elevated
+given the holiday season. We will remain competitive in the marketplace.
+In the fourth quarter, overall traffic on LTE increased by approximately 49%, while we extended our lead in the
+industry's third-party performance studies across the country. Wireless capital spending totaled $3.5 billion in the
+quarter and $11.2 billion for the full year.
+Now, let's turn to slide nine and take a closer look at Wireless connections growth. In the fourth quarter, we added
+high-quality retail postpaid net additions of 591,000, with a sequential improvement in the number of 4G smartphone
+and total phone net adds. We added 552,000 new 4G smartphones in the quarter, which are partially offset by a net
+decline in 3G smartphones, resulting in 456,000 net new smartphones. Total postpaid phone net adds totaled 167,000,
+which included a net decline of basic phones.
+Tablet net additions totaled 196,000, which was 764,000 less than last year due to lower gross adds and higher churn
+resulting from previous year's promotions. Full-year postpaid net additions of 2.3 million included 1.8 million 4G
+smartphones and 1.4 million 4G tablets. The primary offset to these net additions was net declines in basic phones and
+3G smartphones.
+Postpaid gross additions improved sequentially to 4.2 million for the fourth quarter and to 15.4 million for the full year.
+Our disciplined focus on customer retention resulted in retail postpaid phone churn of less than 0.9%. Overall, our retail
+postpaid churn increased year-over-year due to higher tablet churn to 1.1%.
+Total postpaid device activations totaled 13.1 million in the quarter, down 1.9%; and 43.2 million for the full year,
+down 7.3%. About 85% of these activations were phones, with tablets accounting for the majority of the other device
+activations. About 8.3% of our retail postpaid base upgraded to a new device in the fourth quarter, up sequentially and
+consistent with prior year. During the quarter, 8.6 million phones were activated on device payment plans.
+Net prepaid devices declined by 9,000 in the quarter, compared to a decline of 157,000 in the prior year. We are seeing
+sustained year-over-year improvement in retail prepaid. We ended the year with 114.2 million total retail connections,
+excluding wholesale and Internet of Things connections. Our industry-leading postpaid connections base grew 2.1% to
+108.8 million, and our prepaid connections totaled 5.4 million.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 5 of 17
+Let's move next to our Wireline segment, starting with a review of our consumer and mass markets revenue
+performance on slide 10. In the Wireline segment, consumer revenue increased 0.2%. And mass markets, which
+include small business, declined 0.2% in the fourth quarter.
+For the full year, consumer revenues expanded by 0.4%, and mass markets declined by 0.3%. Fios total revenue again
+increased 4.4% in the fourth quarter and increased 4.6% in 2016. Fios revenue growth was primarily driven by an
+increase in the total customer base and strong demand for higher internet speeds. In Fios Internet, we added 68,000 net
+customers for the quarter and 235,000 for the year. We now have a total of about 5.7 million Fios Internet subscribers,
+representing 40.4% penetration.
+In Fios Video, we added 21,000 net customers in the quarter and 59,000 for the year and now have a total of 4.7 million
+Fios video subscribers, which represents a 34.3% penetration. Similar to prior quarters, we continue to see strong
+demand for Custom TV offerings. Our One Fiber initiative in Boston is progressing as expected, and we launched
+consumer and business services to customers late in the fourth quarter.
+We continue to innovate with our Fios platform utilizing our fiber assets. And earlier this month we introduced Instant
+Internet, which is a new service that offers both upload and download speeds of 750 megabits per second. This service
+was introduced in New York, New Jersey, Philadelphia and Richmond, and other markets will see the service soon.
+Let's turn to slide 11 and cover Enterprise and Wholesale, as well as the Wireline segment in total. Global Enterprise
+revenue declined 4.5%; and on a constant currency basis, was down about 4% in the fourth quarter. For the full year,
+Global Enterprise revenue declined 3.6%; and on a constant currency basis, was down about 3%. In our Wholesale
+business, as expected, revenues declined 7.5% in the fourth quarter due to the impact of non-recurring items in the prior
+year. For the year, Wholesale revenue declined 4.9%.
+Total operating revenues for the Wireline segment declined 3.1% in the quarter and 2.3% for the full year. The impacts
+of the labor contract workforce reduction and tight cost control supported improved profitability, while maintaining
+strong customer satisfaction.
+The segment EBITDA margin was 24.1% for the quarter and 19.6% for the year. We expect to see continuing
+improvement on an annual basis with seasonal fluctuations.
+Capital spending in Wireline was $1.6 billion in the fourth quarter and totaled $4.5 billion for the year. Regarding our
+pending Wireline transactions, we expect the acquisition of XO Communications to close in the first quarter, and the
+data center transaction to close in the second quarter.
+Let's move next to slide 12 to discuss our strategic position. Entering 2017, we are confident in our strategy and
+priorities for future growth and profitability. The foundation of the three-tier strategy begins with our commitment to
+invest in our best-in-class networks. Above the network layer resides our platform layer, which we are developing and
+creating new business models to monetize the ever-increasing digital traffic growth.
+Our goal is to be the trusted provider of connecting people and things and providing scalable solutions and analytics.
+Network quality and leadership is the cornerstone of this strategy and at the forefront of our brand value proposition to
+our customers. Today, we are one of the largest and most reliable 4G network in the country with market-leading fiber
+assets.
+To expand our network leadership, we are executing on our strategic efforts to densify the 4G network, increase fiber
+resources and enhance spectral efficiency. As I noted earlier, we've initiated our next generation fiber network
+deployments in Boston. Fiber is an important element of our Wireless networks, as it allows us to strengthen our 4G
+LTE capacity, while also preparing for 5G.
+Our pending XO Communications acquisition will add to our fiber footprint and provide us with additional metro rings
+in 45 out of the top 50 U.S. markets.
+5G wireless technology is a focus for us. We are now launching about 10 pre-commercial pilots across the country with
+multiple use cases, including dense urban and suburban neighborhoods. Our goal is to test the 5G fixed wireless
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 6 of 17
+technology in different environments in order to successfully operationalize 5G products for a commercial launch. As
+noted earlier, we are expanding platforms and building new business models to monetize digital mobile video traffic on
+our network.
+In our media assets, AOL's content and ad tech capabilities have enhanced our video offerings. With a focus on
+delivering timely, short form versions of video clips, we have seen digital video consumption gain traction in the last
+year.
+At the content and solutions layer of our three-tier strategy, the combination of AOL, go90 and other content has
+enabled class cross-platform sharing. This strategy expands our distribution and revenue opportunities globally across
+carriers and networks.
+We have seen increased usage in the go90 application through this exchange, and we're expanding our unique content
+offerings. The average daily usage in go90 was consistent sequentially at about 30 minutes per viewer, with less than
+20% of traffic served on the Verizon Wireless network in the second half of the year.
+We are actively leveraging our content portfolio and have strategically focused on an ad-supported model. In 2016,
+through our joint venture with Hearst, we launched unique content through Complex Media and AwesomenessTV, and
+we are looking forward to expanding these offerings this year.
+In addition, our extensive digital rights portfolio, including sports such as NFL and NBA, provided enhanced viewing
+experiences, such as launching Stream Pass to Verizon Wireless customers across multiple demographics.
+Our pending Yahoo! acquisition will further increase our opportunity to scale in the digital media space with its 1
+billion plus monthly average unique viewers. We are still working with Yahoo! to assess the impact of the breaches,
+and we have not reached any final conclusions yet.
+The Internet of Things, including Telematics, is an area of opportunity that is rapidly growing as the connected world
+expands. Ubiquitous and reliable coverage to support the vast number of devices expected on these various platforms is
+a competitive advantage. And we are developing this ecosystem to leverage our best-in-class networks, while providing
+solutions to verticals, such as transportation, energy, agriculture and smart cities.
+A great example of this is in the Telematics space. With acquisitions of both Telogis and Fleetmatics, we became the
+market share leader. Our Smart City solutions continue to progress and the business is augmented with the acquisitions
+of Sensity and LQD WiFi. As a result, we now have a deep inventory of solutions on our IoT platform to provide to our
+customers.
+Overall, we are confident in our ability to execute, deliver results, and return value to our shareholders, while
+continuously transforming the business. As we look at our current and pending assets in the media and IoT businesses,
+we will be focused on integrating these assets by increasing global scale organically and further enhancing
+cross-platform content sharing opportunities.
+Collectively, these assets allow us to participate in the global ecosystem of the connected world. We see a clear path to
+revenue contributions from these integrated assets, which will drive returns to the overall business in a less
+capital-intensive manner.
+Now, let's turn to slide 13 to review 2017 priorities. In 2017, our focus will be leveraging our network leadership
+position. We will focus on retaining and growing our high-quality customer base in both Wireless and Wireline, while
+balancing profitability in this dynamic environment. Enhancing ecosystems in media and the Internet of Things, led by
+Telematics, will further drive the monetization of our network and solutions, both domestically and globally.
+We expect full year consolidated revenue, on an organic basis, to be fairly consistent with that of 2016 with
+improvement in Wireless service revenue and equipment revenue trends. We also expect full-year consolidated
+adjusted EPS trends to be similar to consolidated revenue trends.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 7 of 17
+Additionally, we're targeting the following for 2017: consolidated capital spending between $16.8 billion and $17.5
+billion; minimum pension funding requirement of approximately $600 million; and in terms of income taxes, we expect
+our effective tax rate for financial reporting purposes to be in the range of 34% to 36%, based on current legislation.
+We will execute on the long-term strategy to position the business for the future.
+With that, I will turn the call back to Mike so we can get to your questions.
+Michael T. Stefanski
+Thank you, Matt. Tori, we're now ready to take questions.
+Q&A
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] One moment please for the
+first question. Your first question comes from Simon Flannery of Morgan Stanley. Your line is now open. You may ask
+your question.
+<Q - Simon Flannery>: Great. Thanks very much. Good morning. Matt, maybe we could start with the last point on
+the guidance. Can you just give us a reconciliation of the new guidance versus the previous GDP type growth and
+normal type EPS? What are the changes there causing that? And on EPS specifically, can you just help us reconcile
+what the base number that you'll be using for sort of a flat kind of organic number would be for all the adjustments with
+Frontier and the labor dispute, et cetera? Thank you.
+<A - Matthew D. Ellis>: Thank you, Simon, for the question. Good morning. So, I guess, let's start with the outlook
+we gave this morning, and I'll start with the revenue. So as you saw from that, we said we expect to see it consistent
+with 2016 on an organic basis, and we continue to see the revenue trajectory of the business improve. So as you saw in
+the release, we expect that to be fairly consistent on an organic basis. So this is an improvement over 2016 when
+revenues declined 2.4% on a comparable basis.
+So let's unpack that for a second and see how we get to that improvement from the negative 2.4%, up to something
+that's more comparable; and obviously the major driver is Wireless, where total revenue was down 2.7% last year and
+service revenue was down 5.4%. So if we look into the service revenue component there, that trajectory improved
+throughout the year. We started in the first quarter of 2016, down 6.2%; we ended the year in the fourth quarter, down
+4.9%; and the year as a whole average, down 5.4% as I said.
+So as we expect that trend to continue to get better, we should see a better number year-over-year in Wireless service
+revenue. Equipment revenue should also be higher, given the higher device payment take rate, which we expect to be
+similar to what we saw in the fourth quarter, which was at 77%. And so, obviously improvement in Wireless, it will be
+the biggest factor year-over-year.
+And as you look at the other parts of the business, we expect Wireline revenue trends to be similar to 2016. And then,
+Media Co., we expect that will continue to build off the progress made last year. And then, within the IoT businesses,
+obviously including Telematics, that grew 21% in the fourth quarter and we expect that business to continue to grow at
+a very healthy pace. So on a combined basis, we're confident in seeing a better revenue trajectory in 2017 than last
+year.
+When you talk about how we gave the outlook on revenue versus what we've been saying previously, I think the
+biggest item you've got to look at in there is Wireless service revenue. So we continue to make good progress
+transitioning the base to unsubsidized service pricing. And as customers come out of their two-year subsidy plans, we
+see them quickly migrate to the unsubsidized service pricing. And we ended the year with 67% of postpaid customers
+now on those unsubsidized pricing plans. And so, while we were happy to have seen the acceleration, it does provide a
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 8 of 17
+headwind to service revenue.
+And then, additionally within service revenue, we saw a higher level of migrations than past pricing changes to the
+plans that we introduced in the middle of last year. That functionality of those new plans appeal to our base, and we
+saw customers take advantage of that and optimize their plan. So those two developments especially have essentially
+pushed out our expectation of the timing of service revenue to return to year-over-year growth from the end of 2017
+into 2018.
+As so, then as you look at the earnings side of it, obviously the largest driver of EPS changes is what happens in the
+Wireless service revenue. So obviously with service revenue being $66 billion, more than half percent of our total
+revenue, it's the largest driver. And so, we continue to work through that service revenue migration.
+It is offset by the strong cost management we've had across the business. And that's been a hallmark of our performance
+over the past few years using the Verizon Lean Six Sigma program that you heard us talk about previously; and that
+will continue to produce significant benefits in 2017. And we'll also see a full-year benefit in 2017 from the new labor
+contracts.
+So when you factor in all of the above, we expect to produce strong earnings again in 2017. And we talked about the
+trend we expect on EPS. You've obviously got the impact in 2016 of one year of the Frontier properties in the first
+quarter and obviously the work stoppage. But in total, we'll be around – the revenue lines – we'll be around where we
+were in 2016 is the baseline of our view for 2017.
+<Q - Simon Flannery>: Okay. So just to be clear, on the EPS, we should take the EPS that you reported for 2016 as
+the base for 2017?
+<A - Matthew D. Ellis>: That's a reasonable starting point, yes.
+<Q - Simon Flannery>: Okay; great. And then, just one last thing on the optimization. Has that sort of faded at this
+point, or is that still continuing at quite a pace? Was that kind of a three or four-month effect, or are you still seeing a
+lot of that going on?
+<A - Matthew D. Ellis>: We're seeing that still continue, but we saw it at certainly an aggressive pace initially after we
+launched those plans. So that just means the base moved quicker to those plans than we'd seen in other changes. So
+we're excited that we launched product features that were of high level of interest to our customers.
+<Q - Simon Flannery>: Great. Thanks, Matt.
+<A - Michael T. Stefanski>: Simon, thank you. Tori, next question, please.
+Operator
+Thank you. Next question comes from Phil Cusick of JPMorgan. Please go ahead with your question.
+<Q - Philip A. Cusick>: Thanks. Just to follow-up, first, on Simon's question. Can you give us explicitly what the
+revenue number you're looking at in 2016, sort of the normal number, as well as the earnings number?
+<A - Matthew D. Ellis>: Yeah. The normal number for 2016 would be the comparable against the down 2.4% when
+you adjust out for the acquisitions over the course of the couple of years.
+<Q - Philip A. Cusick>: Sorry. So exactly the dollar number that we should be starting with as the baseline to build
+from?
+<A - Matthew D. Ellis>: Yeah. I'll come back to you on that one. As I say, we refer off the down 2.4% year-over-year.
+It adjusts out for the transactions in both 2016 and also the AOL introduction in 2015. So when you adjust for both of
+those, the number. --
+<Q - Philip A. Cusick>: Right, and I am just – I'm sorry. Go ahead, Mike.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 9 of 17
+<A - Michael T. Stefanski>: No. I was just going to say, we'll get you that exact number, because it is both taking out
+Frontier for the first quarter, as well as we do make an adjustment because we didn't have a full year of AOL. So that's
+how we get to the negative 2.4%. But effectively, what we're saying is, is that organically that plus not including any of
+the growth from new businesses that would be the consistent number. But we'll get you that exact number.
+<Q - Philip A. Cusick>: Okay. And then, just to make sure, when you talk about better trends and it sounds like you're
+looking for stability, that revenue number you're looking for dollars of stability year-over-year, not stable downtick in
+percentages, correct? Not down on 2% revenue [indiscernible] (35:39)
+<A - Matthew D. Ellis>: Correct. It's been on a dollar basis year-over-year, and we get there through seeing
+improvements in the trend on the service revenue trajectory, the equipment revenue trajectory, so in total across
+Wireless. And then, also the newer businesses. Whether it be Media Co. or across the Internet of Things businesses, we
+continue to expect to see the revenue from those businesses improve in 2017.
+<Q - Philip A. Cusick>: Okay. That makes sense. And then, on earnings, is it $3.86 that we're using as the baseline
+from 2016 to jump off into 2017, or is that a different number?
+<A - Matthew D. Ellis>: I'd go off of the $3.87 that we had on an adjusted basis, adjusting out for the mark-to-market
+and other items.
+<Q - Philip A. Cusick>: $3.87. Got it. Okay. And then, just to add one more new one. You talked about the GAAP tax,
+34% to 36%. How should we think about cash taxes in 2017 under the current legislation?
+<A - Matthew D. Ellis>: Yeah. We would expect cash taxes to converge towards the effective tax rate during 2017.
+<Q - Philip A. Cusick>: So a higher cash tax rate in 2017 than 2016?
+<A - Matthew D. Ellis>: Yeah. The cash tax is just purely on income. Obviously, our cash taxes for 2016 did include
+$3.2 billion of taxes related to the Frontier transaction. We would expect to have cash taxes in 2017 related to the
+disposal of the data centers, when that occurs, at a lower level. But on the organic tax on earnings, we would expect
+that the cash taxes to be closer to the ETR during the course of 2017.
+<Q - Philip A. Cusick>: Okay. And do you have any initial thought on what the different plans of tax changes could
+be? Anything you can help us as we model out the different impacts from border adjustments and things like that?
+<A - Matthew D. Ellis>: Yeah. So as we look at taxes, we certainly – look, it's a little too soon to tell, right? We
+certainly are supportive of changes in the tax legislation. We believe that we need to get to a more competitive tax
+environment. And we look forward to working with Congress and the new administration as they try and put new tax
+rates forward.
+Certainly, a reduction in the rate would be beneficial. 100% expensing of CapEx would be beneficial initially. But the
+plans being discussed also include items such as the removal of the interest expense deduction. And then, as you
+mentioned, we're all trying to understand exactly how border adjustability may or may not work.
+So certainly believe that tax reform would be a benefit to us. Whichever year is the first year it applies to, whether it
+applies to 2017 or whether it initially apply to 2018, we're definitely seeing it being a benefit to the cash taxes we pay.
+But given the uncertainty of the specifics of the plan, it's a little too soon to say exactly how much that could be.
+<Q - Philip A. Cusick>: Can you give us an idea of, within your CapEx and OpEx, what, either a dollar number or a
+percent, comes from overseas? And then I'll stop. Sorry.
+<A - Matthew D. Ellis>: Yeah. I don't think we've disclosed that number previously. So we'd have to go back and look
+that. But no, we're not going to disclose that at this time.
+<Q - Philip A. Cusick>: Thanks very much.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 10 of 17
+<A - Michael T. Stefanski>: Phil, there is a reconciliation of the number for revenue that we're using in our financials
+that we released this morning on our website. But the number is $121.8 billion. So $121.8 billion would be the base for
+the revenue, as we discussed.
+<Q - Philip A. Cusick>: Thank, Mike.
+<Q - Philip A. Cusick>: Okay. Great. Tori, if you could, next question.
+Operator
+Thank you. Next question comes from John Hodulik of UBS. Please go ahead with your question.
+<Q - John Christopher Hodulik>: Great. Thanks. Maybe another follow-up on the guidance. Matt, obviously there's a
+lot of moving parts, but with the revenue trends and EPS trends sort of mirroring each other, it seems to suggest
+roughly sort of flattish margins, but you're leaving the year with real strength in Wireline profitability. So, first of all, if
+you could talk about what's driving that and expectations for that to continue. Does that imply that the margins on the
+Wireless side, looking out into 2017, should be sort of flat to maybe even down? And maybe talk a little bit about that
+trend, especially given the help that you should see from the removal of subsidies in the year? Thanks.
+<A - Matthew D. Ellis>: Thanks, John, for the question. So starting off with Wireline, certainly Wireline had a good
+result in the fourth quarter. I would tell you, as we said in our prepared remarks, that we would expect Wireline
+margins for 2017 and the year as a whole to be higher than they were in 2016; and you'll see some seasonal fluctuations
+in there, as we typically do. So I would tell you it'd be reasonable to expect Wireline margins for the year as a whole to
+be in the low-20s, compared to the 19% that we saw for 2016.
+So we see a lot of improvements going through the business there. Obviously, we're going to have the full year benefit
+of the new labor contract through there, and we continue to manage costs in that business very closely, in line with the
+revenue trajectory. So we continue to see kind of similar revenue trajectories for the Enterprise and Wholesale
+businesses and are excited about the Fios business, which was up last year 4.6% on a full-year basis for Fios revenues.
+And we continue to have more open-for-sale properties there that creates opportunities as we head into 2017.
+On overall margins, and you talked about the Wireless margins, this always comes back to where the service revenue
+trajectory is going to be. And so, we certainly see improvements in service revenue year-over-year, but we do go into
+the year off that 4.9% jump-off point from the fourth quarter and we expect to see that continue to improve as we head
+into 2017. But as I've said, we now see the point at which we get back to year-over-year positive number pushing out
+into 2018.
+And so, I would expect us to continue to have very strong margins in the Wireless business, but it's going to be off of
+that service revenue trajectory continuing to be slightly negative though in an improving direction.
+<Q - John Christopher Hodulik>: Do you think that on a net basis you can keep those Wireless margins flattish?
+<A - Matthew D. Ellis>: We will continue to aim to produce the strong margins in that business, and certainly believe
+that we have the ability to maintain a premium pricing in the market; and that will certainly be our aim as we go
+through the year.
+<Q - John Christopher Hodulik>: Great. Thanks, Matt.
+<A - Michael T. Stefanski>: All right. Thanks, John. Tori, next question, please.
+Operator
+Thank you. Next question comes from David Barden of Bank of America – Merrill Lynch. Please go ahead with your
+question.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 11 of 17
+<Q - David William Barden>: Hey, guys. Thanks for taking the questions. I guess, two, if I could. First, Matt,
+obviously a lot of focus on the guidance. Taking maybe $2 billion to $3 billion of revenue out of that number, it feels
+like something's changed on the ground competitively that's making you have to really get more aggressive on the EIP
+side and then the promotional side. Do you feel like Verizon needs to go to market more aggressively with an unlimited
+product like each of your competitors has and is kind of leading with these days?
+And if you could kind of talk about kind of your view – we all knew Fran's views on the economics of that, but I'd love
+to kind of hear what your perspective is on the necessity that you do that and your ability to do that if you chose to?
+And then, the second thing, just now with Ajit Pai's elevation to the Chair, I think that we have greater clarity on the
+likelihood that we're going to be getting rid of the privacy rules, specifically aimed at telecom, also the opportunity to
+maybe more aggressively monetize broadband. Could you talk a little bit about some of the opportunities and actions
+that you might be taking right now to prepare for kind of the next regulatory wave? Thanks.
+<A - Matthew D. Ellis>: Yeah. Thank you, David. So I'll start with your first question. So as we look at our market
+position, it's based off the product offering. And we have the best network performance out there, which is a major
+criteria in the user experience. Despite the claims of others, third-party studies continue to demonstrate the superiority
+of our network. And this network leadership position obviously allows us to maintain a premium price for our service
+in the marketplace.
+So as I look at our service revenues plus installment billing, so the total amount we're actually billing a customer each
+month, that increased 2% in 2016. So that demonstrates our offerings continue to be competitive and resonate in the
+marketplace. We constantly monitor the competitive market, look for opportunities to compete more effectively. And
+as an example of that, we recently launched new single-line pricing which we believe was an underpenetrated market
+for us.
+So our pricing is disciplined to provide a return for our premium service. There's a number of different offers out there.
+We saw some folks go to unlimited, we saw some bundling of content and so on in the marketplace. We continue to
+assess where we are in there. And as I say, I think our results – we had 167,000 net phone adds in the quarter. So I
+believe our positioning continues to be competitive.
+We constantly look at what's out there. Unlimited is one of the things that some of our competition has at this point in
+time. That's not something we feel the need to do. But, as I say, we continually monitor the market and we'll see where
+we head in the future.
+And in terms of your second question, so, look, there's a lot of changes going on in D.C. right now obviously.
+Yesterday, we saw the announcement that – as you mentioned, of Ajit Pai. And so, that may have a number of impacts
+across the regulatory space. But I think it's just too soon to tell exactly where we're going to be. We look forward to
+working with the regulators, whether it's the FCC or others.
+The other thing that I'd mention though as you think about that, we make investments for many years given the nature
+of the business that we're in and our investments aren't focused on just who happens to be in office today. We're
+making investments that are for 10-plus years. And I think our record stands for itself that irrespective whoever the
+administration is run by and the regulatory regime that were effective. And that will continue to be how we focus our
+investments. And so, we're looking forward to working with the new administration and the new leadership in the FCC,
+and we expect to continue to be competitive in whatever environment we're operating in.
+<A - Michael T. Stefanski>: David, thank you. Tori, if we can move to the next question.
+Operator
+Next question comes from Craig Moffett of MoffettNathanson. Please go ahead with your question.
+<Q - Craig Eder Moffett>: Thank you. Hi. Good morning, guys. So I wanted to sort of step back to a bigger picture
+question, if I could. Matt, given the comments that you made in the press release about getting the balance sheet back to
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 12 of 17
+the pre-Vodafone deal levels, how much room does that leave you before 2018/2019 for strategic transactions? There's
+been a lot of speculation about the types of things that you might do in this new environment, whether it's content, or
+wireline, or spectrum, or none of the above. I am wondering if you could just sort of give us some thoughts on how
+much flexibility you have and how do you think about the various vectors of opportunity for you?
+<A - Matthew D. Ellis>: Yeah. Thanks, Craig. So as you mentioned that we have been on this path to getting back to
+the pre-Vodafone credit metrics by 2018/2019, and that's part of our overall capital allocation. We've been able to be
+consistent with investing in our networks on a continuous basis, making that improvement in the balance sheet, and
+also returning value to shareholders.
+And since the Vodafone transaction, we've had a number of activities that we've done, whether that be AOL, some of
+the other acquisitions in IoT such as Fleetmatics, we've also divested of businesses, whether it be the tower transaction,
+as an example. And so, we've been able to continually make strategic transactions while staying consistent to each part
+of that capital allocation policy.
+So that will be our intent to continue to do so. And as we head into 2017, we believe that we'll be able to continue to
+maintain that capital allocation policy that allows us to deliver on all three of those key areas.
+<Q - Craig Eder Moffett>: And, Matt, can you comment on how you think about the various options out there,
+whether it's content, or wireline, or spectrum, or something else?
+<A - Matthew D. Ellis>: Yeah. So obviously, look, I'm not going to comment on any specific combinations that have
+been rumored over the years, and certainly we're not able to talk specifically about spectrum right now given that we're
+in the incentive auction. So we will continue to look for opportunities to expand and grow the business. Lowell and I
+are completely aligned that we will be disciplined in any investment activity.
+We evaluate all options, whether that's build by our partner for our strategic positioning and the key criteria is creating
+a long-term value for the business and shareholders. So we'll continue to look for the right things to do to position the
+business to be successful in the future. And we do that on an everyday basis and we'll continue to do so. And I think
+we've successfully done that over the past few years.
+<Q - Craig Eder Moffett>: Thanks, Matt.
+<A - Michael T. Stefanski>: Next question, please, Tori.
+Operator
+Thank you. Next question comes from Mike Rollins of Citigroup. Please go ahead with your question.
+<Q - Michael I. Rollins>: Hi. Thanks, and good morning. Two, if I could. First, if you could talk about how the 5G
+business case is progressing from a financial perspective. And, Matt, what are the key metrics that you're looking for
+from the team that's working on the business case to facilitate a green light of commercial deployment? Is there certain
+cost metrics like per home passed or certain other metrics that you're focused on?
+And then, just if I could follow up on a clarification. So I think you mentioned that in terms of thinking about flat
+organic revenue for 2017, you took the revenue for 2016, you subtracted the divestiture of markets to Frontier and you
+subtracted AOL. Can you help us think through what the add-backs then are for 2017 with the number of pending and
+completed acquisitions that you announced and are still in progress? Thanks.
+<A - Matthew D. Ellis>: Thanks, Mike. So let me start off with 5G. So, look, we had good progress in 2016, as we
+discussed, throughout the year. We had a number of technical trials and [ph] lab-scale (51:28) trials, which we
+completed. And so, we've now moved on for the next phase of that, which is some of these commercial scale pilots that
+are getting underway right now in about 10 different locations around the country. So we're very excited about the
+opportunities that 5G brings. And we'll see how those trials go and we look forward to sharing progress with you on
+those as we move forward throughout the year.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 13 of 17
+You asked around key metrics, and I think it's going to be the same as any major investment we could be looking at, is
+the combination of what's the cost to rollout 5G. We get into questions about how the distance from the node, how
+many homes can you cover on any particular node, what speeds can we get, what's the cost of putting that there, et
+cetera, et cetera. XO obviously brings something to that by adding additional fiber to the base as we think about rolling
+out the infrastructure needed for 5G.
+But it's the same as any investment, Mike. We're going to look at the revenue opportunity we think we can get based
+off of the results of the tests that are underway right now and compare that with the cost. And if it provides a great
+return for shareholders, we will certainly move ahead with launching commercially. And if it'll be the same as any
+other investment, we'll look at it the same way.
+In terms of your second question on 2016, you're right, the baseline is reducing the Frontier divestiture and also AOL
+because we only had it for partially – part of the year in 2015. So then if you think about total revenue for 2017, it
+would include obviously the full year of AOL this year. We expect XO to kick in later this quarter. We expect the IoT
+businesses. You're going to have the full year of Fleetmatics and Telogis and the other IoT acquisitions. And then,
+assuming the Yahoo! transaction closes, you'll have the revenue from there too.
+So when you think about building on the number that Mike mentioned, the $121 billion, you got all of those things to
+layer on top of that to get to the expectation for the full year. Obviously, as it relates to pending transactions, it'll be
+contingent on the timing of those as well. So hopefully that answers your question on that.
+<Q - Michael I. Rollins>: Thanks very much.
+<A - Michael T. Stefanski>: Okay. Tori, next question, please.
+Operator
+Thank you. Next question comes from Brett Feldman of Goldman Sachs. Please go ahead with your question.
+<Q - Brett Feldman>: Thanks for taking the question. If I look at your CapEx guidance for the full year, essentially
+seems you're guiding to flat, plus or minus a reasonable range. I was hoping you can maybe unpack that a little bit. And
+just thinking about your network strategy and your product strategy, what areas are you accelerating capital investment
+inside the business? And maybe where do you feel like you've done a good job building out your network where it
+needs to be? Thanks.
+<A - Matthew D. Ellis>: Yeah. Thanks, Brett. So as you think about the CapEx, as you say, the number is reasonably
+consistent year after year, and that's something you've seen from us for a number of years. But as you say, within that it
+changes over time. And so, within LTE our spending has -- continues to transition from coverage to densifying the
+network. And that continues to evolve as we leverage new technologies around radio, and hardware and software, and
+then [ph] refarming (55:01) our spectrum within 4G and densifying with small cell.
+So you'll continue to see that densification of the 4G network. And that includes how we put fiber out there which
+obviously is needed for the 4G network, but also is something that we think about for prepositioning for 5G. So you'll
+continue to see that.
+You'll continue to see us launch additional parts of LTE Advanced as we go through that. We had the initial launch of
+that last year. We expect additional features to come through in the course of this year, and we'll continue to expand our
+CRAN architecture. So within Wireless, you should expect to see the spending continue to move to make the network
+more efficient on a cost per gig basis going forward.
+And then, as we've mentioned, fiber is a consistent part of our business. So that's something you should expect to see us
+continue in. We've talked about what we're doing in Boston. You should continue to see us do that. Some of the other
+businesses aren't, as we said previously, they're not as capital-intensive as our network business. So you should expect
+to see the CapEx will continue to be focused on the network side of the business as we go into 2017.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 14 of 17
+<Q - Brett Feldman>: And just a quick question as a follow-up around where you're investing. You talked about the
+pre-commercial – the 5G commercial trials you're running. Are those predominately within your Wireline footprint, or
+do you actually think that when you're ready to go commercial you have a business case to go in whatever markets look
+like they have the best demographics regardless of whether you're an incumbent Wireline provider or not?
+<A - Matthew D. Ellis>: Yeah. It's not just in the ILEC footprint; it's across the country. And we certainly see the
+opportunity to deploy 5G solutions across the country as well, once we get comfortable that they're ready to be
+launched out on a commercial basis.
+<Q - Brett Feldman>: So you could do One Fibers in markets across the country, not just in Boston?
+<A - Matthew D. Ellis>: Yeah. That's certainly – it's certainly we're looking at how we would support the 5G network
+across the country, both in and outside the ILEC footprint.
+<Q - Brett Feldman>: Thank you.
+<A - Michael T. Stefanski>: Tori, next question, please.
+Operator
+Thank you. Your next question comes from Mike McCormack of Jefferies. Please go ahead with your question.
+<Q - Mike L. McCormack>: Hey, guys. Thanks. Matt, maybe just a clarification on your comments regarding service
+revenue turning positive. Just give us a sense: obviously optimization continues, but is that predicated on a stable
+pricing environment in your view?
+Secondly, on the retention side, looks like you got about a 21% delta between those that are on unsubsidized plans
+versus those making device payments. Is that fair? And then, as we think about that, how much of that is bring your
+own device, versus off contract, versus your own retention efforts?
+And then, if you don't mind, a final one. Based on our math, it looks like you still have about 13.1-ish million feature
+phones out there, so non-smartphones. What's the strategy to try to move those over to smartphones, or try to retain
+them to prevent headwinds on handsets as we look into 2017?
+<A - Matthew D. Ellis>: Yeah. Thanks, Mike. I'll start with the last one. Look, we certainly like it when customers
+migrate from feature phones to an LTE smartphone, but we're also very happy for those customers that just want a
+feature phone. They're not looking for the additional functionality, but they want to be connected to a great network.
+We're very happy to continue to have those as customers, and we look forward to continuing to have offerings that
+meet their needs as well.
+In terms of service revenue, and I think you talked about the gap between the 46% of our customers who have a device
+payment plan and the 67% of our base who now are on [ph] unsubsidized (58:54) pricing. That's a factor of as
+customers come out of their two-year service contracts and they move over to that pricing without necessarily
+upgrading a handset -- and we expect that will continue – that that delta between those two numbers will be those
+customers who've either, they've come out of two-year subsidy and moved over to the unsubsidized pricing, they could
+be – we now have customers who took out a device payment plan over two years ago, who have completed those
+payments and are now no longer making a device payment every month. And as you say, BYOD continues to be part of
+that base too.
+So you should expect there continue to be a delta between those two numbers, because not everyone on unsubsidized
+pricing is going to have a current device plan. So we see that continuing as we go into the year. And part of the whole
+thing is migrating over to device payment.
+<Q - Mike L. McCormack>: Okay. Just a clarification then, Matt. I guess I am trying to get to how much of that – I
+am sorry to interrupt – but the actual percentage that is you going into actively retain customers that are still on contract
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 15 of 17
+to reduce their price point without losing a customer, is there some component of that as well?
+<A - Matthew D. Ellis>: Yeah. The vast majority of our two-year customers who've gone on to the unsubsidized
+pricing is when they've come to the end of that. I mean, we typically – customer has to get through their two-year price
+plan if they're on that two-year service contract before they would then be able to come to the unsubsidized pricing.
+When you look at our churn, I think what you're trying to get to is that phone churn that was below 0.9%. And that is
+not because we're bringing customers on to that pricing before they've moved. I think that continued strong churn
+represents the value our base sees, and the service they get, and the high quality of the network that they have when
+they're a Verizon customer. So it's only when they come out of their two-year contract do they move over to – have the
+opportunity to move over to unsubsidized pricing.
+<Q - Mike L. McCormack>: Okay. Thanks for the clarification. And just on the service revenue expectation, is that –
+the stable pricing is the expectation there, or expecting additional promotions if you look at 2017?
+<A - Matthew D. Ellis>: We expect to continue to compete in the marketplace. And throughout 2016 we had various
+promotions throughout the year. I'd expect us to continue to, at different times of the year, have different promotions
+out there. But I expect, based off that, we will compete effectively in the marketplace.
+<Q - Mike L. McCormack>: Great. Thank you, Matt.
+<A - Michael T. Stefanski>: Thanks, Mike. Tori, we have time for one more question. So last question, please.
+Operator
+Thank you. Your last question comes from Amir Rozwadowski of Barclays. Please go ahead with your question.
+<Q - Amir Rozwadowski>: Thanks very much, and good morning. Just a quick follow-up on Brett's questions on
+fiber. Specifically, how should we think about your future fiber needs. It seems like in some context you're willing to
+shed certain assets, but have also acquired others and are also working with third-party providers in some cases
+overbuilding in areas such as Boston. What I am trying to understand is that based on your actions it seems as though
+not all fiber assets are created equal. And so, how do you get to the point where you have the right fixed assets and the
+right locations to support your network vision? And I've just got a brief follow-up.
+<A - Matthew D. Ellis>: Yeah. So good morning, Amir. Thank you for that. Fiber is going to be a critical asset for us.
+It's a critical asset today and it will certainly continue to be so as we go into the future. So one thing it allows us to do,
+and this certainly is within our footprint, is it replaces the core copper networks that have served us well over the years,
+but from a capability standpoint and also just a maintenance standpoint it certainly makes a lot of sense for us to
+continue to replace copper with fiber. And then, as you say, fiber is going to be critical for us as we densify 4G and
+think about 5G. That explains why the XO transaction was interesting to us, getting those metro rings in 45 of the top
+50 markets.
+The other thing you've seen us doing for Boston was really look at this One Fiber approach, which was building the
+network in a way that it provides a common fiber infrastructure to serve a number of different needs, whether that be
+consumers in-home, or in out-of-home, and then obviously our small, medium and enterprise customers too. So you
+should continue to see us deploy fiber. How we deploy that fiber can differ from location to location. We certainly look
+where it makes sense for us to own the fiber. But if there is way for us to partner with other people where they can
+build the fiber on our behalf, we certainly do that as well.
+So it's a location by location, case by case basis. We look at the economics and we decide the best way to get to the
+fiber assets that we need. And we think about that it's not just the fiber assets that we need for what we're doing today,
+but as we think about the network going out into the future. So you should continue to see us make investments in fiber
+as we go forward and position the network to service the business well into the future.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 16 of 17
+<Q - Amir Rozwadowski>: Great. And just a quick follow-up on your 2017 outlook. What type of factors do you take
+into account on any potential changes to the competitive landscape. In particular, Comcast has highlighted that they
+expect to launch their Wi-Fi/MVNO strategy in the back half of the year. Given you folks are partnered there, I was
+wondering what you're factoring in with respect to that partnership in terms of size and impact of both your financials
+and potentially the competitive landscape?
+<A - Matthew D. Ellis>: Yes. So as I think about it, look, we know they said they expect to launch that later in the
+year. We'll have to wait and see what is. As we've said previously, look, we've been in the Wholesale business for
+many years. We're happy to be in that business and we'd sign that agreement again if the opportunity came up. But,
+look, we don't expect that to necessarily have a major impact during the course of 2017. They've got a lot of work to do
+there, and I'll let them talk about their strategy on that.
+But as I think about the competitive environment as a whole, I would expect it to continue to evolve in ways that some
+of which we may guess, others which we'll have to wait and see how they play out. But what I remind you is that we've
+seen many different competitive environments over the past 15, 20 years in Wireless and I think the one constant has
+been is the way that we've always competed effectively, whatever the environment. And I'd highly expect us to do the
+same thing in 2017.
+Michael T. Stefanski
+Great. Thank you for your questions. Tori, before we end the call, I'd like to turn the call back to Matt.
+Matthew D. Ellis
+Thanks, Mike. I'd like to close this session with a few key points. In 2016, we delivered solid results in a competitive
+environment. We added quality customers, while leading the industry in network performance and customer retention.
+We had solid financial results generating cash flow and shareholders return. We're confident in our strategy and
+priorities, led by investing in our networks, creating platforms to further monetize daily usage, maintaining a
+disciplined capital allocation model, and returning value to our shareholders.
+We're positioning the company for long-term growth. A key foundational element for our vision of the future is to be
+the trusted network provider. Our strong network assets will enable us to be a centerpiece of this new connected world
+of people and things, and give us the opportunity to participate globally in advancing digital ecosystems. We look
+forward to the opportunities ahead of us to create value for our customers and shareholders. Thank you for your time
+today.
+Operator
+Ladies and gentlemen, this does conclude the conference call for today. Thank you for your participation and for using
+Verizon Conference Services. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+Company Name: Verizon
+Company Ticker: VZ US
+Date: 2017-01-24
+Event Description: Q4 2016 Earnings Call
+Market Cap: 204,198.59
+Current PX: 50.09
+YTD Change($): -3.29
+YTD Change(%): -6.163
+Bloomberg Estimates - EPS
+Current Quarter: 1.020
+Current Year: 4.008
+Bloomberg Estimates - Sales
+Current Quarter: 30993.143
+Current Year: 126073.964
+Page 17 of 17
+© COPYRIGHT 2017, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
