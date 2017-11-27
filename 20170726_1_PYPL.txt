@@ -1,0 +1,807 @@
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 1 of 14
+Q2 2017 Earnings Call
+Company Participants
+• Gabrielle Scheibe Rabinovitch
+• Daniel H. Schulman
+• John D. Rainey
+• William J. Ready
+Other Participants
+• Daniel Perlin
+• Lisa Dejong Ellis
+• Ashwin Shirvaikar
+• Tien-Tsin Huang
+• Paul Condra
+• Darrin Peller
+• Bryan C. Keane
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to PayPal's Second Quarter 2017 Earnings Conference Call. At this
+time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions
+will follow at that time. [Operator Instructions] As a reminder, this conference is being recorded.
+I would now like to introduce your host for today's conference, Ms. Gabrielle Rabinovitch, Head of Investor Relations.
+Please go ahead.
+Gabrielle Scheibe Rabinovitch
+Thank you, Sherry. Good afternoon and thank you for joining us. Welcome to PayPal Holdings earnings conference
+call for the second quarter of 2017. Joining me today on the call are Dan Schulman, our President and CEO; John
+Rainey, our Chief Financial Officer; and Bill Ready, our Chief Operating Officer. We're providing a slide presentation
+to accompany our commentary. This conference call is also being broadcast on the Internet, and both the presentation
+and call are available through the Investor Relations section of our website.
+We will discuss some non-GAAP measures in talking about our company's performance. In discussing certain
+historical year-over-year comparisons, we have chosen to present non-GAAP pro forma measures because we believe
+that these measures provide investors a consistent basis for reviewing the company's performance across different
+periods. You can find a reconciliation of these non-GAAP measures to the most directly comparable GAAP measures
+in the presentation accompanying this conference call.
+Please note that as reflected in the reconciliation of GAAP net income and non-GAAP net income in the press release
+included in our 8-K filed earlier this afternoon, GAAP diluted net income per share for the six months ended June 30,
+2016 was $0.56.
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 2 of 14
+In addition, management will make forward-looking statements that are based on our current expectations, forecasts
+and assumptions and involve risks and uncertainties. These statements include our guidance for the third quarter and
+full year 2017. Our actual results may differ materially from those discussed on this call.
+You can find more information about risks, uncertainties, and other factors that could affect our operating results in our
+most recent Annual Report on Form 10-K and quarterly reports on Form 10-Q filed with the SEC and available on the
+Investor Relations section of our website. You should not rely on any forward-looking statements. All information in
+this presentation is as of today's date, July 26, 2017. We disclaim any obligation to update the information.
+With that, let me turn the call over to Dan.
+Daniel H. Schulman
+Thank you, Gabrielle, and thanks, everyone, for joining us today. I'm pleased to say that PayPal delivered another
+strong quarter of financial results, achieving new milestones for the company on multiple fronts. PayPal generated
+$3.136 billion in revenue, the first time we've exceeded $3 billion in a single quarter and representing 20% FX-neutral
+growth, nearly a 110-basis-point acceleration from the first quarter and 70 basis points from a year ago. We exceeded
+our guidance and delivered $0.46 of non-GAAP earnings per diluted share, up 27% year-over-year. Our non-GAAP
+operating margin grew by 110 basis points year-over-year to 21%. We generated $747 million in free cash flow, up
+51% from a year ago.
+Perhaps more importantly, we had strong performance across our customer metrics. We gained 6.5 million net new
+active accounts, the largest organic quarterly gain in the past three years and up over 80% from a year ago. We ended
+the quarter with 210 million active accounts, including 17 million merchant accounts, growing our base by 12%
+year-over-year.
+Given our first half results, we now anticipate our net new active additions will exceed 25 million for 2017.
+Engagement once again increased, growing 10% year-over-year. Our customers now transact 32.3 times per year, up
+from 29.4 times a year ago, and 31.7 times last quarter. Our growing base and increasing customer engagement enabled
+us to pass another milestone as we processed $106 billion in payment volume, exceeding $100 billion in quarterly TPV
+for the first time. TPV grew at a currency neutral rate of 26% year-over-year, accelerating 75 basis points from last
+quarter.
+Our volume growth was driven by our leadership in mobile. In the quarter, 34% of the payments on our platform were
+made on a mobile device. PayPal processed approximately $36 billion in mobile payment volume in Q2, up 50%
+year-over-year. This growth is largely driven by the exceptional and differentiated consumer experiences we enabled
+on mobile devices. One Touch adoption continued to expand in the quarter with over 60 million consumer accounts
+opted in.
+Merchant accounts accepting One Touch now number just over 5.5 million, growing by 500,000 in the quarter. Venmo
+users sent and received $8 billion in the second quarter, representing a 103% increase from this time last year as we
+continue to achieve increasing network effects in the Millennial market.
+Based on the strong trends we are seeing across the business, we are once again raising guidance for revenue and EPS
+for the full year. John will share more details about our results and guidance during his remarks. Our performance is
+driven by the cumulative effect of multiple initiatives. We have fundamentally re-tooled our technology and
+infrastructure, leading to significant improvements in availability and developer productivity. We have meaningfully
+improved our core experiences and expanded our suite of products.
+Our overall scale is accelerating due to the network effects of our two-sided platform. There is clearly a macro secular
+shift towards digital payments. And our customer choice results continue to exceed our expectations. We have
+completed the rollout of Choice across our on-boarding, servicing, and checkout experiences in the United States and
+over 13 million customers have opted into Choice. With the data from millions of customers over multiple quarters, we
+are beginning to see clear trends resulting from our Choice initiative. Choice has both simplified and clarified our
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 3 of 14
+customer experiences, which has meaningfully reduced the volume of calls into our customer service centers.
+Despite our transaction volume increasing by more than 20%, our net call volumes into our global operations are down
+year-over-year. The results of Choice, along with numerous other product improvements, will deliver significant OpEx
+savings over the course of our three-year planning horizon. More importantly, customers who have opted into Choice
+had meaningful increases in overall satisfaction.
+As a result, Choice is driving a significant reduction in churn and a meaningful lift in overall engagement. And
+consistent with last quarter, the impact on our funding cost continues to remain well within our expectations. Based on
+the success of Choice in the U.S., we're pleased to be expanding this rollout into Australia, Canada, the U.K., and Japan
+later this year.
+Choice will also help to expand PayPal's presence in our customers' lives. These opportunities are driven by the
+landmark partnership agreements we've announced with technology companies, financial networks, wireless carriers
+and financial institutions around the world. In the second quarter, we continue to make excellent progress with our
+partnerships. We continue to expand our relationship with Visa, extending our partnership into Europe. As most of you
+will recall, last quarter we announced an agreement with Visa that covered the Asia-Pacific region.
+Consequently, we now work around the globe with Visa. And as part of our network agreements announced last year
+with Visa and Mastercard, we recently announced a new service that is designed to allow PayPal and Venmo users in
+the U.S. to instantly transfer money to their bank accounts via eligible debit cards linked to their PayPal account.
+Finding faster and more convenient ways for our customers to get funds into and out of their PayPal accounts is a key
+part of our overall value proposition.
+Throughout the quarter, we saw our relationships with issuers grow increasingly collaborative and productive. For
+example, we are pleased to see leading issuers, including Wells Fargo and HSBC, actively marketing PayPal to their
+customer base, encouraging their clients to link their cards into PayPal accounts. We also announced new strategic
+relationships with JPMorgan Chase and, as of today, Bank of America, to utilize their token services and enable their
+customers to easily integrate their cards into PayPal and seamlessly create a new PayPal account from their properties.
+Furthermore, as part of our expanded relationship with Citi and Chase, we will make Citi ThankYou Reward Points and
+Chase Ultimate Reward Points available in our PayPal Wallet to be used as a funding source for consumers shopping at
+our 17 million merchants.
+As I said on last quarter's call, it's hard to overstate the difference in the relationships we now have with companies
+across multiple sectors who many once viewed as potential competitors. We are confident these partnerships would
+drive enhanced value to our mutual customers. The accelerating and extensive scale of our two-sided global platform
+which allows consumers and merchants to transact instantly in new contexts, cross-operating systems, technologies and
+platforms, creates a strong foundation and it's very attractive to multiple partners.
+Our open technology platform has enabled expanded partnerships with Google, Apple, Facebook, and Samsung over
+the past few months. These agreements benefit both PayPal and our partners by creating innovative consumer-focused
+experiences that connect their combined billions of consumers to new buying experiences enabled by PayPal's powerful
+platform.
+In April, Google announced an extension of our partnership to make it easy for consumers to use PayPal as a payment
+method in Android Pay wherever it is accepted, in store, in app, and online. In addition, Android Pay users on Google's
+Chrome mobile web will be able to seamlessly pay as the millions of online merchants that accept PayPal simply by
+using their PayPal account and fingerprint authentication.
+Just like the deployment of One Touch, this great new checkout experience will be available to millions of PayPal
+merchants without requiring any integration work from the merchant, further extending the value we bring to our
+merchant customers.
+Also in the quarter, Facebook announced additional commerce experiences with PayPal that will be available within its
+Messenger platform. At F8, Facebook shared that over one million joint PayPal and Facebook customers have already
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 4 of 14
+enabled our payments experience within Facebook Messenger. Earlier this month, PayPal and Apple announced an
+extension of our iTunes integration, which means customers can now buy games, music, movies, and in-app purchases
+with PayPal on their iPhones and iPads, in the Apple App Store, iBooks, Apple Music, and iTunes stores in 12
+countries, including the U.S., Australia, and parts of Europe. We anticipate that this integration will expand to more
+countries around the world in the coming months. This complements our existing integration into Siri and Apple
+iMessage and marks a growing relationship with Apple.
+Finally, we announced a strategic partnership with Samsung. Users of Samsung Pay in the U.S. will be able to use
+PayPal to pay for purchases in stores using Samsung Pay's mag-stripe emulation technology, which is used at the vast
+majority of merchants that accept cards. The totality of these partnerships reinforces the fact that we're becoming an
+underlying open payments platform and wallet for many of the leading technology platform, OEM, and wireless
+carriers around the world.
+We continue to make good progress in rolling out Venmo as a payment option for PayPal merchants. As we shared last
+quarter, we are now introducing the ability for U.S. PayPal merchants to accept Venmo as a mobile payment option.
+Venmo users are now able to use Venmo at an expanded number of PayPal merchants, such as lululemon and Forever
+21, and I'm quite encouraged by the early results. We expect that the ability to pay with Venmo will be widely
+deployed across millions of our PayPal merchants by the end of this year, and I look forward to sharing more details in
+the coming quarters.
+The ability to deliver new consumers and enhanced sales growth to merchants of all sizes is a key benefit of PayPal,
+especially as the world becomes more global and increasingly digital. As of today, this includes bringing the power and
+reach of the PayPal platform to the expansive and rapidly growing Chinese consumer market. We are very pleased to
+announce that PayPal has signed a strategic partnership agreement with Baidu, the leading Chinese-language Internet
+search provider with approximately 700 million users.
+This partnership allows Chinese consumers to pay with their Baidu wallet and PayPal at our merchants outside of
+China. Beginning later this year, this partnership will provide Chinese consumers more ways to discover and buy from
+PayPal merchants in the U.S. and will eventually expand PayPal's entire global merchant base outside of China. We
+expect this partnership to drive significant demand and additional cross-border trade over the PayPal platform.
+In addition to helping our merchant customers, maximize their opportunities in the age of digital commerce, another
+key part of our strategy is helping under-served consumers join and thrive in the digital economy. This vision drove our
+recent acquisition of TIO Networks, which adds bill pay functionality to our two-sided platform, offering consumers
+the ability to access a digital network and benefit from the convenience and speed of digital bill payments. Last week,
+we announced that we have closed our acquisition of TIO Networks, and I'd like to take this opportunity to welcome
+Hamed and the TIO team to the PayPal family.
+Three years ago, we set off to transform PayPal. Our goal was to create an open platform for digital commerce that
+delivered innovative mobile checkout experiences that blurred the lines between physical, online, and mobile shopping.
+We set off to create an integrated suite of services, experiences, and APIs that could extend the power of our two-sided
+ecosystem to our merchants with little and often no integration work required. That vision has grown increasingly
+important to our merchants in today's rapidly evolving retail landscape.
+Our execution in support of that vision is yielding strong results and extending our leadership position. Our efforts to
+place our customers front and center in everything we do is driving both scale and engagement on our platform, and has
+opened the door to strategic and productive partnerships that have extended the PayPal experience from multiple
+contexts in existing and new geographies. But we know we are still in the early stages of our transformation, and we
+are just scratching the surface of the opportunities in front of us.
+We are fully committed to delivering improved core experiences and additional innovative and comprehensive
+solutions for our customers. Helping our consumers and merchants to navigate the rapidly evolving and expanding
+digital payments landscape.
+And with that, I'd like to now turn the call over to John.
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 5 of 14
+John D. Rainey
+Thanks, Dan. I also wanted to thank all of PayPal's customers and our employees worldwide for making this another
+great quarter. As Dan discussed, we achieved several notable milestones in the second quarter including, for the first
+time, processing more than $100 billion of TPV and generating more than $3 billion of revenue in a quarter. In
+addition, we saw accelerating growth in customer accounts, revenues, operating income, earnings per share, and free
+cash flow.
+Our second quarter financial and operating results demonstrate the momentum in our business and builds on the
+strength of our recent performance. Relative to our expectations going into the quarter, our revenue and operating
+income outperformed. On the top line, we attribute acceleration in our core to strong account and engagement growth,
+enhanced user experiences that make setting preferences and choosing funding instruments intuitive, cross-border
+initiatives as well as increased functionality that allows our customers to use our products in additional context.
+In addition, though, foreign exchange rates continued to be a headwind in comparison to last year, they provided a
+benefit relative to our plans going into the quarter. On the expense side, non-volume related expenses grew only 4.5%,
+approximately 25% of the rate of revenue growth. Our team did an outstanding job managing cost, resulting in cost
+performance slightly better than our expectations. At the same time, we continued to fully fund our key growth
+initiatives. This level of expense growth demonstrates our ability to scale with minimal incremental costs.
+Before I discuss the financial results in detail, here are some highlights for the quarter. Revenue was $3.14 billion,
+growing 18% on a spot basis and 20% on a currency neutral basis. Non-GAAP operating income grew 25% to $659
+million and non-GAAP EPS grew 27% to $0.46. We generated $921 million of operating cash flow, and free cash flow
+grew 51% to $747 million.
+For the second quarter, our total payment volume was $106 billion, up 26% on a currency neutral basis, consisting of
+U.S. payment volume growth of 27%, and the international volume growth of 25%. Our merchant services volume
+grew 30% on a currency neutral basis to $91 billion. Merchant services represented approximately 86% of our total
+volume in the quarter. Volume associated with eBay represented approximately 14% of the total, compared to 15% in
+the first quarter of 2017 and 17% in the second quarter of 2016.
+P2P continues to be a meaningful contributor to TPV, representing approximately 21% of total payment volume. In the
+quarter, active accounts grew 12%, and we ended the second quarter with 210 million active accounts. Active account
+growth was driven by strength in our core PayPal business as well as growth in Venmo. The number of payment
+transactions per active account on a trailing 12-month basis reached 32.3 with 6.8 billion transactions occurring on our
+payment platform over that period. In the second quarter, transactions grew 23% to $1.8 billion. Revenue grew 18% on
+a spot basis in Q2 and was the result of an 18% increase in both transaction revenue and revenue from other
+value-added services. The revenue growth in the second quarter represents an acceleration of more than 100 basis
+points versus the first quarter.
+Transaction revenue growth was primarily driven by our core PayPal and Braintree businesses, and revenue from other
+value-added services was predominantly driven by credit. For Q2, our transaction take-rate was 2.58%, a decline of 11
+basis points from the second quarter of 2016, and our total take rate was 2.95%, down 13 basis points year-over-year.
+Approximately 75% of the decrease in both transaction and total take-rate was related to the increase in our P2P
+volume.
+Increased stability in our transaction take-rate in the second quarter is indicative of the balanced growth and the
+strength we are seeing across our platform as well as our ability to monetize experiences where we demonstrate a
+compelling value proposition for our customers. Volume-based expenses were up 29% year-over-year. Transaction
+expense was $1.06 billion, up 31% year-over-year, driven primarily by increased funding costs across our core PayPal
+platform.
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 6 of 14
+As Dan mentioned in his remarks, the increased transaction expenses we have seen from Choice have been well within
+our expectations. Further, we continue to see benefits on both the top line as well as cost improvements from lower
+customer call volumes and servicing costs, validating our initial expectations. We are pleased to roll out these
+experiences to additional geographies in Europe and Asia.
+Transaction loss in the quarter was $185 million, or 17 basis points of TPV compared to 18 basis points of TPV in Q2
+2016. Loan losses across our consumer and merchant credit products were $123 million, representing 26% growth, in
+line with the growth of our receivables portfolio. Our consumer credit portfolio continues to perform in line with our
+expectations.
+The net charge-off rate was 6.9% in the second quarter. We ended the quarter with an aggregate gross receivables
+balance, including both principal and interest, of $6.1 billion in our consumer and merchant loan portfolios and a total
+reserve of $380 million.
+Other operating expenses increased 4.5% to $1.1 billion, representing 35% of total revenue, an improvement of 465
+basis points of operating leverage versus the same quarter last year. Both general and administrative and product
+development costs were flat year-over-year, and experienced their lowest rates of growth since separation. Sales and
+marketing expenses grew 10% as we invested to support our brand strategies and Choice experiences.
+For the second quarter in a row, other operating expenses increased only $0.10 for every incremental dollar of revenue,
+demonstrating the scalability of our platform. Strong revenue and cost performance resulted in 25% growth in
+non-GAAP operating income to $659 million. Non-GAAP operating margin expanded 110 basis points to 21%
+compared to Q2 2016. GAAP operating income grew 16% in the second quarter to $430 million, resulting in a GAAP
+operating margin of 13.7%. Both GAAP and non-GAAP EPS grew 27% in the second quarter to $0.34 and $0.46,
+respectively.
+We ended Q2 with cash, cash equivalents and short-term investments of $6.4 billion. We generated $921 million of
+operating cash flow in the quarter, and capital expenditures were $174 million, or 6% of revenue. This resulted in $747
+million of free cash flow in the quarter as we generated $0.24 of free cash flow for every dollar of revenue.
+Capital return is a fundamental component of our overall capital allocation strategy. Year-to-date, we have returned
+more than $600 million to shareholders in the form of stock repurchases. We now have approximately $400 million
+remaining on our original $2 billion authorization. As announced on our last earnings call, our board has also approved
+an additional $5 billion buyback authorization. In addition to focusing on enhanced capital allocation strategies, we are
+also committed to optimizing our capital structure.
+As we've shared over the past few quarters, we're exploring alternatives to run our consumer credit business in a less
+capital-intensive manner. We are encouraged by the discussions with potential partners. And based on the progress we
+are making, the timing and structure of these alternatives are in line with our expectations.
+While we continue to assess more efficient ways to manage balance sheet exposure to consumer credit, we're also
+assessing strategies that will support the growth of merchant credit products. We continue to introduce and expand
+financial services and tools to help small and midsize business customers start and grow their businesses. Since 2013,
+PayPal working capital has provided in excess of $3 billion in funding to more than 115,000 merchants. PayPal
+working capital is a strategic offering to PayPal which drives merchant sales growth, increases processing volume, and
+reduces merchant churn rate. We will continue to invest in our working capital business to provide innovative financial
+products to small and medium-size businesses.
+I would now like to discuss our updated guidance for the full year 2017 as well as the guidance for the third quarter.
+For the full year, we are raising our revenue guidance and now expect revenue between $12.775 billion and $12.875
+billion, representing currency-neutral growth of 19% to 20%. At current exchange rates for the full year, we expect
+currency translation to impact revenue by approximately 100 basis points, resulting in spot growth of 18% to 19%.
+For the first half of 2017, non-volume related expenses have grown only 4.5%. We are pleased with this performance,
+and it's indicative of the type of cost discipline with which we can operate going forward. This level of growth for our
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 7 of 14
+non-volume-related expenses is sustainable given the manner in which we are scaling our business and the changes we
+have made to our organizational structure. At the same time, this very measured approach to expense growth gives us
+the flexibility to be opportunistic and make investments to drive our business going forward.
+Given our year-to-date performance and our operating plans for the remainder of the year, we expect that our full-year
+non-GAAP operating margins will expand relative to 2016. We are also raising our full-year EPS outlook by $0.05 at
+the high-end and now expect non-GAAP EPS to be in the range of $1.80 to $1.84. Further, we are increasing our free
+cash flow outlook and now expect to generate in excess of $2.9 billion in 2017.
+As Dan mentioned, we recently closed our acquisition of TIO Networks and have included an expected impact of $25
+million in revenue for the remainder of the year in our full-year outlook with a negligible impact to our earnings. At the
+high-end of the ranges we are providing today, our current full-year guidance represents an increase of $225 million in
+revenue and a $0.10 increase in non-GAAP EPS relative to the initial full year 2017 guidance that we provided in
+January. For the third quarter, we expect revenue to be between $3.14 billion and $3.19 billion and we expect
+non-GAAP EPS to be between $0.42 and $0.44.
+I want to close with a few observations on the quarter and our full year outlook. We saw accelerating growth across net
+new actives, TPV, and revenue in the quarter. Net new active accounts grew by 80% and, on a currency-neutral basis,
+TPV grew 26%, and revenue increased 20%. Our merchant services growth has been consistently in the 30% range and
+demonstrates we are continuing to grow our market share. And while growing our top line, we expect to maintain
+disciplined expense growth, which allowed us to deliver more than 100 basis points of non-GAAP operating margin
+expansion in the quarter. This performance gives us great conviction in our ability to deliver on our commitments for
+the year.
+With that, let me turn it back over to the operator for questions. Thank you.
+Q&A
+Operator
+Thank you. [Operator Instructions] Our first question comes from Dan Perlin with RBC Capital Markets.
+<Q - Daniel Perlin>: Thanks, guys, and good quarter. I had a question around the payment transactions per active
+account. I know they were up 10% and that's still a very strong number. It was down a little bit relative to the last
+quarter. I think it was up 12% and over the last six quarters prior to that it was up on average 13%. So I would've
+thought, given Choice and all of the kind of reduced friction that you guys have had, that you might actually see that
+number accelerating as opposed to decelerating in its growth. Is there any callouts in the quarter we should know
+about?
+<A - Daniel H. Schulman>: Dan, it's Dan. Nice to hear you and thanks for the question. So I'm quite pleased with our
+progress on engagement. It is up 10% despite really what is an accelerating pace right now, which is kind of a
+high-class problem to have. We are seeing tremendous adoption across merchants and consumers into the PayPal
+franchise. As I mentioned, we think we'll exceed 25 million net new actives for the year.
+In the past couple of years, we've taken our active user engagement almost seven transactions per user across the whole
+base. And if you look under the covers, which we've done here quite a bit, the news is even better, because the majority
+of our user engagement right now is coming from the core PayPal Wallet.
+And in many places, before it was coming from the growth of Braintree and core PayPal, but now it is being driven the
+majority from our PayPal core wallet, and that is a great news story for us. And if you look at our product growth and
+our core PayPal franchise over the last several quarters, we've taken multi-year trends that have been drifting slightly
+down in terms of their growth rate year-over-year, and we have bent those curves across pretty much every single one
+of our core products, and they are now up and accelerating.
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 8 of 14
+So that is a piece of really good news that you probably wouldn't see from the number in and of itself, and I kind of feel
+like we're just at the beginning of this. We have One Touch that is driving engagement – that's driving increased
+engagement and it's accelerating across the base. Choice is still new, but Choice engagement, when somebody opts into
+Choice, that engagement is up quite substantially. And I am really pleased with what we are seeing from Choice. As I
+mentioned, about 13 million plus customers that are in Choice now, that will grow and that will impact engagement.
+We're obviously just beginning the journey to move into new context. Now we now have basically major agreements
+with pretty much every major issuer, we've got agreements from the financial networks to utilize their tokens and
+they'll start to move us, move more into an in-store environment as we go into next year. That will also drive
+engagement.
+You've got pay with Venmo. Right now, there are no engagement with Venmo, there's P2P, but we don't count that in
+our engagement total so you'll see that drive up. TIO just came on. Our new partnerships with Facebook and Google
+are going to start to kick in. That's really not in our guidance right now. Those things are going to start to accelerate and
+drive our future growth as we look into 2018, 2019, 2020.
+So we still have a goal to have a consumer use PayPal two times a week. That is our goal. Not to drive it once a week,
+but to drive to two times a week. And I feel like with all the initiatives we have right now and the trending that we're
+seeing that over our medium to long term, that's within our reach. So feeling pretty good about where we are in the
+engagement side.
+<Q - Daniel Perlin>: Yeah. That's fantastic. Can I just ask one other quick one? You mentioned all these strategic
+partnerships and they are plentiful. I'm wondering how you're viewing that from a trend perspective to bring down your
+customer acquisition cost as we think about the future. Thanks.
+<A - Daniel H. Schulman>: Yeah. You violated the first cardinal rule of one question per – but it's okay. You got
+away with it and I admire that.
+<Q - Daniel Perlin>: I'm increasing my engagement.
+<A - Daniel H. Schulman>: Exactly. I see that. So, listen, one of the things that I mentioned in my opening remarks is
+we're beginning to see a tremendously collaborative relationship with issuers right now. We're seeing, I mentioned, two
+that are marketing to their base to actively encourage them to link their cards into our PayPal account. And that's
+happening because we're going to drive growth for them.
+As John mentioned in his remarks, our [ph] MS (40:18) TPV – our TPV growth outside of eBay is growing at 30%.
+And we are the perfect digital distribution channel for financial institutions, especially now that we've implemented
+Choice and consumer will opt on how they want to pay and where they want to pay on that. And so, I think this
+acceleration of our net new actives is coming at a lower cost to us. So it's really kind of serve a one-two punch that's
+positive for us now especially as we look forward.
+Operator
+Thank you.
+<A - Daniel H. Schulman>: No more questions. You're not allowed anymore questions, Dan.
+Operator
+Thank you. Our next question comes from Lisa Ellis with Bernstein.
+<Q - Lisa Dejong Ellis>: Hi. Good afternoon, guys. I had a question about in-store and your in-store strategy in light
+of the partnerships that you've signed. Can you kind of give an overall view of in which of these instances, like in
+Android Pay versus Samsung Pay versus using the network tokens in your own wallet, you are able to generate
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 9 of 14
+revenues for PayPal or envision that over time versus where it's just a strategy of driving more user engagement at the
+POS even though it's not revenue generating?
+<A - William J. Ready>: Hi, Lisa. It's Bill. So great question and you're exactly right that as you parse out the parts
+there are places where we earn revenue, there are places where you think about it as engagement opportunity. And so
+the places where somebody's paying in-store and they're using their PayPal balance, those are places where we would
+make revenue on those transactions. And places where we are enabling the use of an issuer's card directly and we're
+providing a pass-through token, we wouldn't earn revenue on those but we also don't have costs on those, and so we get
+great consumer engagement but without costs on those transactions per se.
+Also importantly, in addition to what we're doing with partners like Samsung Pay and Android Pay to drive into the
+store, we're working with those same partners, particularly like Android Pay for example, where it's not just in-store but
+that blends into in-app purchasing and online purchasing, and there's a lot of blurring of the lines of online and in-store
+with things like buy online pickup in store where these cross-channel experiences are really getting to consumers using
+a mobile device, but really engaging with the retailer and the store. You see us really, really delivering on those types
+of experiences as well.
+So we have a broad strategy that can both help the retailer engage across multiple fronts, drive engagement with the
+consumer, and we have several of those that we monetize directly and some of those that are going to be a
+pass-through, which would not generate revenue for us but would also not generate cost for us. So we have many of
+those, like buy online pickup in store, paying with your balance, where we do generate revenue on those things.
+And by the way, this is consistent with PayPal history, where we have historically had products such as P2P that were
+free that we then monetize in other forms and so this is a strategy that we have employed previously and so we feel
+really good about where we are on that.
+<A - John D. Rainey>: And just to add to that, Lisa, first of all, nice to hear your voice, hope you're doing well. And
+we spent a lot of time, as we've started to transition the company from being really single-product type of company to
+being a platform company that offers a suite of services to both merchants and to consumers.
+And what we've found and we've done a ton of detailed research and analytics on this, is when we add an incremental
+service to a consumer, or even to a merchant, we see their lifestyle value basically double. And so if a consumer adds
+P2P, we see they engage more, their use of PayPal goes up, the churn goes way down, and it is a gigantic benefit for
+our flywheel and for our economics. And so the more products and services and experiences and more engagement we
+can have with the consumer and the merchant, the better the LTV is for us. And that comes through as Bill said,
+historically, as we've seen that with P2P and others.
+We also have started in-store with trials – with Vodafone as we've rolled that and we've seen as people have used
+Vodafone and PayPal in-store, they use PayPal more in app and online, because the distinctions between those things
+are blurring, especially with mobile. And so, our ability to engage with consumers and drive that engagement is a good
+thing both for consumers, for merchants, and for the economics of PayPal.
+<Q - Lisa Dejong Ellis>: Thank you.
+Operator
+Our next question comes from Ashwin Shirvaikar with Citi.
+<Q - Ashwin Shirvaikar>: Hi. Thanks. And good quarter, guys. My question is with regards to the rise in active
+accounts and the reacceleration of that as that has gone from 10% to 11% to 12%. Is that a straightforward relationship
+with consumer choice? Is it possible to potentially estimate? Is there sort of an untapped number of inactive accounts
+people who downloaded PayPal, but didn't use it, that can give us some idea of the potential to continue increasing
+these accounts?
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 10 of 14
+<A - Daniel H. Schulman>: I'll start, and then maybe Bill can supplement. So I would say kind of as I mentioned in
+my remarks, there is no one single thing driving the growth of those net new actives, and as I mentioned, I said I think
+we'll do in excess of 25 million net new actives. That would imply that we're going to do another, on average, 6 million
+or so in the third and fourth quarter. So we see a continued strength in net new actives. That's coming as a result, and I
+don't want to say this, but I will, of the great work that Bill and his product and engineering teams have done, great
+work that Tomer Barel and the risk teams have done around improving our core experiences.
+And as I mentioned, we are bending multi-year curves now and we are seeing now really nice year-over-year growth in
+our core experiences. Availability – just things like availability, is up. That matters a lot. Latency is down, that matters
+a lot. We've got a new mobile app there, we've got One Touch, we have Choice coming in. Choice is driving both a
+reduction in churn, which helps net new actives, obviously, but it's also driving additional new adds because the
+onboarding process is so much more streamlined. And then you also have partners that are now actively marketing
+PayPal because together we're sort of allies in advancing digital payments and tapping into that growth.
+And so, I think there is a number of things, and we also, obviously, with 210 million people now on the platform, we've
+got maybe at a tipping point on these network effects right now where there are so many merchants on the platform, so
+many consumers on the platform that it's a must-have for people, especially as they move into mobile checkout
+experiences. I think what Bill and the risk teams have done in things like One Touch have really been an unparalleled
+kind of a mobile checkout experience. Almost two times the conversion of the industry average. And so, I look at a
+number of things that we've done over the course of the last several years and they're beginning to take hold in the
+market and are really driving our results. And, Bill, would you add to that?
+<A - William J. Ready>: I think you captured it really well just doing the points there. We have multiple new places
+that customers are coming in, but as Dan described, we have, across nearly every major product area, revamped those
+products over the last few years. And so we're seeing not only do each of those products tend to get more net new
+actives for us coming in, we're driving increased engagement across each of those. As people come in through those,
+they become more engaged on those products. And there's additional product that they can engage with, that also
+deepens our relationship with those customers, really leading us to more of their daily lives.
+So, just as Dan said, it is across multiple fronts, and quite noteworthy that it's across our core experiences as well and
+we're deepening that engagement.
+<A - Daniel H. Schulman>: Yeah. If I just – I just have one last thing and then we'll be done with your question,
+Ashwin. I wouldn't underestimate what could happen with Baidu, I mean, we are now tapping into that Chinese
+consumer marketplace. And that is going to open up a whole new market for consumers to come onto the PayPal
+platform, interact with our PayPal merchants outside of China and drive what we think could be substantial
+cross-border traffic. And I talked about this, it's not just Baidu, it's Baidu and PayPal. So it's almost a little like we've
+done with Android Pay, it's a co-branded experience, they sign-up to be a PayPal account from there. So there are a lot
+of things that we're working on, a lot of things we still want to implement, but feel good about the current trend right
+now.
+Operator
+Thank you. Our next question comes from Tien-Tsin Huang from JPMorgan.
+<Q - Tien-Tsin Huang>: Hi. Good results and momentum. I want to ask about the – maybe the partner pipeline. Just
+any big partnerships out there still to sign and – in 2017? And maybe I'll ask about the acquisition pipeline as well and
+your appetite to do deals.
+<A - Daniel H. Schulman>: Yes. So we've done, I think, 24 major partnerships in the last 18 months. And you've seen
+this last quarter, it started to accelerate, actually. And it's accelerating because I think people are beginning to
+understand the assets that we bring to our partners. We obviously bring a lot of scale to partners, and when you talk to
+different platforms, whether it be Baidu or Google or Samsung, the ability to tap into 17 million merchants we have,
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 11 of 14
+that long tail of merchants, that's a very difficult asset for others to replicate, and it's accelerating in its growth.
+Now, if you look at other partnerships, you can add potential for pretty significant additional growth for them, whether
+that's driven by mobile or what we can do on One Touch or TPV, that's accelerating. And as you know, we also control
+the value prop end to end. There are very few players who do that there. There are some players that control a piece of
+it, but very few players own it, including risk, customer service, brand, reputation, and we own all of that and parts of
+the value proposition. And we've also changed our model quite a bit. We are an open platform and a suite of services,
+both branded and unbranded, that's operating system and device and technology agnostic.
+And so – and very importantly, we're a neutral third-party platform. So we don't compete with any of our merchants or
+our partners, we're allies in advancing digital payments. So I think our positioning is really good within the entire
+ecosystem to continue to partner. There are a number of other partnerships that are on the horizon and I think the more
+we partner, the more people see that the benefit of doing that can be quite substantial. So, I think we announced enough
+partnerships right now, so we'll save some for the next announcement. But I think we're really well positioned on that
+front.
+On the M&A front, because you got your two questions in there in a very subtle way, but on the M&A front, look, we
+have a very strong balance sheet. John mentioned, we have $6.4 billion of cash equivalents on our balance sheet. We're
+generating – now our guidance is over $2.9 billion of free cash flow for the year. So that's a competitive advantage for
+us. There's no question about it, and we're very active in looking at a range of opportunities around the world, both big
+and small. But, look, those opportunities need to tie in to our vision and our mission. They've got to accelerate our
+progress either against a key vertical or a geographic expansion.
+We'll do tuck-in acquisitions from a tech or a functional capability like a TIO type of thing, but we look at this through
+the lens of do we build, do we partner, or do we buy? And the amount of work that Tomer and Bill have done on their
+respective platforms whether it's risk capabilities or our full infrastructure. I mentioned the increased developer
+productivity. We can put out a ton of releases, now we've got something like 30,000 releases in a quarter. I mean, it's
+amazing the velocity of new functionality and innovation that Bill and his team are putting out into the marketplace.
+And so what we used to have to buy at one time because it used to take us months to make a change on our website
+because we had such a monolithic infrastructure, now there's a rapid velocity of very innovative services coming in.
+The second thing is, we can partner now in ways that we never could partner before. Choice has enabled that. We have
+a new philosophy about cooperating with people. It's created an environment that's gone from a very competitive one to
+one that's much more cooperative. We have a ton of complementary resources that we can use with partners, and now
+many times where we used to think we'd have to buy something, we can now partner on a commercial relationship to
+go and do that.
+And then, obviously, if we can't do any of that, we'll look at buy and we do that in a very disciplined manner. We've got
+a certain amount of scale and capabilities. And so, you can expect us to continue to be acquisitive, but in a disciplined
+fashion and within the context of what I just mentioned.
+Operator
+Thank you. Our next question comes from Paul Condra with Credit Suisse.
+<Q - Paul Condra>: Right. Thanks. Yeah, afternoon, everybody. I guess, Bill, I just wondered if you can give a little
+bit more detail on Venmo, kind of what you're seeing as you roll that out in terms of the way consumers are using it.
+Are they potentially using a credit card? And then any merchant feedback, and just anything, any surprises or anything
+unexpected just to kind of help us understand where you're focus is as you're scaling that product out.
+<A - William J. Ready>: Sure. As we talk about, in prior calls, we spent quite a long time really making sure that we
+had dialed in the customer experience so that Venmo would not just be another pay button but that the uniqueness of
+Venmo it's really gets to great mobile payments as well as the social engagement, and we'd have that dialed in as we
+took that from person-to-person payments into merchant payments.
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 12 of 14
+We have been working through that for a year plus, and so we're really now in the place of taking those prior learnings
+which we've got to feeling really great about, and we're opening that up to the PayPal merchant base. So the really
+interesting thing that is happening right now is that we're saying for our Venmo users, we are lighting up PayPal
+merchant, allowing Venmo users to pay a PayPal merchant notably without PayPal merchants having to do any work,
+just like we rolled out PayPal One Touch, just like we rolled out Android Pay. And so, you're seeing us leverage that
+very unique distribution capability to PayPal merchants again to go deliver Venmo consumers to those PayPal
+merchants.
+And so, we're in the midst of a ramp with that, but we're feeling really good about that. We not only had previously
+proven out that consumers on Venmo really wanted to use Venmo for more things beyond P2P, we have a number of
+merchants where we see really, really positive results in terms of how Venmo stacks up next to other payment
+alternatives, and those merchants we feel great about those things. We're now really focused on how we take that from
+where we are now with a handful of merchants to go take that to millions of PayPal merchants. And we started that
+journey already, as Dan mentioned previously.
+We've started to introduce that. We have merchants like lululemon and Forever 21 that are now there. We have
+thousands of PayPal merchants now where you can use Venmo to pay and we expect we'll progress that towards the
+millions of PayPal merchants over the coming quarters. So we're feeling really good about those things. But the –
+would consumers want to do this, what was the interaction model, would they like it? Those are things that we've really
+spent that prior year testing out. So now we're in the mode of just thoughtfully scaling that and we're feeling really
+good about how that's going so far.
+Operator
+Thank you. Our next question comes from Darrin Peller with Barclays.
+<Q - Darrin Peller>: Thanks, guys. Nice quarter. Just following up on this acceleration in partnerships, Dan,
+especially around the mega tech companies, such as Apple and Google, this past quarter. Can you touch on these
+partnerships in a little more detail? But more just – does this underscore any type of deeper meaning around the
+positioning in the payments ecosystem by any of these companies, just given there's always been a lot of questions over
+the competitive threats from some of these names versus PayPal. Are they now more partnerships?
+And then, John, just to sneak one quick financial one in. Pricing opportunities, I know that was a key driver potentially
+in the quarter. Is it still a driver? Or it's supposed to be a – it could be a driver in the year. How much more of that to go
+is there? How much of an impact in the quarter? And just maybe comment on that a little further. And again, thanks
+again, guys.
+<A - John D. Rainey>: Sure. Darrin, I'll start and then kick it over to Dan. As we've talked a little bit about this year,
+pricing is an opportunity for us. We did announce a couple of corridors where we made price increases, and part of that
+is reflected both in our financial results for the quarter as well as our improved guidance for the year. I will say that
+we're very focused on really identifying where customers derive value enhancement as part of their experience and then
+pricing to that versus just sort of arbitrarily going out and raising prices for something where there's no incremental
+value that's perceived by the customer. And so, we had some targeted initiatives that we've done, and that's reflected in
+our results as well as our guidance for the year.
+<A - Daniel H. Schulman>: Yeah. And, hey, Darrin. So I'll start off and then I'll turn it over to Bill. But I think there's
+a real difference now with the partnerships that you've mentioned, major tech platform companies. I think, and none of
+them really wanted to go into payments as an end to itself. It was a means to an end that they had. And so, it might be
+more engagement on their platform, and that engagement could lead to key metrics that they want to drive, it could be
+advertising, it could be other things.
+And when we made the shift to being an open-payments platform as opposed to just being a button as a checkout
+experience, and really opened our platform up through pretty sophisticated technological upgrades, through open APIs,
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 13 of 14
+with the partnerships we have, with tokenization, and that kind of thing, we were then able to become really in many
+ways an underlying payment OS for those tech platforms that enabled them to create the experiences that they wanted
+to drive for their end-user. And so, that partnership is fundamentally different right now. It is has evolved greatly over
+the last several years. I'll ask Bill to add color to that. But it's a very different conversation that we have now than we
+used to have.
+<A - William J. Ready>: Yeah. I would just add to that that, absolutely, payments was a means to an end, as Dan
+described, and what we have demonstrated is that, through unique two-sided platform that we have and our ability to go
+connect consumers and merchants around the world and do so in a single touch, makes us very unique in being able to
+light up those experiences for those partners.
+And so, not only did we make the strategic shift to say we want to be a more open platform to enable those things and
+improve our experiences so that we could do things like One Touch to drive industry-leading conversion levels to
+connect to those experiences, I think as mobile has matured and players have been able to see different alternatives in
+the ecosystem and see what consumers have affinity to, what drives better conversion rates, I think we are
+demonstrating consistently that the uniqueness of our two-sided platform, our ability to connect consumers and
+merchants lets us drive connection between consumers and merchants of all types, or consumers and tech ecosystems,
+in ways that others can't, or whatever their aspirations are, whether that's selling more apps or selling more devices or
+driving engagement with their experiences, we're generally able to connect users to them and those experiences in a
+lower friction way than anybody else out there. And that's why you've seen us really start to play a central role there.
+And I think as more and more of these interesting new experiences proliferate, every time that happens, I think PayPal
+is now positioned as a place where, of course, people would want to look first given what we've demonstrated we can
+do on those things.
+<A - Daniel H. Schulman>: We have time for maybe one more question, operator, and then I will wrap up the call.
+Operator
+Thank you. Our last question comes from Bryan Keane with Deutsche Bank.
+<A - Daniel H. Schulman>: Hi, Bryan.
+<Q - Bryan C. Keane>: Hi, guys. Congrats on the quarter. Just wanted to ask, lots of new partnerships. The Chase deal
+in particular caught my eye. Thinking about the ability for PayPal to process through ChaseNet. Doesn't that materially
+lower your funding costs with Chase cards going forward? And then just as a strategic bigger picture, maybe Dan, with
+all these partnerships, are we about to launch a big in-store campaign or opportunity? Or is it going to be more of a trial
+and error process? Thanks so much.
+<A - Daniel H. Schulman>: Do you want me to go? Yeah. So I'll start off with that. Obviously we've worked closely
+with JPMorgan Chase over the last couple of years, actually, as we've talked about the potential for how we might work
+together. And I'm really pleased with where we came out in this partnership. We both see a lot of value in it. You have
+two very strong companies lending what are really impressive assets to create great consumer experiences, including,
+as you mentioned, processing through ChaseNet, which obviously does give the potential, we're not talking about any
+deal terms one way or another, but potential for lower costs on that. So I'm really pleased with the comprehensive
+nature of the partnership that we have with Chase. It took us time to work through all of the details of it. But I think
+both of us feel really good about it, and really good about what we can drive coming out of that.
+<A - William J. Ready>: Yeah, and I would just add to that, again, without commenting on the deal terms for any one
+specific deal, the closer working relationship that we now have with the broader financial ecosystem, as you look
+through a broad lens of how you think about costs, whether that's customer acquisition costs, or risk and fraud losses, or
+all of these kind of things. We, as one of the largest drivers of digital transactions for banks and issuers and that being a
+place that is one of the largest drivers of growth for banks and insurers, the opportunity for us to collaborate across a
+number of fronts across the ecosystem is quite meaningful, we believe. And we see that across these partnerships that
+Company Name: Paypal Holdings Inc
+Company Ticker: PYPL US
+Date: 2017-07-26
+Event Description: Q2 2017 Earnings Call
+Market Cap: 70,665.58
+Current PX: 58.79
+YTD Change($): +19.32
+YTD Change(%): +48.949
+Bloomberg Estimates - EPS
+Current Quarter: 0.422
+Current Year: 1.795
+Bloomberg Estimates - Sales
+Current Quarter: 3137.114
+Current Year: 12741.325
+Page 14 of 14
+it's not just about what the cost of processing a transaction, but how can we think about delivering better digital
+experiences to customers, that has positive impact on customer engagement on customer acquisition costs, and how you
+think about the lifetime value of a customer, risk, all these things. The opportunity to collaborate with the ecosystem
+has many, many potential positives across a number of those things, and that is something we feel really encouraged by
+in the conversations that we have and the relationships we're building.
+<A - Daniel H. Schulman>: I think you just think about things like Reward Points. Discover, Chase, Citi have all
+decided that utilizing Rewards Points within the PayPal platform to utilize those for purchases at our 17 million
+merchants. I'd say that is a real significant differentiation for those particular financial institutions and their customers
+who are using their instruments, but also for PayPal, because you now can utilize those Reward Points in a split
+transaction. You have X number of Reward Points but maybe couldn't do that full transaction. You can now split that,
+you can use those Reward Points to purchase 40% of what you're going to go do, and then the other 60% can be done
+through whatever funding instrument you select as a consumer. That's a lower-cost funding mechanism as well for us.
+So there are all sorts of things within these relationships that we have that drive enhanced value for our regional
+customers that, if you parse through them, it's really quite significant and differentiated from where we were, certainly
+a year or so ago. Now the in-store stuff, we obviously now have the ability to use industry tokens from Visa,
+Mastercard, and others, and now we're working with each of the FIs to utilize their tokens for their particular
+instruments. And so, you'll start to see that just naturally began to roll out. There really isn't much of a trial and error
+per se on this.
+We will have the ability for a PayPal customer or if they're opted into one of the bank services that's provided tokens,
+we'll use the network tokens with that, and you'll simply be able to use that instrument seamlessly across where actually
+it's accepted. On an Android phone, for instance, across an in-app experience, an online experience, or an in-store
+experience without us having to do bespoke customization of software at the point-of-sale terminal. And so that would
+just be a natural rollout utilizing existing POS technology.
+Daniel H. Schulman
+Okay. So thank you for that last question, and thanks, everybody, for joining us. We really appreciate your time and we
+look forward to speaking with all of you soon. Thanks a lot, everybody, and thank you, operator.
+Operator
+Thank you. This concludes today's question-and-answer session. Ladies and gentlemen, thank you for your
+participation in today's conference. This concludes the program. You may all disconnect. Everyone, have a great
+afternoon.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2017, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

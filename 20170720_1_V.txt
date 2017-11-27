@@ -1,0 +1,807 @@
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 1 of 15
+Q3 2017 Earnings Call
+Company Participants
+• Jack Carsky
+• Alfred F. Kelly
+• Vasant M. Prabhu
+Other Participants
+• Robert Paul Napoli
+• Moshe Katri
+• James Schneider
+• Tien-Tsin Huang
+• Ramsey El-Assal
+• Darrin Peller
+• Craig Jared Maurer
+• Sanjay Sakhrani
+• Daniel Perlin
+• Bryan C. Keane
+• Vasu Govil
+• Paulo E. Ribeiro
+• Lisa Dejong Ellis
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to Visa's Fiscal Third-Quarter 2017 Earnings Conference Call. All participants are in a listen-only mode until
+the question-answer session. Today's conference is being recorded. If you have any objections, you may disconnect at
+this time.
+We'd now like to turn the conference over to your host to Mr. Jack Carsky, Head of Global Investor Relations. Mr.
+Carsky, you may begin.
+Jack Carsky
+Thanks, Jenny. Good afternoon, everyone, and welcome to Visa Inc.'s fiscal third-quarter 2017 earnings conference
+call. Joining us today are Al Kelly, Visa's Chief Executive Officer, and Vasant Prabhu, Visa's Chief Financial Officer.
+This call is currently being webcast over the Internet and is accessible on the Investor Relations section of our website
+at www.investor.visa.com. A replay of the webcast will be archived on our site for 90 days. A PowerPoint deck
+containing the financial and statistical highlights of today's call have been posted to our IR website.
+Let me also remind you that this presentation may include forward-looking statements. These statements aren't
+guarantees of future performance and our actual results could materially differ as the result of a variety of factors.
+Additional information concerning those factors is available in our most recent reports on Forms 10-K and Q, which
+you can find on the SEC's website and the Investor Relations section of Visa's website. For historical non-GAAP or pro
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 2 of 15
+forma related financial information disclosed in this call, related GAAP measures and other information required by
+Reg G of the SEC are available in the financial and statistical summary accompanying today's press release.
+And with that, I'll turn the call over to Al.
+Alfred F. Kelly
+Jack, thank you. Good afternoon to everybody and thanks for joining us today. We had another strong quarter of
+business results. Much like the first half of our fiscal year, we saw consistently solid trends in our operating metrics
+with very good growth in payments volume, processed transactions and cross-border revenue.
+Our global business benefited from an overall healthy economy as payments volume grew in every major region. In the
+United States, we saw strong consumer confidence continued to drive spending growth. After three quarters here at
+Visa, I'm quite pleased with our business progress and our high level of execution. It's a real testament to our talented
+and dedicated employees around the world. We're creating a strong culture focused on leadership development,
+operational excellence and driving results.
+As I move to the highlights of the quarter, I do want to thank everybody for joining us at our recent Investor Day both
+in person and via the webcast. As a leadership team, we enjoyed the opportunity to meet and spend time with our
+shareholders and the financial community. We hope that you found the information and discussions to be useful. We
+were pleased to have received quite positive and helpful feedback from the event. Given the fact that we did provide a
+significant amount of information just a couple weeks ago, my prepared remarks today will be relatively brief.
+In Q3, our business continued to perform well against our operating plan and our strategic priorities for the year. We
+saw healthy growth in our key metrics for payments, volume and processed transactions.
+Payment volume was solid across all five regions. Growth was particularly strong in India, the United States, Russia,
+Mexico and Australia. China payments volume growth remained low in the quarter, driven by the dual currency,
+dual-badged card runoff, but I should note that China's cross-border volumes growth continued to be strong. This was
+reflective of the overall trend as cross-border growth was robust around the globe. In addition to China, Latin America,
+the U.S., Japan, Russia and parts of Europe were among the areas of real strength.
+Looking closer at processed transactions, growth was driven by Asia Pacific, Europe and the North America regions.
+Client incentives came in lower than expected, primarily driven by timing delays and variances relative to our
+European clients. This translated to financial performance ahead of our expectations for the quarter as we grew both net
+revenue and EPS by 26% versus last year's comparable results. Vasant will go into greater financial detail and cover
+some of the normalized comparisons to last year.
+As we mentioned during Investor Day, the integration of our European business is progressing well and is on track.
+More specific to the technology side of the integration, we're focused on migrating the European systems to our global
+authorization, clearing and settlement systems as well as deploying our global data platform and other corporate
+systems into Europe. We are well underway in that effort and we have just completed the upgrade of our UK
+datacenters on schedule. We expect that client migrations to new systems will begin by the end of full-year 2018.
+Moving our European clients to VisaNet, we can drive enhanced network capabilities, greater scale, resilience and
+additional levels of cyber security that will benefit our clients and certainly be more efficient in the long term.
+We're also making significant progress in strengthening our partnerships and building digital capabilities to drive
+growth. Earlier this week, we extended our partnership with PayPal to include Europe. We were already collaborating
+with them in the United States and Asia Pacific to provide a better online experience and this now extends the benefits
+to European consumers and businesses.
+Additionally, they're joining the Visa network of client financial institutions and will be able to offer Visa accounts in
+Europe, enabling consumers and businesses to use their PayPal funds to spend wherever Visa is accepted. The
+partnership makes it easier for financial institutions to offer their Visa accountholders the ability to check out anywhere
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 3 of 15
+PayPal is accepted online by offering greater consumer choice.
+We also announced a strategic investment and planned partnership with Klarna, one of Europe's leading payment
+providers. Our planned investment is part of a global strategy to open up our ecosystem and support a broad range of
+new partners who are helping to redefine and enhance the purchase experience for consumers online and in mobile
+environments. Klarna develops products that address changing consumer preferences giving them the flexibility and
+seamless experience that they expect and hope for when shopping online.
+In June, we signed 13 new partners to participate in our token service provider program in all major regions. With the
+expected increase in digital payments embedded in a growing number of devices, we continue to build out a global
+network of partners to offer secure digital payment token services in creating a more secure commerce platform.
+We launched the Visa Ready Program for Business Solutions. This is a strategic framework and certification program
+to help technology companies that integrate with our B2B payment services to ensure that they meet standards and are
+market-ready. Five initial partners in the U.S. have become Visa Ready as this program will help accelerate growth and
+enable new use cases for B2B payments.
+Turning to the international markets, let me first make a couple of comments on China. Yesterday, we filed an
+application with the People's Bank of China in order to participate in the China domestic market as a Bank Card
+Clearing Institution. China is one of the world's fastest-growing payments markets and is leading the way in payments
+innovation.
+Our commitment to this market is long term. We look forward to bringing our capabilities to the industry by stepping
+up our engagement with all the ecosystem partners through open and constructive collaboration, aiming to create added
+value and introduce innovative products as well as reliable and safe payment experiences for Chinese consumers. We
+expect that the PBOC will consider our application in line with the publicly-released measures and guidelines for BCCI
+applicants.
+India represents a large opportunity and we provided some thoughts during Investor Day on how we're approaching the
+market. We are seeing steady progress with digital payments despite the recent re-monetization of cash. Currency in
+circulation is stabilizing as re-monetization comes to an end. The transition to the digital economy has been
+broad-based across several categories, including everyday spend and suggests wide societal participation.
+This past quarter, we saw payments volume increase over 80% and processed transactions more than double versus last
+year. In a couple weeks, I'll be in India for the first time since joining Visa and I look forward to seeing firsthand the
+opportunity that we have in meeting with local partners, officials and our teammates in India.
+Once again, we delivered on our commitment to drive value for our shareholders in the quarter in maintaining a prudent
+capital allocation plan. We invested in support of the growth in our core business through capital spending and
+expenses.
+In fiscal Q3, we returned approximately $2.1 billion of capital to shareholders, consisting of $1.7 billion of share
+repurchases and nearly $400 million through dividends. We continue to accelerate our share buyback activity to offset
+the equity dilution from the Visa Europe transaction.
+In closing, we continue to see strong momentum in the business and we're excited about the long-term growth
+prospects for Visa. As we highlighted during Investor Day, there is a significant opportunity to displace cash and check
+of $17 trillion in front of us. We will continue to focus on partnering strategically and driving digital innovation to
+substantially grow our business into the future.
+With that, let me now turn the call over to Vasant for some more on the financials.
+Vasant M. Prabhu
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 4 of 15
+Thank you, Al. Business momentum stayed strong globally through our third quarter. Net revenue and EPS once again
+exceeded our expectations. Fiscal third quarter net revenue of $4.6 million was up 26%. Net income for the quarter was
+$2.1 billion or $0.86 per share. Adjusting last year's results for several special items related to the acquisition of Visa
+Europe, both net income and EPS were up 26%. Exchange rate shifts versus the prior year negatively impacted net
+revenue growth by approximately 1.5 percentage points and EPS by approximately 2 percentage points.
+A few points to note. Global growth rates and payment volumes, processed transactions and cross-border volumes
+remained strong and stable. Exchange rate headwinds moderated though currency volatilities remained below the
+long-term mean. Timing of client incentives added almost $0.02 to third-quarter results due to delays primarily in
+Europe; more on this later.
+We bought back 17.8 million shares of class A common stock for $1.7 billion in the third quarter at an average price of
+$93.82. Year-to-date in fiscal 2017, we bought back 59.2 million shares of class A common stock at an average price of
+$86.82 per share.
+A quick review of our key business drivers in the third quarter. U.S. payment volumes grew 12% with credit growing
+19% and debit 5%. The slowdown in credit growth from the prior quarter reflects the start of Costco and USAA credit
+conversion in the third quarter of fiscal 2016. Excluding Interlink, debit grew 9%. Declining gas prices negatively
+impacted payment volumes by 0.5 points. Adjusted for conversions and gas prices, underlying credit and debit growth
+rates have been stable all year.
+As reported, international payment volumes grew 72% in constant dollars. On a comparable and normalized basis,
+robust payment volume growth continued across the globe. Asia sustained double-digit growth rates, excluding China.
+Domestic payment volume growth in China was impacted by the decline in active dual-branded cards. Strong growth
+was sustained across EMEA and Latin America. Brazil ticked up modestly. In Europe, excluding co-badge payment
+volumes, growth was 9% with strength across most markets.
+On a constant-dollar basis, cross-border volumes grew 147%, driven by the inclusion of Europe. Adding Europe to
+prior-year results, constant-dollar cross-border growth was up over 11%. Through the quarter, the dollar weakened and
+the pound strengthened moderately. Despite these shifts, outbound commerce from the U.S. and inbound commerce
+into the UK remained very strong. U.S. cross-border growth accelerated in the third quarter, largely driven by outbound
+commerce.
+Across international markets, particularly strong corridors were inbound into Canada, Japan and Australia and
+outbound from Latin America, the Middle East, South and Southeast Asia. Reported cross-border volume growth rates
+were negatively impacted by over 3 percentage points by an e-commerce payments platform shifting acquiring of UK
+cardholder volumes to the UK from another EU location. While this shift impacted our reported cross-border growth
+rates, it has a minor effect on revenues since this is an intra-EU move the platform made to optimize the European
+business.
+As reported, processed transactions grew 44% due to the inclusion of Europe. On a comparable and normalized basis,
+which includes Europe and prior-year results, global processed transactions grew 13%. U.S. growth rates were stable,
+international growth rates were helped by India and some new business in Europe. India processed transaction growth
+stayed above 100%. Through July 14, U.S. payment volumes are up 10%, global constant-dollar cross-border volumes
+grew 12%, processed transaction growth was 14%.
+A brief review of fiscal third-quarter financial results. With strong momentum in the key business drivers and helped
+by some moderation in exchange rate headwinds, growth rates on all key revenue lines stepped up in Q3. Service
+revenues grew 19%, data processing revenues grew 29%, international revenues grew 45% even as currency volatilities
+stayed below the long-term mean.
+As I mentioned earlier, client incentives came in lower than expected and added almost $0.02 to the third-quarter EPS.
+This was primarily due to delays in Europe. We're making good progress in resetting our commercial terms for key
+clients post removal of rebates. We're pushing hard to get most of the deals we wanted done before the end of this fiscal
+year.
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 5 of 15
+Our current expectation is we will get 75% to 80% of the way there by September. At this point, we expect the
+remaining 20% to 25% to shift into fiscal 2018, largely due to client preferences and timetables. This shift in Europe is
+the primary reason why we now expect client incentives as a percent of gross revenues to come in below the low-end of
+our original outlook range of 20.5% to 21.5%.
+After adjusting for various special items in last year's results, expenses grew 31%. As expected, expense growth
+ramped up from the first half levels as we stepped up technology as well as Europe integration spending. Our tax rate
+was 29.3%, driven by the geographic mix of our global earnings and the benefits of the legal entity reorganization we
+completed last quarter.
+As we look ahead to the fourth quarter, it's important to remind you of three events that occurred in June 2016, which
+will significantly impact our reported growth rates on key metrics going forward. First and foremost and the most
+important is the closing of the Visa Europe transaction. Starting with the fourth quarter, reported growth rates will
+include Visa Europe in all prior-year numbers. Second is the Costco conversion. Starting in the fourth quarter of fiscal
+2017, our U.S. credit growth rates will include Costco in prior-year numbers.
+In addition, the USAA credit conversion was completed in September and the debit conversion was finished by
+October last year. Third is the 2016 Brexit vote followed by sharp declines in the pound and later the euro. This will
+reduce the exchange rate drag we have experienced so far this year. This also drove the sharp increase of cross-border
+commerce into the UK. Also of note, the fourth quarter of fiscal-year 2016 was the first time cross-border growth rates
+globally hit double digits in almost three years. Starting in the fourth quarter, we will begin to lap the global
+cross-border recovery.
+We have factored all this into our updated outlook for the year. We're raising nominal net revenue growth expectations
+for the year to approximately 20%. This is the result of the strong growth we have reported to-date, lower client
+incentives at 20% to 20.5% of gross revenues and moderation in the exchange rate drag to approximately 2 percentage
+points. With higher revenue growth, we're also raising our nominal adjusted EPS growth outlook to approximately 20%
+with a 2.5 percentage point exchange rate drag. Included in this outlook is the reduction in European integration cost of
+$60 million. Margin and tax rate expectations remain unchanged.
+Finally, a couple of updates on cash and debt. We returned more cash to the U.S. in the third quarter. Year-to-date, we
+have returned approximately $4 billion back to the U.S. As you know, in December 2016 (sic) [2015], we issued $16
+billion of debt. The first tranche of this debt, $1.7 billion, matures in December this year. Between Labor Day and
+December, we plan to access debt markets to refinance maturing debt and an additional amount to fund the completion
+of stock buybacks that neutralize the impact of stock issued in connection with the Visa Europe acquisition.
+Before I finish, I have one more topic. A couple of weeks back, Jack informed me of his intention to retire at the end of
+this year. On behalf of Visa's management, I want to thank Jack for his decade of contributions to Visa. As most of you
+know, Jack was Visa's first IR leader as a public company. Jack built our Investor Relations department from the
+ground-up, establishing and nurturing relationships with all of you over the years and he has been a key advocate for
+Visa. We all wish Jack the best in his future endeavors, which he tells may include running the Town Chair Lift in Park
+City next winter. Not surprisingly, he's picked November 30 as his last day. I guess he does not want to miss a single
+day of skiing.
+With that, let me turn this back to Jack.
+Jack Carsky
+Thanks, Vasant. And before we start the Q&A, let me just add to Vasant's very nice comments there. It's been a real
+honor and privilege working for this organization and the people in it for the last 10 years, but it's always good to go
+out on top. I've known a lot of you for – you as 10 years and some of you for as many as 20. And it's been a great ride
+and I have really enjoyed the interactions with each and every one of you.
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 6 of 15
+And so, with that, Jenny, we are ready for questions.
+Q&A
+Operator
+Thank you. [Operator Instructions] Our first question comes from Bob Napoli from William Blair. Your line's open.
+<Q - Robert Paul Napoli>: And good afternoon. Jack, I know that Visa's stock has gone up too much and you're too
+rich. So, it's not a big surprise here. So, I hope to take the ski lift that you'll be running.
+<A - Jack Carsky>: And I'll let you on it. He doesn't need to tip.
+<Q - Robert Paul Napoli>: No, it's great. Congratulations.
+<A - Jack Carsky>: Thanks.
+<Q - Robert Paul Napoli>: Just I guess – I mean the numbers have been very good, obviously it's your Investor Day, I
+think the company seemed pretty upbeat. I just wondered if there is a way that – as you look at your numbers if you can
+split out the growth and tell, has there been an acceleration in the secular shift away from cash and checks to electronic
+payments? I know there's a lot going on with market share in Costco and different things, but I just wondered if you
+look at that, if there's a way, if you think there's been an – some acceleration in secular trends.
+<A - Vasant M. Prabhu>: Yeah. I think, as I said my comments, if you take out the conversions and adjust for gas
+prices and volatile things like that, the underlying trend of credit growth in the U.S. for the last three quarters has been
+very steady and stable in the high-single digits and debit growth has also been very steady and stable.
+If you look at our payment volumes through the first three quarters of this year, again strong and stable. We've been
+converting cash to digital at a pretty hefty clip for the past five years and I would say there's really no change in that
+trend. Global economies recovering have clearly helped us this year. So, if you remember on Investor Day, we talked
+about PCE penetration and PCE growth. The PCE growth component certainly has been helpful. And then the last
+thing, of course, is the recovery on the cross-border side.
+And, Al, I don't know if you want to add?
+<A - Alfred F. Kelly>: I think the other aspect, all of what Vasant said is obviously correct, I think that while we've
+seen a real adoption of digital, we're still in the early innings. And I think that as we pointed out on Investor Day, when
+we get into E&M commerce, we neutralize our largest competitor, which is cash, and I think that's going to continue to
+be a real engine of growth for us as we look ahead.
+<Q - Robert Paul Napoli>: Great. Thank you. Appreciate it.
+<A - Alfred F. Kelly>: Thanks, Bob.
+Operator
+Thank you. Our next question comes from line of Moshe Katri from Wedbush Securities. Your line's open.
+<Q - Moshe Katri>: Hey, thanks. So, another quarter of very strong results internationally. It seems that Visa Europe
+has been exceeding at least our expectations almost every quarter since the transaction kind of took place. Is there any
+way to kind of get us some color in terms of where you seeing the upside coming from versus original expectations?
+And then, on top of that, I think you've indicated that the yield from renewing some of that book of business has been
+better than expected. Maybe some more color on that as well. Thank you.
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 7 of 15
+<A - Alfred F. Kelly>: Well, I think we've been very pleased with Europe on any number of fronts, especially given
+the fact that there has been a fair amount of disruption for the people who work in that business between the integration
+as well as the regulatory requirement to split scheme and processing in the marketplace. Our employees have remained
+incredibly resilient and I think, in general, the European economy has been frankly better than we thought. As you
+know, our largest presence by quite a large measure is in the UK and the UK has held up well and, as Vasant said in his
+remarks, has benefited from the lower value of the pound driving lots of inbound traffic into the UK. That certainly has
+helped.
+And when we look around the rest of Europe, our largest presences are in France and Spain, which have also held up
+well. And then, we're seeing countries like the Nordics continue to do well. In terms of the yield side of it, we're still
+working our way through redoing of these contracts. As both of us alluded to in our remarks, it's just a bit more of a
+slog to get there than we might have thought or hoped in the first place, but we are making good progress. I think we'll
+continue to make good progress as we proceed through into the fourth quarter. And to the degree that we've got good
+incentives built in place and we're getting good volume growth, all boats rise, which is a good thing for everybody.
+<Q - Moshe Katri>: And Vasant indicated – pointed to some new business in Europe. Is there anything substantial
+there?
+<A - Vasant M. Prabhu>: No, I had said that on the processed transaction side, yes, we've been saying for a couple of
+quarters that we had some gains in Europe on the processed transaction side, but overall, as Al said, I mean we're very
+pleased with the way the – the vast majority of our business in Europe is under contract and we have been, for a certain
+portion of that, working with clients to reset commercial terms once rebates went away and that's gone well, longer
+than we would have liked, but it's going well.
+So, on all fronts, Europe has done, as we've said before, equal to or better than we expected and from an accretion
+standpoint certainly has been performing better than we expected. And we'll give you a little more about that once
+we're through with the year and can give you a full sense of the year.
+<Q - Moshe Katri>: Thanks, guys.
+<A - Alfred F. Kelly>: Thanks, Moshe.
+Operator
+Thank you. Our next question comes from the line of Jim Schneider, Goldman Sachs. Your line's open.
+<Q - James Schneider>: Good afternoon. Thanks for taking my question and good luck to you, Jack, in your future
+endeavors. I guess my question really comes down to the cross-border. Obviously, the volume is holding in there, but at
+least by our calculations, it looks like the cross-border yield improved somewhat. So, can you maybe give us a sense of
+whether that's correct and if so, what drove it, was it regional mix, was there some pricing impact or was it one of the
+wins you just referred to?
+<A - Vasant M. Prabhu>: No, I don't think you should conclude that there was an improvement in yield necessarily. I
+mean, clearly, from quarter-to-quarter, there are some changes in mix and so on. Some of it could be. As you see, the
+exchange rate headwinds moderating a bit. Certainly, that helps our reported cross-border dollar numbers, but there was
+nothing, there was no real change that would drive a big change in yields in the cross-border business.
+<Q - James Schneider>: Maybe you could also just kind of address the incentive levels and you talked about being
+almost 80% of the way there by the time you finish this fiscal year. Can you maybe just address directionally where
+those incentive levels would go in terms of normalizing as we head into 2018?
+<A - Vasant M. Prabhu>: Yeah, we'll talk about that when we talk about 2018. I mean, if your question was what's
+the likely range of incentives as a percent of gross revenues and all that next year, I think we can get into all of that
+when we talk about 2018. So, it's a little too early to talk about all that right now. I think all we were signaling was that
+there is going to be some shift in Europe of incentives from what we thought we would get done this year into next
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 8 of 15
+year. And I want to emphasize that is driven more by client preferences and timetables and their desires to do things on
+a certain timetable than ours and we're adapting to their requirements.
+<Q - James Schneider>: Fair enough. Thank you.
+Operator
+Our next question comes from the line of Tien-Tsin Huang from JPMorgan. Your line's open.
+<Q - Tien-Tsin Huang>: Thank you. Jack, congrats, my friend. It's been fun.
+<A - Jack Carsky>: Thanks, Tien-Tsin.
+<Q - Tien-Tsin Huang>: I guess, a question I wanted to ask – trying to think which one to ask. Okay, so maybe just a
+change in guidance, can you just walk us through the change in guidance? How much of it is incentives versus some
+other factors? And the change to the incentive outlook, is that all timing or do you anticipate paying a little bit less than
+what you previously forecast?
+<A - Vasant M. Prabhu>: So, there's a little bit of, let's call it, better-than-expected execution, a little bit of it in
+Europe, but you should think of it as almost all timing and almost all Europe; all Europe. So, that's one contributor. The
+three factors that went into sort of the change in the outlook is the performance we've had to-date; some moderation in
+the exchange rate headwind; some reduction in the original expectations on incentives. And on the EPS side, it reflects
+the benefits we're getting from the tax rate we now have, which we talked about last quarter, as well as the revenue
+being stronger than we had thought at the beginning of the year. So, there's nothing unusual other than the actual results
+and the trends we're seeing.
+<Q - Tien-Tsin Huang>: Got it. Thank you.
+<A - Alfred F. Kelly>: Thanks, Tien-Tsin.
+Operator
+Thank you. Our next question comes from Ramsey El-Assal from Jefferies. Your line's open.
+<Q - Ramsey El-Assal>: Hi, guys, and congratulations, Jack. We're going to miss your special sense of humor.
+<A - Jack Carsky>: Thank you.
+<Q - Ramsey El-Assal>: I had a follow-up question also on incentives, kind of building on Tien-Tsin's question, which
+is simply that as we sort of – as incentives, the expected levels kind of get pushed out, does it increase the chance of
+sort of incremental volatility in that line? Will there be a quarter coming up where we get sort of a snapback there and it
+catches folks by surprise or does this sort of push-out imply kind of a gradual slope?
+<A - Alfred F. Kelly>: Again, I'd just remind everybody that there are at least three factors that go into this that make
+this somewhat difficult to predict and I think we've shown how difficult it is to predict, because we haven't hit the
+number in the last couple of quarters. But it's the – when is the deal going to actually come to pass? What are going to
+be the terms of the deal as you actually get into the last bits of negotiation? And then, what actually volumes are you
+going to get against those negotiated terms?
+So, the reality is, in this particular case, it's just that the period of time to get through over 100 client contracts is just
+taking longer than we thought. I don't think we want to get into predicting business or forecasting business or what it
+would look like quarter-by-quarter, but I think this is just simply a matter of a process that we have to get through. And,
+as Vasant said, we're hoping get through about 80% of it by the end of the fiscal year.
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 9 of 15
+<A - Vasant M. Prabhu>: Yes. And as we've told you before, I mean it's not something we think should be focused on
+to the extent it is on a quarter-by-quarter basis. And as you know, we explicitly don't try to get deals done based on
+quarterly timetables and so on. So, the short answer to your question is, is there a snapback kind of thing? No. But is
+there likely to be a quarter where incentives run higher than we might have expected? Of course. I mean, just as they've
+run lower than we expected in some quarters, in some quarters, they could run higher than we expected, but there isn't
+any snapback kind of reason that you should expect. We typically look ahead and give you our best sense of what
+might get done in the quarter, quarter coming up.
+<A - Alfred F. Kelly>: Next question, please?
+<Q - Ramsey El-Assal>: Yeah, thanks, guys.
+<A - Vasant M. Prabhu>: Thanks, Ram.
+Operator
+Thank you. Our next question comes from Darrin Peller from Barclays. Your line's open.
+<Q - Darrin Peller>: Thanks, guys. First of all, Jack, congrats again. We'll catch up soon, but we're going to miss you
+obviously.
+<A - Jack Carsky>: Thank you.
+<Q - Darrin Peller>: Just on a higher level now, if you can just touch again, I mean, on the pricing environment a bit
+more, again, you've commented on yields coming in better in Europe since the deal and we've seen a number of years
+where obviously incentives and rebates have been higher both as a percentage of gross revenues on a year-over-year
+basis. It feels like at some point on the gross yield side, it's going higher, but the rebate side is keeping up pace to some
+extent. You would see a bit of a divergence between the two. I mean, is there anything you can comment on
+conceptually in what you're seeing in your conversations with clients? Has there been more of a realization that the
+value-add you guys provide has reached a level where pricing is at a point where we don't need to keep providing
+higher and higher incentives and rebates, this is about the right point? So, just a little more color on that would be great.
+And then, just a quick comment on Q4. I know you're saying some of the European stuff is pushed and there's been a
+lot of questions on incentives, but it looks like calculating what you're guiding would be about a $200 million
+sequential increase in your incentive rebate line, which is kind of a lot. I mean, it's just hard to envision why they would
+all be in one quarter, unless there's, I think, someone else has other things going on. So that's really just the thought of
+the question. Thanks, guys.
+<A - Alfred F. Kelly>: On the first question, Darrin, when you look at the overall numbers, it's a result of hundreds of
+deals around the world and they all take on different flavors. I think, in general, many of our clients and a testament to
+that is the longevity of many of our relationships that are very deep and have lasted decades that people value plenty of
+aspects of what Visa brings to the table from our global scale to our risk and fraud prevention tools to our brand, et
+cetera. That said, while that stuff is valued when it comes to negotiations, people negotiate hard as do we and you end
+up – everybody ends up compromising and you end up in a certain place. But, I think, I haven't seen nor as I have
+talked to clients around the world any view that the value that we're bringing to the table is any less than it's been.
+In fact, I think, as we move into a digital world and we continue to try to be a leader in terms of thinking about the
+digital tools and solutions that I think that many issuers, particularly when you get beyond the very top issuers, who
+also have the funds and wherewithal, the investing in some of these kinds of capabilities that are what we bring to the
+table is very valued.
+Vasant, you want to add to that?
+<A - Vasant M. Prabhu>: The only thing was that there's a specific question on why client incentives, if you derive
+the fourth quarter, might look the way they do. I would say a couple of things. There is the fiscal fourth quarter effect to
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 10 of 15
+some degree in that, we have been talking to people, especially in Europe, for several months now and it's back and
+forth on finalizing agreements and the documentation and so on. And there's a fair amount of that, that is happening in
+the fourth quarter. And as we get it done in the fourth quarter, since these discussions have been underway for a few
+months, as happens in many cases, the incentives you pay reflect when the deal was either agreed to or initially
+discussed. So, there's an element of retro activeness to it, all of which is captured in the incentives you would probably
+recognize in the fourth quarter.
+So, some elements of all that, that flow into it. And then, as Al said, I mean, we have a fairly rigorous process and we
+do the best we can to give you the best sense, but in the end, we won't sign a deal because a quarterly deadline is
+approaching, but we'll do our very best to get done everything we are setting out to do right now.
+<A - Alfred F. Kelly>: Thanks, Darrin. Next question?
+Operator
+Thank you. Our next question comes from line of Craig Maurer from Autonomous. Your line's open.
+<Q - Craig Jared Maurer>: Yes. Hi. Jack, it's been a pleasure over the part of 15 years. Hopefully, we can meet up in
+Tahoe one day. Regarding the business, can you first comment on what your success rate has been in Asia, in China
+specifically, in converting dual-brand cards into a single-brand companion card for cross-border? And secondly, was
+there any benefit in service fees from the restructuring of contracts around the breakup of scheme and processing in
+Europe? Thanks.
+<A - Vasant M. Prabhu>: On service fees in Europe, really sort of it's the breakup of scheme and processing. We'll
+see over time what the impact is, but in the short run, it really has no impact on the fee structure that was in place, but it
+will evolve over time I'm sure. In China...
+<A - Alfred F. Kelly>: I'll take it. In China, I think, we have 55 banks and 42 of them only issue the single-branded
+card. The remaining 14 – 13 do the dual branded. We've had some success, frankly, not as good as we would like it to
+be, as it's going to continue to be a real focus of ours and something that given the importance of the cross-border
+volume from China, something that we're working closely with the banks on. I plan on being in – I'm going to be in
+India and China in three weeks and it's definitely something that I will be talking to both our team there as well as our
+Chinese clients.
+<A - Vasant M. Prabhu>: Yeah, just in terms of the trend in that business over the last couple of quarters, we
+highlighted the issue last quarter, wanted you to know, as we said earlier, that if you adjust for China, Asia was
+growing double-digits. The domestic dual-banded card volumes in China were relatively stable quarter-to-quarter. So,
+we didn't see a sequential decline. And the cross-border business coming out of China, as Al said in his comments, has
+been strong and stable. How it all plays out in the next few months, we'll have to wait and see.
+<Q - Craig Jared Maurer>: Thank you.
+Operator
+Our next question comes from line of Sanjay Sakhrani, KBW. Your line is open.
+<Q - Sanjay Sakhrani>: Thank you and congratulations, Jack. It's bittersweet. I guess I have another question on
+incentives and specific to Europe, sort of the commercialization of the contracts there. Understanding there's some – the
+timing-related impacts that are causing the lower incentives this year, are there any specific pricing impacts as well that
+happen in conjunction with the commercialization of those contracts or should we expect those to sort of happen at the
+same time? Thanks.
+<A - Alfred F. Kelly>: Well, we've made – in the year that we have owned Visa Europe we have made a few pricing
+changes and there are a number of pricing changes that we're continuing to look at in addition to obviously the
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 11 of 15
+commercialization, as you said, of the contracts to do away with rebates and put incentives in place.
+<Q - Sanjay Sakhrani>: But do those happen at the same time? At points like when you renew them and put in new
+incentive agreements, does that come with a revised price schedule?
+<A - Vasant M. Prabhu>: No. The price schedule, as you know, we have our price schedule and then the incentives
+then are tailored by clients. So, when we make price adjustments, we make them for the system as a whole typically
+and then, the commercialization of some of these contracts is something we do client by client. And just to emphasize, I
+mean, the vast majority of our business in Europe has been and remains under contract. This is something we're doing
+ourselves proactively to adjust some of the terms in the contracts to make them more commercial in a world where
+rebates no longer existed, but the pricing itself, that's related to our normal, of course, what we call our rack rates or list
+prices or whatever you want to call it.
+<Q - Sanjay Sakhrani>: Okay.
+<A - Alfred F. Kelly>: Thanks, Sanjay. Next question?
+Operator
+Yes, our next question comes from Dan Perlin from RBC Capital Markets. Your line's open.
+<Q - Daniel Perlin>: Thanks. And, Jack, I can only say one thing, jealous, but congratulations; well deserved, I'm sure.
+A lot was said at the Analyst Day around Visa Direct and I wanted to just kind hone in on the partnership you have now
+with PayPal, this collaboration you guys are doing. I guess one is, are those cards – the debit cards you're going to be
+issuing, are you going to actually route those through Visa Direct? And then, secondly, do you think that, that
+partnership will help insulate you guys from some of the risk associated with PSD2? Thanks.
+<A - Alfred F. Kelly>: Well, first of all, we're very pleased to extend the deals that we have with PayPal in North
+America and Asia into Europe. And particularly the fact that we're offering full consumer choice and obviously as part
+of the deal is the ability to use Visa Direct to push a PayPal account balance to bank accounts. And it's a fairly
+extensive deal, because there's also an enablement of Visa Checkout relative to the Braintree gateway. And in Europe
+in particular, given the fact that PayPal has a banking license, we're obviously licensing them as a full-fledged issuer
+where they'll issue PayPal debit cards in Europe.
+So, it's a extensive agreement that absolutely covers Visa Direct, but it also covers the very important aspects of the
+prior deals centered around full consumer choice as well as them working closely with us in enabling Visa Checkout as
+well.
+<Q - Daniel Perlin>: And do you think that helps in that partnership to protect you guys from PSD2 as that regulation
+rolls in 2018?
+<A - Alfred F. Kelly>: I think that everywhere that we can further embed a Visa card into the payment stream and
+build the loyalty of the consumer certainly helps us. I mean I think that at the end of the day, PSD2 is going to generate
+a requirement that everybody focuses really hard on consumers and try and make sure that they're providing the best
+possible consumer value propositions and the best possible consumer experiences.
+So t, the degree that we can help further solidify the relationship that our issuers have with their customers, all that can
+only go to help fortify the issuers against PSD2 and the competition that can come from their accounts having to be
+opened.
+<Q - Daniel Perlin>: Thank you.
+Operator
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 12 of 15
+Thanks. Our next question comes from line of Bryan Keane from Deutsche. Your line is open.
+<Q - Bryan C. Keane>: Hi, guys. Wanted to just ask, what percentage of the European contracts are done today? I
+know you said 75% to 80% is the goal for the end of the year, but just looking for a mark for today. And then,
+secondly, at the time of the Visa Europe acquisition, I think the deal was to be EPS accretive in low-single digits for
+fiscal-year 2017 and then high-single digit percentage points range by fiscal-year 2020. There's been a lot of moving
+pieces here. I'm just looking for an update now on if those goals all stand.
+<A - Alfred F. Kelly>: Well, to the question number one, Bryan, and let Vasant answer question number two, we don't
+want to get into a daily tally sheet on this. Again, so we're not probably going to disappoint you by not quantifying
+exactly where we are, but I think you can assume that we're somewhere below 80%, but above a fairly decent number
+such that we're confident in being able to say we think we can get to 80% by the end of the fourth quarter, but we don't
+really want to get into setting a precedent of providing that kind of update.
+Vasant, in terms of accretion?
+<A - Vasant M. Prabhu>: Yeah, in terms of accretion, as you all know, European economies have been stronger than
+we expected. So, our volumes, as you've seen, have been running better than we might have expected at the beginning
+of the year or when we did the acquisition model that valued Visa Europe.
+Certainly, the weak pound and the weak euro have helped the cross-border business. Frankly, the weak pound has
+caused a massive amount of cross-border into the UK. In addition to that, you know that we have taken some pricing
+and our yields have run a little better than we expected. And so far, things are going well in terms of renewals and
+retaining contracts and business and so on.
+So, when you put it all together, clearly Visa Europe is doing better than we expected this year and accretion is running
+ahead of the low-single digits we had told you, but the year isn't over yet. So, we'll wait till the end of the year and give
+you an update in October as to where that accretion was in the first year and whether we have a different perspective on
+the longer-term outlook on accretion, but it's early days and things are going well.
+<A - Alfred F. Kelly>: Thanks, Bryan.
+<Q - Bryan C. Keane>: All right. Thanks. Yes. Hey. Congrats, Jack, as well.
+<A - Jack Carsky>: Thanks, Bryan.
+Operator
+Thank you. Our next question comes from the line of James Faucette, Morgan Stanley. Your line's open.
+<Q - Vasu Govil>: Hi. This is Vasu Govil in for James. Thanks for taking my question. And, Jack, congratulations.
+<A - Jack Carsky>: Thank you.
+<Q - Vasu Govil>: Just quick question. First one to Vasant. You talked about – you sort of mentioned that cross-border
+volumes would kind of lap the double-digit growth rate next quarter. So, just want to get a sense for what's baked into
+guidance. Are we assuming that this double-digit growth rate is sustainable or do you think that it could decelerate back
+into the sort of high-single-digit range?
+And then, a question for Al on India, Visa is clearly benefiting from the government push towards non-cash form of
+payments there, but there're also local mobile wallet players that seem to be making a big push and they're fast gaining
+traction. So, can you just talk about the competitive dynamic and potential for the Indian market to kind of leapfrog
+card payments and go straight to mobile? And how is Visa positioned on the ground to sort of preserve and grow their
+share within electronic payments in India?
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 13 of 15
+<A - Vasant M. Prabhu>: So, on the cross-border growth rate, real quick, we like what we see on the cross-border
+trends. We've seen the pound strengthen a bit, but that didn't change the strength of the cross-border business into the
+UK. We saw the dollar weaken a bit, but that didn't seem to change the trend so far of cross-border business outside
+leaving the U.S. So, overall, the cross-border business seems to have pretty good momentum. And, yes, the
+comparisons get tougher, but we feel pretty optimistic about it. So, we'll wait and see how it goes. When you lap big
+increases, of course, you have to – it's a little harder to forecast, but we like what we see a lot.
+<A - Alfred F. Kelly>: In terms of India, it's such an exciting market and there's a lot going on, obviously, because it's
+an exciting market and a lot is going on, there's a number of players trying to get into the market. We've been there for
+a long time. We believe that, as we think about growing our network and in particular merchant acceptance, that we
+have to have different plans in a emerging market versus a developed market.
+And in the case of India, we clearly have to have a way that's low cost, low hassle, low friction to enable merchants to
+sign up. And that is why we initially went with the QR code and now have worked closely with some of our network
+colleagues on an interoperable QR code that works with our mVisa application and allows quick and easy and low
+hassle setup for merchants and a relatively easy experience for the India consumer.
+It is very, very early in the payments maturation curve for India. There is years to still play out here and we're going to
+do everything we can to take advantage of our heritage and tradition, our brand, our different product sets, our security,
+the globality of our network as well as our digital tools to make sure that we're winning at least our fair share, if not
+more, of the business in India as it grows, recognizing clearly that we've got competitors that go beyond just the
+traditional players that we've competed with over the last number of decades.
+<Q - Vasu Govil>: That's very helpful. Thank you.
+<A - Alfred F. Kelly>: Thank you.
+Operator
+Thank you. Our next question comes from line of Paulo Ribeiro from BMO Capital Markets. Your line is open.
+<Q - Paulo E. Ribeiro>: Thank you. Good evening. When you talk about the impact on expenses from tech investing,
+could you give us some color on where you're investing? I assume part of it is China. And where else in terms of either
+geography or product have you guys focused your dollars on?
+<A - Alfred F. Kelly>: I'm sorry, you are talking about technology.
+<Q - Paulo E. Ribeiro>: Yes. Your technology, because you guys mentioned that it's what's driving expenses,
+technology and Visa Europe integration. What is in technology? Where are you spending the money in terms of...
+<A - Alfred F. Kelly>: Well, I'll start and Vasant can add to what I have to say. Clearly, China is one where we've
+stated a number of times that we're investing ahead of the process of being able to actually operate there, not knowing
+exactly when that will be. I would say the other categories that come immediately to mind are Open VisaNet. We
+talked a bit about that at Investor Day that we're looking – we've begun the process of building a more open
+architecture and a more modularized version of VisaNet to meet the needs that we have going forward and allow us that
+the flexibility to actually, where necessary put processing right in a country without it being a big deal where a
+datacenter could be in a small closet as opposed to a large facility that has to have all of the accompanying electronics
+and cooling and et cetera.
+Clearly, digital and all of the digital tools that we're building is an area that we're spending a lot of time and effort on.
+Research, we opened up a – I think we talked about this at some point in the past, that in February, we opened up a new
+facility in Palo Alto focused on research. And we're doing a whole number of things around looking at applications of
+blockchain and artificial intelligence and different other ways to build our data and our analytics capabilities.
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 14 of 15
+And, I guess, the fifth category, I would say, would be security and cyber security. Given how important security and
+trust in the payments ecosystem is, we continue to look at every possible offering that's out there related to physical and
+cyber security and make sure that we're being leading edge and investing appropriately to make sure that, given the role
+that we play in the ecosystem, that we're doing everything we possibly can to help make sure that transactions, as
+they're flowing through the systems and transactions when they're at rest are all protected to the maximum degree
+possible. So, those would be the things I would say.
+Would you add anything, Vasant?
+<A - Vasant M. Prabhu>: Yeah, I think the other things – Al went through, I think, a very comprehensive list. I mean
+a few other things just to highlight would be continued investment in the Visa Developer platform, investments and
+now rolling out Visa Checkout and Visa Token Service and mVisa around the world, a big push on mVisa in places
+like India and parts of Africa; investments in our innovation centers, you've heard about the London Innovation Center
+and how significant it's become; investments in core development around our innovation centers with our clients. So,
+there's a lot of areas where the things we've developed are now in the process of being deployed.
+<Q - Paulo E. Ribeiro>: Great. Just a quick clarification. PayPal, the rollout of the PayPal partnerships around the
+world, they are not a big investment, they are not in that number, then, in those spending?
+<A - Alfred F. Kelly>: There's a little bit of work there, but the essence is those agreements are not a major workload
+for us. It's more a matter of, actually, more change, actually, on the part of PayPal than it is on the part of us.
+<Q - Paulo E. Ribeiro>: Thank you.
+<A - Alfred F. Kelly>: And I'd add that they've been a really terrific partner.
+<Q - Paulo E. Ribeiro>: Thanks.
+<A - Jack Carsky>: Thanks, Paulo. Jenny, at this point, we have time for one last question.
+Operator
+Thank you. Our next question comes from line of Lisa Ellis, Bernstein. Your line's open.
+<Q - Lisa Dejong Ellis>: Hey, guys. And, Jack, you'll be missed. One final congrats from me. Visa Checkout related
+question for me. One, given the updated steps to give us on Visa Checkout, and then little bit of a more of a strategic
+question, you continued to kind of fight head-to-head with Visa Checkout with these more staged wallets around the
+world, whether that's with PayPal or with Alipay or now, some of the models inside of Amazon. Would you
+contemplate adding more of that capability within Visa Checkout, meaning via prepaid vehicle, the ability to keep a
+store balance or Visa Direct, using Visa Direct to be able to enable P2P? And why or why not?
+<A - Alfred F. Kelly>: Hi, Lisa. An answer to your first question, we're nearing 23 million users who have signed,
+actually signed up for Visa Checkout. I think we've talked a little bit about this. The whole wallet thing is a bit of a
+mixed bag of activity around the industry and I think not necessarily the most user-friendly thing for consumers,
+because there are so many options. We think of Visa Checkout more as a platform than we necessarily think about it as
+a wallet.
+But that said, strategically, I think anything that supports the four-party model that makes sense in terms of integration
+or capability, we're going to be open to look at as we go forward, because ultimately we want to be part of the solution
+of coming up with a smaller number of easy, convenient and wallet that have the type of functionality that consumers
+would want and expect and help bring some of what I think is a bit of confusion around wallets and checkout in the
+e-commerce world, bring a bit more order to it over time.
+<Q - Lisa Dejong Ellis>: Perfect. Thank you.
+<A - Vasant M. Prabhu>: Thanks, Lisa.
+Company Name: Visa
+Company Ticker: V US
+Date: 2017-07-20
+Event Description: Q3 2017 Earnings Call
+Market Cap: 228,562.21
+Current PX: 99.95
+YTD Change($): +21.93
+YTD Change(%): +28.108
+Bloomberg Estimates - EPS
+Current Quarter: 0.845
+Current Year: 3.366
+Bloomberg Estimates - Sales
+Current Quarter: 4592.500
+Current Year: 17955.806
+Page 15 of 15
+<A - Alfred F. Kelly>: Thanks, Lisa.
+Jack Carsky
+And thank you all for joining us today. If anybody has any follow up, feel free to call myself, Joon or Victoria.
+Operator
+That concludes today's conference. Thank you for your participation. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2017, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
