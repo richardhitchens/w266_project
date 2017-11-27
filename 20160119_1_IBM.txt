@@ -1,0 +1,887 @@
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 1 of 16
+Q4 2015 Earnings Call
+Company Participants
+• Patricia Murphy
+• Martin J. Schroeter
+Other Participants
+• Toni Sacconaghi
+• Katy L. Huberty
+• Tien-Tsin Huang
+• Brian J. White
+• Steven M. Milunovich
+• David M. Grossman
+• James Edward Schneider
+• Louis Miscioscia
+• Keith Frances Bachman
+• Amit Daryanani
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome, and thank you for standing by. At this time, all participants are in listen-only mode. Today's conference is
+being recorded. If you have any objections, you may disconnect at this time.
+Now I will turn the meeting over to our host, Ms. Patricia Murphy, Vice President of Investor Relations. Ma'am, you
+may begin.
+Patricia Murphy
+Thank you. This is Patricia Murphy, Vice President of Investor Relations for IBM. I'm here today with Martin
+Schroeter, IBM's Senior Vice President and Chief Financial Officer. I'd like to welcome you to our fourth quarter
+earnings presentation. The prepared remarks will be available within a couple of hours and a replay of the webcast will
+be posted by this time tomorrow.
+I'll remind you that certain comments made in this presentation may be characterized as forward-looking under the
+Private Securities Litigation Reform Act of 1995. Those statements involve a number of factors that could cause the
+actual results to differ materially. Additional information concerning these factors is contained in the company's filings
+with the SEC. Copies are available from the SEC, from the IBM website or from us in Investor Relations.
+Our presentation also includes certain non-GAAP financial measures in an effort to provide additional information to
+investors. All non-GAAP measures have been reconciled to the related GAAP measures in accordance with SEC rules.
+You'll find reconciliation charts at the end of the presentation and in the Form 8-K submitted to the SEC.
+Now I'll turn the call over to Martin Schroeter.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 2 of 16
+Martin J. Schroeter
+Thanks, Patricia. Let me start by saying we're pleased with the progress we made again this quarter. We delivered
+revenue of $22.1 billion; operating net income of $4.7 billion; and operating earnings per share of $4.84.
+As we get into our results, you'll see that our fourth quarter and full-year performance reflects the transitions in our
+business as we address the significant shifts in our industry, as well as some of the cyclical challenges of the global
+business environment. So as always in January, I'll start out with some comments on the year, show you the progress
+we've made in our transformation, discuss the details of the quarter and then wrap up with our view of 2016.
+For the full year, we delivered nearly $82 billion of revenue and $14.7 billion of operating net income; and our
+operating earnings per share were $14.92. As we've said, this transformation will play out over time. And with revenue
+down 1% for the second consecutive year, we've had modest improvement in our year-to-year revenue performance,
+excluding the impact of currency and divestitures. I'll comment on year-to-year revenue performance on this basis
+throughout.
+Our strategic imperatives continued strong performance, up 26% for the year. This now represents 35% of IBM's
+revenue. Our profit and margin reflect our portfolio actions as we shift to higher value, as well as the level of
+investments we're making to drive our transformation. We generated over $13 billion of free cash flow, which is up
+year-to-year. This is 98% of our GAAP net income, in line with our expectations that free cash flow realization will be
+in the 90%s.
+A couple of years ago, we laid out our strategic imperatives around big data and analytics, around cloud, and around
+mobile and security; the areas where our clients are looking to us to help move them to the future. I want to spend a
+minute on the progress we've made since then in shifting our business toward these strategic imperatives and on the
+investments we've been making, which aren't yet reflected in our revenue streams.
+We've said we expect these strategic imperatives to deliver double-digit revenue growth; and in 2015, our performance
+in our strategic imperatives accelerated. Together, cloud, analytics, mobile, social and security, grew 26% and
+delivered $29 billion in revenue. As I mentioned, they now represent 35% of IBM, which is up from 22% two years
+ago.
+With 57% revenue growth over the last year, cloud is now a $10 billion business for us. This made us the largest cloud
+provider in 2015, which is what you'd expect given our extensive relationships in enterprise IT and incumbency in the
+data center, positioning us to help our clients implement hybrid cloud environments.
+Revenue from our as-a-service offerings increased about 60% to $4.5 billion for the year and we exited 2015 with an
+annual run rate for our as-a-service business of $5.3 billion. The $10 billion also includes $5.6 billion of revenue from
+our foundational offerings, where we provide software, hardware and services so clients can build their own clouds. In
+either case, what we've been saying for some time is that clients are utilizing the cloud not just to reduce costs, but to
+gain agility and enable innovation. And whether they're consuming as-a-service or through their own clouds or as in the
+case of most enterprise clients who are implementing a hybrid environment, we're leading that move.
+To address opportunities we see in this space, in 2015 we made seven cloud acquisitions including Cleversafe for
+object storage, Gravitant for cloud brokerage services and Clearleap for cloud video services. We also invested nearly
+$1 billion in capital, expanding our global cloud data center footprint to 46.
+We already have an ecosystem of millions of developers globally; and our Bluemix platform-as-a-service has already
+expanded to over a million users, adding 15,000 developers a week. With nearly $18 billion of analytics revenue, we're
+also the largest analytics provider and we'll extend that lead by moving into new areas including Watson Health and
+Watson Internet of Things.
+In Watson Health, we're integrating our own organic capabilities with content acquired through Merge, Phytel and
+Explorys. Healthcare is a new revenue and profit opportunity for us as we change the face of healthcare through our
+cognitive platform to provide value to providers, payers, and partners. We're also addressing the IoT market. And our
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 3 of 16
+Weather Company acquisition not only gives us tremendously valuable data and digital content, but a high-volume
+cloud-based insight-driven platform that we'll integrate with Watson to address significant new opportunity spaces.
+We'll talk about how we're addressing these opportunities at our investor briefing at the end of February.
+And while we're investing in capabilities for the future, we're also returning significant value to shareholders. We paid
+out nearly $5 billion in dividends and we reduced our average share count by 2.7%.
+So we got a lot done in 2015. To sum it up, our revenue for the year was down 1%; we expanded gross margin; we
+invested heavily for the future; and we returned capital to shareholders, all while transforming the business. The
+progress we're making gives us confidence that we're on the right strategy. And the actions we've taken not only
+advance our transformation, but also will contribute to our growth rate in the future. I'll come back to the full year and
+2016 after going through the details of the quarter, starting with the financial metrics.
+Our revenue for the quarter of $22.1 billion was down 2%, reflecting the transition we've been describing. I'll spend
+just a minute on currency, which continues to be a headwind. Currency impacted our reported revenue by over 6 points
+or $1.5 billion, which is about $350 million more than the spot rate suggested 90 days ago. For the year, currency
+translation reduced our revenue by over $7 billion. That by itself is the revenue of a Fortune 500 company.
+And currency was also a headwind to our profit performance. We estimate it impacted our profit growth by about $300
+million in the fourth quarter and over $1 billion for the year. At current spot rates, we would expect a significant impact
+to revenue and profit again in 2016 not just from the translation, but from the year-to-year cash flow hedging dynamics.
+I'll come back to this.
+Our margin performance reflects some ongoing dynamics in the business like higher levels of investment and an impact
+from the mix of contracts and resource shifts in our services business. But it also reflects some unique items in the
+fourth quarter of last year, the largest of which was a $1.4 billion gain from the sale of our x86 server business. This
+prior period gain represents effectively all of the year-to-year decline in PTI margin. I'll talk more all about the margin
+drivers in the segment discussions.
+Our underlying effective tax rate was 20%; and this quarter, the rate also reflects the recent U.S. tax legislation and the
+settlement of our U.S. tax audit, which we've talked about throughout 2015.
+And so, bottom line, we delivered $4.84 of operating earnings per share. We generated over $6 billion of free cash flow
+in the quarter and $13 billion for the year. And, as I mentioned, this is 98% of GAAP net income. We returned about
+three-quarters of our free cash flow to shareholders in 2015 through dividends and gross share repurchases.
+Now turning to the revenue by geography. We had good performance across many of the major markets. Europe
+returned to growth, led by continued growth in Germany, France and the UK. In fact, Germany posted double-digit
+growth. And in December, we announced Munich as the headquarters for our new Watson IoT business, as well as our
+first European Watson innovation center. In Asia Pacific, Japan continued to post growth, led by services. In the AP
+growth markets, we had double-digit growth in India and Australia, though China declined.
+Our U.S. revenue was down. We had strong growth in the U.S. in all hardware platforms, z Systems, Power and
+storage, but it was offset by weak services and transactional software performance. The growth markets in total were
+down 4%, roughly in line with the last two quarters. And from a regional perspective, growth in Latin America and the
+Middle East and Africa was offset by declines in Asia Pacific.
+Turning to the segment performance. Our total revenue was down 2% and gross margin declined about a point. Our
+Global Technology Services revenue grew as we help our clients transition to a hybrid cloud services platform,
+bringing in more cloud, mobility and security to infrastructure services. This contributed to our backlog growth for the
+year. Our GTS gross margin decline is driven by investments in cloud data centers and the ramp of new contracts,
+which generally have lower upfront margins.
+In Global Business Services, we're adding resources and growing quickly in strategic areas, while transitioning away
+from some of the more traditional areas. The shift of resources impacts productivity in the near-term, which puts
+pressure on margin.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 4 of 16
+In Software, our annuity content grew, but transactional performance has been impacted by the flexibility we've been
+providing in ELAs with our larger clients. The transactional performance in the fourth quarter was consistent with what
+we saw in September, but a larger transactional mix in the fourth quarter drove a deceleration in the overall software
+growth rate.
+Our Systems Hardware revenue was up, driven by z Systems and Power. This caps a very strong year in our Systems
+business, reflecting that our leading-edge servers run the most contemporary workloads. The Systems margin is driven
+by the lower mainframe margin as is typical at this point in the cycle.
+Turning to expense, our operating expense and other income is up 9%. There are a few large items that impacted the
+growth rate this quarter. As I mentioned earlier, we closed the sale of our System x business in the fourth quarter of last
+year, resulting in a gain of $1.4 billion in that period. And this quarter, we took a charge of about $85 million for the
+write-down of the equity component received as consideration.
+So together, these were a $1.5 billion year-to-year impact to our expense. We also had a year-to-year reduction in
+workforce rebalancing. We had $580 million of workflow rebalancing charges in the fourth quarter of last year, with
+essentially none this year. So this reduced expense growth by 10 points. And currency reduced expense growth by 8
+points between the translation of non-dollar spending and the cash flow hedging gains that are reported in other income
+and SG&A.
+This is pretty consistent with what we've seen all year. Outside of these larger items, our expense dynamics have been
+consistent throughout the year. We're accelerating shifts within our operational expense base, driving productivity and
+efficiency in some areas, while increasing investment in support of our strategic imperatives. This year, we shifted $5
+billion of spend to our strategic imperatives. That's across cost, expense and capital expenditures.
+Now let's turn to the segments, and we'll start with Services. We ended the fourth quarter with a Services backlog of
+$121 billion, which grew for the third consecutive quarter. We continue to see momentum in our Services offerings that
+modernize our client's IT systems and move their operations into the cloud-based mobile world. We've seen reports that
+suggest the adoption of cloud means shrinking deal sizes, but this is not what we're seeing. Clients are looking to
+transform their most critical systems into hybrid cloud environments; and the complexity of these partnerships in many
+cases results in larger engagements.
+In fact, this quarter, we've signed 26 Services deals greater than $100 million; and for the full year, we signed over 70
+of these substantial transactions, which is 40% more than last year. So with a growing backlog and a 40% increase in
+large deals during the year, we're not seeing shrinking deals.
+Now about 70% of those transactions feature hybrid cloud content, which reflects both the value our clients see in
+hybrid and the reality that not all of their workloads will be optimized for the cloud.
+Just recently, we signed a $1.4 billion expansion in the scope of our relationship with European bank BNP Paribas.
+This is a joint GBS and GTS engagement. And as part of the agreement, we'll operate two of the bank's data centers in
+Belgium as hybrid cloud centers, providing cloud infrastructure and a full suite of business transformation services
+spanning applications testing, business intelligence, security and core banking solutions.
+Global Technology Services delivered $8.1 billion of revenue and grew for the third consecutive quarter. Our strategic
+imperatives, including our hybrid cloud services in GTS, grew strong double-digits this quarter and for the full year.
+This includes strong demand for software, which again grew double-digits this quarter. This infrastructure-as-a-service
+cloud platform provides our clients with a full range of cloud services, including virtual and bare metal servers, along
+with a dedicated dark fiber network infrastructure.
+As clients evaluate their technology roadmap, they're looking for agility and innovation and to gain insight into data
+from all sources. Our hybrid cloud stack is an open platform that enables this innovation. Our clients can choose from
+public, private and dedicated environments based on their needs such as workload, performance, data sovereignty and
+regulatory requirements. Entire industries and value chains are being disrupted and our clients are looking to us for
+competitive advantage.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 5 of 16
+To expand our cloud capabilities, this past quarter we announced the acquisition of Gravitant. Gravitant develops
+cloud-based software to enable organizations to easily broker software and computing services across multiple
+suppliers and cloud environments from a single screen. We also announced the acquisition of Clearleap, a premiere
+provider of cloud-based video services. This will provide our enterprises with a fast and easy way to securely manage,
+monetize and grow user video experiences.
+The Clearleap video platform is optimized for massive scalability, which enables clients to ramp up and support
+millions of concurrent users within seconds to support special events. The innovations have attracted leading brands
+such as HBO, A&E Networks, the NFL and Sony Movie Channel.
+Finally, our Maintenance business continues to contribute significant revenue and profit by delivering a wide range of
+support services to maintain and improve our client's IT infrastructure. We continue to see strong demand for our
+multi-vendor support services where clients can leverage our global distribution and inventory capabilities.
+Our GTS PTI margin is up about 2 points year-to-year. This was driven by lower work force rebalancing charges and
+savings from actions taken throughout the year to drive efficiency in our delivery model. Mitigating these savings, we
+continue to invest to contemporize our client's IT systems transforming them into digital enterprises. We're scaling our
+SoftLayer footprint with 46 cloud data centers opened around the world. Finally, as we've talked about through the
+year, currency is impacting margin and remains the largest impact on year-to-year profit growth given the strong dollar
+environment.
+Turning to Global Business Services, revenue was $4.3 billion in the quarter. We continue to transform our GBS
+business and our signings were up double-digits this quarter, driven by our digital offerings. Revenue from our strategic
+imperative practices was again up strong double-digits. Our analytics practice grew over 20%. Our cloud services were
+up over 60%. And our mobile practice more than doubled. Our revenue continues to be impacted by the wind down of
+traditional enterprise application implementations. Clients are moving away from ERP engagements to initiatives that
+focus on digitizing their business with analytics, cloud and mobile technologies.
+In December, we announced that as part of our partnership with Apple, we've now delivered over 100 MobileFirst for
+iOS applications. This unique partnership brings together the simplicity of design and ease of use of the Apple mobile
+device with our ability to build applications that scale securely and efficiently to the enterprise, helping to transform the
+way work gets done across 14 industries and 65 professions.
+These apps allow our clients to securely access their most critical data and processes, so they can redesign work flows
+and drive productivity. Since we announced the partnership with Apple, we've generated over $1 billion in signings
+from the program.
+GBS profit margin was flat year-to-year. Let me talk about some of the dynamics within that. We have a benefit from
+lower work force rebalancing charges. In parts of the portfolio where the market is declining, we're seeing price and
+profit pressure and we're taking actions to optimize our cost structure. We continue to invest in our analytics, cloud and
+mobility practices. We've hired and shifted significant resources to these areas, which impacts productivity and margin
+in the near-term. We're also scaling a new cognitive consulting practice launched last quarter that is focused on helping
+our clients unlock the transformative value of cognitive business.
+Our Software revenue was $6.8 billion in the fourth quarter. Our annuity content grew year-to-year, while transactional
+content declined. Our Software profit performance continues to reflect a revenue trajectory, a higher level of
+investments in areas like Watson, Watson Health, IoT and Bluemix and an impact from currency translation.
+Let me spend a minute on the revenue dynamics. Looking at the transactional content, recall on our last earnings call
+we talked about weaker transactional performance at the end of September which impacted the third quarter. Our fourth
+quarter transactional performance was very similar to what we experienced in September. Given the much higher
+transactional mix in the fourth quarter, this had a larger impact on our total software performance, resulting in a
+deceleration in software growth in the fourth quarter.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 6 of 16
+Looking ahead to first quarter, which has a lower transactional mix, we will see an improvement in our revenue
+trajectory. We've said in the past that our performance reflects that many of our large clients with multi-year contracts
+are utilizing the flexibility on deployment of their software as they build out their environments with our broad
+portfolio; and this is continuing.
+Outside of our top 250 clients, our software revenue was up low-single digit in the fourth quarter and for the full year.
+On an annual basis, about 70% of our Software business is annuity like including software-as-a-service and
+subscription and support. Our renewal rates are steady, our SaaS business is growing and our overall annuity revenue
+grew in the fourth quarter and the full year.
+Middleware serves the purpose of integrating different environments, on-prem and cloud. To enable hybrid
+environments, our key capabilities have now been delivered on SoftLayer or as part of our IBM Bluemix platform.
+IBM's middleware remains the number one integration platform in the world and now integrates across cloud
+environments.
+To put it simply, this allows clients existing apps to access the cloud and new born on the cloud applications to access
+client's existing assets. To accelerate the integration of middleware in a hybrid cloud environment, we made an
+organizational change at the beginning of this year moving a portion of our middleware business into our cloud
+business, reflecting the importance of our middleware in the hybrid cloud marketplace. We're also adding substantial
+new capabilities into our software and solutions portfolio.
+One example is The Weather Company acquisition which will provide the basis for our IoT platform. This acquisition
+brings with it a high-volume platform that can ingest sensor data at scale. This platform can handle enormous
+complexity, taking in 4 billion weather forecasting points and 26 billion queries in its cloud service each day. This is
+the fourth most-used mobile app, handling seven times more transaction volume than the world's leading search engine.
+Some of this has been running on our cloud already; and of course we'll move all of this to the IBM cloud. And then we
+will layer in Watson to give it the cognitive capability to apply machine learning at scale. This then gives us the ability
+to expand this platform capability to industries beyond weather, like health. The power of the platform is its ability to
+use Watson cognitive capabilities to gather new insights by connecting data at scale from multiple industry domains.
+Our Systems Hardware segment revenue was $2.4 billion. This was the fourth consecutive quarter of growth in both the
+z Systems and Power. We've continued to deliver innovation to our systems to enable them to run the most
+contemporary workloads. In fact, about half of our Systems segment revenue in 2015 was to address analytics
+workloads or hybrid and private clouds.
+This quarter, z Systems revenue was up more than 20%. Since the launch of z13 in the first quarter of 2015, we've
+delivered growth of 35% with strong double-digit growth in every quarter since the launch. z13 was contemporized for
+the workloads around mobile, hybrid cloud and analytics, which continues to resonate well with our existing customers
+and bringing new customers to the platform. For the year, we added 50 new clients across 25 countries.
+Power revenue grew 8%, which is the strongest performance of the year. In Power, we're serving a high-value market
+while adding capabilities and finding new economic models to grow over time. UNIX is a declining market, but we
+continue to address it because it's a very high-value space. At the same time, we introduced low-end Linux-based
+Power systems to capture the growing the Linux market, and are building an IP stream through the OpenPOWER
+ecosystem. Even though the UNIX market is declining, by delivering innovation and repositioning the platform, our
+Power Systems have grown four quarters in a row. This is a good example of how we transform ourself.
+The growth in our servers was mitigated by a 7% decline in storage hardware, which continues to be impacted by
+weakness in traditional disk and tape. As we've said, value in the storage market continues to shift to software and
+offering requirements that are driving demand for Flash and object-based storage. We're well-positioned in these new
+areas with growth in Flash and our recent acquisition of Cleversafe.
+Looking back at 2015, our Systems results reflect a successful transformation and repositioning of the business.
+Revenue was up 8% for the year and profit up about $600 million. This performance reflects our solid mainframe
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 7 of 16
+product cycle and the successful Power transformation, with Power revenue growing for the first time since 2011.
+So moving on to cash flow. In the quarter, we generated $7.1 billion of cash from operations, excluding our financing
+receivables. We invested $1 billion in CapEx and generated $6.1 billion of free cash flow. For the full year, we
+generated $17 billion of cash from operations. We invested almost $4 billion in CapEx this year with a significant
+amount going to support our growing services backlog and for cloud as we build out cloud data centers.
+And so we generated free cash flow of $13.1 billion, an improvement of almost $700 million year-to-year. The primary
+driver of this improvement was lower cash tax payments of about $3 billion. Our cash and tax book rates for 2015 were
+fairly consistent, and so the year-to-year benefit to cash flow was driven by a much higher cash tax rate in 2014. We
+also had over $1 billion of improvement in our sales cycle working capital. This was partially offset by a decline in our
+profit performance and payments of performance-based compensation.
+Looking at uses of cash, we've invested over $3 billion on acquisitions this year. We've acquired 14 companies,
+including seven companies in the fourth quarter. The Weather Company acquisition, I mentioned earlier, will close in
+the first half of 2016. Over the course of the year, we've returned $9.5 billion to shareholders including dividends of
+nearly $5 billion and $4.6 billion in gross share repurchases. We bought back 30 million shares, reducing our average
+share count by 2.7%. At the end of the year, we had $5.6 billion remaining in our buyback authorization.
+Turning to the balance sheet, we ended the quarter with a cash balance of $8.2 billion. Total debt was nearly $40
+billion, of which $27 billion was in support of our Financing business. The leverage in our Financing business remains
+just over 7-to-1. The credit quality of our Financing receivables remains strong at 55% investment-grade. You can see
+this in our supplemental charts. The year-to-year reduction in investment-grade was driven by rating changes to our
+existing portfolio, not by changing our approach to the market.
+Our non-financing debt of $12.7 billion was almost $1 billion lower than September and up just over $1 billion
+year-to-year. Our non-financing debt-to-cap was 54%, 4 points lower than September and 5 points lower than a year
+ago. Our debt-to-cap ratio was impacted again this year by a reduction in equity due to currency translation and pension
+remeasurement. Together, these impacted our equity by about $3.5 billion.
+The performance of our retirement-related assets and return and discount rate assumptions at year end are in our
+supplemental charts. You can see our funding levels remain solid, with the U.S. and worldwide tax-qualified plans at
+101% and 97% respectively. And importantly, our balance sheet continues to have the financial flexibility to support
+our business over the long-term.
+So now let me wrap up where I started the call by saying that we're pleased with the progress that we made again this
+year in the transformation of our business. We're continuing to invest and add capabilities to drive the transformation.
+In 2015, we spent over 6% of our revenue in R&D. We invested about $4 billion in capital and over $3 billion to
+acquire 14 companies. We are integrating acquired content with our organic capabilities and leveraging partnerships
+and a broader ecosystem to build new high-value platforms. And we're applying our cognitive capabilities to more of
+what we do.
+Within our spend, we're shifting to key opportunity areas and we're seeing the returns in our strategic imperatives
+results. With $29 billion of revenue, these now make up 35% of IBM. In 2015, we had a successful mainframe cycle;
+and Power grew as we repositioned it to address a broader opportunity. Our Services backlog was up. And we exited
+the year with $121 billion book of business.
+Our software annuity base, which is about 70% of our Software revenue, also continued to grow. Our overall Software
+performance reflects reduced transactional levels as our largest customers utilize flexibility we've provided and commit
+to our platform for the longer-term.
+The macro environment, as always, is mixed and currency continues to be a significant headwind. While we're focused
+on remaining competitive in local markets, the translation impact is significant. It was an 8-point impact to revenue
+growth in 2015; and at current spot rates, currency would be another 2-point to 3-point impact this year.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 8 of 16
+The profit impact is substantial as well. And given the sustained period of dollar strengthening, the profit impact in
+2016 will in fact be greater than 2015, both because of the translation impact and the roll-off effect of cash flow
+hedging gains. At current spot rates, we expect currency to impact pre-tax profit growth in 2016 by about $1.3 billion,
+with nearly three-quarters of that coming from a year-to-year reduction in cash flow hedging gains.
+So now as we look forward to 2016, we'll continue to deliver strong growth in our strategic imperatives. We expect
+some modest expansion in gross margin and we'll continue to invest at high levels. And we'll continue to return value to
+shareholders through share repurchases and dividends. Taking all of this into consideration, we expect operating EPS of
+at least $13.50. This reflects an impact from currency of over $1 of EPS, which is about a 7.5 point impact to the
+growth rate.
+Our free cash flow will follow our profit performance; and we continue to see our free cash flow realization in the
+90%s. Looking at the quarterly skew, as you know the first quarter reflects the smallest quarter in terms of contribution
+to our full year earnings. At this point in prior years, our first quarter view has been from 14% of the full year to a few
+points higher than that. Given the magnitude of the currency headwind and the skew of our investments this year, we
+would expect the first quarter of 2016 to come in at about 15% of the $13.50.
+Bottom line, we remain confident in our strategy and in our ability to execute. And we look forward to continue
+progress in our transformation in 2016.
+Now Patricia and I will take your questions.
+Patricia Murphy
+Thank you, Martin. Before we begin the Q&A, I'd like to mention a couple of items. First, we have supplemental charts
+at the end of the slide deck that provide additional information on the quarter and the year. And second, I'd ask you to
+refrain from multi-part questions.
+Operator, let's please open it up for questions.
+Q&A
+Operator
+Thank you. At this time, we will begin the question-and-answer session of the conference. [Operator Instructions] One
+moment please for the first question. First question is from Toni Sacconaghi from Bernstein. Sir, you may ask your
+question.
+<Q - Toni Sacconaghi>: Yes. Good afternoon, Martin. When you began 2015 you talked about software as really
+being kind of the pivot for whether you might hit the high-end of your guidance range or the low-end of your guidance
+range and you anticipated or hoped that software would improve in the second half. What we saw was the opposite is
+that software decelerated significantly in the second half of this year.
+And I'm wondering if you could reflect on, A, what happened? And, B, while there should be some improvement next
+quarter because of less transaction and I gather The Weather Channel will be added into that division, how do we think
+about software in 2016? Should we be expecting a business that's down low-single digits at constant currency again?
+And perhaps you can talk about kind of the forces at play both again what happened in terms of deterioration in the
+second half and how we should think about the forces at play in 2016? Thank you.
+<A - Martin J. Schroeter>: Sure. Thank you. Thanks, Toni. A few comments on software. So as we said in our
+prepared remarks, the deceleration third quarter to fourth quarter really was driven by the mix shift and the continuation
+of the transaction closing rates that we saw in September. So we talked about – coming out of September we talked
+about a slower rate of closing in some of our larger deals; and that's what we experienced as well in the fourth quarter.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 9 of 16
+And as I mentioned in my prepared remarks, because of the mix shift alone we see an improvement. And as you point
+out, The Weather Company and other acquisitions, by the way, to the extent that they have software in them, they will
+obviously bolster that growth rate.
+A few things I think are important to note within software. First, as we've said in our prepared remarks – and the
+phenomena is really no different in the fourth quarter than what we've seen all year – our annuity business within the
+Software business, so that's about 70% of our overall software stream, our annuity business continues to grow. So that
+has as-a-service in it, it has our subscription and support business in it as well. So that continues to grow.
+And then outside of our largest clients – and this is a phenomena that we've been talking about – outside of our largest
+clients where they don't have as broad access to our software portfolio, we continue to see growth as well, both
+transactionally and they're obviously part of the as-a-service stream.
+Within the large clients, as I mentioned earlier and as we talked in our prepared remarks, we provide flexibility. It gives
+our clients an ability now to manage their projects and they deploy maybe differently than they had anticipated at the
+beginning of the year. And from my discussions with our clients, a lot of that depends on the visibility they have both
+to their demand patterns and the visibility they have to sort of the kinds of projects they might have to implement in the
+near-term.
+So I don't think that's any different than what we've experienced in the past. I would say that one of the things we look
+at closely, particularly with regard to the usage of our software and how it's getting deployed, is our ability to maintain
+these renewal rates on our subscription and support. And our renewal rates around the world remain very high, in the
+mid-90%s globally. And if we look in the U.S. where we had a weaker software transactional performance, actually our
+renewal rates in the U.S. are even higher than that. They're higher than they're in Japan, they're higher than they're in
+Europe, they're higher than they're in Australia.
+So our renewal rates continue in a very good track, and that suggests that our annuity business within software has
+some good growth prospects. But as we've said in our prepared remarks, again, just from the mix benefit of having
+more of that annuity mix in the first quarter, we will see an improvement. And then as you noted, the acquisitions will
+sit on top of that.
+<A - Patricia Murphy>: Thanks. Toni. Can we go to the next question, please?
+Operator
+Thank you. Our next question is from Katy Huberty from Morgan Stanley. Ma'am, you may ask your question.
+<Q - Katy L. Huberty>: On a high note, in servers both mainframe and power, how you're thinking about growth rates
+in 2016 as you move into the latter half of the cycle? And how might that influence gross margins? It looks like it had
+an impact in the fourth quarter. Thank you.
+<A - Martin J. Schroeter>: Sure. Your question actually cut off a little bit. I think you said finishing at a high note in
+the fourth quarter. I'm going to assume that was the question, Katy. So I'll answer for mainframe and for power and
+how we're entering 2016.
+So first on mainframe, another very good cycle in mainframe. So as you know, we announced that in the first quarter
+the growth rates have been pretty consistent throughout it. We doubled in the first quarter, growth in the second quarter,
+good third quarter, again, the fourth quarter we finished at about 20% year-to-year at constant currency; and the
+adoption rates are consistent with what we would expect. So for the full year, the mainframe is up 35%. And as is
+typical in the mainframe cycle, margins in the announcement year tend to be a little bit lower; and we will see margin
+improvement as we get to the latter half or the latter part of the mainframe cycle in 2016.
+From a power perspective, well, I'll tell you the power team has done a wonderful job of transforming a business; and I
+think it's a really good example of how IBM transforms its businesses. So since, as we put in the prepared marks, we've
+not grown since 2011 and in 2015 we grew each of the four quarters in the Power business, finishing the fourth quarter
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 10 of 16
+at plus 8%. And I think what underpins that and what's important to note is we continue to serve a declining market for
+part of that Power business.
+The UNIX market is declining, it has been declining, but it's still high value and it still serves a very important role in
+our client's environments and does some of their most important work. So it continues to be an important marketplace.
+But at the same time, the team has been able to reinvent the platform, make it relevant in the Linux space. So we're
+seeing very good Linux placements in power and the applicability of that POWER8 platform in cloud spaces, for
+instance, and running other ERP type missions has been a terrific boost to the overall growth rates.
+And then keep in mind that the team has also put in play, from a business model perspective, the OpenPOWER
+foundation, which is an intellectual property play. So that will also boost margins. So, again, the power team has done a
+terrific job of repositioning a product which had a very strong acceptance and was delivering high value in a declining
+market space into now a business that has grown four quarters in a row with a lot of leverage from here as our
+OpenPOWER consortium members start to deliver their own systems into that Linux space.
+<A - Patricia Murphy>: Thanks, Katy. Can we go to the next question?
+Operator
+Thank you. Our next question is from Mr. Tien-Tsin Huang from JPMorgan. Sir, your line is open.
+<Q - Tien-Tsin Huang>: Great. Thank you. Good afternoon. Just wanted to ask on the services if we can expect some
+improvement in growth in 2015 given the backlog trend you talked about there, Martin, and also your confidence in the
+services margin expansion in 2016? Because if I heard correctly, no work force rebalancing in the fourth quarter, is that
+a signal that you're in a good place with your offshore delivery right-sizing? Thanks.
+<A - Martin J. Schroeter>: Thanks, Tien-Tsin. So a couple of comments and I'll disaggregate. I guess I'll talk about
+GTS and GBS separately. So first, we did – as we said in our prepared remarks, we finished with a very good backlog
+growth of 1% ex currency. Now that is $121 billion book of business. So even 1% growth is a lot of additional
+business. So we feel quite good about the backlog we're entering with.
+And even when we look at the signings progress throughout the year, for the full year, GTS, Global Technology
+Services, grew signings and GBS grew signings. And, in fact, GBS exited the fourth quarter with double-digit signings
+growth in the quarter. So very strong return to growth, which put them into growth for the year. So from a backlog
+perspective and from a relevance of our offerings perspective, I think those signings numbers suggest that there are
+substantial deals out there, there are deals that play well to our high value view, and our ability to move our clients into
+hybrid environments and our ability to continue to grow that backlog.
+From a margin perspective, in GTS, keep in mind that at a total GTS level we have very good margins, but we also
+have a Maintenance business in there which has a lot of margin within it. When you pull out the maintenance margin
+and just look at the SO business, we still see opportunities to expand margins in that area. And keep in mind with
+regard to work force rebalancing, while we didn't have a charge in the fourth quarter, we'll continue to remix our skills
+and we'll continue to move our work to where the global delivery centers can best do it. So that will not be necessarily
+a year-to-year impact in the first quarter, but we will continue to remix skills.
+And so as we bring on new contracts, as an example, and we've seen a lot of contract growth in Europe, we've seen a
+lot of contract growth in Asia, we do have an opportunity to continue to expand our margins as we globalize some of
+that work.
+Our movement of work into global delivery centers, it varies by geography and, quite frankly, it varies by country. In
+the U.S., we're in a pretty good spot here. But where we sign new contracts, obviously, we take on a lot of people and
+we've got to figure out how do we optimize those delivery platforms.
+And then in GBS, as we've talked about, we continue to work our way through a transformation toward higher value.
+And what we see from the margin perspective is that the work we're doing to digitize our client's front office, the work
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 11 of 16
+we're doing to provide a cognitive solution to our clients – which is just starting now to roll into our consulting results –
+that is all high-margin. And we see a lot of opportunity continue to generate those kinds of margins.
+In the work we're transitioning out of, that is pretty price competitive. And so we're seeing declining margins. But,
+more importantly, as we shift the resources and as we move those skills, there is a productivity hit to the overall
+business. So we're not relying on a dramatic snap back, if you will, of our GBS margins going into the year, but we do
+see a very good opportunity on the other side as we finish that transition.
+<A - Patricia Murphy>: Thanks, Tien-Tsin. Rowena, let's go to the next question, please.
+Operator
+Thank you. Our next question is from Brian White from Drexel. Sir, you may ask your question.
+<Q - Brian J. White>: Yeah. Martin, if we look at the different business segments in 2016, what businesses do you
+think have an opportunity to actually grow in constant currency? And what businesses have an opportunity to expand
+margins in 2016? Thanks.
+<A - Martin J. Schroeter>: Sure, Brian. Thanks. So a few comments. I think what we're going to see in 2016 is really
+the phenomena that we've been talking about now for a couple of years, which is our clients are investing heavily in
+these growing areas of cloud, of analytics, of mobile, social and security. And as you saw in the full year of 2015, we
+grew that 26%. Right now, it's 35% of our business. So our client discussions today are still built around that shift into
+those parts of the business.
+We'll also see a continued discussion around parts of our business where they're focused on us delivering productivity
+to them. Now productivity to our clients means reduced revenues for us, but that's the phenomena we've been in. And
+so when we look at 2016, I think we'll see a continuation of both of those.
+As you know, in 2015, we ended the year with a revenue base that was about 1% smaller than it was the prior year
+given those two dynamics, strong growth in the strategic imperatives and delivering productivity to our clients in the
+rest. So that trend is what we're going to see. Now the mix will obviously be different. The strategic imperatives are
+representing a larger part of the business than they did than where they started in 2015, but that trend will continue.
+On a segment-by-segment basis, GTS has grown now three quarters of the year and, as I said, with pretty good backlog
+growth; and we think that trajectory continues to hold. GBS improved in the fourth quarter relative to the third quarter,
+so a sequential improvement in its year-to-year growth rate. But we're not relying on that bouncing back rapidly as we
+know we're going through a transition there and we want to get through that transition as rapidly as possible. But
+having said that, about half of their business now is in strategic imperatives, but half isn't. So we're going to continue
+that transition.
+The Systems business will continue to see momentum – as I mentioned – in the Power business where the team has
+done a terrific job of repositioning the platform. But the mainframe's coming into the back half of the cycle, and so we
+won't see the same growth levels that we saw.
+And in Software, as I mentioned in response to the prior question, that transactional mix will not play as big a role in
+the first quarter as it did in the fourth quarter. And so obviously we'll see how we transition through the year, but
+bolstering that Software growth will also be some of the acquisitions.
+So I think the discussions with our clients as I started with – discussions with our clients are going to reflect these two
+halves of our business, which is discussions around moving to the future and the other discussion around helping them
+drive productivity.
+<A - Patricia Murphy>: Thanks, Brian. Can we go to the next question, please?
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 12 of 16
+Operator
+Sure, ma'am. Thank you. Our next question is from Steve Milunovich from UBS. Sir, you may ask your question.
+<Q - Steven M. Milunovich>: Great. Thank you. Could you talk a bit about free cash flow? You said free cash flow
+will follow profit. Does that literally mean you expect about $13.50 in free cash flow per share? I would think maybe
+not, given that you had a $3 billion positive swing on the cash taxes. So maybe you could go through cash taxes,
+pension, working capital, CapEx, some of the swing factors and where you think that will come out on free cash flow
+this year?
+<A - Martin J. Schroeter>: Sure. Sure, Steven. You're right, my remarks were not intended to say we're going to do
+$13.50 in free cash flow per share. That was not the intent. But what we do want to say is that our free cash flow
+performance in absolute terms will follow the profit performance. So a few comments.
+First, we did have a year-to-year reduction in our cash taxes. But keep in mind that in 2015 our cash tax rate and our
+book rate were pretty similar. And so the relationship you see in 2015 is the right relationship. Yes, year-to-year, there
+was a benefit, but that's because we had a very high cash tax rate in 2014.
+So the 2015 relationship, where we produced 98% of our GAAP net income was the realization for free cash flow, is
+the one we're talking about for 2016 as well. We see that relationship. Now within that, the guidance at least $13.50
+would translate to free cash flow kind of in the $11 billion to $12 billion range. And within that we have assumed some
+growth in CapEx for the year as we continue to drive our cloud platform and our investments in our Services business.
+The operational performance that's embedded within that obviously will have an impact. Then the rest – and I'll give
+you a few pluses and minuses here – the rest kind of translates to basically flat. So it really is the profit performance. So
+we'll have slightly higher income tax payments, as an example. We'll have a little bit of a less benefit of working
+capital. We have slightly lower pension payments. We have slightly lower work force rebalancing payments assumed.
+So you put all that together, and what I meant by free cash flow will follow profit is that free cash flow at $11 billion to
+$12 billion of free cash flow roughly translates to what we see in profit performance at that at least number. Bear in
+mind that as we talked about on profit, there is about $1.3 billion impact to profit year-to-year from currency. And
+while the dynamics are a little bit different in cash flow, that does translate roughly to the impact to free cash flow as
+well. So what you're seeing in here in our guidance, which was a big impact from currency, is also a big impact in free
+cash flow for next year.
+<A - Patricia Murphy>: Thanks, Steve. Rowena, can we go to the next question, please?
+Operator
+Thank you. Our next question is from David Grossman from Stifel Financial. You may ask your question, sir.
+<Q - David M. Grossman>: Thank you. So, Martin, if I read the press release right, it said that strategic imperatives
+decelerated to about 16% growth year-over-year in constant currency; and that's obviously down from where you were
+in the first three quarters. What were the primary components driving that deceleration? And what would be a
+reasonable target for growth in those strategic imperatives in 2016?
+<A - Martin J. Schroeter>: Sure. Thanks, David. So a couple of things. As we said, for the year, we had very good
+growth at $29 billion. What we saw in the quarter was about $1.7 billion sequential increase in strategic imperatives
+revenue, and that's better than it was first quarter to second quarter, better than second quarter to third quarter. So we
+did see kind of a typical seasonal sequential improvement in our strategic imperatives from third quarter to fourth
+quarter.
+When we talked about our strategic imperatives at Investor Day, we said they've been growing kind of in this uncanny
+rate of 18%, 18%, 19%, 19%, 19%, very steady over the last few years and we said that our model assumes that we will
+transition to those areas at a similar kind of rate. I think we had 15% to 19%. Think of it is high teens, if you will.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 13 of 16
+As we went through this year, and as we said at the beginning, the first quarter we've printed over 30% and as we said
+we're not relying on that throughout the year. So we finished the year on a full year basis now relative to that 15% to
+19% range, where we finished at 26% growth year-to-year. So we're ahead of what we expected. We're transitioning
+into those areas faster than we had expected back at Investor Day. And so we finished at 35% of the revenue streams.
+And again, in Investor Day, we said by 2018 we'd get to about 40% or at least 40%. We think we're in good shape to
+make it there. But the 26%, we're pleased with, because we're transitioning faster than we have over the last four years
+or five years. And again, it's on a higher base. So we're pleased with the progress we're making and continuing to grow
+the strategic imperatives.
+<A - Patricia Murphy>: Thanks, David. Can we go to the next question, please?
+Operator
+Thank you. Our next question is from Jim Schneider from Goldman Sachs. You may ask your question.
+<A - Martin J. Schroeter>: Jim, we can't hear you if you're on mute.
+<Q - James Edward Schneider>: Thanks for taking my question. Can you hear me now?
+<A - Martin J. Schroeter>: Yes.
+<A - Patricia Murphy>: We can.
+<Q - James Edward Schneider>: Okay, sorry. Just in terms of the software performance during the quarter, can you
+maybe talk about the impact and quantify the impact you saw from the ELA transactional weakness in Q4? And then
+can you maybe give us some kind of bracketing for 2016 about what impact you expect from ELAs to the extent you
+can see it going forward over the next couple of quarters?
+<A - Martin J. Schroeter>: Well, sure, Jim. So a few things. One, and I'm not saying you implied this, but ELAs, are
+enterprise license agreements for all of our listeners, ELAs, enterprise license agreements, are a very powerful way for
+our clients to consume our software. It gives them broad access to the portfolio we offer like our middleware platform,
+which is quite valuable to them as they think about their hybrid cloud environment.
+So we do more ELAs, more enterprise license agreements. We did more in 2015 than we did in 2014. We haven't seen
+a dramatic change in the length of time our clients commit to the platform for those. As I mentioned on an earlier
+question, our renewal rates for the subscription and support that underpins their deployment of those continues at very
+high rates. So the ELA structure is one that we think is, and our clients think is a terrific way to consume our portfolio.
+Now parts of our portfolio will continue to be consumed on an ELA basis. And as you saw us, maybe you saw us,
+earlier this year we moved parts of our middleware portfolio into our cloud business. That's really a reflection of the
+importance our middleware plays in these hybrid cloud environments. So some of that could start to get consumed in
+different models from ELAs that maybe they get consumed on a more individual basis, maybe they get consumed on an
+as-a-service basis, but the ELA construct remains quite powerful.
+As I noted earlier, the big difference we saw was in the breadth of the access that some of our clients have. And
+because they don't have the visibility they need to their demand environment or because they don't have visibility to the
+most immediate need they might have, they'll move around the deployment of those licenses into different areas. But
+again with our renewal rates staying high, we know that they're still consuming those. So the ELA construct, quite
+powerful. It's the right way, I think, for our clients to consume our software and the right way to give them flexibility to
+deploy it.
+<A - Patricia Murphy>: Thanks, Jim. Can we go to the next question, please?
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 14 of 16
+Operator
+Thank you. Our next question is from Lou Miscioscia from CLSA. You may now ask your question.
+<Q - Louis Miscioscia>: Thanks. Hey, Martin. Lou here. So just sticking on the software, if you go back to the second
+half of 2014 when the flexible pricing started to hit software growth in a meaningful way, then obviously you hit it all
+through 2015. When are we going to get to the grandfathering position where we can get past the flexible pricing,
+which I know that when we've talked about this before you've said that it was the right thing to do for the customer. But
+customers want everything for free, and I assume you're not trying to move to an open-source type of model. So I'm
+just wondering when we could get past it or what else you could do to try to get software growth in your most
+profitable area in the company?
+<A - Martin J. Schroeter>: Sure, Lou. So a couple of things that I'd say. First, this is the right thing to do to offer our
+clients flexibility as they try to get insights into their demand environments and as they try to deploy their projects. So
+it is absolutely the right thing to do. We felt that way when we started talking about it; and I think it's still the right
+thing to do. Again, what's important to us is that they commit to the platform, number one.
+Number two, that they are actually deploying the software. And we see that, as I mentioned, in our renewal rates, where
+as long as our renewal rates are staying high, we know they're using our software. So all of that is good for the model.
+And in the long-term, we think that we will benefit from all this.
+Now bolstering our software growth this year and our software performance this year will be some acquisitions we
+made. So those will certainly help as we go through the year. But, again, it's the right thing to do for our clients. And as
+we continue to move our software into a broader and broader ecosystem, we'll continue to see growth in those clients
+that don't have access to so much. So that will continue. But from an overall perspective, with the acquisitions, which
+will help a bit, and again our renewal rates staying high, over the long-term this is a terrific business for us.
+<A - Patricia Murphy>: Thanks, Lou. Can we go to the next question, please?
+Operator
+Thank you. Our next question is from Keith Bachman from Bank of Montreal. Sir, you may ask your question.
+<Q - Keith Frances Bachman>: Hi. Many thanks. I also wanted to focus on the software area. I think on the last call
+you mentioned that software-as-a-service was a small part of your existing portfolio; I think around 5% of revenues. As
+you think about 2016, could you address how you see the growth of as-a-service impacting your software, both revenue
+growth and profitability? And more specifically, I don't think we've gotten a specific answer on can you grow software
+in 2016 and will your margins be up, down or flat? Thank you.
+<A - Martin J. Schroeter>: Sure, Keith. So a few things. So our SaaS revenue overall, as a percentage of our total
+Software business, is still a fairly small percentage, but it is growing and is growing quite well. And we are always
+releasing new SaaS and acquiring new SaaS opportunities. So we see continued, very strong growth in our SaaS
+portfolio into 2016. Now it's small and so, relative to the total, it's not going to drive a ton at the top line. But over the
+long-term, this will be a good economic model for IBM.
+Additionally, the new businesses we're building have this strong SaaS component or as-a-service component to them.
+So Watson, for instance, is an as-a-service offering. Our new Watson Health business is built heavily on an as-a-service
+offering. And others as well are moving into – much more heavily weighted to as-a-service. So the as-a-service piece,
+which is part of our overall as-a-service exit run rate at 5.3, has pretty good growth in it.
+In terms of profitability, we talked in our prepared remarks about continued margin expansion in 2016. And part of
+that, quite frankly, is going to be driven by additional volumes on our as-a-service platform. That's both
+software-as-a-service, infrastructure-as-a-service and our platform-as-a-service, our Bluemix property. So as those
+revenues climb, we will see profitability and in fact margins expansion out of those – excuse me, as-a-service
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 15 of 16
+properties.
+Within SaaS specifically, our margins in software are quite high. While the move into a SaaS model is not accretive to
+margins in software, it's not a big impact; and it is accretive to margins in total IBM because we don't have a lot of
+these SaaS properties. So in 2016, we see margin improvements across our as-a-service properties; margins within
+SaaS specifically are accretive to IBM, and we see that continue in 2016.
+<A - Patricia Murphy>: Okay. Thanks. Rowena, can we please take one last question?
+Operator
+Yes, ma'am. Thank you. Our last question is from Amit Daryanani from RBC Capital Markets. Sir, you may ask your
+question.
+<Q - Amit Daryanani>: Thanks. Thanks for taking my question, guys. I guess, Martin, just on the strategic
+imperatives revenue, I assume that you guys have achieved a fair bit of scale I would imagine right now especially in
+analytics and cloud. To the extent you can talk about, what do you think the margin and the free cash flow profile of the
+strategic imperatives asset is versus overall IBM I think that would be helpful for people to understand. And then has
+the mix of strategic imperatives software service and the hardware changed a whole lot from the last [ph] Analyst Day
+that you guys (59:33) talked about it?
+<A - Martin J. Schroeter>: Sure, Amit. A few things. I'll answer the strategic imperative revenue part of your
+non-multi-part question first. So on strategic imperative revenue, I guess the margin profile of that for the bulk of that
+business, which is focused on again cloud, on our analytics business, for a lot of that it just looks like our existing
+margin profile. So where we're selling our hardware, where we're selling our software for our clients to build an
+analytic solution, or for them to build their own cloud, then the margin profile looks like IBMs. And as you know, IBM
+is a high-margin solution company.
+For the as-a-service component of that, the margins are a little bit lower than that. Now a lot of that is because we don't
+yet have the scale that we'd like; or said differently, we're investing very heavily in order to drive that platform into our
+clients' environments. And so we'll see margin improvement as we go into 2016 as we add more scale or take
+advantage, if you will, of the investments we've made.
+So in total, the strategic imperative revenue over time will not have a dramatically different margin profile than what
+we see today, again, because most of it has what is our margin profile today and the rest will continue to improve
+margins as our investment rates or as our revenue growth rates meet up and the capacity meets up with the investment
+rates.
+Relative to the mix, our software mix within our strategic imperatives is still at about twice as high as the rest, if you
+will, the rest of the business. So as you know, across services, hardware and software, if you look at the mix of those,
+the software piece in the strategic imperative is twice as high as what we see in the rest of the business. Now it's down a
+little bit year-to-year as we, in any given year or any given quarter, we have a different mix. We have certain programs
+that roll in. But it remains in total at about twice as high a mix as what we have in our core business. Thanks, Amit.
+Martin J. Schroeter
+So let me just wrap up the call with a couple of comments. First, and I think we've been clear about this, we manage
+our business for the long-term; and in 2015 we made a lot of progress, a lot of very good progress in transforming the
+IBM company. You see this not only in the growth rate in the strategic imperatives, but importantly you see it in the big
+steps we've taken to address some of these new opportunities. We had an opportunity last year to invest quite a bit of
+capital. We bought 14 companies. We will continue be acquisitive. So with the returns we're seeing on our investments,
+we are more and more encouraged that the strategy is right and that we're executing to transform IBM.
+Company Name: IBM
+Company Ticker: IBM US
+Date: 2016-01-19
+Event Description: Q4 2015 Earnings Call
+Market Cap: 124,280.81
+Current PX: 128.11
+YTD Change($): -9.51
+YTD Change(%): -6.910
+Bloomberg Estimates - EPS
+Current Quarter: 2.915
+Current Year: 14.762
+Bloomberg Estimates - Sales
+Current Quarter: 18673.286
+Current Year: 79228.636
+Page 16 of 16
+In 2016, we'll have our Investor Day in February. We're going to talk more about both the transformation of IBM; we're
+going to talk about how we present their information to the financial community to help understand IBM, particularly
+as we emerge as a cognitive solutions and cloud platform company. I think it's very important to understand what IBM
+is emerging as. And, again, we'll talk about that in our Investor Day.
+So thank you very much for joining the call today, and we'll see you in February.
+Operator
+Thank you for participating on today's call. The conference has now ended. You may disconnect at this time.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2016, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.

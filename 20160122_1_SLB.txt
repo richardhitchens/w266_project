@@ -1,0 +1,839 @@
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 1 of 15
+Q4 2015 Earnings Call
+Company Participants
+• Simon Farrant
+• Simon Ayat
+• Paal Kibsgaard
+Other Participants
+• Ole H. Slorer
+• James West
+• Angie M. Sedita
+• Kurt Hallead
+• Michael LaMotte
+• James Wicklund
+• William Andrew Herbert
+• J. David Anderson
+• William Sanchez
+• Daniel J. Boyd
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Schlumberger earnings conference call. At this time,
+all participants are in a listen-only mode. Later we will conduct a question-and-answer session. Instructions will be
+given at that time. [Operator Instructions] As a reminder, this conference is being recorded.
+I would now like to turn the conference over to your host, Vice President of Investor Relations, Mr. Simon Farrant.
+Please go ahead.
+Simon Farrant
+Thank you. Good morning and welcome to the Schlumberger Limited fourth quarter and full-year 2015 results
+conference call. Today's call is being hosted from Houston following the Schlumberger Limited board meeting
+yesterday.
+Joining us on the call are Paal Kibsgaard, Chairman and Chief Executive Officer; and Simon Ayat, Chief Financial
+Officer. Our prepared comments will be provided by Simon and Paal. Simon will first review the financial results, and
+then Paal will discuss the operational and technical highlights.
+However, before we begin with the opening remarks, I would like to remind the participants that some of the
+statements we will be making today are forward-looking. These matters involve risks and uncertainties that could cause
+our results to differ materially from those projected in these statements. I, therefore, refer you to our latest 10-K filings
+and other SEC filings.
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 2 of 15
+Our comments today may also include non-GAAP financial measures. Additional details and reconciliation to the most
+directly comparable GAAP financial measures can be found in our fourth quarter press release, which is on our
+website. We welcome your questions after the prepared statements.
+I'll now turn the call over to Simon.
+Simon Ayat
+Thank you, Simon. Ladies and gentlemen, thank you for participating in this conference call.
+Fourth quarter earnings per share, excluding charges and credits, was $0.65. This represents decreases of $0.13
+sequentially and $0.85 when compared to the same quarter last year.
+During the quarter, we recorded $2.1 billion of pre-tax charges. These charges are the direct result of the very
+challenging market conditions we are operating in and include severance, impairment and restructuring charges. The
+asset impairment charges largely relate to our North America business which, as you know, has been the hardest hit
+during this downturn. All of these charges are described in detail in our earnings press release.
+Our fourth quarter revenue of $7.7 billion decreased 9% sequentially. Approximately one-third of the revenue decline
+was attributable to pricing. Despite the very challenging environment both in terms of pricing and activity, pre-tax
+operating margins only declined by 132 basis points sequentially to 16.6%. This was due to continued strong and
+proactive cost management across the entire organization.
+Sequential highlights by product group were as follows. Fourth quarter Reservoir Characterization revenue of $2.2
+billion decreased 7% sequentially while margin decreased 230 basis points to 24.2%. These declines were due to
+decreases in exploration spending that largely impacted Wireline International. We also did not see the year-end surge
+in multi-client and software sales that we typically experience in Q4.
+Drilling Group revenue of $3 billion decreased 8%, primarily due to pricing pressure and activity declines
+internationally that have mostly affected Drilling & Measurement and M-I SWACO. As the result of strong cost
+management, Drilling Group margins only declined 173 basis points to 16.7%.
+Production Group revenue of $2.7 billion decreased 10%, primarily due to the continued decline in land activity and
+further pricing pressure in North America. Production Group margins were essentially flat at 11.3% as SPM projects
+and higher earnings from our investment in OneSubsea compensated for the effects of the lower activity and pricing
+pressure.
+Now turning to Schlumberger as a whole, the effective tax rate, excluding charges and credits, was 18.2% in the fourth
+quarter. This was lower than the previous quarter by about 2 percentage points. This decrease was largely due to the
+geographic mix of earnings between North America and the rest of the world, as well the favorable resolution of certain
+tax contingencies and an R&D credit during the quarter. Excluding the impact of Cameron, we expect the ETR in 2016
+to be around 20%. On a pro forma basis, we expect the combined company ETR to be in the low 20%s, although this
+would remain sensitive to the geographic mix of earnings.
+Our tax flow generation continues to be very strong. During all of 2015, we generated $8.8 billion of cash flow from
+operations. During the fourth quarter, we generated $2.2 billion of cash flow from operations. This is all despite making
+severance payments of approximately $800 million during 2015 and $200 million during the fourth quarter. In light of
+our strong tax flow generation, yesterday our board of directors approved a new $10 billion share buyback program.
+This new program will be effective once the remaining $1.4 billion of authorization under the current program is
+exhausted.
+During the quarter, our net debt deteriorated $343 million to $5.5 billion, as we continue to invest in future revenue
+streams. During the fourth quarter, we spent $627 million on CapEx and invested approximately $600 million in SPM
+projects and $150 million in multi-client projects. Full-year 2016 CapEx, excluding multi-client and SPM investments,
+is expected to be around $2.4 billion.
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 3 of 15
+During the quarter, we spent $398 million to repurchase 5.4 million shares at an average price of $73.86. This is despite
+being prohibited under the securities laws from repurchasing our shares for about one month prior to the Cameron
+shareholder vote.
+Let me take this opportunity to talk a little bit about the Cameron transaction. In order to ensure an efficient capital
+structure within the group, Schlumberger Holding Corporation, our principal U.S. subsidiary that we also refer to as
+SHC, is the legal entity that will acquire Cameron. SHC will acquire approximately 137 million shares of common
+stock from its parent and transfer these shares to Cameron shareholders. SHC will also take cash of approximately $2.8
+billion in connection with this transaction.
+During the fourth quarter, SHC issued $6 billion of notes. These notes have a weighted average interest rate of
+approximately 3.15% and have maturities ranging from 2017 to 2025. SHC will use the proceeds from this debt
+issuance to partially fund the purchase of the 137 million shares from the parent company.
+SHC will then use a combination of cash on hand and commercial paper borrowing to finance the difference between
+the proceeds received from the issuance of these notes and the cash required to complete the Cameron merger. As a
+result of this debt issuance, Schlumberger's pre-tax interest expense will increase approximately $40 million in Q1 as
+compared to Q4.
+As we close the Cameron transaction, we will begin to incur merger and integration-related costs. These will include
+transaction costs, the costs of the integration team, one-off purchase accounting adjustment as well as one-off costs to
+achieve the synergies. These amounts will be more significant in the quarter the transaction closes and the quarters
+immediately following the merger. We will separately call out these charges for you as are incurred.
+And now, I will turn the conference over to Paal.
+Paal Kibsgaard
+Thank you, Simon, and good morning, everyone. Negative market sentiments intensified in the fourth quarter with
+global overproduction of oil continuing, extending the various trends in global oil inventories and causing a further fall
+in oil prices which reached a 12-year low in December. The worsening market conditions added further pressure to the
+deep financial crisis throughout the oil and gas value chain and prompted operators to make further cuts to the already
+low E&P investment levels.
+For many of our customers, available cash and annual budgets were exhausted well before the halfway point of the
+fourth quarter, leading to unscheduled and abrupt activity cancellations, creating an operating environment that is
+increasingly complex to navigate and where the traditional year-end product and multi-client seismic sales were largely
+muted. As planned, we implemented another significant adjustment to our cost and resource base during the fourth
+quarter, including the release of 10,000 employees as well as further streamlining of our overhead, infrastructure, and
+asset base.
+In spite of these significant structural adjustments, our overall fourth quarter results were in some areas impacted by
+events that were either outside of our control or where we chose to maintain cost and resource levels, pending
+availability of additional customer budgets in the new year. However, as we exited the fourth quarter, I believe we had
+made the necessary adjustments to our cost and resource base and that we are well positioned to continue to deliver
+solid financial results in both the first quarter and throughout 2016, which will clearly be another very challenging year
+for our industry.
+Looking closer at our fourth quarter results, global revenue fell 9% sequentially, driven by a continuing decline in rig
+activity and persistent pricing pressure throughout our global operations, together with a broad range of activity
+disruptions, project delays, and cancellations. In North America, revenue was down 14% sequentially, which is in line
+with the reduction in the drilling rig count and driven by exhausted customer budgets and cash flows together with the
+extended holiday period.
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 4 of 15
+Our North American pre-tax operating margins remained very resilient at 7.1%, driven by proactive cost and resource
+management, excellent performance from our supply chain and distribution organization, strong execution, and new
+technology sales from our operations, all of which were further supported by our transformation program.
+On land in both the U.S. and Canada, the weakening activity resulted in additional commercial pressure for all product
+lines and in particular in pressure pumping, where pricing levels dropped further into unsustainable territory for both
+operating margins and cash flow. We also saw continued pricing pressure and activity reductions in the U.S. Gulf of
+Mexico, as the drilling rig count dropped by another 2% sequentially and where year-end multi-client seismic sales
+were largely muted.
+Turning to the international markets, revenue was 6% lower sequentially, as customer budget cuts, the start of the
+seasonal winter slowdown, and the absence of the traditional year-end product and multi-client seismic sales all
+impacted results. Our fourth quarter international operating margins dropped to 22%, driven by further pricing pressure
+and unfavorable revenue mix and a significant impact of activity disruptions, particularly in the Middle East and Asia.
+In Latin America, revenue declined 1% sequentially, with pre-tax operating margins improving by 229 basis points to
+23%. In terms of revenue, solid activity in Mexico and Ecuador was offset by further budget reductions in Colombia
+and Brazil, while the weakening of the peso had a negative impact on our fourth quarter revenue in Argentina. Margins
+remained resilient across the area, as the cost and resource base adjustments made during the previous quarter took full
+effect and as we continued to leverage our transformation program. This combination more than offset the persistent
+pricing pressure we saw throughout our customer base.
+In Europe, CIS and Africa, revenue fell 9% sequentially, while pre-tax operating margins dropped 138 basis points to
+20.8%. The drop in revenue was led by Russia and Central Asia, where a further weakening of the ruble, the start of the
+seasonal winter slowdown in Russia, and a noticeable reduction in activity throughout the Caspian region all impacted
+the results. In Europe, activity in Norway was resilient, but this was more than offset by a significant reduction in
+Continental Europe and the UK. While in Africa, solid activity in Nigeria and Algeria was not enough to offset the
+further weakening in Central and West Africa.
+In the Middle East and Asia, revenue declined by 5% sequentially while pre-tax operating margins decreased by 448
+basis points to 22.5%. The sequential drop in revenue was led by Asia, where we saw a general weakening in activity
+throughout the region, which was most pronounced in Malaysia and Australia, where projects ended and customer
+budgets were cut further. Fourth quarter revenue was also down in the Middle East, where solid activity in Kuwait and
+Iraq was more than offset by reductions in the rest of the region.
+In terms of operating margins, pricing pressure across the area was only partially offset by adjustments to our cost and
+resource base and where project cancellations, delayed startup of new projects, and activity disruptions due to 2015
+budget limitations all contributed to the sequential reduction in operating margins.
+Our fourth quarter results cap a year where we have faced the most severe industry downturn in 30 years but where we,
+through proactive management and strong execution, have shown that we can navigate the challenging operating
+environment better than most, and produced solid financial results while maintaining the bandwidth to pursue and
+capitalize on opportunities that strengthen the competitive position of the company.
+So as we prepare for another very challenging year, I would like to summarize what we have delivered in 2015, as this
+sets a very good benchmark for our expectations and ambitions for the year to come.
+Looking first at the top line, full-year revenue dropped by 27% in 2015, driven by a 39% drop in North America, where
+we have further strengthened our market position in spite of our decision not to pursue work that falls outside of our
+financial return requirements.
+Our international revenue fell by 21% in 2015, which is comparable to the drop in E&P investments. Included in this
+revenue drop is both the impact of our higher leverage towards the exploration, deepwater, and seismic markets, where
+E&P investments saw significantly higher reductions and also included the impact of a strong dollar against a number
+of foreign currencies. These revenue mix headwinds are fully absorbed in our results at this stage, which makes our
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 5 of 15
+international business a highly compressed coiled spring, which we will capitalize on when E&P investments and
+customer activity starts recovering.
+In addition to this, we have in the past year significantly increased our tender win rate, which further strengthens our
+very solid contracts portfolio and puts us in a great position to increase market share going forward.
+Looking at 2015 profitability, full-year global operating margins fell by only 342 basis points to 18.4%, as we
+maintained our wide margin lead in the international markets and as we now are also approaching a similar margin gap
+in North America. We have managed to protect our margins due to a very proactive approach to cost and resource
+management and by further accelerating our corporate transformation program. Together, these actions have delivered
+decremental margins of 31% in 2015, which is about half the level seen in previous downturns.
+Turning next to cash, our free cash flow in 2015 was about $5 billion, which represents net income conversion rate of
+114%. This includes CapEx of $2.4 billion, which is now down to 59% of D&A, in addition to investments of $1.4
+billion in future revenue streams in the areas of SPM and multi-client seismic. Our ability to generate free cash in this
+part of the cycle is unmatched in the oilfield services industry and gives us a unique ability to capitalize on the
+significant business opportunities that the current market conditions present.
+From our free cash flow, we have returned $4.6 billion of cash to our shareholders through $2.4 billion in dividend
+payments and $2.2 billion worth of stock buybacks. In addition to this, we have spent about $500 billion on M&A,
+where we continue to target smaller disruptive technology companies that we can integrate into our existing and future
+workloads and deploy through our extensive global organization. The strength of our free cash flow can also be seen
+from our net debt level, which has only increased by $160 million on a full-year basis, driven by the financial
+performance I have just described.
+With respect to the pending Cameron transaction, the integration plans are now largely completed and we are fully
+ready for day one. We still expect to close the transaction during the first quarter of 2016 and we have already received
+antitrust approvals from the U.S., Canada, Russia, and Brazil. The fact that we structured the deal to include 78% of
+stock provides us with the necessary insulation from the ongoing market turmoil and during the fourth quarter, we also
+secured the required financing for our U.S. entity that will make the acquisition.
+Turning next to people, we have in the past year unfortunately had to release more than 34,000 employees, which
+represents an unprecedented number for the company, and where we all have been impacted as we are going through
+the disheartening process of letting colleagues and friends go in all parts of the company. I am at this stage optimistic
+that we have completed the workforce reductions required in this downturn and I look forward to being able to shed
+focus throughout our organization from the negative sentiments of the past year towards a brighter future as we work
+through the remaining challenges of this downturn.
+In terms of R&D, we did reduce investment levels in 2015, but we were still able to protect our capabilities and ensure
+the progress of all our key projects. In the past year, we made solid advances on several new technology fronts through
+a combination of organic and inorganic efforts, and we look forward to update you further on this in our external
+communications in the coming year.
+And lastly, in 2015 we significantly accelerated our corporate transformation program, stepping up both investment
+levels and the detailed engagement of our global organization. As part of this, we prepared a comprehensive and
+granular three-year transformation plan covering each of our 600 business units with specific deliverables and business
+impact goals set at all levels in our organization. In parallel with this, we have delivered noticeable cost savings and
+efficiency gains that can be seen in our 2016 financial results, together with a 23% reduction in our customer NPT
+rates, which is a largest annual improvement we have ever achieved.
+In summary, while 2015 has been an extremely challenging year for the industry and for Schlumberger, we have clearly
+demonstrated our ability to navigate the complex landscape and capitalize on the opportunities the current business
+environment presents, and we are fully prepared to repeat these efforts and achievements in 2016. So while we all look
+forward to a recovery in the oil price and the market conditions in our industry, it is evident that the longer the current
+market environment continues, the stronger we will emerge as a company relative to our competitors when the upturn
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 6 of 15
+ultimately comes.
+Turning next to the market outlook, we still believe that the underlying balance of supply and demand continues to
+tighten, driven by both solid growth in demand and by weakening supply as the dramatic cuts in E&P investments are
+starting to take effect. In North America, shale oil production is declining more or less as we expected and was in
+December below the levels from one year ago.
+The apparent resilience in production outside of OPEC and North America is in many cases driven by producers
+opening the taps wide open to maximize cash flow, which also means that we will likely see higher decline rates after
+these short-term actions are exhausted. So while the global oil market is still being weighed down by fears of reduced
+growth in Chinese demand, the magnitude of additional Iranian exports and the continued various trends in global oil
+inventories, we still expect a positive movement in oil prices during 2016, with specific timing being a function of the
+shape of the non-OPEC decline rates. This means that the market outlook for oilfield services in the coming quarters
+will remain challenging, as the pressure on activity and service pricing is set to continue. It also means that 2016 E&P
+investment levels will fall for a second successive year and that any significant recovery in our activity levels will be a
+2017 event.
+Still at Schlumberger, we remain confident in our ability to weather this downturn much better than our surroundings,
+and through our global reach, the strength of our technology offering and our corporate transformation program, we are
+currently creating a considerable leverage that will enable us to increase revenue market share, deliver superior
+earnings and margins, and continue to generate unmatched levels of free cash flow.
+Thank you very much. We will now open up for questions.
+Q&A
+Operator
+Okay. [Operator Instructions] Your first question comes from the line of Ole Slorer from Morgan Stanley. Please go
+ahead.
+<Q - Ole H. Slorer>: Thank you very much and congrats with another relatively great year with free cash flow and
+solid performance.
+<A - Paal Kibsgaard>: Thank you, Ole.
+<A - Simon Ayat>: Thanks.
+<Q - Ole H. Slorer>: When it comes to the macro outlook that you just painted, how should we think about the overall
+oilfield macro cycle, and relative to the internal momentum that you're creating within Schlumberger with respect to
+the ongoing transformation process, I presume that a lot of the lowest-hanging fruit has been picked on transformation
+process, so if you could just bring us up to speed about how we should think about earnings projections over the next
+couple of quarters, several quarters, with respect to those two kind of factors?
+<A - Paal Kibsgaard>: If you look at our earnings trajectory in the coming quarters, it is obviously largely going to be
+driven by what continues to happen in the market around us in terms of spend from our customers. But if you look at
+our ability to, I would say, counter the significant pricing pressure as well as the activity reductions, the transformation
+is indeed playing a significant role.
+I think it's fair to say, like you say, that a lot of the low-hanging fruit we have already picked. But we are now getting
+into the deeper part of the transformation where we are making significant structural changes to how we go about doing
+our work and conducting our business. And this is basically laid out in the three-year plan that we worked on in 2015,
+which is going to take us from 2016 all the way out to 2018. And here we have broken down all the initiatives into
+specific actions and plans and targets for all the various business units we have around the world. And I think with this
+I would say formalized way of driving performance, I think we should look to put even more impact into our results in
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 7 of 15
+the coming three years than what you've seen in the previous years.
+<Q - Ole H. Slorer>: Okay, I'll take that. With respect to the free cash flow that you generated and clearly having a
+strong balance sheet today is, I would imagine, worth an awful lot when it comes to the bargaining power that you have
+around the world. So how should we think about the opportunity around generating that or putting that to work as
+internal CapEx versus SPM, which I saw you just picked up a bit now again in the fourth quarter and versus
+acquisitions?
+<A - Paal Kibsgaard>: First of all, we continue to have a very strong focus on generating the cash. And I think 2015
+was another solid year. It was not perfect. There were several things that I think we could have done better, but $5
+billion of free cash flow in this environment is not bad. Now, how we go about spending the cash, there's really no
+change to the philosophy that we've had in any part of the cycle. The first thing we look to is to reinvest into the
+business and that is CapEx for the service and product segments that we have.
+In 2016, we are going to keep CapEx flat with 2015, and that you may ask why. If you look at the base business, it is
+indeed coming down but we have certain new activities that we are looking to invest into, in particular the land drilling
+market for the regular future, and there's a few other strategic investments that we are looking to make when it comes
+to our internal CapEx.
+In addition to this, we continue to invest in future revenue streams, both multi-client seismic where we have a
+significant program going on in Mexico, and at this stage of the cycle there are also significant SPM opportunities and
+we have really stepped up our efforts in screening and evaluating these opportunities, and we will capitalize on them
+when they need our internal requirements.
+Beyond this, we review dividends annually. We are not increasing dividends this year and then beyond that, for the
+coming year, it's going to be a balancing of the opportunities we have on M&A and the opportunities we have to buy
+back our stock. That is how we are planning to spend the cash. Simon, you want to add something?
+<A - Simon Ayat>: No, I think you've summarized it very well. I guess 2016 is going to be marked by the big event of
+integrating Cameron and there is a lot of transaction as I described. We borrowed $6 billion and we will be paying for
+the acquisition. We're also issuing shares but we have the $10 billion in new programs that we will commence as soon
+as we exhaust the previous one.
+<Q - Ole H. Slorer>: Thank you very much.
+Operator
+Your next question comes from the line of James West from Evercore. Please go ahead.
+<Q - James West>: Hey, good morning, Paal.
+<A - Paal Kibsgaard>: Good morning.
+<Q - James West>: And congratulations also on just excellent execution really all year for you and your management
+team and all your employees, especially in the fourth quarter.
+<A - Paal Kibsgaard>: Thank you very much.
+<Q - James West>: I wanted to follow up a little bit on what you were talking about there in the second part of Ole's
+question about really the SPM business. It seems – I did notice the pickup in the fourth quarter that's probably project
+timing, but at this point, are you chasing more projects? Are you getting more inbounds? And you talked a little bit
+about or you mentioned that your screening process had been updated or upgraded. Could you talk a little bit more
+about that and how you see this plan out over the next couple of quarters, couple of years?
+<A - Paal Kibsgaard>: Yeah, we are seeing significantly more SPM opportunities at this stage of the cycle given our
+ability to generate cash and given the status of our balance sheet. So we haven't changed our screening process, but we
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 8 of 15
+have put more resources into it so we can process more of these opportunities, and we are prepared to step up our
+investments in SPM.
+As you noted, there was a step-up in Q4, and it might not be at that level every quarter going forward, but I would say
+that going into 2016, SPM is an area that we are interested in investing further in. It provides us with solid long-term
+contracts. It provides us with the ability to deploy our entire capability set and generate good returns and good cash for
+the company, so it's a very interesting opportunity set for us that we are actively pursuing.
+<Q - James West>: Okay. And then maybe another follow-up. The press release was littered with technology success
+stories. And it seems like the technology adoption rate has picked up significantly during the downturn. I know you've
+given out numbers before on sales – percentage of sales on new technologies. Could you give us an update there on
+what you're seeing on the adoption rate and if that percentage has improved?
+<A - Paal Kibsgaard>: During this downturn, the level of new technology sales, which is basically technologies that
+we have commercialized in the past five years, is at a significantly higher level than what we've seen in previous
+downturns. The new technology sales as a percentage of total revenue in 2015 is 24%, which is markedly higher than
+what we saw in the previous downturn in 2008 – 2009. This is partly down to the broad range of technologies that we
+have and the fact that a number of them are focused on driving, I would say, cost and efficiency for our customers. And
+these type of technologies are as valid in terms of being bought and being operated during the downturn as they are in
+the upturn. So strong sales, and we continued to commercialize new technologies during 2015. So this obviously has
+had a very good impact on our financial performance in the past year, and I expect it to continue to do that in the year
+to come.
+<Q - James West>: Perfect. Thanks, Paal.
+<A - Paal Kibsgaard>: Thank you.
+Operator
+Your next question comes from the line of Angie Sedita from UBS. Please go ahead.
+<Q - Angie M. Sedita>: Thanks. Good morning, guys.
+<A - Paal Kibsgaard>: Good morning.
+<Q - Angie M. Sedita>: I echo the sentiment of a very solid quarter for the quarter and for the year given business
+conditions, so well done. Maybe, Paal, we can go a little bit more granular on thoughts. And obviously 2016 is a
+question mark, but thoughts into Q1 on a geomarket basis, and walk us through where you're thinking on the revenue
+and margin side, if you will.
+<A - Paal Kibsgaard>: I'm not going to review detail by area, Angie. What I think we're going to do – if you're
+looking for an indication of what we plan for and how we see Q1 shaping up, it's going to be another very challenging
+quarter, both from an activity and a pricing standpoint. The recent new lows in oil prices is going to be reflected in
+lower rig count and more activity disruptions, we believe. This is going to be continued budget pressure throughout the
+first half from all customer groups, where they now have to operate within cash flow. In addition, we're going to see the
+winter slowdown in the Northern Hemisphere in Q1, which is going to be another activity headwind.
+So I would say that rather than going into margins and revenue, if we focus in on EPS, I would say that the current Q1
+EPS consensus is probably a best case scenario from what we can see today in terms of Q1 earnings.
+<Q - Angie M. Sedita>: Okay, that's helpful. And then on Cameron, I know there's only so much you can say at this
+point, but if you have any further color you can talk about on the opportunity set within Cameron as you move forward,
+but also talk us through or walk us through the integration of Cameron within Schlumberger, both operationally and
+how it will show up in the financials.
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 9 of 15
+<A - Paal Kibsgaard>: Right, so on the status of the integration, we are largely ready with our integration plans.
+We've had a sizable team made up of both Cameron and Schlumberger employees working diligently on preparing
+these plans since we announced the transaction back in August. We reviewed all the plans in December and they have
+been approved, and we are basically ready for day one at this stage. Closing is now basically pending a few more
+countries in terms of antitrust approvals, and we do expect that we will close during the first quarter.
+In terms of synergies, the detail work that we've done has really confirmed the numbers that we put up at the
+announcement. Lots of opportunities, which initially are going to be cost focused. But this transaction is largely a
+revenue transaction, and we are very excited about what we can do by joining the R&D forces of the two companies
+and creating the integrated drilling and production systems that we have laid out earlier.
+In terms of integrating Cameron as an organization, it will actually be a fairly simple task because Cameron as it is
+today will become the fourth product group of Schlumberger, together with Characterization, Drilling, and Production.
+And Scott Rowe, the CEO of Cameron, is going to join us and continue to head up Cameron in its present form. So the
+main thing we will focus in on in terms of integration initially is going to be to coordinate the customer interface and to
+streamline the back office and also then morph or merge over time the R&D organization. So it is a relatively simple
+integration, because Cameron will slide in, in its present form into Schlumberger as a fourth group.
+<Q - Angie M. Sedita>: Great, fair enough. Thanks, I'll turn it over.
+Operator
+Your next question comes from the line of Kurt Hallead from RBC Capital Markets. Please go ahead.
+<Q - Kurt Hallead>: Hey, good morning.
+<A - Paal Kibsgaard>: Good morning.
+<Q - Kurt Hallead>: Good morning. I just had a couple of quick follow-up questions and some discussions with
+investors around the SPM dynamic, and in that context, Paal, just given the decline in oil prices year to date and the
+write-down on the project in Colombia, there are some questions out there just relating to potential incremental risk
+around existing SPM projects. And maybe you could put that into the context of maybe how you assess risk on varying
+projects and maybe how you look at it from a portfolio approach.
+<A - Paal Kibsgaard>: Right, so if you want to, let's start off with the write-down we did in Colombia, which is really
+an isolated event. This is a project that's been going on there between 10 and 15 years. We're in the later years of the
+project, and it's really the only project at this stage in our portfolio that has our compensation directly linked to the oil
+price. So with only a few years left and the oil price being at a very low level, this is what caused the impairment of the
+remaining balance we have.
+If you look at the rest of the portfolio and the new contracts that we've entered into in recent years, these are all
+fee-per-barrel type of contracts, where obviously the project economics are linked to the oil price, but where our
+compensation is basically an isolated fee-per-barrel setup. So as with any of these projects, they do carry a higher risk
+than what our base business does. But we are, I would say, very comfortable with being able to, I would say, identify
+and manage these risks. And with the screening process we have with the internal approval process that we have, I'm
+very comfortable with the setup we have in terms of the projects that we take on and that these all will generate very
+good returns for the company. And I would also say that the project in Colombia overall provided also very good
+returns and good cash flow throughout the life of the project.
+<Q - Kurt Hallead>: Right, that's great color. Then maybe if I could follow up just on the margin front, if I understand
+correctly, you guys are trying to manage your business such that you can maintain a 20% margin maybe internationally
+here at the trough and maybe 5% in the North American market. I know a lot of that is being driven by your
+transformation process. Given the drop that we've had recently in oil price and the impact that will have on E&P spend
+drop in 2016, how much harder do you think it's going to be to maybe maintain those targets?
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 10 of 15
+<A - Paal Kibsgaard>: Obviously, fighting the margin pressure with both dramatic reductions in activity and
+significant pricing pressure is tough. We have the added tool in our toolkit, which is the transformation, on top of a
+very, very solid management team that is excellent at executing. But it's tough to maintain margins at the levels that we
+currently see. I'm very pleased with how the North America team has managed and navigated in the past year, and
+7.1% in Q4, I think, is excellent. It's going to be tough to continue to keep it at these levels, but with the energy and the
+focus our team on the ground in North America has, I'm optimistic that we will continue to significantly outperform the
+rest of the field there.
+If you look at the international margins, they are actually holding up reasonably well. We are now six quarters into the
+downturn internationally and we are only 253 basis points down, which is basically half what we saw in 2009 in the last
+downturn, but it's a very dynamic environment and there's always going to be quarterly variations driven by unplanned
+events. And if you look at land for an example, we had a big drop in Q3 and we managed to close that back in Q4 as
+some of the actions that we put in place in the third quarter took full effect.
+Now in Q4, we did see a significant impact on our MEA margins and part of this is pricing and part of it is permanent
+activity reduction, but there is also a significant part which is temporary, which is down to delays and stoppages. And if
+you look at the team we have on the ground, they have a long list of actions in place to address what they can in order
+to offset some of these margin headwinds. So I can't promise you that we're going to get all the margins back in MEA,
+but I would say that the MEA team is clearly unhappy having been surpassed by the LAM team as the most profitable
+area, so I really look forward to the internal competition between these two.
+<Q - Kurt Hallead>: That's great color. Thanks a lot, Paal.
+<A - Paal Kibsgaard>: Thanks.
+Operator
+Your next question comes from the line of Michael LaMotte from Guggenheim. Please go ahead. Michael, your line is
+open. Check your mute button.
+<Q - Michael LaMotte>: Great, thank you. Good morning, guys.
+<A - Paal Kibsgaard>: Good morning.
+<A - Simon Ayat>: Good morning.
+<Q - Michael LaMotte>: Paal, you mentioned a couple of times the three-year transformation plan and I imagine
+you'll go into more detail in April, but can you just broad-stroke the key categories that were identified as new areas of
+opportunity in the three-year plan?
+<A - Paal Kibsgaard>: There are no new areas that we have identified. What we're doing with the three-year plan is
+that in the past couple of years, there has been a lot of work done in the central theme, formulate the detailed concepts
+and principles of how we want to change – how we operate our business. And these initiatives and these concepts are
+all now fully mature and they come together with the change management process that we have also put a lot of effort
+into designing. And what we're doing with the three-year plan is basically formalizing how each of these initiatives will
+now be translated into actions and results throughout the global organization.
+So in the past couple of years, we have been pursuing the low-hanging fruit. We are now going into the structural
+changes of our business that would also provide an additional set of savings and improvements in the years to come.
+But the focus is around asset and inventory management, it's maintenance and repairs, transportation distribution,
+supply chain, back office, quality assurance. It's all the things that we've talked about in previous years, but it's now
+being formalized and itemized down to the business unit levels. We have around 600 business units down to the
+country level, and they all now have specific actions and targets on each of these line items to implement the changes
+that we have been preparing centrally for the past few years.
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 11 of 15
+<Q - Michael LaMotte>: Okay, and as we think about the financial impact, is order of magnitude similar to the
+low-hanging fruit? It's just the timing in terms of the flow-through of the impact may take a little longer? How do we
+think about the implications on the financials?
+<A - Paal Kibsgaard>: Well, I would say the impact of the transformation going forward will at least be as big as it's
+been in previous years and probably even higher in the years to come as we really start changing fundamental parts of
+how we conduct business, right? So this is not decreasing. I would say it's stable to increasing in terms of impact going
+forward.
+<Q - Michael LaMotte>: Okay. So low-hanging fruit doesn't mean expect less going forward. That's [indiscernible]
+(45:14).
+<A - Paal Kibsgaard>: No, absolutely not.
+<Q - Michael LaMotte>: Great. Great, all right. Thanks, I'll turn it back.
+<A - Paal Kibsgaard>: Thank you.
+Operator
+Your next question comes from the line of Jim Wicklund from Credit Suisse. Please go ahead.
+<Q - James Wicklund>: Good morning, guys.
+<A - Paal Kibsgaard>: Good morning, Jim.
+<Q - James Wicklund>: Obviously the Cameron-Schlumberger-OneSubsea JV has been a big success that led to
+marriage and now you're doing an MoU with Golar and looking at gas monetization solutions. Can you talk about how
+far the breadth – how far this takes you, the Schlumberger Octopus grabs another segment of business? Can you talk a
+little bit about where this should go and why you did it?
+<A - Paal Kibsgaard>: This is an MoU where we had good discussions about the concepts of how we can combine
+some of our capabilities and efforts with the capabilities that Golar has and this is something that we will continue to
+work with them going forward. It is an interesting, I would say, combination and I don't have a lot of comments beyond
+this at this stage other than that it is a partnership that we are looking to establish and to grow going forward.
+<Q - James Wicklund>: Okay. And just again, breadth you've got now subsea, you've got equipment, you're doing gas
+monetization. Kurt and James asked about the SPM business. You had said before in previous conference calls that
+you'd embrace a number of different business models. Is this the fruition of those kind of statements?
+<A - Paal Kibsgaard>: I would say it is. But with all of this, it doesn't change the fact that the main part of our
+business is, I would say, oilfield services and products and equipment. So we will continue to focus on leading each
+individual market that we participate in for individual products and services, but with the integration capabilities and
+with the ability we have to pursue different type of business models, we are also looking to combine all of these things,
+like you indicate, Jim, to create more business opportunities for the company. So we are not pursuing only these. We
+have a huge focus on making sure that we stand out and we continue to drive performance in the base business, but
+when you combine all of these things, there is a broad range of opportunities for us that we're also pursuing.
+<Q - James Wicklund>: That's very helpful. And my follow-up, if I could, are we willing to take the chance and say
+that 2016 could be the bottom of the cycle or do you guys think today that 2017 will be worse than 2016?
+<A - Paal Kibsgaard>: Well, I think it's too early to say, Jim, but I don't currently think that 2017 is going to be worse.
+But with that said, I'm still not ready to say that we are troughing in 2016. We're focusing in on executing basically
+quarter-by-quarter. I'm still optimistic and I would hope that 2016 is the trough, but I'm not ready to rule on it yet.
+<Q - James Wicklund>: We'll keep our fingers crossed as well. Thanks, sir, very much.
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 12 of 15
+<A - Paal Kibsgaard>: Thank you.
+Operator
+Your next question comes from the line of Bill Herbert from Simmons & Company. Please go ahead.
+<Q - William Andrew Herbert>: Thank you, good morning.
+<A - Paal Kibsgaard>: Good morning.
+<Q - William Andrew Herbert>: Back to SPM, I'm curious with regard to the projects that you're seeing. Is there any
+change with regard to the kind of projects that you're seeing now on a leading-edge basis, more offshore versus
+onshore? And then moreover, with regard to as you evaluate these projects recognizing they're fee-per-barrel on the one
+hand, there must be an embedded oil price assumed as you're looking at these projects in terms of threshold oil prices
+required for the NSC to commit capital if it is an NSC partner on these. So can you talk about the mix of projects, how
+it's changed and embedded oil prices associated with the capital allocation?
+<A - Paal Kibsgaard>: Right. So on the projects, there is no shift in what the projects are. We are looking at a certain
+set of projects. These are relatively small compared to what our customers would be interested in. And they are
+generally late-life fields where we can come in and try to change the decline curve and add reserves and production to
+the field in late life. We are generally focused on land and the only thing I would say is that the opportunity set has
+increased, there are more customers that are coming to us now that have these type of fields and are interested in doing
+these type of business models with us. So there is not a dramatic shift in the type of assets that we're looking at, but it's
+generally just more of them.
+And for the fields that we enter into contracts on, obviously we will have to look at the total economics of the field for
+the lifetime of the contract, which is generally, I would say, at least 15 years. So in that, it's obviously important that
+the total project is economical, and then the way we set up our contract is today generally on the fee-per-barrel, where
+we are, I would say, insulated against variations in oil price. That being said, if it goes down, we don't get hit at all, but
+again, we are leading the upside to our customers if oil prices are higher than what is in the assumptions. So we have a
+very, I would say, solid process of evaluating this, and like I said earlier in the call, we are actively pursuing these type
+of contracts where we can get the terms that we want contractually and where we are satisfied that the reservoir holds
+the upside both in production and reserves.
+<Q - William Andrew Herbert>: Okay. And another one for me. Sort of an extension of Jim's question in terms of
+testing the boundaries as to how broad – how plausibly broad your business model extends to, and that is, are you
+contemplating or evaluating anything on the clean technology front?
+<A - Paal Kibsgaard>: No, not at this stage. I mean we continue to – I mean if you look at minimizing the
+environmental impact of what we do as a company and our carbon footprint, absolutely. We have several programs in
+place, both in terms of how we conduct business as well as how we develop new technologies on this. But in terms of
+venturing outside of our current base, which is oilfield services, there's no plans of doing that at this stage.
+<Q - William Andrew Herbert>: Okay, thank you.
+<A - Paal Kibsgaard>: Thank you.
+Operator
+Your next question comes from the line of David Anderson from Barclays. Please go ahead.
+<Q - J. David Anderson>: Great, thank you. Question on kind of your Middle East, Asia-Pac business. Obviously,
+margins came down a good bit this quarter, a lot going on behind the scenes. I was wondering if you could help me sort
+out some of the dynamics behind there. You talked about some activity disruptions in the Middle East, this pricing
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 13 of 15
+going on. Asia-Pac is also probably down, probably also getting hit pretty hard as well. Can you help us understand
+some of those and how much of this one-time you think on the quarter?
+<A - Paal Kibsgaard>: I tried to answer that earlier, David, on the call. And I would just say that yes, MEA margins
+dropped a fair bit in Q4, but there are variations in terms of operations, of activity, that you will basically get some
+variations in the margins going forward. I gave LAM as the example.
+Now, there is significant pricing pressure. There is lower activity in parts of MEA, but there are also some temporary
+aspects of what happened in the quarter, with delays of big projects in terms of the startup, where we had significant
+resources standing by. And there were also some customers that stopped activity during the quarter because they were
+running out of annual budgets. And these budgets are going to be replenished now in January, in which case we
+decided to carry the cost and the resources. So I cannot promise you that we will regain all the losses in Q4 in terms of
+margins, but lots of actions in place to try to repeat what we've done in LAM over the course of 2015.
+<Q - J. David Anderson>: Those operational disruptions, do you think a lot of those are going to come back in the
+first quarter?
+<A - Paal Kibsgaard>: Some of them will, yes, and we know which ones they are, and those are the ones we carry the
+resources for. And for the ones that aren't, we also know what they are, in which case we have been cutting the
+resources.
+<Q - J. David Anderson>: And then on the pricing concessions part you've been talking about and you talked about
+last quarter as well, is this on new work that's being tendered, or is this pricing concessions on existing contracts?
+<A - Paal Kibsgaard>: It's a combination. When you tender for new work, you will need to assess what the going rate
+in the market is. And in some cases you get the opportunity to hang on to the existing contracts or even extend them,
+provided there are some concessions given. So this is a combination.
+<Q - J. David Anderson>: Okay, and with the transformation, does the transformation you think offset pricing over
+time, largely?
+<A - Paal Kibsgaard>: If you look at internationally in 2015, we have managed to offset internationally quite a lot of
+it. Can we do all of it? That's probably going to be tough. But it is a significant counter to the pricing pressure that
+we're seeing, yes.
+<Q - J. David Anderson>: Great, thank you.
+<A - Paal Kibsgaard>: Thank you.
+Operator
+Your next question comes from the line of Bill Sanchez from Howard Weil. Please go ahead.
+<Q - William Sanchez>: Thanks, good morning.
+<A - Paal Kibsgaard>: Good morning.
+<Q - William Sanchez>: Paal, I was hoping before we ended the call that perhaps you could just speak generally about
+customer expectations internationally in terms of CapEx for 2016. Do you guys have a bottoms-up view yet at this
+point in terms of the size of the decline we could see as we try to think about calibrating your overall top line
+international revenue declines potentially for 2016?
+<A - Paal Kibsgaard>: If you look at 2015, international spend was down about 20%, and then there's a range of
+surveys out now from third parties. And you average a consensus from these surveys, it's about, I would say, more than
+a 10% reduction in international spend. So if you go by these, then yes, it will be another challenging year. But also, I
+think when we look at full-year numbers, I think it's also important to keep in mind the five or six-quarter slide we have
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 14 of 15
+seen now in international E&P spend, where we have had a significant drop in our revenue from Q4 of 2014 to Q4 of
+this year and into Q1 of 2016.
+So while the year-over-year numbers for full year matters, I think it's also important to look at the quarter levels we
+have now, which is obviously significant down. And actually, if you do the Q1 revenue consensus for us, based on
+what you guys as analysts have done, four times that is already 17% down overall in revenue for us. So in that sense,
+the current level of activity in spend is already way down on a full-year basis going forward.
+<Q - William Sanchez>: Okay, thanks for that. I guess, Simon, one for you. Given the pending Cameron acquisition
+here in first quarter, is there any blackout period on Schlumberger being able to buy back stock as we approach that
+close?
+<A - Simon Ayat>: No, none. Actually, after the blackout because of the earnings which is just in a couple days, we
+will be free to go back to the market. No, none, Bill.
+<Q - William Sanchez>: Okay, I'll turn it back. Thanks for the time.
+<A - Paal Kibsgaard>: Thank you.
+Operator
+And your final question today comes from the line of Dan Boyd from BMO Capital Markets. Please go ahead.
+<Q - Daniel J. Boyd>: Hey, thanks, guys. I have a question for Simon, and more on the currency side as continuing
+there. It looks like you've done a really good job so far this year on managing the currency risk, so I'd just like to
+understand. How do you manage the currency risk in SPM projects, especially as you ramp those? And then if you
+could, just help us. You quantified the revenue impact from currency this year. Can you help us with the international
+margin impact from how well you manage the currency?
+<A - Simon Ayat>: Okay, thanks, last question. But let me just take overall the currency situation. As far as our
+international operation, overall we have a natural hedge, which what it means is basically we match the revenue that we
+get in local currency. It is in line with our local costs in local currencies. It varies between jurisdictions. So in some
+areas, we lose a bit on the currency but then gains in other places compensate for it.
+In 2015, you've seen the numbers. We've lost a lot of revenue because of currency. Almost 20% of the reduction of
+revenue between 2014 to 2015 was currency, but actually did not impact the margin significantly. So it is all
+international, yes. There is a bit of Canada, but the rest is outside NAM. And we manage it, as I said, it is natural
+hedge. We prevent ourselves from taking more local currency than we consume locally for local cost.
+As far as SPM is concerned, normally most of our SPM projects actually are dollar-based revenue-wise, and those that
+have local currency, they will basically reflect the same policy that I just mentioned to you, that we don't take more
+than what we locally require for our cost and the third party that it is also bigger in SPM project. So naturally, we are
+naturally hedged. Is that good?
+<Q - Daniel J. Boyd>: Yes, so that are you saying that your margins didn't benefit from the currency? If your EBIT
+held up this year, you could have a few hundred basis point benefit in your margin. Is that accurate?
+<A - Simon Ayat>: No, look, the currency, the big impact of the currency this last year was one, because of Venezuela
+because we changed the currency rate, but otherwise did not impact us on the margins.
+<Q - Daniel J. Boyd>: Okay, thank you.
+<A - Simon Ayat>: I'll turn it over to Paal now.
+Paal Kibsgaard
+Company Name: Schlumberger
+Company Ticker: SLB US
+Date: 2016-01-22
+Event Description: Q4 2015 Earnings Call
+Market Cap: 82,072.63
+Current PX: 65.08
+YTD Change($): -4.67
+YTD Change(%): -6.695
+Bloomberg Estimates - EPS
+Current Quarter: 0.547
+Current Year: 2.410
+Bloomberg Estimates - Sales
+Current Quarter: 7498.304
+Current Year: 31561.455
+Page 15 of 15
+Thank you, Simon.
+So before we close this morning, I'd just like to summarize the three most important points that we have discussed.
+First, the business environment in the oil industry weakened further in the fourth quarter leading to additional
+reductions in both activity and pricing levels and making 2015 the worst industry downturn since 1986. In spite of this,
+we delivered strong full-year performance compared to previous downturns, generating $5 billion in free cash flow and
+returning $4.6 billion in cash to our shareholders through dividends and buybacks. In addition, we spent $500 million
+on technology acquisitions that further broadened our portfolio and yet we increased our net debt by only $160 million.
+Second, 2016 will be another challenging year, during which we will aim to continue to deliver superior financial
+results in parallel with pursuing and capitalizing on the broad opportunity set the current market environment presents.
+We remain constructive in our view on the market outlook for the medium term and continue to believe that the
+underlying balance of supply and demand is tightening, driven by growth in demand, weakening supply as the massive
+cuts in E&P measurements take further effect and by the size of the annual supply replacement challenge.
+Lastly, we look forward to closing our merger with Cameron International during the first quarter where the integration
+planning is largely complete for day one and with antitrust approvals all progressing on track. We are excited about
+what the combination of our two companies will bring and look forward to joining forces with the more than 20,000
+Cameron employees.
+Overall, we remain confident in our ability to continue to weather this downturn better than our surroundings through
+our global reach, the strength of our technology offering and the extent of our corporate transformation program. That
+concludes the call. Thank you very much for attending.
+Operator
+Ladies and gentlemen, this conference will be available for replay after 10:00 a.m. Central Time today through
+February 22. You may access the AT&T teleconference replay system at any time by dialing 1-800-475-6701 and
+entering the access code 373076. International participants dial 320-365-3844. Those numbers once again are
+1-800-475-6701 or 320-365-3844 with the access code 373076.
+That does conclude your conference for today. Thank you for your participation and for using the AT&T Executive
+Teleconference. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2016, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
