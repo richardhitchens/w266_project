@@ -1,5 +1,7 @@
 __author__ = 'rhitche1'
 import scipy.stats as stats
+import datetime
+import pylab as pl
 
 # process to read in returns into a dictionary: {month_end: {code: (return, market_cap)}}
 def get_returns(myFilename):
@@ -34,8 +36,8 @@ def calculate_benchmark_returns(returns):
             if rtn != 'NA' and mcap != 'NA':
                 mc_return_sum += rtn * mcap
                 total_cap += mcap
-                
-            benchmarks[date] = (ew_return_sum / num_stocks, mc_return_sum / total_cap) 
+
+            benchmarks[date] = (ew_return_sum / num_stocks, mc_return_sum / total_cap)
 
     return benchmarks
 
@@ -44,12 +46,36 @@ def calculate_benchmark_returns(returns):
 # It also considers if a score has been updated or not in the month.
 # If NOT updated it retains the score from the previous month and increases its age or staleness by 1 month
 
-def collate_month_end_scores(scores):            
+def collate_month_end_scores(scores):
 
     # get all daily days - importantly in sorted chronological order oldest to newest
     dates = sorted(scores.keys())
     # get all month end dates from the daily dates
-    month_ends = sorted(list(set([date[:6] for date in dates])))
+    m_list = sorted(list(set([date[:6] for date in dates])))
+
+    # Note:  There can be months where we have no transcripts.  To make the
+    # code later in the function work for that situation, we first identify
+    # any missing months, then put in an empty scores dictionary for the
+    # first day of that month.
+
+    month_ends = []
+    first = int(m_list[0])
+    last = int(m_list[-1])
+    first_yr = int(m_list[0][:4])
+    last_yr = int(m_list[-1][:4])
+
+    for y in range(first_yr, last_yr+1):
+        for m in range(1, 13):
+            if (y*100+m >= first and y*100+m <= last):
+                month_ends.append("{:4d}{:02d}".format(y, m))
+
+    # identify months where there are no transcripts
+    missing_months = [m for m in month_ends if m not in m_list]
+    for m in missing_months:
+        scores[m+"01"] = {}
+    # update date list to include any missing months added
+    dates = sorted(scores.keys())
+
     # get all stocks in our coverage universe
     codes = []
     for date in dates:
@@ -74,15 +100,15 @@ def collate_month_end_scores(scores):
             monthly_scores[month_end] = {}
 
             # check if there is a past month
-            # if no past month populate the empty dictionary for scores on the given date, i.e. first entry 
-            if len(monthly_scores.keys()) < 2: 
+            # if no past month populate the empty dictionary for scores on the given date, i.e. first entry
+            if len(monthly_scores.keys()) < 2:
                 for code, score in scores[date].items():
                     monthly_scores[month_end][code] = (score, 1) # note including a score age parameter
 
-            # otherwise if a past month exists add missing codes for the month either as NA or the previous month value 
+            # otherwise if a past month exists add missing codes for the month either as NA or the previous month value
             else:
 
-                # check if there is a previous month to grab scores from 
+                # check if there is a previous month to grab scores from
                 prev_month_end_idx = month_ends.index(curr_month_end) - 1
 
                 # there is a previous month
@@ -100,7 +126,7 @@ def collate_month_end_scores(scores):
                                 else:
                                     # get the previous score and increment age by one month
                                     (prev_score, age) = monthly_scores[prev_month_end][code]
-                                    monthly_scores[curr_month_end][code] = (prev_score, age + 1)                
+                                    monthly_scores[curr_month_end][code] = (prev_score, age + 1)
 
                 # there is not a previous month
                 else:
@@ -112,7 +138,7 @@ def collate_month_end_scores(scores):
             # update the current month end parameter
             curr_month_end = month_end
 
-        # haven't found a new month    
+        # haven't found a new month
         else:
             for code, score in scores[date].items():
                 monthly_scores[month_end][code] = (score, 1) # note including a score age parameter
@@ -173,9 +199,9 @@ def calculate_portfolio_returns(portfolios, returns, benchmark, bm_type=0):
         else:
             for stock in stocks:
                 portfolio_returns['NA'].append(benchmark[bm_type])
-    
+
     portfolio_returns = {pf:average_return(rets, benchmark[bm_type]) for pf, rets in portfolio_returns.items()}
-    
+
     return portfolio_returns
 
 
@@ -189,7 +215,7 @@ def portfolio_return_time_series(scores, returns, benchmarks, num_portfolios=5, 
     month_ends = sorted(list(set([date[:6] for date in dates])))  # important in chronological order
 
     for month_end in month_ends[1:-1]:
-        monthly_portfolios[month_end] = create_fractile_portfolios(monthly_scores[month_end], num_portfolios, max_age)
+        monthly_portfolios[month_end] = create_fractile_portfolios(scores[month_end], num_portfolios, max_age)
         portfolio_return_time_series[month_end] = calculate_portfolio_returns(monthly_portfolios[month_end], returns[month_end], benchmarks[month_end])
     return portfolio_return_time_series
 
@@ -234,16 +260,16 @@ def print_time_series(time_series, dates):
 
 
 def produce_portfolio_results(scores, LIBRARY_PATH, num_portfolios=5, max_age=4):
-    
+
     # Get returns
     returns = get_returns(LIBRARY_PATH + 'returns_data.csv')
 
     # Calculate the benchmark returns
     benchmarks = calculate_benchmark_returns(returns)
-    
+
     # Collate the month end scores from the daily score data
     monthly_scores = collate_month_end_scores(scores)
-    
+
     # Get all daily dates from score and convert to month ends
     dates = sorted(scores.keys())                                 # important in chronological order
     month_ends = sorted(list(set([date[:6] for date in dates])))  # important in chronological order
@@ -254,17 +280,13 @@ def produce_portfolio_results(scores, LIBRARY_PATH, num_portfolios=5, max_age=4)
         monthly_portfolios[month_end] = create_fractile_portfolios(monthly_scores[month_end], num_portfolios, max_age)
 
     # Calculate monthly returns time series
-    monthly_returns_time_series = portfolio_return_time_series(monthly_portfolios, returns, benchmarks)
-    
+    monthly_returns_time_series = portfolio_return_time_series(monthly_scores, returns, benchmarks)
+
     # Calculate cumulative alpha and portfolio holding numbers time series
     month_ends = sorted(returns.keys())                           # important in chronological order
     cumulative_alphas = calculate_cumulative_alpha(monthly_returns_time_series, month_ends)
     holdings = calculate_portfolio_holding_numbers(monthly_returns_time_series, month_ends)
-    
+
     # Print cumulative alpha and portfolio holding numbers
     print_time_series(cumulative_alphas, month_ends)
     print_time_series(holdings, month_ends)
-
-
-
-   
