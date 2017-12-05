@@ -254,8 +254,11 @@ def convert_YYYYMM(date):
 
 def print_time_series(time_series, dates):
     dates = [convert_YYYYMM(date) for date in dates]
-    for series in time_series:
-        pl.plot(dates, series)
+    for i in range(len(time_series)):
+        series = time_series[i]
+        series_label = 'P' + str(i+1)
+        pl.plot(dates, series, label=series_label)
+    pl.legend(loc=1)
     pl.show()
 
 
