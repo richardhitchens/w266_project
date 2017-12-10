@@ -1,0 +1,1 @@
+{"min_sequence_length": 40, "preprocessing_function": "testLDA_pre_process_document", "num_topics": 20, "model_directory": "saved_models/topic20_minlength40_base", "qa_pair_directory": "saved_models/standard_preproc", "description": "Topics 20, Min Length 40, Standard preprocessing"}
