@@ -1,0 +1,1150 @@
+2017-12-09 20:40:50,630 : INFO : adding document #0 to Dictionary(0 unique tokens: [])
+2017-12-09 20:40:51,866 : INFO : adding document #10000 to Dictionary(12307 unique tokens: [u'evercor', u'yellow', u'interchang', u'four', u'betch']...)
+2017-12-09 20:40:53,419 : INFO : adding document #20000 to Dictionary(15748 unique tokens: [u'nordisk', u'orthogon', u'evercor', u'yellow', u'interchang']...)
+2017-12-09 20:40:54,306 : INFO : built Dictionary(17294 unique tokens: [u'nordisk', u'orthogon', u'evercor', u'yellow', u'interchang']...) from 26490 documents (total 2345369 corpus positions)
+2017-12-09 20:40:54,307 : INFO : saving Dictionary object under /Users/seddont/Dropbox/Tom/MIDS/W266_work/w266_project/saved_models/topic20_minlength40_base/dictionary.txt, separately None
+2017-12-09 20:40:54,366 : INFO : saved /Users/seddont/Dropbox/Tom/MIDS/W266_work/w266_project/saved_models/topic20_minlength40_base/dictionary.txt
+2017-12-09 20:40:58,162 : INFO : using symmetric alpha at 0.05
+2017-12-09 20:40:58,163 : INFO : using symmetric eta at 5.7823522609e-05
+2017-12-09 20:40:58,166 : INFO : using serial LDA version on this node
+2017-12-09 20:41:00,513 : INFO : running online (multi-pass) LDA training, 20 topics, 10 passes over the supplied corpus of 26490 documents, updating model once every 2000 documents, evaluating perplexity every 20000 documents, iterating 50x with a convergence threshold of 0.001000
+2017-12-09 20:41:00,514 : INFO : PROGRESS: pass 0, at document #2000/26490
+2017-12-09 20:41:05,578 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:05,754 : INFO : topic #10 (0.050): 0.021*"think" + 0.020*"NUM" + 0.012*"go" + 0.010*"look" + 0.009*"quarter" + 0.009*"see" + 0.009*"busi" + 0.008*"well" + 0.008*"year" + 0.007*"like"
+2017-12-09 20:41:05,755 : INFO : topic #1 (0.050): 0.013*"NUM" + 0.013*"quarter" + 0.012*"cost" + 0.012*"us" + 0.011*"think" + 0.010*"year" + 0.010*"go" + 0.010*"see" + 0.008*"look" + 0.008*"question"
+2017-12-09 20:41:05,755 : INFO : topic #18 (0.050): 0.029*"NUM" + 0.021*"think" + 0.015*"year" + 0.012*"quarter" + 0.012*"go" + 0.010*"question" + 0.009*"see" + 0.009*"us" + 0.009*"growth" + 0.008*"good"
+2017-12-09 20:41:05,756 : INFO : topic #12 (0.050): 0.022*"quarter" + 0.022*"think" + 0.014*"question" + 0.013*"NUM" + 0.011*"year" + 0.010*"good" + 0.009*"thank" + 0.008*"see" + 0.008*"like" + 0.008*"bit"
+2017-12-09 20:41:05,756 : INFO : topic #4 (0.050): 0.028*"think" + 0.019*"NUM" + 0.016*"go" + 0.015*"year" + 0.010*"question" + 0.009*"term" + 0.008*"price" + 0.007*"quarter" + 0.007*"look" + 0.007*"see"
+2017-12-09 20:41:05,758 : INFO : topic diff=17.415813, rho=1.000000
+2017-12-09 20:41:05,760 : INFO : PROGRESS: pass 0, at document #4000/26490
+2017-12-09 20:41:10,204 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:10,411 : INFO : topic #6 (0.050): 0.022*"quarter" + 0.020*"price" + 0.019*"NUM" + 0.019*"year" + 0.012*"see" + 0.011*"think" + 0.011*"expect" + 0.009*"first" + 0.009*"second" + 0.008*"term"
+2017-12-09 20:41:10,411 : INFO : topic #8 (0.050): 0.016*"think" + 0.013*"NUM" + 0.012*"kind" + 0.011*"market" + 0.011*"go" + 0.009*"us" + 0.009*"look" + 0.009*"time" + 0.008*"get" + 0.008*"well"
+2017-12-09 20:41:10,412 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.024*"think" + 0.014*"busi" + 0.013*"see" + 0.010*"question" + 0.010*"go" + 0.008*"growth" + 0.008*"one" + 0.008*"market" + 0.007*"year"
+2017-12-09 20:41:10,413 : INFO : topic #1 (0.050): 0.014*"NUM" + 0.013*"cost" + 0.012*"us" + 0.012*"think" + 0.011*"quarter" + 0.011*"go" + 0.010*"year" + 0.010*"see" + 0.008*"product" + 0.007*"look"
+2017-12-09 20:41:10,413 : INFO : topic #4 (0.050): 0.029*"think" + 0.018*"NUM" + 0.017*"go" + 0.015*"year" + 0.011*"price" + 0.010*"term" + 0.009*"question" + 0.008*"capit" + 0.007*"cash" + 0.007*"look"
+2017-12-09 20:41:10,415 : INFO : topic diff=1.392920, rho=0.707107
+2017-12-09 20:41:10,417 : INFO : PROGRESS: pass 0, at document #6000/26490
+2017-12-09 20:41:14,740 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:14,957 : INFO : topic #8 (0.050): 0.016*"think" + 0.014*"market" + 0.011*"go" + 0.011*"NUM" + 0.010*"us" + 0.010*"kind" + 0.009*"look" + 0.009*"get" + 0.009*"time" + 0.008*"well"
+2017-12-09 20:41:14,957 : INFO : topic #10 (0.050): 0.020*"think" + 0.015*"NUM" + 0.013*"go" + 0.011*"well" + 0.011*"look" + 0.011*"busi" + 0.010*"see" + 0.010*"continu" + 0.008*"make" + 0.008*"product"
+2017-12-09 20:41:14,958 : INFO : topic #16 (0.050): 0.022*"think" + 0.014*"NUM" + 0.012*"question" + 0.011*"thank" + 0.009*"go" + 0.009*"guy" + 0.008*"like" + 0.007*"seem" + 0.007*"quarter" + 0.007*"one"
+2017-12-09 20:41:14,958 : INFO : topic #5 (0.050): 0.021*"NUM" + 0.020*"think" + 0.014*"busi" + 0.010*"look" + 0.010*"one" + 0.008*"get" + 0.008*"go" + 0.008*"like" + 0.008*"opportun" + 0.007*"invest"
+2017-12-09 20:41:14,958 : INFO : topic #6 (0.050): 0.025*"quarter" + 0.022*"year" + 0.021*"price" + 0.017*"NUM" + 0.012*"see" + 0.012*"first" + 0.012*"expect" + 0.011*"half" + 0.011*"think" + 0.010*"second"
+2017-12-09 20:41:14,960 : INFO : topic diff=0.905829, rho=0.577350
+2017-12-09 20:41:14,962 : INFO : PROGRESS: pass 0, at document #8000/26490
+2017-12-09 20:41:19,157 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:19,372 : INFO : topic #11 (0.050): 0.025*"think" + 0.019*"go" + 0.013*"busi" + 0.013*"thing" + 0.012*"market" + 0.012*"see" + 0.011*"growth" + 0.009*"year" + 0.008*"us" + 0.007*"look"
+2017-12-09 20:41:19,373 : INFO : topic #14 (0.050): 0.028*"go" + 0.018*"think" + 0.016*"us" + 0.011*"NUM" + 0.010*"look" + 0.009*"get" + 0.009*"thing" + 0.008*"year" + 0.007*"see" + 0.006*"work"
+2017-12-09 20:41:19,373 : INFO : topic #2 (0.050): 0.109*"NUM" + 0.022*"year" + 0.014*"go" + 0.014*"million" + 0.013*"think" + 0.009*"get" + 0.009*"quarter" + 0.008*"see" + 0.007*"look" + 0.007*"rate"
+2017-12-09 20:41:19,374 : INFO : topic #16 (0.050): 0.022*"think" + 0.013*"thank" + 0.013*"NUM" + 0.013*"question" + 0.011*"guy" + 0.009*"like" + 0.009*"seem" + 0.009*"go" + 0.009*"rate" + 0.008*"one"
+2017-12-09 20:41:19,374 : INFO : topic #0 (0.050): 0.027*"NUM" + 0.024*"think" + 0.012*"busi" + 0.011*"see" + 0.011*"question" + 0.011*"market" + 0.009*"u" + 0.009*"go" + 0.008*"patient" + 0.007*"one"
+2017-12-09 20:41:19,376 : INFO : topic diff=0.833219, rho=0.500000
+2017-12-09 20:41:19,377 : INFO : PROGRESS: pass 0, at document #10000/26490
+2017-12-09 20:41:23,724 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:23,930 : INFO : topic #14 (0.050): 0.029*"go" + 0.019*"think" + 0.016*"us" + 0.010*"NUM" + 0.009*"look" + 0.009*"get" + 0.009*"thing" + 0.007*"year" + 0.007*"see" + 0.006*"lot"
+2017-12-09 20:41:23,930 : INFO : topic #15 (0.050): 0.024*"littl" + 0.024*"year" + 0.024*"margin" + 0.024*"NUM" + 0.022*"bit" + 0.015*"thank" + 0.014*"mayb" + 0.011*"go" + 0.011*"question" + 0.010*"think"
+2017-12-09 20:41:23,931 : INFO : topic #9 (0.050): 0.026*"NUM" + 0.018*"quarter" + 0.017*"think" + 0.013*"rate" + 0.013*"look" + 0.013*"go" + 0.012*"loan" + 0.010*"growth" + 0.010*"year" + 0.010*"see"
+2017-12-09 20:41:23,931 : INFO : topic #6 (0.050): 0.027*"quarter" + 0.025*"price" + 0.025*"year" + 0.016*"NUM" + 0.015*"see" + 0.012*"think" + 0.011*"first" + 0.011*"half" + 0.010*"second" + 0.010*"expect"
+2017-12-09 20:41:23,931 : INFO : topic #8 (0.050): 0.019*"market" + 0.016*"think" + 0.011*"go" + 0.010*"well" + 0.009*"kind" + 0.009*"us" + 0.009*"project" + 0.009*"lot" + 0.008*"NUM" + 0.008*"time"
+2017-12-09 20:41:23,934 : INFO : topic diff=0.799355, rho=0.447214
+2017-12-09 20:41:23,935 : INFO : PROGRESS: pass 0, at document #12000/26490
+2017-12-09 20:41:28,334 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:28,531 : INFO : topic #13 (0.050): 0.015*"think" + 0.012*"go" + 0.012*"network" + 0.011*"NUM" + 0.010*"busi" + 0.009*"realli" + 0.007*"one" + 0.007*"us" + 0.007*"year" + 0.007*"look"
+2017-12-09 20:41:28,531 : INFO : topic #10 (0.050): 0.021*"think" + 0.015*"busi" + 0.013*"go" + 0.013*"continu" + 0.011*"well" + 0.011*"see" + 0.010*"NUM" + 0.010*"make" + 0.010*"look" + 0.009*"product"
+2017-12-09 20:41:28,531 : INFO : topic #8 (0.050): 0.020*"market" + 0.017*"think" + 0.011*"go" + 0.010*"well" + 0.010*"project" + 0.009*"kind" + 0.009*"lot" + 0.009*"us" + 0.008*"look" + 0.008*"get"
+2017-12-09 20:41:28,532 : INFO : topic #16 (0.050): 0.022*"think" + 0.015*"thank" + 0.015*"question" + 0.012*"like" + 0.012*"tax" + 0.011*"guy" + 0.011*"NUM" + 0.011*"kind" + 0.010*"seem" + 0.009*"rate"
+2017-12-09 20:41:28,532 : INFO : topic #9 (0.050): 0.024*"NUM" + 0.019*"quarter" + 0.017*"think" + 0.014*"rate" + 0.014*"go" + 0.013*"look" + 0.013*"loan" + 0.011*"growth" + 0.011*"see" + 0.009*"year"
+2017-12-09 20:41:28,534 : INFO : topic diff=0.716940, rho=0.408248
+2017-12-09 20:41:28,536 : INFO : PROGRESS: pass 0, at document #14000/26490
+2017-12-09 20:41:33,043 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:33,232 : INFO : topic #8 (0.050): 0.021*"market" + 0.017*"think" + 0.012*"go" + 0.010*"well" + 0.009*"project" + 0.009*"lot" + 0.009*"kind" + 0.008*"us" + 0.008*"see" + 0.008*"get"
+2017-12-09 20:41:33,232 : INFO : topic #6 (0.050): 0.032*"quarter" + 0.028*"year" + 0.024*"price" + 0.016*"NUM" + 0.015*"see" + 0.014*"think" + 0.012*"first" + 0.011*"half" + 0.011*"expect" + 0.011*"second"
+2017-12-09 20:41:33,233 : INFO : topic #14 (0.050): 0.029*"go" + 0.019*"think" + 0.013*"us" + 0.009*"get" + 0.009*"NUM" + 0.008*"hotel" + 0.008*"look" + 0.008*"thing" + 0.007*"see" + 0.007*"year"
+2017-12-09 20:41:33,233 : INFO : topic #18 (0.050): 0.024*"think" + 0.024*"growth" + 0.020*"NUM" + 0.018*"year" + 0.013*"see" + 0.011*"quarter" + 0.011*"go" + 0.010*"us" + 0.010*"continu" + 0.008*"realli"
+2017-12-09 20:41:33,234 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.021*"think" + 0.018*"patient" + 0.011*"question" + 0.010*"see" + 0.009*"u" + 0.009*"go" + 0.009*"data" + 0.009*"market" + 0.008*"one"
+2017-12-09 20:41:33,236 : INFO : topic diff=0.663282, rho=0.377964
+2017-12-09 20:41:33,238 : INFO : PROGRESS: pass 0, at document #16000/26490
+2017-12-09 20:41:38,008 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:38,191 : INFO : topic #10 (0.050): 0.021*"think" + 0.015*"busi" + 0.013*"continu" + 0.013*"go" + 0.011*"well" + 0.010*"product" + 0.010*"make" + 0.010*"see" + 0.009*"look" + 0.009*"realli"
+2017-12-09 20:41:38,191 : INFO : topic #19 (0.050): 0.029*"think" + 0.017*"look" + 0.012*"go" + 0.011*"us" + 0.011*"NUM" + 0.010*"term" + 0.010*"market" + 0.008*"realli" + 0.007*"valu" + 0.006*"see"
+2017-12-09 20:41:38,192 : INFO : topic #4 (0.050): 0.026*"capit" + 0.025*"cash" + 0.025*"think" + 0.017*"go" + 0.016*"NUM" + 0.014*"year" + 0.014*"flow" + 0.011*"term" + 0.009*"question" + 0.009*"return"
+2017-12-09 20:41:38,192 : INFO : topic #11 (0.050): 0.027*"think" + 0.019*"busi" + 0.018*"go" + 0.015*"market" + 0.013*"thing" + 0.012*"growth" + 0.011*"see" + 0.009*"us" + 0.008*"one" + 0.008*"way"
+2017-12-09 20:41:38,192 : INFO : topic #17 (0.050): 0.079*"NUM" + 0.025*"year" + 0.016*"billion" + 0.016*"quarter" + 0.014*"think" + 0.013*"point" + 0.011*"look" + 0.011*"go" + 0.009*"basi" + 0.008*"rate"
+2017-12-09 20:41:38,195 : INFO : topic diff=0.622088, rho=0.353553
+2017-12-09 20:41:38,196 : INFO : PROGRESS: pass 0, at document #18000/26490
+2017-12-09 20:41:42,836 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:41:43,016 : INFO : topic #18 (0.050): 0.028*"growth" + 0.023*"think" + 0.019*"NUM" + 0.019*"year" + 0.014*"see" + 0.012*"quarter" + 0.011*"digit" + 0.011*"go" + 0.010*"us" + 0.010*"continu"
+2017-12-09 20:41:43,016 : INFO : topic #12 (0.050): 0.044*"thank" + 0.037*"question" + 0.021*"mayb" + 0.020*"guy" + 0.018*"good" + 0.017*"morn" + 0.016*"think" + 0.015*"want" + 0.015*"guess" + 0.015*"wonder"
+2017-12-09 20:41:43,017 : INFO : topic #2 (0.050): 0.149*"NUM" + 0.027*"year" + 0.021*"million" + 0.015*"go" + 0.014*"think" + 0.009*"get" + 0.009*"quarter" + 0.008*"cost" + 0.007*"see" + 0.007*"look"
+2017-12-09 20:41:43,017 : INFO : topic #13 (0.050): 0.017*"think" + 0.015*"network" + 0.013*"go" + 0.009*"realli" + 0.008*"NUM" + 0.008*"advertis" + 0.007*"product" + 0.007*"busi" + 0.007*"one" + 0.007*"us"
+2017-12-09 20:41:43,019 : INFO : topic #6 (0.050): 0.035*"quarter" + 0.029*"year" + 0.024*"price" + 0.015*"see" + 0.014*"NUM" + 0.014*"think" + 0.013*"half" + 0.012*"expect" + 0.012*"second" + 0.012*"first"
+2017-12-09 20:41:43,021 : INFO : topic diff=0.633576, rho=0.333333
+2017-12-09 20:41:55,848 : INFO : -7.183 per-word bound, 145.3 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:41:55,849 : INFO : PROGRESS: pass 0, at document #20000/26490
+2017-12-09 20:42:01,104 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:01,286 : INFO : topic #15 (0.050): 0.040*"margin" + 0.030*"littl" + 0.027*"year" + 0.026*"bit" + 0.019*"NUM" + 0.019*"mayb" + 0.012*"thank" + 0.012*"go" + 0.012*"think" + 0.012*"talk"
+2017-12-09 20:42:01,287 : INFO : topic #3 (0.050): 0.017*"think" + 0.015*"custom" + 0.010*"realli" + 0.010*"go" + 0.010*"thing" + 0.009*"get" + 0.008*"one" + 0.008*"store" + 0.008*"technolog" + 0.007*"us"
+2017-12-09 20:42:01,287 : INFO : topic #7 (0.050): 0.031*"busi" + 0.015*"think" + 0.012*"expens" + 0.012*"go" + 0.012*"talk" + 0.010*"market" + 0.009*"line" + 0.009*"term" + 0.008*"u" + 0.008*"look"
+2017-12-09 20:42:01,288 : INFO : topic #18 (0.050): 0.030*"growth" + 0.024*"think" + 0.019*"year" + 0.018*"NUM" + 0.015*"see" + 0.013*"digit" + 0.013*"quarter" + 0.010*"go" + 0.010*"us" + 0.010*"continu"
+2017-12-09 20:42:01,288 : INFO : topic #12 (0.050): 0.046*"thank" + 0.039*"question" + 0.022*"mayb" + 0.020*"guy" + 0.019*"good" + 0.017*"morn" + 0.016*"think" + 0.015*"wonder" + 0.015*"want" + 0.015*"guess"
+2017-12-09 20:42:01,291 : INFO : topic diff=0.590372, rho=0.316228
+2017-12-09 20:42:01,293 : INFO : PROGRESS: pass 0, at document #22000/26490
+2017-12-09 20:42:06,253 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:06,419 : INFO : topic #1 (0.050): 0.013*"new" + 0.012*"cost" + 0.011*"retail" + 0.010*"product" + 0.010*"go" + 0.010*"custom" + 0.009*"us" + 0.009*"data" + 0.009*"think" + 0.008*"see"
+2017-12-09 20:42:06,420 : INFO : topic #19 (0.050): 0.031*"think" + 0.017*"look" + 0.012*"go" + 0.011*"us" + 0.011*"market" + 0.010*"term" + 0.009*"NUM" + 0.007*"realli" + 0.007*"valu" + 0.007*"time"
+2017-12-09 20:42:06,420 : INFO : topic #8 (0.050): 0.024*"market" + 0.016*"think" + 0.012*"go" + 0.010*"well" + 0.010*"project" + 0.008*"lot" + 0.008*"countri" + 0.008*"europ" + 0.008*"china" + 0.008*"see"
+2017-12-09 20:42:06,421 : INFO : topic #15 (0.050): 0.042*"margin" + 0.030*"littl" + 0.026*"year" + 0.026*"bit" + 0.019*"mayb" + 0.019*"NUM" + 0.012*"think" + 0.012*"talk" + 0.012*"thank" + 0.012*"go"
+2017-12-09 20:42:06,421 : INFO : topic #4 (0.050): 0.030*"cash" + 0.027*"capit" + 0.024*"think" + 0.016*"go" + 0.015*"flow" + 0.015*"NUM" + 0.013*"year" + 0.011*"term" + 0.009*"return" + 0.009*"look"
+2017-12-09 20:42:06,423 : INFO : topic diff=0.574629, rho=0.301511
+2017-12-09 20:42:06,425 : INFO : PROGRESS: pass 0, at document #24000/26490
+2017-12-09 20:42:11,035 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:11,188 : INFO : topic #18 (0.050): 0.033*"growth" + 0.023*"think" + 0.018*"year" + 0.018*"NUM" + 0.015*"see" + 0.013*"digit" + 0.012*"quarter" + 0.010*"continu" + 0.010*"go" + 0.009*"us"
+2017-12-09 20:42:11,189 : INFO : topic #2 (0.050): 0.160*"NUM" + 0.029*"year" + 0.023*"million" + 0.015*"go" + 0.013*"think" + 0.009*"cost" + 0.009*"get" + 0.008*"quarter" + 0.008*"billion" + 0.008*"look"
+2017-12-09 20:42:11,189 : INFO : topic #1 (0.050): 0.013*"new" + 0.013*"retail" + 0.011*"custom" + 0.011*"data" + 0.010*"product" + 0.010*"store" + 0.010*"cost" + 0.010*"go" + 0.009*"us" + 0.008*"think"
+2017-12-09 20:42:11,189 : INFO : topic #3 (0.050): 0.018*"custom" + 0.016*"think" + 0.011*"realli" + 0.010*"go" + 0.010*"thing" + 0.010*"get" + 0.009*"store" + 0.009*"one" + 0.008*"us" + 0.008*"technolog"
+2017-12-09 20:42:11,190 : INFO : topic #15 (0.050): 0.045*"margin" + 0.030*"littl" + 0.027*"bit" + 0.026*"year" + 0.019*"mayb" + 0.018*"NUM" + 0.013*"think" + 0.013*"talk" + 0.012*"go" + 0.012*"us"
+2017-12-09 20:42:11,192 : INFO : topic diff=0.529526, rho=0.288675
+2017-12-09 20:42:11,194 : INFO : PROGRESS: pass 0, at document #26000/26490
+2017-12-09 20:42:15,729 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:15,875 : INFO : topic #19 (0.050): 0.032*"think" + 0.016*"look" + 0.013*"go" + 0.011*"market" + 0.011*"us" + 0.010*"term" + 0.008*"NUM" + 0.007*"realli" + 0.007*"care" + 0.007*"see"
+2017-12-09 20:42:15,876 : INFO : topic #18 (0.050): 0.033*"growth" + 0.023*"think" + 0.018*"year" + 0.017*"NUM" + 0.015*"see" + 0.013*"digit" + 0.012*"quarter" + 0.011*"continu" + 0.010*"go" + 0.010*"busi"
+2017-12-09 20:42:15,876 : INFO : topic #14 (0.050): 0.029*"go" + 0.018*"think" + 0.011*"us" + 0.010*"get" + 0.008*"project" + 0.008*"well" + 0.007*"capac" + 0.007*"thing" + 0.007*"see" + 0.007*"demand"
+2017-12-09 20:42:15,877 : INFO : topic #6 (0.050): 0.037*"quarter" + 0.029*"year" + 0.026*"price" + 0.016*"see" + 0.015*"think" + 0.013*"NUM" + 0.013*"first" + 0.012*"half" + 0.012*"expect" + 0.011*"second"
+2017-12-09 20:42:15,877 : INFO : topic #3 (0.050): 0.018*"custom" + 0.016*"think" + 0.011*"realli" + 0.010*"go" + 0.010*"thing" + 0.010*"get" + 0.008*"one" + 0.008*"store" + 0.008*"us" + 0.007*"servic"
+2017-12-09 20:42:15,879 : INFO : topic diff=0.522587, rho=0.277350
+2017-12-09 20:42:18,590 : INFO : -7.088 per-word bound, 136.0 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:42:18,591 : INFO : PROGRESS: pass 0, at document #26490/26490
+2017-12-09 20:42:19,698 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:42:19,839 : INFO : topic #8 (0.050): 0.025*"market" + 0.016*"think" + 0.012*"europ" + 0.011*"go" + 0.011*"well" + 0.009*"china" + 0.008*"brazil" + 0.008*"see" + 0.008*"countri" + 0.007*"lot"
+2017-12-09 20:42:19,839 : INFO : topic #13 (0.050): 0.020*"think" + 0.018*"network" + 0.012*"go" + 0.009*"content" + 0.008*"realli" + 0.008*"advertis" + 0.008*"one" + 0.008*"new" + 0.007*"product" + 0.007*"us"
+2017-12-09 20:42:19,840 : INFO : topic #1 (0.050): 0.015*"new" + 0.013*"retail" + 0.011*"product" + 0.011*"store" + 0.010*"data" + 0.010*"go" + 0.010*"share" + 0.010*"custom" + 0.009*"us" + 0.008*"cost"
+2017-12-09 20:42:19,840 : INFO : topic #17 (0.050): 0.086*"NUM" + 0.028*"year" + 0.014*"think" + 0.014*"quarter" + 0.013*"billion" + 0.012*"point" + 0.012*"go" + 0.012*"look" + 0.011*"rate" + 0.010*"basi"
+2017-12-09 20:42:19,841 : INFO : topic #16 (0.050): 0.022*"tax" + 0.021*"think" + 0.017*"question" + 0.016*"like" + 0.016*"kind" + 0.015*"sort" + 0.013*"guess" + 0.013*"seem" + 0.011*"rate" + 0.010*"thank"
+2017-12-09 20:42:19,843 : INFO : topic diff=0.362604, rho=0.267261
+2017-12-09 20:42:19,846 : INFO : PROGRESS: pass 1, at document #2000/26490
+2017-12-09 20:42:24,149 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:24,280 : INFO : topic #12 (0.050): 0.048*"thank" + 0.042*"question" + 0.026*"mayb" + 0.020*"guy" + 0.019*"guess" + 0.018*"good" + 0.018*"morn" + 0.016*"like" + 0.016*"wonder" + 0.015*"want"
+2017-12-09 20:42:24,281 : INFO : topic #16 (0.050): 0.025*"tax" + 0.021*"think" + 0.017*"question" + 0.016*"kind" + 0.016*"like" + 0.014*"sort" + 0.013*"seem" + 0.013*"guess" + 0.011*"rate" + 0.010*"thank"
+2017-12-09 20:42:24,281 : INFO : topic #5 (0.050): 0.024*"think" + 0.018*"busi" + 0.012*"one" + 0.012*"opportun" + 0.010*"deal" + 0.010*"look" + 0.009*"compani" + 0.009*"peopl" + 0.008*"like" + 0.008*"get"
+2017-12-09 20:42:24,282 : INFO : topic #10 (0.050): 0.020*"think" + 0.016*"busi" + 0.015*"continu" + 0.012*"go" + 0.012*"make" + 0.011*"well" + 0.011*"invest" + 0.010*"realli" + 0.010*"look" + 0.010*"product"
+2017-12-09 20:42:24,282 : INFO : topic #13 (0.050): 0.020*"think" + 0.018*"network" + 0.012*"go" + 0.009*"content" + 0.008*"realli" + 0.008*"advertis" + 0.008*"one" + 0.008*"new" + 0.007*"product" + 0.007*"video"
+2017-12-09 20:42:24,284 : INFO : topic diff=0.389996, rho=0.258199
+2017-12-09 20:42:24,286 : INFO : PROGRESS: pass 1, at document #4000/26490
+2017-12-09 20:42:28,669 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:28,795 : INFO : topic #15 (0.050): 0.052*"margin" + 0.031*"littl" + 0.027*"bit" + 0.027*"year" + 0.018*"mayb" + 0.017*"NUM" + 0.014*"think" + 0.013*"us" + 0.013*"go" + 0.013*"talk"
+2017-12-09 20:42:28,795 : INFO : topic #3 (0.050): 0.020*"custom" + 0.016*"think" + 0.011*"realli" + 0.010*"go" + 0.010*"get" + 0.009*"thing" + 0.009*"one" + 0.009*"store" + 0.008*"us" + 0.008*"technolog"
+2017-12-09 20:42:28,796 : INFO : topic #2 (0.050): 0.180*"NUM" + 0.031*"year" + 0.023*"million" + 0.015*"go" + 0.013*"think" + 0.010*"cost" + 0.010*"billion" + 0.009*"get" + 0.008*"expect" + 0.007*"look"
+2017-12-09 20:42:28,796 : INFO : topic #5 (0.050): 0.024*"think" + 0.019*"busi" + 0.012*"opportun" + 0.012*"one" + 0.010*"deal" + 0.010*"look" + 0.009*"compani" + 0.009*"peopl" + 0.008*"like" + 0.008*"get"
+2017-12-09 20:42:28,797 : INFO : topic #16 (0.050): 0.022*"tax" + 0.020*"think" + 0.018*"question" + 0.016*"like" + 0.016*"kind" + 0.014*"sort" + 0.013*"seem" + 0.013*"guess" + 0.012*"rate" + 0.010*"thank"
+2017-12-09 20:42:28,799 : INFO : topic diff=0.385956, rho=0.258199
+2017-12-09 20:42:28,800 : INFO : PROGRESS: pass 1, at document #6000/26490
+2017-12-09 20:42:33,176 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:33,299 : INFO : topic #8 (0.050): 0.025*"market" + 0.015*"think" + 0.014*"europ" + 0.012*"well" + 0.012*"go" + 0.009*"project" + 0.009*"china" + 0.008*"countri" + 0.008*"lot" + 0.008*"see"
+2017-12-09 20:42:33,299 : INFO : topic #0 (0.050): 0.028*"NUM" + 0.018*"think" + 0.017*"patient" + 0.012*"data" + 0.012*"question" + 0.010*"u" + 0.010*"see" + 0.009*"go" + 0.009*"studi" + 0.008*"launch"
+2017-12-09 20:42:33,300 : INFO : topic #9 (0.050): 0.023*"rate" + 0.017*"think" + 0.016*"NUM" + 0.015*"quarter" + 0.015*"loan" + 0.014*"look" + 0.013*"go" + 0.013*"see" + 0.011*"deposit" + 0.011*"growth"
+2017-12-09 20:42:33,300 : INFO : topic #15 (0.050): 0.052*"margin" + 0.030*"littl" + 0.027*"bit" + 0.026*"year" + 0.018*"mayb" + 0.017*"NUM" + 0.014*"think" + 0.014*"go" + 0.013*"us" + 0.013*"talk"
+2017-12-09 20:42:33,300 : INFO : topic #17 (0.050): 0.086*"NUM" + 0.027*"year" + 0.016*"quarter" + 0.014*"think" + 0.014*"point" + 0.013*"billion" + 0.013*"go" + 0.012*"look" + 0.011*"basi" + 0.010*"rate"
+2017-12-09 20:42:33,303 : INFO : topic diff=0.346400, rho=0.258199
+2017-12-09 20:42:33,304 : INFO : PROGRESS: pass 1, at document #8000/26490
+2017-12-09 20:42:37,637 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:37,759 : INFO : topic #15 (0.050): 0.054*"margin" + 0.031*"littl" + 0.028*"bit" + 0.026*"year" + 0.017*"mayb" + 0.016*"NUM" + 0.014*"go" + 0.014*"think" + 0.013*"talk" + 0.013*"us"
+2017-12-09 20:42:37,760 : INFO : topic #17 (0.050): 0.086*"NUM" + 0.027*"year" + 0.017*"quarter" + 0.015*"point" + 0.014*"think" + 0.013*"billion" + 0.013*"go" + 0.012*"look" + 0.011*"basi" + 0.010*"rate"
+2017-12-09 20:42:37,760 : INFO : topic #0 (0.050): 0.028*"NUM" + 0.019*"patient" + 0.018*"think" + 0.012*"question" + 0.012*"data" + 0.011*"u" + 0.010*"see" + 0.009*"go" + 0.008*"market" + 0.008*"studi"
+2017-12-09 20:42:37,761 : INFO : topic #3 (0.050): 0.021*"custom" + 0.015*"think" + 0.011*"go" + 0.010*"realli" + 0.010*"get" + 0.009*"thing" + 0.009*"one" + 0.008*"technolog" + 0.008*"store" + 0.008*"us"
+2017-12-09 20:42:37,761 : INFO : topic #8 (0.050): 0.028*"market" + 0.016*"europ" + 0.015*"think" + 0.012*"well" + 0.011*"go" + 0.009*"china" + 0.009*"project" + 0.008*"see" + 0.008*"countri" + 0.008*"lot"
+2017-12-09 20:42:37,763 : INFO : topic diff=0.324077, rho=0.258199
+2017-12-09 20:42:37,765 : INFO : PROGRESS: pass 1, at document #10000/26490
+2017-12-09 20:42:42,086 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:42,208 : INFO : topic #12 (0.050): 0.051*"thank" + 0.042*"question" + 0.027*"mayb" + 0.021*"guy" + 0.019*"guess" + 0.018*"morn" + 0.018*"good" + 0.018*"wonder" + 0.016*"like" + 0.016*"talk"
+2017-12-09 20:42:42,209 : INFO : topic #2 (0.050): 0.186*"NUM" + 0.032*"year" + 0.024*"million" + 0.016*"go" + 0.012*"think" + 0.011*"billion" + 0.011*"cost" + 0.008*"get" + 0.008*"look" + 0.007*"expect"
+2017-12-09 20:42:42,209 : INFO : topic #13 (0.050): 0.021*"think" + 0.019*"network" + 0.013*"go" + 0.009*"content" + 0.009*"advertis" + 0.009*"devic" + 0.008*"realli" + 0.008*"one" + 0.008*"product" + 0.007*"us"
+2017-12-09 20:42:42,209 : INFO : topic #19 (0.050): 0.034*"think" + 0.017*"look" + 0.013*"go" + 0.011*"market" + 0.010*"us" + 0.010*"term" + 0.008*"realli" + 0.007*"plan" + 0.007*"NUM" + 0.007*"care"
+2017-12-09 20:42:42,210 : INFO : topic #7 (0.050): 0.036*"busi" + 0.018*"expens" + 0.015*"think" + 0.013*"line" + 0.011*"go" + 0.011*"term" + 0.010*"talk" + 0.009*"invest" + 0.009*"look" + 0.009*"market"
+2017-12-09 20:42:42,212 : INFO : topic diff=0.326427, rho=0.258199
+2017-12-09 20:42:42,214 : INFO : PROGRESS: pass 1, at document #12000/26490
+2017-12-09 20:42:46,527 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:46,649 : INFO : topic #9 (0.050): 0.023*"rate" + 0.016*"think" + 0.016*"loan" + 0.015*"NUM" + 0.015*"quarter" + 0.013*"see" + 0.013*"go" + 0.013*"look" + 0.011*"credit" + 0.011*"portfolio"
+2017-12-09 20:42:46,650 : INFO : topic #16 (0.050): 0.021*"tax" + 0.020*"think" + 0.020*"kind" + 0.018*"like" + 0.017*"question" + 0.016*"sort" + 0.013*"guess" + 0.012*"seem" + 0.012*"rate" + 0.009*"okay"
+2017-12-09 20:42:46,650 : INFO : topic #14 (0.050): 0.029*"go" + 0.015*"think" + 0.013*"ga" + 0.011*"project" + 0.010*"get" + 0.010*"capac" + 0.009*"us" + 0.009*"well" + 0.008*"coal" + 0.008*"demand"
+2017-12-09 20:42:46,651 : INFO : topic #1 (0.050): 0.020*"retail" + 0.014*"store" + 0.014*"new" + 0.013*"share" + 0.012*"data" + 0.011*"product" + 0.011*"categori" + 0.010*"go" + 0.010*"center" + 0.009*"soup"
+2017-12-09 20:42:46,651 : INFO : topic #11 (0.050): 0.030*"think" + 0.024*"busi" + 0.022*"market" + 0.017*"go" + 0.014*"thing" + 0.012*"see" + 0.009*"lot" + 0.009*"consum" + 0.009*"one" + 0.008*"time"
+2017-12-09 20:42:46,653 : INFO : topic diff=0.294294, rho=0.258199
+2017-12-09 20:42:46,655 : INFO : PROGRESS: pass 1, at document #14000/26490
+2017-12-09 20:42:50,971 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:51,091 : INFO : topic #11 (0.050): 0.030*"think" + 0.023*"busi" + 0.022*"market" + 0.017*"go" + 0.015*"thing" + 0.012*"see" + 0.009*"lot" + 0.009*"one" + 0.008*"consum" + 0.008*"time"
+2017-12-09 20:42:51,091 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"busi" + 0.016*"continu" + 0.013*"go" + 0.012*"make" + 0.012*"invest" + 0.011*"well" + 0.011*"realli" + 0.010*"product" + 0.010*"look"
+2017-12-09 20:42:51,092 : INFO : topic #14 (0.050): 0.029*"go" + 0.015*"think" + 0.012*"ga" + 0.010*"project" + 0.010*"get" + 0.010*"capac" + 0.009*"well" + 0.009*"us" + 0.009*"coal" + 0.008*"demand"
+2017-12-09 20:42:51,092 : INFO : topic #16 (0.050): 0.020*"think" + 0.020*"kind" + 0.019*"tax" + 0.018*"like" + 0.018*"question" + 0.017*"sort" + 0.013*"guess" + 0.012*"seem" + 0.012*"rate" + 0.010*"okay"
+2017-12-09 20:42:51,093 : INFO : topic #9 (0.050): 0.025*"rate" + 0.016*"think" + 0.015*"quarter" + 0.014*"loan" + 0.014*"NUM" + 0.014*"see" + 0.013*"go" + 0.013*"look" + 0.012*"interest" + 0.012*"credit"
+2017-12-09 20:42:51,095 : INFO : topic diff=0.271281, rho=0.258199
+2017-12-09 20:42:51,097 : INFO : PROGRESS: pass 1, at document #16000/26490
+2017-12-09 20:42:55,473 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:42:55,597 : INFO : topic #14 (0.050): 0.029*"go" + 0.015*"think" + 0.014*"ga" + 0.011*"capac" + 0.010*"project" + 0.010*"well" + 0.010*"get" + 0.009*"us" + 0.008*"coal" + 0.008*"see"
+2017-12-09 20:42:55,598 : INFO : topic #7 (0.050): 0.038*"busi" + 0.017*"expens" + 0.015*"line" + 0.014*"think" + 0.011*"go" + 0.010*"invest" + 0.010*"term" + 0.010*"cost" + 0.009*"talk" + 0.009*"manag"
+2017-12-09 20:42:55,599 : INFO : topic #9 (0.050): 0.024*"rate" + 0.016*"think" + 0.014*"quarter" + 0.014*"loan" + 0.014*"NUM" + 0.014*"see" + 0.013*"go" + 0.013*"credit" + 0.013*"look" + 0.012*"interest"
+2017-12-09 20:42:55,599 : INFO : topic #2 (0.050): 0.191*"NUM" + 0.032*"year" + 0.025*"million" + 0.016*"go" + 0.013*"think" + 0.011*"cost" + 0.011*"billion" + 0.008*"get" + 0.008*"look" + 0.007*"expect"
+2017-12-09 20:42:55,600 : INFO : topic #5 (0.050): 0.024*"think" + 0.020*"busi" + 0.014*"opportun" + 0.012*"one" + 0.011*"deal" + 0.011*"compani" + 0.010*"look" + 0.009*"like" + 0.008*"peopl" + 0.008*"go"
+2017-12-09 20:42:55,602 : INFO : topic diff=0.250434, rho=0.258199
+2017-12-09 20:42:55,604 : INFO : PROGRESS: pass 1, at document #18000/26490
+2017-12-09 20:43:00,089 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:00,213 : INFO : topic #11 (0.050): 0.029*"think" + 0.024*"busi" + 0.024*"market" + 0.016*"go" + 0.014*"thing" + 0.012*"see" + 0.009*"lot" + 0.009*"one" + 0.009*"consum" + 0.008*"time"
+2017-12-09 20:43:00,214 : INFO : topic #13 (0.050): 0.022*"think" + 0.018*"network" + 0.013*"go" + 0.009*"advertis" + 0.008*"content" + 0.008*"product" + 0.008*"realli" + 0.007*"one" + 0.007*"devic" + 0.007*"us"
+2017-12-09 20:43:00,214 : INFO : topic #19 (0.050): 0.035*"think" + 0.016*"look" + 0.014*"go" + 0.010*"market" + 0.010*"us" + 0.009*"term" + 0.007*"realli" + 0.007*"say" + 0.007*"plan" + 0.007*"know"
+2017-12-09 20:43:00,214 : INFO : topic #5 (0.050): 0.024*"think" + 0.019*"busi" + 0.014*"opportun" + 0.012*"one" + 0.011*"deal" + 0.011*"compani" + 0.010*"look" + 0.009*"like" + 0.008*"go" + 0.008*"peopl"
+2017-12-09 20:43:00,215 : INFO : topic #7 (0.050): 0.040*"busi" + 0.018*"expens" + 0.015*"line" + 0.014*"think" + 0.011*"invest" + 0.011*"go" + 0.011*"revenu" + 0.010*"manag" + 0.010*"term" + 0.010*"cost"
+2017-12-09 20:43:00,217 : INFO : topic diff=0.246459, rho=0.258199
+2017-12-09 20:43:11,378 : INFO : -7.067 per-word bound, 134.1 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:43:11,378 : INFO : PROGRESS: pass 1, at document #20000/26490
+2017-12-09 20:43:15,675 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:15,794 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.028*"mayb" + 0.021*"guy" + 0.018*"guess" + 0.018*"wonder" + 0.017*"good" + 0.017*"morn" + 0.017*"talk" + 0.017*"like"
+2017-12-09 20:43:15,795 : INFO : topic #19 (0.050): 0.035*"think" + 0.016*"look" + 0.014*"go" + 0.010*"market" + 0.009*"us" + 0.009*"term" + 0.007*"plan" + 0.007*"say" + 0.007*"know" + 0.007*"time"
+2017-12-09 20:43:15,795 : INFO : topic #14 (0.050): 0.029*"go" + 0.016*"ga" + 0.015*"think" + 0.013*"project" + 0.010*"capac" + 0.010*"get" + 0.010*"well" + 0.009*"coal" + 0.008*"demand" + 0.008*"us"
+2017-12-09 20:43:15,795 : INFO : topic #3 (0.050): 0.026*"custom" + 0.014*"think" + 0.010*"go" + 0.010*"get" + 0.010*"realli" + 0.010*"thing" + 0.009*"us" + 0.008*"technolog" + 0.008*"servic" + 0.008*"store"
+2017-12-09 20:43:15,796 : INFO : topic #13 (0.050): 0.023*"think" + 0.018*"network" + 0.013*"go" + 0.009*"advertis" + 0.009*"devic" + 0.009*"content" + 0.008*"realli" + 0.008*"product" + 0.007*"one" + 0.007*"us"
+2017-12-09 20:43:15,798 : INFO : topic diff=0.233951, rho=0.258199
+2017-12-09 20:43:15,800 : INFO : PROGRESS: pass 1, at document #22000/26490
+2017-12-09 20:43:20,096 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:20,214 : INFO : topic #13 (0.050): 0.023*"think" + 0.017*"network" + 0.013*"go" + 0.010*"advertis" + 0.009*"content" + 0.009*"video" + 0.008*"devic" + 0.008*"realli" + 0.008*"product" + 0.008*"one"
+2017-12-09 20:43:20,215 : INFO : topic #6 (0.050): 0.044*"quarter" + 0.032*"year" + 0.028*"price" + 0.018*"see" + 0.016*"think" + 0.013*"first" + 0.012*"NUM" + 0.012*"half" + 0.012*"second" + 0.012*"expect"
+2017-12-09 20:43:20,215 : INFO : topic #16 (0.050): 0.021*"kind" + 0.021*"tax" + 0.020*"think" + 0.019*"like" + 0.018*"question" + 0.017*"sort" + 0.013*"guess" + 0.012*"seem" + 0.011*"rate" + 0.011*"okay"
+2017-12-09 20:43:20,216 : INFO : topic #7 (0.050): 0.040*"busi" + 0.020*"expens" + 0.015*"line" + 0.014*"think" + 0.012*"invest" + 0.012*"revenu" + 0.011*"go" + 0.011*"oper" + 0.011*"cost" + 0.010*"manag"
+2017-12-09 20:43:20,217 : INFO : topic #8 (0.050): 0.032*"market" + 0.017*"europ" + 0.015*"think" + 0.015*"china" + 0.012*"countri" + 0.011*"well" + 0.011*"go" + 0.010*"u" + 0.010*"america" + 0.008*"see"
+2017-12-09 20:43:20,219 : INFO : topic diff=0.218375, rho=0.258199
+2017-12-09 20:43:20,221 : INFO : PROGRESS: pass 1, at document #24000/26490
+2017-12-09 20:43:24,511 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:24,630 : INFO : topic #4 (0.050): 0.034*"capit" + 0.034*"cash" + 0.022*"think" + 0.018*"flow" + 0.015*"go" + 0.013*"return" + 0.013*"balanc" + 0.012*"NUM" + 0.012*"year" + 0.011*"term"
+2017-12-09 20:43:24,631 : INFO : topic #2 (0.050): 0.199*"NUM" + 0.034*"year" + 0.026*"million" + 0.016*"go" + 0.013*"billion" + 0.012*"think" + 0.011*"cost" + 0.008*"look" + 0.008*"number" + 0.008*"get"
+2017-12-09 20:43:24,632 : INFO : topic #7 (0.050): 0.040*"busi" + 0.021*"expens" + 0.015*"line" + 0.014*"think" + 0.013*"invest" + 0.012*"revenu" + 0.011*"cost" + 0.011*"oper" + 0.011*"go" + 0.009*"term"
+2017-12-09 20:43:24,632 : INFO : topic #1 (0.050): 0.021*"retail" + 0.015*"store" + 0.014*"share" + 0.014*"new" + 0.014*"data" + 0.013*"categori" + 0.012*"product" + 0.010*"go" + 0.009*"cloud" + 0.009*"applic"
+2017-12-09 20:43:24,633 : INFO : topic #16 (0.050): 0.022*"kind" + 0.021*"think" + 0.020*"tax" + 0.019*"sort" + 0.019*"like" + 0.018*"question" + 0.014*"guess" + 0.012*"seem" + 0.011*"rate" + 0.011*"okay"
+2017-12-09 20:43:24,635 : INFO : topic diff=0.206711, rho=0.258199
+2017-12-09 20:43:24,637 : INFO : PROGRESS: pass 1, at document #26000/26490
+2017-12-09 20:43:29,049 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:29,169 : INFO : topic #14 (0.050): 0.028*"go" + 0.016*"ga" + 0.015*"think" + 0.014*"project" + 0.012*"capac" + 0.010*"well" + 0.010*"get" + 0.009*"demand" + 0.008*"coal" + 0.008*"see"
+2017-12-09 20:43:29,170 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.018*"patient" + 0.017*"data" + 0.015*"think" + 0.012*"question" + 0.010*"u" + 0.010*"launch" + 0.009*"studi" + 0.009*"see" + 0.009*"go"
+2017-12-09 20:43:29,170 : INFO : topic #15 (0.050): 0.069*"margin" + 0.032*"littl" + 0.029*"bit" + 0.027*"year" + 0.017*"think" + 0.016*"go" + 0.016*"gross" + 0.016*"mayb" + 0.015*"cost" + 0.014*"us"
+2017-12-09 20:43:29,171 : INFO : topic #16 (0.050): 0.024*"kind" + 0.022*"tax" + 0.020*"think" + 0.019*"like" + 0.019*"sort" + 0.018*"question" + 0.014*"guess" + 0.012*"rate" + 0.012*"seem" + 0.011*"okay"
+2017-12-09 20:43:29,171 : INFO : topic #3 (0.050): 0.028*"custom" + 0.013*"think" + 0.011*"get" + 0.010*"realli" + 0.010*"go" + 0.010*"thing" + 0.010*"servic" + 0.009*"us" + 0.008*"store" + 0.008*"one"
+2017-12-09 20:43:29,173 : INFO : topic diff=0.197748, rho=0.258199
+2017-12-09 20:43:31,883 : INFO : -6.979 per-word bound, 126.1 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:43:31,883 : INFO : PROGRESS: pass 1, at document #26490/26490
+2017-12-09 20:43:32,916 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:43:33,036 : INFO : topic #17 (0.050): 0.088*"NUM" + 0.030*"year" + 0.015*"quarter" + 0.014*"think" + 0.014*"point" + 0.013*"go" + 0.012*"guidanc" + 0.012*"rate" + 0.012*"look" + 0.010*"basi"
+2017-12-09 20:43:33,036 : INFO : topic #15 (0.050): 0.070*"margin" + 0.031*"littl" + 0.028*"year" + 0.027*"bit" + 0.017*"think" + 0.016*"go" + 0.016*"cost" + 0.015*"us" + 0.015*"mayb" + 0.014*"get"
+2017-12-09 20:43:33,037 : INFO : topic #5 (0.050): 0.025*"think" + 0.020*"busi" + 0.014*"opportun" + 0.013*"compani" + 0.012*"one" + 0.012*"deal" + 0.010*"look" + 0.008*"like" + 0.008*"peopl" + 0.008*"go"
+2017-12-09 20:43:33,037 : INFO : topic #8 (0.050): 0.032*"market" + 0.020*"europ" + 0.015*"china" + 0.015*"think" + 0.012*"well" + 0.012*"america" + 0.011*"u" + 0.011*"go" + 0.010*"countri" + 0.010*"brazil"
+2017-12-09 20:43:33,038 : INFO : topic #14 (0.050): 0.028*"go" + 0.014*"think" + 0.014*"ga" + 0.013*"project" + 0.011*"capac" + 0.010*"get" + 0.010*"well" + 0.009*"coal" + 0.009*"demand" + 0.008*"see"
+2017-12-09 20:43:33,040 : INFO : topic diff=0.160963, rho=0.258199
+2017-12-09 20:43:33,043 : INFO : PROGRESS: pass 2, at document #2000/26490
+2017-12-09 20:43:37,198 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:37,313 : INFO : topic #7 (0.050): 0.037*"busi" + 0.024*"expens" + 0.017*"line" + 0.014*"think" + 0.013*"invest" + 0.012*"cost" + 0.011*"revenu" + 0.011*"oper" + 0.010*"go" + 0.010*"term"
+2017-12-09 20:43:37,314 : INFO : topic #18 (0.050): 0.050*"growth" + 0.021*"think" + 0.020*"see" + 0.020*"year" + 0.018*"NUM" + 0.016*"digit" + 0.016*"busi" + 0.013*"continu" + 0.011*"quarter" + 0.009*"grow"
+2017-12-09 20:43:37,315 : INFO : topic #8 (0.050): 0.033*"market" + 0.020*"europ" + 0.016*"china" + 0.015*"think" + 0.012*"america" + 0.012*"u" + 0.012*"well" + 0.011*"countri" + 0.010*"go" + 0.010*"brazil"
+2017-12-09 20:43:37,315 : INFO : topic #6 (0.050): 0.044*"quarter" + 0.033*"year" + 0.031*"price" + 0.017*"see" + 0.016*"think" + 0.014*"first" + 0.013*"expect" + 0.012*"NUM" + 0.012*"second" + 0.012*"half"
+2017-12-09 20:43:37,315 : INFO : topic #19 (0.050): 0.036*"think" + 0.015*"look" + 0.014*"go" + 0.010*"market" + 0.010*"plan" + 0.009*"us" + 0.009*"term" + 0.008*"know" + 0.007*"care" + 0.007*"see"
+2017-12-09 20:43:37,317 : INFO : topic diff=0.150524, rho=0.250000
+2017-12-09 20:43:37,319 : INFO : PROGRESS: pass 2, at document #4000/26490
+2017-12-09 20:43:41,468 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:41,575 : INFO : topic #18 (0.050): 0.052*"growth" + 0.021*"think" + 0.020*"year" + 0.019*"see" + 0.019*"NUM" + 0.017*"digit" + 0.017*"busi" + 0.013*"continu" + 0.011*"quarter" + 0.010*"grow"
+2017-12-09 20:43:41,575 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.020*"patient" + 0.015*"think" + 0.014*"data" + 0.012*"question" + 0.011*"studi" + 0.009*"see" + 0.009*"launch" + 0.009*"u" + 0.009*"product"
+2017-12-09 20:43:41,576 : INFO : topic #7 (0.050): 0.037*"busi" + 0.025*"expens" + 0.017*"line" + 0.014*"think" + 0.013*"invest" + 0.012*"cost" + 0.011*"oper" + 0.011*"revenu" + 0.010*"go" + 0.010*"term"
+2017-12-09 20:43:41,576 : INFO : topic #15 (0.050): 0.071*"margin" + 0.031*"littl" + 0.027*"bit" + 0.027*"year" + 0.017*"think" + 0.017*"cost" + 0.017*"go" + 0.015*"mayb" + 0.014*"us" + 0.014*"gross"
+2017-12-09 20:43:41,576 : INFO : topic #1 (0.050): 0.019*"retail" + 0.018*"share" + 0.016*"new" + 0.016*"store" + 0.014*"data" + 0.013*"categori" + 0.012*"product" + 0.011*"go" + 0.011*"cloud" + 0.010*"marlboro"
+2017-12-09 20:43:41,578 : INFO : topic diff=0.150262, rho=0.250000
+2017-12-09 20:43:41,580 : INFO : PROGRESS: pass 2, at document #6000/26490
+2017-12-09 20:43:45,748 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:45,854 : INFO : topic #14 (0.050): 0.027*"go" + 0.017*"ga" + 0.016*"project" + 0.013*"think" + 0.011*"capac" + 0.010*"well" + 0.010*"get" + 0.009*"coal" + 0.008*"see" + 0.008*"demand"
+2017-12-09 20:43:45,854 : INFO : topic #10 (0.050): 0.020*"think" + 0.017*"continu" + 0.016*"busi" + 0.013*"invest" + 0.013*"make" + 0.013*"go" + 0.011*"well" + 0.011*"realli" + 0.011*"look" + 0.011*"product"
+2017-12-09 20:43:45,855 : INFO : topic #4 (0.050): 0.038*"capit" + 0.034*"cash" + 0.022*"think" + 0.019*"flow" + 0.016*"go" + 0.014*"return" + 0.012*"balanc" + 0.011*"year" + 0.011*"NUM" + 0.011*"dividend"
+2017-12-09 20:43:45,855 : INFO : topic #13 (0.050): 0.024*"think" + 0.018*"network" + 0.013*"go" + 0.009*"advertis" + 0.009*"product" + 0.009*"content" + 0.009*"video" + 0.008*"devic" + 0.008*"one" + 0.007*"realli"
+2017-12-09 20:43:45,856 : INFO : topic #11 (0.050): 0.031*"think" + 0.025*"market" + 0.024*"busi" + 0.016*"go" + 0.014*"thing" + 0.013*"see" + 0.011*"consum" + 0.010*"lot" + 0.009*"client" + 0.009*"one"
+2017-12-09 20:43:45,859 : INFO : topic diff=0.139449, rho=0.250000
+2017-12-09 20:43:45,861 : INFO : PROGRESS: pass 2, at document #8000/26490
+2017-12-09 20:43:50,026 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:50,127 : INFO : topic #8 (0.050): 0.036*"market" + 0.024*"europ" + 0.015*"think" + 0.014*"china" + 0.014*"u" + 0.013*"america" + 0.012*"well" + 0.010*"north" + 0.010*"countri" + 0.010*"go"
+2017-12-09 20:43:50,127 : INFO : topic #4 (0.050): 0.037*"capit" + 0.035*"cash" + 0.022*"think" + 0.020*"flow" + 0.016*"go" + 0.014*"return" + 0.013*"balanc" + 0.011*"year" + 0.011*"NUM" + 0.011*"term"
+2017-12-09 20:43:50,128 : INFO : topic #2 (0.050): 0.215*"NUM" + 0.035*"year" + 0.025*"million" + 0.016*"go" + 0.015*"billion" + 0.012*"think" + 0.011*"cost" + 0.008*"number" + 0.008*"look" + 0.008*"get"
+2017-12-09 20:43:50,129 : INFO : topic #17 (0.050): 0.087*"NUM" + 0.029*"year" + 0.017*"quarter" + 0.016*"point" + 0.014*"think" + 0.013*"go" + 0.012*"basi" + 0.011*"look" + 0.011*"guidanc" + 0.011*"rate"
+2017-12-09 20:43:50,129 : INFO : topic #13 (0.050): 0.024*"think" + 0.020*"network" + 0.013*"go" + 0.010*"devic" + 0.009*"advertis" + 0.009*"content" + 0.008*"video" + 0.008*"product" + 0.007*"one" + 0.007*"us"
+2017-12-09 20:43:50,131 : INFO : topic diff=0.127379, rho=0.250000
+2017-12-09 20:43:50,133 : INFO : PROGRESS: pass 2, at document #10000/26490
+2017-12-09 20:43:54,232 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:54,337 : INFO : topic #6 (0.050): 0.044*"quarter" + 0.033*"year" + 0.032*"price" + 0.019*"see" + 0.016*"think" + 0.014*"first" + 0.012*"half" + 0.012*"second" + 0.012*"NUM" + 0.012*"expect"
+2017-12-09 20:43:54,338 : INFO : topic #7 (0.050): 0.038*"busi" + 0.024*"expens" + 0.017*"line" + 0.014*"revenu" + 0.013*"cost" + 0.013*"think" + 0.013*"invest" + 0.012*"oper" + 0.010*"term" + 0.010*"manag"
+2017-12-09 20:43:54,338 : INFO : topic #9 (0.050): 0.025*"rate" + 0.016*"loan" + 0.015*"think" + 0.014*"see" + 0.013*"credit" + 0.013*"look" + 0.012*"portfolio" + 0.012*"quarter" + 0.012*"go" + 0.012*"interest"
+2017-12-09 20:43:54,339 : INFO : topic #3 (0.050): 0.028*"custom" + 0.012*"think" + 0.011*"get" + 0.010*"go" + 0.010*"realli" + 0.010*"us" + 0.009*"thing" + 0.009*"technolog" + 0.008*"servic" + 0.008*"one"
+2017-12-09 20:43:54,339 : INFO : topic #19 (0.050): 0.037*"think" + 0.015*"look" + 0.014*"go" + 0.010*"market" + 0.009*"plan" + 0.009*"us" + 0.008*"term" + 0.008*"know" + 0.007*"say" + 0.007*"realli"
+2017-12-09 20:43:54,341 : INFO : topic diff=0.134101, rho=0.250000
+2017-12-09 20:43:54,343 : INFO : PROGRESS: pass 2, at document #12000/26490
+2017-12-09 20:43:58,766 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:43:58,875 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.024*"patient" + 0.016*"data" + 0.015*"think" + 0.011*"question" + 0.010*"studi" + 0.009*"go" + 0.009*"see" + 0.009*"u" + 0.009*"launch"
+2017-12-09 20:43:58,875 : INFO : topic #11 (0.050): 0.031*"think" + 0.026*"market" + 0.025*"busi" + 0.016*"go" + 0.014*"thing" + 0.012*"see" + 0.012*"consum" + 0.010*"lot" + 0.009*"one" + 0.008*"say"
+2017-12-09 20:43:58,876 : INFO : topic #18 (0.050): 0.055*"growth" + 0.021*"year" + 0.021*"think" + 0.020*"see" + 0.019*"NUM" + 0.018*"busi" + 0.015*"digit" + 0.014*"continu" + 0.011*"quarter" + 0.011*"revenu"
+2017-12-09 20:43:58,877 : INFO : topic #7 (0.050): 0.039*"busi" + 0.024*"expens" + 0.018*"line" + 0.015*"revenu" + 0.014*"invest" + 0.013*"cost" + 0.013*"think" + 0.012*"oper" + 0.010*"term" + 0.010*"manag"
+2017-12-09 20:43:58,877 : INFO : topic #8 (0.050): 0.037*"market" + 0.024*"europ" + 0.015*"china" + 0.015*"think" + 0.014*"u" + 0.014*"america" + 0.012*"well" + 0.011*"countri" + 0.011*"north" + 0.010*"go"
+2017-12-09 20:43:58,879 : INFO : topic diff=0.118613, rho=0.250000
+2017-12-09 20:43:58,881 : INFO : PROGRESS: pass 2, at document #14000/26490
+2017-12-09 20:44:03,285 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:03,397 : INFO : topic #14 (0.050): 0.028*"go" + 0.017*"project" + 0.017*"ga" + 0.013*"think" + 0.012*"capac" + 0.011*"well" + 0.010*"coal" + 0.010*"get" + 0.009*"demand" + 0.009*"rig"
+2017-12-09 20:44:03,398 : INFO : topic #15 (0.050): 0.070*"margin" + 0.032*"littl" + 0.028*"bit" + 0.028*"year" + 0.019*"go" + 0.018*"think" + 0.018*"cost" + 0.017*"gross" + 0.014*"get" + 0.014*"mayb"
+2017-12-09 20:44:03,398 : INFO : topic #4 (0.050): 0.038*"capit" + 0.036*"cash" + 0.022*"think" + 0.021*"flow" + 0.016*"go" + 0.015*"return" + 0.013*"balanc" + 0.012*"year" + 0.011*"term" + 0.010*"NUM"
+2017-12-09 20:44:03,399 : INFO : topic #7 (0.050): 0.039*"busi" + 0.024*"expens" + 0.018*"line" + 0.015*"revenu" + 0.014*"cost" + 0.014*"invest" + 0.013*"think" + 0.013*"oper" + 0.010*"manag" + 0.010*"term"
+2017-12-09 20:44:03,399 : INFO : topic #1 (0.050): 0.027*"retail" + 0.020*"store" + 0.019*"share" + 0.016*"categori" + 0.014*"new" + 0.012*"data" + 0.012*"brand" + 0.012*"product" + 0.011*"center" + 0.010*"go"
+2017-12-09 20:44:03,401 : INFO : topic diff=0.110233, rho=0.250000
+2017-12-09 20:44:03,403 : INFO : PROGRESS: pass 2, at document #16000/26490
+2017-12-09 20:44:07,812 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:07,923 : INFO : topic #3 (0.050): 0.029*"custom" + 0.012*"think" + 0.011*"get" + 0.011*"realli" + 0.010*"go" + 0.010*"us" + 0.010*"thing" + 0.009*"servic" + 0.008*"technolog" + 0.008*"store"
+2017-12-09 20:44:07,924 : INFO : topic #9 (0.050): 0.026*"rate" + 0.016*"think" + 0.015*"loan" + 0.015*"see" + 0.014*"credit" + 0.013*"go" + 0.013*"interest" + 0.012*"quarter" + 0.012*"portfolio" + 0.012*"look"
+2017-12-09 20:44:07,924 : INFO : topic #13 (0.050): 0.024*"think" + 0.017*"network" + 0.014*"go" + 0.010*"advertis" + 0.009*"content" + 0.008*"product" + 0.008*"devic" + 0.008*"realli" + 0.007*"one" + 0.007*"us"
+2017-12-09 20:44:07,925 : INFO : topic #11 (0.050): 0.031*"think" + 0.027*"market" + 0.025*"busi" + 0.016*"go" + 0.014*"thing" + 0.012*"see" + 0.012*"consum" + 0.010*"lot" + 0.009*"one" + 0.009*"say"
+2017-12-09 20:44:07,925 : INFO : topic #19 (0.050): 0.037*"think" + 0.015*"look" + 0.015*"go" + 0.009*"market" + 0.009*"plan" + 0.009*"us" + 0.008*"term" + 0.008*"know" + 0.008*"say" + 0.007*"time"
+2017-12-09 20:44:07,927 : INFO : topic diff=0.102438, rho=0.250000
+2017-12-09 20:44:07,929 : INFO : PROGRESS: pass 2, at document #18000/26490
+2017-12-09 20:44:12,256 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:12,366 : INFO : topic #17 (0.050): 0.086*"NUM" + 0.030*"year" + 0.017*"quarter" + 0.016*"point" + 0.014*"think" + 0.013*"go" + 0.012*"guidanc" + 0.012*"basi" + 0.011*"look" + 0.011*"rate"
+2017-12-09 20:44:12,367 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"busi" + 0.017*"continu" + 0.013*"make" + 0.013*"go" + 0.012*"invest" + 0.012*"realli" + 0.011*"well" + 0.011*"product" + 0.011*"us"
+2017-12-09 20:44:12,367 : INFO : topic #13 (0.050): 0.025*"think" + 0.018*"network" + 0.014*"go" + 0.010*"advertis" + 0.008*"content" + 0.008*"product" + 0.008*"devic" + 0.008*"realli" + 0.007*"one" + 0.007*"us"
+2017-12-09 20:44:12,368 : INFO : topic #8 (0.050): 0.038*"market" + 0.023*"europ" + 0.017*"china" + 0.015*"america" + 0.015*"u" + 0.014*"think" + 0.013*"countri" + 0.012*"well" + 0.011*"north" + 0.010*"go"
+2017-12-09 20:44:12,369 : INFO : topic #2 (0.050): 0.225*"NUM" + 0.036*"year" + 0.026*"million" + 0.017*"billion" + 0.015*"go" + 0.012*"think" + 0.011*"cost" + 0.008*"number" + 0.008*"look" + 0.008*"expect"
+2017-12-09 20:44:12,371 : INFO : topic diff=0.108108, rho=0.250000
+2017-12-09 20:44:23,026 : INFO : -7.037 per-word bound, 131.3 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:44:23,026 : INFO : PROGRESS: pass 2, at document #20000/26490
+2017-12-09 20:44:27,176 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:27,280 : INFO : topic #13 (0.050): 0.025*"think" + 0.018*"network" + 0.014*"go" + 0.009*"devic" + 0.009*"advertis" + 0.009*"content" + 0.008*"product" + 0.008*"realli" + 0.007*"one" + 0.007*"video"
+2017-12-09 20:44:27,281 : INFO : topic #18 (0.050): 0.060*"growth" + 0.021*"year" + 0.021*"think" + 0.020*"see" + 0.019*"busi" + 0.018*"NUM" + 0.018*"digit" + 0.013*"continu" + 0.012*"quarter" + 0.012*"revenu"
+2017-12-09 20:44:27,281 : INFO : topic #5 (0.050): 0.025*"think" + 0.021*"busi" + 0.016*"opportun" + 0.014*"compani" + 0.013*"one" + 0.013*"deal" + 0.011*"look" + 0.008*"like" + 0.008*"go" + 0.007*"get"
+2017-12-09 20:44:27,282 : INFO : topic #12 (0.050): 0.052*"thank" + 0.044*"question" + 0.030*"mayb" + 0.021*"guy" + 0.019*"guess" + 0.019*"talk" + 0.018*"littl" + 0.018*"like" + 0.018*"bit" + 0.018*"wonder"
+2017-12-09 20:44:27,282 : INFO : topic #17 (0.050): 0.085*"NUM" + 0.030*"year" + 0.017*"quarter" + 0.016*"point" + 0.014*"think" + 0.012*"go" + 0.012*"guidanc" + 0.012*"look" + 0.011*"basi" + 0.011*"rate"
+2017-12-09 20:44:27,285 : INFO : topic diff=0.102672, rho=0.250000
+2017-12-09 20:44:27,287 : INFO : PROGRESS: pass 2, at document #22000/26490
+2017-12-09 20:44:31,395 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:31,502 : INFO : topic #1 (0.050): 0.025*"retail" + 0.018*"share" + 0.017*"categori" + 0.017*"store" + 0.015*"new" + 0.014*"data" + 0.012*"brand" + 0.012*"product" + 0.012*"cloud" + 0.010*"go"
+2017-12-09 20:44:31,502 : INFO : topic #7 (0.050): 0.039*"busi" + 0.026*"expens" + 0.018*"line" + 0.018*"revenu" + 0.016*"cost" + 0.016*"oper" + 0.016*"invest" + 0.012*"think" + 0.011*"spend" + 0.011*"manag"
+2017-12-09 20:44:31,503 : INFO : topic #4 (0.050): 0.038*"capit" + 0.036*"cash" + 0.021*"think" + 0.019*"flow" + 0.015*"go" + 0.014*"return" + 0.013*"balanc" + 0.011*"year" + 0.011*"look" + 0.010*"term"
+2017-12-09 20:44:31,503 : INFO : topic #18 (0.050): 0.060*"growth" + 0.021*"year" + 0.021*"think" + 0.020*"see" + 0.020*"busi" + 0.018*"NUM" + 0.017*"digit" + 0.013*"continu" + 0.012*"quarter" + 0.012*"grow"
+2017-12-09 20:44:31,503 : INFO : topic #10 (0.050): 0.020*"think" + 0.017*"busi" + 0.016*"continu" + 0.013*"go" + 0.013*"invest" + 0.013*"make" + 0.012*"realli" + 0.011*"well" + 0.011*"us" + 0.010*"look"
+2017-12-09 20:44:31,505 : INFO : topic diff=0.098919, rho=0.250000
+2017-12-09 20:44:31,507 : INFO : PROGRESS: pass 2, at document #24000/26490
+2017-12-09 20:44:35,702 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:35,807 : INFO : topic #1 (0.050): 0.025*"retail" + 0.019*"store" + 0.018*"categori" + 0.018*"share" + 0.015*"data" + 0.014*"new" + 0.013*"cloud" + 0.013*"brand" + 0.012*"product" + 0.010*"go"
+2017-12-09 20:44:35,807 : INFO : topic #7 (0.050): 0.039*"busi" + 0.027*"expens" + 0.018*"line" + 0.018*"revenu" + 0.016*"cost" + 0.016*"invest" + 0.015*"oper" + 0.012*"think" + 0.012*"spend" + 0.011*"manag"
+2017-12-09 20:44:35,808 : INFO : topic #3 (0.050): 0.033*"custom" + 0.011*"servic" + 0.011*"get" + 0.011*"think" + 0.011*"us" + 0.010*"realli" + 0.010*"thing" + 0.010*"go" + 0.009*"technolog" + 0.008*"store"
+2017-12-09 20:44:35,808 : INFO : topic #18 (0.050): 0.060*"growth" + 0.021*"year" + 0.020*"busi" + 0.020*"think" + 0.020*"see" + 0.018*"NUM" + 0.017*"digit" + 0.013*"continu" + 0.012*"grow" + 0.012*"quarter"
+2017-12-09 20:44:35,809 : INFO : topic #13 (0.050): 0.025*"think" + 0.019*"network" + 0.013*"go" + 0.011*"content" + 0.009*"advertis" + 0.009*"devic" + 0.009*"video" + 0.008*"product" + 0.007*"realli" + 0.007*"one"
+2017-12-09 20:44:35,811 : INFO : topic diff=0.096944, rho=0.250000
+2017-12-09 20:44:35,812 : INFO : PROGRESS: pass 2, at document #26000/26490
+2017-12-09 20:44:39,905 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:40,007 : INFO : topic #3 (0.050): 0.033*"custom" + 0.011*"get" + 0.011*"servic" + 0.011*"think" + 0.011*"us" + 0.010*"realli" + 0.010*"thing" + 0.010*"go" + 0.008*"technolog" + 0.008*"one"
+2017-12-09 20:44:40,008 : INFO : topic #14 (0.050): 0.026*"go" + 0.020*"project" + 0.018*"ga" + 0.013*"capac" + 0.013*"think" + 0.012*"well" + 0.010*"demand" + 0.010*"get" + 0.010*"oil" + 0.009*"rig"
+2017-12-09 20:44:40,009 : INFO : topic #12 (0.050): 0.052*"thank" + 0.044*"question" + 0.031*"mayb" + 0.021*"guy" + 0.020*"guess" + 0.019*"talk" + 0.019*"littl" + 0.018*"wonder" + 0.018*"like" + 0.018*"bit"
+2017-12-09 20:44:40,010 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"continu" + 0.017*"busi" + 0.013*"make" + 0.013*"invest" + 0.013*"go" + 0.012*"realli" + 0.012*"us" + 0.011*"well" + 0.011*"look"
+2017-12-09 20:44:40,010 : INFO : topic #18 (0.050): 0.060*"growth" + 0.021*"busi" + 0.020*"year" + 0.020*"see" + 0.020*"think" + 0.018*"NUM" + 0.016*"digit" + 0.013*"continu" + 0.013*"grow" + 0.012*"quarter"
+2017-12-09 20:44:40,012 : INFO : topic diff=0.091345, rho=0.250000
+2017-12-09 20:44:42,483 : INFO : -6.950 per-word bound, 123.6 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:44:42,483 : INFO : PROGRESS: pass 2, at document #26490/26490
+2017-12-09 20:44:43,405 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:44:43,507 : INFO : topic #2 (0.050): 0.231*"NUM" + 0.039*"year" + 0.027*"million" + 0.017*"billion" + 0.015*"go" + 0.012*"think" + 0.011*"cost" + 0.009*"number" + 0.008*"look" + 0.008*"expect"
+2017-12-09 20:44:43,508 : INFO : topic #18 (0.050): 0.059*"growth" + 0.021*"year" + 0.021*"busi" + 0.020*"think" + 0.020*"see" + 0.019*"NUM" + 0.016*"digit" + 0.013*"continu" + 0.013*"grow" + 0.011*"revenu"
+2017-12-09 20:44:43,508 : INFO : topic #7 (0.050): 0.037*"busi" + 0.029*"expens" + 0.018*"line" + 0.018*"cost" + 0.016*"revenu" + 0.016*"invest" + 0.016*"oper" + 0.012*"think" + 0.012*"spend" + 0.011*"ratio"
+2017-12-09 20:44:43,509 : INFO : topic #9 (0.050): 0.027*"rate" + 0.016*"think" + 0.016*"credit" + 0.015*"see" + 0.014*"loan" + 0.013*"deposit" + 0.013*"interest" + 0.012*"go" + 0.012*"bank" + 0.012*"look"
+2017-12-09 20:44:43,509 : INFO : topic #14 (0.050): 0.026*"go" + 0.018*"project" + 0.015*"ga" + 0.013*"think" + 0.012*"capac" + 0.011*"well" + 0.010*"demand" + 0.010*"get" + 0.010*"coal" + 0.009*"see"
+2017-12-09 20:44:43,511 : INFO : topic diff=0.094052, rho=0.250000
+2017-12-09 20:44:43,514 : INFO : PROGRESS: pass 3, at document #2000/26490
+2017-12-09 20:44:47,310 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:47,408 : INFO : topic #19 (0.050): 0.037*"think" + 0.015*"go" + 0.014*"look" + 0.011*"plan" + 0.009*"market" + 0.009*"know" + 0.008*"us" + 0.008*"term" + 0.007*"care" + 0.007*"see"
+2017-12-09 20:44:47,409 : INFO : topic #13 (0.050): 0.026*"think" + 0.019*"network" + 0.013*"go" + 0.009*"content" + 0.009*"devic" + 0.009*"advertis" + 0.008*"video" + 0.008*"product" + 0.008*"one" + 0.007*"us"
+2017-12-09 20:44:47,410 : INFO : topic #9 (0.050): 0.027*"rate" + 0.016*"think" + 0.015*"loan" + 0.015*"see" + 0.015*"credit" + 0.013*"interest" + 0.013*"bank" + 0.013*"deposit" + 0.013*"go" + 0.012*"look"
+2017-12-09 20:44:47,410 : INFO : topic #1 (0.050): 0.024*"retail" + 0.021*"share" + 0.018*"categori" + 0.017*"store" + 0.015*"new" + 0.014*"data" + 0.013*"brand" + 0.013*"cloud" + 0.012*"product" + 0.011*"promot"
+2017-12-09 20:44:47,410 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.019*"patient" + 0.015*"data" + 0.014*"think" + 0.013*"question" + 0.011*"studi" + 0.010*"launch" + 0.009*"product" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:44:47,413 : INFO : topic diff=0.083295, rho=0.242536
+2017-12-09 20:44:47,414 : INFO : PROGRESS: pass 3, at document #4000/26490
+2017-12-09 20:44:51,298 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:51,394 : INFO : topic #5 (0.050): 0.026*"think" + 0.022*"busi" + 0.016*"opportun" + 0.015*"compani" + 0.014*"deal" + 0.014*"one" + 0.010*"look" + 0.008*"new" + 0.008*"go" + 0.008*"get"
+2017-12-09 20:44:51,395 : INFO : topic #2 (0.050): 0.236*"NUM" + 0.038*"year" + 0.026*"million" + 0.018*"billion" + 0.015*"go" + 0.012*"think" + 0.011*"cost" + 0.009*"number" + 0.008*"look" + 0.008*"expect"
+2017-12-09 20:44:51,395 : INFO : topic #19 (0.050): 0.037*"think" + 0.015*"go" + 0.014*"look" + 0.011*"plan" + 0.009*"market" + 0.009*"know" + 0.008*"term" + 0.008*"us" + 0.007*"see" + 0.007*"time"
+2017-12-09 20:44:51,396 : INFO : topic #13 (0.050): 0.026*"think" + 0.018*"network" + 0.013*"go" + 0.009*"video" + 0.009*"advertis" + 0.009*"content" + 0.009*"devic" + 0.008*"product" + 0.008*"one" + 0.007*"realli"
+2017-12-09 20:44:51,396 : INFO : topic #16 (0.050): 0.027*"kind" + 0.022*"think" + 0.022*"sort" + 0.021*"like" + 0.021*"tax" + 0.018*"question" + 0.017*"guess" + 0.017*"mean" + 0.013*"okay" + 0.012*"rate"
+2017-12-09 20:44:51,398 : INFO : topic diff=0.086433, rho=0.242536
+2017-12-09 20:44:51,400 : INFO : PROGRESS: pass 3, at document #6000/26490
+2017-12-09 20:44:55,293 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:55,390 : INFO : topic #8 (0.050): 0.038*"market" + 0.026*"europ" + 0.019*"u" + 0.018*"america" + 0.018*"china" + 0.015*"north" + 0.014*"think" + 0.012*"well" + 0.012*"countri" + 0.009*"go"
+2017-12-09 20:44:55,390 : INFO : topic #1 (0.050): 0.024*"share" + 0.024*"retail" + 0.020*"categori" + 0.018*"store" + 0.015*"brand" + 0.015*"new" + 0.014*"data" + 0.013*"cloud" + 0.013*"product" + 0.012*"marlboro"
+2017-12-09 20:44:55,391 : INFO : topic #15 (0.050): 0.081*"margin" + 0.028*"littl" + 0.027*"year" + 0.025*"bit" + 0.021*"cost" + 0.020*"go" + 0.019*"think" + 0.017*"gross" + 0.015*"get" + 0.014*"us"
+2017-12-09 20:44:55,391 : INFO : topic #6 (0.050): 0.048*"quarter" + 0.034*"year" + 0.031*"price" + 0.019*"see" + 0.016*"think" + 0.015*"first" + 0.013*"half" + 0.013*"expect" + 0.013*"second" + 0.011*"NUM"
+2017-12-09 20:44:55,392 : INFO : topic #19 (0.050): 0.037*"think" + 0.015*"go" + 0.014*"look" + 0.011*"plan" + 0.009*"market" + 0.008*"know" + 0.008*"us" + 0.008*"term" + 0.007*"see" + 0.007*"obvious"
+2017-12-09 20:44:55,394 : INFO : topic diff=0.084097, rho=0.242536
+2017-12-09 20:44:55,396 : INFO : PROGRESS: pass 3, at document #8000/26490
+2017-12-09 20:44:59,453 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:44:59,548 : INFO : topic #15 (0.050): 0.081*"margin" + 0.028*"littl" + 0.027*"year" + 0.025*"bit" + 0.021*"cost" + 0.021*"go" + 0.019*"think" + 0.017*"gross" + 0.015*"get" + 0.013*"us"
+2017-12-09 20:44:59,548 : INFO : topic #1 (0.050): 0.024*"retail" + 0.024*"share" + 0.021*"categori" + 0.018*"store" + 0.015*"brand" + 0.015*"new" + 0.013*"data" + 0.013*"product" + 0.012*"cloud" + 0.011*"promot"
+2017-12-09 20:44:59,549 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.021*"guy" + 0.020*"guess" + 0.019*"talk" + 0.019*"bit" + 0.019*"like" + 0.019*"littl" + 0.017*"wonder"
+2017-12-09 20:44:59,549 : INFO : topic #19 (0.050): 0.037*"think" + 0.016*"go" + 0.014*"look" + 0.011*"plan" + 0.009*"market" + 0.008*"know" + 0.008*"us" + 0.008*"term" + 0.007*"see" + 0.007*"obvious"
+2017-12-09 20:44:59,550 : INFO : topic #11 (0.050): 0.032*"think" + 0.029*"market" + 0.025*"busi" + 0.015*"go" + 0.014*"thing" + 0.013*"see" + 0.012*"consum" + 0.011*"lot" + 0.009*"say" + 0.009*"one"
+2017-12-09 20:44:59,552 : INFO : topic diff=0.077126, rho=0.242536
+2017-12-09 20:44:59,553 : INFO : PROGRESS: pass 3, at document #10000/26490
+2017-12-09 20:45:03,594 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:03,692 : INFO : topic #4 (0.050): 0.040*"capit" + 0.036*"cash" + 0.021*"think" + 0.021*"flow" + 0.016*"go" + 0.016*"return" + 0.014*"balanc" + 0.011*"debt" + 0.011*"year" + 0.010*"dividend"
+2017-12-09 20:45:03,693 : INFO : topic #1 (0.050): 0.025*"retail" + 0.023*"share" + 0.021*"categori" + 0.019*"store" + 0.015*"brand" + 0.014*"new" + 0.014*"data" + 0.012*"cloud" + 0.012*"product" + 0.011*"center"
+2017-12-09 20:45:03,693 : INFO : topic #3 (0.050): 0.032*"custom" + 0.011*"get" + 0.011*"us" + 0.010*"go" + 0.010*"think" + 0.010*"realli" + 0.010*"servic" + 0.009*"thing" + 0.009*"technolog" + 0.008*"one"
+2017-12-09 20:45:03,693 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"invest" + 0.013*"make" + 0.013*"go" + 0.012*"realli" + 0.011*"us" + 0.011*"look" + 0.011*"well"
+2017-12-09 20:45:03,694 : INFO : topic #18 (0.050): 0.061*"growth" + 0.022*"busi" + 0.021*"year" + 0.021*"see" + 0.020*"NUM" + 0.020*"think" + 0.016*"digit" + 0.015*"continu" + 0.014*"revenu" + 0.013*"grow"
+2017-12-09 20:45:03,696 : INFO : topic diff=0.086967, rho=0.242536
+2017-12-09 20:45:03,698 : INFO : PROGRESS: pass 3, at document #12000/26490
+2017-12-09 20:45:07,735 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:07,832 : INFO : topic #13 (0.050): 0.027*"think" + 0.018*"network" + 0.014*"go" + 0.010*"advertis" + 0.010*"devic" + 0.009*"content" + 0.008*"product" + 0.007*"us" + 0.007*"one" + 0.007*"realli"
+2017-12-09 20:45:07,832 : INFO : topic #12 (0.050): 0.052*"thank" + 0.043*"question" + 0.032*"mayb" + 0.021*"guy" + 0.020*"guess" + 0.020*"talk" + 0.019*"bit" + 0.019*"littl" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:45:07,833 : INFO : topic #1 (0.050): 0.030*"retail" + 0.022*"share" + 0.022*"categori" + 0.021*"store" + 0.015*"brand" + 0.014*"new" + 0.014*"data" + 0.013*"cloud" + 0.012*"product" + 0.012*"center"
+2017-12-09 20:45:07,833 : INFO : topic #17 (0.050): 0.084*"NUM" + 0.030*"year" + 0.017*"point" + 0.017*"quarter" + 0.014*"think" + 0.013*"go" + 0.013*"guidanc" + 0.012*"basi" + 0.011*"rate" + 0.011*"look"
+2017-12-09 20:45:07,834 : INFO : topic #11 (0.050): 0.032*"think" + 0.029*"market" + 0.025*"busi" + 0.016*"go" + 0.014*"thing" + 0.013*"consum" + 0.012*"see" + 0.010*"lot" + 0.009*"one" + 0.009*"say"
+2017-12-09 20:45:07,836 : INFO : topic diff=0.076150, rho=0.242536
+2017-12-09 20:45:07,838 : INFO : PROGRESS: pass 3, at document #14000/26490
+2017-12-09 20:45:11,957 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:12,056 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.026*"patient" + 0.017*"data" + 0.014*"think" + 0.012*"question" + 0.010*"launch" + 0.010*"studi" + 0.009*"u" + 0.009*"go" + 0.009*"see"
+2017-12-09 20:45:12,056 : INFO : topic #2 (0.050): 0.246*"NUM" + 0.038*"year" + 0.028*"million" + 0.020*"billion" + 0.015*"go" + 0.012*"think" + 0.011*"cost" + 0.009*"number" + 0.008*"look" + 0.007*"expect"
+2017-12-09 20:45:12,057 : INFO : topic #17 (0.050): 0.082*"NUM" + 0.030*"year" + 0.017*"quarter" + 0.017*"point" + 0.014*"think" + 0.013*"guidanc" + 0.013*"go" + 0.012*"basi" + 0.012*"rate" + 0.011*"look"
+2017-12-09 20:45:12,057 : INFO : topic #11 (0.050): 0.032*"think" + 0.029*"market" + 0.024*"busi" + 0.016*"go" + 0.015*"thing" + 0.012*"see" + 0.012*"consum" + 0.011*"lot" + 0.009*"one" + 0.009*"say"
+2017-12-09 20:45:12,058 : INFO : topic #14 (0.050): 0.027*"go" + 0.020*"project" + 0.017*"ga" + 0.013*"capac" + 0.012*"think" + 0.012*"well" + 0.011*"rig" + 0.011*"coal" + 0.010*"oil" + 0.010*"get"
+2017-12-09 20:45:12,060 : INFO : topic diff=0.071669, rho=0.242536
+2017-12-09 20:45:12,062 : INFO : PROGRESS: pass 3, at document #16000/26490
+2017-12-09 20:45:16,175 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:16,275 : INFO : topic #6 (0.050): 0.048*"quarter" + 0.035*"year" + 0.030*"price" + 0.020*"see" + 0.017*"think" + 0.014*"first" + 0.013*"half" + 0.013*"second" + 0.012*"expect" + 0.011*"NUM"
+2017-12-09 20:45:16,275 : INFO : topic #1 (0.050): 0.029*"retail" + 0.023*"categori" + 0.022*"share" + 0.020*"store" + 0.016*"brand" + 0.013*"cloud" + 0.013*"new" + 0.012*"product" + 0.012*"data" + 0.011*"promot"
+2017-12-09 20:45:16,276 : INFO : topic #16 (0.050): 0.030*"kind" + 0.023*"sort" + 0.022*"like" + 0.022*"think" + 0.019*"tax" + 0.017*"question" + 0.017*"mean" + 0.016*"guess" + 0.014*"okay" + 0.012*"rate"
+2017-12-09 20:45:16,276 : INFO : topic #3 (0.050): 0.032*"custom" + 0.011*"get" + 0.011*"us" + 0.011*"servic" + 0.011*"realli" + 0.011*"go" + 0.010*"think" + 0.010*"thing" + 0.009*"technolog" + 0.008*"work"
+2017-12-09 20:45:16,277 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"continu" + 0.016*"busi" + 0.013*"go" + 0.013*"make" + 0.013*"invest" + 0.012*"realli" + 0.011*"us" + 0.011*"well" + 0.011*"look"
+2017-12-09 20:45:16,279 : INFO : topic diff=0.066879, rho=0.242536
+2017-12-09 20:45:16,280 : INFO : PROGRESS: pass 3, at document #18000/26490
+2017-12-09 20:45:20,344 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:20,446 : INFO : topic #17 (0.050): 0.082*"NUM" + 0.031*"year" + 0.017*"point" + 0.017*"quarter" + 0.014*"think" + 0.013*"guidanc" + 0.013*"go" + 0.012*"basi" + 0.012*"rate" + 0.011*"look"
+2017-12-09 20:45:20,446 : INFO : topic #1 (0.050): 0.028*"retail" + 0.023*"categori" + 0.021*"share" + 0.020*"store" + 0.016*"brand" + 0.013*"new" + 0.013*"cloud" + 0.013*"data" + 0.013*"product" + 0.011*"storag"
+2017-12-09 20:45:20,447 : INFO : topic #5 (0.050): 0.026*"think" + 0.022*"busi" + 0.017*"opportun" + 0.015*"compani" + 0.014*"deal" + 0.014*"one" + 0.011*"look" + 0.009*"acquisit" + 0.008*"go" + 0.008*"like"
+2017-12-09 20:45:20,447 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"make" + 0.013*"go" + 0.013*"invest" + 0.012*"realli" + 0.011*"us" + 0.011*"well" + 0.011*"look"
+2017-12-09 20:45:20,448 : INFO : topic #9 (0.050): 0.025*"rate" + 0.016*"think" + 0.016*"loan" + 0.015*"see" + 0.015*"credit" + 0.013*"bank" + 0.013*"go" + 0.012*"interest" + 0.012*"portfolio" + 0.012*"deposit"
+2017-12-09 20:45:20,450 : INFO : topic diff=0.076182, rho=0.242536
+2017-12-09 20:45:30,603 : INFO : -7.025 per-word bound, 130.3 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:45:30,603 : INFO : PROGRESS: pass 3, at document #20000/26490
+2017-12-09 20:45:34,468 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:34,561 : INFO : topic #18 (0.050): 0.065*"growth" + 0.024*"busi" + 0.022*"year" + 0.021*"see" + 0.020*"think" + 0.019*"NUM" + 0.018*"digit" + 0.013*"grow" + 0.013*"revenu" + 0.013*"continu"
+2017-12-09 20:45:34,562 : INFO : topic #17 (0.050): 0.081*"NUM" + 0.031*"year" + 0.017*"quarter" + 0.017*"point" + 0.014*"think" + 0.013*"guidanc" + 0.013*"go" + 0.012*"rate" + 0.012*"basi" + 0.011*"look"
+2017-12-09 20:45:34,562 : INFO : topic #4 (0.050): 0.041*"capit" + 0.038*"cash" + 0.021*"flow" + 0.020*"think" + 0.015*"go" + 0.015*"return" + 0.014*"balanc" + 0.011*"look" + 0.011*"year" + 0.011*"debt"
+2017-12-09 20:45:34,562 : INFO : topic #14 (0.050): 0.026*"go" + 0.022*"project" + 0.019*"ga" + 0.013*"capac" + 0.012*"well" + 0.012*"think" + 0.011*"oil" + 0.011*"coal" + 0.010*"rig" + 0.010*"demand"
+2017-12-09 20:45:34,563 : INFO : topic #2 (0.050): 0.245*"NUM" + 0.038*"year" + 0.029*"million" + 0.020*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"cost" + 0.009*"number" + 0.008*"look" + 0.007*"expect"
+2017-12-09 20:45:34,565 : INFO : topic diff=0.072063, rho=0.242536
+2017-12-09 20:45:34,567 : INFO : PROGRESS: pass 3, at document #22000/26490
+2017-12-09 20:45:38,620 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:38,718 : INFO : topic #13 (0.050): 0.027*"think" + 0.018*"network" + 0.014*"go" + 0.010*"devic" + 0.010*"advertis" + 0.009*"content" + 0.009*"video" + 0.008*"product" + 0.007*"mobil" + 0.007*"realli"
+2017-12-09 20:45:38,719 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"go" + 0.013*"make" + 0.013*"invest" + 0.012*"realli" + 0.011*"us" + 0.011*"well" + 0.011*"look"
+2017-12-09 20:45:38,719 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.031*"mayb" + 0.020*"guy" + 0.020*"littl" + 0.019*"bit" + 0.019*"talk" + 0.019*"guess" + 0.018*"like" + 0.018*"wonder"
+2017-12-09 20:45:38,720 : INFO : topic #15 (0.050): 0.085*"margin" + 0.028*"littl" + 0.027*"year" + 0.024*"bit" + 0.023*"cost" + 0.022*"go" + 0.021*"gross" + 0.020*"think" + 0.015*"get" + 0.013*"us"
+2017-12-09 20:45:38,720 : INFO : topic #9 (0.050): 0.026*"rate" + 0.016*"credit" + 0.016*"see" + 0.015*"think" + 0.015*"loan" + 0.014*"bank" + 0.013*"interest" + 0.013*"card" + 0.013*"go" + 0.012*"look"
+2017-12-09 20:45:38,722 : INFO : topic diff=0.070703, rho=0.242536
+2017-12-09 20:45:38,724 : INFO : PROGRESS: pass 3, at document #24000/26490
+2017-12-09 20:45:42,860 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:42,959 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.031*"mayb" + 0.020*"guy" + 0.020*"guess" + 0.020*"littl" + 0.020*"talk" + 0.019*"bit" + 0.018*"like" + 0.018*"wonder"
+2017-12-09 20:45:42,959 : INFO : topic #16 (0.050): 0.030*"kind" + 0.025*"sort" + 0.023*"like" + 0.022*"think" + 0.018*"mean" + 0.017*"guess" + 0.017*"question" + 0.017*"tax" + 0.014*"okay" + 0.012*"get"
+2017-12-09 20:45:42,960 : INFO : topic #3 (0.050): 0.036*"custom" + 0.013*"servic" + 0.012*"get" + 0.012*"us" + 0.010*"thing" + 0.010*"go" + 0.010*"realli" + 0.009*"think" + 0.009*"technolog" + 0.008*"one"
+2017-12-09 20:45:42,960 : INFO : topic #1 (0.050): 0.027*"retail" + 0.023*"categori" + 0.021*"store" + 0.020*"share" + 0.017*"brand" + 0.016*"cloud" + 0.015*"data" + 0.014*"new" + 0.012*"product" + 0.011*"sale"
+2017-12-09 20:45:42,961 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"credit" + 0.016*"see" + 0.015*"think" + 0.015*"loan" + 0.013*"bank" + 0.013*"card" + 0.013*"interest" + 0.013*"go" + 0.012*"portfolio"
+2017-12-09 20:45:42,963 : INFO : topic diff=0.071863, rho=0.242536
+2017-12-09 20:45:42,965 : INFO : PROGRESS: pass 3, at document #26000/26490
+2017-12-09 20:45:47,002 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:47,100 : INFO : topic #1 (0.050): 0.027*"retail" + 0.024*"categori" + 0.020*"share" + 0.020*"store" + 0.016*"cloud" + 0.016*"brand" + 0.014*"data" + 0.013*"new" + 0.012*"product" + 0.011*"promot"
+2017-12-09 20:45:47,101 : INFO : topic #16 (0.050): 0.032*"kind" + 0.025*"sort" + 0.023*"like" + 0.022*"think" + 0.019*"mean" + 0.018*"tax" + 0.017*"guess" + 0.017*"question" + 0.014*"okay" + 0.013*"get"
+2017-12-09 20:45:47,101 : INFO : topic #18 (0.050): 0.065*"growth" + 0.026*"busi" + 0.021*"year" + 0.021*"see" + 0.020*"NUM" + 0.019*"think" + 0.016*"digit" + 0.015*"grow" + 0.014*"continu" + 0.013*"revenu"
+2017-12-09 20:45:47,102 : INFO : topic #5 (0.050): 0.027*"think" + 0.023*"busi" + 0.016*"opportun" + 0.016*"compani" + 0.015*"deal" + 0.014*"one" + 0.011*"look" + 0.009*"acquisit" + 0.008*"go" + 0.007*"like"
+2017-12-09 20:45:47,102 : INFO : topic #13 (0.050): 0.028*"think" + 0.019*"network" + 0.013*"go" + 0.010*"content" + 0.010*"devic" + 0.009*"advertis" + 0.009*"video" + 0.008*"product" + 0.008*"mobil" + 0.007*"one"
+2017-12-09 20:45:47,104 : INFO : topic diff=0.068170, rho=0.242536
+2017-12-09 20:45:49,629 : INFO : -6.938 per-word bound, 122.6 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:45:49,629 : INFO : PROGRESS: pass 3, at document #26490/26490
+2017-12-09 20:45:50,576 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:45:50,678 : INFO : topic #3 (0.050): 0.036*"custom" + 0.012*"us" + 0.012*"servic" + 0.012*"get" + 0.011*"go" + 0.010*"realli" + 0.010*"thing" + 0.009*"think" + 0.009*"technolog" + 0.008*"work"
+2017-12-09 20:45:50,679 : INFO : topic #14 (0.050): 0.026*"go" + 0.020*"project" + 0.015*"ga" + 0.013*"capac" + 0.012*"well" + 0.012*"think" + 0.011*"demand" + 0.010*"oil" + 0.010*"coal" + 0.010*"get"
+2017-12-09 20:45:50,679 : INFO : topic #17 (0.050): 0.082*"NUM" + 0.031*"year" + 0.015*"point" + 0.015*"guidanc" + 0.015*"quarter" + 0.014*"think" + 0.013*"go" + 0.013*"rate" + 0.011*"basi" + 0.011*"look"
+2017-12-09 20:45:50,679 : INFO : topic #0 (0.050): 0.028*"NUM" + 0.017*"patient" + 0.017*"data" + 0.013*"think" + 0.012*"question" + 0.012*"launch" + 0.011*"product" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:45:50,680 : INFO : topic #19 (0.050): 0.038*"think" + 0.016*"go" + 0.012*"plan" + 0.012*"look" + 0.009*"know" + 0.008*"market" + 0.007*"see" + 0.007*"term" + 0.007*"us" + 0.007*"obvious"
+2017-12-09 20:45:50,682 : INFO : topic diff=0.077211, rho=0.242536
+2017-12-09 20:45:50,685 : INFO : PROGRESS: pass 4, at document #2000/26490
+2017-12-09 20:45:54,588 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:54,690 : INFO : topic #13 (0.050): 0.027*"think" + 0.019*"network" + 0.013*"go" + 0.009*"devic" + 0.009*"content" + 0.008*"advertis" + 0.008*"video" + 0.008*"product" + 0.007*"one" + 0.007*"us"
+2017-12-09 20:45:54,691 : INFO : topic #6 (0.050): 0.049*"quarter" + 0.036*"year" + 0.031*"price" + 0.019*"see" + 0.017*"think" + 0.015*"first" + 0.013*"expect" + 0.013*"second" + 0.013*"half" + 0.012*"NUM"
+2017-12-09 20:45:54,691 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.019*"patient" + 0.016*"data" + 0.013*"question" + 0.013*"think" + 0.011*"studi" + 0.011*"launch" + 0.010*"product" + 0.009*"see" + 0.009*"phase"
+2017-12-09 20:45:54,691 : INFO : topic #5 (0.050): 0.027*"think" + 0.023*"busi" + 0.016*"opportun" + 0.016*"compani" + 0.015*"deal" + 0.014*"one" + 0.011*"look" + 0.008*"new" + 0.008*"acquisit" + 0.008*"go"
+2017-12-09 20:45:54,692 : INFO : topic #12 (0.050): 0.050*"thank" + 0.045*"question" + 0.032*"mayb" + 0.020*"guess" + 0.020*"guy" + 0.020*"littl" + 0.019*"bit" + 0.019*"talk" + 0.019*"like" + 0.017*"wonder"
+2017-12-09 20:45:54,694 : INFO : topic diff=0.067286, rho=0.235702
+2017-12-09 20:45:54,695 : INFO : PROGRESS: pass 4, at document #4000/26490
+2017-12-09 20:45:58,586 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:45:58,678 : INFO : topic #13 (0.050): 0.027*"think" + 0.018*"network" + 0.013*"go" + 0.009*"video" + 0.009*"devic" + 0.009*"content" + 0.009*"advertis" + 0.008*"product" + 0.007*"one" + 0.007*"new"
+2017-12-09 20:45:58,678 : INFO : topic #5 (0.050): 0.027*"think" + 0.023*"busi" + 0.017*"opportun" + 0.016*"compani" + 0.015*"deal" + 0.014*"one" + 0.011*"look" + 0.008*"new" + 0.008*"go" + 0.008*"acquisit"
+2017-12-09 20:45:58,679 : INFO : topic #16 (0.050): 0.030*"kind" + 0.024*"sort" + 0.023*"like" + 0.023*"think" + 0.020*"mean" + 0.019*"guess" + 0.018*"question" + 0.017*"tax" + 0.015*"okay" + 0.013*"get"
+2017-12-09 20:45:58,679 : INFO : topic #12 (0.050): 0.050*"thank" + 0.044*"question" + 0.032*"mayb" + 0.020*"guy" + 0.020*"guess" + 0.020*"bit" + 0.020*"littl" + 0.020*"talk" + 0.019*"like" + 0.017*"wonder"
+2017-12-09 20:45:58,679 : INFO : topic #11 (0.050): 0.033*"think" + 0.030*"market" + 0.024*"busi" + 0.016*"go" + 0.013*"thing" + 0.012*"see" + 0.012*"consum" + 0.010*"lot" + 0.010*"product" + 0.010*"one"
+2017-12-09 20:45:58,682 : INFO : topic diff=0.069727, rho=0.235702
+2017-12-09 20:45:58,684 : INFO : PROGRESS: pass 4, at document #6000/26490
+2017-12-09 20:46:02,496 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:02,587 : INFO : topic #11 (0.050): 0.033*"think" + 0.030*"market" + 0.023*"busi" + 0.016*"go" + 0.014*"thing" + 0.013*"consum" + 0.012*"see" + 0.011*"lot" + 0.010*"product" + 0.010*"say"
+2017-12-09 20:46:02,588 : INFO : topic #8 (0.050): 0.042*"market" + 0.029*"europ" + 0.023*"u" + 0.022*"america" + 0.020*"china" + 0.019*"north" + 0.012*"think" + 0.012*"countri" + 0.012*"well" + 0.009*"intern"
+2017-12-09 20:46:02,588 : INFO : topic #13 (0.050): 0.027*"think" + 0.019*"network" + 0.014*"go" + 0.009*"advertis" + 0.009*"content" + 0.009*"video" + 0.008*"product" + 0.008*"devic" + 0.007*"one" + 0.007*"us"
+2017-12-09 20:46:02,589 : INFO : topic #4 (0.050): 0.043*"capit" + 0.036*"cash" + 0.021*"think" + 0.021*"flow" + 0.016*"go" + 0.016*"return" + 0.014*"balanc" + 0.011*"dividend" + 0.011*"look" + 0.011*"debt"
+2017-12-09 20:46:02,589 : INFO : topic #5 (0.050): 0.027*"think" + 0.024*"busi" + 0.017*"opportun" + 0.016*"deal" + 0.015*"compani" + 0.015*"one" + 0.011*"look" + 0.008*"acquisit" + 0.008*"new" + 0.008*"go"
+2017-12-09 20:46:02,591 : INFO : topic diff=0.069057, rho=0.235702
+2017-12-09 20:46:02,593 : INFO : PROGRESS: pass 4, at document #8000/26490
+2017-12-09 20:46:06,424 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:06,510 : INFO : topic #3 (0.050): 0.036*"custom" + 0.012*"get" + 0.012*"us" + 0.011*"servic" + 0.011*"go" + 0.010*"realli" + 0.009*"thing" + 0.009*"technolog" + 0.009*"think" + 0.009*"work"
+2017-12-09 20:46:06,510 : INFO : topic #4 (0.050): 0.042*"capit" + 0.037*"cash" + 0.022*"flow" + 0.021*"think" + 0.016*"return" + 0.016*"go" + 0.014*"balanc" + 0.011*"dividend" + 0.011*"look" + 0.011*"debt"
+2017-12-09 20:46:06,511 : INFO : topic #11 (0.050): 0.033*"think" + 0.031*"market" + 0.024*"busi" + 0.016*"go" + 0.014*"thing" + 0.013*"consum" + 0.012*"see" + 0.011*"lot" + 0.010*"product" + 0.010*"say"
+2017-12-09 20:46:06,511 : INFO : topic #14 (0.050): 0.026*"go" + 0.023*"project" + 0.019*"ga" + 0.014*"capac" + 0.013*"well" + 0.013*"oil" + 0.011*"think" + 0.010*"see" + 0.010*"get" + 0.009*"demand"
+2017-12-09 20:46:06,511 : INFO : topic #10 (0.050): 0.021*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"invest" + 0.014*"go" + 0.014*"make" + 0.012*"realli" + 0.012*"us" + 0.012*"look" + 0.011*"well"
+2017-12-09 20:46:06,513 : INFO : topic diff=0.063584, rho=0.235702
+2017-12-09 20:46:06,515 : INFO : PROGRESS: pass 4, at document #10000/26490
+2017-12-09 20:46:10,298 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:10,386 : INFO : topic #11 (0.050): 0.033*"think" + 0.031*"market" + 0.024*"busi" + 0.016*"go" + 0.015*"thing" + 0.013*"consum" + 0.012*"see" + 0.011*"lot" + 0.010*"say" + 0.010*"product"
+2017-12-09 20:46:10,386 : INFO : topic #5 (0.050): 0.027*"think" + 0.023*"busi" + 0.017*"opportun" + 0.016*"compani" + 0.016*"deal" + 0.014*"one" + 0.011*"look" + 0.008*"acquisit" + 0.008*"new" + 0.008*"go"
+2017-12-09 20:46:10,387 : INFO : topic #14 (0.050): 0.026*"go" + 0.022*"project" + 0.019*"ga" + 0.013*"capac" + 0.013*"well" + 0.012*"coal" + 0.012*"oil" + 0.012*"rig" + 0.011*"think" + 0.010*"see"
+2017-12-09 20:46:10,387 : INFO : topic #3 (0.050): 0.034*"custom" + 0.012*"us" + 0.012*"get" + 0.011*"servic" + 0.011*"go" + 0.010*"realli" + 0.009*"thing" + 0.009*"technolog" + 0.009*"think" + 0.008*"work"
+2017-12-09 20:46:10,388 : INFO : topic #2 (0.050): 0.257*"NUM" + 0.039*"year" + 0.027*"million" + 0.022*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"cost" + 0.008*"look" + 0.007*"expect"
+2017-12-09 20:46:10,390 : INFO : topic diff=0.073411, rho=0.235702
+2017-12-09 20:46:10,392 : INFO : PROGRESS: pass 4, at document #12000/26490
+2017-12-09 20:46:14,224 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:14,316 : INFO : topic #19 (0.050): 0.037*"think" + 0.016*"go" + 0.012*"look" + 0.010*"plan" + 0.008*"know" + 0.008*"market" + 0.008*"us" + 0.008*"see" + 0.007*"say" + 0.007*"obvious"
+2017-12-09 20:46:14,316 : INFO : topic #1 (0.050): 0.032*"retail" + 0.027*"categori" + 0.024*"share" + 0.023*"store" + 0.019*"brand" + 0.015*"cloud" + 0.014*"data" + 0.013*"new" + 0.012*"promot" + 0.012*"center"
+2017-12-09 20:46:14,317 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.025*"patient" + 0.017*"data" + 0.014*"think" + 0.012*"question" + 0.011*"studi" + 0.010*"launch" + 0.010*"product" + 0.009*"see" + 0.009*"go"
+2017-12-09 20:46:14,317 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"loan" + 0.016*"credit" + 0.015*"think" + 0.015*"see" + 0.014*"portfolio" + 0.013*"bank" + 0.013*"interest" + 0.012*"go" + 0.012*"asset"
+2017-12-09 20:46:14,318 : INFO : topic #8 (0.050): 0.046*"market" + 0.031*"europ" + 0.024*"u" + 0.022*"america" + 0.020*"china" + 0.019*"north" + 0.013*"countri" + 0.013*"think" + 0.012*"well" + 0.009*"intern"
+2017-12-09 20:46:14,320 : INFO : topic diff=0.064083, rho=0.235702
+2017-12-09 20:46:14,321 : INFO : PROGRESS: pass 4, at document #14000/26490
+2017-12-09 20:46:18,356 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:18,451 : INFO : topic #19 (0.050): 0.037*"think" + 0.016*"go" + 0.012*"look" + 0.011*"plan" + 0.009*"know" + 0.008*"market" + 0.007*"see" + 0.007*"say" + 0.007*"us" + 0.007*"obvious"
+2017-12-09 20:46:18,452 : INFO : topic #18 (0.050): 0.068*"growth" + 0.027*"busi" + 0.022*"year" + 0.022*"see" + 0.021*"NUM" + 0.019*"think" + 0.016*"digit" + 0.015*"grow" + 0.014*"continu" + 0.014*"revenu"
+2017-12-09 20:46:18,452 : INFO : topic #7 (0.050): 0.034*"busi" + 0.032*"expens" + 0.026*"cost" + 0.022*"revenu" + 0.021*"line" + 0.019*"invest" + 0.018*"oper" + 0.013*"spend" + 0.012*"manag" + 0.011*"leverag"
+2017-12-09 20:46:18,453 : INFO : topic #1 (0.050): 0.032*"retail" + 0.026*"categori" + 0.024*"store" + 0.024*"share" + 0.020*"brand" + 0.015*"cloud" + 0.013*"new" + 0.013*"data" + 0.012*"center" + 0.012*"product"
+2017-12-09 20:46:18,453 : INFO : topic #16 (0.050): 0.034*"kind" + 0.025*"sort" + 0.024*"like" + 0.023*"think" + 0.021*"mean" + 0.017*"guess" + 0.017*"question" + 0.015*"okay" + 0.014*"tax" + 0.014*"get"
+2017-12-09 20:46:18,455 : INFO : topic diff=0.060023, rho=0.235702
+2017-12-09 20:46:18,457 : INFO : PROGRESS: pass 4, at document #16000/26490
+2017-12-09 20:46:22,527 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:22,623 : INFO : topic #2 (0.050): 0.259*"NUM" + 0.039*"year" + 0.028*"million" + 0.022*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"cost" + 0.008*"look" + 0.007*"next"
+2017-12-09 20:46:22,624 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.025*"patient" + 0.019*"data" + 0.014*"think" + 0.013*"question" + 0.010*"studi" + 0.010*"launch" + 0.009*"product" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:46:22,625 : INFO : topic #1 (0.050): 0.031*"retail" + 0.028*"categori" + 0.024*"share" + 0.023*"store" + 0.020*"brand" + 0.015*"cloud" + 0.012*"data" + 0.012*"new" + 0.012*"promot" + 0.012*"product"
+2017-12-09 20:46:22,625 : INFO : topic #13 (0.050): 0.026*"think" + 0.018*"network" + 0.014*"go" + 0.010*"advertis" + 0.009*"content" + 0.008*"devic" + 0.008*"product" + 0.007*"thank" + 0.007*"mobil" + 0.007*"one"
+2017-12-09 20:46:22,626 : INFO : topic #15 (0.050): 0.089*"margin" + 0.026*"year" + 0.026*"littl" + 0.026*"cost" + 0.023*"go" + 0.022*"bit" + 0.022*"think" + 0.021*"gross" + 0.015*"get" + 0.014*"profit"
+2017-12-09 20:46:22,629 : INFO : topic diff=0.056111, rho=0.235702
+2017-12-09 20:46:22,630 : INFO : PROGRESS: pass 4, at document #18000/26490
+2017-12-09 20:46:26,616 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:26,715 : INFO : topic #14 (0.050): 0.026*"go" + 0.022*"project" + 0.018*"ga" + 0.013*"capac" + 0.013*"well" + 0.013*"oil" + 0.012*"rig" + 0.012*"think" + 0.012*"coal" + 0.010*"see"
+2017-12-09 20:46:26,716 : INFO : topic #4 (0.050): 0.043*"capit" + 0.036*"cash" + 0.021*"flow" + 0.020*"think" + 0.016*"return" + 0.016*"go" + 0.015*"balanc" + 0.011*"look" + 0.011*"year" + 0.011*"dividend"
+2017-12-09 20:46:26,716 : INFO : topic #3 (0.050): 0.036*"custom" + 0.012*"us" + 0.012*"get" + 0.012*"servic" + 0.011*"go" + 0.010*"thing" + 0.010*"realli" + 0.009*"technolog" + 0.008*"think" + 0.008*"work"
+2017-12-09 20:46:26,716 : INFO : topic #16 (0.050): 0.034*"kind" + 0.025*"like" + 0.025*"sort" + 0.023*"think" + 0.020*"mean" + 0.018*"guess" + 0.017*"question" + 0.015*"okay" + 0.014*"tax" + 0.013*"get"
+2017-12-09 20:46:26,717 : INFO : topic #15 (0.050): 0.090*"margin" + 0.026*"year" + 0.025*"littl" + 0.025*"cost" + 0.023*"go" + 0.022*"bit" + 0.022*"gross" + 0.021*"think" + 0.015*"get" + 0.014*"profit"
+2017-12-09 20:46:26,719 : INFO : topic diff=0.065419, rho=0.235702
+2017-12-09 20:46:36,881 : INFO : -7.020 per-word bound, 129.8 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:46:36,881 : INFO : PROGRESS: pass 4, at document #20000/26490
+2017-12-09 20:46:40,700 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:40,791 : INFO : topic #3 (0.050): 0.036*"custom" + 0.012*"us" + 0.012*"servic" + 0.012*"get" + 0.011*"go" + 0.010*"thing" + 0.010*"realli" + 0.009*"technolog" + 0.009*"work" + 0.008*"think"
+2017-12-09 20:46:40,791 : INFO : topic #11 (0.050): 0.033*"think" + 0.031*"market" + 0.023*"busi" + 0.015*"go" + 0.014*"thing" + 0.012*"consum" + 0.012*"see" + 0.011*"lot" + 0.010*"product" + 0.010*"say"
+2017-12-09 20:46:40,792 : INFO : topic #1 (0.050): 0.031*"retail" + 0.025*"categori" + 0.023*"share" + 0.022*"store" + 0.021*"brand" + 0.017*"cloud" + 0.014*"new" + 0.013*"data" + 0.013*"product" + 0.011*"sale"
+2017-12-09 20:46:40,792 : INFO : topic #5 (0.050): 0.027*"think" + 0.023*"busi" + 0.018*"opportun" + 0.016*"compani" + 0.015*"deal" + 0.014*"one" + 0.011*"look" + 0.009*"acquisit" + 0.008*"go" + 0.007*"like"
+2017-12-09 20:46:40,794 : INFO : topic #16 (0.050): 0.036*"kind" + 0.025*"like" + 0.024*"sort" + 0.023*"think" + 0.020*"mean" + 0.018*"guess" + 0.017*"question" + 0.015*"okay" + 0.014*"get" + 0.013*"tax"
+2017-12-09 20:46:40,796 : INFO : topic diff=0.062075, rho=0.235702
+2017-12-09 20:46:40,798 : INFO : PROGRESS: pass 4, at document #22000/26490
+2017-12-09 20:46:44,603 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:44,694 : INFO : topic #10 (0.050): 0.022*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"go" + 0.014*"make" + 0.013*"invest" + 0.013*"realli" + 0.012*"us" + 0.011*"look" + 0.011*"well"
+2017-12-09 20:46:44,695 : INFO : topic #18 (0.050): 0.069*"growth" + 0.029*"busi" + 0.022*"year" + 0.022*"see" + 0.021*"NUM" + 0.019*"think" + 0.017*"digit" + 0.015*"grow" + 0.014*"continu" + 0.014*"revenu"
+2017-12-09 20:46:44,695 : INFO : topic #1 (0.050): 0.029*"retail" + 0.025*"categori" + 0.022*"share" + 0.021*"store" + 0.020*"brand" + 0.017*"cloud" + 0.014*"data" + 0.013*"new" + 0.012*"promot" + 0.012*"product"
+2017-12-09 20:46:44,696 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"credit" + 0.016*"bank" + 0.016*"see" + 0.015*"loan" + 0.015*"think" + 0.013*"interest" + 0.013*"card" + 0.013*"asset" + 0.012*"go"
+2017-12-09 20:46:44,696 : INFO : topic #17 (0.050): 0.077*"NUM" + 0.030*"year" + 0.017*"point" + 0.016*"quarter" + 0.014*"think" + 0.013*"guidanc" + 0.013*"go" + 0.013*"rate" + 0.012*"basi" + 0.011*"look"
+2017-12-09 20:46:44,698 : INFO : topic diff=0.060865, rho=0.235702
+2017-12-09 20:46:44,700 : INFO : PROGRESS: pass 4, at document #24000/26490
+2017-12-09 20:46:48,566 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:48,657 : INFO : topic #10 (0.050): 0.022*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"go" + 0.014*"make" + 0.013*"invest" + 0.013*"realli" + 0.012*"us" + 0.012*"look" + 0.011*"well"
+2017-12-09 20:46:48,658 : INFO : topic #2 (0.050): 0.261*"NUM" + 0.040*"year" + 0.029*"million" + 0.022*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.009*"cost" + 0.008*"next"
+2017-12-09 20:46:48,658 : INFO : topic #16 (0.050): 0.034*"kind" + 0.026*"sort" + 0.025*"like" + 0.024*"think" + 0.021*"mean" + 0.019*"guess" + 0.017*"question" + 0.015*"okay" + 0.015*"tax" + 0.014*"get"
+2017-12-09 20:46:48,659 : INFO : topic #14 (0.050): 0.026*"go" + 0.025*"project" + 0.017*"ga" + 0.014*"capac" + 0.014*"rig" + 0.014*"well" + 0.013*"oil" + 0.012*"think" + 0.011*"demand" + 0.010*"see"
+2017-12-09 20:46:48,659 : INFO : topic #13 (0.050): 0.027*"think" + 0.019*"network" + 0.014*"go" + 0.011*"content" + 0.010*"devic" + 0.009*"advertis" + 0.009*"video" + 0.008*"product" + 0.008*"wireless" + 0.008*"mobil"
+2017-12-09 20:46:48,661 : INFO : topic diff=0.062719, rho=0.235702
+2017-12-09 20:46:48,663 : INFO : PROGRESS: pass 4, at document #26000/26490
+2017-12-09 20:46:52,474 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:52,565 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.020*"patient" + 0.019*"data" + 0.013*"think" + 0.013*"question" + 0.012*"launch" + 0.011*"product" + 0.011*"studi" + 0.009*"u" + 0.009*"see"
+2017-12-09 20:46:52,566 : INFO : topic #14 (0.050): 0.025*"go" + 0.023*"project" + 0.018*"ga" + 0.015*"capac" + 0.013*"well" + 0.013*"oil" + 0.012*"think" + 0.012*"rig" + 0.011*"demand" + 0.010*"drill"
+2017-12-09 20:46:52,566 : INFO : topic #11 (0.050): 0.034*"think" + 0.032*"market" + 0.025*"busi" + 0.015*"go" + 0.013*"thing" + 0.012*"consum" + 0.012*"see" + 0.011*"lot" + 0.010*"product" + 0.010*"competit"
+2017-12-09 20:46:52,567 : INFO : topic #5 (0.050): 0.027*"think" + 0.024*"busi" + 0.017*"opportun" + 0.017*"compani" + 0.015*"deal" + 0.014*"one" + 0.011*"look" + 0.010*"acquisit" + 0.007*"go" + 0.007*"new"
+2017-12-09 20:46:52,567 : INFO : topic #6 (0.050): 0.051*"quarter" + 0.036*"year" + 0.028*"price" + 0.020*"see" + 0.017*"think" + 0.015*"first" + 0.013*"half" + 0.013*"second" + 0.013*"expect" + 0.011*"look"
+2017-12-09 20:46:52,569 : INFO : topic diff=0.059767, rho=0.235702
+2017-12-09 20:46:54,967 : INFO : -6.931 per-word bound, 122.0 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:46:54,967 : INFO : PROGRESS: pass 4, at document #26490/26490
+2017-12-09 20:46:55,852 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:46:55,946 : INFO : topic #5 (0.050): 0.027*"think" + 0.023*"busi" + 0.018*"compani" + 0.017*"opportun" + 0.015*"deal" + 0.015*"one" + 0.011*"look" + 0.008*"acquisit" + 0.008*"new" + 0.007*"go"
+2017-12-09 20:46:55,946 : INFO : topic #8 (0.050): 0.046*"market" + 0.030*"europ" + 0.025*"u" + 0.023*"china" + 0.021*"america" + 0.019*"north" + 0.012*"countri" + 0.011*"think" + 0.011*"well" + 0.011*"brazil"
+2017-12-09 20:46:55,947 : INFO : topic #4 (0.050): 0.043*"capit" + 0.034*"cash" + 0.020*"think" + 0.020*"flow" + 0.016*"return" + 0.015*"go" + 0.013*"balanc" + 0.011*"debt" + 0.011*"look" + 0.011*"dividend"
+2017-12-09 20:46:55,947 : INFO : topic #11 (0.050): 0.033*"think" + 0.032*"market" + 0.023*"busi" + 0.015*"go" + 0.013*"thing" + 0.012*"consum" + 0.012*"see" + 0.010*"lot" + 0.010*"product" + 0.010*"price"
+2017-12-09 20:46:55,948 : INFO : topic #3 (0.050): 0.038*"custom" + 0.013*"us" + 0.012*"servic" + 0.012*"get" + 0.011*"go" + 0.010*"realli" + 0.010*"thing" + 0.009*"technolog" + 0.009*"work" + 0.008*"one"
+2017-12-09 20:46:55,950 : INFO : topic diff=0.070061, rho=0.235702
+2017-12-09 20:46:55,953 : INFO : PROGRESS: pass 5, at document #2000/26490
+2017-12-09 20:46:59,608 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:46:59,702 : INFO : topic #4 (0.050): 0.044*"capit" + 0.035*"cash" + 0.021*"think" + 0.020*"flow" + 0.016*"return" + 0.015*"go" + 0.014*"balanc" + 0.011*"debt" + 0.011*"dividend" + 0.011*"look"
+2017-12-09 20:46:59,703 : INFO : topic #9 (0.050): 0.027*"rate" + 0.016*"credit" + 0.016*"bank" + 0.016*"loan" + 0.015*"think" + 0.015*"see" + 0.014*"interest" + 0.014*"deposit" + 0.013*"asset" + 0.012*"risk"
+2017-12-09 20:46:59,703 : INFO : topic #3 (0.050): 0.038*"custom" + 0.012*"us" + 0.012*"servic" + 0.012*"get" + 0.011*"go" + 0.010*"realli" + 0.009*"thing" + 0.009*"technolog" + 0.008*"work" + 0.008*"one"
+2017-12-09 20:46:59,704 : INFO : topic #8 (0.050): 0.047*"market" + 0.029*"europ" + 0.026*"u" + 0.024*"china" + 0.022*"america" + 0.020*"north" + 0.013*"countri" + 0.011*"well" + 0.011*"brazil" + 0.011*"think"
+2017-12-09 20:46:59,704 : INFO : topic #6 (0.050): 0.050*"quarter" + 0.037*"year" + 0.030*"price" + 0.019*"see" + 0.017*"think" + 0.016*"first" + 0.013*"expect" + 0.013*"second" + 0.013*"half" + 0.012*"NUM"
+2017-12-09 20:46:59,706 : INFO : topic diff=0.060499, rho=0.229416
+2017-12-09 20:46:59,708 : INFO : PROGRESS: pass 5, at document #4000/26490
+2017-12-09 20:47:03,540 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:03,631 : INFO : topic #18 (0.050): 0.069*"growth" + 0.030*"busi" + 0.022*"NUM" + 0.022*"see" + 0.022*"year" + 0.019*"think" + 0.016*"digit" + 0.016*"grow" + 0.015*"continu" + 0.013*"revenu"
+2017-12-09 20:47:03,632 : INFO : topic #8 (0.050): 0.044*"market" + 0.030*"europ" + 0.026*"u" + 0.023*"america" + 0.022*"china" + 0.020*"north" + 0.013*"countri" + 0.012*"well" + 0.011*"think" + 0.010*"brazil"
+2017-12-09 20:47:03,632 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"bank" + 0.017*"credit" + 0.015*"think" + 0.015*"see" + 0.015*"loan" + 0.014*"risk" + 0.013*"interest" + 0.013*"asset" + 0.012*"look"
+2017-12-09 20:47:03,633 : INFO : topic #12 (0.050): 0.050*"thank" + 0.043*"question" + 0.032*"mayb" + 0.021*"littl" + 0.021*"bit" + 0.020*"guy" + 0.020*"talk" + 0.020*"guess" + 0.019*"like" + 0.017*"wonder"
+2017-12-09 20:47:03,633 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.022*"patient" + 0.016*"data" + 0.013*"question" + 0.013*"think" + 0.012*"studi" + 0.012*"product" + 0.012*"launch" + 0.009*"see" + 0.008*"phase"
+2017-12-09 20:47:03,635 : INFO : topic diff=0.062240, rho=0.229416
+2017-12-09 20:47:03,637 : INFO : PROGRESS: pass 5, at document #6000/26490
+2017-12-09 20:47:07,601 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:07,695 : INFO : topic #5 (0.050): 0.027*"think" + 0.024*"busi" + 0.018*"opportun" + 0.017*"deal" + 0.016*"compani" + 0.015*"one" + 0.011*"look" + 0.008*"acquisit" + 0.008*"new" + 0.007*"asset"
+2017-12-09 20:47:07,696 : INFO : topic #17 (0.050): 0.077*"NUM" + 0.030*"year" + 0.017*"point" + 0.016*"quarter" + 0.015*"guidanc" + 0.014*"think" + 0.014*"go" + 0.013*"rate" + 0.012*"basi" + 0.011*"look"
+2017-12-09 20:47:07,696 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.021*"patient" + 0.017*"data" + 0.013*"think" + 0.013*"question" + 0.012*"product" + 0.012*"launch" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:47:07,697 : INFO : topic #3 (0.050): 0.036*"custom" + 0.012*"us" + 0.012*"get" + 0.012*"servic" + 0.010*"go" + 0.010*"realli" + 0.009*"technolog" + 0.009*"thing" + 0.009*"work" + 0.008*"one"
+2017-12-09 20:47:07,698 : INFO : topic #11 (0.050): 0.034*"think" + 0.031*"market" + 0.022*"busi" + 0.016*"go" + 0.014*"thing" + 0.012*"consum" + 0.012*"see" + 0.011*"lot" + 0.011*"price" + 0.010*"product"
+2017-12-09 20:47:07,700 : INFO : topic diff=0.061682, rho=0.229416
+2017-12-09 20:47:07,702 : INFO : PROGRESS: pass 5, at document #8000/26490
+2017-12-09 20:47:11,687 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:11,775 : INFO : topic #16 (0.050): 0.035*"kind" + 0.026*"like" + 0.025*"sort" + 0.024*"think" + 0.024*"mean" + 0.021*"guess" + 0.017*"question" + 0.015*"get" + 0.015*"okay" + 0.014*"tax"
+2017-12-09 20:47:11,775 : INFO : topic #13 (0.050): 0.027*"think" + 0.020*"network" + 0.014*"go" + 0.011*"devic" + 0.009*"advertis" + 0.009*"content" + 0.009*"video" + 0.008*"product" + 0.008*"wireless" + 0.007*"one"
+2017-12-09 20:47:11,776 : INFO : topic #8 (0.050): 0.048*"market" + 0.033*"europ" + 0.027*"u" + 0.023*"america" + 0.021*"north" + 0.021*"china" + 0.012*"countri" + 0.012*"well" + 0.011*"think" + 0.010*"intern"
+2017-12-09 20:47:11,776 : INFO : topic #4 (0.050): 0.043*"capit" + 0.038*"cash" + 0.023*"flow" + 0.021*"think" + 0.017*"return" + 0.016*"go" + 0.015*"balanc" + 0.012*"dividend" + 0.011*"look" + 0.011*"debt"
+2017-12-09 20:47:11,776 : INFO : topic #12 (0.050): 0.050*"thank" + 0.043*"question" + 0.032*"mayb" + 0.021*"littl" + 0.021*"bit" + 0.020*"talk" + 0.020*"guy" + 0.020*"guess" + 0.019*"like" + 0.017*"wonder"
+2017-12-09 20:47:11,779 : INFO : topic diff=0.057408, rho=0.229416
+2017-12-09 20:47:11,780 : INFO : PROGRESS: pass 5, at document #10000/26490
+2017-12-09 20:47:15,697 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:15,783 : INFO : topic #18 (0.050): 0.069*"growth" + 0.029*"busi" + 0.022*"NUM" + 0.022*"see" + 0.022*"year" + 0.018*"think" + 0.016*"grow" + 0.016*"digit" + 0.015*"revenu" + 0.015*"continu"
+2017-12-09 20:47:15,783 : INFO : topic #4 (0.050): 0.043*"capit" + 0.038*"cash" + 0.022*"flow" + 0.021*"think" + 0.017*"return" + 0.016*"go" + 0.015*"balanc" + 0.011*"debt" + 0.011*"dividend" + 0.011*"look"
+2017-12-09 20:47:15,784 : INFO : topic #5 (0.050): 0.027*"think" + 0.024*"busi" + 0.018*"opportun" + 0.017*"compani" + 0.017*"deal" + 0.015*"one" + 0.011*"look" + 0.009*"acquisit" + 0.008*"new" + 0.007*"go"
+2017-12-09 20:47:15,784 : INFO : topic #6 (0.050): 0.050*"quarter" + 0.037*"year" + 0.030*"price" + 0.020*"see" + 0.016*"think" + 0.015*"first" + 0.013*"half" + 0.013*"second" + 0.012*"expect" + 0.012*"NUM"
+2017-12-09 20:47:15,785 : INFO : topic #10 (0.050): 0.022*"think" + 0.017*"continu" + 0.015*"busi" + 0.014*"go" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.012*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:47:15,787 : INFO : topic diff=0.066689, rho=0.229416
+2017-12-09 20:47:15,789 : INFO : PROGRESS: pass 5, at document #12000/26490
+2017-12-09 20:47:19,529 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:19,613 : INFO : topic #7 (0.050): 0.034*"expens" + 0.032*"busi" + 0.031*"cost" + 0.023*"revenu" + 0.020*"line" + 0.020*"invest" + 0.018*"oper" + 0.015*"spend" + 0.012*"manag" + 0.011*"leverag"
+2017-12-09 20:47:19,614 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"loan" + 0.016*"credit" + 0.015*"see" + 0.015*"think" + 0.015*"bank" + 0.014*"portfolio" + 0.013*"interest" + 0.013*"risk" + 0.013*"asset"
+2017-12-09 20:47:19,614 : INFO : topic #15 (0.050): 0.098*"margin" + 0.026*"cost" + 0.024*"year" + 0.024*"go" + 0.023*"littl" + 0.021*"think" + 0.021*"gross" + 0.020*"bit" + 0.016*"profit" + 0.014*"get"
+2017-12-09 20:47:19,614 : INFO : topic #10 (0.050): 0.022*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"make" + 0.014*"go" + 0.014*"invest" + 0.013*"realli" + 0.012*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:47:19,615 : INFO : topic #6 (0.050): 0.051*"quarter" + 0.038*"year" + 0.029*"price" + 0.021*"see" + 0.017*"think" + 0.015*"first" + 0.013*"half" + 0.013*"second" + 0.013*"expect" + 0.012*"NUM"
+2017-12-09 20:47:19,617 : INFO : topic diff=0.058358, rho=0.229416
+2017-12-09 20:47:19,619 : INFO : PROGRESS: pass 5, at document #14000/26490
+2017-12-09 20:47:23,423 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:23,512 : INFO : topic #15 (0.050): 0.096*"margin" + 0.027*"cost" + 0.025*"year" + 0.024*"go" + 0.023*"littl" + 0.022*"gross" + 0.022*"think" + 0.020*"bit" + 0.016*"profit" + 0.014*"get"
+2017-12-09 20:47:23,513 : INFO : topic #10 (0.050): 0.022*"think" + 0.017*"continu" + 0.016*"busi" + 0.014*"go" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.012*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:47:23,513 : INFO : topic #6 (0.050): 0.052*"quarter" + 0.038*"year" + 0.028*"price" + 0.020*"see" + 0.017*"think" + 0.015*"first" + 0.013*"half" + 0.013*"second" + 0.013*"expect" + 0.012*"NUM"
+2017-12-09 20:47:23,514 : INFO : topic #8 (0.050): 0.048*"market" + 0.032*"europ" + 0.027*"u" + 0.024*"america" + 0.022*"north" + 0.021*"china" + 0.014*"countri" + 0.012*"well" + 0.011*"think" + 0.010*"intern"
+2017-12-09 20:47:23,514 : INFO : topic #18 (0.050): 0.071*"growth" + 0.030*"busi" + 0.023*"year" + 0.022*"see" + 0.022*"NUM" + 0.019*"think" + 0.016*"digit" + 0.016*"grow" + 0.015*"continu" + 0.014*"revenu"
+2017-12-09 20:47:23,516 : INFO : topic diff=0.054091, rho=0.229416
+2017-12-09 20:47:23,518 : INFO : PROGRESS: pass 5, at document #16000/26490
+2017-12-09 20:47:28,042 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:28,134 : INFO : topic #17 (0.050): 0.075*"NUM" + 0.030*"year" + 0.017*"point" + 0.016*"quarter" + 0.014*"guidanc" + 0.014*"think" + 0.014*"go" + 0.013*"rate" + 0.012*"basi" + 0.011*"look"
+2017-12-09 20:47:28,135 : INFO : topic #4 (0.050): 0.045*"capit" + 0.037*"cash" + 0.022*"flow" + 0.021*"think" + 0.017*"return" + 0.016*"go" + 0.015*"balanc" + 0.011*"look" + 0.011*"debt" + 0.010*"dividend"
+2017-12-09 20:47:28,135 : INFO : topic #11 (0.050): 0.034*"think" + 0.031*"market" + 0.023*"busi" + 0.016*"go" + 0.014*"thing" + 0.012*"consum" + 0.012*"price" + 0.012*"see" + 0.011*"lot" + 0.011*"product"
+2017-12-09 20:47:28,136 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.025*"patient" + 0.019*"data" + 0.013*"think" + 0.013*"question" + 0.011*"studi" + 0.011*"launch" + 0.010*"product" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:47:28,136 : INFO : topic #7 (0.050): 0.034*"expens" + 0.032*"cost" + 0.032*"busi" + 0.024*"revenu" + 0.021*"line" + 0.020*"invest" + 0.018*"oper" + 0.014*"spend" + 0.013*"manag" + 0.011*"effici"
+2017-12-09 20:47:28,138 : INFO : topic diff=0.050907, rho=0.229416
+2017-12-09 20:47:28,140 : INFO : PROGRESS: pass 5, at document #18000/26490
+2017-12-09 20:47:32,057 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:32,150 : INFO : topic #1 (0.050): 0.032*"retail" + 0.031*"categori" + 0.024*"brand" + 0.024*"share" + 0.024*"store" + 0.016*"cloud" + 0.013*"data" + 0.012*"new" + 0.012*"product" + 0.012*"promot"
+2017-12-09 20:47:32,151 : INFO : topic #7 (0.050): 0.034*"expens" + 0.032*"busi" + 0.032*"cost" + 0.025*"revenu" + 0.021*"line" + 0.020*"invest" + 0.019*"oper" + 0.015*"spend" + 0.014*"manag" + 0.012*"leverag"
+2017-12-09 20:47:32,151 : INFO : topic #9 (0.050): 0.025*"rate" + 0.016*"loan" + 0.016*"credit" + 0.016*"bank" + 0.015*"see" + 0.015*"think" + 0.013*"interest" + 0.012*"fee" + 0.012*"deposit" + 0.012*"portfolio"
+2017-12-09 20:47:32,152 : INFO : topic #2 (0.050): 0.273*"NUM" + 0.041*"year" + 0.028*"million" + 0.024*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"cost" + 0.008*"next"
+2017-12-09 20:47:32,152 : INFO : topic #3 (0.050): 0.036*"custom" + 0.012*"us" + 0.012*"servic" + 0.012*"get" + 0.011*"go" + 0.010*"realli" + 0.010*"thing" + 0.009*"technolog" + 0.009*"work" + 0.008*"one"
+2017-12-09 20:47:32,155 : INFO : topic diff=0.060008, rho=0.229416
+2017-12-09 20:47:42,537 : INFO : -7.017 per-word bound, 129.5 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:47:42,537 : INFO : PROGRESS: pass 5, at document #20000/26490
+2017-12-09 20:47:46,461 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:46,552 : INFO : topic #17 (0.050): 0.074*"NUM" + 0.030*"year" + 0.017*"point" + 0.016*"quarter" + 0.014*"guidanc" + 0.014*"think" + 0.013*"rate" + 0.013*"go" + 0.012*"basi" + 0.011*"look"
+2017-12-09 20:47:46,553 : INFO : topic #3 (0.050): 0.037*"custom" + 0.013*"servic" + 0.012*"us" + 0.012*"get" + 0.011*"go" + 0.010*"thing" + 0.010*"realli" + 0.009*"technolog" + 0.009*"work" + 0.008*"one"
+2017-12-09 20:47:46,553 : INFO : topic #15 (0.050): 0.099*"margin" + 0.027*"cost" + 0.025*"year" + 0.024*"go" + 0.024*"gross" + 0.022*"littl" + 0.022*"think" + 0.020*"bit" + 0.016*"profit" + 0.014*"get"
+2017-12-09 20:47:46,554 : INFO : topic #7 (0.050): 0.036*"expens" + 0.031*"cost" + 0.031*"busi" + 0.025*"revenu" + 0.021*"invest" + 0.020*"oper" + 0.020*"line" + 0.015*"spend" + 0.013*"manag" + 0.012*"leverag"
+2017-12-09 20:47:46,554 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.022*"littl" + 0.021*"bit" + 0.020*"talk" + 0.020*"guy" + 0.018*"like" + 0.018*"guess" + 0.017*"wonder"
+2017-12-09 20:47:46,556 : INFO : topic diff=0.057050, rho=0.229416
+2017-12-09 20:47:46,558 : INFO : PROGRESS: pass 5, at document #22000/26490
+2017-12-09 20:47:50,514 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:50,601 : INFO : topic #17 (0.050): 0.074*"NUM" + 0.030*"year" + 0.017*"point" + 0.016*"quarter" + 0.014*"rate" + 0.014*"guidanc" + 0.014*"think" + 0.013*"go" + 0.011*"basi" + 0.011*"look"
+2017-12-09 20:47:50,602 : INFO : topic #3 (0.050): 0.037*"custom" + 0.013*"servic" + 0.012*"us" + 0.012*"get" + 0.010*"go" + 0.010*"thing" + 0.010*"realli" + 0.009*"technolog" + 0.008*"work" + 0.008*"one"
+2017-12-09 20:47:50,602 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.022*"littl" + 0.021*"bit" + 0.020*"talk" + 0.020*"guy" + 0.018*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:47:50,602 : INFO : topic #5 (0.050): 0.027*"think" + 0.024*"busi" + 0.019*"opportun" + 0.018*"compani" + 0.015*"deal" + 0.015*"one" + 0.011*"look" + 0.010*"acquisit" + 0.008*"two" + 0.007*"go"
+2017-12-09 20:47:50,603 : INFO : topic #2 (0.050): 0.269*"NUM" + 0.041*"year" + 0.030*"million" + 0.023*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"cost" + 0.008*"next"
+2017-12-09 20:47:50,605 : INFO : topic diff=0.055910, rho=0.229416
+2017-12-09 20:47:50,607 : INFO : PROGRESS: pass 5, at document #24000/26490
+2017-12-09 20:47:54,443 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:54,531 : INFO : topic #4 (0.050): 0.042*"capit" + 0.038*"cash" + 0.021*"flow" + 0.021*"think" + 0.016*"return" + 0.015*"balanc" + 0.015*"go" + 0.011*"look" + 0.011*"debt" + 0.011*"time"
+2017-12-09 20:47:54,531 : INFO : topic #10 (0.050): 0.022*"think" + 0.017*"continu" + 0.015*"busi" + 0.014*"go" + 0.014*"make" + 0.013*"invest" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.011*"well"
+2017-12-09 20:47:54,532 : INFO : topic #15 (0.050): 0.102*"margin" + 0.028*"cost" + 0.024*"gross" + 0.024*"year" + 0.024*"go" + 0.021*"littl" + 0.021*"think" + 0.019*"bit" + 0.017*"profit" + 0.014*"improv"
+2017-12-09 20:47:54,532 : INFO : topic #8 (0.050): 0.051*"market" + 0.029*"europ" + 0.025*"u" + 0.024*"china" + 0.024*"america" + 0.020*"north" + 0.015*"countri" + 0.012*"well" + 0.010*"intern" + 0.010*"think"
+2017-12-09 20:47:54,533 : INFO : topic #1 (0.050): 0.031*"retail" + 0.030*"categori" + 0.025*"store" + 0.024*"brand" + 0.022*"share" + 0.019*"cloud" + 0.014*"data" + 0.014*"sale" + 0.013*"promot" + 0.013*"new"
+2017-12-09 20:47:54,535 : INFO : topic diff=0.057816, rho=0.229416
+2017-12-09 20:47:54,537 : INFO : PROGRESS: pass 5, at document #26000/26490
+2017-12-09 20:47:58,301 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:47:58,387 : INFO : topic #13 (0.050): 0.028*"think" + 0.019*"network" + 0.014*"go" + 0.010*"content" + 0.010*"devic" + 0.009*"advertis" + 0.009*"video" + 0.008*"product" + 0.008*"mobil" + 0.008*"wireless"
+2017-12-09 20:47:58,388 : INFO : topic #7 (0.050): 0.036*"expens" + 0.033*"cost" + 0.031*"busi" + 0.023*"revenu" + 0.022*"invest" + 0.020*"line" + 0.019*"oper" + 0.017*"spend" + 0.012*"manag" + 0.011*"leverag"
+2017-12-09 20:47:58,388 : INFO : topic #18 (0.050): 0.072*"growth" + 0.032*"busi" + 0.022*"see" + 0.022*"NUM" + 0.021*"year" + 0.018*"think" + 0.017*"grow" + 0.016*"digit" + 0.014*"continu" + 0.014*"revenu"
+2017-12-09 20:47:58,389 : INFO : topic #17 (0.050): 0.075*"NUM" + 0.029*"year" + 0.015*"point" + 0.015*"quarter" + 0.014*"go" + 0.014*"guidanc" + 0.013*"think" + 0.013*"rate" + 0.011*"basi" + 0.010*"look"
+2017-12-09 20:47:58,389 : INFO : topic #4 (0.050): 0.044*"capit" + 0.037*"cash" + 0.022*"flow" + 0.021*"think" + 0.016*"return" + 0.015*"go" + 0.015*"balanc" + 0.011*"look" + 0.011*"debt" + 0.011*"time"
+2017-12-09 20:47:58,391 : INFO : topic diff=0.055178, rho=0.229416
+2017-12-09 20:48:00,746 : INFO : -6.926 per-word bound, 121.6 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:48:00,746 : INFO : PROGRESS: pass 5, at document #26490/26490
+2017-12-09 20:48:01,607 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:48:01,699 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.018*"patient" + 0.018*"data" + 0.013*"question" + 0.013*"think" + 0.012*"launch" + 0.012*"product" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:48:01,699 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.014*"go" + 0.014*"invest" + 0.014*"make" + 0.013*"realli" + 0.012*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:48:01,700 : INFO : topic #8 (0.050): 0.048*"market" + 0.031*"europ" + 0.027*"u" + 0.024*"china" + 0.023*"america" + 0.022*"north" + 0.013*"countri" + 0.012*"brazil" + 0.011*"well" + 0.010*"think"
+2017-12-09 20:48:01,700 : INFO : topic #19 (0.050): 0.036*"think" + 0.016*"go" + 0.013*"plan" + 0.010*"look" + 0.008*"know" + 0.008*"see" + 0.008*"obvious" + 0.007*"market" + 0.007*"around" + 0.007*"govern"
+2017-12-09 20:48:01,701 : INFO : topic #7 (0.050): 0.036*"expens" + 0.034*"cost" + 0.030*"busi" + 0.022*"revenu" + 0.021*"invest" + 0.020*"oper" + 0.019*"line" + 0.016*"spend" + 0.013*"ratio" + 0.011*"leverag"
+2017-12-09 20:48:01,703 : INFO : topic diff=0.066219, rho=0.229416
+2017-12-09 20:48:01,706 : INFO : PROGRESS: pass 6, at document #2000/26490
+2017-12-09 20:48:05,341 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:05,434 : INFO : topic #14 (0.050): 0.025*"go" + 0.022*"project" + 0.018*"ga" + 0.014*"capac" + 0.014*"coal" + 0.013*"well" + 0.012*"oil" + 0.011*"demand" + 0.011*"think" + 0.011*"see"
+2017-12-09 20:48:05,434 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.020*"patient" + 0.016*"data" + 0.014*"question" + 0.013*"think" + 0.012*"launch" + 0.012*"studi" + 0.011*"product" + 0.009*"phase" + 0.009*"see"
+2017-12-09 20:48:05,435 : INFO : topic #11 (0.050): 0.035*"think" + 0.031*"market" + 0.022*"busi" + 0.016*"go" + 0.013*"thing" + 0.012*"price" + 0.012*"see" + 0.012*"consum" + 0.011*"lot" + 0.010*"product"
+2017-12-09 20:48:05,435 : INFO : topic #18 (0.050): 0.070*"growth" + 0.031*"busi" + 0.023*"NUM" + 0.022*"see" + 0.021*"year" + 0.018*"think" + 0.017*"grow" + 0.016*"digit" + 0.015*"continu" + 0.013*"revenu"
+2017-12-09 20:48:05,436 : INFO : topic #16 (0.050): 0.038*"kind" + 0.027*"like" + 0.027*"sort" + 0.026*"mean" + 0.026*"think" + 0.022*"guess" + 0.017*"get" + 0.017*"question" + 0.016*"okay" + 0.013*"tri"
+2017-12-09 20:48:05,438 : INFO : topic diff=0.056832, rho=0.223607
+2017-12-09 20:48:05,440 : INFO : PROGRESS: pass 6, at document #4000/26490
+2017-12-09 20:48:09,165 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:09,251 : INFO : topic #2 (0.050): 0.275*"NUM" + 0.042*"year" + 0.028*"million" + 0.024*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"cost" + 0.008*"next"
+2017-12-09 20:48:09,252 : INFO : topic #8 (0.050): 0.046*"market" + 0.032*"europ" + 0.028*"u" + 0.025*"america" + 0.024*"china" + 0.022*"north" + 0.014*"countri" + 0.011*"well" + 0.011*"brazil" + 0.010*"think"
+2017-12-09 20:48:09,252 : INFO : topic #6 (0.050): 0.052*"quarter" + 0.038*"year" + 0.029*"price" + 0.020*"see" + 0.017*"think" + 0.015*"first" + 0.013*"expect" + 0.013*"half" + 0.013*"second" + 0.012*"NUM"
+2017-12-09 20:48:09,253 : INFO : topic #13 (0.050): 0.028*"think" + 0.018*"network" + 0.013*"go" + 0.009*"devic" + 0.009*"video" + 0.009*"content" + 0.009*"advertis" + 0.008*"product" + 0.007*"wireless" + 0.007*"one"
+2017-12-09 20:48:09,253 : INFO : topic #14 (0.050): 0.025*"go" + 0.023*"project" + 0.017*"ga" + 0.014*"well" + 0.013*"capac" + 0.013*"oil" + 0.012*"coal" + 0.011*"think" + 0.011*"see" + 0.010*"demand"
+2017-12-09 20:48:09,255 : INFO : topic diff=0.057743, rho=0.223607
+2017-12-09 20:48:09,257 : INFO : PROGRESS: pass 6, at document #6000/26490
+2017-12-09 20:48:12,854 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:12,938 : INFO : topic #15 (0.050): 0.103*"margin" + 0.028*"cost" + 0.025*"go" + 0.023*"year" + 0.021*"think" + 0.021*"littl" + 0.021*"gross" + 0.018*"bit" + 0.016*"profit" + 0.016*"improv"
+2017-12-09 20:48:12,938 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.022*"patient" + 0.017*"data" + 0.013*"question" + 0.013*"think" + 0.013*"product" + 0.013*"launch" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:48:12,939 : INFO : topic #7 (0.050): 0.039*"expens" + 0.034*"cost" + 0.029*"busi" + 0.021*"revenu" + 0.021*"invest" + 0.019*"line" + 0.019*"oper" + 0.017*"spend" + 0.012*"manag" + 0.012*"leverag"
+2017-12-09 20:48:12,939 : INFO : topic #17 (0.050): 0.074*"NUM" + 0.029*"year" + 0.016*"point" + 0.015*"quarter" + 0.015*"guidanc" + 0.014*"go" + 0.014*"rate" + 0.014*"think" + 0.011*"basi" + 0.010*"look"
+2017-12-09 20:48:12,940 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"bank" + 0.017*"loan" + 0.016*"credit" + 0.015*"see" + 0.015*"think" + 0.014*"asset" + 0.013*"interest" + 0.013*"risk" + 0.013*"portfolio"
+2017-12-09 20:48:12,942 : INFO : topic diff=0.057317, rho=0.223607
+2017-12-09 20:48:12,944 : INFO : PROGRESS: pass 6, at document #8000/26490
+2017-12-09 20:48:16,650 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:16,733 : INFO : topic #3 (0.050): 0.038*"custom" + 0.013*"us" + 0.012*"servic" + 0.012*"get" + 0.011*"go" + 0.010*"realli" + 0.010*"thing" + 0.009*"technolog" + 0.009*"work" + 0.008*"one"
+2017-12-09 20:48:16,734 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.024*"patient" + 0.016*"data" + 0.013*"question" + 0.013*"think" + 0.012*"launch" + 0.012*"product" + 0.011*"studi" + 0.009*"u" + 0.009*"see"
+2017-12-09 20:48:16,734 : INFO : topic #11 (0.050): 0.035*"think" + 0.032*"market" + 0.021*"busi" + 0.016*"go" + 0.014*"thing" + 0.013*"price" + 0.012*"consum" + 0.012*"see" + 0.011*"lot" + 0.010*"product"
+2017-12-09 20:48:16,735 : INFO : topic #10 (0.050): 0.022*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.012*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:48:16,735 : INFO : topic #4 (0.050): 0.044*"capit" + 0.039*"cash" + 0.023*"flow" + 0.021*"think" + 0.017*"return" + 0.016*"go" + 0.015*"balanc" + 0.012*"dividend" + 0.011*"look" + 0.011*"debt"
+2017-12-09 20:48:16,737 : INFO : topic diff=0.053899, rho=0.223607
+2017-12-09 20:48:16,739 : INFO : PROGRESS: pass 6, at document #10000/26490
+2017-12-09 20:48:20,462 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:20,547 : INFO : topic #6 (0.050): 0.051*"quarter" + 0.038*"year" + 0.029*"price" + 0.021*"see" + 0.016*"think" + 0.016*"first" + 0.013*"half" + 0.013*"second" + 0.013*"expect" + 0.012*"NUM"
+2017-12-09 20:48:20,547 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.020*"guy" + 0.019*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:48:20,548 : INFO : topic #17 (0.050): 0.074*"NUM" + 0.029*"year" + 0.016*"point" + 0.015*"quarter" + 0.015*"guidanc" + 0.014*"rate" + 0.014*"go" + 0.014*"think" + 0.011*"basi" + 0.010*"look"
+2017-12-09 20:48:20,548 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.025*"patient" + 0.017*"data" + 0.013*"think" + 0.013*"question" + 0.012*"launch" + 0.011*"product" + 0.011*"studi" + 0.010*"see" + 0.009*"u"
+2017-12-09 20:48:20,549 : INFO : topic #9 (0.050): 0.025*"rate" + 0.018*"loan" + 0.017*"credit" + 0.016*"bank" + 0.015*"see" + 0.015*"think" + 0.014*"asset" + 0.014*"interest" + 0.014*"portfolio" + 0.014*"risk"
+2017-12-09 20:48:20,551 : INFO : topic diff=0.062515, rho=0.223607
+2017-12-09 20:48:20,552 : INFO : PROGRESS: pass 6, at document #12000/26490
+2017-12-09 20:48:24,284 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:24,367 : INFO : topic #6 (0.050): 0.052*"quarter" + 0.038*"year" + 0.028*"price" + 0.021*"see" + 0.017*"think" + 0.015*"first" + 0.013*"half" + 0.013*"second" + 0.013*"expect" + 0.012*"NUM"
+2017-12-09 20:48:24,368 : INFO : topic #13 (0.050): 0.028*"think" + 0.019*"network" + 0.014*"go" + 0.010*"devic" + 0.010*"advertis" + 0.009*"content" + 0.008*"thank" + 0.008*"product" + 0.007*"one" + 0.007*"mobil"
+2017-12-09 20:48:24,368 : INFO : topic #17 (0.050): 0.074*"NUM" + 0.029*"year" + 0.017*"point" + 0.015*"quarter" + 0.014*"guidanc" + 0.014*"go" + 0.014*"rate" + 0.014*"think" + 0.012*"basi" + 0.010*"look"
+2017-12-09 20:48:24,369 : INFO : topic #11 (0.050): 0.035*"think" + 0.031*"market" + 0.022*"busi" + 0.016*"go" + 0.014*"thing" + 0.013*"price" + 0.012*"consum" + 0.012*"see" + 0.011*"lot" + 0.010*"competit"
+2017-12-09 20:48:24,369 : INFO : topic #5 (0.050): 0.027*"think" + 0.024*"busi" + 0.018*"opportun" + 0.017*"compani" + 0.016*"deal" + 0.015*"one" + 0.012*"look" + 0.009*"acquisit" + 0.008*"new" + 0.007*"asset"
+2017-12-09 20:48:24,371 : INFO : topic diff=0.054535, rho=0.223607
+2017-12-09 20:48:24,373 : INFO : PROGRESS: pass 6, at document #14000/26490
+2017-12-09 20:48:28,232 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:28,321 : INFO : topic #15 (0.050): 0.102*"margin" + 0.029*"cost" + 0.025*"go" + 0.023*"gross" + 0.023*"year" + 0.022*"think" + 0.020*"littl" + 0.018*"profit" + 0.018*"bit" + 0.014*"improv"
+2017-12-09 20:48:28,322 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.013*"invest" + 0.013*"realli" + 0.012*"us" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:48:28,322 : INFO : topic #16 (0.050): 0.041*"kind" + 0.028*"like" + 0.028*"sort" + 0.027*"think" + 0.025*"mean" + 0.021*"guess" + 0.018*"get" + 0.017*"question" + 0.016*"okay" + 0.014*"tri"
+2017-12-09 20:48:28,323 : INFO : topic #9 (0.050): 0.026*"rate" + 0.017*"credit" + 0.016*"loan" + 0.015*"see" + 0.015*"bank" + 0.015*"think" + 0.014*"interest" + 0.014*"portfolio" + 0.013*"risk" + 0.013*"asset"
+2017-12-09 20:48:28,323 : INFO : topic #8 (0.050): 0.050*"market" + 0.034*"europ" + 0.029*"u" + 0.026*"america" + 0.024*"north" + 0.022*"china" + 0.014*"countri" + 0.011*"well" + 0.010*"intern" + 0.010*"think"
+2017-12-09 20:48:28,325 : INFO : topic diff=0.050554, rho=0.223607
+2017-12-09 20:48:28,327 : INFO : PROGRESS: pass 6, at document #16000/26490
+2017-12-09 20:48:32,283 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:32,374 : INFO : topic #7 (0.050): 0.037*"cost" + 0.035*"expens" + 0.030*"busi" + 0.024*"revenu" + 0.021*"line" + 0.020*"invest" + 0.018*"oper" + 0.016*"spend" + 0.013*"manag" + 0.012*"effici"
+2017-12-09 20:48:32,374 : INFO : topic #11 (0.050): 0.035*"think" + 0.031*"market" + 0.022*"busi" + 0.017*"go" + 0.014*"price" + 0.014*"thing" + 0.012*"consum" + 0.012*"lot" + 0.011*"see" + 0.011*"product"
+2017-12-09 20:48:32,375 : INFO : topic #14 (0.050): 0.025*"go" + 0.023*"project" + 0.018*"ga" + 0.015*"capac" + 0.014*"well" + 0.013*"oil" + 0.013*"rig" + 0.011*"think" + 0.011*"coal" + 0.011*"see"
+2017-12-09 20:48:32,375 : INFO : topic #17 (0.050): 0.073*"NUM" + 0.029*"year" + 0.017*"point" + 0.015*"quarter" + 0.014*"guidanc" + 0.014*"rate" + 0.014*"go" + 0.014*"think" + 0.011*"basi" + 0.010*"look"
+2017-12-09 20:48:32,376 : INFO : topic #19 (0.050): 0.035*"think" + 0.015*"go" + 0.011*"plan" + 0.010*"look" + 0.008*"know" + 0.008*"obvious" + 0.008*"see" + 0.007*"process" + 0.007*"around" + 0.007*"say"
+2017-12-09 20:48:32,378 : INFO : topic diff=0.047569, rho=0.223607
+2017-12-09 20:48:32,380 : INFO : PROGRESS: pass 6, at document #18000/26490
+2017-12-09 20:48:36,274 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:36,365 : INFO : topic #19 (0.050): 0.035*"think" + 0.015*"go" + 0.011*"plan" + 0.010*"look" + 0.008*"know" + 0.008*"see" + 0.008*"obvious" + 0.007*"process" + 0.007*"around" + 0.007*"say"
+2017-12-09 20:48:36,366 : INFO : topic #14 (0.050): 0.025*"go" + 0.023*"project" + 0.018*"ga" + 0.014*"capac" + 0.014*"well" + 0.014*"oil" + 0.013*"rig" + 0.012*"coal" + 0.011*"think" + 0.010*"see"
+2017-12-09 20:48:36,367 : INFO : topic #6 (0.050): 0.053*"quarter" + 0.039*"year" + 0.026*"price" + 0.021*"see" + 0.017*"think" + 0.016*"first" + 0.014*"half" + 0.014*"second" + 0.013*"expect" + 0.011*"NUM"
+2017-12-09 20:48:36,367 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"bank" + 0.017*"loan" + 0.016*"credit" + 0.015*"see" + 0.015*"think" + 0.013*"interest" + 0.013*"fee" + 0.013*"asset" + 0.013*"deposit"
+2017-12-09 20:48:36,368 : INFO : topic #1 (0.050): 0.033*"categori" + 0.033*"retail" + 0.026*"brand" + 0.025*"store" + 0.024*"share" + 0.016*"cloud" + 0.013*"promot" + 0.013*"data" + 0.013*"channel" + 0.012*"new"
+2017-12-09 20:48:36,370 : INFO : topic diff=0.056420, rho=0.223607
+2017-12-09 20:48:46,478 : INFO : -7.014 per-word bound, 129.3 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:48:46,478 : INFO : PROGRESS: pass 6, at document #20000/26490
+2017-12-09 20:48:50,196 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:50,282 : INFO : topic #1 (0.050): 0.034*"retail" + 0.030*"categori" + 0.026*"brand" + 0.025*"store" + 0.024*"share" + 0.018*"cloud" + 0.013*"new" + 0.013*"sale" + 0.012*"product" + 0.012*"data"
+2017-12-09 20:48:50,282 : INFO : topic #19 (0.050): 0.034*"think" + 0.016*"go" + 0.011*"plan" + 0.010*"look" + 0.008*"know" + 0.008*"see" + 0.008*"obvious" + 0.007*"process" + 0.007*"market" + 0.007*"around"
+2017-12-09 20:48:50,283 : INFO : topic #2 (0.050): 0.279*"NUM" + 0.042*"year" + 0.030*"million" + 0.024*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.008*"cost"
+2017-12-09 20:48:50,283 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.013*"invest" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:48:50,284 : INFO : topic #15 (0.050): 0.105*"margin" + 0.028*"cost" + 0.025*"gross" + 0.025*"go" + 0.023*"year" + 0.021*"think" + 0.020*"littl" + 0.018*"profit" + 0.017*"bit" + 0.015*"improv"
+2017-12-09 20:48:50,286 : INFO : topic diff=0.053792, rho=0.223607
+2017-12-09 20:48:50,287 : INFO : PROGRESS: pass 6, at document #22000/26490
+2017-12-09 20:48:54,055 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:54,140 : INFO : topic #2 (0.050): 0.277*"NUM" + 0.042*"year" + 0.031*"million" + 0.024*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"cost"
+2017-12-09 20:48:54,141 : INFO : topic #7 (0.050): 0.037*"cost" + 0.036*"expens" + 0.030*"busi" + 0.024*"revenu" + 0.021*"oper" + 0.021*"invest" + 0.020*"line" + 0.018*"spend" + 0.013*"manag" + 0.011*"leverag"
+2017-12-09 20:48:54,141 : INFO : topic #9 (0.050): 0.025*"rate" + 0.018*"credit" + 0.018*"bank" + 0.016*"loan" + 0.016*"see" + 0.015*"think" + 0.014*"interest" + 0.014*"card" + 0.014*"asset" + 0.012*"portfolio"
+2017-12-09 20:48:54,142 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.020*"talk" + 0.019*"guy" + 0.018*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:48:54,142 : INFO : topic #6 (0.050): 0.054*"quarter" + 0.038*"year" + 0.026*"price" + 0.021*"see" + 0.017*"think" + 0.016*"first" + 0.013*"half" + 0.013*"second" + 0.013*"expect" + 0.011*"NUM"
+2017-12-09 20:48:54,144 : INFO : topic diff=0.052350, rho=0.223607
+2017-12-09 20:48:54,146 : INFO : PROGRESS: pass 6, at document #24000/26490
+2017-12-09 20:48:57,961 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:48:58,047 : INFO : topic #9 (0.050): 0.025*"rate" + 0.018*"credit" + 0.016*"bank" + 0.016*"loan" + 0.016*"see" + 0.014*"think" + 0.014*"card" + 0.014*"interest" + 0.014*"asset" + 0.013*"portfolio"
+2017-12-09 20:48:58,048 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.023*"patient" + 0.019*"data" + 0.013*"question" + 0.013*"think" + 0.012*"launch" + 0.011*"product" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:48:58,048 : INFO : topic #17 (0.050): 0.072*"NUM" + 0.029*"year" + 0.016*"point" + 0.015*"quarter" + 0.014*"guidanc" + 0.014*"rate" + 0.014*"go" + 0.013*"think" + 0.011*"basi" + 0.010*"look"
+2017-12-09 20:48:58,049 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.013*"realli" + 0.013*"invest" + 0.013*"us" + 0.012*"look" + 0.011*"well"
+2017-12-09 20:48:58,049 : INFO : topic #2 (0.050): 0.279*"NUM" + 0.042*"year" + 0.030*"million" + 0.024*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"cost"
+2017-12-09 20:48:58,051 : INFO : topic diff=0.054051, rho=0.223607
+2017-12-09 20:48:58,053 : INFO : PROGRESS: pass 6, at document #26000/26490
+2017-12-09 20:49:02,404 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:02,508 : INFO : topic #18 (0.050): 0.074*"growth" + 0.034*"busi" + 0.022*"NUM" + 0.022*"see" + 0.021*"year" + 0.018*"grow" + 0.018*"think" + 0.016*"digit" + 0.015*"continu" + 0.014*"revenu"
+2017-12-09 20:49:02,508 : INFO : topic #19 (0.050): 0.035*"think" + 0.015*"go" + 0.010*"plan" + 0.009*"look" + 0.008*"know" + 0.008*"see" + 0.008*"obvious" + 0.007*"market" + 0.007*"govern" + 0.007*"comment"
+2017-12-09 20:49:02,509 : INFO : topic #13 (0.050): 0.028*"think" + 0.019*"network" + 0.014*"go" + 0.010*"content" + 0.010*"devic" + 0.009*"advertis" + 0.009*"video" + 0.008*"product" + 0.008*"wireless" + 0.008*"mobil"
+2017-12-09 20:49:02,510 : INFO : topic #9 (0.050): 0.024*"rate" + 0.019*"credit" + 0.017*"bank" + 0.017*"loan" + 0.016*"see" + 0.014*"asset" + 0.014*"think" + 0.013*"portfolio" + 0.013*"deposit" + 0.013*"interest"
+2017-12-09 20:49:02,511 : INFO : topic #4 (0.050): 0.045*"capit" + 0.038*"cash" + 0.022*"flow" + 0.020*"think" + 0.016*"return" + 0.015*"go" + 0.015*"balanc" + 0.011*"look" + 0.011*"debt" + 0.011*"time"
+2017-12-09 20:49:02,514 : INFO : topic diff=0.051391, rho=0.223607
+2017-12-09 20:49:05,274 : INFO : -6.922 per-word bound, 121.3 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:49:05,274 : INFO : PROGRESS: pass 6, at document #26490/26490
+2017-12-09 20:49:06,283 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:49:06,387 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.019*"patient" + 0.018*"data" + 0.013*"question" + 0.013*"launch" + 0.013*"think" + 0.012*"product" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:49:06,388 : INFO : topic #1 (0.050): 0.032*"retail" + 0.031*"categori" + 0.026*"store" + 0.026*"share" + 0.024*"brand" + 0.017*"cloud" + 0.014*"promot" + 0.014*"new" + 0.013*"sale" + 0.013*"data"
+2017-12-09 20:49:06,389 : INFO : topic #11 (0.050): 0.035*"think" + 0.032*"market" + 0.021*"busi" + 0.016*"go" + 0.014*"price" + 0.013*"thing" + 0.011*"see" + 0.011*"consum" + 0.011*"lot" + 0.010*"product"
+2017-12-09 20:49:06,389 : INFO : topic #9 (0.050): 0.027*"rate" + 0.019*"credit" + 0.017*"bank" + 0.016*"loan" + 0.015*"see" + 0.015*"think" + 0.014*"asset" + 0.014*"deposit" + 0.014*"interest" + 0.013*"risk"
+2017-12-09 20:49:06,390 : INFO : topic #13 (0.050): 0.029*"think" + 0.019*"network" + 0.013*"go" + 0.010*"content" + 0.010*"devic" + 0.009*"advertis" + 0.008*"channel" + 0.008*"video" + 0.008*"product" + 0.007*"one"
+2017-12-09 20:49:06,392 : INFO : topic diff=0.063120, rho=0.223607
+2017-12-09 20:49:06,396 : INFO : PROGRESS: pass 7, at document #2000/26490
+2017-12-09 20:49:10,410 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:10,506 : INFO : topic #4 (0.050): 0.046*"capit" + 0.036*"cash" + 0.021*"flow" + 0.020*"think" + 0.017*"return" + 0.015*"go" + 0.014*"balanc" + 0.012*"debt" + 0.011*"dividend" + 0.011*"look"
+2017-12-09 20:49:10,507 : INFO : topic #12 (0.050): 0.050*"thank" + 0.044*"question" + 0.032*"mayb" + 0.022*"littl" + 0.021*"bit" + 0.020*"talk" + 0.019*"guy" + 0.019*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:49:10,507 : INFO : topic #19 (0.050): 0.035*"think" + 0.015*"go" + 0.013*"plan" + 0.009*"look" + 0.008*"see" + 0.008*"know" + 0.008*"obvious" + 0.007*"chang" + 0.007*"state" + 0.007*"govern"
+2017-12-09 20:49:10,508 : INFO : topic #5 (0.050): 0.027*"think" + 0.025*"busi" + 0.017*"opportun" + 0.017*"compani" + 0.016*"deal" + 0.016*"one" + 0.011*"look" + 0.009*"acquisit" + 0.008*"new" + 0.008*"two"
+2017-12-09 20:49:10,508 : INFO : topic #17 (0.050): 0.072*"NUM" + 0.029*"year" + 0.016*"guidanc" + 0.015*"rate" + 0.015*"point" + 0.014*"go" + 0.014*"quarter" + 0.014*"think" + 0.010*"impact" + 0.010*"basi"
+2017-12-09 20:49:10,510 : INFO : topic diff=0.053916, rho=0.218218
+2017-12-09 20:49:10,512 : INFO : PROGRESS: pass 7, at document #4000/26490
+2017-12-09 20:49:14,408 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:14,495 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"invest" + 0.014*"make" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:49:14,496 : INFO : topic #2 (0.050): 0.282*"NUM" + 0.042*"year" + 0.029*"million" + 0.024*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"cost"
+2017-12-09 20:49:14,496 : INFO : topic #1 (0.050): 0.032*"categori" + 0.030*"retail" + 0.027*"store" + 0.026*"brand" + 0.025*"share" + 0.020*"cloud" + 0.015*"promot" + 0.015*"data" + 0.014*"new" + 0.013*"sale"
+2017-12-09 20:49:14,497 : INFO : topic #9 (0.050): 0.025*"rate" + 0.019*"bank" + 0.017*"credit" + 0.015*"see" + 0.015*"loan" + 0.015*"risk" + 0.015*"think" + 0.014*"asset" + 0.014*"interest" + 0.013*"deposit"
+2017-12-09 20:49:14,497 : INFO : topic #15 (0.050): 0.110*"margin" + 0.029*"cost" + 0.024*"go" + 0.022*"year" + 0.022*"gross" + 0.021*"think" + 0.018*"littl" + 0.018*"profit" + 0.016*"improv" + 0.016*"bit"
+2017-12-09 20:49:14,499 : INFO : topic diff=0.054131, rho=0.218218
+2017-12-09 20:49:14,501 : INFO : PROGRESS: pass 7, at document #6000/26490
+2017-12-09 20:49:18,342 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:18,430 : INFO : topic #3 (0.050): 0.038*"custom" + 0.013*"us" + 0.013*"servic" + 0.012*"get" + 0.010*"go" + 0.010*"realli" + 0.010*"technolog" + 0.009*"thing" + 0.009*"new" + 0.009*"work"
+2017-12-09 20:49:18,432 : INFO : topic #4 (0.050): 0.046*"capit" + 0.038*"cash" + 0.023*"flow" + 0.020*"think" + 0.017*"return" + 0.016*"go" + 0.015*"balanc" + 0.012*"dividend" + 0.011*"debt" + 0.011*"look"
+2017-12-09 20:49:18,432 : INFO : topic #17 (0.050): 0.072*"NUM" + 0.029*"year" + 0.016*"point" + 0.015*"guidanc" + 0.015*"rate" + 0.015*"quarter" + 0.014*"go" + 0.014*"think" + 0.011*"basi" + 0.010*"impact"
+2017-12-09 20:49:18,433 : INFO : topic #6 (0.050): 0.053*"quarter" + 0.039*"year" + 0.027*"price" + 0.020*"see" + 0.017*"think" + 0.016*"first" + 0.014*"half" + 0.013*"expect" + 0.013*"second" + 0.012*"look"
+2017-12-09 20:49:18,433 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.011*"well"
+2017-12-09 20:49:18,435 : INFO : topic diff=0.053615, rho=0.218218
+2017-12-09 20:49:18,437 : INFO : PROGRESS: pass 7, at document #8000/26490
+2017-12-09 20:49:22,173 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:22,255 : INFO : topic #17 (0.050): 0.072*"NUM" + 0.028*"year" + 0.016*"point" + 0.015*"rate" + 0.015*"quarter" + 0.014*"guidanc" + 0.014*"go" + 0.014*"think" + 0.011*"basi" + 0.010*"impact"
+2017-12-09 20:49:22,256 : INFO : topic #6 (0.050): 0.052*"quarter" + 0.039*"year" + 0.027*"price" + 0.020*"see" + 0.017*"think" + 0.016*"first" + 0.013*"half" + 0.013*"expect" + 0.013*"second" + 0.012*"NUM"
+2017-12-09 20:49:22,256 : INFO : topic #18 (0.050): 0.073*"growth" + 0.033*"busi" + 0.023*"NUM" + 0.022*"see" + 0.022*"year" + 0.018*"think" + 0.017*"grow" + 0.016*"digit" + 0.016*"revenu" + 0.016*"continu"
+2017-12-09 20:49:22,257 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:49:22,257 : INFO : topic #12 (0.050): 0.050*"thank" + 0.042*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.019*"guy" + 0.019*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:49:22,259 : INFO : topic diff=0.050968, rho=0.218218
+2017-12-09 20:49:22,261 : INFO : PROGRESS: pass 7, at document #10000/26490
+2017-12-09 20:49:25,935 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:26,017 : INFO : topic #9 (0.050): 0.025*"rate" + 0.018*"loan" + 0.017*"bank" + 0.017*"credit" + 0.015*"see" + 0.014*"asset" + 0.014*"think" + 0.014*"risk" + 0.014*"interest" + 0.014*"portfolio"
+2017-12-09 20:49:26,018 : INFO : topic #4 (0.050): 0.045*"capit" + 0.039*"cash" + 0.023*"flow" + 0.020*"think" + 0.017*"return" + 0.016*"go" + 0.015*"balanc" + 0.012*"debt" + 0.011*"dividend" + 0.011*"look"
+2017-12-09 20:49:26,018 : INFO : topic #11 (0.050): 0.036*"think" + 0.032*"market" + 0.021*"busi" + 0.017*"go" + 0.015*"price" + 0.014*"thing" + 0.012*"consum" + 0.011*"see" + 0.011*"lot" + 0.010*"say"
+2017-12-09 20:49:26,018 : INFO : topic #0 (0.050): 0.029*"NUM" + 0.026*"patient" + 0.017*"data" + 0.013*"think" + 0.013*"question" + 0.012*"launch" + 0.012*"product" + 0.011*"studi" + 0.010*"see" + 0.009*"u"
+2017-12-09 20:49:26,019 : INFO : topic #19 (0.050): 0.034*"think" + 0.015*"go" + 0.012*"plan" + 0.009*"look" + 0.008*"see" + 0.007*"know" + 0.007*"obvious" + 0.007*"process" + 0.007*"chang" + 0.007*"market"
+2017-12-09 20:49:26,021 : INFO : topic diff=0.058922, rho=0.218218
+2017-12-09 20:49:26,023 : INFO : PROGRESS: pass 7, at document #12000/26490
+2017-12-09 20:49:29,754 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:29,835 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.019*"guy" + 0.018*"guess" + 0.017*"like" + 0.017*"wonder"
+2017-12-09 20:49:29,836 : INFO : topic #8 (0.050): 0.051*"market" + 0.035*"europ" + 0.031*"u" + 0.027*"america" + 0.026*"north" + 0.023*"china" + 0.014*"countri" + 0.011*"well" + 0.010*"intern" + 0.009*"region"
+2017-12-09 20:49:29,837 : INFO : topic #11 (0.050): 0.036*"think" + 0.031*"market" + 0.021*"busi" + 0.017*"go" + 0.015*"price" + 0.014*"thing" + 0.012*"consum" + 0.011*"see" + 0.011*"lot" + 0.011*"competit"
+2017-12-09 20:49:29,837 : INFO : topic #6 (0.050): 0.053*"quarter" + 0.039*"year" + 0.026*"price" + 0.021*"see" + 0.017*"think" + 0.015*"first" + 0.013*"half" + 0.013*"expect" + 0.013*"second" + 0.012*"NUM"
+2017-12-09 20:49:29,837 : INFO : topic #18 (0.050): 0.073*"growth" + 0.033*"busi" + 0.023*"NUM" + 0.023*"see" + 0.022*"year" + 0.017*"think" + 0.017*"grow" + 0.016*"continu" + 0.015*"digit" + 0.015*"revenu"
+2017-12-09 20:49:29,839 : INFO : topic diff=0.051663, rho=0.218218
+2017-12-09 20:49:29,841 : INFO : PROGRESS: pass 7, at document #14000/26490
+2017-12-09 20:49:33,609 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:33,692 : INFO : topic #9 (0.050): 0.026*"rate" + 0.017*"credit" + 0.017*"loan" + 0.016*"bank" + 0.015*"see" + 0.015*"interest" + 0.014*"think" + 0.014*"risk" + 0.014*"portfolio" + 0.014*"asset"
+2017-12-09 20:49:33,693 : INFO : topic #16 (0.050): 0.044*"kind" + 0.029*"like" + 0.028*"think" + 0.028*"sort" + 0.026*"mean" + 0.022*"guess" + 0.020*"get" + 0.017*"question" + 0.016*"okay" + 0.014*"tri"
+2017-12-09 20:49:33,693 : INFO : topic #1 (0.050): 0.037*"retail" + 0.034*"categori" + 0.030*"store" + 0.028*"brand" + 0.026*"share" + 0.017*"cloud" + 0.014*"promot" + 0.012*"center" + 0.012*"data" + 0.012*"new"
+2017-12-09 20:49:33,694 : INFO : topic #19 (0.050): 0.034*"think" + 0.015*"go" + 0.012*"plan" + 0.009*"look" + 0.008*"see" + 0.008*"obvious" + 0.008*"know" + 0.007*"around" + 0.007*"chang" + 0.007*"process"
+2017-12-09 20:49:33,694 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.013*"invest" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:49:33,696 : INFO : topic diff=0.047598, rho=0.218218
+2017-12-09 20:49:33,698 : INFO : PROGRESS: pass 7, at document #16000/26490
+2017-12-09 20:49:37,455 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:37,540 : INFO : topic #7 (0.050): 0.041*"cost" + 0.036*"expens" + 0.028*"busi" + 0.024*"revenu" + 0.021*"line" + 0.020*"invest" + 0.019*"oper" + 0.017*"spend" + 0.013*"manag" + 0.012*"effici"
+2017-12-09 20:49:37,541 : INFO : topic #17 (0.050): 0.070*"NUM" + 0.029*"year" + 0.017*"point" + 0.015*"rate" + 0.015*"quarter" + 0.014*"guidanc" + 0.014*"go" + 0.014*"think" + 0.011*"basi" + 0.010*"look"
+2017-12-09 20:49:37,541 : INFO : topic #19 (0.050): 0.034*"think" + 0.014*"go" + 0.012*"plan" + 0.009*"look" + 0.008*"see" + 0.008*"obvious" + 0.008*"process" + 0.008*"know" + 0.007*"around" + 0.007*"chang"
+2017-12-09 20:49:37,542 : INFO : topic #12 (0.050): 0.050*"thank" + 0.043*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.020*"guy" + 0.018*"guess" + 0.018*"like" + 0.016*"wonder"
+2017-12-09 20:49:37,542 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.013*"realli" + 0.013*"invest" + 0.013*"us" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:49:37,544 : INFO : topic diff=0.044761, rho=0.218218
+2017-12-09 20:49:37,546 : INFO : PROGRESS: pass 7, at document #18000/26490
+2017-12-09 20:49:41,241 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:41,327 : INFO : topic #12 (0.050): 0.050*"thank" + 0.043*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.020*"guy" + 0.018*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:49:41,328 : INFO : topic #4 (0.050): 0.046*"capit" + 0.038*"cash" + 0.023*"flow" + 0.020*"think" + 0.017*"return" + 0.016*"balanc" + 0.015*"go" + 0.011*"dividend" + 0.011*"look" + 0.010*"debt"
+2017-12-09 20:49:41,328 : INFO : topic #18 (0.050): 0.076*"growth" + 0.033*"busi" + 0.023*"NUM" + 0.023*"see" + 0.022*"year" + 0.018*"think" + 0.017*"grow" + 0.017*"digit" + 0.016*"revenu" + 0.015*"continu"
+2017-12-09 20:49:41,329 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.013*"realli" + 0.013*"us" + 0.012*"invest" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:49:41,330 : INFO : topic #15 (0.050): 0.108*"margin" + 0.029*"cost" + 0.026*"gross" + 0.025*"go" + 0.022*"year" + 0.021*"think" + 0.020*"profit" + 0.018*"littl" + 0.016*"improv" + 0.016*"bit"
+2017-12-09 20:49:41,332 : INFO : topic diff=0.053451, rho=0.218218
+2017-12-09 20:49:51,226 : INFO : -7.012 per-word bound, 129.1 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:49:51,226 : INFO : PROGRESS: pass 7, at document #20000/26490
+2017-12-09 20:49:54,953 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:55,038 : INFO : topic #18 (0.050): 0.075*"growth" + 0.034*"busi" + 0.023*"NUM" + 0.022*"see" + 0.022*"year" + 0.018*"think" + 0.017*"digit" + 0.017*"grow" + 0.016*"revenu" + 0.014*"continu"
+2017-12-09 20:49:55,038 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.024*"patient" + 0.020*"data" + 0.013*"think" + 0.013*"question" + 0.012*"studi" + 0.012*"launch" + 0.011*"product" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:49:55,039 : INFO : topic #2 (0.050): 0.285*"NUM" + 0.043*"year" + 0.031*"million" + 0.025*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"get"
+2017-12-09 20:49:55,039 : INFO : topic #3 (0.050): 0.038*"custom" + 0.013*"servic" + 0.013*"us" + 0.012*"get" + 0.010*"go" + 0.010*"thing" + 0.010*"realli" + 0.009*"technolog" + 0.009*"work" + 0.009*"new"
+2017-12-09 20:49:55,040 : INFO : topic #1 (0.050): 0.036*"retail" + 0.032*"categori" + 0.028*"brand" + 0.027*"store" + 0.024*"share" + 0.018*"cloud" + 0.013*"sale" + 0.013*"new" + 0.012*"product" + 0.012*"promot"
+2017-12-09 20:49:55,042 : INFO : topic diff=0.051166, rho=0.218218
+2017-12-09 20:49:55,044 : INFO : PROGRESS: pass 7, at document #22000/26490
+2017-12-09 20:49:58,793 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:49:58,877 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.025*"patient" + 0.019*"data" + 0.013*"think" + 0.013*"question" + 0.012*"studi" + 0.012*"launch" + 0.011*"product" + 0.009*"phase" + 0.009*"see"
+2017-12-09 20:49:58,877 : INFO : topic #18 (0.050): 0.075*"growth" + 0.034*"busi" + 0.022*"NUM" + 0.022*"see" + 0.022*"year" + 0.018*"think" + 0.017*"grow" + 0.016*"digit" + 0.015*"revenu" + 0.015*"continu"
+2017-12-09 20:49:58,878 : INFO : topic #3 (0.050): 0.038*"custom" + 0.014*"servic" + 0.013*"us" + 0.012*"get" + 0.010*"go" + 0.010*"thing" + 0.010*"realli" + 0.009*"technolog" + 0.009*"new" + 0.008*"one"
+2017-12-09 20:49:58,879 : INFO : topic #13 (0.050): 0.027*"think" + 0.018*"network" + 0.014*"go" + 0.010*"devic" + 0.009*"advertis" + 0.009*"content" + 0.009*"video" + 0.008*"product" + 0.008*"mobil" + 0.007*"thank"
+2017-12-09 20:49:58,879 : INFO : topic #6 (0.050): 0.055*"quarter" + 0.039*"year" + 0.025*"price" + 0.021*"see" + 0.017*"think" + 0.016*"first" + 0.013*"half" + 0.013*"second" + 0.013*"expect" + 0.012*"NUM"
+2017-12-09 20:49:58,881 : INFO : topic diff=0.049719, rho=0.218218
+2017-12-09 20:49:58,883 : INFO : PROGRESS: pass 7, at document #24000/26490
+2017-12-09 20:50:02,680 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:02,763 : INFO : topic #5 (0.050): 0.027*"think" + 0.026*"busi" + 0.018*"opportun" + 0.018*"compani" + 0.016*"deal" + 0.016*"one" + 0.012*"look" + 0.011*"acquisit" + 0.008*"two" + 0.007*"asset"
+2017-12-09 20:50:02,764 : INFO : topic #7 (0.050): 0.041*"cost" + 0.038*"expens" + 0.028*"busi" + 0.024*"revenu" + 0.022*"invest" + 0.020*"oper" + 0.020*"spend" + 0.019*"line" + 0.012*"manag" + 0.012*"effici"
+2017-12-09 20:50:02,764 : INFO : topic #18 (0.050): 0.075*"growth" + 0.035*"busi" + 0.023*"NUM" + 0.022*"see" + 0.022*"year" + 0.018*"grow" + 0.017*"think" + 0.016*"digit" + 0.015*"revenu" + 0.015*"continu"
+2017-12-09 20:50:02,765 : INFO : topic #8 (0.050): 0.054*"market" + 0.032*"europ" + 0.028*"u" + 0.026*"america" + 0.026*"china" + 0.023*"north" + 0.015*"countri" + 0.011*"well" + 0.011*"intern" + 0.010*"region"
+2017-12-09 20:50:02,765 : INFO : topic #6 (0.050): 0.054*"quarter" + 0.039*"year" + 0.025*"price" + 0.021*"see" + 0.017*"think" + 0.015*"first" + 0.013*"expect" + 0.013*"half" + 0.013*"second" + 0.012*"last"
+2017-12-09 20:50:02,767 : INFO : topic diff=0.051149, rho=0.218218
+2017-12-09 20:50:02,769 : INFO : PROGRESS: pass 7, at document #26000/26490
+2017-12-09 20:50:06,492 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:06,577 : INFO : topic #8 (0.050): 0.055*"market" + 0.032*"europ" + 0.029*"u" + 0.026*"china" + 0.025*"america" + 0.022*"north" + 0.015*"countri" + 0.011*"asia" + 0.011*"well" + 0.011*"intern"
+2017-12-09 20:50:06,578 : INFO : topic #4 (0.050): 0.046*"capit" + 0.039*"cash" + 0.023*"flow" + 0.020*"think" + 0.016*"return" + 0.015*"balanc" + 0.015*"go" + 0.011*"debt" + 0.011*"look" + 0.011*"share"
+2017-12-09 20:50:06,579 : INFO : topic #11 (0.050): 0.036*"think" + 0.032*"market" + 0.021*"busi" + 0.016*"go" + 0.015*"price" + 0.013*"thing" + 0.011*"see" + 0.011*"lot" + 0.011*"consum" + 0.011*"competit"
+2017-12-09 20:50:06,579 : INFO : topic #15 (0.050): 0.117*"margin" + 0.029*"cost" + 0.028*"gross" + 0.025*"go" + 0.021*"year" + 0.021*"think" + 0.020*"profit" + 0.017*"littl" + 0.016*"improv" + 0.015*"bit"
+2017-12-09 20:50:06,580 : INFO : topic #18 (0.050): 0.075*"growth" + 0.035*"busi" + 0.023*"NUM" + 0.022*"see" + 0.021*"year" + 0.018*"grow" + 0.017*"think" + 0.015*"digit" + 0.015*"revenu" + 0.015*"continu"
+2017-12-09 20:50:06,582 : INFO : topic diff=0.048334, rho=0.218218
+2017-12-09 20:50:09,011 : INFO : -6.919 per-word bound, 121.1 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:50:09,012 : INFO : PROGRESS: pass 7, at document #26490/26490
+2017-12-09 20:50:09,926 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:50:10,025 : INFO : topic #8 (0.050): 0.051*"market" + 0.033*"europ" + 0.030*"u" + 0.025*"china" + 0.025*"america" + 0.024*"north" + 0.014*"countri" + 0.012*"brazil" + 0.011*"well" + 0.010*"intern"
+2017-12-09 20:50:10,025 : INFO : topic #12 (0.050): 0.051*"thank" + 0.044*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.019*"guy" + 0.018*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:50:10,026 : INFO : topic #14 (0.050): 0.025*"go" + 0.022*"project" + 0.016*"ga" + 0.014*"capac" + 0.014*"well" + 0.013*"oil" + 0.012*"price" + 0.011*"rig" + 0.011*"see" + 0.011*"demand"
+2017-12-09 20:50:10,026 : INFO : topic #18 (0.050): 0.074*"growth" + 0.034*"busi" + 0.023*"NUM" + 0.022*"year" + 0.022*"see" + 0.019*"grow" + 0.018*"think" + 0.016*"digit" + 0.015*"continu" + 0.015*"revenu"
+2017-12-09 20:50:10,026 : INFO : topic #10 (0.050): 0.024*"think" + 0.017*"continu" + 0.015*"busi" + 0.015*"go" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:50:10,029 : INFO : topic diff=0.060790, rho=0.218218
+2017-12-09 20:50:10,032 : INFO : PROGRESS: pass 8, at document #2000/26490
+2017-12-09 20:50:13,829 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:13,923 : INFO : topic #15 (0.050): 0.120*"margin" + 0.030*"cost" + 0.025*"go" + 0.024*"gross" + 0.021*"think" + 0.021*"year" + 0.020*"profit" + 0.017*"littl" + 0.017*"improv" + 0.015*"bit"
+2017-12-09 20:50:13,923 : INFO : topic #16 (0.050): 0.043*"kind" + 0.031*"like" + 0.029*"think" + 0.028*"mean" + 0.028*"sort" + 0.024*"guess" + 0.022*"get" + 0.017*"question" + 0.016*"okay" + 0.015*"tri"
+2017-12-09 20:50:13,924 : INFO : topic #18 (0.050): 0.073*"growth" + 0.034*"busi" + 0.023*"NUM" + 0.022*"see" + 0.021*"year" + 0.018*"grow" + 0.018*"think" + 0.015*"digit" + 0.015*"continu" + 0.014*"revenu"
+2017-12-09 20:50:13,924 : INFO : topic #2 (0.050): 0.286*"NUM" + 0.044*"year" + 0.030*"million" + 0.025*"billion" + 0.014*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"expect"
+2017-12-09 20:50:13,925 : INFO : topic #12 (0.050): 0.051*"thank" + 0.044*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.019*"guy" + 0.018*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:50:13,927 : INFO : topic diff=0.051441, rho=0.213201
+2017-12-09 20:50:13,929 : INFO : PROGRESS: pass 8, at document #4000/26490
+2017-12-09 20:50:17,706 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:17,788 : INFO : topic #14 (0.050): 0.025*"go" + 0.024*"project" + 0.017*"ga" + 0.014*"well" + 0.014*"capac" + 0.013*"oil" + 0.012*"coal" + 0.012*"price" + 0.011*"see" + 0.011*"rig"
+2017-12-09 20:50:17,788 : INFO : topic #11 (0.050): 0.036*"think" + 0.031*"market" + 0.020*"busi" + 0.017*"go" + 0.016*"price" + 0.013*"thing" + 0.012*"see" + 0.011*"lot" + 0.011*"consum" + 0.010*"product"
+2017-12-09 20:50:17,789 : INFO : topic #16 (0.050): 0.043*"kind" + 0.031*"like" + 0.029*"think" + 0.028*"sort" + 0.027*"mean" + 0.024*"guess" + 0.022*"get" + 0.018*"question" + 0.016*"okay" + 0.014*"tri"
+2017-12-09 20:50:17,790 : INFO : topic #17 (0.050): 0.070*"NUM" + 0.029*"year" + 0.016*"rate" + 0.016*"point" + 0.015*"guidanc" + 0.015*"go" + 0.014*"quarter" + 0.014*"think" + 0.010*"impact" + 0.010*"basi"
+2017-12-09 20:50:17,791 : INFO : topic #2 (0.050): 0.288*"NUM" + 0.043*"year" + 0.029*"million" + 0.025*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"get"
+2017-12-09 20:50:17,793 : INFO : topic diff=0.051348, rho=0.213201
+2017-12-09 20:50:17,795 : INFO : PROGRESS: pass 8, at document #6000/26490
+2017-12-09 20:50:21,528 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:21,612 : INFO : topic #19 (0.050): 0.033*"think" + 0.014*"go" + 0.013*"plan" + 0.008*"look" + 0.008*"govern" + 0.008*"state" + 0.008*"see" + 0.008*"obvious" + 0.007*"chang" + 0.007*"know"
+2017-12-09 20:50:21,613 : INFO : topic #15 (0.050): 0.115*"margin" + 0.029*"cost" + 0.025*"go" + 0.023*"gross" + 0.020*"year" + 0.020*"think" + 0.019*"profit" + 0.017*"littl" + 0.017*"improv" + 0.015*"bit"
+2017-12-09 20:50:21,613 : INFO : topic #5 (0.050): 0.027*"think" + 0.026*"busi" + 0.019*"opportun" + 0.018*"deal" + 0.017*"compani" + 0.016*"one" + 0.012*"look" + 0.009*"acquisit" + 0.009*"asset" + 0.008*"two"
+2017-12-09 20:50:21,613 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.022*"patient" + 0.017*"data" + 0.013*"question" + 0.013*"product" + 0.013*"think" + 0.013*"launch" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:50:21,614 : INFO : topic #16 (0.050): 0.044*"kind" + 0.032*"like" + 0.029*"think" + 0.027*"sort" + 0.027*"mean" + 0.024*"guess" + 0.022*"get" + 0.017*"question" + 0.016*"okay" + 0.015*"tri"
+2017-12-09 20:50:21,616 : INFO : topic diff=0.050767, rho=0.213201
+2017-12-09 20:50:21,617 : INFO : PROGRESS: pass 8, at document #8000/26490
+2017-12-09 20:50:25,338 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:25,418 : INFO : topic #5 (0.050): 0.027*"think" + 0.026*"busi" + 0.019*"opportun" + 0.018*"compani" + 0.017*"deal" + 0.016*"one" + 0.012*"look" + 0.009*"acquisit" + 0.008*"asset" + 0.008*"two"
+2017-12-09 20:50:25,419 : INFO : topic #10 (0.050): 0.023*"think" + 0.017*"continu" + 0.015*"go" + 0.015*"busi" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.013*"us" + 0.013*"look" + 0.012*"term"
+2017-12-09 20:50:25,420 : INFO : topic #14 (0.050): 0.025*"go" + 0.025*"project" + 0.019*"ga" + 0.015*"capac" + 0.014*"well" + 0.014*"oil" + 0.012*"price" + 0.011*"see" + 0.011*"rig" + 0.010*"think"
+2017-12-09 20:50:25,420 : INFO : topic #9 (0.050): 0.026*"rate" + 0.018*"bank" + 0.017*"credit" + 0.017*"loan" + 0.016*"see" + 0.015*"asset" + 0.014*"risk" + 0.014*"think" + 0.014*"interest" + 0.014*"portfolio"
+2017-12-09 20:50:25,420 : INFO : topic #12 (0.050): 0.051*"thank" + 0.042*"question" + 0.032*"mayb" + 0.022*"littl" + 0.022*"bit" + 0.021*"talk" + 0.019*"guy" + 0.019*"guess" + 0.018*"like" + 0.017*"wonder"
+2017-12-09 20:50:25,422 : INFO : topic diff=0.048695, rho=0.213201
+2017-12-09 20:50:25,424 : INFO : PROGRESS: pass 8, at document #10000/26490
+2017-12-09 20:50:29,074 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:29,156 : INFO : topic #7 (0.050): 0.043*"cost" + 0.037*"expens" + 0.026*"busi" + 0.022*"revenu" + 0.021*"invest" + 0.020*"line" + 0.019*"oper" + 0.019*"spend" + 0.012*"leverag" + 0.012*"ratio"
+2017-12-09 20:50:29,156 : INFO : topic #5 (0.050): 0.027*"think" + 0.026*"busi" + 0.018*"opportun" + 0.018*"compani" + 0.018*"deal" + 0.016*"one" + 0.012*"look" + 0.010*"acquisit" + 0.008*"asset" + 0.008*"new"
+2017-12-09 20:50:29,157 : INFO : topic #17 (0.050): 0.070*"NUM" + 0.028*"year" + 0.016*"point" + 0.016*"rate" + 0.015*"go" + 0.015*"guidanc" + 0.014*"quarter" + 0.013*"think" + 0.011*"basi" + 0.010*"impact"
+2017-12-09 20:50:29,157 : INFO : topic #9 (0.050): 0.025*"rate" + 0.018*"loan" + 0.018*"bank" + 0.017*"credit" + 0.015*"see" + 0.015*"asset" + 0.015*"risk" + 0.014*"portfolio" + 0.014*"interest" + 0.014*"think"
+2017-12-09 20:50:29,158 : INFO : topic #11 (0.050): 0.037*"think" + 0.032*"market" + 0.020*"busi" + 0.017*"price" + 0.017*"go" + 0.014*"thing" + 0.012*"consum" + 0.011*"lot" + 0.011*"see" + 0.011*"say"
+2017-12-09 20:50:29,160 : INFO : topic diff=0.056249, rho=0.213201
+2017-12-09 20:50:29,162 : INFO : PROGRESS: pass 8, at document #12000/26490
+2017-12-09 20:50:32,867 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:32,947 : INFO : topic #2 (0.050): 0.292*"NUM" + 0.043*"year" + 0.030*"million" + 0.026*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"get"
+2017-12-09 20:50:32,948 : INFO : topic #0 (0.050): 0.031*"NUM" + 0.026*"patient" + 0.018*"data" + 0.014*"think" + 0.012*"question" + 0.011*"studi" + 0.011*"product" + 0.011*"launch" + 0.009*"see" + 0.009*"go"
+2017-12-09 20:50:32,948 : INFO : topic #4 (0.050): 0.046*"capit" + 0.039*"cash" + 0.023*"flow" + 0.020*"think" + 0.017*"return" + 0.016*"balanc" + 0.015*"go" + 0.012*"dividend" + 0.011*"debt" + 0.011*"look"
+2017-12-09 20:50:32,948 : INFO : topic #9 (0.050): 0.024*"rate" + 0.018*"loan" + 0.017*"credit" + 0.017*"bank" + 0.015*"see" + 0.015*"risk" + 0.014*"portfolio" + 0.014*"asset" + 0.014*"think" + 0.014*"interest"
+2017-12-09 20:50:32,949 : INFO : topic #1 (0.050): 0.039*"retail" + 0.036*"categori" + 0.031*"store" + 0.028*"brand" + 0.025*"share" + 0.018*"cloud" + 0.015*"promot" + 0.013*"data" + 0.013*"sale" + 0.013*"center"
+2017-12-09 20:50:32,951 : INFO : topic diff=0.049373, rho=0.213201
+2017-12-09 20:50:32,953 : INFO : PROGRESS: pass 8, at document #14000/26490
+2017-12-09 20:50:36,686 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:36,768 : INFO : topic #15 (0.050): 0.113*"margin" + 0.030*"cost" + 0.026*"gross" + 0.025*"go" + 0.021*"profit" + 0.020*"think" + 0.020*"year" + 0.017*"littl" + 0.016*"improv" + 0.014*"bit"
+2017-12-09 20:50:36,768 : INFO : topic #14 (0.050): 0.026*"go" + 0.024*"project" + 0.017*"ga" + 0.015*"capac" + 0.015*"well" + 0.014*"rig" + 0.013*"oil" + 0.011*"coal" + 0.011*"see" + 0.011*"drill"
+2017-12-09 20:50:36,769 : INFO : topic #9 (0.050): 0.026*"rate" + 0.017*"credit" + 0.017*"loan" + 0.016*"bank" + 0.015*"see" + 0.015*"interest" + 0.014*"risk" + 0.014*"think" + 0.014*"asset" + 0.014*"portfolio"
+2017-12-09 20:50:36,769 : INFO : topic #3 (0.050): 0.037*"custom" + 0.013*"us" + 0.013*"servic" + 0.012*"get" + 0.010*"go" + 0.010*"realli" + 0.010*"technolog" + 0.010*"thing" + 0.009*"work" + 0.009*"new"
+2017-12-09 20:50:36,770 : INFO : topic #1 (0.050): 0.039*"retail" + 0.035*"categori" + 0.032*"store" + 0.030*"brand" + 0.026*"share" + 0.018*"cloud" + 0.014*"promot" + 0.013*"sale" + 0.013*"center" + 0.012*"data"
+2017-12-09 20:50:36,772 : INFO : topic diff=0.045329, rho=0.213201
+2017-12-09 20:50:36,774 : INFO : PROGRESS: pass 8, at document #16000/26490
+2017-12-09 20:50:40,536 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:40,618 : INFO : topic #13 (0.050): 0.027*"think" + 0.018*"network" + 0.014*"go" + 0.010*"content" + 0.010*"advertis" + 0.009*"devic" + 0.008*"thank" + 0.008*"product" + 0.008*"mobil" + 0.008*"wireless"
+2017-12-09 20:50:40,620 : INFO : topic #18 (0.050): 0.076*"growth" + 0.035*"busi" + 0.023*"NUM" + 0.023*"see" + 0.022*"year" + 0.018*"grow" + 0.017*"think" + 0.016*"digit" + 0.015*"revenu" + 0.015*"continu"
+2017-12-09 20:50:40,620 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.025*"patient" + 0.020*"data" + 0.013*"think" + 0.013*"question" + 0.011*"launch" + 0.011*"studi" + 0.011*"product" + 0.009*"see" + 0.009*"go"
+2017-12-09 20:50:40,620 : INFO : topic #17 (0.050): 0.069*"NUM" + 0.028*"year" + 0.016*"point" + 0.015*"rate" + 0.015*"go" + 0.014*"guidanc" + 0.014*"quarter" + 0.013*"think" + 0.011*"basi" + 0.010*"impact"
+2017-12-09 20:50:40,621 : INFO : topic #11 (0.050): 0.036*"think" + 0.031*"market" + 0.020*"busi" + 0.018*"price" + 0.018*"go" + 0.014*"thing" + 0.012*"lot" + 0.011*"see" + 0.011*"consum" + 0.011*"say"
+2017-12-09 20:50:40,623 : INFO : topic diff=0.042702, rho=0.213201
+2017-12-09 20:50:40,624 : INFO : PROGRESS: pass 8, at document #18000/26490
+2017-12-09 20:50:44,293 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:44,376 : INFO : topic #6 (0.050): 0.054*"quarter" + 0.040*"year" + 0.023*"price" + 0.021*"see" + 0.017*"think" + 0.016*"first" + 0.014*"half" + 0.014*"second" + 0.014*"expect" + 0.012*"NUM"
+2017-12-09 20:50:44,376 : INFO : topic #19 (0.050): 0.032*"think" + 0.014*"go" + 0.012*"plan" + 0.008*"see" + 0.008*"obvious" + 0.008*"look" + 0.008*"process" + 0.007*"chang" + 0.007*"know" + 0.007*"around"
+2017-12-09 20:50:44,377 : INFO : topic #18 (0.050): 0.077*"growth" + 0.035*"busi" + 0.023*"NUM" + 0.023*"see" + 0.022*"year" + 0.018*"grow" + 0.017*"think" + 0.017*"digit" + 0.016*"revenu" + 0.015*"continu"
+2017-12-09 20:50:44,378 : INFO : topic #4 (0.050): 0.047*"capit" + 0.039*"cash" + 0.023*"flow" + 0.020*"think" + 0.017*"return" + 0.016*"balanc" + 0.015*"go" + 0.011*"dividend" + 0.011*"look" + 0.011*"debt"
+2017-12-09 20:50:44,378 : INFO : topic #17 (0.050): 0.069*"NUM" + 0.028*"year" + 0.017*"point" + 0.015*"rate" + 0.015*"guidanc" + 0.014*"go" + 0.014*"quarter" + 0.013*"think" + 0.011*"basi" + 0.010*"look"
+2017-12-09 20:50:44,380 : INFO : topic diff=0.050979, rho=0.213201
+2017-12-09 20:50:54,660 : INFO : -7.010 per-word bound, 128.9 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:50:54,660 : INFO : PROGRESS: pass 8, at document #20000/26490
+2017-12-09 20:50:58,507 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:50:58,590 : INFO : topic #2 (0.050): 0.290*"NUM" + 0.043*"year" + 0.031*"million" + 0.026*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.010*"look" + 0.008*"next" + 0.007*"get"
+2017-12-09 20:50:58,590 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.023*"littl" + 0.023*"bit" + 0.021*"talk" + 0.019*"guy" + 0.017*"like" + 0.017*"guess" + 0.017*"wonder"
+2017-12-09 20:50:58,591 : INFO : topic #17 (0.050): 0.068*"NUM" + 0.028*"year" + 0.016*"point" + 0.015*"rate" + 0.014*"guidanc" + 0.014*"go" + 0.014*"quarter" + 0.013*"think" + 0.011*"basi" + 0.010*"impact"
+2017-12-09 20:50:58,591 : INFO : topic #9 (0.050): 0.025*"rate" + 0.017*"bank" + 0.017*"credit" + 0.017*"loan" + 0.016*"see" + 0.014*"asset" + 0.014*"card" + 0.014*"think" + 0.014*"interest" + 0.013*"fee"
+2017-12-09 20:50:58,592 : INFO : topic #14 (0.050): 0.025*"go" + 0.025*"project" + 0.019*"ga" + 0.015*"capac" + 0.014*"well" + 0.014*"oil" + 0.012*"rig" + 0.012*"price" + 0.012*"coal" + 0.011*"see"
+2017-12-09 20:50:58,594 : INFO : topic diff=0.048993, rho=0.213201
+2017-12-09 20:50:58,595 : INFO : PROGRESS: pass 8, at document #22000/26490
+2017-12-09 20:51:02,317 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:02,399 : INFO : topic #17 (0.050): 0.067*"NUM" + 0.028*"year" + 0.016*"point" + 0.016*"rate" + 0.014*"go" + 0.014*"quarter" + 0.014*"guidanc" + 0.013*"think" + 0.011*"basi" + 0.010*"impact"
+2017-12-09 20:51:02,399 : INFO : topic #8 (0.050): 0.053*"market" + 0.033*"europ" + 0.030*"u" + 0.027*"china" + 0.026*"america" + 0.023*"north" + 0.017*"countri" + 0.011*"region" + 0.011*"intern" + 0.010*"asia"
+2017-12-09 20:51:02,400 : INFO : topic #19 (0.050): 0.033*"think" + 0.014*"go" + 0.011*"plan" + 0.008*"see" + 0.008*"obvious" + 0.007*"chang" + 0.007*"look" + 0.007*"know" + 0.007*"around" + 0.007*"process"
+2017-12-09 20:51:02,400 : INFO : topic #5 (0.050): 0.026*"busi" + 0.026*"think" + 0.019*"opportun" + 0.019*"compani" + 0.016*"deal" + 0.016*"one" + 0.012*"look" + 0.010*"acquisit" + 0.009*"two" + 0.008*"asset"
+2017-12-09 20:51:02,400 : INFO : topic #11 (0.050): 0.036*"think" + 0.032*"market" + 0.020*"busi" + 0.017*"go" + 0.017*"price" + 0.013*"thing" + 0.011*"lot" + 0.011*"see" + 0.010*"product" + 0.010*"consum"
+2017-12-09 20:51:02,402 : INFO : topic diff=0.047375, rho=0.213201
+2017-12-09 20:51:02,404 : INFO : PROGRESS: pass 8, at document #24000/26490
+2017-12-09 20:51:06,193 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:06,277 : INFO : topic #1 (0.050): 0.035*"retail" + 0.035*"categori" + 0.030*"store" + 0.029*"brand" + 0.023*"share" + 0.020*"cloud" + 0.016*"sale" + 0.015*"promot" + 0.014*"data" + 0.013*"new"
+2017-12-09 20:51:06,278 : INFO : topic #13 (0.050): 0.027*"think" + 0.019*"network" + 0.014*"go" + 0.011*"content" + 0.010*"devic" + 0.009*"advertis" + 0.009*"video" + 0.008*"wireless" + 0.008*"product" + 0.008*"mobil"
+2017-12-09 20:51:06,278 : INFO : topic #16 (0.050): 0.045*"kind" + 0.032*"like" + 0.031*"think" + 0.029*"sort" + 0.027*"mean" + 0.024*"guess" + 0.023*"get" + 0.017*"question" + 0.015*"okay" + 0.015*"go"
+2017-12-09 20:51:06,278 : INFO : topic #14 (0.050): 0.027*"project" + 0.026*"go" + 0.017*"ga" + 0.016*"capac" + 0.015*"well" + 0.014*"rig" + 0.014*"oil" + 0.013*"price" + 0.012*"see" + 0.011*"drill"
+2017-12-09 20:51:06,279 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.024*"patient" + 0.019*"data" + 0.013*"think" + 0.013*"question" + 0.012*"launch" + 0.012*"product" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:51:06,281 : INFO : topic diff=0.048817, rho=0.213201
+2017-12-09 20:51:06,282 : INFO : PROGRESS: pass 8, at document #26000/26490
+2017-12-09 20:51:10,029 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:10,113 : INFO : topic #15 (0.050): 0.122*"margin" + 0.029*"cost" + 0.029*"gross" + 0.025*"go" + 0.021*"profit" + 0.020*"think" + 0.020*"year" + 0.017*"improv" + 0.015*"littl" + 0.014*"point"
+2017-12-09 20:51:10,113 : INFO : topic #18 (0.050): 0.076*"growth" + 0.036*"busi" + 0.023*"NUM" + 0.022*"see" + 0.021*"year" + 0.019*"grow" + 0.017*"think" + 0.015*"digit" + 0.015*"revenu" + 0.015*"continu"
+2017-12-09 20:51:10,114 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.021*"patient" + 0.020*"data" + 0.013*"think" + 0.013*"question" + 0.013*"launch" + 0.012*"product" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:51:10,114 : INFO : topic #1 (0.050): 0.036*"categori" + 0.035*"retail" + 0.029*"brand" + 0.029*"store" + 0.023*"share" + 0.020*"cloud" + 0.015*"sale" + 0.015*"promot" + 0.014*"data" + 0.013*"new"
+2017-12-09 20:51:10,115 : INFO : topic #19 (0.050): 0.032*"think" + 0.013*"go" + 0.011*"plan" + 0.008*"see" + 0.008*"obvious" + 0.008*"govern" + 0.008*"state" + 0.007*"know" + 0.007*"comment" + 0.007*"chang"
+2017-12-09 20:51:10,117 : INFO : topic diff=0.046246, rho=0.213201
+2017-12-09 20:51:12,478 : INFO : -6.917 per-word bound, 120.9 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:51:12,478 : INFO : PROGRESS: pass 8, at document #26490/26490
+2017-12-09 20:51:13,347 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:51:13,433 : INFO : topic #7 (0.050): 0.046*"cost" + 0.038*"expens" + 0.025*"busi" + 0.022*"revenu" + 0.021*"invest" + 0.020*"oper" + 0.020*"spend" + 0.019*"line" + 0.014*"ratio" + 0.012*"effici"
+2017-12-09 20:51:13,434 : INFO : topic #11 (0.050): 0.036*"think" + 0.032*"market" + 0.019*"busi" + 0.018*"price" + 0.017*"go" + 0.013*"thing" + 0.011*"see" + 0.011*"lot" + 0.011*"consum" + 0.010*"competit"
+2017-12-09 20:51:13,434 : INFO : topic #10 (0.050): 0.024*"think" + 0.017*"continu" + 0.015*"go" + 0.015*"busi" + 0.014*"make" + 0.013*"realli" + 0.013*"invest" + 0.013*"us" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:51:13,435 : INFO : topic #8 (0.050): 0.053*"market" + 0.034*"europ" + 0.031*"u" + 0.026*"china" + 0.026*"america" + 0.025*"north" + 0.014*"countri" + 0.012*"brazil" + 0.010*"intern" + 0.010*"region"
+2017-12-09 20:51:13,435 : INFO : topic #2 (0.050): 0.291*"NUM" + 0.045*"year" + 0.030*"million" + 0.024*"billion" + 0.015*"go" + 0.012*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"expect"
+2017-12-09 20:51:13,437 : INFO : topic diff=0.058508, rho=0.213201
+2017-12-09 20:51:13,440 : INFO : PROGRESS: pass 9, at document #2000/26490
+2017-12-09 20:51:17,043 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:17,130 : INFO : topic #7 (0.050): 0.047*"cost" + 0.040*"expens" + 0.024*"busi" + 0.021*"invest" + 0.021*"revenu" + 0.020*"spend" + 0.019*"oper" + 0.019*"line" + 0.013*"ratio" + 0.012*"effici"
+2017-12-09 20:51:17,131 : INFO : topic #11 (0.050): 0.037*"think" + 0.031*"market" + 0.019*"busi" + 0.018*"price" + 0.017*"go" + 0.013*"thing" + 0.011*"see" + 0.011*"lot" + 0.011*"consum" + 0.010*"competit"
+2017-12-09 20:51:17,131 : INFO : topic #9 (0.050): 0.026*"rate" + 0.019*"bank" + 0.018*"credit" + 0.017*"loan" + 0.016*"see" + 0.015*"interest" + 0.015*"asset" + 0.014*"risk" + 0.014*"deposit" + 0.014*"think"
+2017-12-09 20:51:17,132 : INFO : topic #5 (0.050): 0.026*"think" + 0.026*"busi" + 0.018*"compani" + 0.018*"opportun" + 0.017*"deal" + 0.016*"one" + 0.012*"look" + 0.009*"acquisit" + 0.008*"two" + 0.008*"new"
+2017-12-09 20:51:17,132 : INFO : topic #12 (0.050): 0.051*"thank" + 0.044*"question" + 0.032*"mayb" + 0.023*"littl" + 0.022*"bit" + 0.021*"talk" + 0.018*"guy" + 0.018*"guess" + 0.017*"like" + 0.017*"wonder"
+2017-12-09 20:51:17,135 : INFO : topic diff=0.049504, rho=0.208514
+2017-12-09 20:51:17,136 : INFO : PROGRESS: pass 9, at document #4000/26490
+2017-12-09 20:51:20,844 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:20,929 : INFO : topic #13 (0.050): 0.028*"think" + 0.018*"network" + 0.013*"go" + 0.010*"devic" + 0.010*"content" + 0.009*"video" + 0.009*"advertis" + 0.008*"product" + 0.008*"wireless" + 0.007*"new"
+2017-12-09 20:51:20,930 : INFO : topic #2 (0.050): 0.293*"NUM" + 0.044*"year" + 0.030*"million" + 0.025*"billion" + 0.015*"go" + 0.011*"think" + 0.010*"number" + 0.009*"look" + 0.008*"next" + 0.007*"get"
+2017-12-09 20:51:20,930 : INFO : topic #10 (0.050): 0.024*"think" + 0.017*"continu" + 0.015*"go" + 0.015*"busi" + 0.014*"make" + 0.014*"invest" + 0.013*"realli" + 0.013*"us" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:51:20,931 : INFO : topic #17 (0.050): 0.068*"NUM" + 0.028*"year" + 0.016*"rate" + 0.016*"point" + 0.015*"go" + 0.015*"guidanc" + 0.013*"think" + 0.013*"quarter" + 0.011*"impact" + 0.010*"basi"
+2017-12-09 20:51:20,931 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.023*"littl" + 0.022*"bit" + 0.021*"talk" + 0.019*"guy" + 0.018*"guess" + 0.017*"like" + 0.017*"wonder"
+2017-12-09 20:51:20,933 : INFO : topic diff=0.049043, rho=0.208514
+2017-12-09 20:51:20,935 : INFO : PROGRESS: pass 9, at document #6000/26490
+2017-12-09 20:51:24,813 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:24,902 : INFO : topic #6 (0.050): 0.054*"quarter" + 0.040*"year" + 0.024*"price" + 0.020*"see" + 0.017*"think" + 0.016*"first" + 0.014*"expect" + 0.014*"half" + 0.013*"second" + 0.012*"look"
+2017-12-09 20:51:24,902 : INFO : topic #8 (0.050): 0.051*"market" + 0.036*"europ" + 0.032*"u" + 0.029*"america" + 0.028*"north" + 0.025*"china" + 0.014*"countri" + 0.011*"well" + 0.010*"intern" + 0.010*"region"
+2017-12-09 20:51:24,903 : INFO : topic #17 (0.050): 0.068*"NUM" + 0.028*"year" + 0.016*"rate" + 0.016*"point" + 0.015*"go" + 0.015*"guidanc" + 0.013*"think" + 0.013*"quarter" + 0.011*"basi" + 0.011*"impact"
+2017-12-09 20:51:24,903 : INFO : topic #10 (0.050): 0.024*"think" + 0.017*"continu" + 0.015*"go" + 0.015*"busi" + 0.014*"make" + 0.013*"invest" + 0.013*"realli" + 0.013*"us" + 0.013*"look" + 0.011*"term"
+2017-12-09 20:51:24,904 : INFO : topic #7 (0.050): 0.047*"cost" + 0.040*"expens" + 0.024*"busi" + 0.022*"invest" + 0.021*"revenu" + 0.020*"spend" + 0.019*"oper" + 0.019*"line" + 0.012*"ratio" + 0.012*"effici"
+2017-12-09 20:51:24,906 : INFO : topic diff=0.048456, rho=0.208514
+2017-12-09 20:51:24,908 : INFO : PROGRESS: pass 9, at document #8000/26490
+2017-12-09 20:51:28,735 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:28,814 : INFO : topic #1 (0.050): 0.038*"categori" + 0.036*"retail" + 0.030*"brand" + 0.029*"store" + 0.027*"share" + 0.019*"cloud" + 0.015*"promot" + 0.014*"sale" + 0.013*"new" + 0.013*"data"
+2017-12-09 20:51:28,814 : INFO : topic #5 (0.050): 0.027*"busi" + 0.026*"think" + 0.019*"opportun" + 0.018*"compani" + 0.018*"deal" + 0.016*"one" + 0.012*"look" + 0.009*"acquisit" + 0.009*"asset" + 0.008*"two"
+2017-12-09 20:51:28,815 : INFO : topic #13 (0.050): 0.027*"think" + 0.021*"network" + 0.014*"go" + 0.011*"devic" + 0.009*"content" + 0.009*"video" + 0.009*"advertis" + 0.008*"wireless" + 0.008*"product" + 0.007*"thank"
+2017-12-09 20:51:28,815 : INFO : topic #16 (0.050): 0.045*"kind" + 0.033*"like" + 0.030*"think" + 0.028*"mean" + 0.028*"sort" + 0.025*"guess" + 0.024*"get" + 0.017*"question" + 0.016*"okay" + 0.016*"go"
+2017-12-09 20:51:28,816 : INFO : topic #15 (0.050): 0.120*"margin" + 0.029*"cost" + 0.026*"go" + 0.024*"gross" + 0.021*"profit" + 0.019*"think" + 0.019*"year" + 0.018*"improv" + 0.015*"littl" + 0.014*"point"
+2017-12-09 20:51:28,818 : INFO : topic diff=0.046745, rho=0.208514
+2017-12-09 20:51:28,820 : INFO : PROGRESS: pass 9, at document #10000/26490
+2017-12-09 20:51:32,466 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:32,546 : INFO : topic #19 (0.050): 0.031*"think" + 0.013*"go" + 0.013*"plan" + 0.008*"see" + 0.008*"state" + 0.008*"chang" + 0.008*"obvious" + 0.007*"process" + 0.007*"look" + 0.007*"around"
+2017-12-09 20:51:32,546 : INFO : topic #8 (0.050): 0.054*"market" + 0.038*"europ" + 0.032*"u" + 0.028*"america" + 0.027*"north" + 0.023*"china" + 0.015*"countri" + 0.011*"well" + 0.010*"intern" + 0.010*"region"
+2017-12-09 20:51:32,547 : INFO : topic #11 (0.050): 0.037*"think" + 0.032*"market" + 0.019*"price" + 0.019*"busi" + 0.017*"go" + 0.014*"thing" + 0.011*"lot" + 0.011*"see" + 0.011*"consum" + 0.011*"say"
+2017-12-09 20:51:32,547 : INFO : topic #5 (0.050): 0.026*"think" + 0.026*"busi" + 0.019*"opportun" + 0.019*"compani" + 0.018*"deal" + 0.016*"one" + 0.012*"look" + 0.010*"acquisit" + 0.008*"asset" + 0.008*"two"
+2017-12-09 20:51:32,548 : INFO : topic #7 (0.050): 0.048*"cost" + 0.038*"expens" + 0.024*"busi" + 0.022*"revenu" + 0.021*"invest" + 0.020*"spend" + 0.019*"oper" + 0.019*"line" + 0.012*"effici" + 0.012*"leverag"
+2017-12-09 20:51:32,550 : INFO : topic diff=0.053851, rho=0.208514
+2017-12-09 20:51:32,551 : INFO : PROGRESS: pass 9, at document #12000/26490
+2017-12-09 20:51:36,266 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:36,347 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.023*"littl" + 0.023*"bit" + 0.021*"talk" + 0.019*"guy" + 0.018*"guess" + 0.017*"wonder" + 0.017*"like"
+2017-12-09 20:51:36,347 : INFO : topic #7 (0.050): 0.048*"cost" + 0.037*"expens" + 0.025*"busi" + 0.023*"revenu" + 0.021*"invest" + 0.020*"spend" + 0.019*"line" + 0.019*"oper" + 0.013*"effici" + 0.012*"leverag"
+2017-12-09 20:51:36,348 : INFO : topic #10 (0.050): 0.024*"think" + 0.017*"continu" + 0.015*"go" + 0.015*"busi" + 0.014*"make" + 0.013*"realli" + 0.013*"us" + 0.013*"invest" + 0.013*"look" + 0.012*"term"
+2017-12-09 20:51:36,349 : INFO : topic #11 (0.050): 0.037*"think" + 0.031*"market" + 0.019*"price" + 0.019*"busi" + 0.017*"go" + 0.014*"thing" + 0.011*"lot" + 0.011*"see" + 0.011*"consum" + 0.011*"competit"
+2017-12-09 20:51:36,350 : INFO : topic #1 (0.050): 0.040*"retail" + 0.037*"categori" + 0.032*"store" + 0.029*"brand" + 0.025*"share" + 0.018*"cloud" + 0.015*"promot" + 0.013*"sale" + 0.013*"data" + 0.013*"new"
+2017-12-09 20:51:36,352 : INFO : topic diff=0.047478, rho=0.208514
+2017-12-09 20:51:36,354 : INFO : PROGRESS: pass 9, at document #14000/26490
+2017-12-09 20:51:40,084 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:40,166 : INFO : topic #12 (0.050): 0.050*"thank" + 0.042*"question" + 0.032*"mayb" + 0.023*"littl" + 0.023*"bit" + 0.021*"talk" + 0.019*"guy" + 0.017*"guess" + 0.017*"like" + 0.017*"wonder"
+2017-12-09 20:51:40,166 : INFO : topic #7 (0.050): 0.050*"cost" + 0.037*"expens" + 0.024*"busi" + 0.023*"revenu" + 0.021*"invest" + 0.020*"spend" + 0.020*"line" + 0.019*"oper" + 0.013*"effici" + 0.012*"leverag"
+2017-12-09 20:51:40,166 : INFO : topic #9 (0.050): 0.026*"rate" + 0.017*"credit" + 0.017*"loan" + 0.017*"bank" + 0.015*"see" + 0.015*"interest" + 0.015*"risk" + 0.014*"asset" + 0.014*"portfolio" + 0.014*"think"
+2017-12-09 20:51:40,167 : INFO : topic #19 (0.050): 0.032*"think" + 0.013*"go" + 0.012*"plan" + 0.008*"see" + 0.008*"obvious" + 0.008*"chang" + 0.008*"around" + 0.008*"state" + 0.007*"govern" + 0.007*"process"
+2017-12-09 20:51:40,167 : INFO : topic #4 (0.050): 0.047*"capit" + 0.041*"cash" + 0.025*"flow" + 0.020*"think" + 0.018*"return" + 0.015*"balanc" + 0.015*"go" + 0.012*"dividend" + 0.011*"debt" + 0.011*"look"
+2017-12-09 20:51:40,169 : INFO : topic diff=0.043086, rho=0.208514
+2017-12-09 20:51:40,171 : INFO : PROGRESS: pass 9, at document #16000/26490
+2017-12-09 20:51:43,928 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:44,011 : INFO : topic #1 (0.050): 0.039*"retail" + 0.038*"categori" + 0.032*"store" + 0.031*"brand" + 0.025*"share" + 0.017*"cloud" + 0.014*"promot" + 0.013*"sale" + 0.013*"channel" + 0.012*"data"
+2017-12-09 20:51:44,011 : INFO : topic #10 (0.050): 0.024*"think" + 0.017*"continu" + 0.016*"go" + 0.015*"busi" + 0.014*"make" + 0.013*"realli" + 0.013*"us" + 0.013*"invest" + 0.012*"look" + 0.012*"term"
+2017-12-09 20:51:44,012 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.032*"mayb" + 0.023*"littl" + 0.023*"bit" + 0.021*"talk" + 0.019*"guy" + 0.017*"guess" + 0.017*"like" + 0.016*"wonder"
+2017-12-09 20:51:44,012 : INFO : topic #13 (0.050): 0.027*"think" + 0.018*"network" + 0.014*"go" + 0.010*"content" + 0.010*"advertis" + 0.009*"devic" + 0.008*"thank" + 0.008*"product" + 0.008*"mobil" + 0.008*"wireless"
+2017-12-09 20:51:44,013 : INFO : topic #19 (0.050): 0.032*"think" + 0.013*"go" + 0.012*"plan" + 0.008*"see" + 0.008*"obvious" + 0.008*"process" + 0.008*"chang" + 0.007*"around" + 0.007*"look" + 0.007*"state"
+2017-12-09 20:51:44,015 : INFO : topic diff=0.040795, rho=0.208514
+2017-12-09 20:51:44,017 : INFO : PROGRESS: pass 9, at document #18000/26490
+2017-12-09 20:51:47,854 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:51:47,941 : INFO : topic #13 (0.050): 0.027*"think" + 0.020*"network" + 0.014*"go" + 0.010*"advertis" + 0.009*"devic" + 0.009*"content" + 0.008*"thank" + 0.008*"product" + 0.007*"video" + 0.007*"ad"
+2017-12-09 20:51:47,942 : INFO : topic #17 (0.050): 0.067*"NUM" + 0.028*"year" + 0.017*"point" + 0.016*"rate" + 0.015*"go" + 0.015*"guidanc" + 0.013*"quarter" + 0.013*"think" + 0.011*"basi" + 0.010*"impact"
+2017-12-09 20:51:47,943 : INFO : topic #4 (0.050): 0.048*"capit" + 0.039*"cash" + 0.024*"flow" + 0.019*"think" + 0.018*"return" + 0.016*"balanc" + 0.015*"go" + 0.011*"dividend" + 0.011*"look" + 0.011*"debt"
+2017-12-09 20:51:47,944 : INFO : topic #12 (0.050): 0.051*"thank" + 0.043*"question" + 0.031*"mayb" + 0.023*"littl" + 0.023*"bit" + 0.021*"talk" + 0.019*"guy" + 0.017*"guess" + 0.017*"wonder" + 0.017*"like"
+2017-12-09 20:51:47,944 : INFO : topic #1 (0.050): 0.038*"retail" + 0.038*"categori" + 0.032*"brand" + 0.030*"store" + 0.024*"share" + 0.018*"cloud" + 0.014*"channel" + 0.014*"sale" + 0.013*"promot" + 0.012*"new"
+2017-12-09 20:51:47,947 : INFO : topic diff=0.048523, rho=0.208514
+2017-12-09 20:51:57,965 : INFO : -7.009 per-word bound, 128.8 perplexity estimate based on a held-out corpus of 2000 documents with 182033 words
+2017-12-09 20:51:57,965 : INFO : PROGRESS: pass 9, at document #20000/26490
+2017-12-09 20:52:01,678 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:52:01,762 : INFO : topic #2 (0.050): 0.295*"NUM" + 0.044*"year" + 0.031*"million" + 0.026*"billion" + 0.015*"go" + 0.012*"think" + 0.010*"number" + 0.010*"look" + 0.008*"next" + 0.007*"get"
+2017-12-09 20:52:01,762 : INFO : topic #17 (0.050): 0.066*"NUM" + 0.028*"year" + 0.016*"point" + 0.016*"rate" + 0.014*"go" + 0.014*"guidanc" + 0.013*"quarter" + 0.013*"think" + 0.011*"basi" + 0.011*"impact"
+2017-12-09 20:52:01,763 : INFO : topic #14 (0.050): 0.025*"go" + 0.025*"project" + 0.019*"ga" + 0.015*"capac" + 0.015*"well" + 0.014*"oil" + 0.012*"price" + 0.012*"rig" + 0.012*"coal" + 0.011*"see"
+2017-12-09 20:52:01,763 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.024*"patient" + 0.020*"data" + 0.013*"think" + 0.012*"question" + 0.012*"studi" + 0.012*"launch" + 0.011*"product" + 0.009*"see" + 0.009*"phase"
+2017-12-09 20:52:01,763 : INFO : topic #16 (0.050): 0.048*"kind" + 0.034*"like" + 0.032*"think" + 0.027*"sort" + 0.027*"mean" + 0.025*"get" + 0.023*"guess" + 0.017*"question" + 0.017*"go" + 0.016*"okay"
+2017-12-09 20:52:01,765 : INFO : topic diff=0.047006, rho=0.208514
+2017-12-09 20:52:01,767 : INFO : PROGRESS: pass 9, at document #22000/26490
+2017-12-09 20:52:05,488 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:52:05,571 : INFO : topic #9 (0.050): 0.025*"rate" + 0.019*"bank" + 0.018*"credit" + 0.016*"loan" + 0.016*"see" + 0.015*"asset" + 0.014*"interest" + 0.014*"card" + 0.014*"think" + 0.013*"fee"
+2017-12-09 20:52:05,571 : INFO : topic #15 (0.050): 0.123*"margin" + 0.029*"cost" + 0.029*"gross" + 0.025*"go" + 0.023*"profit" + 0.019*"think" + 0.019*"year" + 0.017*"improv" + 0.015*"littl" + 0.014*"point"
+2017-12-09 20:52:05,572 : INFO : topic #10 (0.050): 0.024*"think" + 0.016*"continu" + 0.016*"go" + 0.015*"busi" + 0.014*"make" + 0.013*"realli" + 0.013*"us" + 0.013*"invest" + 0.012*"look" + 0.011*"term"
+2017-12-09 20:52:05,572 : INFO : topic #18 (0.050): 0.077*"growth" + 0.037*"busi" + 0.023*"NUM" + 0.022*"see" + 0.021*"year" + 0.018*"grow" + 0.017*"think" + 0.016*"digit" + 0.016*"revenu" + 0.015*"continu"
+2017-12-09 20:52:05,573 : INFO : topic #19 (0.050): 0.032*"think" + 0.013*"go" + 0.011*"plan" + 0.008*"see" + 0.008*"obvious" + 0.008*"chang" + 0.007*"around" + 0.007*"govern" + 0.007*"process" + 0.007*"know"
+2017-12-09 20:52:05,575 : INFO : topic diff=0.045341, rho=0.208514
+2017-12-09 20:52:05,576 : INFO : PROGRESS: pass 9, at document #24000/26490
+2017-12-09 20:52:09,359 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:52:09,440 : INFO : topic #13 (0.050): 0.027*"think" + 0.019*"network" + 0.013*"go" + 0.011*"content" + 0.010*"devic" + 0.009*"advertis" + 0.009*"video" + 0.009*"wireless" + 0.008*"product" + 0.008*"mobil"
+2017-12-09 20:52:09,441 : INFO : topic #1 (0.050): 0.037*"retail" + 0.036*"categori" + 0.031*"store" + 0.031*"brand" + 0.022*"share" + 0.020*"cloud" + 0.016*"sale" + 0.014*"promot" + 0.014*"data" + 0.013*"channel"
+2017-12-09 20:52:09,441 : INFO : topic #15 (0.050): 0.125*"margin" + 0.030*"gross" + 0.029*"cost" + 0.025*"go" + 0.023*"profit" + 0.019*"think" + 0.018*"year" + 0.018*"improv" + 0.014*"littl" + 0.014*"mix"
+2017-12-09 20:52:09,442 : INFO : topic #14 (0.050): 0.027*"project" + 0.026*"go" + 0.017*"ga" + 0.016*"capac" + 0.015*"well" + 0.014*"rig" + 0.014*"oil" + 0.013*"price" + 0.012*"see" + 0.011*"demand"
+2017-12-09 20:52:09,442 : INFO : topic #4 (0.050): 0.046*"capit" + 0.041*"cash" + 0.023*"flow" + 0.020*"think" + 0.017*"return" + 0.016*"balanc" + 0.015*"go" + 0.012*"debt" + 0.011*"share" + 0.011*"look"
+2017-12-09 20:52:09,444 : INFO : topic diff=0.046847, rho=0.208514
+2017-12-09 20:52:09,446 : INFO : PROGRESS: pass 9, at document #26000/26490
+2017-12-09 20:52:13,173 : INFO : merging changes from 2000 documents into a model of 26490 documents
+2017-12-09 20:52:13,258 : INFO : topic #1 (0.050): 0.037*"categori" + 0.036*"retail" + 0.031*"brand" + 0.030*"store" + 0.022*"share" + 0.020*"cloud" + 0.016*"sale" + 0.015*"promot" + 0.014*"data" + 0.013*"channel"
+2017-12-09 20:52:13,258 : INFO : topic #0 (0.050): 0.030*"NUM" + 0.021*"patient" + 0.020*"data" + 0.013*"think" + 0.013*"question" + 0.013*"launch" + 0.012*"product" + 0.011*"studi" + 0.009*"see" + 0.009*"u"
+2017-12-09 20:52:13,258 : INFO : topic #17 (0.050): 0.066*"NUM" + 0.027*"year" + 0.016*"rate" + 0.015*"go" + 0.015*"point" + 0.014*"guidanc" + 0.013*"think" + 0.013*"quarter" + 0.011*"impact" + 0.011*"basi"
+2017-12-09 20:52:13,259 : INFO : topic #13 (0.050): 0.028*"think" + 0.019*"network" + 0.013*"go" + 0.011*"devic" + 0.011*"content" + 0.009*"advertis" + 0.009*"video" + 0.008*"product" + 0.008*"wireless" + 0.008*"mobil"
+2017-12-09 20:52:13,259 : INFO : topic #6 (0.050): 0.055*"quarter" + 0.040*"year" + 0.022*"price" + 0.021*"see" + 0.017*"think" + 0.016*"first" + 0.014*"half" + 0.013*"expect" + 0.013*"second" + 0.012*"NUM"
+2017-12-09 20:52:13,261 : INFO : topic diff=0.044188, rho=0.208514
+2017-12-09 20:52:15,684 : INFO : -6.915 per-word bound, 120.7 perplexity estimate based on a held-out corpus of 490 documents with 41952 words
+2017-12-09 20:52:15,684 : INFO : PROGRESS: pass 9, at document #26490/26490
+2017-12-09 20:52:16,571 : INFO : merging changes from 490 documents into a model of 26490 documents
+2017-12-09 20:52:16,659 : INFO : topic #10 (0.050): 0.025*"think" + 0.017*"continu" + 0.016*"go" + 0.015*"busi" + 0.014*"make" + 0.013*"realli" + 0.013*"us" + 0.013*"invest" + 0.013*"look" + 0.012*"term"
+2017-12-09 20:52:16,660 : INFO : topic #1 (0.050): 0.037*"retail" + 0.035*"categori" + 0.031*"store" + 0.029*"brand" + 0.025*"share" + 0.018*"cloud" + 0.015*"sale" + 0.015*"promot" + 0.014*"new" + 0.013*"data"
+2017-12-09 20:52:16,660 : INFO : topic #12 (0.050): 0.051*"thank" + 0.044*"question" + 0.031*"mayb" + 0.023*"littl" + 0.022*"bit" + 0.021*"talk" + 0.018*"guy" + 0.018*"guess" + 0.017*"wonder" + 0.017*"like"
+2017-12-09 20:52:16,661 : INFO : topic #7 (0.050): 0.051*"cost" + 0.038*"expens" + 0.023*"busi" + 0.022*"revenu" + 0.022*"invest" + 0.021*"spend" + 0.021*"oper" + 0.019*"line" + 0.014*"ratio" + 0.013*"effici"
+2017-12-09 20:52:16,661 : INFO : topic #13 (0.050): 0.029*"think" + 0.019*"network" + 0.013*"go" + 0.010*"content" + 0.010*"devic" + 0.009*"advertis" + 0.009*"channel" + 0.008*"video" + 0.008*"product" + 0.007*"one"
+2017-12-09 20:52:16,663 : INFO : topic diff=0.056718, rho=0.208514
