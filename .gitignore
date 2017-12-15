@@ -1,0 +1,5 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Particularly large files
+**/topic_scores.txt
