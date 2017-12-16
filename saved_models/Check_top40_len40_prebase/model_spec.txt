@@ -1,0 +1,1 @@
+{"model_directory": "saved_models/Check_top40_len40_prebase", "min_sequence_length": 40, "preprocessing_function": "testLDA_pre_process_document", "num_topics": 40, "iterations": 100, "passes": 20, "qa_pair_directory": "saved_models/standard_preproc", "description": "Topics 40, Min Length 40, base preprocessing, passes20, iterations100"}
