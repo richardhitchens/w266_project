@@ -1,1 +1,0 @@
-{"min_sequence_length": 20, "model_directory": "saved_models/top20_len20_prebase_df5", "preprocessing_function": "testLDA_pre_process_document", "description": "Topics 20, Min Length 20, base plus df 0.05 threshold", "iterations": 100, "passes": 20, "qa_pair_directory": "saved_models/base_plus_df5", "num_topics": 20}
