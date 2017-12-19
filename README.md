@@ -1,10 +1,10 @@
-# MAIN REPO FOR 266 CLASS project
-#
-# Richard Hitchens, Tom Seddon
+# MAIN REPO FOR 266 CLASS project   
+# Richard Hitchens, Tom Seddon  
+# richard.hitchens@ischool.berkeley.edu, seddon@berkeley.edu  
 
-Data files
-----------
-Raw conference call transcripts stored in four directories:
+Data files  
+----------  
+Raw conference call transcripts stored in four directories:  
 T1  
 T2  
 T3  
@@ -16,12 +16,12 @@ Main Analysis Notebooks
 Analysis and results in report and presentation generated from the following
 notebooks:  
 
-Fullset_NLP_1209_TS_CHanges.ipynb       -- cleaning, parsing, baseline
-Building_models_1215_TS.ipynb           -- building LDA models
-Evaluating_coherence_1215_TS.ipynb      -- topic coherence analysis
-Evaluating_topics_1215_TS.ipynb         -- other topic evaluation and display
-Evaluating_similarities_1215_TS.ipynb   -- q and a similarity analysis
-Chart_portfolios_1216_TS.ipynb          -- charting portfolio returns
+Fullset_NLP_1209_TS_CHanges.ipynb       -- cleaning, parsing, baseline  
+Building_models_1215_TS.ipynb           -- building LDA models  
+Evaluating_coherence_1215_TS.ipynb      -- topic coherence analysis  
+Evaluating_topics_1215_TS.ipynb         -- other topic evaluation and display  
+Evaluating_similarities_1215_TS.ipynb   -- q and a similarity analysis  
+Chart_portfolios_1216_TS.ipynb          -- charting portfolio returns  
 
 
 Model files
