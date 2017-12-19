@@ -1,6 +1,6 @@
 # MAIN REPO FOR 266 CLASS project   
 # Richard Hitchens, Tom Seddon  
-# richard.hitchens@ischool.berkeley.edu, seddon@berkeley.edu  
+richard.hitchens@ischool.berkeley.edu, seddon@berkeley.edu  
 
 Data files  
 ----------  
